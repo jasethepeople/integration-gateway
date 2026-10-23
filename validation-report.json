@@ -1,0 +1,10398 @@
+{
+  "generatedAt": "2026-10-20T11:43:30.255Z",
+  "components": 14675,
+  "imported": 11468,
+  "quarantined": 3202,
+  "quarantinedCrossApp": 0,
+  "failed": [
+    {
+      "target": "external/daffy/create-donation",
+      "error": "defineApp is not defined"
+    },
+    {
+      "target": "external/daffy/list-cause-id-options",
+      "error": "defineApp is not defined"
+    },
+    {
+      "target": "external/notiff/create-notification",
+      "error": "Cannot convert undefined or null to object"
+    },
+    {
+      "target": "external/sftp_password_based_auth/upload-file",
+      "error": "Cannot destructure 'component.props' as it is undefined."
+    },
+    {
+      "target": "external/sftp_password_based_auth/watch-remote-directory",
+      "error": "Cannot destructure 'component.props' as it is undefined."
+    }
+  ],
+  "executedSample": [
+    {
+      "target": "external/_0codekit/compress-pdf",
+      "ok": true,
+      "threw": "getFileStream: url is required"
+    },
+    {
+      "target": "external/_0codekit/read-barcode",
+      "ok": true,
+      "threw": "getFileStream: url is required"
+    },
+    {
+      "target": "external/_2chat/check-phone-number-whatsapp",
+      "ok": true,
+      "resultType": "object"
+    },
+    {
+      "target": "external/_2chat/list-from-number-options",
+      "ok": true,
+      "threw": "Cannot read properties of undefined (reading 'map')"
+    },
+    {
+      "target": "external/_2chat/create-contact",
+      "ok": true,
+      "resultType": "object"
+    },
+    {
+      "target": "external/_2chat/send-whatsapp-text-message",
+      "ok": true,
+      "resultType": "object"
+    },
+    {
+      "target": "external/_1crm/create-contact",
+      "ok": true,
+      "resultType": "object"
+    },
+    {
+      "target": "external/_1crm/create-lead",
+      "ok": true,
+      "resultType": "object"
+    },
+    {
+      "target": "external/_1crm/update-contact",
+      "ok": true,
+      "resultType": "object"
+    },
+    {
+      "target": "external/_1crm/update-lead",
+      "ok": true,
+      "resultType": "object"
+    },
+    {
+      "target": "external/_2markdown/html-to-markdown",
+      "ok": true,
+      "resultType": "object"
+    },
+    {
+      "target": "external/_2markdown/url-to-markdown",
+      "ok": true,
+      "resultType": "object"
+    },
+    {
+      "target": "external/_302_ai/create-embeddings",
+      "ok": true,
+      "threw": "this.input.entries is not a function or its return value is not iterable"
+    },
+    {
+      "target": "external/_302_ai/list-chat-completion-model-id-options",
+      "ok": true,
+      "threw": "models.filter is not a function"
+    },
+    {
+      "target": "external/_302_ai/list-model-id-options",
+      "ok": true,
+      "threw": "models.map is not a function"
+    },
+    {
+      "target": "external/_302_ai/list-embeddings-model-id-options",
+      "ok": true,
+      "threw": "models.filter is not a function"
+    },
+    {
+      "target": "external/_360nrs/list-phone-number-options",
+      "ok": true,
+      "threw": "data.map is not a function"
+    },
+    {
+      "target": "external/_302_ai/chat-using-functions",
+      "ok": true,
+      "resultType": "object"
+    },
+    {
+      "target": "external/_302_ai/chat-with-302-ai",
+      "ok": true,
+      "threw": "Cannot read properties of undefined (reading '0')"
+    },
+    {
+      "target": "external/_302_ai/summarize-text",
+      "ok": true,
+      "resultType": "object"
+    }
+  ],
+  "totals": {
+    "_0codekit": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "_1crm": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "_21risk": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "_2chat": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "_2markdown": {
+      "imported": 2,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "_302_ai": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "_360nrs": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "_46elks": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "_4dem": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "_8x8_connect": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "_descript": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "_twocaptcha": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "a123formbuilder": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ably": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "abstract": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "abyssale": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "accelo": {
+      "imported": 11,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "accredible": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "accuranker": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "accuweather": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "acelle_mail": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "actitime": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "activecalculator": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "activecampaign": {
+      "imported": 0,
+      "quarantined": 38,
+      "failed": 0
+    },
+    "acuity_scheduling": {
+      "imported": 14,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "acumbamail": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "acymailing": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "adalo": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "add_to_calendar_pro": {
+      "imported": 30,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "addevent": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "addressfinder": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "addresszen": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "adhook": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "adobe_pdf_services": {
+      "imported": 0,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "adobe_photoshop": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "adrapid": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "adroll": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "adversus": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "adyen": {
+      "imported": 0,
+      "quarantined": 5,
+      "failed": 0
+    },
+    "adyntel": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "aero_workflow": {
+      "imported": 13,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "aevent": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "affinda": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "afosto": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "aftership": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "agendor": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "agentset": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "agify": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "agile_crm": {
+      "imported": 16,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "agiled": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "agiliron": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "agility_cms": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "agrello": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ahrefs": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ai_textraction": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "aidaform": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "aidbase": {
+      "imported": 12,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "airbrake": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "aircall": {
+      "imported": 12,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "airfocus": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "airmeet": {
+      "imported": 2,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "airops": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "airparser": {
+      "imported": 3,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "airplane": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "airslate": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "airtable_oauth": {
+      "imported": 0,
+      "quarantined": 27,
+      "failed": 0
+    },
+    "airtop": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "airweave": {
+      "imported": 0,
+      "quarantined": 7,
+      "failed": 0
+    },
+    "aitable_ai": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "aivoov": {
+      "imported": 0,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "akeneo": {
+      "imported": 11,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "akismet": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "akkio": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "albus": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "alchemy": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "alegra": {
+      "imported": 13,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "alerty": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "algodocs": {
+      "imported": 5,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "algolia": {
+      "imported": 0,
+      "quarantined": 4,
+      "failed": 0
+    },
+    "algomo": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "all_images_ai": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "allocadence": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "alpaca": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "alt_text_generator_ai": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "altiria": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "altoviz": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "alttext_ai": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "alttextify": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "alttextlab": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "amara": {
+      "imported": 22,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "amazon_alexa": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "amazon_selling_partner": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "amazon_ses": {
+      "imported": 0,
+      "quarantined": 5,
+      "failed": 0
+    },
+    "ambivo": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "americommerce": {
+      "imported": 13,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "amilia": {
+      "imported": 0,
+      "quarantined": 7,
+      "failed": 0
+    },
+    "amplitude": {
+      "imported": 0,
+      "quarantined": 11,
+      "failed": 0
+    },
+    "amqp": {
+      "imported": 0,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "anchor_browser": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "announcekit": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "anonyflow": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "anthropic": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "anymail_finder": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "apexverify": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "api4ai": {
+      "imported": 0,
+      "quarantined": 7,
+      "failed": 0
+    },
+    "api_ninjas": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "apiary": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "apify": {
+      "imported": 0,
+      "quarantined": 9,
+      "failed": 0
+    },
+    "apiverve": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "apollo_io": {
+      "imported": 30,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "apollo_io_oauth": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "appdrag": {
+      "imported": 0,
+      "quarantined": 4,
+      "failed": 0
+    },
+    "appointedd": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "appointo": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "appsflyer": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "appwrite": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "arcgis_online": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "are_na": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "arlo": {
+      "imported": 0,
+      "quarantined": 10,
+      "failed": 0
+    },
+    "arxiv": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "asana": {
+      "imported": 39,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ascora": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ashby": {
+      "imported": 11,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ashby_job_postings_api": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "asin_data_api": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "asknicely": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "askyourpdf": {
+      "imported": 0,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "assemblyai": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "asters": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "astica_ai": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "async_interview": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "attio": {
+      "imported": 19,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "attractwell": {
+      "imported": 12,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "auth0_management_api": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "autoblogger": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "autobound": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "autodesk": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "autom": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "automatic_data_extraction": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "autotask_psa": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "avinode": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "awardco": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "aweber": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "awork": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "aws": {
+      "imported": 0,
+      "quarantined": 34,
+      "failed": 0
+    },
+    "axesso_data_service": {
+      "imported": 0,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "axonaut": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ayrshare": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "azure_ai_vision": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "azure_devops": {
+      "imported": 74,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "azure_devops_microsoft_entra_id_oauth": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "azure_openai_service": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "azure_sql": {
+      "imported": 0,
+      "quarantined": 6,
+      "failed": 0
+    },
+    "azure_storage": {
+      "imported": 0,
+      "quarantined": 7,
+      "failed": 0
+    },
+    "badger_maps": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "bamboohr": {
+      "imported": 51,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "bannerbear": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "bannerify": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "barcode_lookup": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "baremetrics": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "basecamp": {
+      "imported": 13,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "baselinker": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "bash": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "basin": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "beaconchain": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "beanstalkapp": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "beebole_app": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "beekeeper": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "belco": {
+      "imported": 22,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "benchmarkone": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "better_stack": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "big_cartel": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "big_data_cloud": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "bigcommerce": {
+      "imported": 0,
+      "quarantined": 12,
+      "failed": 0
+    },
+    "bigdatacorp": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "bigmailer": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "bigml": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "bilflo": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "bilig_workpaper": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "bilionis": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "billbee": {
+      "imported": 19,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "billsby": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "bingx": {
+      "imported": 25,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "bippybox": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "bitbucket": {
+      "imported": 0,
+      "quarantined": 15,
+      "failed": 0
+    },
+    "bitdefender_gravityzone": {
+      "imported": 11,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "bitget": {
+      "imported": 42,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "bitly": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "bitmex": {
+      "imported": 0,
+      "quarantined": 7,
+      "failed": 0
+    },
+    "bitport": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "bland_ai": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "blazemeter": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "blink": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "blocknative": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "blogger": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "blogify": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "bloom_growth": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "bloomerang": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "blotato": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "bluecart_api": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "bluesky": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "bluesky_by_unshape": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "bluesnap": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "bol_com": {
+      "imported": 14,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "boldsign": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "boloforms": {
+      "imported": 3,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "bonusly": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "booking_experts": {
+      "imported": 28,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "booqable": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "bot9": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "botcake": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "botconversa": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "botpenguin": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "botpress": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "botstar": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "bouncer": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "box": {
+      "imported": 19,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "boxhero": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "brainbase_labs": {
+      "imported": 27,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "braintree": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "brave_search_api": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "breathe": {
+      "imported": 12,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "breeze": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "breezy_hr": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "brevo": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "brex": {
+      "imported": 0,
+      "quarantined": 22,
+      "failed": 0
+    },
+    "brex_staging": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "bridge_interactive_platform": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "bright_data": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "brilliant_directories": {
+      "imported": 0,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "brillium": {
+      "imported": 11,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "brosix": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "browse_ai": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "browser_use": {
+      "imported": 25,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "browserbase": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "browserhub": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "browserless": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "browserstack": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "btcpay_server": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "bubble": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "buddee": {
+      "imported": 19,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "bugbug": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "bugherd": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "bugsnag": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "buildchatbot": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "buildkite": {
+      "imported": 15,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "builtwith": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "bulkgate": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "bunnydoc": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "burstyai": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "business_edge": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "businesslogic": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "buysellads": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "bybit": {
+      "imported": 0,
+      "quarantined": 33,
+      "failed": 0
+    },
+    "byteforms": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "bytenite": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "cal_com": {
+      "imported": 0,
+      "quarantined": 10,
+      "failed": 0
+    },
+    "calendarhero": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "calendly_v2": {
+      "imported": 13,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "callerapi": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "callhub": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "callingly": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "callpage": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "callrail": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "campaign_cleaner": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "campaign_monitor": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "campaignhq": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "campayn": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "canny": {
+      "imported": 13,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "canva": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "canva_enterprise": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "canvas": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "capturekit": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "cardly": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "caspio": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "castmagic": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "cats": {
+      "imported": 12,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "centralstationcrm": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "cerebras": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "certifier": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "chainaware_ai": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "chaindesk": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "change_photos": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "changes_page": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "channable": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "chargebee": {
+      "imported": 0,
+      "quarantined": 24,
+      "failed": 0
+    },
+    "chargeblast": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "chargekeep": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "chargify": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "charthop": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "chartmogul": {
+      "imported": 22,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "chaser": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "chat_api_for_whatsapp": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "chat_data": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "chatbot": {
+      "imported": 2,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "chatbot_builder": {
+      "imported": 2,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "chatbotkit": {
+      "imported": 7,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "chatfai": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "chatfly": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "chatforma": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "chatlayer": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "chatpdf": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "chattermill": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "chatwork": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "checkvist": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "cheddar": {
+      "imported": 0,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "chmeetings": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "cinc": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "cincopa": {
+      "imported": 4,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "circle": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "circleci": {
+      "imported": 3,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "cisco_meraki": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "cisco_webex": {
+      "imported": 3,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "civicrm": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "claap": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "claid_ai": {
+      "imported": 0,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "clear_books": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "clearbit": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "clearly_defined": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "clearout": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "clerk": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "cleverreach": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "clevertap": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "click2mail2": {
+      "imported": 4,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "clickfunnels": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "clickhelp": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "clicksend": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "clicktime": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "clickup": {
+      "imported": 0,
+      "quarantined": 59,
+      "failed": 0
+    },
+    "clientify": {
+      "imported": 5,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "cliento": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "clinchpad": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "cliniko": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "clio": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "clockify": {
+      "imported": 24,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "clockwork_recruiting": {
+      "imported": 13,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "close": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "cloud_convert": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "cloudbeds": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "cloudcart": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "cloudflare_api_key": {
+      "imported": 0,
+      "quarantined": 19,
+      "failed": 0
+    },
+    "cloudflare_browser_rendering": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "cloudinary": {
+      "imported": 0,
+      "quarantined": 4,
+      "failed": 0
+    },
+    "cloudpresenter": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "cloudpress": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "cloudtables": {
+      "imported": 0,
+      "quarantined": 4,
+      "failed": 0
+    },
+    "cloze": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "coda": {
+      "imported": 16,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "codacy": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "codat": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "code_climate": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "codemagic": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "codeq_natural_language_processing_api": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "codeqr": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "codereadr": {
+      "imported": 0,
+      "quarantined": 5,
+      "failed": 0
+    },
+    "codescene": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "codex": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "cody": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "cogmento": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "cohere_platform": {
+      "imported": 0,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "coinbase": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "coinbase_developer_platform": {
+      "imported": 0,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "coincatch": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "coingecko": {
+      "imported": 12,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "coinmarketcal": {
+      "imported": 3,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "coinmarketcap": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "columns_ai": {
+      "imported": 0,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "cometly": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "commerce_tools": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "commpeak": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "companycam": {
+      "imported": 4,
+      "quarantined": 6,
+      "failed": 0
+    },
+    "companyhub": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "confection": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "confluence": {
+      "imported": 14,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "confluence_data_center": {
+      "imported": 13,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "connecteam": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "connectwise_psa": {
+      "imported": 22,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "constant_contact": {
+      "imported": 7,
+      "quarantined": 4,
+      "failed": 0
+    },
+    "consulta_unica": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "contact_enhance": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "contactout": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "content_snare": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "contentgroove": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "contentstack": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "control_d": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "convenia": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "convertapi": {
+      "imported": 0,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "convertkit": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "convolo_ai": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "copper": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "copperx": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "corporate_merch": {
+      "imported": 11,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "countdown_api": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "coupontools": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "cradl_ai": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "craftboxx": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "craftmypdf": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "crawlbase": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "credit_repair_cloud": {
+      "imported": 0,
+      "quarantined": 4,
+      "failed": 0
+    },
+    "crimeometer": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "crisp": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "cronfree": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "crove_app": {
+      "imported": 12,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "crowdin": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "crowdpower": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "crowdstrike_falcon": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "crunchbase": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "csvbox": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "cufinder": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "curated": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "cursor": {
+      "imported": 6,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "customer_fields": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "customer_io": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "customgpt": {
+      "imported": 4,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "customjs": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "cutt_ly": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "cyfe": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "d7_networks": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dachser": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "daffy": {
+      "imported": 0,
+      "quarantined": 1,
+      "failed": 2
+    },
+    "dailybot": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dappier": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dart": {
+      "imported": 18,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "data_police_uk": {
+      "imported": 3,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "data_stores": {
+      "imported": 13,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "database": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "databox": {
+      "imported": 0,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "databricks": {
+      "imported": 42,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "datadog": {
+      "imported": 0,
+      "quarantined": 12,
+      "failed": 0
+    },
+    "dataforb2b": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dataforseo": {
+      "imported": 57,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dataiku": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dayschedule": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "daytona": {
+      "imported": 0,
+      "quarantined": 16,
+      "failed": 0
+    },
+    "dbt": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dealcloud": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dealmachine": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dear": {
+      "imported": 0,
+      "quarantined": 20,
+      "failed": 0
+    },
+    "decision_journal": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "decodo": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "deel": {
+      "imported": 23,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "deepgram": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "deepimage": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "deepseek": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "defastra": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "deftship": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "delighted": {
+      "imported": 0,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "delivery_march": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "demio": {
+      "imported": 0,
+      "quarantined": 4,
+      "failed": 0
+    },
+    "deployhq": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "deputy": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "desktime": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "detectify": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dev_to": {
+      "imported": 0,
+      "quarantined": 4,
+      "failed": 0
+    },
+    "devin": {
+      "imported": 12,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "devrev": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dex": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dexatel": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dext": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dhl": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dhl_parcel": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "diabatix_coldstream": {
+      "imported": 5,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "dictionary_api": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "diffbot": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "diffchecker": {
+      "imported": 1,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "diffy": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dify": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "digistore24": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "digital_ocean": {
+      "imported": 0,
+      "quarantined": 6,
+      "failed": 0
+    },
+    "digitalocean_spaces": {
+      "imported": 0,
+      "quarantined": 6,
+      "failed": 0
+    },
+    "digitalriver": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dingconnect": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "discogs": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "discord": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "discord_bot": {
+      "imported": 0,
+      "quarantined": 27,
+      "failed": 0
+    },
+    "discourse": {
+      "imported": 0,
+      "quarantined": 7,
+      "failed": 0
+    },
+    "dispatch": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ditlead": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dixa": {
+      "imported": 21,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dnsfilter": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dock_certs": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "docmosis": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "docnify": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "docparser": {
+      "imported": 2,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "docsautomator": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "docsbot_ai": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "docsumo": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "docugenerate": {
+      "imported": 10,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "documenso": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "document360": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "documenterra": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "documentpro": {
+      "imported": 2,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "documerge": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "documint": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "docupost": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "docusign": {
+      "imported": 15,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "docusign_developer": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "docuwriter_ai": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dolibarr": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "domain_group": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "donately": {
+      "imported": 12,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "donedone": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "doppler_marketing_automation": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dopplerai": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dotsimple": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dpd2": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dpd_connect": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dpd_shipping": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "drata": {
+      "imported": 19,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "dreamdata": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dreamstudio": {
+      "imported": 1,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "dribbble": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "drift": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "drimify": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "drip": {
+      "imported": 11,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dromo": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dropboard": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dropbox": {
+      "imported": 0,
+      "quarantined": 22,
+      "failed": 0
+    },
+    "dropcontact": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dropinblog": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dropmark": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dub": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dust": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dux_soup": {
+      "imported": 0,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "dynalist": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dynamic_content_snippet": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dynamics_365_business_central_api": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "dynapictures": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "e2b": {
+      "imported": 0,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "e_conomic": {
+      "imported": 16,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "easy_peasy_ai": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "easybroker": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "easyly": {
+      "imported": 1,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "easypromos": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "easysendy": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "easyship": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "echtpost_postcards": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ecologi": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ecwid": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "eden_ai": {
+      "imported": 4,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "educateme": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "edusign": {
+      "imported": 12,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "egnyte": {
+      "imported": 0,
+      "quarantined": 8,
+      "failed": 0
+    },
+    "elastic_cloud": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "elastic_email": {
+      "imported": 19,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "elastic_security": {
+      "imported": 11,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "element": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "elevenlabs": {
+      "imported": 10,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "elevio": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "elmah_io": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "elopage": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "elorus": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "email": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "email_verifier_api": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "emailable": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "emaillistverify": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "emailoctopus": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "emboss": {
+      "imported": 1,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "encharge": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "encodian": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "endorsal": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "enedis": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "engage": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "enrich_layer": {
+      "imported": 25,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "enrichley": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "enrow": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "envoy": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "eodhd_apis": {
+      "imported": 4,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "eppo": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "epsy": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "error": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "esendex": {
+      "imported": 3,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "esignatures_io": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "espocrm": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "esputnik": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "espy": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "estreamdesk": {
+      "imported": 0,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "etermin": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "etrusted": {
+      "imported": 11,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "etsy": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "evenium": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "eventbrite": {
+      "imported": 0,
+      "quarantined": 13,
+      "failed": 0
+    },
+    "eventee": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "eventzilla": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "everhour": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "evernote": {
+      "imported": 0,
+      "quarantined": 12,
+      "failed": 0
+    },
+    "eversign": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "everstox": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ewebinar": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "exa": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "exact": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "excalidraw": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "exhibitday": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "expedy": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "explorium": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "expofp": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ezeep_blue": {
+      "imported": 3,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "f15five": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "facebook_groups": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "facebook_marketing": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "facebook_pages": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "faceup": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "faktoora": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "fakturoid": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "fal_ai": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "faraday": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "fathom": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "faunadb": {
+      "imported": 0,
+      "quarantined": 5,
+      "failed": 0
+    },
+    "favro": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "featherless": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "fedex": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "feedbin": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "fellow": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "fibery": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "fidel_api": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "figma": {
+      "imported": 3,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "fileforge": {
+      "imported": 0,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "filepost": {
+      "imported": 4,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "filestack": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "filetopdf_dev": {
+      "imported": 3,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "fillout": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "finage": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "finalscout": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "findymail": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "finerworks": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "finmei": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "finnhub": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "firebase_admin_sdk": {
+      "imported": 0,
+      "quarantined": 8,
+      "failed": 0
+    },
+    "fireberry": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "firecrawl": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "firefish": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "fireflies": {
+      "imported": 17,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "firmao": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "fitbit": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "fixer_io": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "flash_by_velora_ai": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "flexisign": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "flexmail": {
+      "imported": 9,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "flipando": {
+      "imported": 2,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "flippingbook": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "float": {
+      "imported": 13,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "flock": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "flodesk": {
+      "imported": 8,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "flowiseai": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "flowla": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "flutterwave": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "fluxguard": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "fly_io": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "fogbugz": {
+      "imported": 13,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "fomo": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "forcemanager": {
+      "imported": 11,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "form_io": {
+      "imported": 20,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "form_taxi": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "formaloo": {
+      "imported": 1,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "formbricks": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "formcarry": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "formpress": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "formsite": {
+      "imported": 1,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "formstack": {
+      "imported": 5,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "formstack_documents": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "fortnox": {
+      "imported": 21,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "foursquare": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "fractel": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "frame": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "fraudlabs_pro": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "freeagent": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "freedcamp": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "freshbooks": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "freshchat": {
+      "imported": 13,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "freshdesk": {
+      "imported": 56,
+      "quarantined": 5,
+      "failed": 0
+    },
+    "freshlearn": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "freshmarketer": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "freshsales": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "freshservice": {
+      "imported": 15,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "frontapp": {
+      "imported": 0,
+      "quarantined": 31,
+      "failed": 0
+    },
+    "frontegg": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ftrack": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "full_contact": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "fullenrich": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "fullstory": {
+      "imported": 1,
+      "quarantined": 5,
+      "failed": 0
+    },
+    "fynk": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "gagelist": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "gainsight_nxt": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "gainsight_px": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "gami5d": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "gan_ai": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "gatherup": {
+      "imported": 2,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "geckoboard": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "gem": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "genderapi_io": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "genderize": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "generated_photos": {
+      "imported": 2,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "geoapify": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "geodb_cities": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "geokeo": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "getaccept": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "getemails": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "getform": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "getprospect": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "getresponse": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "getscreenshot": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "getty_images": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ghost_org_admin_api": {
+      "imported": 0,
+      "quarantined": 10,
+      "failed": 0
+    },
+    "ghost_org_content_api": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "giantcampaign": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "gigasheet": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "giphy": {
+      "imported": 2,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "gist": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "gistly": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "gitlab": {
+      "imported": 0,
+      "quarantined": 38,
+      "failed": 0
+    },
+    "givebutter": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "gladia": {
+      "imported": 0,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "gleap": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "glide": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "gloria_ai": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "gloww": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "gmail": {
+      "imported": 0,
+      "quarantined": 24,
+      "failed": 0
+    },
+    "go": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "gocanvas": {
+      "imported": 0,
+      "quarantined": 5,
+      "failed": 0
+    },
+    "godaddy": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "godial": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "goformz": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "gong": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "goodbits": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "goody": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "google_ad_manager": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "google_ads": {
+      "imported": 40,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "google_analytics": {
+      "imported": 0,
+      "quarantined": 7,
+      "failed": 0
+    },
+    "google_appsheet": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "google_calendar": {
+      "imported": 0,
+      "quarantined": 23,
+      "failed": 0
+    },
+    "google_chat": {
+      "imported": 9,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "google_classroom": {
+      "imported": 0,
+      "quarantined": 6,
+      "failed": 0
+    },
+    "google_cloud": {
+      "imported": 0,
+      "quarantined": 25,
+      "failed": 0
+    },
+    "google_cloud_translate": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "google_cloud_vision_api": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "google_contacts": {
+      "imported": 0,
+      "quarantined": 16,
+      "failed": 0
+    },
+    "google_dialogflow": {
+      "imported": 0,
+      "quarantined": 20,
+      "failed": 0
+    },
+    "google_directory": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "google_docs": {
+      "imported": 0,
+      "quarantined": 26,
+      "failed": 0
+    },
+    "google_drive": {
+      "imported": 0,
+      "quarantined": 66,
+      "failed": 0
+    },
+    "google_forms": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "google_gemini": {
+      "imported": 2,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "google_health": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "google_maps_platform": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "google_meet": {
+      "imported": 0,
+      "quarantined": 7,
+      "failed": 0
+    },
+    "google_merchant_center": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "google_palm_api": {
+      "imported": 0,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "google_photos": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "google_postmaster_tools_api": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "google_safebrowsing": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "google_search_console": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "google_sheets": {
+      "imported": 0,
+      "quarantined": 51,
+      "failed": 0
+    },
+    "google_slides": {
+      "imported": 0,
+      "quarantined": 25,
+      "failed": 0
+    },
+    "google_tag_manager": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "google_tasks": {
+      "imported": 14,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "google_vertex_ai": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "gorgias_oauth": {
+      "imported": 29,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "gorillastack": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "gosquared": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "gotowebinar": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "govee": {
+      "imported": 0,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "gozen_growth": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "gpt_trainer": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "gptzero_detect_ai": {
+      "imported": 1,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "grabpenny": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "graceblocks": {
+      "imported": 4,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "grafana": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "grain": {
+      "imported": 18,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "granola": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "gravity_forms": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "greenhouse": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "greptile": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "griptape": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "grist": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "groqcloud": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "growsurf": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "gryd": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "gtmetrix": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "gumroad": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "gupshup": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "guru": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "h_supertools_analytics_tool": {
+      "imported": 3,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "habitica": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "habitify": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "hackerone": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "hamsa": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "hana": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "hansei": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "happy_scribe": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "harpa_ai": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "harvest": {
+      "imported": 0,
+      "quarantined": 39,
+      "failed": 0
+    },
+    "hathr_ai": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "heartbeat": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "hedy": {
+      "imported": 19,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "heedjy": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "height": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "helloleads": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "hellosign": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "help_scout": {
+      "imported": 19,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "help_scout_api_keys": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "helpcrunch": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "helpdocs": {
+      "imported": 13,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "helper_functions": {
+      "imported": 12,
+      "quarantined": 10,
+      "failed": 0
+    },
+    "helpspace": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "helpspot": {
+      "imported": 13,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "helpwise": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "herobot_chatbot_marketing": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "heroku": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "hex": {
+      "imported": 11,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "heygen": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "heylibby": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "heysummit": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "heyy": {
+      "imported": 5,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "heyzine": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "highergov": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "highlevel_oauth": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "hippo_video": {
+      "imported": 4,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "hive": {
+      "imported": 3,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "hiver": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "holded": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "home_connect": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "homerun": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "honeybadger": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "hookdeck": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "hootsuite": {
+      "imported": 4,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "hostaway": {
+      "imported": 9,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "hotmart": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "hotspotsystem": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "howuku": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "hr_cloud": {
+      "imported": 11,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "html_2_pdf": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "html_css_to_image": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "html_to_image": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "http": {
+      "imported": 8,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "https_airbyte_com": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "hubspot": {
+      "imported": 0,
+      "quarantined": 135,
+      "failed": 0
+    },
+    "hubstaff": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "hugging_face": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "hullo": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "humanitix": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "humor_api": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "hunter": {
+      "imported": 13,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "hypeauditor": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "hyperise": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "hyros": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "iauditor_by_safetyculture": {
+      "imported": 10,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "ical": {
+      "imported": 0,
+      "quarantined": 5,
+      "failed": 0
+    },
+    "icontact": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "icypeas": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ideal_postcodes": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "identitycheck": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ifthenpay": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ifttt": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ignisign": {
+      "imported": 7,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "ikas": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "illumidesk": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ilovepdf": {
+      "imported": 1,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "imagekit_io": {
+      "imported": 3,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "imagga": {
+      "imported": 1,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "imagior": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "imap": {
+      "imported": 0,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "imgbb": {
+      "imported": 0,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "incorta": {
+      "imported": 0,
+      "quarantined": 4,
+      "failed": 0
+    },
+    "indiefunnels": {
+      "imported": 12,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "infinity": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "influxdb_cloud": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "infobip": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "infolobby": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "inksprout": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "inmobile": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "inoreader": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "insertchat": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "insightly": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "insighto_ai": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "insites": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "instagram_business": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "instantly": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "instapaper": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "intellexer_api": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "intellihr": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "intelliprint": {
+      "imported": 0,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "intercom": {
+      "imported": 28,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "interseller": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "interzoid": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "intuiface": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "invidious": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "invision_community": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "invoiced": {
+      "imported": 11,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ionos_hosting_services": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ip2geo": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ip2location": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ip2location_io": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ip2proxy": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ip2whois": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ipbase": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ipdata_co": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ipgeolocation": {
+      "imported": 12,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ipinfo_io": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ipstack": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ironclad": {
+      "imported": 20,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ispring_learn": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "issue_badge": {
+      "imported": 3,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "iterate": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "jenkins": {
+      "imported": 0,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "jibble": {
+      "imported": 11,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "jigsawstack": {
+      "imported": 2,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "jina_reader": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "jira": {
+      "imported": 41,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "jira_data_center": {
+      "imported": 26,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "jira_service_desk": {
+      "imported": 0,
+      "quarantined": 22,
+      "failed": 0
+    },
+    "jo4": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "jobber": {
+      "imported": 5,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "jobnimbus": {
+      "imported": 14,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "joggai": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "joomla": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "jooto": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "jotform": {
+      "imported": 0,
+      "quarantined": 6,
+      "failed": 0
+    },
+    "jp_funda": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "judge_me": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "jumpseller": {
+      "imported": 5,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "justcall": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "jvzoo": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "jw_player": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "kadoa": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "kaleido": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "kanban_tool": {
+      "imported": 25,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "kanbanize": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "keboola": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "kenjo": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "keycloak": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "keysender": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "kickbox": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "kickofflabs": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "kindo": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "kingsumo": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "kintone": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "kite_suite": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "kiwihr": {
+      "imported": 0,
+      "quarantined": 8,
+      "failed": 0
+    },
+    "kiyoh": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "kizeo_forms": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "klaviyo": {
+      "imported": 0,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "klaxoon": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "klazify": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "klenty": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "klipfolio": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "klipy": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "knack": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "knocommerce": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "knorish": {
+      "imported": 5,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "knowfirst": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "kodagpt": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "komos": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "konfhub": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "kontent_ai": {
+      "imported": 0,
+      "quarantined": 10,
+      "failed": 0
+    },
+    "krispcall": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "kucoin_futures": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "kustomer": {
+      "imported": 20,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "kvdb": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "kwtsms": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "l2s": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "l3mbda": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "labsmobile": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "lamini": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "landbot": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "langbase": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "langfuse": {
+      "imported": 8,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "laposta": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "lastpass": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "launch27": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "launchdarkly": {
+      "imported": 10,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "launchnotes": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "lawmatics": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "leadboxer": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "leaddyno": {
+      "imported": 11,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "leadfeeder": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "leadiq": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "leadoku": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "leadzen_ai": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "leap": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "learnworlds": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "leexi": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "leiga": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "lemlist": {
+      "imported": 16,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "leonardo_ai": {
+      "imported": 4,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "lessonspace": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "letmepost": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "letterdrop": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "lettria": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "letzai": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "lever": {
+      "imported": 16,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "lexoffice": {
+      "imported": 1,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "libraria": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "lighthouse": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "lightspeed_ecom_c_series": {
+      "imported": 28,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "lightspeed_retail_pos": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "lightspeed_vt": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "lightspeed_x": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "limitless_ai": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "limoexpress": {
+      "imported": 11,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "line": {
+      "imported": 0,
+      "quarantined": 5,
+      "failed": 0
+    },
+    "line_messaging_api": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "linear": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "linear_app": {
+      "imported": 0,
+      "quarantined": 32,
+      "failed": 0
+    },
+    "linearb": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "linguapop": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "linkedin": {
+      "imported": 0,
+      "quarantined": 22,
+      "failed": 0
+    },
+    "linkedin_ads": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "linkly": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "linkup": {
+      "imported": 0,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "linkupapi": {
+      "imported": 14,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "listclean": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "listen_notes": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "listmonk": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "little_green_light": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "liveagent": {
+      "imported": 11,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "livekit": {
+      "imported": 0,
+      "quarantined": 7,
+      "failed": 0
+    },
+    "livesession": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "livestorm": {
+      "imported": 13,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "liveswitch": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "llama_ai": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "llmwhisperer": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "lmnt": {
+      "imported": 1,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "lnk_bio": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "lobste_rs": {
+      "imported": 0,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "local_reviews": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "lodgify": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "logfire": {
+      "imported": 0,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "loggly_send_data": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "lokalise": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "loop_returns": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "loopify": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "loopmessage": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "loops_so": {
+      "imported": 6,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "loyverse": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "lucca": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "luma": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "lumin_pdf": {
+      "imported": 5,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "lusha": {
+      "imported": 23,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "maestra": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "magnetic": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "mailblaze": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "mailcheck": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "mailchimp": {
+      "imported": 0,
+      "quarantined": 42,
+      "failed": 0
+    },
+    "mailercloud": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "mailerlite": {
+      "imported": 8,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "mailersend": {
+      "imported": 0,
+      "quarantined": 10,
+      "failed": 0
+    },
+    "mailgenius": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "mailgun": {
+      "imported": 0,
+      "quarantined": 22,
+      "failed": 0
+    },
+    "mailjet": {
+      "imported": 0,
+      "quarantined": 5,
+      "failed": 0
+    },
+    "mailmodo": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "mailosaur": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "mails_so": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "mailwizz": {
+      "imported": 0,
+      "quarantined": 8,
+      "failed": 0
+    },
+    "maintainx": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "mamo_business": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "mandrill": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "manychat": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "mapbox": {
+      "imported": 2,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "mapulus": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "mastodon": {
+      "imported": 0,
+      "quarantined": 25,
+      "failed": 0
+    },
+    "mautic": {
+      "imported": 10,
+      "quarantined": 4,
+      "failed": 0
+    },
+    "mboum": {
+      "imported": 45,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "mctime": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "medium": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "meetingpulse": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "meetstream_ai": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "megaventory": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "meistertask": {
+      "imported": 16,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "melo": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "mem": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "membado": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "memberful": {
+      "imported": 0,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "memberspot": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "memberstack": {
+      "imported": 0,
+      "quarantined": 7,
+      "failed": 0
+    },
+    "memento_database": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "memix": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "mercury": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "merge": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "mergemole": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "message_bird": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "metabase": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "metaphor": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "metatext_ai_pre_build_ai_models_api": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "meteomatics_weather_api": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "mews": {
+      "imported": 29,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "microsoft_365_people": {
+      "imported": 0,
+      "quarantined": 5,
+      "failed": 0
+    },
+    "microsoft_365_planner": {
+      "imported": 0,
+      "quarantined": 8,
+      "failed": 0
+    },
+    "microsoft_azure_ai_translator": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "microsoft_bookings": {
+      "imported": 0,
+      "quarantined": 10,
+      "failed": 0
+    },
+    "microsoft_clarity": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "microsoft_dynamics_365_sales": {
+      "imported": 26,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "microsoft_entra_id": {
+      "imported": 0,
+      "quarantined": 12,
+      "failed": 0
+    },
+    "microsoft_excel": {
+      "imported": 0,
+      "quarantined": 13,
+      "failed": 0
+    },
+    "microsoft_onedrive": {
+      "imported": 0,
+      "quarantined": 13,
+      "failed": 0
+    },
+    "microsoft_outlook": {
+      "imported": 0,
+      "quarantined": 30,
+      "failed": 0
+    },
+    "microsoft_outlook_calendar": {
+      "imported": 0,
+      "quarantined": 20,
+      "failed": 0
+    },
+    "microsoft_power_bi": {
+      "imported": 14,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "microsoft_sql_server": {
+      "imported": 0,
+      "quarantined": 6,
+      "failed": 0
+    },
+    "microsoft_teams": {
+      "imported": 0,
+      "quarantined": 18,
+      "failed": 0
+    },
+    "microsofttodo": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "miestro": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "mindbody": {
+      "imported": 12,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "minform": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "mintlify": {
+      "imported": 2,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "miro_custom_app": {
+      "imported": 17,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "missive": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "mistral_ai": {
+      "imported": 10,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "mixmax": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "mixpanel": {
+      "imported": 0,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "mixpanel_service_account": {
+      "imported": 11,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "moaform": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "mobygames": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "mocean_api": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "moco": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "mode": {
+      "imported": 16,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "modeck": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "modelry": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "mojo_helpdesk": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "momentum_ams": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "monday": {
+      "imported": 0,
+      "quarantined": 28,
+      "failed": 0
+    },
+    "moneybird": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "mongodb": {
+      "imported": 0,
+      "quarantined": 13,
+      "failed": 0
+    },
+    "monkeylearn": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "monta": {
+      "imported": 32,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "moodle": {
+      "imported": 27,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "moosend": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "more_trees_": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "morningmate": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "motion": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "motive": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "moxie": {
+      "imported": 5,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "msg91": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "muapi": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "mumble": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "muna": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "mural": {
+      "imported": 15,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "mux": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "mx_technologies": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "myotp_app": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "mysql": {
+      "imported": 0,
+      "quarantined": 14,
+      "failed": 0
+    },
+    "nango": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "nasdaq_data_link_time_series_and_table_data_": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "nationalize": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "nationbuilder": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "navan": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "navigatr": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ncscale": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "needle": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "neetoinvoice": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "neetokb": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "neo4j_auradb": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "neon_api_keys": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "neon_postgres": {
+      "imported": 0,
+      "quarantined": 12,
+      "failed": 0
+    },
+    "nethunt_crm": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "netlify": {
+      "imported": 0,
+      "quarantined": 8,
+      "failed": 0
+    },
+    "netsuite": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "neuronwriter": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "new_relic": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "new_sloth": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "new_york_times": {
+      "imported": 0,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "news_api": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "newscatcher": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "newsman": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "nextcloud": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "nextdoor": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "nextlead": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "nexweave": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ngrok": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "niceboard": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "nicereply": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "nifty": {
+      "imported": 11,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "niftykit": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "nile_database": {
+      "imported": 0,
+      "quarantined": 5,
+      "failed": 0
+    },
+    "nimble": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ninjaone": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "nioleads": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "nocodb": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "nocrm_io": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "node": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "noor": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "nordigen": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "northflank": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "noticeable": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "notiff": {
+      "imported": 0,
+      "quarantined": 0,
+      "failed": 1
+    },
+    "notiff_io": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "notion": {
+      "imported": 0,
+      "quarantined": 34,
+      "failed": 0
+    },
+    "npm": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ntfy": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "nuclino": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "nudgify": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "numverify": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "nutshell": {
+      "imported": 23,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "nyckel": {
+      "imported": 1,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "oanda": {
+      "imported": 5,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "obolus": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ocrspace": {
+      "imported": 0,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "octopush_sms": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "odoo": {
+      "imported": 0,
+      "quarantined": 8,
+      "failed": 0
+    },
+    "offlight": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "offorte": {
+      "imported": 15,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "okta": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ollama": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "omise": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "omniconvert": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "omnisend": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "omnivore": {
+      "imported": 0,
+      "quarantined": 4,
+      "failed": 0
+    },
+    "onbee_app": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "oncehub": {
+      "imported": 13,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "one_ai": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "onedesk": {
+      "imported": 13,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "onelogin": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "onenote": {
+      "imported": 10,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "onepagecrm": {
+      "imported": 11,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "onesignal_rest_api": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "onlinecheckwriter": {
+      "imported": 9,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "onlyoffice_docspace": {
+      "imported": 0,
+      "quarantined": 6,
+      "failed": 0
+    },
+    "onstrategy": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ontraport": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "open_exchange_rates": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "openai": {
+      "imported": 45,
+      "quarantined": 5,
+      "failed": 0
+    },
+    "opengraph_io": {
+      "imported": 0,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "openperplex": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "openphone": {
+      "imported": 0,
+      "quarantined": 21,
+      "failed": 0
+    },
+    "openrouter": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "opensea": {
+      "imported": 0,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "opensrs": {
+      "imported": 0,
+      "quarantined": 6,
+      "failed": 0
+    },
+    "openum": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "openweather_api": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "opinion_stage": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "opnform": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "opsgenie": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "optimoroute": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "oracle_cloud_infrastructure": {
+      "imported": 0,
+      "quarantined": 6,
+      "failed": 0
+    },
+    "orbit": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "orca_scan": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "order_desk": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "orderspace": {
+      "imported": 18,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "originality_ai": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "orimon": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "orshot": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ortto": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "oto": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "otter_waiver": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "outgrow": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "outreach": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "outscraper": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "outseta": {
+      "imported": 0,
+      "quarantined": 6,
+      "failed": 0
+    },
+    "overledger": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "overloop": {
+      "imported": 33,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "owl_protocol": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "oxylabs": {
+      "imported": 0,
+      "quarantined": 6,
+      "failed": 0
+    },
+    "oyster": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "paazl": {
+      "imported": 16,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "paddle": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "page_x": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "pagerduty": {
+      "imported": 32,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "paigo": {
+      "imported": 12,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "palatine_speech": {
+      "imported": 3,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "palavir_compliance": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "pandadoc": {
+      "imported": 21,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "paperform": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "papersign": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "papertrail": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "papyrs": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "paradym": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "parma": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "parsehub": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "parsera": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "parseur": {
+      "imported": 2,
+      "quarantined": 4,
+      "failed": 0
+    },
+    "parsio_io": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "passcreator": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "passslot": {
+      "imported": 6,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "patreon": {
+      "imported": 0,
+      "quarantined": 4,
+      "failed": 0
+    },
+    "paved": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "payhere": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "payhip": {
+      "imported": 5,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "paymo": {
+      "imported": 0,
+      "quarantined": 12,
+      "failed": 0
+    },
+    "paypal": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "payrexx": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "paystack": {
+      "imported": 31,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "paytrace": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "pcloud": {
+      "imported": 0,
+      "quarantined": 13,
+      "failed": 0
+    },
+    "pdf4me": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "pdf_api_io": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "pdf_app_net": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "pdf_charts": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "pdf_co": {
+      "imported": 17,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "pdf_munk": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "pdfcrowd": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "pdffiller": {
+      "imported": 7,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "pdfless": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "pdfmonkey": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "pdforge": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "peach": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "peaka": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "peakon_employee_voice": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "peerdom": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "pencil_spaces": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "pennylane": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "people_data_labs": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "permit_io": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "perplexity": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "personio": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "pexels": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "phantombuster": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "phaxio": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "philips_hue": {
+      "imported": 5,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "phoneburner": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "php_point_of_sale": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "phrase": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "picdefense": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "picky_assist": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "picqer": {
+      "imported": 26,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "pidj": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "piggy": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "piloterr": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "pinecone": {
+      "imported": 0,
+      "quarantined": 6,
+      "failed": 0
+    },
+    "pingback": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "pingbell": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "pingdom": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "pinterest": {
+      "imported": 0,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "pipedream": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "pipedream_utils": {
+      "imported": 0,
+      "quarantined": 44,
+      "failed": 0
+    },
+    "pipedrive": {
+      "imported": 0,
+      "quarantined": 47,
+      "failed": 0
+    },
+    "pipefy": {
+      "imported": 0,
+      "quarantined": 23,
+      "failed": 0
+    },
+    "pipeline": {
+      "imported": 0,
+      "quarantined": 25,
+      "failed": 0
+    },
+    "pitchlane": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "pivotal_tracker": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "pixelbin": {
+      "imported": 4,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "pixiebrix": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "placid": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "plaid": {
+      "imported": 0,
+      "quarantined": 8,
+      "failed": 0
+    },
+    "plain": {
+      "imported": 15,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "plainly": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "planning_center": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "planview_leankit": {
+      "imported": 28,
+      "quarantined": 6,
+      "failed": 0
+    },
+    "planyo_online_booking": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "platerecognizer": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "playwright": {
+      "imported": 0,
+      "quarantined": 4,
+      "failed": 0
+    },
+    "plecto": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "plentyone": {
+      "imported": 12,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "plivo": {
+      "imported": 0,
+      "quarantined": 7,
+      "failed": 0
+    },
+    "pocket": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "podio": {
+      "imported": 15,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "pointagram": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "polar": {
+      "imported": 0,
+      "quarantined": 10,
+      "failed": 0
+    },
+    "polly_help": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "polydoc": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "polygon": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "polygonscan": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "poof": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "poper": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "popupsmart": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "postalytics": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "postgresql": {
+      "imported": 0,
+      "quarantined": 13,
+      "failed": 0
+    },
+    "postgrid": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "postgrid_verify": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "posthog": {
+      "imported": 11,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "postman": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "postmark": {
+      "imported": 31,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "postnl": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "precisefp": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "predictleads": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "pretix": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "printautopilot": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "printavo": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "printful": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "printful_oauth": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "printify": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "printnode": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "prisma_management_api": {
+      "imported": 12,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "pro_ledger": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "proabono": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "process_street": {
+      "imported": 4,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "processplan": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "procore": {
+      "imported": 6,
+      "quarantined": 9,
+      "failed": 0
+    },
+    "prodpad": {
+      "imported": 35,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "product_hunt": {
+      "imported": 0,
+      "quarantined": 4,
+      "failed": 0
+    },
+    "productboard": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "productive_io": {
+      "imported": 11,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "productlane": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "project_broadcast": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "proofly": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "prospeo": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "proworkflow": {
+      "imported": 16,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "proxy_spider": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "proxycurl": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "publisherkit": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "pubrio": {
+      "imported": 51,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "pulsetic": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "pumble": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "puppeteer": {
+      "imported": 0,
+      "quarantined": 4,
+      "failed": 0
+    },
+    "push_by_techulus": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "pushbullet": {
+      "imported": 0,
+      "quarantined": 4,
+      "failed": 0
+    },
+    "pushcut": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "pusher": {
+      "imported": 0,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "pushover": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "pushshift_reddit_search": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "python": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "qdrant": {
+      "imported": 0,
+      "quarantined": 5,
+      "failed": 0
+    },
+    "qntrl": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "qr_api": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "qstash": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "quaderno": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "qualaroo": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "qualetics": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "qualiobee": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "quentn": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "questionpro": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "quickbase": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "quickbooks": {
+      "imported": 74,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "quipu": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "quriiri": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "rafflys": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ragic": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ragie": {
+      "imported": 2,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "raindrop": {
+      "imported": 12,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "raisely": {
+      "imported": 5,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "ramp": {
+      "imported": 18,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "ramp_sandbox": {
+      "imported": 21,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "range": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "rapid_url_indexer": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "reachmail": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "read_ai": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "readwise": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "real_id": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "realgeeks": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "rebrandly": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "recharge": {
+      "imported": 11,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "recreation_gov": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "recruit_crm": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "recruitee": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "recruiterflow": {
+      "imported": 14,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "recruitis": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "recurly": {
+      "imported": 0,
+      "quarantined": 4,
+      "failed": 0
+    },
+    "redcircle_api": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "reddit": {
+      "imported": 0,
+      "quarantined": 12,
+      "failed": 0
+    },
+    "redmine": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "referralhero": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "referrizer": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "refersion": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "refiner": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "reflect": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "reform": {
+      "imported": 1,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "regal": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "regfox": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "reishost": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "rejoiner": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "relavate": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "relevance_ai": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "remarkety": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "remote": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "remote_retrieval": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "remove_bg": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "renderform": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "renderio": {
+      "imported": 15,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "rendex": {
+      "imported": 14,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "rendi": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "rentcast": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "rentman": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "repairshopr": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "replicate": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "repliq": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "reply_io": {
+      "imported": 12,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "reputation_lyncs": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "rescuetime": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "resource_guru": {
+      "imported": 11,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "rest_countries_pe": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "retable": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "retailed": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "retell_ai": {
+      "imported": 0,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "retently": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "retool": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "retriever": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "returnista": {
+      "imported": 22,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "returnless": {
+      "imported": 20,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "rev": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "rev_ai": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "reviewflowz": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "revolt": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "reward_sciences": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "rewiser": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "rex": {
+      "imported": 12,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "rhombus": {
+      "imported": 19,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "richpanel": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ringcentral": {
+      "imported": 9,
+      "quarantined": 9,
+      "failed": 0
+    },
+    "ringover": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "rinkel": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "rippling": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "riskadvisor": {
+      "imported": 4,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "rkvst": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "roamresearch": {
+      "imported": 11,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "roblox": {
+      "imported": 19,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "robly": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "roboflow": {
+      "imported": 3,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "robopost": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "rocket_chat": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "rocketreach": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "rocketskip": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "rockset": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "roll": {
+      "imported": 0,
+      "quarantined": 17,
+      "failed": 0
+    },
+    "rollbar": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "rosette_text_analytics": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "roundtable": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "rumble": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "rumi_ai": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "runware": {
+      "imported": 0,
+      "quarantined": 6,
+      "failed": 0
+    },
+    "rydoo": {
+      "imported": 17,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "salesflare": {
+      "imported": 26,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "salesforce_rest_api": {
+      "imported": 61,
+      "quarantined": 12,
+      "failed": 0
+    },
+    "saleslens": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "salesloft": {
+      "imported": 6,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "salesmsg": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "salespype": {
+      "imported": 8,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "samsara": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sanity": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sapling_ai": {
+      "imported": 2,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "sare": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "satismeter": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "satuit": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "savvycal": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "scale_ai": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "scalr": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "schedule": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "scoredetect": {
+      "imported": 0,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "scrape_it_cloud": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "scrapecreators": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "scrapegraphai": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "scrapeless": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "scrapeninja": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "scrapfly": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "scrapingant": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "scrapingbot": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "scraptio": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "screendesk": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "screenshot_fyi": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "screenshotbase": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "screenshotone": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sdk": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "search_api": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "seatable": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "security_reporter": {
+      "imported": 0,
+      "quarantined": 12,
+      "failed": 0
+    },
+    "securitytrails": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "segment": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "segmetrics": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sellercloud": {
+      "imported": 11,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "selzy": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "semgrep": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sendbird": {
+      "imported": 0,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "sendbird_ai_chabot": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sendblue": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sendcloud": {
+      "imported": 29,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sender": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sendfox_oauth": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sendfox_personal_access_token": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sendgrid": {
+      "imported": 0,
+      "quarantined": 34,
+      "failed": 0
+    },
+    "sendinblue": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sendit": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sendloop": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sendoso": {
+      "imported": 16,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "sendowl": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sendpulse": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sendsms": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sendspark": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sendx": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sendy": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "senta": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sentry": {
+      "imported": 0,
+      "quarantined": 5,
+      "failed": 0
+    },
+    "seqera": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "serenity_ai_hub": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "serpapi": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "serphouse": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "serply": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "servicem8": {
+      "imported": 80,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "servicenow": {
+      "imported": 32,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sessions": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "setmoreappointments": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sevdesk": {
+      "imported": 14,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "seven": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "seventodos": {
+      "imported": 0,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "sftp": {
+      "imported": 0,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "sftp_password_based_auth": {
+      "imported": 0,
+      "quarantined": 0,
+      "failed": 2
+    },
+    "shadertoy": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sharepoint": {
+      "imported": 0,
+      "quarantined": 29,
+      "failed": 0
+    },
+    "sheetdb": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "shift4": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "shipday": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "shipengine": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "shiphero": {
+      "imported": 0,
+      "quarantined": 6,
+      "failed": 0
+    },
+    "shipstation": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "shopify": {
+      "imported": 0,
+      "quarantined": 64,
+      "failed": 0
+    },
+    "shopify_developer_app": {
+      "imported": 0,
+      "quarantined": 30,
+      "failed": 0
+    },
+    "shopify_partner": {
+      "imported": 0,
+      "quarantined": 4,
+      "failed": 0
+    },
+    "shoprocket": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "shopwaive": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "shopware": {
+      "imported": 11,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "short": {
+      "imported": 5,
+      "quarantined": 4,
+      "failed": 0
+    },
+    "short_menu": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "shortcut": {
+      "imported": 0,
+      "quarantined": 5,
+      "failed": 0
+    },
+    "shorten_rest": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "shortpixel": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "shotstack": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sidetracker": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sifter": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sigma": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sign_plus": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "signal": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "signalwire": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "signaturely": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "signaturit": {
+      "imported": 5,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "signerx": {
+      "imported": 5,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "signnow": {
+      "imported": 3,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "signpath": {
+      "imported": 2,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "similarweb_digitalrank_api": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "simla_com": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "simplero": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "simplesat": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "simplybook_me": {
+      "imported": 2,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "sinch": {
+      "imported": 4,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "sitecreator_io": {
+      "imported": 3,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "siteleaf": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sitespeakai": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "skillzrun": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "skyvern": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "slab": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "slack_bot": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "slack_v2": {
+      "imported": 0,
+      "quarantined": 61,
+      "failed": 0
+    },
+    "slicktext": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "slite": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "slottable": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "slybroadcast": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "small_improvements": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "smartroutes": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "smartsheet": {
+      "imported": 39,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "smartsuite": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "smashsend": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "smiirl": {
+      "imported": 0,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "smoove": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sms": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sms_alert": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sms_everyone": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sms_fusion": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sms_messages": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "smsapi": {
+      "imported": 4,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "smslink_nc": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "smstools": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "smugmug": {
+      "imported": 8,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "snappy": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "snatchbot": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "snipcart": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "snipe_it": {
+      "imported": 17,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "snowflake": {
+      "imported": 0,
+      "quarantined": 22,
+      "failed": 0
+    },
+    "social_fetch": {
+      "imported": 26,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "social_intents": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "softr": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "solcast": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "solve_crm": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sonarcloud": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sonix": {
+      "imported": 5,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "sourceforge": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "spamcheck_ai": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sparkpost": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "speak_ai": {
+      "imported": 13,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "specific": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "speechace": {
+      "imported": 0,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "sperse": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "spider": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "spiritme": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "splitwise": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "splunk": {
+      "imported": 8,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "splunk_http_event_collector": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "splynx": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "spondyr": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "spoonacular": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "spotify": {
+      "imported": 24,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "spotlightr": {
+      "imported": 0,
+      "quarantined": 4,
+      "failed": 0
+    },
+    "spreadsheet_com": {
+      "imported": 3,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "sproutgigs": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "square": {
+      "imported": 0,
+      "quarantined": 11,
+      "failed": 0
+    },
+    "squarespace": {
+      "imported": 5,
+      "quarantined": 4,
+      "failed": 0
+    },
+    "ssh": {
+      "imported": 0,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "stammer_ai": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "stannp": {
+      "imported": 5,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "starloop": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "starshipit": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "status_hero": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "statuscake": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "statuspage": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "stealthseminar": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "stiply": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "storeganise": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "stormboard": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "storyscale": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "strale": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "strava": {
+      "imported": 16,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "streak": {
+      "imported": 18,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "streamlabs": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "streamtime": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "stripo": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "suitedash": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "summit": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sumup": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sunshine_conversations": {
+      "imported": 0,
+      "quarantined": 16,
+      "failed": 0
+    },
+    "supabase": {
+      "imported": 0,
+      "quarantined": 10,
+      "failed": 0
+    },
+    "supabase_management_api": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "super_carl": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "supercast": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "superdocu": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "supernotes": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "superphone": {
+      "imported": 0,
+      "quarantined": 5,
+      "failed": 0
+    },
+    "supportbee": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "supportivekoala": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "surecart": {
+      "imported": 134,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "survey_monkey": {
+      "imported": 0,
+      "quarantined": 15,
+      "failed": 0
+    },
+    "surveybot": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "surveycto": {
+      "imported": 0,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "surveymethods": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "surveysparrow": {
+      "imported": 9,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "survicate": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "survser": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "svix": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "swaggerhub": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "swagup": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "swapcard_exhibitor": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "swell": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "symbl_ai": {
+      "imported": 23,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "sympla": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "syncmate_by_assitro": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "tableau": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "taggun": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "taiga": {
+      "imported": 20,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "taleez": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "talend": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "talenthr": {
+      "imported": 15,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "talkspirit": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "tally": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "tapfiliate": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "tapform": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "taskade": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "tavily": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "tawk_to": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "taxjar": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "teach_n_go": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "teachable": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "team_sms": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "teamcamp": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "teamgantt": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "teamgate": {
+      "imported": 29,
+      "quarantined": 9,
+      "failed": 0
+    },
+    "teamioo": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "teamleader_focus": {
+      "imported": 24,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "teamup": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "teamwork": {
+      "imported": 10,
+      "quarantined": 5,
+      "failed": 0
+    },
+    "teamwork_desk": {
+      "imported": 18,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "telegram_bot_api": {
+      "imported": 0,
+      "quarantined": 32,
+      "failed": 0
+    },
+    "telesign": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "telnyx": {
+      "imported": 13,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "temi": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "templated": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "templatedocs": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "templatefox": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "terraform": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "tess_ai_by_pareto": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "testlocally": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "testmo": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "testmonitor": {
+      "imported": 4,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "tettra": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "textcortex": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "textit": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "textline": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "textlocal": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "thanks_io": {
+      "imported": 14,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "the_bookie": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "the_colony": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "the_magic_drip": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "the_odds_api": {
+      "imported": 4,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "the_official_board": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "themarketer": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "thinkific": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "thoughtful_gpt": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "thoughtly": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "threads": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "tick": {
+      "imported": 13,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ticket_source": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ticket_tailor": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ticketsauce": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "ticktick": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "tidy": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "tidycal": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "tiktok_ads_manager": {
+      "imported": 12,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "timebuzzer": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "timecamp": {
+      "imported": 4,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "timekit": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "timetonic": {
+      "imported": 6,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "timeular": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "timing": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "tinypng": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "tinyurl": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "tisane_labs": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "tldr": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "tmetric": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "todoist": {
+      "imported": 0,
+      "quarantined": 53,
+      "failed": 0
+    },
+    "toggl": {
+      "imported": 17,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "token_metrics": {
+      "imported": 24,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "tomba": {
+      "imported": 20,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "tomtom": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "topdesk": {
+      "imported": 29,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "topmessage": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "totango": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "tpscheck": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "trackingtime": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "trakt": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "transform": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "transifex": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "transistor_fm": {
+      "imported": 0,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "translate_com": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "transloadit": {
+      "imported": 0,
+      "quarantined": 7,
+      "failed": 0
+    },
+    "trawlingweb": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "trello": {
+      "imported": 0,
+      "quarantined": 49,
+      "failed": 0
+    },
+    "tremendous": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "trengo": {
+      "imported": 34,
+      "quarantined": 10,
+      "failed": 0
+    },
+    "trestle": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "tricentis_qtest": {
+      "imported": 12,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "triggercmd": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "triggre": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "trint": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "tripadvisor_content_api": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "trunkrs": {
+      "imported": 11,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "trust": {
+      "imported": 5,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "trustpilot": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "tubular": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "turbot_pipes": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "turso": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "tuya": {
+      "imported": 0,
+      "quarantined": 4,
+      "failed": 0
+    },
+    "twenty": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "twilio": {
+      "imported": 0,
+      "quarantined": 29,
+      "failed": 0
+    },
+    "twin": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "twist": {
+      "imported": 14,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "twitch": {
+      "imported": 0,
+      "quarantined": 25,
+      "failed": 0
+    },
+    "txt_werk": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "typebot": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "typeflo": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "typeflowai": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "typeform": {
+      "imported": 13,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "typefully": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "u301": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "uberduck": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "uipath_automation_hub": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "unbounce": {
+      "imported": 3,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "undetectable_ai": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "unione": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "unirateapi": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "unisender": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "universal_api": {
+      "imported": 27,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "universal_summarizer_by_kagi": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "unleashed_software": {
+      "imported": 16,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "unsplash": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "unstructured": {
+      "imported": 0,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "unthread": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "upbooks": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "updown_io": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "upgrade_chat": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "upkeep": {
+      "imported": 24,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "uplead": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "uplisting": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "uploadcare": {
+      "imported": 0,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "ups": {
+      "imported": 0,
+      "quarantined": 5,
+      "failed": 0
+    },
+    "upsales": {
+      "imported": 44,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "upstash_redis": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "uptimerobot": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "upviral": {
+      "imported": 0,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "upwave": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "urlbae": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "urlbox_io": {
+      "imported": 0,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "uscreen": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "userflow": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "userlist": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "usersketch": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "utopian_labs": {
+      "imported": 0,
+      "quarantined": 6,
+      "failed": 0
+    },
+    "v7_darwin": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "v7_go": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "vapi": {
+      "imported": 6,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "vbout": {
+      "imported": 10,
+      "quarantined": 5,
+      "failed": 0
+    },
+    "vc_deal_flow_signal": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "vectorshift": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "veedea": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "vend": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "venly": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "vercel_token_auth": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "verdict_as_a_service": {
+      "imported": 0,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "veremark": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "verifalia": {
+      "imported": 0,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "verifi_email": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "veriphone": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "vero": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "vestaboard": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "vext": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "vida": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "videoask": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "vies_api": {
+      "imported": 0,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "viewdns_info": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "vimeo": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "vincario": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "viral_loops": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "virtualsms": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "visibot": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "vision6": {
+      "imported": 13,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "visitor_queue": {
+      "imported": 1,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "visualping": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "vitally": {
+      "imported": 3,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "vitel_phone": {
+      "imported": 0,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "vivifyscrum": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "vivocalendar": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "vivomeetings": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "voice_monkey": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "voilanorbert": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "voluum": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "vryno": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "vtiger_crm": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "vybit": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "waboxapp": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "wachete": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "waitlist": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "waiverfile": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "waiverforever": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "wakatime": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "walletap": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "wappalyzer": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "wati": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "wave": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "wealthbox": {
+      "imported": 23,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "weatherbit_io": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "weaviate": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "webflow": {
+      "imported": 0,
+      "quarantined": 26,
+      "failed": 0
+    },
+    "webinarfuel": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "webinargeek": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "webinarkit": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "webscrape_ai": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "webscraper_io": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "webscraping_ai": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "webvizio": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "weglot": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "welcome": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "wesupply": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "what_are_those": {
+      "imported": 1,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "whatconverts": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "whatsable": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "whatsapp_business": {
+      "imported": 4,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "whautomate": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "white_swan": {
+      "imported": 5,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "whoisfreaks": {
+      "imported": 13,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "whop": {
+      "imported": 10,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "wics": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "widgetform": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "wildapricot": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "winston_ai": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "wise": {
+      "imported": 13,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "wisepops": {
+      "imported": 1,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "wistia": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "wit_ai": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "withings": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "wix_api_key": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "wiza": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "wolfram_alpha": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "wonderchat": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "woocommerce": {
+      "imported": 0,
+      "quarantined": 26,
+      "failed": 0
+    },
+    "woodpecker_co": {
+      "imported": 0,
+      "quarantined": 17,
+      "failed": 0
+    },
+    "woovi": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "wordpress_com": {
+      "imported": 6,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "wordpress_org": {
+      "imported": 0,
+      "quarantined": 14,
+      "failed": 0
+    },
+    "workamajig": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "workbooks_crm": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "workday": {
+      "imported": 11,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "workflow_max": {
+      "imported": 0,
+      "quarantined": 4,
+      "failed": 0
+    },
+    "workflowy": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "workiom": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "workiz": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "world_news_api": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "woxo": {
+      "imported": 1,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "wp_maps": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "wrike": {
+      "imported": 14,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "writer": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "wubook_ratechecker": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "wufoo": {
+      "imported": 2,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "x_ai": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "xata": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "xendit": {
+      "imported": 3,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "xero_accounting_api": {
+      "imported": 42,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "xola": {
+      "imported": 17,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "xquik": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "xverify": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "y_gy": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "yahoo_fantasy_sports": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "yanado": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "yay_com": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "yespo": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "yoplanning": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "you_need_a_budget": {
+      "imported": 0,
+      "quarantined": 12,
+      "failed": 0
+    },
+    "youcanbook_me": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "youtube_analytics_api": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "youtube_data_api": {
+      "imported": 0,
+      "quarantined": 28,
+      "failed": 0
+    },
+    "youtube_data_api_custom_app": {
+      "imported": 25,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "yutori": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "z_api": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zamzar": {
+      "imported": 0,
+      "quarantined": 6,
+      "failed": 0
+    },
+    "zendesk": {
+      "imported": 43,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zendesk_sell": {
+      "imported": 9,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zenfulfillment": {
+      "imported": 11,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zenkit": {
+      "imported": 11,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zenler": {
+      "imported": 12,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zenrows": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zenscrape": {
+      "imported": 2,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zenserp": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zenventory": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zep": {
+      "imported": 12,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zerobounce": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zerotier": {
+      "imported": 14,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zest": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zip_archive_api": {
+      "imported": 0,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "zixflow": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zoho_analytics": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zoho_bigin": {
+      "imported": 8,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zoho_bookings": {
+      "imported": 5,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "zoho_books": {
+      "imported": 30,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zoho_bugtracker": {
+      "imported": 5,
+      "quarantined": 1,
+      "failed": 0
+    },
+    "zoho_calendar": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zoho_campaigns": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zoho_cliq": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zoho_commerce": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zoho_creator": {
+      "imported": 0,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "zoho_crm": {
+      "imported": 16,
+      "quarantined": 5,
+      "failed": 0
+    },
+    "zoho_desk": {
+      "imported": 0,
+      "quarantined": 47,
+      "failed": 0
+    },
+    "zoho_expense": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zoho_forms": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zoho_inventory": {
+      "imported": 14,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zoho_invoice": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zoho_mail": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zoho_meeting": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zoho_notebook": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zoho_people": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zoho_projects": {
+      "imported": 0,
+      "quarantined": 16,
+      "failed": 0
+    },
+    "zoho_recruit": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zoho_salesiq": {
+      "imported": 5,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zoho_sheet": {
+      "imported": 7,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zoho_sign": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zoho_sprints": {
+      "imported": 6,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zoho_subscriptions": {
+      "imported": 3,
+      "quarantined": 2,
+      "failed": 0
+    },
+    "zoho_survey": {
+      "imported": 0,
+      "quarantined": 3,
+      "failed": 0
+    },
+    "zoho_workdrive": {
+      "imported": 0,
+      "quarantined": 6,
+      "failed": 0
+    },
+    "zonka_feedback": {
+      "imported": 4,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zoom": {
+      "imported": 39,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zoom_admin": {
+      "imported": 0,
+      "quarantined": 50,
+      "failed": 0
+    },
+    "zulip": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    },
+    "zylvie": {
+      "imported": 3,
+      "quarantined": 0,
+      "failed": 0
+    }
+  }
+}

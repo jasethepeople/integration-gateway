@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://integration-gateway.local/schemas/canonical-event.schema.json",
+  "title": "CanonicalEvent",
+  "description": "Canonical event envelope exchanged on the integration-gateway event bus.",
+  "type": "object",
+  "required": ["id", "source", "topic", "timestamp", "data"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "format": "uuid",
+      "description": "Unique event identifier (uuid)."
+    },
+    "source": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Component key that produced the event."
+    },
+    "topic": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "^[a-z0-9_]+\\.[a-z0-9_]+$",
+      "description": "Namespaced topic, e.g. \"github.new_issue\"."
+    },
+    "timestamp": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO8601 creation timestamp."
+    },
+    "data": {
+      "type": "object",
+      "description": "Event payload."
+    },
+    "meta": {
+      "type": "object",
+      "description": "Optional provenance metadata."
+    }
+  },
+  "additionalProperties": false
+}
