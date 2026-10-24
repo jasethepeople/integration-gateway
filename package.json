@@ -1,5 +1,5 @@
 {
-  "name": "integration-gateway",
+  "name": "integration-gateway-a2a",
   "version": "0.1.0",
   "type": "module",
   "engines": {
@@ -9,7 +9,8 @@
     "dev": "tsx src/server.ts",
     "start": "tsx src/server.ts",
     "test": "vitest run",
-    "build": "tsc --noEmit"
+    "build": "tsc --noEmit",
+    "cards": "tsx scripts/generate-agent-cards.ts"
   },
   "devDependencies": {
     "@types/node": "^20.14.0",

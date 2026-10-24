@@ -1,8 +1,15 @@
-# integration-gateway
+# integration-gateway-a2a
 
 Standalone, self-hosted Node.js/TypeScript middleware engine mirroring Pipedream's
 `components/` modular structure, with first-class native plugins. No Pipedream cloud
 dependencies. Runtime: Node 20+, TypeScript ESM, plain `node:http` (no framework).
+
+> **This fork** adds an A2A (Agent2Agent) front door: agent cards for
+> discovery and a JSON-RPC endpoint that delegates tasks to the
+> gateway's components as skills. See [docs/A2A.md](docs/A2A.md).
+> It also fixes a loader bug (unbounded scan fan-out silently dropped
+> most `component.json` metadata under file-descriptor pressure) and
+> repoints the lockfile from a dead npm mirror to registry.npmjs.org.
 
 ## Quickstart
 
