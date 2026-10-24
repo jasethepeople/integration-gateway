@@ -1,0 +1,7 @@
+{
+  "key": "form_io-delete-form-action",
+  "name": "Delete Form Action",
+  "description": "Permanently remove an action attached to a Form.io form. Use **List Form Actions** to find the action ID. This is irreversible. [See the documentation](https://apidocs.form.io/#994dc489-e530-4920-9389-813ba2ac9005).",
+  "type": "action",
+  "version": "0.0.1"
+}

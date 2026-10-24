@@ -1,0 +1,7 @@
+{
+  "key": "transistor_fm-new-event",
+  "name": "New Event",
+  "description": "Emit new event when the desired event happens",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "airtable_oauth-list-comments",
+  "name": "List Comments",
+  "description": "Get a list of comments on a selected record, e.g. to look up a comment's ID before updating it. [See the documentation](https://airtable.com/developers/web/api/list-comments)",
+  "type": "action",
+  "version": "0.0.1"
+}

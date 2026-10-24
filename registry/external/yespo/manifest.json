@@ -1,0 +1,28 @@
+{
+  "app": "yespo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "segmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "yespo-add-update-contact",
+    "yespo-generate-event",
+    "yespo-list-contact-id-options",
+    "yespo-list-segment-id-options",
+    "yespo-send-email",
+    "yespo-new-contact-in-segment",
+    "yespo-new-contact"
+  ]
+}

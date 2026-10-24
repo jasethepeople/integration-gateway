@@ -1,0 +1,7 @@
+{
+  "key": "documentpro-new-document",
+  "name": "Upload New Document",
+  "description": "Uploads a document to DocumentPro's parser. [See the documentation](https://docs.documentpro.ai/docs/using-api/manage-documents/import-files)",
+  "type": "action",
+  "version": "1.0.3"
+}

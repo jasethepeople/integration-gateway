@@ -1,0 +1,7 @@
+{
+  "key": "verifalia-delete-job",
+  "name": "Delete Email Verification Job",
+  "description": "Delete a previously submitted email verification job. [See the docs](https://verifalia.com/developers#email-validations-deleting) for more information",
+  "type": "action",
+  "version": "0.0.3"
+}

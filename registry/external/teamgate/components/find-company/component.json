@@ -1,0 +1,7 @@
+{
+  "key": "teamgate-find-company",
+  "name": "Find Company",
+  "description": "Find a company [See the docs here](https://developers.teamgate.com/#6be9bc87-47bb-4c32-b46b-9c0771deac83)",
+  "type": "action",
+  "version": "0.0.2"
+}

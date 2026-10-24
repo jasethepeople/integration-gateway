@@ -1,0 +1,7 @@
+{
+  "key": "google_cloud-new-pubsub-messages",
+  "name": "New Pub/Sub Messages",
+  "description": "Emit new Pub/Sub topic in your GCP account. Messages published to this topic are emitted from the Pipedream source.",
+  "type": "source",
+  "version": "0.1.8"
+}

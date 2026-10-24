@@ -1,0 +1,7 @@
+{
+  "key": "upviral-add-points",
+  "name": "Add Points",
+  "description": "Add points in user profile. [See the documentation](https://api.upviral.com/#add-points)",
+  "type": "action",
+  "version": "0.0.2"
+}

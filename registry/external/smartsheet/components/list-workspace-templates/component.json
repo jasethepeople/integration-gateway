@@ -1,0 +1,7 @@
+{
+  "key": "smartsheet-list-workspace-templates",
+  "name": "List Workspace Templates",
+  "description": "Lists the templates available across your workspaces, returning each template ID, name, and workspace.",
+  "type": "action",
+  "version": "0.0.7"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "wise-get-transfer",
+  "name": "Get Transfer",
+  "description": "Get a transfer. [See docs here](https://api-docs.wise.com/api-reference/transfer#get-by-id)",
+  "type": "action",
+  "version": "0.0.6"
+}

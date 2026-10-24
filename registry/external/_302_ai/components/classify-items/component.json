@@ -1,0 +1,7 @@
+{
+  "key": "_302_ai-classify-items",
+  "name": "Classify Items",
+  "description": "Classify input items into predefined categories using 302.AI models. Perfect for tagging, segmentation, and automated organization. [See documentation](https://doc.302.ai/147522039e0)",
+  "type": "action",
+  "version": "0.0.1"
+}

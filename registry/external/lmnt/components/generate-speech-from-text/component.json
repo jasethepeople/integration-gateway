@@ -1,0 +1,7 @@
+{
+  "key": "lmnt-generate-speech-from-text",
+  "name": "Generate Speech from Text",
+  "description": "Generates an audio file from the provided text. [See the documentation](https://docs.lmnt.com/api-reference/speech/synthesize-speech-1)",
+  "type": "action",
+  "version": "0.0.3"
+}

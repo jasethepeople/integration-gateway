@@ -1,0 +1,7 @@
+{
+  "key": "ollama-generate-chat-completion",
+  "name": "Generate Chat Completion",
+  "description": "Generates the next message in a chat with a provided model. [See the documentation](https://github.com/ollama/ollama/blob/main/docs/api.md#generate-a-chat-completion).",
+  "type": "action",
+  "version": "0.0.3"
+}

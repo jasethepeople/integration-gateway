@@ -1,0 +1,7 @@
+{
+  "key": "buildkite-get-job-log",
+  "name": "Get Job Log",
+  "description": "Returns the log output for a specific job in a build. [See the documentation](https://buildkite.com/docs/apis/rest-api/jobs#get-a-jobs-log-output)",
+  "type": "action",
+  "version": "0.0.1"
+}

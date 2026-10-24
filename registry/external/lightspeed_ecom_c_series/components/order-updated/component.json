@@ -1,0 +1,7 @@
+{
+  "key": "lightspeed_ecom_c_series-order-updated",
+  "name": "Order Updated (Instant)",
+  "description": "Emit new event when a order is updated.",
+  "type": "source",
+  "version": "0.0.1"
+}

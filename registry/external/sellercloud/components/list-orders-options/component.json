@@ -1,0 +1,7 @@
+{
+  "key": "sellercloud-list-orders-options",
+  "name": "List Orders Options",
+  "description": "Retrieves available options for the Orders field.",
+  "type": "action",
+  "version": "0.0.1"
+}

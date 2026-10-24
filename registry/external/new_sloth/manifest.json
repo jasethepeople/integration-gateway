@@ -1,0 +1,25 @@
+{
+  "app": "new_sloth",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "feedRssUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "new_sloth-create-source",
+    "new_sloth-delete-source",
+    "new_sloth-list-feed-rss-url-options",
+    "new_sloth-list-sources"
+  ]
+}

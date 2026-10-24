@@ -1,0 +1,7 @@
+{
+  "key": "status_hero-list-member-id-options",
+  "name": "List Member Id Options",
+  "description": "Retrieves available options for the Member Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

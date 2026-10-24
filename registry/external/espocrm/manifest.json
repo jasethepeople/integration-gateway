@@ -1,0 +1,26 @@
+{
+  "app": "espocrm",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "assigneeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "espocrm-create-contact",
+    "espocrm-create-task",
+    "espocrm-list-accounts",
+    "espocrm-list-assignee-id-options",
+    "espocrm-new-changes"
+  ]
+}

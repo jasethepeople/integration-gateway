@@ -1,0 +1,7 @@
+{
+  "key": "sendcloud-get-tracking-info",
+  "name": "Get Tracking Info",
+  "description": "Retrieve tracking information of a parcel. [See the documentation](https://sendcloud.dev/api/v2/tracking/retrieve-tracking-information-of-a-parcel)",
+  "type": "action",
+  "version": "0.0.1"
+}

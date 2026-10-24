@@ -1,0 +1,7 @@
+{
+  "key": "rydoo-create-trip",
+  "name": "Create Trip",
+  "description": "Registers a new business trip for a specific user. [See the documentation](https://developers.rydoo.com/reference/v2tripsaddtrip)",
+  "type": "action",
+  "version": "0.0.2"
+}

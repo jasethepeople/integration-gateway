@@ -1,0 +1,7 @@
+{
+  "key": "aws-sqs-send-message",
+  "name": "SQS - Send Message",
+  "description": "",
+  "type": "action",
+  "version": "0.2.3"
+}

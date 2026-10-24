@@ -1,0 +1,7 @@
+{
+  "key": "bitbucket-new-repository",
+  "name": "New Repository (Instant)",
+  "description": "Emit new event when a new repository is created in a workspace. [See docs here](https://developer.atlassian.com/cloud/bitbucket/rest/api-group-workspaces/#api-workspaces-workspace-hooks-post)",
+  "type": "source",
+  "version": "0.0.4"
+}

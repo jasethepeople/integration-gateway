@@ -1,0 +1,7 @@
+{
+  "key": "weatherbit_io-fetch-historical-weather-data",
+  "name": "Fetch Historical Weather Data",
+  "description": "Fetch historical wheater data from a location. [See docs here](https://www.weatherbit.io/api/weather-history-daily)",
+  "type": "action",
+  "version": "0.0.2"
+}

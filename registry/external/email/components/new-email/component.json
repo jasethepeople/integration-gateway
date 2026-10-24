@@ -1,0 +1,7 @@
+{
+  "key": "email-new-email",
+  "name": "New Email",
+  "description": "Get a unique address where you can send emails to trigger your workflow.",
+  "type": "source",
+  "version": "0.0.1"
+}

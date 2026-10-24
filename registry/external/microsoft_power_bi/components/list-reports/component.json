@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_power_bi-list-reports",
+  "name": "List Reports",
+  "description": "List Power BI reports in a workspace.",
+  "type": "action",
+  "version": "0.0.3"
+}

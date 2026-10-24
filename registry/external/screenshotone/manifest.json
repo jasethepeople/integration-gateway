@@ -1,0 +1,60 @@
+{
+  "app": "screenshotone",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "websiteUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fileName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "viewportWidth": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "viewportHeight": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "fullPage": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "format": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "blockCookieBanners": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "blockAds": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "blockTrackers": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "delay": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "access_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "screenshotone-take-animated-screenshot",
+    "screenshotone-take-screenshot"
+  ],
+  "npmImports": [
+    "fs",
+    "stream",
+    "util"
+  ]
+}

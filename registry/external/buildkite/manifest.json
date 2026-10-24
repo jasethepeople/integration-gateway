@@ -1,0 +1,52 @@
+{
+  "app": "buildkite",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "organizationSlug": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pipelineSlug": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "buildNumber": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "jobId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "artifactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "buildkite-create-build",
+    "buildkite-download-artifact",
+    "buildkite-get-access-token",
+    "buildkite-get-build",
+    "buildkite-get-job-env",
+    "buildkite-get-job-log",
+    "buildkite-get-user",
+    "buildkite-list-build-annotations",
+    "buildkite-list-build-artifacts",
+    "buildkite-list-builds-for-pipeline",
+    "buildkite-list-organization-slug-options",
+    "buildkite-list-organizations",
+    "buildkite-list-pipelines",
+    "buildkite-rebuild-build",
+    "buildkite-retry-job"
+  ]
+}

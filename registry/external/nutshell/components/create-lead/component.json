@@ -1,0 +1,7 @@
+{
+  "key": "nutshell-create-lead",
+  "name": "Create Lead",
+  "description": "Create a new lead in Nutshell. [See the documentation](https://developers.nutshell.com/reference/7d9961f8fbd457ba5670721926517135)",
+  "type": "action",
+  "version": "1.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "sendsms-send-message-with-unsubscribe-link",
+  "name": "Send Message with Unsubscribe Link",
+  "description": "This action sends an SMS message with an unsubscribe link using the SendSMS.ro API. [See the documentation](https://www.sendsms.ro/api/?shell#send-message-with-unsubscribe-link)",
+  "type": "action",
+  "version": "0.0.3"
+}

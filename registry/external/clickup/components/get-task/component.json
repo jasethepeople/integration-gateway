@@ -1,0 +1,7 @@
+{
+  "key": "clickup-get-task",
+  "name": "Get Task",
+  "description": "Get a task. [See the documentation](https://clickup.com/api) in **Tasks / Get Task** section.",
+  "type": "action",
+  "version": "0.0.12"
+}

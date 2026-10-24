@@ -1,0 +1,7 @@
+{
+  "key": "eventbrite-new-event",
+  "name": "New Event (Instant)",
+  "description": "Emit new event when an event has been created",
+  "type": "source",
+  "version": "0.0.7"
+}

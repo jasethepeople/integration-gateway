@@ -1,0 +1,7 @@
+{
+  "key": "strava-get-activity-kudoers",
+  "name": "Get Activity Kudoers",
+  "description": "Return the athletes who gave kudos to a Strava activity.",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "rendex-create-watch",
+  "name": "Create Watch",
+  "description": "Create a watch that monitors a page for visual or text changes. [See the documentation](https://rendex.dev/docs/watch#create-a-watch).",
+  "type": "action",
+  "version": "0.0.1"
+}

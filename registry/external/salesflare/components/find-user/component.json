@@ -1,0 +1,7 @@
+{
+  "key": "salesflare-find-user",
+  "name": "Find Users",
+  "description": "Finds users according to props configured, if no prop configured returns all users [See the docs here](https://api.salesflare.com/docs#operation/getUsers)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "airtable_oauth-new-or-modified-records-in-view",
+  "name": "New or Modified Records in View",
+  "description": "Emit new event for each new or modified record in a view",
+  "type": "source",
+  "version": "0.0.16"
+}

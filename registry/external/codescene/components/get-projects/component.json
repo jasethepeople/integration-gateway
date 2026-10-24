@@ -1,0 +1,7 @@
+{
+  "key": "codescene-get-projects",
+  "name": "Get Projects",
+  "description": "Returns a list of projects. [See the documentation](https://codescene.io/docs/integrations/public-api.html#projects-list)",
+  "type": "action",
+  "version": "0.0.2"
+}

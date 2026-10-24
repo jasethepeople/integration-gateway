@@ -1,0 +1,7 @@
+{
+  "key": "splynx-update-customer",
+  "name": "Update Customer",
+  "description": "Updates information of an existing customer. [See the documentation](https://splynx.docs.apiary.io/#reference/customers/customer/update-a-customer)",
+  "type": "action",
+  "version": "0.0.2"
+}

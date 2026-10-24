@@ -1,0 +1,7 @@
+{
+  "key": "dailybot-list-target-teams-options",
+  "name": "List Target Teams IDs Options",
+  "description": "Retrieves available options for the Target Teams IDs field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "vectorshift-create-pipeline",
+  "name": "Create Pipeline",
+  "description": "Creates a new pipeline in VectorShift. [See the documentation](https://docs.vectorshift.ai)",
+  "type": "action",
+  "version": "0.0.2"
+}

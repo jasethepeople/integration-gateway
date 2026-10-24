@@ -1,0 +1,7 @@
+{
+  "key": "process_street-task-checked",
+  "name": "Task Checked",
+  "description": "Emit new event when a task is checked",
+  "type": "source",
+  "version": "0.0.1"
+}

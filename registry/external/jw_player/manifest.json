@@ -1,0 +1,20 @@
+{
+  "app": "jw_player",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "siteId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "jw_player-create-media",
+    "jw_player-search-media",
+    "jw_player-new-media-available"
+  ]
+}

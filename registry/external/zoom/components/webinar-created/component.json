@@ -1,0 +1,7 @@
+{
+  "key": "zoom-webinar-created",
+  "name": "Webinar Created (Instant)",
+  "description": "Emit new event each time a webinar is created where you're the host",
+  "type": "source",
+  "version": "0.1.12"
+}

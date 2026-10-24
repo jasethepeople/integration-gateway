@@ -1,0 +1,7 @@
+{
+  "key": "ticketsauce-get-order-details",
+  "name": "Get Order Details",
+  "description": "Get details for the specified order. [See documentation](https://speca.io/ticketsauce/ticketsauce-public-api?key=204000d6bda66da78315e721920f43aa#order-details)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "codex-get-networks",
+  "name": "Get Networks",
+  "description": "Returns all 80+ blockchain networks supported by Codex with their numeric IDs and names.",
+  "type": "action",
+  "version": "0.0.2"
+}

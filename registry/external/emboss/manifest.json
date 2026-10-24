@@ -1,0 +1,49 @@
+{
+  "app": "emboss",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "formId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "file": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contextText": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contextFile": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "idempotencyKey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "callbackUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "syncDir": {
+      "kind": "propDefinition",
+      "type": "dir"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "emboss-create-fillable-form",
+    "emboss-fill-existing-form",
+    "emboss-fill-from-pdf-context",
+    "emboss-list-forms"
+  ],
+  "npmImports": [
+    "form-data",
+    "node:fs"
+  ]
+}

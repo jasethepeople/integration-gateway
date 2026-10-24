@@ -1,0 +1,7 @@
+{
+  "key": "postnl-get-status-by-reference",
+  "name": "Get Status By Reference",
+  "description": "Retrieve the status of a shipment using a reference number. [See the documentation](https://developer.postnl.nl/docs/#/http/api-endpoints/send-track/shippingstatus/get-status-by-reference)",
+  "type": "action",
+  "version": "0.0.2"
+}

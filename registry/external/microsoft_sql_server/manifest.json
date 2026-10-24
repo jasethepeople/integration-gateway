@@ -1,0 +1,27 @@
+{
+  "app": "microsoft_sql_server",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "table": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "column": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "microsoft_sql_server-execute-query",
+    "microsoft_sql_server-execute-raw-query",
+    "microsoft_sql_server-insert-row",
+    "microsoft_sql_server-list-table-options",
+    "microsoft_sql_server-new-column",
+    "microsoft_sql_server-new-or-updated-row"
+  ],
+  "npmImports": [
+    "mssql",
+    "uuid"
+  ]
+}

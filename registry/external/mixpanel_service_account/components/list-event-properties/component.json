@@ -1,0 +1,7 @@
+{
+  "key": "mixpanel_service_account-list-event-properties",
+  "name": "List Event Properties",
+  "description": "List the property names most frequently sent with a single event, together with how many times each was seen. Use this to discover what an event can be filtered or broken down by before writing a `where` or `on` expression. [See the documentation](https://docs.mixpanel.com/reference/query-events-top-properties)",
+  "type": "action",
+  "version": "0.0.1"
+}

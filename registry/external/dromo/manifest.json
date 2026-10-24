@@ -1,0 +1,21 @@
+{
+  "app": "dromo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "schemaId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dromo-create-headless-import",
+    "dromo-list-schema-id-options",
+    "dromo-import-needs-review",
+    "dromo-new-data-row-imported"
+  ]
+}

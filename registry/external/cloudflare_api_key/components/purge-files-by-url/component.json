@@ -1,0 +1,7 @@
+{
+  "key": "cloudflare_api_key-purge-files-by-url",
+  "name": "Purge Files by URL",
+  "description": "Granularly remove one or more files from Cloudflare's cache by specifying URLs. [See the documentation](https://developers.cloudflare.com/api/node/resources/cache/methods/purge/)",
+  "type": "action",
+  "version": "0.1.2"
+}

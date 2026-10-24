@@ -1,0 +1,7 @@
+{
+  "key": "caspio-record-deleted",
+  "name": "Record Deleted (Instant)",
+  "description": "Emit new event when a record in specified table is deleted",
+  "type": "source",
+  "version": "0.0.1"
+}

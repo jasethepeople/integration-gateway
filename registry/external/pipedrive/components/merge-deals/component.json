@@ -1,0 +1,7 @@
+{
+  "key": "pipedrive-merge-deals",
+  "name": "Merge Deals",
+  "description": "Merge two deals in Pipedrive. [See the documentation](https://developers.pipedrive.com/docs/api/v1/Deals#mergeDeals)",
+  "type": "action",
+  "version": "0.0.10"
+}

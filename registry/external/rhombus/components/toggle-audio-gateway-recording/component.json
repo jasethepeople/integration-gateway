@@ -1,0 +1,7 @@
+{
+  "key": "rhombus-toggle-audio-gateway-recording",
+  "name": "Toggle Audio Gateway Recording",
+  "description": "Update audio gateway settings to enable or disable audio recording. [See the documentation](https://apidocs.rhombus.com/reference/updateaudiogatewayconfig)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,21 @@
+{
+  "app": "dex",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dex-create-note",
+    "dex-create-reminder",
+    "dex-create-update-contact",
+    "dex-list-contact-ids-options"
+  ]
+}

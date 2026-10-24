@@ -1,0 +1,27 @@
+{
+  "app": "chatwork",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "room": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "member": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "chatwork-create-message",
+    "chatwork-create-room",
+    "chatwork-create-task",
+    "chatwork-list-room-options",
+    "chatwork-new-message-received",
+    "chatwork-new-task-completed"
+  ]
+}

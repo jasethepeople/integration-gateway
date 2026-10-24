@@ -1,0 +1,7 @@
+{
+  "key": "teamgate-list-person-id-options",
+  "name": "List PersonId Options",
+  "description": "Retrieves available options for the PersonId field.",
+  "type": "action",
+  "version": "0.0.1"
+}

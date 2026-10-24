@@ -1,0 +1,7 @@
+{
+  "key": "dictionary_api-get-word-definition",
+  "name": "Get Word Definition",
+  "description": "Get the definition for an English word. [See docs here](https://dictionaryapi.dev/)",
+  "type": "action",
+  "version": "0.0.2"
+}

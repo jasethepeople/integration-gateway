@@ -1,0 +1,7 @@
+{
+  "key": "smugmug-upload-image",
+  "name": "Upload Image",
+  "description": "Uploads an image to a SmugMug album. [See the docs here](https://api.smugmug.com/services/api/?method=upload)",
+  "type": "action",
+  "version": "0.1.3"
+}

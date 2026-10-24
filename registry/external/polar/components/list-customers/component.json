@@ -1,0 +1,7 @@
+{
+  "key": "polar-list-customers",
+  "name": "List Customers",
+  "description": "List customers according to the specified filters. [See the API docs](https://polar.sh/docs/api-reference/customers/list)",
+  "type": "action",
+  "version": "0.0.1"
+}

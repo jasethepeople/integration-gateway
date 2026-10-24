@@ -1,0 +1,72 @@
+{
+  "app": "buddee",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "companyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "employeeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "leaveTypeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "locationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "costCenterId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "costUnitId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "departmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timeRegistrationTypeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "buddee-create-employee",
+    "buddee-create-leave-request",
+    "buddee-list-company-id-options",
+    "buddee-list-cost-center-id-options",
+    "buddee-list-cost-unit-id-options",
+    "buddee-list-department-id-options",
+    "buddee-list-employee-id-options",
+    "buddee-list-employees",
+    "buddee-list-job-id-options",
+    "buddee-list-leave-requests",
+    "buddee-list-leave-type-id-options",
+    "buddee-list-location-id-options",
+    "buddee-list-project-id-options",
+    "buddee-list-time-registration-type-id-options",
+    "buddee-list-time-registrations",
+    "buddee-new-employee-created",
+    "buddee-new-employee-updated",
+    "buddee-new-leave-request-created",
+    "buddee-new-time-registration-created"
+  ]
+}

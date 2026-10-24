@@ -1,0 +1,7 @@
+{
+  "key": "fakturoid-invoice-updated",
+  "name": "New Invoice Updated",
+  "description": "Emit new event when an invoice is created or updated.",
+  "type": "source",
+  "version": "0.0.1"
+}

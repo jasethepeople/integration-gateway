@@ -1,0 +1,7 @@
+{
+  "key": "mojo_helpdesk-new-ticket-created",
+  "name": "New Ticket Created",
+  "description": "Emit new event when a new ticket is created. [See the docs here](https://github.com/mojohelpdesk/mojohelpdesk-api-doc#list-tickets)",
+  "type": "source",
+  "version": "0.0.1"
+}

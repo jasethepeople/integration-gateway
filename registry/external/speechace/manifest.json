@@ -1,0 +1,30 @@
+{
+  "app": "speechace",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "dialect": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "filePath": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "product_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "speechace-score-scripted-recording",
+    "speechace-transcribe-and-score-recording"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

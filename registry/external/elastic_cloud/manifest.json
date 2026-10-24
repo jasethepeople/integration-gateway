@@ -1,0 +1,61 @@
+{
+  "app": "elastic_cloud",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "deploymentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "rulesetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "region": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "version": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "resources": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "metadata": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "includeByDefault": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "rules": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "elastic_cloud-create-deployment",
+    "elastic_cloud-create-traffic-filter",
+    "elastic_cloud-delete-traffic-filter",
+    "elastic_cloud-get-deployment",
+    "elastic_cloud-list-deployments",
+    "elastic_cloud-list-traffic-filters",
+    "elastic_cloud-update-deployment",
+    "elastic_cloud-update-traffic-filter"
+  ]
+}

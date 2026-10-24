@@ -1,0 +1,33 @@
+{
+  "app": "buysellads",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "lineItemId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "csvOutput": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "buysellads-get-creatives-daily-stats",
+    "buysellads-get-creatives",
+    "buysellads-get-daily-stats",
+    "buysellads-get-line-items"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "app": "tripadvisor_content_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "locationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "searchQuery": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "address": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "category": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "tripadvisor_content_api-location-details",
+    "tripadvisor_content_api-location-reviews",
+    "tripadvisor_content_api-location-search"
+  ]
+}

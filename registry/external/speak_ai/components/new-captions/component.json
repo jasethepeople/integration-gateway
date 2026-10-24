@@ -1,0 +1,7 @@
+{
+  "key": "speak_ai-new-captions",
+  "name": "New Captions (Instant)",
+  "description": "Emit new event with the caption file (SRT or VTT) when Speak AI finishes analyzing a media file (`media.analyzed`, `media.reanalyzed`). [See the documentation](https://docs.speakai.co/api/exports/#post-media-export-media-id-file-type).",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "spotlightr-video-viewed",
+  "name": "New Video View",
+  "description": "Emit new event when a specific video is viewed by a user.",
+  "type": "source",
+  "version": "0.0.1"
+}

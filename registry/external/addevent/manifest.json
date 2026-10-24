@@ -1,0 +1,32 @@
+{
+  "app": "addevent",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "calendarId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eventId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timezone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "addevent-create-event",
+    "addevent-create-rsvp-for-attendee",
+    "addevent-list-calendar-id-options",
+    "addevent-list-event-id-options",
+    "addevent-list-timezone-options",
+    "addevent-new-calendar-subscriber",
+    "addevent-new-rsvp-attendee"
+  ]
+}

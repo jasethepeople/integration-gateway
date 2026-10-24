@@ -1,0 +1,7 @@
+{
+  "key": "planview_leankit-duplicate-card",
+  "name": "Duplicate Card",
+  "description": "Duplicate a card. [See the docs here](https://success.planview.com/Planview_AgilePlace/AgilePlace_API/01_v2/card/create)",
+  "type": "action",
+  "version": "0.0.3"
+}

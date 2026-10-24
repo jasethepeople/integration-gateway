@@ -1,0 +1,7 @@
+{
+  "key": "teamleader_focus-update-invoice",
+  "name": "Update Invoice",
+  "description": "Update a draft invoice. Booked invoices cannot be updated. [See the documentation](https://developer.teamleader.eu/#/reference/invoicing/invoices/invoices.update)",
+  "type": "action",
+  "version": "0.0.5"
+}

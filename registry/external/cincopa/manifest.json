@@ -1,0 +1,30 @@
+{
+  "app": "cincopa",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "fid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "rid": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "cincopa-add-assets-to-gallery",
+    "cincopa-create-gallery",
+    "cincopa-list-fid-options",
+    "cincopa-upload-asset-from-url",
+    "cincopa-asset-uploaded-instant",
+    "cincopa-gallery-created-instant"
+  ],
+  "npmImports": [
+    "uuid"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_sql_server-list-table-options",
+  "name": "List Table Options",
+  "description": "Retrieves available options for the Table field.",
+  "type": "action",
+  "version": "0.0.1"
+}

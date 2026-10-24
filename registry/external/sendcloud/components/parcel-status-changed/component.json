@@ -1,0 +1,7 @@
+{
+  "key": "sendcloud-parcel-status-changed",
+  "name": "Parcel Status Changed",
+  "description": "Emit new event each time a parcel status changes.",
+  "type": "source",
+  "version": "0.0.2"
+}

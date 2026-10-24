@@ -1,0 +1,7 @@
+{
+  "key": "gitlab-new-branch",
+  "name": "New Branch (Instant)",
+  "description": "Emit new event when a new branch is created",
+  "type": "source",
+  "version": "0.1.3"
+}

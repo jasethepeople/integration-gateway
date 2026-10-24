@@ -1,0 +1,7 @@
+{
+  "key": "tiktok_ads_manager-create-or-update-ad",
+  "name": "Create or Update Ad",
+  "description": "Create a new TikTok ad or update an existing one.",
+  "type": "action",
+  "version": "0.0.2"
+}

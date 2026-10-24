@@ -1,0 +1,19 @@
+{
+  "app": "reviewflowz",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "reviewflowz-list-account-id-options",
+    "reviewflowz-new-review"
+  ]
+}

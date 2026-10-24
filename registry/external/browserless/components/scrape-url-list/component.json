@@ -1,0 +1,7 @@
+{
+  "key": "browserless-scrape-url-list",
+  "name": "Scrape URL List",
+  "description": "Scrape content from a list of pages. [See the documentation](https://www.browserless.io/docs/scrape).",
+  "type": "action",
+  "version": "0.0.4"
+}

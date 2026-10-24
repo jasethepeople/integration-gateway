@@ -1,0 +1,7 @@
+{
+  "key": "sendgrid-list-asm-groups-to-display-options",
+  "name": "List ASM Groups to Display Options",
+  "description": "Retrieves available options for the ASM Groups to Display field.",
+  "type": "action",
+  "version": "0.0.1"
+}

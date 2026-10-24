@@ -1,0 +1,24 @@
+{
+  "app": "dynalist",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "documentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "parentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dynalist-edit-document",
+    "dynalist-get-document-content",
+    "dynalist-insert-document-content"
+  ]
+}

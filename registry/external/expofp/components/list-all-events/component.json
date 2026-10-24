@@ -1,0 +1,7 @@
+{
+  "key": "expofp-list-all-events",
+  "name": "List All Events",
+  "description": "List all events. [See the documentation](https://expofp.docs.apiary.io/#reference/0/list-all-events/list-all-events)",
+  "type": "action",
+  "version": "0.0.3"
+}

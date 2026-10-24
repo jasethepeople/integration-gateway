@@ -1,0 +1,38 @@
+{
+  "app": "sigma",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "folderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "memberId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "server": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sigma-create-team",
+    "sigma-create-workbook",
+    "sigma-list-datasets",
+    "sigma-list-folder-id-options",
+    "sigma-list-member-id-options"
+  ]
+}

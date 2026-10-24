@@ -1,0 +1,7 @@
+{
+  "key": "streak-box-changed-stage",
+  "name": "Box Changed Stage (Instant)",
+  "description": "Emit new event when a box's stage is updated in a pipeline.",
+  "type": "source",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "bingx-market-get-historical-funding",
+  "name": "BingX Market Get History Funding",
+  "description": "Funding Rate History [See the documentation](https://bingx-api.github.io/docs/#/swapV2/market-api.html#Current%20Funding%20Rate).",
+  "type": "action",
+  "version": "0.0.5"
+}

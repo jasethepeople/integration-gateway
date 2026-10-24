@@ -1,0 +1,7 @@
+{
+  "key": "world_news_api-get-geo-coordinates",
+  "name": "Get Geo Coordinates",
+  "description": "Retrieve the latitude and longitude of a location name. [See the docs here](https://worldnewsapi.com/docs/#Get-Geo-Coordinates). **Calling this endpoint requires 1 point.**",
+  "type": "action",
+  "version": "0.0.2"
+}

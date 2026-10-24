@@ -1,0 +1,31 @@
+{
+  "app": "the_magic_drip",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "linkedinUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "desiredState": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "the_magic_drip-add-lead-to-campaign",
+    "the_magic_drip-list-campaigns",
+    "the_magic_drip-list-templates",
+    "the_magic_drip-mark-campaign-active-or-inactive",
+    "the_magic_drip-new-campaign-created",
+    "the_magic_drip-new-template-created"
+  ]
+}

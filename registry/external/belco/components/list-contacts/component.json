@@ -1,0 +1,7 @@
+{
+  "key": "belco-list-contacts",
+  "name": "List Contacts",
+  "description": "List the contacts of a Belco shop, optionally filtered by email address, phone number or contact type.",
+  "type": "action",
+  "version": "0.0.1"
+}

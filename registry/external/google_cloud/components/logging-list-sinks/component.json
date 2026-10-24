@@ -1,0 +1,7 @@
+{
+  "key": "google_cloud-logging-list-sinks",
+  "name": "Logging - List Log Sinks",
+  "description": "List the log sinks used to export log entries in your project. [See the documentation](https://cloud.google.com/nodejs/docs/reference/logging/latest/logging/logging#_google_cloud_logging_Logging_getSinks_member_1_)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "form_io-update-form",
+  "name": "Update Form",
+  "description": "Update a form or resource in Form.io. Only the fields you provide are changed; omitted fields keep their current values. Use **List Forms** to find the form ID. The `components` prop is a JSON-string array of Form.io component schema objects. [See the documentation](https://apidocs.form.io/#9faa123a-3183-4513-9ae5-c64553359749).",
+  "type": "action",
+  "version": "0.0.1"
+}

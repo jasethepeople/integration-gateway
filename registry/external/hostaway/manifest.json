@@ -1,0 +1,50 @@
+{
+  "app": "hostaway",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "conversationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "listingId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "reservationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "channelId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "hostaway-create-reservation",
+    "hostaway-create-task",
+    "hostaway-list-listing-id-options",
+    "hostaway-list-task-id-options",
+    "hostaway-list-user-id-options",
+    "hostaway-send-message-to-guest",
+    "hostaway-update-task",
+    "hostaway-new-message-received",
+    "hostaway-reservation-created",
+    "hostaway-reservation-updated"
+  ],
+  "npmImports": [
+    "lodash.pickby"
+  ]
+}

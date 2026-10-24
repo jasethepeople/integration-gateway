@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-get-dboattachment",
+  "name": "Get Attachment",
+  "description": "Get an attachment by UUID. [See the documentation](https://developer.servicem8.com/reference/getattachments)",
+  "type": "action",
+  "version": "0.0.1"
+}

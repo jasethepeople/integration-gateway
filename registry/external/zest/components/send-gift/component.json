@@ -1,0 +1,7 @@
+{
+  "key": "zest-send-gift",
+  "name": "Send Gift",
+  "description": "Creates a gift within a specified campaign in Zest. [See the documentation](https://gifts.zest.co/admin/integrations/documentation#operation/create)",
+  "type": "action",
+  "version": "0.0.2"
+}

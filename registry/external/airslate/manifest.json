@@ -1,0 +1,49 @@
+{
+  "app": "airslate",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "organizationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "redirectUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subdomain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "category": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "size": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "airslate-create-new-organization",
+    "airslate-create-new-template",
+    "airslate-list-organization-id-options",
+    "airslate-update-template"
+  ]
+}

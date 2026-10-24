@@ -1,0 +1,7 @@
+{
+  "key": "page_x-add-new-lead",
+  "name": "Add New Lead",
+  "description": "Create a new lead on PageX CRM. [See the documentation](https://rapidapi.com/thunderhurt/api/pagexcrm)",
+  "type": "action",
+  "version": "0.0.2"
+}

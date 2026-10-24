@@ -1,0 +1,7 @@
+{
+  "key": "invision_community-new-member-instant",
+  "name": "New Member (Instant)",
+  "description": "Emit new event when a new member account is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

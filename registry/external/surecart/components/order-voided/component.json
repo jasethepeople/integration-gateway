@@ -1,0 +1,7 @@
+{
+  "key": "surecart-order-voided",
+  "name": "New Order Voided (Instant)",
+  "description": "Emit new event when an order is voided. [See the documentation](https://developer.surecart.com/api-reference/webhook-endpoints/create)",
+  "type": "source",
+  "version": "0.0.3"
+}

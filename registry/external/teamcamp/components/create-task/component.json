@@ -1,0 +1,7 @@
+{
+  "key": "teamcamp-create-task",
+  "name": "Create Task",
+  "description": "Create a new task in the Project. [See the documentation](https://api.teamcamp.app/api-reference/task/createTask)",
+  "type": "action",
+  "version": "0.0.2"
+}

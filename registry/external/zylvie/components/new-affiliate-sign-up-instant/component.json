@@ -1,0 +1,7 @@
+{
+  "key": "zylvie-new-affiliate-sign-up-instant",
+  "name": "New Affiliate Sign Up (Instant)",
+  "description": "Emit new event when a visitor signs up to be an affiliate or when they accept an invitation to be an affiliate. [See the documentation](https://developers.zylvie.com/webhooks/subscribe).",
+  "type": "source",
+  "version": "0.0.1"
+}

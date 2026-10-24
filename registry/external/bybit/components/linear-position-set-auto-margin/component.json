@@ -1,0 +1,7 @@
+{
+  "key": "bybit-linear-position-set-auto-margin",
+  "name": "ByBit Linear Position Set Auto Margin",
+  "description": "Auto Update Margin.",
+  "type": "action",
+  "version": "0.0.3"
+}

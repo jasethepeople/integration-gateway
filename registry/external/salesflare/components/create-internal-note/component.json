@@ -1,0 +1,7 @@
+{
+  "key": "salesflare-create-internal-note",
+  "name": "Create Internal Note",
+  "description": "Create an internal note. [See the docs here](https://api.salesflare.com/docs#tag/Internal-Notes)",
+  "type": "action",
+  "version": "0.0.2"
+}

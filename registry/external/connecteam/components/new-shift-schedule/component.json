@@ -1,0 +1,7 @@
+{
+  "key": "connecteam-new-shift-schedule",
+  "name": "New Shift Schedule",
+  "description": "Emit new event when new shifts are created.",
+  "type": "source",
+  "version": "0.0.1"
+}

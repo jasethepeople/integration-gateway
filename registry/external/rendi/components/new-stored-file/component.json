@@ -1,0 +1,7 @@
+{
+  "key": "rendi-new-stored-file",
+  "name": "New Stored File",
+  "description": "Emit new event when a new file is uploaded to an account. [See the documentation](https://docs.rendi.dev/api-reference/endpoint/list-files)",
+  "type": "source",
+  "version": "0.0.1"
+}

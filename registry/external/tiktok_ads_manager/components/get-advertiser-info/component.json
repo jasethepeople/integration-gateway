@@ -1,0 +1,7 @@
+{
+  "key": "tiktok_ads_manager-get-advertiser-info",
+  "name": "Get Advertiser Info",
+  "description": "Identity tool — call this first when a user references 'my account' or 'my campaigns'.",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "arcgis_online-list-layers",
+  "name": "List Layers",
+  "description": "List all layers in a Feature Service. Returns each layer's id, name, geometry type, and type. [See the documentation](https://developers.arcgis.com/rest/services-reference/enterprise/feature-service/)",
+  "type": "action",
+  "version": "0.0.1"
+}

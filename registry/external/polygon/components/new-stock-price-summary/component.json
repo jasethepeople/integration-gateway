@@ -1,0 +1,7 @@
+{
+  "key": "polygon-new-stock-price-summary",
+  "name": "New Stock Price Summary",
+  "description": "Emit new event when the daily price summary (open, high, low, close) for a specified stock ticker is available.",
+  "type": "source",
+  "version": "0.0.1"
+}

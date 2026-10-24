@@ -1,0 +1,7 @@
+{
+  "key": "cleverreach-create-subscriber",
+  "name": "Create Subscriber",
+  "description": "Adds a new subscriber to a mailing list. [See the documentation](https://rest.cleverreach.com/explorer/v3/#!/groups-v3/create__post)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,44 @@
+{
+  "app": "helpwise",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "mailboxId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "to": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "threadIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "tagIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "inboxId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "helpwise-apply-tag",
+    "helpwise-close-conversation",
+    "helpwise-list-mailbox-id-options",
+    "helpwise-list-tag-ids-options",
+    "helpwise-list-to-options",
+    "helpwise-send-email",
+    "helpwise-new-assigned-conversation"
+  ]
+}

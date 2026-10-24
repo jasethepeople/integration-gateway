@@ -1,0 +1,7 @@
+{
+  "key": "bitport-new-file",
+  "name": "New File",
+  "description": "Emit new event when a new file is added to a project in Bitport. [See the documentation](https://bitport.io/api/index.html?url=/v2/cloud/byPath)",
+  "type": "source",
+  "version": "0.0.1"
+}

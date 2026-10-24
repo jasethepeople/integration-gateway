@@ -1,0 +1,7 @@
+{
+  "key": "wordpress_org-update-post",
+  "name": "Update Post",
+  "description": "Updates a post specified by its ID. [See the documentation](https://developer.wordpress.org/rest-api/reference/posts/#update-a-post)",
+  "type": "action",
+  "version": "0.0.5"
+}

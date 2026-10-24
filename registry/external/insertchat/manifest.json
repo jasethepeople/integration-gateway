@@ -1,0 +1,37 @@
+{
+  "app": "insertchat",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "chatbotId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "leadId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "chatSessionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "app_uid": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "insertchat-create-lead",
+    "insertchat-delete-lead",
+    "insertchat-list-chatbot-id-options",
+    "insertchat-list-lead-id-options",
+    "insertchat-push-message-existing-chat",
+    "insertchat-new-ai-chatbot",
+    "insertchat-new-chat-session",
+    "insertchat-new-lead"
+  ]
+}

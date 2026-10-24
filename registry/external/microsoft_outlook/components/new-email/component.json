@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_outlook-new-email",
+  "name": "New Email Event (Instant)",
+  "description": "Emit new event when an email is received in specified folders.",
+  "type": "source",
+  "version": "0.1.22"
+}

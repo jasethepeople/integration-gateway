@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-get-record-by-id",
+  "name": "Get Record by ID",
+  "description": "Retrieve one Salesforce record of any object type by its record ID.",
+  "type": "action",
+  "version": "0.0.5"
+}

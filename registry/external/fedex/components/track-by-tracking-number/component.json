@@ -1,0 +1,7 @@
+{
+  "key": "fedex-track-by-tracking-number",
+  "name": "Track by Tracking Number",
+  "description": "Tracks a package by tracking number. [See the documentation](https://developer.fedex.com/api/en-us/catalog/track/v1/docs.html#operation/Track%20by%20Tracking%20Number)",
+  "type": "action",
+  "version": "0.0.1"
+}

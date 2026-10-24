@@ -1,0 +1,7 @@
+{
+  "key": "mailerlite-subscriber-added-to-group",
+  "name": "New Subscriber Added To Group (Instant)",
+  "description": "Emit new event when a new subscriber is added to a group.",
+  "type": "source",
+  "version": "0.0.2"
+}

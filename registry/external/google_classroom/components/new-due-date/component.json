@@ -1,0 +1,7 @@
+{
+  "key": "google_classroom-new-due-date",
+  "name": "New Due Date",
+  "description": "Emit new event when an assignment's due date is created or updated'.",
+  "type": "source",
+  "version": "0.0.3"
+}

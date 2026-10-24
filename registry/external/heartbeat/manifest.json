@@ -1,0 +1,33 @@
+{
+  "app": "heartbeat",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "groupID": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emails": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "heartbeat-add-to-group",
+    "heartbeat-create-event",
+    "heartbeat-list-emails-options",
+    "heartbeat-list-group-id-options",
+    "heartbeat-send-direct-message",
+    "heartbeat-new-event-instant",
+    "heartbeat-new-user-instant",
+    "heartbeat-user-updated-instant"
+  ]
+}

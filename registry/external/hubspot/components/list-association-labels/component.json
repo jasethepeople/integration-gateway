@@ -1,0 +1,7 @@
+{
+  "key": "hubspot-list-association-labels",
+  "name": "List Association Labels",
+  "description": "List association type definitions (labels and type IDs) between two object types in CRM v4.",
+  "type": "action",
+  "version": "0.0.7"
+}

@@ -1,0 +1,131 @@
+{
+  "app": "thanks_io",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "subAccount": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mailingList": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recipients": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "handwritingStyle": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "giftCardBrand": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "frontImageUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "address": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "address2": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "city": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "province": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "postalCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "message": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "returnName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "returnAddress": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "returnAddress2": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "returnCity": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "returnState": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "returnPostalCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "postcardSize": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "radiusCenter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "radiusDistance": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "thanks_io-add-recipient",
+    "thanks_io-delete-recipient",
+    "thanks_io-list-gift-card-brand-options",
+    "thanks_io-list-handwriting-style-options",
+    "thanks_io-list-sub-account-options",
+    "thanks_io-send-giftcard",
+    "thanks_io-send-letter-radius-search",
+    "thanks_io-send-letter",
+    "thanks_io-send-notecard-radius-search",
+    "thanks_io-send-notecard",
+    "thanks_io-send-postcard-radius-search",
+    "thanks_io-send-postcard",
+    "thanks_io-new-delivery",
+    "thanks_io-new-order",
+    "thanks_io-new-recipient"
+  ],
+  "npmImports": [
+    "date-fns"
+  ]
+}

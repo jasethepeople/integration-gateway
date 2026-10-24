@@ -1,0 +1,7 @@
+{
+  "key": "zoom_admin-list-past-meeting-participants",
+  "name": "List Past Meeting Participants",
+  "description": "List all participants of a past meeting. [See the documentation](https://developers.zoom.us/docs/api/meetings/#tag/meetings/GET/past_meetings/{meetingId}/participants)",
+  "type": "action",
+  "version": "0.0.3"
+}

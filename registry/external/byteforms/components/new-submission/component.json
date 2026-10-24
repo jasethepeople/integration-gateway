@@ -1,0 +1,7 @@
+{
+  "key": "byteforms-new-submission",
+  "name": "New Submission",
+  "description": "Emit new event when a user submission to a form occurs. [See the documentation](https://forms.bytesuite.io/docs/api#endpoints)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "processplan-start-new-process",
+  "name": "Start New Process",
+  "description": "Starts a new process instance and populates its fields. Best used when initiating a new workflow. [See the documentation](https://techdocs.processplan.com/)",
+  "type": "action",
+  "version": "0.0.1"
+}

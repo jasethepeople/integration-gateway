@@ -1,0 +1,7 @@
+{
+  "key": "elastic_cloud-update-deployment",
+  "name": "Update Deployment",
+  "description": "Update an existing Elastic Cloud deployment, including resizing cluster capacity. Cluster resize is performed here by supplying updated `resources` sizing (no separate resize action exists). Run **List Deployments** first to find the deployment ID. [See the documentation](https://www.elastic.co/docs/api/doc/cloud/operation/operation-update-deployment)",
+  "type": "action",
+  "version": "0.0.2"
+}

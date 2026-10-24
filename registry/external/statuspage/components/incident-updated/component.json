@@ -1,0 +1,7 @@
+{
+  "key": "statuspage-incident-updated",
+  "name": "Incident Updated (Instant)",
+  "description": "Emit new event on each updated incident.",
+  "type": "source",
+  "version": "0.0.4"
+}

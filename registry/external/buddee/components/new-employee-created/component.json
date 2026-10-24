@@ -1,0 +1,7 @@
+{
+  "key": "buddee-new-employee-created",
+  "name": "New Employee Created",
+  "description": "Emit new event when a new employee is added to the system. [See the documentation](https://developers.buddee.nl/#fd057d3c-8b40-4808-a4d2-eeffc5da82d7)",
+  "type": "source",
+  "version": "0.0.1"
+}

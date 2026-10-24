@@ -1,0 +1,16 @@
+{
+  "app": "chatpdf",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "chatpdf-add-pdf-via-url",
+    "chatpdf-chat-with-pdf",
+    "chatpdf-delete-pdf"
+  ]
+}

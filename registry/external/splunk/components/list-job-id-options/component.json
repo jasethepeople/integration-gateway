@@ -1,0 +1,7 @@
+{
+  "key": "splunk-list-job-id-options",
+  "name": "List Search ID Options",
+  "description": "Retrieves available options for the Search ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

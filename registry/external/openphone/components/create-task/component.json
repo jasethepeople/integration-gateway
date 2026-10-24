@@ -1,0 +1,7 @@
+{
+  "key": "openphone-create-task",
+  "name": "Create Task",
+  "description": "Create a task tied to an OpenPhone conversation. Example: call with conversationId=\"CN123abc\", title=\"Follow up with customer re: onboarding\", description=\"Customer asked about pricing tiers.\" → returns the created task record, including its `id`. Use **List Conversations** or **List Messages** to find the `conversationId`. [See the documentation](https://www.openphone.com/docs/api-reference/tasks/create-a-task)",
+  "type": "action",
+  "version": "0.0.2"
+}

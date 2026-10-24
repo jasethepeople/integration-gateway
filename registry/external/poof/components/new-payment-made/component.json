@@ -1,0 +1,7 @@
+{
+  "key": "poof-new-payment-made",
+  "name": "New Payment Made",
+  "description": "Emit new events when a payment is made in Poof. [See the documentation](https://docs.poof.io/reference/notifications-api)",
+  "type": "source",
+  "version": "0.0.1"
+}

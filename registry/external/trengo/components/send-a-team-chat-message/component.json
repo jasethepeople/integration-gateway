@@ -1,0 +1,7 @@
+{
+  "key": "trengo-send-a-team-chat-message",
+  "name": "Send A Team Chat Message",
+  "description": "Send a message as a bot in the Team Chat, [See the documentation](https://developers.trengo.com/reference/sending-a-bot-message)",
+  "type": "action",
+  "version": "0.0.13"
+}

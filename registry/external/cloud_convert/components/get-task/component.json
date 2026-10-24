@@ -1,0 +1,7 @@
+{
+  "key": "cloud_convert-get-task",
+  "name": "Get Task",
+  "description": "Retrieves a task by ID. [See the documentation](https://cloudconvert.com/api/v2/tasks#tasks-show)",
+  "type": "action",
+  "version": "0.0.2"
+}

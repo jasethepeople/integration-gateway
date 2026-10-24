@@ -1,0 +1,7 @@
+{
+  "key": "apollo_io_oauth-enrich-person",
+  "name": "Enrich Person",
+  "description": "Enriches a person's information using Apollo's 270M+",
+  "type": "action",
+  "version": "0.0.2"
+}

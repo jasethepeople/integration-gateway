@@ -1,0 +1,62 @@
+{
+  "app": "recruitis",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "skype": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "linkedin": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "facebook": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "twitter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "gdprAgreement": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "jobID": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "recruitis-create-answer",
+    "recruitis-create-candidate",
+    "recruitis-create-job",
+    "recruitis-get-jobs",
+    "recruitis-list-job-id-options"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "app": "roundtable",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "prompt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "thinkingLevel": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "roundtable-consult-council",
+    "roundtable-debug-issue",
+    "roundtable-design-architecture",
+    "roundtable-review-code"
+  ]
+}

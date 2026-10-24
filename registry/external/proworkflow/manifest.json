@@ -1,0 +1,93 @@
+{
+  "app": "proworkflow",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "companyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "categoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "clientId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstname": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastname": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskDescription": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskPriority": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskStartDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskDueDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "password": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "proworkflow-add-client-to-project",
+    "proworkflow-add-contact",
+    "proworkflow-add-project-task",
+    "proworkflow-add-project",
+    "proworkflow-delete-project",
+    "proworkflow-list-category-id-options",
+    "proworkflow-list-client-id-options",
+    "proworkflow-list-company-id-options",
+    "proworkflow-list-project-id-options",
+    "proworkflow-list-task-id-options",
+    "proworkflow-update-project-task",
+    "proworkflow-contact-updated",
+    "proworkflow-new-company-created",
+    "proworkflow-new-contact-created",
+    "proworkflow-new-project-created",
+    "proworkflow-project-updated"
+  ]
+}

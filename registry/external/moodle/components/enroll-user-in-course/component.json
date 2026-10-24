@@ -1,0 +1,7 @@
+{
+  "key": "moodle-enroll-user-in-course",
+  "name": "Enroll a User in a Course",
+  "description": "Manually enrolls a user into a specified course with a given role and optional start and end dates. [See the documentation](https://moodledev.io/docs/5.2)",
+  "type": "action",
+  "version": "0.0.2"
+}

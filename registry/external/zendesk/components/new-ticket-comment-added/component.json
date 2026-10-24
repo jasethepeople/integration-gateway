@@ -1,0 +1,7 @@
+{
+  "key": "zendesk-new-ticket-comment-added",
+  "name": "New Ticket Comment Added (Instant)",
+  "description": "Emit new event when a ticket comment has been added",
+  "type": "source",
+  "version": "0.1.11"
+}

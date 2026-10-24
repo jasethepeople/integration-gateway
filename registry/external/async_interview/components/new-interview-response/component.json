@@ -1,0 +1,7 @@
+{
+  "key": "async_interview-new-interview-response",
+  "name": "New Interview Response",
+  "description": "Emit new event when a new interview response is received.",
+  "type": "source",
+  "version": "0.0.1"
+}

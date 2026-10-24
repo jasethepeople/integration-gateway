@@ -1,0 +1,122 @@
+{
+  "app": "rydoo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "amount": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "currencyCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "expenseDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "categoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "countryCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "merchantName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "comment": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tripId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "parentGroupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "branchId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "branchIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "paymentMethodId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "receiptId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customFieldValues": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "customExchangeRates": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "authentication": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "languageCountryCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "expenseId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "expenseIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "rydoo-add-new-user",
+    "rydoo-create-bank-transaction",
+    "rydoo-create-expense",
+    "rydoo-create-project",
+    "rydoo-create-trip",
+    "rydoo-export-expenses",
+    "rydoo-find-group",
+    "rydoo-get-user-details",
+    "rydoo-reject-expenses",
+    "rydoo-search-branches",
+    "rydoo-search-payment-methods",
+    "rydoo-search-projects",
+    "rydoo-search-trips",
+    "rydoo-search-user",
+    "rydoo-set-expense-to-reimbursed",
+    "rydoo-update-expense-status-to-reported",
+    "rydoo-update-user-profile"
+  ]
+}

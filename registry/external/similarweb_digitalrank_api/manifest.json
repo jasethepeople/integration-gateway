@@ -1,0 +1,24 @@
+{
+  "app": "similarweb_digitalrank_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "domain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "similarweb_digitalrank_api-get-ranked-sites",
+    "similarweb_digitalrank_api-get-subscription-status",
+    "similarweb_digitalrank_api-get-website-rank"
+  ]
+}

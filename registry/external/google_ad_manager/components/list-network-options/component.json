@@ -1,0 +1,7 @@
+{
+  "key": "google_ad_manager-list-network-options",
+  "name": "List Network Options",
+  "description": "Retrieves available options for the Network field.",
+  "type": "action",
+  "version": "0.0.1"
+}

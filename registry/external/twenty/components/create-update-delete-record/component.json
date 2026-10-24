@@ -1,0 +1,7 @@
+{
+  "key": "twenty-create-update-delete-record",
+  "name": "Create, Update, or Delete a Record in Twenty",
+  "description": "Create, update, or delete a single record in Twenty. This action allows for dynamic handling of records based on specified action type. [See the documentation](https://api.twenty.com/docs)",
+  "type": "action",
+  "version": "0.0.2"
+}

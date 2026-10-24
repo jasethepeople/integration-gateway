@@ -1,0 +1,7 @@
+{
+  "key": "espocrm-create-task",
+  "name": "Create Task",
+  "description": "This component creates a new task in Espo CRM. [See the documentation](https://docs.espocrm.com/development/api/crud/#create)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "dayschedule-list-schedule-options",
+  "name": "List Schedule Options",
+  "description": "Retrieves available options for the Schedule field.",
+  "type": "action",
+  "version": "0.0.1"
+}

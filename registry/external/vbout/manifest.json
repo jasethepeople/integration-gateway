@@ -1,0 +1,155 @@
+{
+  "app": "vbout",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "audiences": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "body": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "channel": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "confirmationEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "confirmationMessage": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contact": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "communications": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "doubleOptin": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "emailSubject": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "errorMessage": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fromEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fromName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ipaddress": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "isDraft": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "isScheduled": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "list": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "listArray": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "message": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "notify": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "notifyEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "photo": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "replyTo": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "scheduledDatetime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "subject": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "successEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "successMessage": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "trackableLinks": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "vbout-add-contact-to-list-by-email",
+    "vbout-add-contact-to-list",
+    "vbout-add-custom-event-to-contact",
+    "vbout-create-email-list",
+    "vbout-create-email-marketing-campaign",
+    "vbout-create-social-media-message",
+    "vbout-list-audiences-options",
+    "vbout-list-channel-options",
+    "vbout-list-list-array-options",
+    "vbout-unsubscribe-contact",
+    "vbout-update-contact",
+    "vbout-new-contact-property-change",
+    "vbout-new-contact",
+    "vbout-new-email-campaign",
+    "vbout-new-social-media-message"
+  ],
+  "npmImports": [
+    "moment"
+  ]
+}

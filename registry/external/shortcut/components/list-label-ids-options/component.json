@@ -1,0 +1,7 @@
+{
+  "key": "shortcut-list-label-ids-options",
+  "name": "List Label IDs Options",
+  "description": "Retrieves available options for the Label IDs field.",
+  "type": "action",
+  "version": "0.0.1"
+}

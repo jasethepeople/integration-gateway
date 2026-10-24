@@ -1,0 +1,7 @@
+{
+  "key": "bamboohr-add-application-comment",
+  "name": "Add Application Comment",
+  "description": "Add a comment to an application. [See the documentation](https://documentation.bamboohr.com/reference/create-application-comment)",
+  "type": "action",
+  "version": "0.0.3"
+}

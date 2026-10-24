@@ -1,0 +1,7 @@
+{
+  "key": "faunadb-list-collections-options",
+  "name": "List Collections Options",
+  "description": "Retrieves available options for the Collections field.",
+  "type": "action",
+  "version": "0.0.1"
+}

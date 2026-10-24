@@ -1,0 +1,7 @@
+{
+  "key": "zoho_sheet-new-or-updated-row-instant",
+  "name": "New or Updated Row (Instant)",
+  "description": "Emit new event whenever a row is added or modified.",
+  "type": "source",
+  "version": "0.0.1"
+}

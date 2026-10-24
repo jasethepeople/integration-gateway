@@ -1,0 +1,7 @@
+{
+  "key": "omise-create-customer",
+  "name": "Create Customer",
+  "description": "Registers a new customer in the OPN platform. [See the documentation](https://docs.opn.ooo/customers-api#create)",
+  "type": "action",
+  "version": "0.0.2"
+}

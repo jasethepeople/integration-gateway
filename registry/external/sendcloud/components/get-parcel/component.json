@@ -1,0 +1,7 @@
+{
+  "key": "sendcloud-get-parcel",
+  "name": "Get Parcel",
+  "description": "Retrieve a parcel by ID. [See the documentation](https://api.sendcloud.dev/docs/sendcloud-public-api/branches/v2/parcels/operations/get-a-parcel)",
+  "type": "action",
+  "version": "0.0.3"
+}

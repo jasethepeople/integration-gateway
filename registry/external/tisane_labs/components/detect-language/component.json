@@ -1,0 +1,7 @@
+{
+  "key": "tisane_labs-detect-language",
+  "name": "Detect Language",
+  "description": "Detects languages used in the specified text fragment. [See the documentation](https://docs.tisane.ai/#bf10f7e0-6643-4d8e-861f-9fa158327170)",
+  "type": "action",
+  "version": "0.0.2"
+}

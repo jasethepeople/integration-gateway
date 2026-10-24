@@ -1,0 +1,26 @@
+{
+  "app": "kucoin_futures",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "secret_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "passphrase": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "kucoin_futures-generic-api-call"
+  ],
+  "npmImports": [
+    "crypto",
+    "querystring"
+  ]
+}

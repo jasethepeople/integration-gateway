@@ -1,0 +1,7 @@
+{
+  "key": "box-get-comments",
+  "name": "Get Comments",
+  "description": "Fetches all comments on a Box file, paginating through every page and returning the full list. Use **Add Comment** to create a new comment on the file. [See the documentation](https://developer.box.com/reference/get-files-id-comments/).",
+  "type": "action",
+  "version": "0.0.9"
+}

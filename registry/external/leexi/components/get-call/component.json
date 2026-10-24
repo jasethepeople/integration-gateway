@@ -1,0 +1,7 @@
+{
+  "key": "leexi-get-call",
+  "name": "Get Call",
+  "description": "Get details of a call by its ID. [See the documentation](https://developer.leexi.ai/)",
+  "type": "action",
+  "version": "0.0.2"
+}

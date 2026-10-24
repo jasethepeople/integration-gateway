@@ -1,0 +1,40 @@
+{
+  "app": "mistral_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "fileIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "modelId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "batchJobId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mistral_ai-create-batch-job",
+    "mistral_ai-create-embeddings",
+    "mistral_ai-download-batch-job-results",
+    "mistral_ai-generate-text",
+    "mistral_ai-get-batch-job-details",
+    "mistral_ai-list-batch-job-id-options",
+    "mistral_ai-list-models",
+    "mistral_ai-upload-file",
+    "mistral_ai-new-batch-job-completed",
+    "mistral_ai-new-batch-job-failure",
+    "mistral_ai-new-model-added"
+  ],
+  "npmImports": [
+    "form-data",
+    "fs"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "app": "better_stack",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "policyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "incidentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "uptime_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "better_stack-acknowledge-incident",
+    "better_stack-create-incident",
+    "better_stack-resolve-incident"
+  ]
+}

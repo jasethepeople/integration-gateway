@@ -1,0 +1,7 @@
+{
+  "key": "heygen-new-avatar-video-success",
+  "name": "New Avatar Video Success (Instant)",
+  "description": "Emit new event when a new avatar video has been successfully generated. [See the documentation](https://developers.heygen.com/reference/create-webhook-endpoint)",
+  "type": "source",
+  "version": "0.0.2"
+}

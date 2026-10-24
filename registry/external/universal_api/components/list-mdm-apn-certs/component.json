@@ -1,0 +1,7 @@
+{
+  "key": "universal_api-list-mdm-apn-certs",
+  "name": "List MDM APN Certificates",
+  "description": "List APN (Apple Push Notification) certificates from the MDM API on Universal API. [See the documentation](https://docs.universalapi.io/reference/list-apn-certs).",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "nocrm_io-new-lead",
+  "name": "New Lead",
+  "description": "Emit new event on each lead created.",
+  "type": "source",
+  "version": "0.0.1"
+}

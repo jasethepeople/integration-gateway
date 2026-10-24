@@ -1,0 +1,32 @@
+{
+  "app": "spreadsheet_com",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "columnId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workbookId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "worksheetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "spreadsheet_com-create-rows",
+    "spreadsheet_com-list-workbook-id-options",
+    "spreadsheet_com-update-rows",
+    "spreadsheet_com-row-updated"
+  ],
+  "npmImports": [
+    "moment"
+  ]
+}

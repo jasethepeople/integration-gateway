@@ -1,0 +1,7 @@
+{
+  "key": "zoho_sheet-new-workbook-instant",
+  "name": "New Workbook Created (Instant)",
+  "description": "Emit new event whenever a new workbook is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

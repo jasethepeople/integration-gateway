@@ -1,0 +1,7 @@
+{
+  "key": "quickbooks-list-customer-type-options",
+  "name": "List Customer Type Options",
+  "description": "Retrieves available options for the Customer Type field.",
+  "type": "action",
+  "version": "0.0.1"
+}

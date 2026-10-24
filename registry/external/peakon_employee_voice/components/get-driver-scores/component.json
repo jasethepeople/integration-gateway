@@ -1,0 +1,7 @@
+{
+  "key": "peakon_employee_voice-get-driver-scores",
+  "name": "Get Driver Scores",
+  "description": "Returns engagement scores broken down by Peakon's 14 core drivers: Accomplishment, Autonomy, ",
+  "type": "action",
+  "version": "0.0.2"
+}

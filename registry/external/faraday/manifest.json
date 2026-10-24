@@ -1,0 +1,19 @@
+{
+  "app": "faraday",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "targetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "faraday-list-target-id-options",
+    "faraday-predict"
+  ]
+}

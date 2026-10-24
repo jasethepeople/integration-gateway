@@ -1,0 +1,7 @@
+{
+  "key": "printify-list-blueprint-id-options",
+  "name": "List Blueprint Id Options",
+  "description": "Retrieves available options for the Blueprint Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

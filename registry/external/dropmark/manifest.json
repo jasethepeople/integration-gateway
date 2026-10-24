@@ -1,0 +1,25 @@
+{
+  "app": "dropmark",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "collectionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "password": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dropmark-get-activity",
+    "dropmark-get-items-in-collection",
+    "dropmark-new-activity",
+    "dropmark-new-item-in-collection"
+  ]
+}

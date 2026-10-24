@@ -1,0 +1,7 @@
+{
+  "key": "badger_maps-create-check-in",
+  "name": "Create Check-In",
+  "description": "Creates a check-in. [See the docs](https://badgerupdatedapi.docs.apiary.io/#reference/check-ins/create-check-in-for-account/save-new-check-in-for-an-account).",
+  "type": "action",
+  "version": "0.0.2"
+}

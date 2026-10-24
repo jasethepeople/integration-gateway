@@ -1,0 +1,7 @@
+{
+  "key": "google_tasks-move-task",
+  "name": "Move Task",
+  "description": "Moves an existing task to a different position, parent task, or task list. Use this action to reorganize your task hierarchy or reorder tasks without modifying the task's title, notes, due date, or completion status. To update those properties, use the **Update Task** action instead. [See the documentation](https://developers.google.com/workspace/tasks/reference/rest/v1/tasks/move)",
+  "type": "action",
+  "version": "0.0.2"
+}

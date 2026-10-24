@@ -1,0 +1,45 @@
+{
+  "app": "sender",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "groupIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "subscriberId": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "firstname": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastname": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "triggerAutomation": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sender-add-subscriber-to-group",
+    "sender-create-subscriber",
+    "sender-list-group-ids-options",
+    "sender-remove-subscriber-from-group",
+    "sender-update-subscriber",
+    "sender-new-campaign",
+    "sender-new-group",
+    "sender-new-subscriber"
+  ]
+}

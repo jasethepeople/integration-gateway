@@ -1,0 +1,89 @@
+{
+  "app": "returnless",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "returnOrderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "returnOrderNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "formId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "countryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "itemIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "returnStatusId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "requestStatusId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "locale": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "shipmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "returnAddressId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "returnless-create-return-order",
+    "returnless-list-country-id-options",
+    "returnless-list-return-orders",
+    "returnless-list-return-statuses",
+    "returnless-list-sales-order-items",
+    "returnless-list-sales-orders",
+    "returnless-list-shipments-of-return-order",
+    "returnless-list-shipments",
+    "returnless-list-statuses-of-shipment",
+    "returnless-retrieve-return-address",
+    "returnless-retrieve-return-order",
+    "returnless-retrieve-return-status",
+    "returnless-retrieve-sales-order",
+    "returnless-retrieve-shipment",
+    "returnless-update-return-address",
+    "returnless-update-return-order-status",
+    "returnless-new-return-created",
+    "returnless-return-notes-added",
+    "returnless-return-product-marked-received",
+    "returnless-return-status-changed"
+  ]
+}

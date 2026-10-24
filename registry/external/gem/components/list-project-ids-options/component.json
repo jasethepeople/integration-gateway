@@ -1,0 +1,7 @@
+{
+  "key": "gem-list-project-ids-options",
+  "name": "List Project IDs Options",
+  "description": "Retrieves available options for the Project IDs field.",
+  "type": "action",
+  "version": "0.0.1"
+}

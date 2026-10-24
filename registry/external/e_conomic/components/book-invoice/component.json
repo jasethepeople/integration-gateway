@@ -1,0 +1,7 @@
+{
+  "key": "e_conomic-book-invoice",
+  "name": "Book Invoice",
+  "description": "Books an invoice. [See the documentation](https://restdocs.e-conomic.com/#post-invoices-booked)",
+  "type": "action",
+  "version": "0.0.1"
+}

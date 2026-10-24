@@ -1,0 +1,40 @@
+{
+  "app": "strale",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "task": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "capabilitySlug": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "inputs": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "maxPriceCents": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "dryRun": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "strale-execute-capability",
+    "strale-search-and-execute",
+    "strale-search-capabilities"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "referrizer-list-loyalty-reward-id-options",
+  "name": "List Loyalty Reward ID Options",
+  "description": "Retrieves available options for the Loyalty Reward ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

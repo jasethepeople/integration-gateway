@@ -1,0 +1,7 @@
+{
+  "key": "hyperise-new-image-impression",
+  "name": "New Image Impression",
+  "description": "Emit new event when a new personalised image is viewed. [See the documentation](https://support.hyperise.com/en/api/Image-Views-API)",
+  "type": "source",
+  "version": "0.0.1"
+}

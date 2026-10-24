@@ -1,0 +1,7 @@
+{
+  "key": "qualetics-run-data-machine",
+  "name": "Run Data Machine",
+  "description": "Initiates a previously designed data machine within Qualetics, executing the specific analytical tasks it was built for. [See the documentation](https://docs.qualetics.com/data-machines)",
+  "type": "action",
+  "version": "0.0.2"
+}

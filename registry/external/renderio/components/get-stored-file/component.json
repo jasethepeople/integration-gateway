@@ -1,0 +1,7 @@
+{
+  "key": "renderio-get-stored-file",
+  "name": "Get Stored File",
+  "description": "Retrieve a stored file by ID. [See the documentation](https://renderio.dev/docs/api-reference/files/get-file)",
+  "type": "action",
+  "version": "0.0.2"
+}

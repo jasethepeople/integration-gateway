@@ -1,0 +1,7 @@
+{
+  "key": "callingly-new-lead-created-instant",
+  "name": "New Lead Created (Instant)",
+  "description": "Emit new event when a new lead is created in Callingly. [See the documentation](https://help.callingly.com/article/38-callingly-api-documentation#Create-a-Webhook-fv07m)",
+  "type": "source",
+  "version": "0.0.1"
+}

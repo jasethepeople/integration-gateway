@@ -1,0 +1,7 @@
+{
+  "key": "lightspeed_x-get-customer",
+  "name": "Get Customer",
+  "description": "Retrieves details of a customer. [See the documentation](https://x-series-api.lightspeedhq.com/v2026.01/reference/getcustomerbyid)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "jooto-list-user-id-options",
+  "name": "List Assigned Users IDs Options",
+  "description": "Retrieves available options for the Assigned Users IDs field.",
+  "type": "action",
+  "version": "0.0.1"
+}

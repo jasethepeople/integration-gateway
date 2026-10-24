@@ -1,0 +1,7 @@
+{
+  "key": "incorta-list-schemas",
+  "name": "List Schemas",
+  "description": "Lists the schemas (logical groupings of tables/views) defined in the connected Incorta tenant, via the REST API's List Schemas endpoint.",
+  "type": "action",
+  "version": "0.0.1"
+}

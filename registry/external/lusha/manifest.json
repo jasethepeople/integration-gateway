@@ -1,0 +1,124 @@
+{
+  "app": "lusha",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "companyNames": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "domains": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "locations": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "sizes": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "revenues": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "sicCodes": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "naicsCodes": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "contactNames": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "jobTitles": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "jobTitlesExactMatch": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "countries": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "seniority": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "departments": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "existingDataPoints": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "location": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "requestId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "companyIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "signals": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "companySignals": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "startDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "lusha-company-enrich",
+    "lusha-company-search",
+    "lusha-contact-enrich",
+    "lusha-contact-search",
+    "lusha-get-company-recommendations",
+    "lusha-get-company-signals",
+    "lusha-get-contact-recommendations",
+    "lusha-get-contact-signals",
+    "lusha-get-signal-options",
+    "lusha-list-countries-options",
+    "lusha-list-departments-options",
+    "lusha-list-existing-data-points-options",
+    "lusha-list-naics-codes-options",
+    "lusha-list-revenues-options",
+    "lusha-list-seniority-options",
+    "lusha-list-sic-codes-options",
+    "lusha-list-sizes-options",
+    "lusha-search-and-enrich-companies",
+    "lusha-search-and-enrich-contacts",
+    "lusha-search-company-signals",
+    "lusha-search-contact-signals",
+    "lusha-single-company-search",
+    "lusha-single-contact-search"
+  ]
+}

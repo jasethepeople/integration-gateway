@@ -1,0 +1,14 @@
+{
+  "app": "getform",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "getform-new-submission-received"
+  ]
+}

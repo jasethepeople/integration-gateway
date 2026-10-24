@@ -1,0 +1,7 @@
+{
+  "key": "gatherup-new-negative-feedback-received",
+  "name": "New Negative Feedback Received",
+  "description": "Emit new event on each new negative feedback received.",
+  "type": "source",
+  "version": "0.0.2"
+}

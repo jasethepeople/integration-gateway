@@ -1,0 +1,7 @@
+{
+  "key": "gagelist-create-gage",
+  "name": "Create Gage",
+  "description": "Creates a new gage on GageList. [See the documentation](https://gagelist.com/developer-resources/add-gage-record/)",
+  "type": "action",
+  "version": "0.0.2"
+}

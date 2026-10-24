@@ -1,0 +1,7 @@
+{
+  "key": "qntrl-create-job",
+  "name": "Create Job",
+  "description": "Creates a new job (card) in Qntrl. [See the documentation](https://core.qntrl.com/apidoc.html?type=reference&module=jobs&action=CreateJob)",
+  "type": "action",
+  "version": "0.0.2"
+}

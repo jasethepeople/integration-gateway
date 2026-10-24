@@ -1,0 +1,10 @@
+{
+  "app": "sendpulse",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "sendpulse-retrieve-info-for-email-address",
+    "sendpulse-unsubscribe-contact-from-mailing-list"
+  ]
+}

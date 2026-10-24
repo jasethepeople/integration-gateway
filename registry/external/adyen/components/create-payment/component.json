@@ -1,0 +1,7 @@
+{
+  "key": "adyen-create-payment",
+  "name": "Create Payment",
+  "description": "Creates a payment for a shopper. [See the documentation](https://docs.adyen.com/api-explorer/Checkout/71/post/payments)",
+  "type": "action",
+  "version": "0.0.2"
+}

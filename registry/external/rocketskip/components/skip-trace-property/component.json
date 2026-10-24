@@ -1,0 +1,7 @@
+{
+  "key": "rocketskip-skip-trace-property",
+  "name": "Skip Trace Property",
+  "description": "Send a property to get phone numbers for the property owner. [See the documentation](https://docs.rocketskip.com/api-reference/endpoint/post)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "wordpress_org-search-posts",
+  "name": "Search Posts",
+  "description": "Searches for specific posts. [See the documentation](https://developer.wordpress.org/rest-api/reference/posts/#list-posts)",
+  "type": "action",
+  "version": "0.0.5"
+}

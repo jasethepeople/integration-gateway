@@ -1,0 +1,7 @@
+{
+  "key": "mailchimp-list-list-id-options",
+  "name": "List Audience List Id Options",
+  "description": "Retrieves available options for the Audience List Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

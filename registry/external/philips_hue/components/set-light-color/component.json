@@ -1,0 +1,7 @@
+{
+  "key": "philips_hue-set-light-color",
+  "name": "Set Light Color",
+  "description": "Sets the light color of a Philips Hue light. [See the documentation](https://developers.meethue.com/develop/hue-api-v2/api-reference/#resource_light__id__put)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,38 @@
+{
+  "app": "cleverreach",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "receiverId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "source": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "additionalData": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "cleverreach-create-subscriber",
+    "cleverreach-list-group-id-options",
+    "cleverreach-update-subscriber",
+    "cleverreach-new-receiver-subscribed",
+    "cleverreach-receiver-unsubscribed"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pdf_api_io-list-templates",
+  "name": "List Templates",
+  "description": "List all templates of a user on PDF-API.io. [See the documentation](https://pdf-api.io/en/docs/api/templates)",
+  "type": "action",
+  "version": "0.0.1"
+}

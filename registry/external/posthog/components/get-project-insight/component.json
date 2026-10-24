@@ -1,0 +1,7 @@
+{
+  "key": "posthog-get-project-insight",
+  "name": "Get Project Insight",
+  "description": "Retrieve a specific insight from a project. [See the documentation](https://posthog.com/docs/api/insights#get-api-projects-project_id-insights-id)",
+  "type": "action",
+  "version": "0.0.2"
+}

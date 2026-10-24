@@ -1,0 +1,30 @@
+{
+  "app": "wave",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "businessId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productsId": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "wave-create-customer",
+    "wave-create-invoice",
+    "wave-list-business-id-options",
+    "wave-new-customer",
+    "wave-new-invoice"
+  ]
+}

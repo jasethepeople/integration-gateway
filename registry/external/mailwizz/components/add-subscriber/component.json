@@ -1,0 +1,7 @@
+{
+  "key": "mailwizz-add-subscriber",
+  "name": "Add Subscriber",
+  "description": "Create a new subscriber to a list. [See the docs here](https://api-docs.mailwizz.com/?python#create-a-subscriber)",
+  "type": "action",
+  "version": "0.0.2"
+}

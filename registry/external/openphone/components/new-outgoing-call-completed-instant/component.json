@@ -1,0 +1,7 @@
+{
+  "key": "openphone-new-outgoing-call-completed-instant",
+  "name": "New Outgoing Call Completed (Instant)",
+  "description": "Emit new event when an outgoing call has ended.",
+  "type": "source",
+  "version": "0.0.4"
+}

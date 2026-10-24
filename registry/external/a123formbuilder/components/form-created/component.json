@@ -1,0 +1,7 @@
+{
+  "key": "a123formbuilder-form-created",
+  "name": "Form Created",
+  "description": "Emit new event for every created form",
+  "type": "source",
+  "version": "0.0.2"
+}

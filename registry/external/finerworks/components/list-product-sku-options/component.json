@@ -1,0 +1,7 @@
+{
+  "key": "finerworks-list-product-sku-options",
+  "name": "List Product SKU Options",
+  "description": "Retrieves available options for the Product SKU field.",
+  "type": "action",
+  "version": "0.0.1"
+}

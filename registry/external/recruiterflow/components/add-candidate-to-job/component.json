@@ -1,0 +1,7 @@
+{
+  "key": "recruiterflow-add-candidate-to-job",
+  "name": "Add Candidate to Job",
+  "description": "Associates a candidate with a job posting in Recruiterflow. [See the documentation](https://recruiterflow.com/swagger.yml)",
+  "type": "action",
+  "version": "0.0.1"
+}

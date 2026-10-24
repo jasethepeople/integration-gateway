@@ -1,0 +1,7 @@
+{
+  "key": "mindbody-get-appointments",
+  "name": "Get Appointments",
+  "description": "Returns staff appointments, optionally filtered by date range, client, or staff member.",
+  "type": "action",
+  "version": "0.0.3"
+}

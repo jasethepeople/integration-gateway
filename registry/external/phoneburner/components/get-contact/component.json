@@ -1,0 +1,7 @@
+{
+  "key": "phoneburner-get-contact",
+  "name": "Get Contact",
+  "description": "Get a specific contact. [See the documentation](https://www.phoneburner.com/developer/route_list#contacts)",
+  "type": "action",
+  "version": "0.0.2"
+}

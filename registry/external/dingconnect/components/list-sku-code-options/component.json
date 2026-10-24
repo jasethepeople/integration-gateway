@@ -1,0 +1,7 @@
+{
+  "key": "dingconnect-list-sku-code-options",
+  "name": "List SKU Code Options",
+  "description": "Retrieves available options for the SKU Code field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "streak-update-box",
+  "name": "Update Box",
+  "description": "Name of the box",
+  "type": "action",
+  "version": "0.0.3"
+}

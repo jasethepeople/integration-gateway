@@ -1,0 +1,7 @@
+{
+  "key": "freshchat-send-message-in-chat",
+  "name": "Send Message in Chat",
+  "description": "Sends a message in a specific conversation. [See the documentation](https://developers.freshchat.com/api/#send_message_to_conversation)",
+  "type": "action",
+  "version": "0.0.6"
+}

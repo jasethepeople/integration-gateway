@@ -1,0 +1,7 @@
+{
+  "key": "fireberry-list-articles",
+  "name": "List Articles",
+  "description": "List all articles from Fireberry. [See the documentation](https://developers.fireberry.com/reference/get-all-articles)",
+  "type": "action",
+  "version": "0.0.2"
+}

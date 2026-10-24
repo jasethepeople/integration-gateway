@@ -1,0 +1,7 @@
+{
+  "key": "intercom-new-event",
+  "name": "New Event",
+  "description": "Emit new event for each new Intercom event for a user.",
+  "type": "source",
+  "version": "0.0.9"
+}

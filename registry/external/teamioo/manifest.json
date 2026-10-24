@@ -1,0 +1,38 @@
+{
+  "app": "teamioo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "environment": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "teamioo-create-bookmark",
+    "teamioo-create-calendar-event",
+    "teamioo-create-task",
+    "teamioo-list-group-id-options",
+    "teamioo-list-tags-options",
+    "teamioo-list-user-id-options",
+    "teamioo-new-contact-added",
+    "teamioo-new-group-bookmark-url",
+    "teamioo-new-group-member"
+  ]
+}

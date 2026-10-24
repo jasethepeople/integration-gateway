@@ -1,0 +1,7 @@
+{
+  "key": "encharge-remove-tags",
+  "name": "Remove Tags",
+  "description": "Remove tag(s) from existing user. [See the documentation](https://app-encharge-resources.s3.amazonaws.com/#/tags/removetag)",
+  "type": "action",
+  "version": "0.0.1"
+}

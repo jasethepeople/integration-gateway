@@ -1,0 +1,29 @@
+{
+  "app": "lumin_pdf",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "signatureRequestId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "lumin_pdf-cancel-signature-request",
+    "lumin_pdf-download-file-as-file-url",
+    "lumin_pdf-download-file",
+    "lumin_pdf-get-signature-request",
+    "lumin_pdf-get-user-information",
+    "lumin_pdf-send-signature-request"
+  ],
+  "npmImports": [
+    "form-data",
+    "fs",
+    "stream",
+    "util"
+  ]
+}

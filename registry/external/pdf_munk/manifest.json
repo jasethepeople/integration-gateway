@@ -1,0 +1,17 @@
+{
+  "app": "pdf_munk",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pdf_munk-capture-website-screenshot-into-image",
+    "pdf_munk-capture-website-screenshot-into-pdf",
+    "pdf_munk-convert-html-to-image",
+    "pdf_munk-convert-html-to-pdf"
+  ]
+}

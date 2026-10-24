@@ -1,0 +1,27 @@
+{
+  "app": "overledger",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "smartContractId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "environment": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "overledger-execute-signed-transaction",
+    "overledger-prepare-smart-contract-transaction",
+    "overledger-read-from-a-smart-contract",
+    "overledger-sign-a-transaction",
+    "overledger-new-contract-event-instant",
+    "overledger-watch-new-account-event-instant"
+  ]
+}

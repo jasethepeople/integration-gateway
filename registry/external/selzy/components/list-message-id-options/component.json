@@ -1,0 +1,7 @@
+{
+  "key": "selzy-list-message-id-options",
+  "name": "List Message Id Options",
+  "description": "Retrieves available options for the Message Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

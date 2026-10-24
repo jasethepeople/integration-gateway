@@ -1,0 +1,7 @@
+{
+  "key": "typefully-list-kind-options",
+  "name": "List Kind Options",
+  "description": "Retrieves available options for the Kind field.",
+  "type": "action",
+  "version": "0.0.1"
+}

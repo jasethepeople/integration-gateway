@@ -1,0 +1,7 @@
+{
+  "key": "specific-new-contact-instant",
+  "name": "New Contact Created (Instant)",
+  "description": "Emit new event whenever a new contact is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

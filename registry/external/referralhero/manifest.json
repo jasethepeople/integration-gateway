@@ -1,0 +1,25 @@
+{
+  "app": "referralhero",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "listId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subscriber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "referralhero-add-subscriber",
+    "referralhero-list-list-id-options",
+    "referralhero-track-referral-conversion-event",
+    "referralhero-new-subscriber-added"
+  ]
+}

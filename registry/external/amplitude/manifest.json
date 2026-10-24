@@ -1,0 +1,57 @@
+{
+  "app": "amplitude",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "startDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "segmentDefinitions": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "requestId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "region": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "amplitude-create-cohort",
+    "amplitude-download-cohort-file",
+    "amplitude-get-cohort-download-status",
+    "amplitude-get-event-segmentation",
+    "amplitude-get-funnel-analysis",
+    "amplitude-get-retention-analysis",
+    "amplitude-get-user-activity",
+    "amplitude-list-cohorts",
+    "amplitude-request-cohort-download",
+    "amplitude-search-users",
+    "amplitude-send-event-data"
+  ],
+  "npmImports": [
+    "csv-parse",
+    "node:stream",
+    "node:zlib"
+  ]
+}

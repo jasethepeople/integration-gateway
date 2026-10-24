@@ -1,0 +1,7 @@
+{
+  "key": "zoho_notebook-new-checklist-card",
+  "name": "New Checklist Card",
+  "description": "Emit new event when a new checklist card is created in Zoho Notebook.",
+  "type": "source",
+  "version": "0.0.1"
+}

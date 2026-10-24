@@ -1,0 +1,7 @@
+{
+  "key": "mural-new-area",
+  "name": "New Area Created",
+  "description": "Emit new event when a new area is created in the user's mural",
+  "type": "source",
+  "version": "0.0.2"
+}

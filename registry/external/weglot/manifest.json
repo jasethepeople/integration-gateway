@@ -1,0 +1,19 @@
+{
+  "app": "weglot",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "language": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "weglot-list-language-options",
+    "weglot-translate-text"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "smugmug-list-album-options",
+  "name": "List Album Key Options",
+  "description": "Retrieves available options for the Album Key field.",
+  "type": "action",
+  "version": "0.0.1"
+}

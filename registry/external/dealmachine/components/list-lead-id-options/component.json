@@ -1,0 +1,7 @@
+{
+  "key": "dealmachine-list-lead-id-options",
+  "name": "List Lead Id Options",
+  "description": "Retrieves available options for the Lead Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

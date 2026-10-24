@@ -1,0 +1,41 @@
+{
+  "app": "smstools",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sender": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "client_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "client_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "smstools-add-contact-opt-out",
+    "smstools-add-contact",
+    "smstools-list-contact-number-options",
+    "smstools-list-group-id-options",
+    "smstools-list-sender-options",
+    "smstools-list-sub-id-options",
+    "smstools-send-sms",
+    "smstools-new-inbound-message"
+  ]
+}

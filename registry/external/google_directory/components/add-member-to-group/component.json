@@ -1,0 +1,7 @@
+{
+  "key": "google_directory-add-member-to-group",
+  "name": "Add Member to Group",
+  "description": "Adds a member to a group. [See the documentation](https://developers.google.com/workspace/admin/directory/v1/guides/manage-group-members#create_member)",
+  "type": "action",
+  "version": "0.0.1"
+}

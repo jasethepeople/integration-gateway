@@ -1,0 +1,7 @@
+{
+  "key": "faunadb-import-graphql-schema",
+  "name": "Import GraphQL schema",
+  "description": "Import graphQL schema to a database. [See docs here](https://docs.fauna.com/fauna/current/api/graphql/endpoints#import)",
+  "type": "action",
+  "version": "0.0.3"
+}

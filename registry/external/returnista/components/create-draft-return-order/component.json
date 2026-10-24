@@ -1,0 +1,7 @@
+{
+  "key": "returnista-create-draft-return-order",
+  "name": "Create Draft Return Order",
+  "description": "Creates a new draft return order for a consumer.",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "emailoctopus-create-list",
+  "name": "Create List",
+  "description": "Create a list, [See the docs here](https://emailoctopus.com/api-documentation/lists/create)",
+  "type": "action",
+  "version": "0.0.2"
+}

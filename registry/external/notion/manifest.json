@@ -1,0 +1,108 @@
+{
+  "app": "notion",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "dataSourceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "blockId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "propertyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "propertyTypes": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "archived": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fileUploadId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sortDirection": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pageSize": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "startCursor": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pageContent": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "notion-append-block",
+    "notion-complete-file-upload",
+    "notion-create-comment",
+    "notion-create-database",
+    "notion-create-file-upload",
+    "notion-create-page-from-database",
+    "notion-create-page",
+    "notion-delete-block",
+    "notion-duplicate-page",
+    "notion-get-current-user",
+    "notion-list-all-users",
+    "notion-list-file-uploads",
+    "notion-query-database",
+    "notion-retrieve-block",
+    "notion-retrieve-database-content",
+    "notion-retrieve-database-schema",
+    "notion-retrieve-file-upload",
+    "notion-retrieve-page-property-item",
+    "notion-retrieve-page",
+    "notion-retrieve-user",
+    "notion-search",
+    "notion-send-file-upload",
+    "notion-update-block",
+    "notion-update-database",
+    "notion-update-page",
+    "notion-new-comment-created",
+    "notion-new-database",
+    "notion-new-page",
+    "notion-new-webhook-event-instant",
+    "notion-page-or-subpage-updated",
+    "notion-page-properties-updated-instant",
+    "notion-updated-page-by-timestamp",
+    "notion-updated-page-id",
+    "notion-updated-page"
+  ],
+  "npmImports": [
+    "@notionhq/client",
+    "@tryfabric/martian",
+    "buffer",
+    "crypto",
+    "notion-helper",
+    "notion-to-md",
+    "zlib"
+  ]
+}

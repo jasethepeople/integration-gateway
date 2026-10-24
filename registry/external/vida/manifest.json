@@ -1,0 +1,16 @@
+{
+  "app": "vida",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "vida-provide-context",
+    "vida-new-conversation-instant",
+    "vida-new-incoming-conversation-instant"
+  ]
+}

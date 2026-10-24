@@ -1,0 +1,7 @@
+{
+  "key": "qdrant-search-points",
+  "name": "Search Points",
+  "description": "Performs a semantic search on the Qdrant collection.",
+  "type": "action",
+  "version": "0.0.3"
+}

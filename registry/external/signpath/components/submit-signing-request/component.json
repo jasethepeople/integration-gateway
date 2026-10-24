@@ -1,0 +1,7 @@
+{
+  "key": "signpath-submit-signing-request",
+  "name": "Submit Signing Request",
+  "description": "Submit a signing request. [See the documentation](https://docs.signpath.io/build-system-integration#submit-a-signing-request)",
+  "type": "action",
+  "version": "0.0.1"
+}

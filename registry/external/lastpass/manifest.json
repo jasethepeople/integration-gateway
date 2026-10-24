@@ -1,0 +1,25 @@
+{
+  "app": "lastpass",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "username": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "account_number": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "prov_hash": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "lastpass-add-remove-user-in-groups",
+    "lastpass-delete-user",
+    "lastpass-list-username-options",
+    "lastpass-new-watch-events"
+  ]
+}

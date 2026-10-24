@@ -1,0 +1,7 @@
+{
+  "key": "linkedin_ads-list-accounts-options",
+  "name": "List Accounts Options",
+  "description": "Retrieves available options for the Accounts field.",
+  "type": "action",
+  "version": "0.0.2"
+}

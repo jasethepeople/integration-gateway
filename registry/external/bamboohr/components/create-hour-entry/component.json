@@ -1,0 +1,7 @@
+{
+  "key": "bamboohr-create-hour-entry",
+  "name": "Create Hour Entry",
+  "description": "Create a time-tracking hour entry. Records worked hours for an employee on a date. [See the documentation](https://documentation.bamboohr.com/reference/create-hour-entry)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pdforge-generate-pdf-from-template",
+  "name": "Generate PDF from Template",
+  "description": "Generate a document from a selected template. [See the documentation](https://docs.pdforge.com/pdfs-from-templates/synchronous-request)",
+  "type": "action",
+  "version": "0.0.2"
+}

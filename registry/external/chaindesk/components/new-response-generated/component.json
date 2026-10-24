@@ -1,0 +1,7 @@
+{
+  "key": "chaindesk-new-response-generated",
+  "name": "New Response Generated",
+  "description": "Emit new event when a new message from an agent is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "launchdarkly-get-feature-flag-status",
+  "name": "Get Feature Flag Status",
+  "description": "Get the status of a feature flag. [See the documentation](https://launchdarkly.com/docs/api/feature-flags/get-feature-flag-status).",
+  "type": "action",
+  "version": "0.0.2"
+}

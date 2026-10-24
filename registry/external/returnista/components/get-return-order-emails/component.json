@@ -1,0 +1,7 @@
+{
+  "key": "returnista-get-return-order-emails",
+  "name": "Get Return Order Emails",
+  "description": "Gets all email communications associated with a return order.",
+  "type": "action",
+  "version": "0.0.3"
+}

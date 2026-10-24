@@ -1,0 +1,7 @@
+{
+  "key": "moco-get-task",
+  "name": "Get Task",
+  "description": "Gets a task by ID. [See the documentation](https://everii-group.github.io/mocoapp-api-docs/sections/project_tasks.html#get-projectsidtasksid)",
+  "type": "action",
+  "version": "0.0.1"
+}

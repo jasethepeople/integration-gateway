@@ -1,0 +1,7 @@
+{
+  "key": "alegra-list-cost-center-options",
+  "name": "List Cost Center Options",
+  "description": "Retrieves available options for the Cost Center field.",
+  "type": "action",
+  "version": "0.0.1"
+}

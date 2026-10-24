@@ -1,0 +1,32 @@
+{
+  "app": "shopwaive",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "customerEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "amount": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "note": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "platform": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "shopwaive-adjust-available-balance",
+    "shopwaive-get-available-balance",
+    "shopwaive-set-available-balance"
+  ]
+}

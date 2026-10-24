@@ -1,0 +1,7 @@
+{
+  "key": "code_climate-get-organizations",
+  "name": "Get Organizations",
+  "description": "Returns collection of organizations for the current user. [See the documentation](https://developer.codeclimate.com/#get-organizations)",
+  "type": "action",
+  "version": "0.0.2"
+}

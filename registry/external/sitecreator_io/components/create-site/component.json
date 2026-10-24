@@ -1,0 +1,7 @@
+{
+  "key": "sitecreator_io-create-site",
+  "name": "Create Site",
+  "description": "Create a new website. [See the docs here](http://api-doc.sitecreator.io/#tag/Site/operation/postSite)",
+  "type": "action",
+  "version": "0.0.2"
+}

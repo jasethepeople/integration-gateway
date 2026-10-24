@@ -1,0 +1,7 @@
+{
+  "key": "uptimerobot-update-monitor-status",
+  "name": "Update Monitor Status",
+  "description": "Update an existing monitor's status to pause or resume monitoring. [See the documentation](https://uptimerobot.com/api/).",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "mixpanel_service_account-list-events",
+  "name": "List Events",
+  "description": "List the names of the events tracked in this Mixpanel project over the last 31 days, ordered by how often they were fired. Start here when you do not already know the exact event name a question refers to - most other tools need an exact, case-sensitive name. [See the documentation](https://docs.mixpanel.com/reference/query-months-top-event-names)",
+  "type": "action",
+  "version": "0.0.1"
+}

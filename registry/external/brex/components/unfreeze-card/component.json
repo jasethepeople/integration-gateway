@@ -1,0 +1,7 @@
+{
+  "key": "brex-unfreeze-card",
+  "name": "Unfreeze Card",
+  "description": "Unfreezes (unlocks) a `LOCKED` card so it can be used again. Cards cancelled with **Cancel Card** cannot be unfrozen. [See the documentation](https://developer.brex.com/openapi/team_api/cards/unlockcard)",
+  "type": "action",
+  "version": "0.0.1"
+}

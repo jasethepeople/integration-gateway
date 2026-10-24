@@ -1,0 +1,7 @@
+{
+  "key": "teamup-new-or-updated-event",
+  "name": "New or Updated Event",
+  "description": "Emit new event when an event is created or updated on a specified calendar.",
+  "type": "source",
+  "version": "0.0.1"
+}

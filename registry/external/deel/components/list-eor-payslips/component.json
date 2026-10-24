@@ -1,0 +1,7 @@
+{
+  "key": "deel-list-eor-payslips",
+  "name": "List EOR Payslips",
+  "description": "List payslips for a specific EOR (employer of record) employee in Deel.",
+  "type": "action",
+  "version": "0.0.2"
+}

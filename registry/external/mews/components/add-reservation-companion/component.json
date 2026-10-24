@@ -1,0 +1,7 @@
+{
+  "key": "mews-add-reservation-companion",
+  "name": "Add Reservation Companion",
+  "description": "Add a customer as a companion to a reservation. [See the documentation](https://mews-systems.gitbook.io/connector-api/operations/reservations#add-reservation-companion)",
+  "type": "action",
+  "version": "0.0.3"
+}

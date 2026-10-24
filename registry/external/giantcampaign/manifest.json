@@ -1,0 +1,28 @@
+{
+  "app": "giantcampaign",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "listUid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subscriberUid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "giantcampaign-add-tags-to-subscriber",
+    "giantcampaign-create-subscriber",
+    "giantcampaign-list-list-uid-options"
+  ]
+}

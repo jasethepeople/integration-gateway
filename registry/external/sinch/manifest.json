@@ -1,0 +1,37 @@
+{
+  "app": "sinch",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "appId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "region": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "project_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sinch-list-app-id-options",
+    "sinch-send-fax",
+    "sinch-send-message",
+    "sinch-new-fax-received",
+    "sinch-new-message-received"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

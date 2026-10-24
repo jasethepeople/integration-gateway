@@ -1,0 +1,7 @@
+{
+  "key": "sendoso-get-current-user",
+  "name": "Get Current User",
+  "description": "Get information about the current user. [See the documentation](https://developer.sendoso.com/rest-api/reference/users/get-current-user)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "ragic-list-tab-options",
+  "name": "List Tab Options",
+  "description": "Retrieves available options for the Tab field.",
+  "type": "action",
+  "version": "0.0.1"
+}

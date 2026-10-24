@@ -1,0 +1,73 @@
+{
+  "app": "signalwire",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "displayName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "joinFrom": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "joinUntil": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "quality": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "layout": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "size": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recordOnStart": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "enableRoomPreviews": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "enableChat": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "e164Number": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "include": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "project_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "signalwire-create-video-conference",
+    "signalwire-validate-phone-number",
+    "signalwire-new-phone-call",
+    "signalwire-new-text-message"
+  ]
+}

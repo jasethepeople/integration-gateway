@@ -1,0 +1,7 @@
+{
+  "key": "chatbot-new-event",
+  "name": "New Event",
+  "description": "Emit new event for event received. *Need to be configured in the ChatBot UI flow to emit events*. [See docs here](https://www.chatbot.com/docs/webhooks/)",
+  "type": "source",
+  "version": "0.0.1"
+}

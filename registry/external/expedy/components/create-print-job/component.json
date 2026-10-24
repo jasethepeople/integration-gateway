@@ -1,0 +1,7 @@
+{
+  "key": "expedy-create-print-job",
+  "name": "Create Print Job",
+  "description": "Sends a print job to the designated thermal printer using its unique identifier (uid). [See the documentation](https://expedy.stoplight.io/docs/api-v2/01132c3490c8b-create-a-print-job)",
+  "type": "action",
+  "version": "0.0.2"
+}

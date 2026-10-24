@@ -1,0 +1,7 @@
+{
+  "key": "mailercloud-update-contact",
+  "name": "Update Contact",
+  "description": "Update an existing contact in the user's Mailercloud account. [See the documentation](https://apidoc.mailercloud.com/docs/mailercloud-api/55b552af7970c-update-contact)",
+  "type": "action",
+  "version": "0.0.2"
+}

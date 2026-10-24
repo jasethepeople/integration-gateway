@@ -1,0 +1,7 @@
+{
+  "key": "qdrant-get-points",
+  "name": "Get Points",
+  "description": "Get points by IDs from a collection.",
+  "type": "action",
+  "version": "0.0.2"
+}

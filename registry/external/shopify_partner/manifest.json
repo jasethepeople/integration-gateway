@@ -1,0 +1,41 @@
+{
+  "app": "shopify_partner",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "appId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "occurredAtMin": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "occurredAtMax": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recordsPerRun": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "organization_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "shopify_partner-new-app-charges",
+    "shopify_partner-new-app-installs",
+    "shopify_partner-new-app-relationship-events",
+    "shopify_partner-new-app-uninstalls"
+  ],
+  "npmImports": [
+    "graphql",
+    "graphql-request"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "confection-new-event",
+  "name": "New Event",
+  "description": "Emit new event when a UUID receives a value for the configured **Event Name**. The latest value as well a history of all values ever received for that **Event Name** will be returned.",
+  "type": "source",
+  "version": "0.1.0"
+}

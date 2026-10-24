@@ -1,0 +1,7 @@
+{
+  "key": "neon_postgres-new-column",
+  "name": "New Column",
+  "description": "Emit new event when a new column is added to a table. [See the documentation](https://node-postgres.com/features/queries)",
+  "type": "source",
+  "version": "0.0.1"
+}

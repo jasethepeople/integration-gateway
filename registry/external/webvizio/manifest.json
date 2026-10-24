@@ -1,0 +1,17 @@
+{
+  "app": "webvizio",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "webvizio-create-project",
+    "webvizio-new-project-created",
+    "webvizio-new-task-created",
+    "webvizio-project-updated"
+  ]
+}

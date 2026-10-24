@@ -1,0 +1,7 @@
+{
+  "key": "google_ads-create-or-remove-shared-criteria",
+  "name": "Create or Remove Shared Criteria",
+  "description": "Whether to create or remove a shared criterion.",
+  "type": "action",
+  "version": "0.0.5"
+}

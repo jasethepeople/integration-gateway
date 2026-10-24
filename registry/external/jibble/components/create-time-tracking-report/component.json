@@ -1,0 +1,7 @@
+{
+  "key": "jibble-create-time-tracking-report",
+  "name": "Create Time Tracking Report",
+  "description": "This is generic endpoint for getting time tracking reports. [See the documentation](https://docs.api.jibble.io/#3115af1a-24a6-4d19-a7e7-08d8c173bb85).",
+  "type": "action",
+  "version": "0.0.2"
+}

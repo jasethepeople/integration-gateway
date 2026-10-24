@@ -1,0 +1,26 @@
+{
+  "app": "infolobby",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "itemId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tableId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "comment": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "infolobby-create-comment"
+  ]
+}

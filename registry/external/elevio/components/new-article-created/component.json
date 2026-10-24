@@ -1,0 +1,7 @@
+{
+  "key": "elevio-new-article-created",
+  "name": "New Article Created",
+  "description": "Emit new event any time a new article is created. [See the documentation](https://api-docs.elevio.help/en/articles/71-rest-api-articles).",
+  "type": "source",
+  "version": "0.0.1"
+}

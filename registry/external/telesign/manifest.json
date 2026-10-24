@@ -1,0 +1,22 @@
+{
+  "app": "telesign",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "phoneNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "message": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "messageType": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "telesign-send-sms"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "datadog-search-dashboards",
+  "name": "Search Dashboards",
+  "description": "List and search Datadog dashboards. Returns",
+  "type": "action",
+  "version": "1.0.2"
+}

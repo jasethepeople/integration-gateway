@@ -1,0 +1,7 @@
+{
+  "key": "wrike-update-folder",
+  "name": "Update Folder",
+  "description": "Update a folder or project's metadata via PUT /folders/{folderId}. Supply the optional 'project' prop to set project attributes (or null to convert a project back to a folder); there is no separate update-project action. Use **List Folder ID Options** to obtain the folderId. [See the documentation](https://developers.wrike.com/reference/putfolderssingle)",
+  "type": "action",
+  "version": "0.0.2"
+}

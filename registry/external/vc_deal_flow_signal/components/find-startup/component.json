@@ -1,0 +1,7 @@
+{
+  "key": "vc_deal_flow_signal-find-startup",
+  "name": "Find Startup by Name",
+  "description": "Look up a single startup's full signal profile. Case-insensitive match on display name or GitHub org slug.",
+  "type": "action",
+  "version": "0.0.2"
+}

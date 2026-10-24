@@ -1,0 +1,7 @@
+{
+  "key": "metaphor-find-similar-links",
+  "name": "Find Similar Links",
+  "description": "Find similar links to the link provided. See the documentation](https://docs.metaphor.systems/reference/findsimilar)",
+  "type": "action",
+  "version": "0.0.2"
+}

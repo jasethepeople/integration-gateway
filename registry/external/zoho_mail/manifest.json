@@ -1,0 +1,77 @@
+{
+  "app": "zoho_mail",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "account": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fromAddress": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "max": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "toAddress": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ccAddress": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "bccAddress": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subject": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "content": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mailFormat": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "askReceipt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "priority": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dueDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "base_api_uri": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zoho_mail-create-task",
+    "zoho_mail-list-account-options",
+    "zoho_mail-send-email",
+    "zoho_mail-new-email"
+  ]
+}

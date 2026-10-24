@@ -1,0 +1,7 @@
+{
+  "key": "gem-new-candidate",
+  "name": "New Candidate Added",
+  "description": "Emit new event when a candidate is added in Gem. [See the documentation](https://api.gem.com/v0/reference#tag/Candidates/paths/~1v0~1candidates/get)",
+  "type": "source",
+  "version": "0.0.1"
+}

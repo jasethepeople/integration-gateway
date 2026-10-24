@@ -1,0 +1,7 @@
+{
+  "key": "streak-new-comment",
+  "name": "New Comment (Instant)",
+  "description": "Emit new event when a new comment is created within a pipeline.",
+  "type": "source",
+  "version": "0.0.2"
+}

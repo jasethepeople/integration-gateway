@@ -1,0 +1,7 @@
+{
+  "key": "ticketsauce-new-event",
+  "name": "New Event",
+  "description": "Emit new event when an event is created in Ticketsauce. [See the documentation](https://speca.io/ticketsauce/ticketsauce-public-api?key=204000d6bda66da78315e721920f43aa#list-of-events)",
+  "type": "source",
+  "version": "0.0.1"
+}

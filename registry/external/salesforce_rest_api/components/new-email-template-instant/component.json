@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-new-email-template-instant",
+  "name": "New Email Template (Instant, of Selectable Type)",
+  "description": "Emit new event when an email template is created. [See the documentation](https://sforce.co/3yPSJZy)",
+  "type": "source",
+  "version": "0.0.13"
+}

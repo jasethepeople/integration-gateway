@@ -1,0 +1,7 @@
+{
+  "key": "postmark-new-inbound-email-received",
+  "name": "New Inbound Email Received",
+  "description": "Emit new event when an email is received by the Postmark server. This source updates the server's inbound URL. You cannot create multiple inbound sources for the same server. [See the documentation](https://postmarkapp.com/developer/webhooks/inbound-webhook#set-the-webhook-url)",
+  "type": "source",
+  "version": "1.0.0"
+}

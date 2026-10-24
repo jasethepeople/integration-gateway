@@ -1,0 +1,7 @@
+{
+  "key": "paystack-fetch-customer",
+  "name": "Fetch Customer",
+  "description": "Get details of a customer on your integration. [See the documentation](https://paystack.com/docs/api/customer/#fetch)",
+  "type": "action",
+  "version": "0.0.1"
+}

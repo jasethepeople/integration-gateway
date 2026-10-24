@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-get-job",
+  "name": "Get Job",
+  "description": "Get a job by UUID. [See the documentation](https://developer.servicem8.com/reference/getjobs)",
+  "type": "action",
+  "version": "0.0.1"
+}

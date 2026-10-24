@@ -1,0 +1,41 @@
+{
+  "app": "php_point_of_sale",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "registerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "iptranDeviceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emvTerminalId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "search": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "php_point_of_sale-create-register",
+    "php_point_of_sale-delete-register",
+    "php_point_of_sale-get-registers",
+    "php_point_of_sale-list-register-id-options"
+  ]
+}

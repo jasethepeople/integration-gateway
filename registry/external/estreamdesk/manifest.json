@@ -1,0 +1,21 @@
+{
+  "app": "estreamdesk",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "estreamdesk-new-ticket"
+  ],
+  "npmImports": [
+    "xml2json-light"
+  ]
+}

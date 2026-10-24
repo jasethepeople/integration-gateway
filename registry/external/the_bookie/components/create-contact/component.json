@@ -1,0 +1,7 @@
+{
+  "key": "the_bookie-create-contact",
+  "name": "Create Contact",
+  "description": "Instantly creates a new contact in the address book. [See the documentation](https://app.thebookie.nl/nl/help/article/api-documentatie/#contact_create)",
+  "type": "action",
+  "version": "0.0.2"
+}

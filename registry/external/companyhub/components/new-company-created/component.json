@@ -1,0 +1,7 @@
+{
+  "key": "companyhub-new-company-created",
+  "name": "New Company Created",
+  "description": "Emit new event when a new company is created. [See the documentation](https://companyhub.com/docs/api-documentation)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "foursquare-new-tip",
+  "name": "New Tip",
+  "description": "Emit new event when a user adds a new tip.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "tiktok_ads_manager-manage-spark-ad",
+  "name": "Get Spark Ad Video Info",
+  "description": "Get information about one or more TikTok posts published via a linked identity, for use as Spark Ad creatives.",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "printavo-create-customer",
+  "name": "Create Customer",
+  "description": "Create a new customer. [See the docs here](https://printavo.docs.apiary.io/#reference/customers/customers-collection/customer-create)",
+  "type": "action",
+  "version": "0.0.2"
+}

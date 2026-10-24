@@ -1,0 +1,7 @@
+{
+  "key": "upbooks-list-salary-component-id-options",
+  "name": "List Salary Component Id Options",
+  "description": "Retrieves available options for the Salary Component Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "refersion-get-affiliate",
+  "name": "Get Affiliate",
+  "description": "Get information about an affiliate. You can get an affiliate's information using their ID or code. [See the docs here](https://www.refersion.dev/reference/get_affiliate)",
+  "type": "action",
+  "version": "0.0.2"
+}

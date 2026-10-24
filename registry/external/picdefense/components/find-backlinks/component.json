@@ -1,0 +1,7 @@
+{
+  "key": "picdefense-find-backlinks",
+  "name": "Find Backlinks",
+  "description": "Returns a list of URLs where the image appears. [See the documentation](https://app.picdefense.io/apidocs/)",
+  "type": "action",
+  "version": "0.0.1"
+}

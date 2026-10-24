@@ -1,0 +1,20 @@
+{
+  "app": "imagior",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "imagior-generate-image",
+    "imagior-list-template-id-options",
+    "imagior-new-template"
+  ]
+}

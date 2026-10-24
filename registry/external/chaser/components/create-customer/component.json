@@ -1,0 +1,7 @@
+{
+  "key": "chaser-create-customer",
+  "name": "Create Customer",
+  "description": "Creates a new customer in Chaser. [See the documentation](https://openapi.chaserhq.com/docs/static/index.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

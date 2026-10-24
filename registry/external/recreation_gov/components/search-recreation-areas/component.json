@@ -1,0 +1,7 @@
+{
+  "key": "recreation_gov-search-recreation-areas",
+  "name": "Search Recreation Areas",
+  "description": "Searchs recreation areas with the given properties. If no parameters given, returns all. [See the documentation](https://ridb.recreation.gov/docs#/Recreation%20Areas/getRecAreas)",
+  "type": "action",
+  "version": "0.0.2"
+}

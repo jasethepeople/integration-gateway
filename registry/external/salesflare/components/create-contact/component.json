@@ -1,0 +1,7 @@
+{
+  "key": "salesflare-create-contact",
+  "name": "Create Contact",
+  "description": "Create a contact [See the docs here](https://api.salesflare.com/docs#operation/postContacts)",
+  "type": "action",
+  "version": "0.0.2"
+}

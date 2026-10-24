@@ -1,0 +1,7 @@
+{
+  "key": "twilio-new-phone-number",
+  "name": "New Phone Number",
+  "description": "Emit new event when you add a new phone number to your account",
+  "type": "source",
+  "version": "0.1.7"
+}

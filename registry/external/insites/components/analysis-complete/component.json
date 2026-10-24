@@ -1,0 +1,7 @@
+{
+  "key": "insites-analysis-complete",
+  "name": "New Analysis Complete",
+  "description": "Emit new event when a new analysis is completed. [See the documentation](https://help.insites.com/en/articles/7994946-report-api#h_e59622a8e7)",
+  "type": "source",
+  "version": "0.0.2"
+}

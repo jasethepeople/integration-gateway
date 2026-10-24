@@ -1,0 +1,7 @@
+{
+  "key": "eventbrite-new-order-placed-by-me",
+  "name": "New Order Placed By Me",
+  "description": "Emit new event when the authenticated user places a new order in Eventbrite",
+  "type": "source",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "autoblogger-validate-api-key",
+  "name": "Validate API Key",
+  "description": "Validates the provided API key. [See the documentation](https://u.pcloud.link/publink/show?code=XZdjuv0ZtabS8BN58thUiE8FGjznajoMc6Qy)",
+  "type": "action",
+  "version": "0.0.2"
+}

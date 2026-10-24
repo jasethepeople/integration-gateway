@@ -1,0 +1,7 @@
+{
+  "key": "http-new-requests-payload-only",
+  "name": "New Requests (Payload Only)",
+  "description": "Get a URL and emit the HTTP body as an event on every request",
+  "type": "source",
+  "version": "0.1.2"
+}

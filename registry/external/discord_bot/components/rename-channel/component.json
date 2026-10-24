@@ -1,0 +1,7 @@
+{
+  "key": "discord_bot-rename-channel",
+  "name": "Rename Channel",
+  "description": "Rename a channel to a specified name you choose",
+  "type": "action",
+  "version": "1.0.1"
+}

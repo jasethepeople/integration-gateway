@@ -1,0 +1,7 @@
+{
+  "key": "phoneburner-update-contact",
+  "name": "Update Contact",
+  "description": "Update a contact. [See the documentation](https://www.phoneburner.com/developer/route_list#contacts)",
+  "type": "action",
+  "version": "0.0.2"
+}

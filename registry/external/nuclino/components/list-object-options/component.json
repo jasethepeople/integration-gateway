@@ -1,0 +1,7 @@
+{
+  "key": "nuclino-list-object-options",
+  "name": "List Object Options",
+  "description": "Retrieves available options for the Object field.",
+  "type": "action",
+  "version": "0.0.1"
+}

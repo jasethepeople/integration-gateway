@@ -1,0 +1,7 @@
+{
+  "key": "dexatel-create-contact",
+  "name": "Create Contact",
+  "description": "Allows creation of a new contact on the user's Dexatel account.",
+  "type": "action",
+  "version": "0.0.2"
+}

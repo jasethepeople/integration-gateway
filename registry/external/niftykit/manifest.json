@@ -1,0 +1,15 @@
+{
+  "app": "niftykit",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_access_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "niftykit-create-mint-link",
+    "niftykit-new-nft-minted"
+  ]
+}

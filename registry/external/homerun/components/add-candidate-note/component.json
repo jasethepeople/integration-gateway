@@ -1,0 +1,7 @@
+{
+  "key": "homerun-add-candidate-note",
+  "name": "Add Candidate Note",
+  "description": "Adds a note to a candidate's profile in Homerun. [See the documentation](https://developers.homerun.co/#tag/Job-Application-Notes/operation/job-applications.job-application-id.notes.post).",
+  "type": "action",
+  "version": "0.0.2"
+}

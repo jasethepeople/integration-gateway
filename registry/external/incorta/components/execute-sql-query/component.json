@@ -1,0 +1,7 @@
+{
+  "key": "incorta-execute-sql-query",
+  "name": "Execute SQL Query",
+  "description": "Executes a custom SQL query against an Incorta tenant via **SQLi**, Incorta's SQL Interface, which exposes the tenant as a PostgreSQL-wire-protocol database.",
+  "type": "action",
+  "version": "0.0.1"
+}

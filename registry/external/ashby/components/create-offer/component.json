@@ -1,0 +1,7 @@
+{
+  "key": "ashby-create-offer",
+  "name": "Create Offer",
+  "description": "Creates a new offer. [See the documentation](https://developers.ashbyhq.com/reference/offercreate)",
+  "type": "action",
+  "version": "0.0.4"
+}

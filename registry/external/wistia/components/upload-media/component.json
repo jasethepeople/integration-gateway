@@ -1,0 +1,7 @@
+{
+  "key": "wistia-upload-media",
+  "name": "Upload Media",
+  "description": "Upload a media. [See docs here](https://wistia.com/support/developers/upload-api)",
+  "type": "action",
+  "version": "0.0.2"
+}

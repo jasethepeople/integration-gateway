@@ -1,0 +1,7 @@
+{
+  "key": "weaviate-list-class-id-options",
+  "name": "List Class ID Options",
+  "description": "Retrieves available options for the Class ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

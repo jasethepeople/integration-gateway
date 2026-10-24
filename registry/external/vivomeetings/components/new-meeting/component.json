@@ -1,0 +1,7 @@
+{
+  "key": "vivomeetings-new-meeting",
+  "name": "New VivoMeeting or Webinar Created",
+  "description": "Emit new event when a new VivoMeeting or webinar is created. [See the documentation](https://vivomeetings.com/api-developer-guide/)",
+  "type": "source",
+  "version": "0.0.1"
+}

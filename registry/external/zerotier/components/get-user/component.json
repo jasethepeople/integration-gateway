@@ -1,0 +1,7 @@
+{
+  "key": "zerotier-get-user",
+  "name": "Get User",
+  "description": "Get a specific user. Returns a single user. [See docs here](https://docs.zerotier.com/central/v1/#operation/getUserByID)",
+  "type": "action",
+  "version": "0.0.5"
+}

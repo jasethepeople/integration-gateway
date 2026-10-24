@@ -1,0 +1,23 @@
+{
+  "app": "openum",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "configId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "openum-list-config-id-options",
+    "openum-start-signature"
+  ]
+}

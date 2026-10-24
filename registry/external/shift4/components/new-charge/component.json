@@ -1,0 +1,7 @@
+{
+  "key": "shift4-new-charge",
+  "name": "New Charge",
+  "description": "Emit new event when a new charge is successfully created.",
+  "type": "source",
+  "version": "0.0.1"
+}

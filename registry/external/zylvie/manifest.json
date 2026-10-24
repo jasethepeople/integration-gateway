@@ -1,0 +1,16 @@
+{
+  "app": "zylvie",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zylvie-new-affiliate-sign-up-instant",
+    "zylvie-new-lead-instant",
+    "zylvie-new-subscription-instant"
+  ]
+}

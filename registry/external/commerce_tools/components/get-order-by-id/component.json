@@ -1,0 +1,7 @@
+{
+  "key": "commerce_tools-get-order-by-id",
+  "name": "Get Order by ID",
+  "description": "Retrieve an Order by its unique ID. [See the documentation](https://docs.commercetools.com/api/projects/orders#get-order-by-id).",
+  "type": "action",
+  "version": "0.0.1"
+}

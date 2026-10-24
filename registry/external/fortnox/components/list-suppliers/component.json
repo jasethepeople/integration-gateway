@@ -1,0 +1,7 @@
+{
+  "key": "fortnox-list-suppliers",
+  "name": "List Suppliers",
+  "description": "List all suppliers in Fortnox. [See the documentation](https://api.fortnox.se/apidocs#tag/fortnox_Suppliers/operation/list_40)",
+  "type": "action",
+  "version": "0.0.1"
+}

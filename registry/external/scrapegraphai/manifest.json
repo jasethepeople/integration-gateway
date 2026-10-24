@@ -1,0 +1,28 @@
+{
+  "app": "scrapegraphai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "prompt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "waitForCompletion": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "scrapegraphai-start-local-scraper",
+    "scrapegraphai-start-markdownify",
+    "scrapegraphai-start-smart-scraper"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_power_bi-refresh-dataset",
+  "name": "Refresh Dataset",
+  "description": "Trigger a refresh of a Power BI dataset. Returns 202 Accepted on success; the request ID is available in the `Location` response header (last path segment) and `x-ms-request-id` header — use **Get Refresh History** to check status.",
+  "type": "action",
+  "version": "0.1.2"
+}

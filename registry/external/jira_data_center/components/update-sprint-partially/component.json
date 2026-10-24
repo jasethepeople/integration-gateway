@@ -1,0 +1,7 @@
+{
+  "key": "jira_data_center-update-sprint-partially",
+  "name": "Update Sprint Partially",
+  "description": "Performs a partial update of a sprint. A partial update means that fields not present in the request JSON will not be updated. [See the documentation](https://developer.atlassian.com/server/jira/platform/rest/v10002/api-group-sprint/#api-agile-1-0-sprint-sprintid-post)",
+  "type": "action",
+  "version": "0.0.4"
+}

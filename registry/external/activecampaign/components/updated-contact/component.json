@@ -1,0 +1,7 @@
+{
+  "key": "activecampaign-updated-contact",
+  "name": "New Updated Contact (Instant)",
+  "description": "Emit new event each time a contact is updated.",
+  "type": "source",
+  "version": "0.0.7"
+}

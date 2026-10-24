@@ -1,0 +1,7 @@
+{
+  "key": "coingecko-list-coin-tickers",
+  "name": "List Coin Tickers",
+  "description": "List trading tickers for a specified coin, including exchange info, price, volume, and trust score. [See the documentation](https://docs.coingecko.com/v3.0.1/reference/coins-id-tickers)",
+  "type": "action",
+  "version": "0.0.1"
+}

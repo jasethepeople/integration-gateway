@@ -1,0 +1,7 @@
+{
+  "key": "rydoo-create-expense",
+  "name": "Create Expense",
+  "description": "Adds a new expense entry for a user. [See the documentation](https://developers.rydoo.com/reference/v3expensesaddexpense)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "siteleaf-list-site-id-options",
+  "name": "List Site Id Options",
+  "description": "Retrieves available options for the Site Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

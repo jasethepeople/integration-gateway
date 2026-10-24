@@ -1,0 +1,7 @@
+{
+  "key": "overloop-new-exclusion-list-item-created",
+  "name": "New Exclusion List Item Created",
+  "description": "Emit new event each time an exclusion list item is created. [See the docs](https://apidoc.overloop.com/#list-exclusion-list-items)",
+  "type": "source",
+  "version": "0.0.1"
+}

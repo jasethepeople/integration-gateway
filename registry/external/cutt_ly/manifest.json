@@ -1,0 +1,17 @@
+{
+  "app": "cutt_ly",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "cutt_ly-get-url-analytics",
+    "cutt_ly-shorten-url",
+    "cutt_ly-update-source-url",
+    "cutt_ly-new-click"
+  ]
+}

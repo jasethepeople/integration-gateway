@@ -1,0 +1,7 @@
+{
+  "key": "dolibarr-create-order",
+  "name": "Create Order",
+  "description": "Create a new order in Dolibarr.",
+  "type": "action",
+  "version": "0.0.3"
+}

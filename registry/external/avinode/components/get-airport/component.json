@@ -1,0 +1,7 @@
+{
+  "key": "avinode-get-airport",
+  "name": "Get Airport",
+  "description": "Read a single airport by identifier (search or select from the dropdown, or enter an ID). [Read airport](https://developer.avinodegroup.com/reference/readairport-1)",
+  "type": "action",
+  "version": "0.0.2"
+}

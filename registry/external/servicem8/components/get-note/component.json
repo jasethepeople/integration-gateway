@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-get-note",
+  "name": "Get Note",
+  "description": "Get a note by UUID. [See the documentation](https://developer.servicem8.com/reference/getnotes)",
+  "type": "action",
+  "version": "0.0.1"
+}

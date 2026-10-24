@@ -1,0 +1,7 @@
+{
+  "key": "orderspace-new-invoice-created",
+  "name": "New Invoice Created (Instant)",
+  "description": "Emit new event when an invoice is created",
+  "type": "source",
+  "version": "0.0.1"
+}

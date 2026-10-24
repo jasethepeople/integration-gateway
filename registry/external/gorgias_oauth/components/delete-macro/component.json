@@ -1,0 +1,7 @@
+{
+  "key": "gorgias_oauth-delete-macro",
+  "name": "Delete Macro",
+  "description": "Delete a macro. [See the documentation](https://developers.gorgias.com/reference/delete-macro)",
+  "type": "action",
+  "version": "0.0.8"
+}

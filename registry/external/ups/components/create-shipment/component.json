@@ -1,0 +1,7 @@
+{
+  "key": "ups-create-shipment",
+  "name": "Create Shipment",
+  "description": "Create a new shipment. [See the documentation](https://developer.ups.com/tag/Shipping?loc=en_US#operation/Shipment)",
+  "type": "action",
+  "version": "0.0.2"
+}

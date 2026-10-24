@@ -1,0 +1,7 @@
+{
+  "key": "telnyx-new-phone-number",
+  "name": "New Phone Number",
+  "description": "Emit new event when a new phone number is added [See the documentation](https://developers.telnyx.com/api/numbers/list-available-phone-numbers)",
+  "type": "source",
+  "version": "0.0.1"
+}

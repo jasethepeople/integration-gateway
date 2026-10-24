@@ -1,0 +1,45 @@
+{
+  "app": "aidbase",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "knowledgeItemId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emailInboxId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ticketFormId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "chatbotId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "faqId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "aidbase-add-question-to-faq",
+    "aidbase-add-video",
+    "aidbase-create-faq",
+    "aidbase-list-chatbot-id-options",
+    "aidbase-list-email-inbox-id-options",
+    "aidbase-list-faq-id-options",
+    "aidbase-list-knowledge-item-id-options",
+    "aidbase-list-ticket-form-id-options",
+    "aidbase-start-training",
+    "aidbase-new-chatbot-knowledge-item",
+    "aidbase-new-email-inbox-knowledge-item",
+    "aidbase-new-ticket-form-knowledge-item"
+  ]
+}

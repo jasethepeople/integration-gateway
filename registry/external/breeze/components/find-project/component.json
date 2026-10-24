@@ -1,0 +1,7 @@
+{
+  "key": "breeze-find-project",
+  "name": "Find Project",
+  "description": "Searches for a specific project in breeze using the name. [See documentation](https://www.breeze.pm/api#:~:text=Get%20Projects)",
+  "type": "action",
+  "version": "0.0.1"
+}

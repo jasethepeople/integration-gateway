@@ -1,0 +1,7 @@
+{
+  "key": "kontent_ai-content-item-deleted",
+  "name": "New Content Item Deleted (Instant)",
+  "description": "Emit new event when a content item is deleted.",
+  "type": "source",
+  "version": "0.0.1"
+}

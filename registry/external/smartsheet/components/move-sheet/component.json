@@ -1,0 +1,7 @@
+{
+  "key": "smartsheet-move-sheet",
+  "name": "Move Sheet",
+  "description": "Move a sheet to a different workspace, folder, or home. The sheet is removed from its current location.",
+  "type": "action",
+  "version": "0.1.2"
+}

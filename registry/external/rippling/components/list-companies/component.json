@@ -1,0 +1,7 @@
+{
+  "key": "rippling-list-companies",
+  "name": "List Companies",
+  "description": "Retrieves a list of all companies from Rippling. [See the documentation](https://developer.rippling.com/documentation/rest-api/reference/list-companies)",
+  "type": "action",
+  "version": "0.0.2"
+}

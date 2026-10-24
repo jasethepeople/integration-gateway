@@ -1,0 +1,25 @@
+{
+  "app": "customjs",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "filename": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "customjs-convert-html-to-pdf",
+    "customjs-convert-html-to-png",
+    "customjs-create-screenshot",
+    "customjs-merge-pdfs",
+    "customjs-run-puppeteer"
+  ],
+  "npmImports": [
+    "fs"
+  ]
+}

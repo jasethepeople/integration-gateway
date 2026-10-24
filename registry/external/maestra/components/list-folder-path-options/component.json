@@ -1,0 +1,7 @@
+{
+  "key": "maestra-list-folder-path-options",
+  "name": "List Folder Path Options",
+  "description": "Retrieves available options for the Folder Path field.",
+  "type": "action",
+  "version": "0.0.1"
+}

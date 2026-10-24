@@ -1,0 +1,16 @@
+{
+  "app": "piloterr",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "piloterr-get-company-database",
+    "piloterr-get-website-crawler",
+    "piloterr-get-website-technology"
+  ]
+}

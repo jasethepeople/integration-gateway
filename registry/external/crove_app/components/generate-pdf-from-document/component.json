@@ -1,0 +1,7 @@
+{
+  "key": "crove_app-generate-pdf-from-document",
+  "name": "Generate PDF from Document",
+  "description": "Generate PDF of a document and return PDF URL.",
+  "type": "action",
+  "version": "1.0.3"
+}

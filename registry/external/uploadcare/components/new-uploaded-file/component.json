@@ -1,0 +1,7 @@
+{
+  "key": "uploadcare-new-uploaded-file",
+  "name": "New Uploaded File (Instant)",
+  "description": "Emit new event on each created task.",
+  "type": "source",
+  "version": "0.0.1"
+}

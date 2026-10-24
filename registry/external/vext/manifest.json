@@ -1,0 +1,34 @@
+{
+  "app": "vext",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "payload": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "longPolling": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "requestId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endpoint_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "channel_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "vext-send-query"
+  ]
+}

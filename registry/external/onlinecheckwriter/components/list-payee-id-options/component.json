@@ -1,0 +1,7 @@
+{
+  "key": "onlinecheckwriter-list-payee-id-options",
+  "name": "List Payee ID Options",
+  "description": "Retrieves available options for the Payee ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

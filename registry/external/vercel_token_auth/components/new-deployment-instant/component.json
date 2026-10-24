@@ -1,0 +1,7 @@
+{
+  "key": "vercel_token_auth-new-deployment-instant",
+  "name": "New Deployment (Instant)",
+  "description": "Emit new event when a deployment is created [See the documentation](https://vercel.com/docs/rest-api/reference/endpoints/webhooks/creates-a-webhook).",
+  "type": "source",
+  "version": "0.0.1"
+}

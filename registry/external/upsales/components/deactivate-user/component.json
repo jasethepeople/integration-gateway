@@ -1,0 +1,7 @@
+{
+  "key": "upsales-deactivate-user",
+  "name": "Deactivate User",
+  "description": "Deactivates a user by ID in Upsales. [See the documentation](https://api.upsales.com/#31878497-b688-4034-9d88-ee99bf152730)",
+  "type": "action",
+  "version": "0.0.1"
+}

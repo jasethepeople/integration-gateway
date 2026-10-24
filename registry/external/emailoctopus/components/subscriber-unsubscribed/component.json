@@ -1,0 +1,7 @@
+{
+  "key": "emailoctopus-subscriber-unsubscribed",
+  "name": "New Subscriber unsubscribed event",
+  "description": "Emit new event when a subscriber unsubscribed.",
+  "type": "source",
+  "version": "0.0.2"
+}

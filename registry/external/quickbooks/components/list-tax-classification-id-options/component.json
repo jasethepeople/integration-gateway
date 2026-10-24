@@ -1,0 +1,7 @@
+{
+  "key": "quickbooks-list-tax-classification-id-options",
+  "name": "List Tax Classification ID Options",
+  "description": "Retrieves available options for the Tax Classification ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

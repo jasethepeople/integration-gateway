@@ -1,0 +1,7 @@
+{
+  "key": "drip-list-campaign-options",
+  "name": "List Campaign Options",
+  "description": "Retrieves available options for the Campaign field.",
+  "type": "action",
+  "version": "0.0.1"
+}

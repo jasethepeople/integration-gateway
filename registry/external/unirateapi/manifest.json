@@ -1,0 +1,28 @@
+{
+  "app": "unirateapi",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "currencyCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "countryCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "unirateapi-convert-currency",
+    "unirateapi-get-exchange-rates",
+    "unirateapi-get-vat-rates",
+    "unirateapi-list-country-code-options",
+    "unirateapi-list-currencies",
+    "unirateapi-list-currency-code-options",
+    "unirateapi-new-rate-update"
+  ]
+}

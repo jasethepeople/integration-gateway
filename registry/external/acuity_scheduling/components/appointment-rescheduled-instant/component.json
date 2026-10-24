@@ -1,0 +1,7 @@
+{
+  "key": "acuity_scheduling-appointment-rescheduled-instant",
+  "name": "New Appointment Rescheduled (Instant)",
+  "description": "Emit new event when an appointment is rescheduled.",
+  "type": "source",
+  "version": "0.0.1"
+}

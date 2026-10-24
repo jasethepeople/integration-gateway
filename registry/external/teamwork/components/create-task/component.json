@@ -1,0 +1,7 @@
+{
+  "key": "teamwork-create-task",
+  "name": "Create Task",
+  "description": "Create a new task in the backlog. [See the docs here](https://apidocs.teamwork.com/docs/teamwork/cd8948166b1b1-create-a-task)",
+  "type": "action",
+  "version": "0.0.4"
+}

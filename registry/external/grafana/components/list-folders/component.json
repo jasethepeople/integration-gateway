@@ -1,0 +1,7 @@
+{
+  "key": "grafana-list-folders",
+  "name": "List Folders",
+  "description": "List all dashboard folders. Folders organize dashboards",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "content_snare-new-request-published-instant",
+  "name": "New Request Published (Instant)",
+  "description": "Emit new event when a request is published on Content Snare. [See the documentation](https://contentsnare.com/help/knowledge-base/content-snare-webhooks/)",
+  "type": "source",
+  "version": "0.0.1"
+}

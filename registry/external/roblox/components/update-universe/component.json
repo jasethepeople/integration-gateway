@@ -1,0 +1,7 @@
+{
+  "key": "roblox-update-universe",
+  "name": "Update Universe",
+  "description": "Update settings of a Roblox universe (experience). [See the documentation](https://create.roblox.com/docs/cloud/reference/Universe#Cloud_UpdateUniverse)",
+  "type": "action",
+  "version": "0.0.1"
+}

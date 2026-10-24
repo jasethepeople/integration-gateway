@@ -1,0 +1,14 @@
+{
+  "app": "alttext_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "alttext_ai-generate-alt-text"
+  ]
+}

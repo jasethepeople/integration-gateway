@@ -1,0 +1,7 @@
+{
+  "key": "github-get-repository",
+  "name": "Get Repository Info",
+  "description": "Get metadata for a single repository: description, default branch, visibility, topics, star/fork/open-issue counts, your permission level, and timestamps. Provide the repository as an `owner/repo` string (e.g. `PipedreamHQ/pipedream`). [See the documentation](https://docs.github.com/en/rest/repos/repos#get-a-repository)",
+  "type": "action",
+  "version": "0.1.3"
+}

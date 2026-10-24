@@ -1,0 +1,7 @@
+{
+  "key": "click2mail2-create-job",
+  "name": "Create Job",
+  "description": "Creates a new new job in your account. [See the documentation](https://developers.click2mail.com/reference/post_2).",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "explorium-match-business-id",
+  "name": "Match Business ID",
+  "description": "Match a businesse to its unique identifier using business name and domain. [See the documentation](https://developers.explorium.ai/reference/match_businesses)",
+  "type": "action",
+  "version": "0.0.2"
+}

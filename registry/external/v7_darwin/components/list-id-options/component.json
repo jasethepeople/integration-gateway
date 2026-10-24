@@ -1,0 +1,7 @@
+{
+  "key": "v7_darwin-list-id-options",
+  "name": "List Dataset ID Options",
+  "description": "Retrieves available options for the Dataset ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

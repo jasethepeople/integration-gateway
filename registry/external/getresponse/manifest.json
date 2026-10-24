@@ -1,0 +1,39 @@
+{
+  "app": "getresponse",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "searchContactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fromFieldId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "getresponse-create-contact",
+    "getresponse-create-newsletter",
+    "getresponse-create-or-update-contact",
+    "getresponse-find-campaign-list",
+    "getresponse-find-contact",
+    "getresponse-list-from-field-id-options",
+    "getresponse-new-contact",
+    "getresponse-new-form",
+    "getresponse-new-landing-page",
+    "getresponse-new-newsletter"
+  ]
+}

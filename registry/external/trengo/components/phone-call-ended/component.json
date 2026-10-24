@@ -1,0 +1,7 @@
+{
+  "key": "trengo-phone-call-ended",
+  "name": "New Phone Call Ended Event (Instant)",
+  "description": "Emit new event when a phone call ends. [See the documentation](https://developers.trengo.com/docs/webhooks)",
+  "type": "source",
+  "version": "0.0.12"
+}

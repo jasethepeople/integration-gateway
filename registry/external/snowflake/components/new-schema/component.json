@@ -1,0 +1,7 @@
+{
+  "key": "snowflake-new-schema",
+  "name": "New Schema",
+  "description": "Emit new event when a schema is created",
+  "type": "source",
+  "version": "0.1.5"
+}

@@ -1,0 +1,63 @@
+{
+  "app": "capturekit",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "format": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "device": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cache": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "fullPageScroll": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "includeHtml": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "useDefuddle": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "selector": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "removeSelectors": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "blockUrls": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "fileName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "access_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "capturekit-capture-screenshot",
+    "capturekit-scrape-content"
+  ],
+  "npmImports": [
+    "fs",
+    "path"
+  ]
+}

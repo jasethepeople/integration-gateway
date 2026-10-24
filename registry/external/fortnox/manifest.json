@@ -1,0 +1,154 @@
+{
+  "app": "fortnox",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "customerNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "articleNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "invoiceNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "supplierNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "voucherNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "supplierInvoiceNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "articleDescription": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ean": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "directCost": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "freightCost": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "purchasePrice": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "salesPrice": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "manufacturer": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "quantityInStock": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "articleType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "articleVat": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "weight": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "width": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "height": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "address1": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "address2": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "city": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "zipCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerVat": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "vatType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "fortnox-create-article",
+    "fortnox-create-customer",
+    "fortnox-create-invoice-payment",
+    "fortnox-create-invoice",
+    "fortnox-get-supplier-invoice",
+    "fortnox-list-accounts",
+    "fortnox-list-article-number-options",
+    "fortnox-list-articles",
+    "fortnox-list-customer-number-options",
+    "fortnox-list-customers",
+    "fortnox-list-financial-years",
+    "fortnox-list-invoice-number-options",
+    "fortnox-list-invoices",
+    "fortnox-list-supplier-invoice-number-options",
+    "fortnox-list-supplier-invoices",
+    "fortnox-list-supplier-number-options",
+    "fortnox-list-suppliers",
+    "fortnox-list-voucher-number-options",
+    "fortnox-send-invoice",
+    "fortnox-update-article",
+    "fortnox-update-customer"
+  ]
+}

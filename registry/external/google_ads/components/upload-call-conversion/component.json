@@ -1,0 +1,7 @@
+{
+  "key": "google_ads-upload-call-conversion",
+  "name": "Upload Call Conversion",
+  "description": "The phone number the call was placed from, in E.164 format with a leading `+` (e.g. `+16502531234`).",
+  "type": "action",
+  "version": "0.0.4"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "orshot-get-template-modifications",
+  "name": "Get Template Modifications",
+  "description": "Get available modification keys for a library template",
+  "type": "action",
+  "version": "0.0.2"
+}

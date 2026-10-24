@@ -1,0 +1,72 @@
+{
+  "app": "pipefy",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "organization": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pipe": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phase": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "members": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "table": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "card": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "record": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pipefy-create-card",
+    "pipefy-create-pipe",
+    "pipefy-create-table-record",
+    "pipefy-delete-card",
+    "pipefy-get-all-cards",
+    "pipefy-get-current-user",
+    "pipefy-get-table-records",
+    "pipefy-list-organization-options",
+    "pipefy-look-up-card-by-id",
+    "pipefy-look-up-phase-by-id",
+    "pipefy-look-up-pipe-by-id",
+    "pipefy-look-up-table-by-id",
+    "pipefy-update-card-field",
+    "pipefy-update-card",
+    "pipefy-update-table-record",
+    "pipefy-update-table",
+    "pipefy-card-created",
+    "pipefy-card-done",
+    "pipefy-card-expired",
+    "pipefy-card-field-updated",
+    "pipefy-card-late",
+    "pipefy-card-moved",
+    "pipefy-card-overdue"
+  ],
+  "npmImports": [
+    "graphql",
+    "graphql-request"
+  ]
+}

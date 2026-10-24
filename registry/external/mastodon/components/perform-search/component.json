@@ -1,0 +1,7 @@
+{
+  "key": "mastodon-perform-search",
+  "name": "Perform Search",
+  "description": "Search for content in accounts, statuses or hashtags. [See the docs here](https://docs.joinmastodon.org/methods/search/#v2)",
+  "type": "action",
+  "version": "0.0.4"
+}

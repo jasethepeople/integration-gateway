@@ -1,0 +1,17 @@
+{
+  "app": "cloudbeds",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "cloudbeds-new-guest-created",
+    "cloudbeds-new-reservation-created",
+    "cloudbeds-new-transaction-created",
+    "cloudbeds-reservation-status-changed"
+  ]
+}

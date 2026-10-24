@@ -1,0 +1,43 @@
+{
+  "app": "commerce_tools",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "orderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "expand": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "offset": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "project_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "commerce_tools-change-order-search-status",
+    "commerce_tools-get-order-by-id",
+    "commerce_tools-get-order-by-order-number",
+    "commerce_tools-query-orders",
+    "commerce_tools-reindex-orders",
+    "commerce_tools-search-orders"
+  ]
+}

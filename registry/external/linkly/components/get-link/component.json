@@ -1,0 +1,7 @@
+{
+  "key": "linkly-get-link",
+  "name": "Get Link",
+  "description": "Fetch a single short link via `GET /api/v1/link/{id}`, with full metadata including click counts, custom domain, and redirect rules. [See the documentation](https://app.linklyhq.com/swaggerui#/Links/getLink).",
+  "type": "action",
+  "version": "0.0.3"
+}

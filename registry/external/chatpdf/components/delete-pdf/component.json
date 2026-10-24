@@ -1,0 +1,7 @@
+{
+  "key": "chatpdf-delete-pdf",
+  "name": "Delete PDF",
+  "description": "Deletes one or more PDFs from ChatPDF using their source IDs. [See the documentation](https://www.chatpdf.com/docs/api/backend)",
+  "type": "action",
+  "version": "0.0.2"
+}

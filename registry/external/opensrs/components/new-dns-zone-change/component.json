@@ -1,0 +1,7 @@
+{
+  "key": "opensrs-new-dns-zone-change",
+  "name": "New DNS Zone Change",
+  "description": "Emit new event when the DNS/ZONE check has passed or failed at the registry. [See the documentation](https://domains.opensrs.guide/docs/zone_check_status_change-domain).",
+  "type": "source",
+  "version": "0.0.1"
+}

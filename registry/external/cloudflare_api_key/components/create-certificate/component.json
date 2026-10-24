@@ -1,0 +1,7 @@
+{
+  "key": "cloudflare_api_key-create-certificate",
+  "name": "Create a Certificate",
+  "description": "Creates an Origin CA certificate. [See the documentation](https://developers.cloudflare.com/api/node/resources/origin_ca_certificates/methods/create/)",
+  "type": "action",
+  "version": "0.0.6"
+}

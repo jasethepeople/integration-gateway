@@ -1,0 +1,7 @@
+{
+  "key": "rhombus-new-door-sensor-event-instant",
+  "name": "New Door Sensor Event (Instant)",
+  "description": "Emit new event when a new door sensor event is created. [See the documentation](https://apidocs.rhombus.com/reference/subscribezapierwebhook)",
+  "type": "source",
+  "version": "0.0.1"
+}

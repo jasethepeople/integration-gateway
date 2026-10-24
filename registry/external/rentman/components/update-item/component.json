@@ -1,0 +1,7 @@
+{
+  "key": "rentman-update-item",
+  "name": "Update Rentman Item",
+  "description": "Updates the details of an existing item based on its type. [See the documentation](https://api.rentman.net)",
+  "type": "action",
+  "version": "0.0.2"
+}

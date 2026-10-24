@@ -1,0 +1,140 @@
+{
+  "app": "paystack",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "amount": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "currency": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "reference": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "callbackUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "metadata": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "transactionID": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "customerID": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "authorization_code": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "riskAction": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "bankCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "accountNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "bvn": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "from": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "to": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "virtualTerminalCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "splitCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "paystack-add-split-code-to-virtual-terminal",
+    "paystack-assign-destination-to-virtual-terminal",
+    "paystack-charge-authorization",
+    "paystack-create-customer",
+    "paystack-create-virtual-terminal",
+    "paystack-deactivate-authorization",
+    "paystack-deactivate-virtual-terminal",
+    "paystack-direct-debit-activation-charge",
+    "paystack-export-transactions",
+    "paystack-fetch-customer",
+    "paystack-fetch-mandate-authorizations",
+    "paystack-fetch-transaction",
+    "paystack-fetch-virtual-terminal",
+    "paystack-initialize-direct-debit",
+    "paystack-initialize-transaction",
+    "paystack-list-customer-code-options",
+    "paystack-list-customer-id-options",
+    "paystack-list-customers",
+    "paystack-list-reference-options",
+    "paystack-list-split-code-options",
+    "paystack-list-transaction-id-options",
+    "paystack-list-transactions",
+    "paystack-list-virtual-terminal-code-options",
+    "paystack-list-virtual-terminals",
+    "paystack-remove-split-code-from-virtual-terminal",
+    "paystack-set-customer-risk-action",
+    "paystack-unassign-destination-from-virtual-terminal",
+    "paystack-update-customer",
+    "paystack-update-virtual-terminal",
+    "paystack-validate-customer",
+    "paystack-verify-transaction"
+  ]
+}

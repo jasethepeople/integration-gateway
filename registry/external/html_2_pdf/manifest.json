@@ -1,0 +1,29 @@
+{
+  "app": "html_2_pdf",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "source": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "content": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "licenseKey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "license_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "html_2_pdf-generate-pdf"
+  ],
+  "npmImports": [
+    "fs"
+  ]
+}

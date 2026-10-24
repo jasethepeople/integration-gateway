@@ -1,0 +1,7 @@
+{
+  "key": "zenserp-list-search-engine-options",
+  "name": "List Search Engine Options",
+  "description": "Retrieves available options for the Search Engine field.",
+  "type": "action",
+  "version": "0.0.1"
+}

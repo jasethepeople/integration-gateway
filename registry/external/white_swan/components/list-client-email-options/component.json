@@ -1,0 +1,7 @@
+{
+  "key": "white_swan-list-client-email-options",
+  "name": "List Client Email Options",
+  "description": "Retrieves available options for the Client Email field.",
+  "type": "action",
+  "version": "0.0.1"
+}

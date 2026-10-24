@@ -1,0 +1,7 @@
+{
+  "key": "plecto-list-data-source-options",
+  "name": "List Data Source Options",
+  "description": "Retrieves available options for the Data Source field.",
+  "type": "action",
+  "version": "0.0.1"
+}

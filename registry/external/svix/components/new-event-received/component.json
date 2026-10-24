@@ -1,0 +1,7 @@
+{
+  "key": "svix-new-event-received",
+  "name": "New Event Received (Instant)",
+  "description": "Emit new event when an event is received for an application",
+  "type": "source",
+  "version": "0.0.1"
+}

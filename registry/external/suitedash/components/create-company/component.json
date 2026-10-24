@@ -1,0 +1,7 @@
+{
+  "key": "suitedash-create-company",
+  "name": "Create Company",
+  "description": "Creates a new company in SuiteDash. [See the documentation](https://app.suitedash.com/secure-api/swagger)",
+  "type": "action",
+  "version": "0.0.2"
+}

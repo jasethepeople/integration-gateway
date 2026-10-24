@@ -1,0 +1,7 @@
+{
+  "key": "constant_contact-update-contact",
+  "name": "Update Contact",
+  "description": "Update an existing contact. [See the documentation](https://developer.constantcontact.com/api_reference/index.html#!/Contacts/putContact)",
+  "type": "action",
+  "version": "0.0.4"
+}

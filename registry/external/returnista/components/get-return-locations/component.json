@@ -1,0 +1,7 @@
+{
+  "key": "returnista-get-return-locations",
+  "name": "Get Return Locations",
+  "description": "Gets a list of return locations for the given account. [See the documentation](https://platform.returnista.com/reference/rest-api/#get-/account/-accountId/return-locations)",
+  "type": "action",
+  "version": "0.0.2"
+}

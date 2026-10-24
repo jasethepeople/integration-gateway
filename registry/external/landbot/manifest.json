@@ -1,0 +1,26 @@
+{
+  "app": "landbot",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "channelId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "landbot-list-channel-id-options",
+    "landbot-list-customer-id-options",
+    "landbot-send-image",
+    "landbot-send-text-message",
+    "landbot-new-message-in-channel"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "exhibitday-list-assignee-id-options",
+  "name": "List Assignee ID Options",
+  "description": "Retrieves available options for the Assignee ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

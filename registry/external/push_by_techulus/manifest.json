@@ -1,0 +1,14 @@
+{
+  "app": "push_by_techulus",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "push_by_techulus-send-push-notification"
+  ]
+}

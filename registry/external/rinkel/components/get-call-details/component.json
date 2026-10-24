@@ -1,0 +1,7 @@
+{
+  "key": "rinkel-get-call-details",
+  "name": "Get Call Details",
+  "description": "Get details about a call. [See the documentation](https://developers.rinkel.com/docs/api/get-a-specific-call-detail-record)",
+  "type": "action",
+  "version": "0.0.2"
+}

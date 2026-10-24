@@ -1,0 +1,7 @@
+{
+  "key": "monday-list-boards",
+  "name": "List Boards",
+  "description": "List boards with their full details — columns, groups, owners, subscribers, tags and workspace. Use when you need board metadata; use **List Board ID Options** when you only need an ID and a name, which returns a far smaller response. Narrow the results with `Board IDs`, `Workspace IDs`, `Board Kind` and `State`. Example: Limit `25`, Page `1`, State `active`. Returns an array of board objects. If exactly `Limit` boards come back there are probably more — call again with `Page` incremented by 1. [See the documentation](https://developer.monday.com/api-reference/reference/boards)",
+  "type": "action",
+  "version": "0.0.4"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "dear-new-sale-backordered",
+  "name": "New Sale Backordered",
+  "description": "Emit new event when a sale is backordered",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_365_planner-new-plan-created",
+  "name": "New Plan Created",
+  "description": "Emit new event when a new Plan is created in Microsoft 365 Planner",
+  "type": "source",
+  "version": "0.0.4"
+}

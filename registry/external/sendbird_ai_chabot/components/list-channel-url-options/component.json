@@ -1,0 +1,7 @@
+{
+  "key": "sendbird_ai_chabot-list-channel-url-options",
+  "name": "List Channel URL Options",
+  "description": "Retrieves available options for the Channel URL field.",
+  "type": "action",
+  "version": "0.0.1"
+}

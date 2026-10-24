@@ -1,0 +1,7 @@
+{
+  "key": "reward_sciences-new-participant-added",
+  "name": "New Participant Added",
+  "description": "Emit new event when a new participant is added to Reward Sciences. [See the documentation](https://developers.rewardsciences.com/api/docs)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "papertrail-new-group",
+  "name": "New Group",
+  "description": "Emit new event when a log group is created in your account. [See the documentation](https://www.papertrail.com/help/settings-api/#list-groups)",
+  "type": "source",
+  "version": "0.0.1"
+}

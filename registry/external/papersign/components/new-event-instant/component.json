@@ -1,0 +1,7 @@
+{
+  "key": "papersign-new-event-instant",
+  "name": "New Event in Papersign (Instant)",
+  "description": "Emit new event when any document or signer action occurs.",
+  "type": "source",
+  "version": "0.0.1"
+}

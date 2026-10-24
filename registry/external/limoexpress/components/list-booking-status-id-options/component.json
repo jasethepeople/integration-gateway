@@ -1,0 +1,7 @@
+{
+  "key": "limoexpress-list-booking-status-id-options",
+  "name": "List Booking Status ID Options",
+  "description": "Retrieves available options for the Booking Status ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

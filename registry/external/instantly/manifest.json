@@ -1,0 +1,35 @@
+{
+  "app": "instantly",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tagIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "leadIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "newStatus": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "instantly-add-lead-campaign",
+    "instantly-add-tags-campaign",
+    "instantly-update-lead-status",
+    "instantly-new-background-job-completed",
+    "instantly-new-email-received",
+    "instantly-new-lead-created"
+  ]
+}

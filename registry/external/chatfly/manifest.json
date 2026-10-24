@@ -1,0 +1,27 @@
+{
+  "app": "chatfly",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "botId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "message": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sessionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "chatfly-list-bot-id-options",
+    "chatfly-send-message"
+  ]
+}

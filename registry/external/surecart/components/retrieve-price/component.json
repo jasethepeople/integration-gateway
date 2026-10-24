@@ -1,0 +1,7 @@
+{
+  "key": "surecart-retrieve-price",
+  "name": "Retrieve Price",
+  "description": "Retrieve a single SureCart price by its ID. Run **List Prices** first to obtain a valid price ID. [See the documentation](https://developer.surecart.com/api-reference/prices/retrieve)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "filestack-filter-image",
+  "name": "Filter Image",
+  "description": "Applies filters such as sharpening, blurring, sepia, monochrome, and more, to an uploaded image. [See the documentation](https://www.filestack.com/docs/api/processing/#image-filters)",
+  "type": "action",
+  "version": "0.0.2"
+}

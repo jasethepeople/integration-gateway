@@ -1,0 +1,7 @@
+{
+  "key": "xola-order-deleted-instant",
+  "name": "Order Deleted (Instant)",
+  "description": "Emit new event when an order is deleted. [See the documentation](https://developers.xola.com/reference/webhook-introduction)",
+  "type": "source",
+  "version": "0.0.2"
+}

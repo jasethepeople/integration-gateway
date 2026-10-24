@@ -1,0 +1,7 @@
+{
+  "key": "newsman-add-subscriber-to-segment",
+  "name": "Add Subscriber To Segment",
+  "description": "Add a subscriber to a segment in Newsman. [See the documentation](https://kb.newsman.com/api/1.2/subscriber.addToSegment)",
+  "type": "action",
+  "version": "0.0.1"
+}

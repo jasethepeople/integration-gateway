@@ -1,0 +1,21 @@
+import common from "../../shared/sources/common/base-webhook.mjs";
+import sampleEmit from "../../shared/sources/new-page-created/test-event.mjs";
+
+export default {
+  ...common,
+  key: "confluence_data_center-new-page-created",
+  name: "New Page Created (Instant)",
+  description: "Emit new event when a new page is created in Confluence Data Center.",
+  version: "0.0.3",
+  type: "source",
+  dedupe: "unique",
+  methods: {
+    ...common.methods,
+    getEvents() {
+      return [
+        "page_created",
+      ];
+    },
+  },
+  sampleEmit,
+};

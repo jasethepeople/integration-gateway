@@ -1,0 +1,7 @@
+{
+  "key": "flutterwave-new-subscription",
+  "name": "New Subscription",
+  "description": "Emit new event when a new subscription is added.",
+  "type": "source",
+  "version": "0.0.1"
+}

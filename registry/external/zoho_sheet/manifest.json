@@ -1,0 +1,52 @@
+{
+  "app": "zoho_sheet",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "workbookId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "worksheet": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "data": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "headerRow": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "criteria": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstMatchOnly": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "isCaseSensitive": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "base_api_uri": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zoho_sheet-create-row",
+    "zoho_sheet-list-workbook-id-options",
+    "zoho_sheet-search-delete-row",
+    "zoho_sheet-update-row",
+    "zoho_sheet-new-or-updated-row-instant",
+    "zoho_sheet-new-row-instant",
+    "zoho_sheet-new-workbook-instant"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pro_ledger-get-accounts",
+  "name": "Get Accounts",
+  "description": "Get accounts setup information. [See the documentation](https://api.pro-ledger.com/redoc#tag/record/operation/get_accounts_api_v1_record_get_accounts_get)",
+  "type": "action",
+  "version": "0.0.2"
+}

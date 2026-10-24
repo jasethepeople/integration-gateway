@@ -1,0 +1,7 @@
+{
+  "key": "mailchimp-create-campaign",
+  "name": "Create Campaign",
+  "description": "Creates a new campaign draft. [See docs here](https://mailchimp.com/developer/marketing/api/campaigns/add-campaign/)",
+  "type": "action",
+  "version": "0.2.4"
+}

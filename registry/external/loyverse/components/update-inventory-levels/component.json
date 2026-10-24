@@ -1,0 +1,7 @@
+{
+  "key": "loyverse-update-inventory-levels",
+  "name": "Update Inventory Levels",
+  "description": "Batch updates the inventory levels for specific item variants. [See the documentation](https://developer.loyverse.com/docs/#tag/Inventory/paths/~1inventory/post)",
+  "type": "action",
+  "version": "0.0.2"
+}

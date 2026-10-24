@@ -1,0 +1,7 @@
+{
+  "key": "salesflare-new-workflow",
+  "name": "New Workflow Event",
+  "description": "Emit new events when new workflows are created. [See the docs](https://api.salesflare.com/docs#operation/getWorkflows)",
+  "type": "source",
+  "version": "0.0.1"
+}

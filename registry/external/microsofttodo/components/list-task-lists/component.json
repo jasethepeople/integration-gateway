@@ -1,0 +1,7 @@
+{
+  "key": "microsofttodo-list-task-lists",
+  "name": "List Task Lists",
+  "description": "List task lists in Microsoft To Do. [See the documentation](https://learn.microsoft.com/en-us/graph/api/todo-list-lists).",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,54 @@
+{
+  "app": "etsy",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "shopId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "listingId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "propertyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taxonomyType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taxonomyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "listingType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "state": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_client_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "etsy-create-draft-listing-product",
+    "etsy-delete-listing",
+    "etsy-get-listing-inventory",
+    "etsy-get-listing",
+    "etsy-update-listing-inventory",
+    "etsy-update-listing-property",
+    "etsy-listing-updated",
+    "etsy-new-shop-receipt",
+    "etsy-new-transaction"
+  ]
+}

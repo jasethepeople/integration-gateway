@@ -1,0 +1,7 @@
+{
+  "key": "airmeet-add-authorized-attendee",
+  "name": "Add Authorized Attendee",
+  "description": "Add authorized Attendee. [See the documentation](https://help.airmeet.com/support/solutions/articles/82000467794-airmeet-public-apis-v2-0#5.1-Add-Authorized-Attendee)",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,56 @@
+{
+  "app": "supabase",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "table": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "column": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "value": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "data": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "filter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sortOrder": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "service_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "supabase-batch-insert-rows",
+    "supabase-count-rows",
+    "supabase-delete-row",
+    "supabase-insert-row",
+    "supabase-remote-procedure-call",
+    "supabase-select-row",
+    "supabase-update-row",
+    "supabase-upsert-row",
+    "supabase-new-row-added",
+    "supabase-new-webhook-event"
+  ],
+  "npmImports": [
+    "@supabase/supabase-js",
+    "csv-parse",
+    "ws"
+  ]
+}

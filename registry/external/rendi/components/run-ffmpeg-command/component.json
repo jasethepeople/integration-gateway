@@ -1,0 +1,7 @@
+{
+  "key": "rendi-run-ffmpeg-command",
+  "name": "Run FFmpeg Command",
+  "description": "Submit an FFmpeg command for processing with input and output file specifications. [See the documentation](https://docs.rendi.dev/api-reference/endpoint/run-ffmpeg-command)",
+  "type": "action",
+  "version": "0.0.3"
+}

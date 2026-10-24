@@ -1,0 +1,7 @@
+{
+  "key": "zoom_admin-user-invitation-accepted",
+  "name": "User Invitation Accepted",
+  "description": "Emits an event each time a user accepts an invite to your Zoom account",
+  "type": "source",
+  "version": "0.1.9"
+}

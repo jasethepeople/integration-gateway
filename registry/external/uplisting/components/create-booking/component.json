@@ -1,0 +1,7 @@
+{
+  "key": "uplisting-create-booking",
+  "name": "Create Booking",
+  "description": "Create a confirmed booking. [See the documentation](https://documenter.getpostman.com/view/1320372/SWTBfdW6#ce173dfb-5d88-4af4-a55f-43ffc238487a)",
+  "type": "action",
+  "version": "0.0.2"
+}

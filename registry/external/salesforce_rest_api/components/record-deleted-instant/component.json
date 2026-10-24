@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-record-deleted-instant",
+  "name": "New Deleted Record (Instant, of Selectable Type)",
+  "description": "Emit new event when a record of the selected object type is deleted. [See the documentation](https://sforce.co/3msDDEE)",
+  "type": "source",
+  "version": "0.1.12"
+}

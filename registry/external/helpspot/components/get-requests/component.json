@@ -1,0 +1,7 @@
+{
+  "key": "helpspot-get-requests",
+  "name": "Get Requests",
+  "description": "Retrieves multiple support requests by ID in a single call. [See the documentation](https://support.helpspot.com/index.php?pg=kb.page&id=164#private.request.multiGet)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,25 @@
+{
+  "app": "cisco_meraki",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "orgId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "networkId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "cisco_meraki-create-organization",
+    "cisco_meraki-get-network",
+    "cisco_meraki-list-org-id-options",
+    "cisco_meraki-update-network"
+  ]
+}

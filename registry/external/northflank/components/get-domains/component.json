@@ -1,0 +1,7 @@
+{
+  "key": "northflank-get-domains",
+  "name": "Get Domains",
+  "description": "List all domains with pagination. [See the documentation](https://northflank.com/docs/v1/api/domains/list-domains)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "quickbooks-get-invoice",
+  "name": "Get Invoice",
+  "description": "Returns info about an invoice. [See the documentation](https://developer.intuit.com/app/developer/qbo/docs/api/accounting/all-entities/invoice#read-an-invoice)",
+  "type": "action",
+  "version": "0.2.14"
+}

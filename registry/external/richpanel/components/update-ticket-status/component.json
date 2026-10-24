@@ -1,0 +1,7 @@
+{
+  "key": "richpanel-update-ticket-status",
+  "name": "Update Ticket Status",
+  "description": "Updates the status of an existing ticket in Richpanel. [See the documentation](https://developer.richpanel.com/reference/update-a-conversation).",
+  "type": "action",
+  "version": "0.0.2"
+}

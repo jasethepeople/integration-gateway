@@ -1,0 +1,7 @@
+{
+  "key": "pushbullet-delete-push",
+  "name": "Delete push",
+  "description": "Delete a push. [See docs here](https://docs.pushbullet.com/#delete-push)",
+  "type": "action",
+  "version": "0.0.2"
+}

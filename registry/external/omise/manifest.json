@@ -1,0 +1,63 @@
+{
+  "app": "omise",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "card": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "amount": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "currency": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "metadata": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "defaultCard": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "capture": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "returnUri": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sourceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "secret_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "omise-create-charge",
+    "omise-create-customer",
+    "omise-list-customer-id-options",
+    "omise-update-customer",
+    "omise-charge-refunded",
+    "omise-payment-received"
+  ]
+}

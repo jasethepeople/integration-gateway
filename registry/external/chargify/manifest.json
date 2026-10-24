@@ -1,0 +1,51 @@
+{
+  "app": "chargify",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subscriptionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "couponCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "paymentCollectionMethod": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "nextBillingAt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "chargify-create-customer",
+    "chargify-create-subscription",
+    "chargify-list-coupon-code-options",
+    "chargify-list-customer-id-options",
+    "chargify-list-product-id-options",
+    "chargify-list-subscription-id-options",
+    "chargify-update-subscription",
+    "chargify-new-customer-instant",
+    "chargify-new-subscription-instant",
+    "chargify-new-subscription-state-instant"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pcloud-rename-folder",
+  "name": "Rename Folder",
+  "description": "Renames a folder. [See the docs here](https://docs.pcloud.com/methods/folder/renamefolder.html)",
+  "type": "action",
+  "version": "0.0.3"
+}

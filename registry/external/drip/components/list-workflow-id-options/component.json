@@ -1,0 +1,7 @@
+{
+  "key": "drip-list-workflow-id-options",
+  "name": "List Workflow Id Options",
+  "description": "Retrieves available options for the Workflow Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

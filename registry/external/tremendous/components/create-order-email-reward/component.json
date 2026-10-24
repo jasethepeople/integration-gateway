@@ -1,0 +1,7 @@
+{
+  "key": "tremendous-create-order-email-reward",
+  "name": "Create Order Email Reward",
+  "description": "Create an order to send out a reward. [See the documentation](https://developers.tremendous.com/reference/create-order)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,529 @@
+import { ApiClient } from "@mondaydotcomorg/api";
+import flatMap from "lodash.flatmap";
+import map from "lodash.map";
+import uniqBy from "lodash.uniqby";
+import constants from "./shared/common/constants.mjs";
+import mutations from "./shared/common/mutations.mjs";
+import queries from "./shared/common/queries.mjs";
+
+// @mondaydotcomorg/api defaults to "2026-01", which is behind the version
+// https://developer.monday.com/api-reference/docs/api-versioning
+const API_VERSION = "2026-07";
+
+const __pdApp = {
+  type: "app",
+  app: "monday",
+  propDefinitions: {
+    boardId: {
+      type: "string",
+      label: "Board ID",
+      description: "The board to act on, as a board ID (e.g. `2419687965`). Use **List Board ID Options** to look up a board ID by name.",
+      async options({ page }) {
+        return this.listBoardsOptions({
+          page: page + 1,
+        });
+      },
+    },
+    boardIds: {
+      type: "string[]",
+      label: "Board IDs",
+      description: "Restrict the results to these boards, as an array of board IDs. Use **List Board IDs Options** to look up board IDs by name. Omit to include every board.",
+      optional: true,
+      async options({ page }) {
+        return this.listBoardsOptions({
+          page: page + 1,
+        });
+      },
+    },
+    workspaceIds: {
+      type: "integer[]",
+      label: "Workspace IDs",
+      description: "Restrict the results to boards in these workspaces, as an array of workspace IDs. Use **List Workspace IDs Options** to look up workspace IDs by name. Omit to include every workspace.",
+      optional: true,
+      async options() {
+        return this.listWorkspacesOptions();
+      },
+    },
+    boardName: {
+      type: "string",
+      label: "Board Name",
+      description: "The new board's name",
+    },
+    boardKind: {
+      type: "string",
+      label: "Board Kind",
+      description: "Who can see the board: `public` (any account member), `private` (invited members only) or `share` (shareable with guests outside the account).",
+      options: constants.BOARD_KIND_OPTIONS,
+    },
+    folderId: {
+      type: "integer",
+      label: "Folder ID",
+      description: "The folder to create the board in, as a folder ID. Use **List Boards** and read a board's `board_folder_id` to find a folder ID. Omit to leave the board outside any folder.",
+      optional: true,
+      async options({ workspaceId }) {
+        return this.listFolderOptions({
+          workspaceId,
+        });
+      },
+    },
+    workspaceId: {
+      type: "integer",
+      label: "Workspace ID",
+      description: "The workspace to create the board in, as a workspace ID (e.g. `12345`). Use **List Workspace ID Options** to look up a workspace ID by name. Omit to use the account's Main Workspace.",
+      optional: true,
+      async options() {
+        return this.listWorkspacesOptions();
+      },
+    },
+    templateId: {
+      type: "integer",
+      label: "Board Template ID",
+      description: "The board's template ID. You can obtain it from the URL when selecting the desired board (e.g. `https://{subdomain}.monday.com/boards/2419687965`) where `2419687965` is the template ID. [See the documentation](https://developer.monday.com/api-reference/reference/boards#create-a-board) for more information",
+      optional: true,
+    },
+    groupName: {
+      type: "string",
+      label: "Group Name",
+      description: "The name of the new group",
+    },
+    groupId: {
+      type: "string",
+      label: "Group ID",
+      description: "The group (a titled section of rows) to place the item in, as a group ID (e.g. `new_group12345`). Use **List Boards** and read the board's `groups` array to find group IDs, or **Create Group** to make a new one. Omit to use the board's top group.",
+      optional: true,
+      async options({ boardId }) {
+        return this.listGroupsOptions({
+          boardId,
+        });
+      },
+    },
+    itemName: {
+      type: "string",
+      label: "Item Name",
+      description: "The new item's name",
+    },
+    columnValues: {
+      type: "object",
+      label: "Column Values",
+      description: "The column values to set, as column ID → value pairs. Example: `{ \"status\": \"Done\", \"date4\": \"2026-09-02\", \"numbers\": 42 }`. Use **List Columns** to discover column IDs and the allowed labels for `status`/`dropdown` columns. See the [Column types reference](https://developer.monday.com/api-reference/reference/column-types-reference) for the value each column type expects",
+      optional: true,
+    },
+    itemCreateLabels: {
+      type: "boolean",
+      label: "Item Create Labels",
+      description: "Set to `true` to create any `status` or `dropdown` label named in `Column Values` that does not exist yet. Requires permission to change the board structure; leave unset to have unknown labels rejected instead.",
+      optional: true,
+    },
+    updateBody: {
+      type: "string",
+      label: "Update Body",
+      description: "The update text",
+    },
+    itemId: {
+      type: "string",
+      label: "Item ID",
+      description: "The item (row) to act on, as an item ID (e.g. `9876543210`). Use **Get Board Items Page** to list a board's items, or **Get Items By Column Value** to find one by a column value.",
+      optional: true,
+      async options({
+        boardId, prevContext,
+      }) {
+        return this.listItemsOptions({
+          boardId,
+          cursor: prevContext.cursor,
+        });
+      },
+    },
+    updateId: {
+      type: "string",
+      label: "Update ID",
+      description: "An existing update, as an update ID. Use **List Updates** to find update IDs on a board; update IDs are also returned by **Create an Update**.",
+      optional: true,
+      async options({
+        page, boardId,
+      }) {
+        return this.listUpdatesOptions({
+          boardId,
+          page: page + 1,
+        });
+      },
+    },
+    column: {
+      type: "string",
+      label: "Column",
+      description: "The column to act on, as a column ID (e.g. `status`). Use **List Columns** to see a board's column IDs, types and the labels a `status` or `dropdown` column accepts.",
+      async options({ boardId }) {
+        const columns = await this.listColumnOptions({
+          boardId: +boardId,
+        });
+        return columns
+          ?.filter((column) => column.id !== "name")
+          .map((column) => ({
+            label: column.title,
+            value: column.id,
+          })) ?? [];
+      },
+    },
+  },
+  methods: {
+    _client() {
+      return new ApiClient({
+        token: this.$auth.api_key,
+        apiVersion: API_VERSION,
+      });
+    },
+    async makeRequest({
+      query, variables,
+    }) {
+      return this._client().rawRequest(query, variables);
+    },
+    async createWebhook(variables) {
+      return this.makeRequest({
+        query: mutations.createWebhook,
+        variables,
+      });
+    },
+    async deleteWebhook(variables) {
+      return this.makeRequest({
+        query: mutations.deleteWebhook,
+        variables,
+      });
+    },
+    async getItem(variables) {
+      const { data } = await this.makeRequest({
+        query: queries.getItem,
+        variables,
+      });
+      return data?.items[0];
+    },
+    async getBoard(variables) {
+      const { data } = await this.makeRequest({
+        query: queries.getBoard,
+        variables,
+      });
+      return data?.boards[0];
+    },
+    async getUser(variables) {
+      const { data } = await this.makeRequest({
+        query: queries.getUser,
+        variables,
+      });
+      return data?.users[0];
+    },
+    async createBoard(variables) {
+      return this.makeRequest({
+        query: mutations.createBoard,
+        variables,
+      });
+    },
+    async createGroup(variables) {
+      return this.makeRequest({
+        query: mutations.createGroup,
+        variables,
+      });
+    },
+    async createItem(variables) {
+      return this.makeRequest({
+        query: mutations.createItem,
+        variables,
+      });
+    },
+    async createColumn(variables) {
+      return this.makeRequest({
+        query: mutations.createColumn,
+        variables,
+      });
+    },
+    async createSubItem(variables) {
+      return this.makeRequest({
+        query: mutations.createSubItem,
+        variables,
+      });
+    },
+    async createUpdate(variables) {
+      return this.makeRequest({
+        query: mutations.createUpdate,
+        variables,
+      });
+    },
+    async updateItemName(variables) {
+      return this.makeRequest({
+        query: mutations.updateItemName,
+        variables,
+      });
+    },
+    async listBoards(variables) {
+      return this.makeRequest({
+        query: queries.listBoards,
+        variables,
+      });
+    },
+    async listItemsBoard({
+      cursor, ...variables
+    }) {
+      const query = cursor
+        ? queries.listItemsNextPage
+        : queries.listItemsBoard;
+      return this.makeRequest({
+        query,
+        variables: cursor
+          ? {
+            cursor,
+          }
+          : variables,
+      });
+    },
+    async listUpdatesBoard(variables) {
+      return this.makeRequest({
+        query: queries.listUpdatesBoard,
+        variables,
+      });
+    },
+    async listUpdates(variables) {
+      const { data } = await this.makeRequest({
+        query: queries.listUpdates,
+        variables,
+      });
+      return data?.boards[0]?.updates;
+    },
+    async listWorkspaces(variables) {
+      return this.makeRequest({
+        query: queries.listWorkspaces,
+        variables,
+      });
+    },
+    async listFolders(variables) {
+      return this.makeRequest({
+        query: queries.listFolders,
+        variables,
+      });
+    },
+    async listWorkspacesBoards() {
+      return this.makeRequest({
+        query: queries.listWorkspacesBoards,
+      });
+    },
+    async listGroupsBoards(variables) {
+      return this.makeRequest({
+        query: queries.listGroupsBoards,
+        variables,
+      });
+    },
+    async listColumnOptions(variables) {
+      const { data } = await this.makeRequest({
+        query: queries.listColumnOptions,
+        variables,
+      });
+      return data?.boards[0]?.columns;
+    },
+    async listColumns(variables) {
+      const { data } = await this.makeRequest({
+        query: queries.listColumns,
+        variables,
+      });
+      return data?.boards[0]?.columns;
+    },
+    listBoardItemsPage(variables) {
+      return this.makeRequest({
+        query: queries.listBoardItemsPage,
+        variables,
+      });
+    },
+    async listUsers(variables) {
+      const { data } = await this.makeRequest({
+        query: queries.listUsers,
+        variables,
+      });
+      return data?.users;
+    },
+    async getColumnValues(variables) {
+      return this.makeRequest({
+        query: queries.getColumnValues,
+        variables,
+      });
+    },
+    async getItemsByColumnValue({
+      cursor, ...variables
+    }) {
+      const query = cursor
+        ? queries.listItemsNextPage
+        : queries.getItemsByColumnValue;
+      return this.makeRequest({
+        query,
+        variables: cursor
+          ? {
+            cursor,
+          }
+          : variables,
+      });
+    },
+    async updateColumnValues(variables) {
+      return this.makeRequest({
+        query: mutations.updateColumnValues,
+        variables,
+      });
+    },
+    async listBoardsOptions(variables) {
+      const {
+        data,
+        errors,
+        error_message: errorMessage,
+      } = await this.listBoards(variables);
+
+      if (errors) {
+        throw new Error(`Error fetching boards: ${errors[0].message}`);
+      }
+
+      if (errorMessage) {
+        throw new Error(`Failure fetching boards: ${errorMessage}`);
+      }
+
+      const { boards } = data;
+      return boards
+        ?.filter(({ type }) => type !== constants.BOARD_TYPE.SUB_ITEMS_BOARD)
+        .map(({
+          id, name,
+        }) => ({
+          label: name,
+          value: id,
+        })) ?? [];
+    },
+    async listFolderOptions(variables) {
+      const {
+        data, errors, error_message: errorMessage,
+      } = await this.listFolders(variables);
+
+      if (errors) {
+        throw new Error(`Error listing folders: ${errors[0].message}`);
+      }
+
+      if (errorMessage) {
+        throw new Error(`Failed to list folders: ${errorMessage}`);
+      }
+
+      const { folders } = data;
+      return folders
+        .map(({
+          id, name,
+        }) => ({
+          label: name,
+          value: +id,
+        }));
+    },
+    async listWorkspacesOptions(variables) {
+      const {
+        data,
+        errors,
+        error_message: errorMessage,
+      } = await this.listWorkspaces(variables);
+
+      if (errors) {
+        throw new Error(`Error listing workspaces: ${errors[0].message}`);
+      }
+
+      if (errorMessage) {
+        throw new Error(`Failed to list workspaces: ${errorMessage}`);
+      }
+
+      const { workspaces } = data;
+      const options =
+        workspaces
+          .map((workspace) => ({
+            label: workspace.name,
+            value: +workspace.id,
+          }));
+      return uniqBy(options, "value");
+    },
+    async listGroupsOptions(variables) {
+      const {
+        errors,
+        data,
+        error_message: errorMessage,
+      } = await this.listGroupsBoards(variables);
+
+      if (errors) {
+        throw new Error(`Failed to list groups: ${errors[0].message}`);
+      }
+
+      if (errorMessage) {
+        throw new Error(`Failed to list groups: ${errorMessage}`);
+      }
+
+      const { boards } = data;
+      const options =
+        flatMap(boards, ({ groups }) =>
+          map(groups, ({
+            id, title,
+          }) =>
+            ({
+              value: id,
+              label: title,
+            })));
+      return options;
+    },
+    async listItemsOptions(variables) {
+      const {
+        errors,
+        data,
+        error_message: errorMessage,
+      } = await this.listItemsBoard(variables);
+
+      if (errors) {
+        throw new Error(`Failed to list items: ${errors[0].message}`);
+      }
+
+      if (errorMessage) {
+        throw new Error(`Failed to list items: ${errorMessage}`);
+      }
+
+      const itemsPage = variables.cursor
+        ? data.next_items_page
+        : data.boards[0].items_page;
+      const {
+        items, cursor,
+      } = itemsPage;
+      const options = items.map(({
+        id, name,
+      }) => ({
+        value: id,
+        label: name,
+      }));
+      return {
+        options,
+        context: {
+          cursor,
+        },
+      };
+    },
+    async listUpdatesOptions(variables) {
+      const {
+        errors,
+        data,
+        error_message: errorMessage,
+      } = await this.listUpdatesBoard(variables);
+
+      if (errors) {
+        throw new Error(`Failed to list updates: ${errors[0].message}`);
+      }
+
+      if (errorMessage) {
+        throw new Error(`Failed to list updates: ${errorMessage}`);
+      }
+
+      const { boards } = data;
+      const options =
+        flatMap(boards, ({ updates }) =>
+          map(updates, ({
+            id, body,
+          }) =>
+            ({
+              value: id,
+              label: body,
+            })));
+      return options;
+    },
+  },
+};
+
+export default __pdApp;
+import { __pdBindAuth as __pdBind } from "../_platform-shim.mjs";
+__pdBind(__pdApp, "monday");

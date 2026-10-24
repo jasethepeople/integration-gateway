@@ -1,0 +1,7 @@
+{
+  "key": "pexels-search-photos",
+  "name": "Search Photos",
+  "description": "Search for photos on Pexels using a keyword or phrase. [See the documentation](https://www.pexels.com/api/documentation/#photos-search)",
+  "type": "action",
+  "version": "0.0.2"
+}

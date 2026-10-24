@@ -1,0 +1,7 @@
+{
+  "key": "waiverfile-create-event-category",
+  "name": "Create Event Category",
+  "description": "Creates a new event category in WaiverFile. [See the documentation](https://api.waiverfile.com/swagger/ui/index#!/WaiverEvent/WaiverEvent_InsertEventCategory)",
+  "type": "action",
+  "version": "0.0.2"
+}

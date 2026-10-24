@@ -1,0 +1,7 @@
+{
+  "key": "whoisfreaks-ip-lookup",
+  "name": "IP Lookup",
+  "description": "Retrieve information about an IP address. [See the documentation](https://whoisfreaks.com/documentation/ip-whois-api)",
+  "type": "action",
+  "version": "0.0.3"
+}

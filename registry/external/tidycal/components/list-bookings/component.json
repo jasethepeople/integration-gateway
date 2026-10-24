@@ -1,0 +1,7 @@
+{
+  "key": "tidycal-list-bookings",
+  "name": "List Bookings",
+  "description": "Get a list of bookings. [See the documentation](https://tidycal.com/developer/docs/#tag/Bookings/operation/list-bookings)",
+  "type": "action",
+  "version": "0.0.2"
+}

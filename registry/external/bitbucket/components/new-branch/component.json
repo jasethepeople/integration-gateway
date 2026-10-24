@@ -1,0 +1,7 @@
+{
+  "key": "bitbucket-new-branch",
+  "name": "New Branch (Instant)",
+  "description": "Emit new event when a new branch is created. [See docs here](https://developer.atlassian.com/cloud/bitbucket/rest/api-group-repositories/#api-repositories-workspace-repo-slug-hooks-post)",
+  "type": "source",
+  "version": "0.0.5"
+}

@@ -1,0 +1,30 @@
+{
+  "app": "supernotes",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "markup": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "icon": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "supernotes-create-simple-card"
+  ]
+}

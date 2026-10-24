@@ -1,0 +1,7 @@
+{
+  "key": "pipedream_utils-send-email-with-nodemailer",
+  "name": "Helper Functions - Send email with Nodemailer",
+  "description": "Sends an email using the nodemailer package",
+  "type": "action",
+  "version": "0.0.3"
+}

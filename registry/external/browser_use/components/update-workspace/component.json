@@ -1,0 +1,7 @@
+{
+  "key": "browser_use-update-workspace",
+  "name": "Update Workspace",
+  "description": "Update a Browser Use workspace name. [See the documentation](https://docs.browser-use.com/cloud/api-v3/workspaces/update-workspace)",
+  "type": "action",
+  "version": "0.0.1"
+}

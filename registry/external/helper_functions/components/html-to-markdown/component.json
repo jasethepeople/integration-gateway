@@ -1,0 +1,7 @@
+{
+  "key": "helper_functions-html-to-markdown",
+  "name": "HTML to Markdown",
+  "description": "Convert via turndown",
+  "type": "action",
+  "version": "1.0.2"
+}

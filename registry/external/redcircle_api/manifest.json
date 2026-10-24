@@ -1,0 +1,28 @@
+{
+  "app": "redcircle_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "searchTerm": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "zipcode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "redcircle_api-add-zipcode",
+    "redcircle_api-get-account-data",
+    "redcircle_api-search-categories"
+  ]
+}

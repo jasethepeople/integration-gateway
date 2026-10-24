@@ -1,0 +1,42 @@
+{
+  "app": "helper_functions",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "helper_functions-base64-decode-string",
+    "helper_functions-compare-arrays",
+    "helper_functions-convert-currency",
+    "helper_functions-convert-html-to-slack-mrkdwn",
+    "helper_functions-convert-object-to-json-string",
+    "helper_functions-csv-file-to-objects",
+    "helper_functions-delay",
+    "helper_functions-download-file-to-tmp",
+    "helper_functions-export-variables",
+    "helper_functions-format-iso8601-datetime",
+    "helper_functions-get-coutry-name-by-code-iso",
+    "helper_functions-get-current-time-in-specific-timezone",
+    "helper_functions-get-iso-string-n-days-ago",
+    "helper_functions-get-time-in-specific-timezone",
+    "helper_functions-html-to-markdown",
+    "helper_functions-prettify-json",
+    "helper_functions-random-integer",
+    "helper_functions-random-item-from-list",
+    "helper_functions-send-email-with-nodemailer",
+    "helper_functions-send-http-request",
+    "helper_functions-send-to-s3",
+    "helper_functions-xml-to-json"
+  ],
+  "npmImports": [
+    "csv-parse",
+    "fs",
+    "lodash.set",
+    "moment",
+    "moment-timezone",
+    "nodemailer",
+    "path",
+    "slackify-html",
+    "turndown",
+    "xml-js"
+  ]
+}

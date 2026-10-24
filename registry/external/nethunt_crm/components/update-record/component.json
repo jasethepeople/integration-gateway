@@ -1,0 +1,7 @@
+{
+  "key": "nethunt_crm-update-record",
+  "name": "Update Record",
+  "description": "Updates an existing record. [See docs here](https://nethunt.com/integration-api#update-record)",
+  "type": "action",
+  "version": "0.0.2"
+}

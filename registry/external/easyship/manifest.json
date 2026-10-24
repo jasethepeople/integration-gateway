@@ -1,0 +1,23 @@
+{
+  "app": "easyship",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "shipmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "easyship-create-shipment",
+    "easyship-find-shipment",
+    "easyship-list-shipment-id-options",
+    "easyship-new-shipping-label-created",
+    "easyship-tracking-status-updated",
+    "easyship-warehouse-state-updated"
+  ]
+}

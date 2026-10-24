@@ -1,0 +1,7 @@
+{
+  "key": "refiner-track-event",
+  "name": "Track Event",
+  "description": "Tracks a user event in Refiner. [See the documentation](https://refiner.io/docs/api/#track-event)",
+  "type": "action",
+  "version": "0.0.2"
+}

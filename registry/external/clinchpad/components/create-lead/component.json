@@ -1,0 +1,7 @@
+{
+  "key": "clinchpad-create-lead",
+  "name": "Create Lead",
+  "description": "Creates a lead. [See docs here (Go to `Create a lead`)](https://clinchpad.com/api/docs/leads)",
+  "type": "action",
+  "version": "0.0.2"
+}

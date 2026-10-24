@@ -1,0 +1,7 @@
+{
+  "key": "serphouse-google-jobs-search",
+  "name": "Google Jobs Search",
+  "description": "Performs a Google Jobs search using the Serphouse API. [See the documentation](https://docs.serphouse.com/google-apis/google-jobs-api)",
+  "type": "action",
+  "version": "0.0.1"
+}

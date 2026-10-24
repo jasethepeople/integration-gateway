@@ -1,0 +1,47 @@
+{
+  "app": "unisender",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contact": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lists": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "unisender-subscribe-contact",
+    "unisender-unsubscribe-contact",
+    "unisender-new-completed-campaign",
+    "unisender-new-planned-campaign",
+    "unisender-new-subscriber",
+    "unisender-new-unsubscriber"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "veremark-download-report",
+  "name": "Download Background Check Report",
+  "description": "Downloads the full PDF background check report for a completed request and saves it via File Stash.",
+  "type": "action",
+  "version": "0.0.2"
+}

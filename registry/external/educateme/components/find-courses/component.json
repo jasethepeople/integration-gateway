@@ -1,0 +1,7 @@
+{
+  "key": "educateme-find-courses",
+  "name": "Find Courses",
+  "description": "Find courses by optional filters. [See the documentation](https://edme.notion.site/API-integration-v0-2-ef33641eb7f24fa9a6efb969c1f2928f)",
+  "type": "action",
+  "version": "0.0.1"
+}

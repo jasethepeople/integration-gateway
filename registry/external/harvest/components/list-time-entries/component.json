@@ -1,0 +1,7 @@
+{
+  "key": "harvest-list-time-entries",
+  "name": "List Time Entries",
+  "description": "Only return entries that have or have not been invoiced.",
+  "type": "action",
+  "version": "0.0.1"
+}

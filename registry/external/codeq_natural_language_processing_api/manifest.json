@@ -1,0 +1,19 @@
+{
+  "app": "codeq_natural_language_processing_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "user_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "user_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "codeq_natural_language_processing_api-analyze-document",
+    "codeq_natural_language_processing_api-check-similarity"
+  ]
+}

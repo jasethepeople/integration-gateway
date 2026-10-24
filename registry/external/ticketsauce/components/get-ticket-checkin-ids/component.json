@@ -1,0 +1,7 @@
+{
+  "key": "ticketsauce-get-ticket-checkin-ids",
+  "name": "Get Ticket Check-in IDs",
+  "description": "Get a list of ticket check-in IDs from the specified event. [See documentation](https://speca.io/ticketsauce/ticketsauce-public-api?key=204000d6bda66da78315e721920f43aa#ticket-checkin-ids)",
+  "type": "action",
+  "version": "0.0.1"
+}

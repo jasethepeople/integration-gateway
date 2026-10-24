@@ -1,0 +1,7 @@
+{
+  "key": "dataforseo-get-bulk-ranks",
+  "name": "Get Bulk Ranks",
+  "description": "Get rank scores of specified domains, subdomains, and pages. [See the documentation](https://docs.dataforseo.com/v3/backlinks/bulk_ranks/live/)",
+  "type": "action",
+  "version": "0.0.3"
+}

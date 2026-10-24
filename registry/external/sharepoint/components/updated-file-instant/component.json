@@ -1,0 +1,7 @@
+{
+  "key": "sharepoint-updated-file-instant",
+  "name": "File Updated or Deleted (Instant)",
+  "description": "Emit a new event when specific files are updated or deleted in a SharePoint document library",
+  "type": "source",
+  "version": "0.0.9"
+}

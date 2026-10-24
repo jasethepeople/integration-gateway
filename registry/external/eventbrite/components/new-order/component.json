@@ -1,0 +1,7 @@
+{
+  "key": "eventbrite-new-order",
+  "name": "New Order (Instant)",
+  "description": "Emit new event when an order has been placed",
+  "type": "source",
+  "version": "0.0.7"
+}

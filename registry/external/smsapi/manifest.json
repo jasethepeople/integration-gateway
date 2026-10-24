@@ -1,0 +1,29 @@
+{
+  "app": "smsapi",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "phoneNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "senderName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "smsapi-create-contact",
+    "smsapi-list-phone-number-options",
+    "smsapi-list-sender-name-options",
+    "smsapi-send-group-text-message",
+    "smsapi-send-text-message"
+  ],
+  "npmImports": [
+    "query-string"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "trengo-send-a-ticket-message",
+  "name": "Send A Ticket Message",
+  "description": "Send a message to a ticket. [See the documentation](https://developers.trengo.com/reference/send-a-message)",
+  "type": "action",
+  "version": "0.0.7"
+}

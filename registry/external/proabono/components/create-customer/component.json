@@ -1,0 +1,7 @@
+{
+  "key": "proabono-create-customer",
+  "name": "Create or Update a Customer",
+  "description": "Creates a new customer or updates an existing one in the ProAbono system. [See the documentation](https://docs.proabono.com/api/#create-a-customer)",
+  "type": "action",
+  "version": "0.0.3"
+}

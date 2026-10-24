@@ -1,0 +1,7 @@
+{
+  "key": "procore-new-submittal-event-instant",
+  "name": "New Submittal Event (Instant)",
+  "description": "Emit new event when a new submittal event is created. [See the documentation](https://developers.procore.com/reference/rest/hooks?version=latest).",
+  "type": "source",
+  "version": "0.0.1"
+}

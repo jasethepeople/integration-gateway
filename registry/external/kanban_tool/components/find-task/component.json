@@ -1,0 +1,7 @@
+{
+  "key": "kanban_tool-find-task",
+  "name": "Find Task",
+  "description": "Finds task with given parameters [See the docs here](https://kanbantool.com/developer/api-v3#searching-tasks)",
+  "type": "action",
+  "version": "0.0.3"
+}

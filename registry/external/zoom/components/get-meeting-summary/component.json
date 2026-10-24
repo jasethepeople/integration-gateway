@@ -1,0 +1,7 @@
+{
+  "key": "zoom-get-meeting-summary",
+  "name": "Get Meeting Summary",
+  "description": "Retrieve the AI Companion summary of a past meeting or webinar.",
+  "type": "action",
+  "version": "0.0.3"
+}

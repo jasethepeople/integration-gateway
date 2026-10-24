@@ -1,0 +1,7 @@
+{
+  "key": "addressfinder-verify-email",
+  "name": "Verify Email",
+  "description": "Validates the input email. [See the documentation](https://addressfinder.com.au/api/email/verification/)",
+  "type": "action",
+  "version": "0.0.3"
+}

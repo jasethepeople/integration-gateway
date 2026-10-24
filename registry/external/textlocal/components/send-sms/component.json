@@ -1,0 +1,7 @@
+{
+  "key": "textlocal-send-sms",
+  "name": "Send SMS",
+  "description": "Note: While both numbers and group_id are optional parameters, one or the other must be included in the request for the message to be sent.",
+  "type": "action",
+  "version": "0.0.3"
+}

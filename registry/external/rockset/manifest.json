@@ -1,0 +1,11 @@
+{
+  "app": "rockset",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "rockset-add-documents",
+    "rockset-create-api-key",
+    "rockset-create-integration"
+  ]
+}

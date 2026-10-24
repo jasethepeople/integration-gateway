@@ -1,0 +1,7 @@
+{
+  "key": "wisepops-new-signup-collected",
+  "name": "New Sign-Up Collected (Instant)",
+  "description": "Emit new event when a new sign-up is received",
+  "type": "source",
+  "version": "0.0.1"
+}

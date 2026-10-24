@@ -1,0 +1,16 @@
+{
+  "app": "oyster",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "oyster-new-engagement",
+    "oyster-new-expense",
+    "oyster-new-time-off-request"
+  ]
+}

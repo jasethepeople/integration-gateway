@@ -1,0 +1,7 @@
+{
+  "key": "pipedream_utils-get-coutry-name-by-code-iso",
+  "name": "Helper Functions - Country name, given code (2-letter)",
+  "description": "Return the country name (in English) when given the 2-letter country code",
+  "type": "action",
+  "version": "0.0.2"
+}

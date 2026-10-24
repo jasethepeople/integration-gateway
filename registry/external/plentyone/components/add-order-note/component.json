@@ -1,0 +1,7 @@
+{
+  "key": "plentyone-add-order-note",
+  "name": "Add Order Note",
+  "description": "Adds a note to an order in PlentyONE. [See the documentation](https://developers.plentymarkets.com/en-gb/plentymarkets-rest-api/index.html#/Comment/post_rest_comments)",
+  "type": "action",
+  "version": "0.0.2"
+}

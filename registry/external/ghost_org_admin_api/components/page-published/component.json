@@ -1,0 +1,7 @@
+{
+  "key": "ghost_org_admin_api-page-published",
+  "name": "Page Published (Instant)",
+  "description": "Emit new event for each new page published on a site.",
+  "type": "source",
+  "version": "0.0.10"
+}

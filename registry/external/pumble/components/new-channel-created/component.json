@@ -1,0 +1,7 @@
+{
+  "key": "pumble-new-channel-created",
+  "name": "New Channel Created",
+  "description": "Emit new event when a new channel is created in Pumble",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "trengo-log-a-voice-call",
+  "name": "Log A Voice Call",
+  "description": "Logs a phone call from external VOIP applications, [See the documentation](https://developers.trengo.com/reference/log-a-phone-call)",
+  "type": "action",
+  "version": "0.0.13"
+}

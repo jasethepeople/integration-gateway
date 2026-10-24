@@ -1,0 +1,25 @@
+{
+  "app": "squarespace",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "squarespace-create-product",
+    "squarespace-get-order",
+    "squarespace-get-product",
+    "squarespace-list-store-page-id-options",
+    "squarespace-new-create-product",
+    "squarespace-new-create-transaction",
+    "squarespace-new-update-product",
+    "squarespace-new-update-transaction",
+    "squarespace-new-webhook-event"
+  ],
+  "npmImports": [
+    "dayjs"
+  ]
+}

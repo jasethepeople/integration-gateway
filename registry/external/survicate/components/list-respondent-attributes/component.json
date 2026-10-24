@@ -1,0 +1,7 @@
+{
+  "key": "survicate-list-respondent-attributes",
+  "name": "List Respondent Attributes",
+  "description": "Retrieves the names and values of custom attributes associated with a specific respondent, which have been passed to Survicate through the JavaScript API, integrations, or embedded within the survey link. [See the documentation](https://developers.survicate.com/data-export/respondent/)",
+  "type": "action",
+  "version": "0.0.1"
+}

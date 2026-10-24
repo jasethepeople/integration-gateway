@@ -1,0 +1,47 @@
+{
+  "app": "godaddy",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "domain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tlds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "statuses": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "statusGroups": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "includes": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "godaddy-check-domain-availability",
+    "godaddy-list-domains",
+    "godaddy-list-tlds-options",
+    "godaddy-renew-domain",
+    "godaddy-suggest-domains",
+    "godaddy-new-domain-added"
+  ]
+}

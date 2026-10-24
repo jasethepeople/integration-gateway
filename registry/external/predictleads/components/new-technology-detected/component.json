@@ -1,0 +1,7 @@
+{
+  "key": "predictleads-new-technology-detected",
+  "name": "New Technology Detected",
+  "description": "Emit new event for each new technology detected for a specific company. [See the documentation](https://docs.predictleads.com/v3/api_endpoints/technology_detections_dataset/retrieve_technologies_used_by_specific_company)",
+  "type": "source",
+  "version": "0.0.1"
+}

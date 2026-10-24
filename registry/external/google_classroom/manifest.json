@@ -1,0 +1,38 @@
+{
+  "app": "google_classroom",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "course": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "coursework": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "courseStates": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "courseworkStates": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "google_classroom-get-assignment",
+    "google_classroom-list-assignments",
+    "google_classroom-assignment-done",
+    "google_classroom-new-announcement",
+    "google_classroom-new-assignment",
+    "google_classroom-new-due-date"
+  ],
+  "npmImports": [
+    "googleapis"
+  ]
+}

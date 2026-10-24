@@ -1,0 +1,7 @@
+{
+  "key": "goformz-list-template-id-options",
+  "name": "List Template ID Options",
+  "description": "Retrieves available options for the Template ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

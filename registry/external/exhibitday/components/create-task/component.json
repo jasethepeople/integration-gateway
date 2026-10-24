@@ -1,0 +1,7 @@
+{
+  "key": "exhibitday-create-task",
+  "name": "Create Task",
+  "description": "Creates a new task in ExhibitDay. [See the documentation](https://api.exhibitday.com/Help/V1?epf=2)",
+  "type": "action",
+  "version": "0.0.2"
+}

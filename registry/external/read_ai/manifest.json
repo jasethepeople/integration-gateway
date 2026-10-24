@@ -1,0 +1,27 @@
+{
+  "app": "read_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "meetingId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "cursor": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "read_ai-get-meeting",
+    "read_ai-list-meetings"
+  ]
+}

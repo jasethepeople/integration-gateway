@@ -1,0 +1,7 @@
+{
+  "key": "crowdstrike_falcon-get-alert",
+  "name": "Get Alert",
+  "description": "Allows previously hidden alerts to be retrieved",
+  "type": "action",
+  "version": "0.0.2"
+}

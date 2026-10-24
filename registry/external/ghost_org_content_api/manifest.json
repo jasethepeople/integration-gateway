@@ -1,0 +1,15 @@
+{
+  "app": "ghost_org_content_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "content_api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ghost_org_content_api-find-author",
+    "ghost_org_content_api-new-author"
+  ]
+}

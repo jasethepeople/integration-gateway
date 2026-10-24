@@ -1,0 +1,7 @@
+{
+  "key": "fibery-create-multiple-entities",
+  "name": "Create Multiple Entities",
+  "description": "Creates entities in batch. [See the docs here](https://api.fibery.io/graphql.html#create)",
+  "type": "action",
+  "version": "0.0.2"
+}

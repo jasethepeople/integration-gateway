@@ -1,0 +1,50 @@
+{
+  "app": "pro_ledger",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "class": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "category": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "account": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "rec": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taxIncluded": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "transactionType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "source": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "total": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pro_ledger-create-record",
+    "pro_ledger-get-accounts",
+    "pro_ledger-get-categories",
+    "pro_ledger-get-classes",
+    "pro_ledger-list-category-options"
+  ]
+}

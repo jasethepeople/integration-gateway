@@ -1,0 +1,7 @@
+{
+  "key": "lemlist-delete-email-from-unsubscribes",
+  "name": "Delete An Email From Unsubscribes",
+  "description": "This action deletes a lead in the unsubscribed list. [See the docs here](https://developer.lemlist.com/#delete-an-email-address-from-the-unsubscribes)",
+  "type": "action",
+  "version": "0.0.2"
+}

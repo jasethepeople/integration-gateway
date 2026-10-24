@@ -1,0 +1,7 @@
+{
+  "key": "vimeo-add-video-to-album",
+  "name": "Add Video To Album",
+  "description": "Adds an existing video to a user's album/showcase on Vimeo. [See the documentation](https://developer.vimeo.com/api/reference/showcases#update_showcases)",
+  "type": "action",
+  "version": "0.0.2"
+}

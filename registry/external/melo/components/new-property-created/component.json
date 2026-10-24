@@ -1,0 +1,7 @@
+{
+  "key": "melo-new-property-created",
+  "name": "New Property Created (Instant)",
+  "description": "Emit new event when a new property ad is created in Melo. Requires a Production Environment.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "hubspot-new-email-event",
+  "name": "New Email Event",
+  "description": "Emit new event for each new Hubspot email event.",
+  "type": "source",
+  "version": "0.0.50"
+}

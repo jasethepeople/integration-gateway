@@ -1,0 +1,7 @@
+{
+  "key": "goody-new-order-created",
+  "name": "New Order Created",
+  "description": "Emit new event when a new order is created in Goody.",
+  "type": "source",
+  "version": "0.0.1"
+}

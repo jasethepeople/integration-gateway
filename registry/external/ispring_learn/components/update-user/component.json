@@ -1,0 +1,7 @@
+{
+  "key": "ispring_learn-update-user",
+  "name": "Update User",
+  "description": "Allows to modify the properties of a specific user on iSpring Learn.",
+  "type": "action",
+  "version": "0.0.2"
+}

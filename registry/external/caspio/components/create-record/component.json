@@ -1,0 +1,7 @@
+{
+  "key": "caspio-create-record",
+  "name": "Create Record",
+  "description": "Create a new record in the specified table. [See the documentation](https://demo.caspio.com/integrations/rest/swagger/index.html)",
+  "type": "action",
+  "version": "0.0.1"
+}

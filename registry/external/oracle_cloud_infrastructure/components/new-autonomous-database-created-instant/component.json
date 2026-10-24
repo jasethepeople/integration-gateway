@@ -1,0 +1,7 @@
+{
+  "key": "oracle_cloud_infrastructure-new-autonomous-database-created-instant",
+  "name": "New Autonomous Database Created (Instant)",
+  "description": "Emit new event when a new autonomous database is created in a specified compartment. [See the documentation](https://docs.oracle.com/en-us/iaas/api/#/en/events/20181201/Rule/CreateRule).",
+  "type": "source",
+  "version": "0.0.1"
+}

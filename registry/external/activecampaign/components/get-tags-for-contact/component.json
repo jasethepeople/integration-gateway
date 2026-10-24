@@ -1,0 +1,7 @@
+{
+  "key": "activecampaign-get-tags-for-contact",
+  "name": "Get Contact Tags",
+  "description": "Get Contact Tags.",
+  "type": "action",
+  "version": "0.3.2"
+}

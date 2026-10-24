@@ -1,0 +1,7 @@
+{
+  "key": "textlocal-create-contact",
+  "name": "Create Contact",
+  "description": "Create a new contact. [See the docs here](https://api.txtlocal.com/docs/contactmanagement/createcontacts)",
+  "type": "action",
+  "version": "0.0.2"
+}

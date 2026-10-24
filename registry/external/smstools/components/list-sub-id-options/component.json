@@ -1,0 +1,7 @@
+{
+  "key": "smstools-list-sub-id-options",
+  "name": "List Sub ID Options",
+  "description": "Retrieves available options for the Sub ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

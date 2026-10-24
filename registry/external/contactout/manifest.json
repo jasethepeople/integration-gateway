@@ -1,0 +1,134 @@
+{
+  "app": "contactout",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "profile": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "memberId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emails": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "callbackUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "includePhone": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "emailType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobTitle": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "currentTitlesOnly": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "includeRelatedJobTitles": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "matchExperience": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "skills": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "education": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "location": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "company": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "companyFilter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "currentCompanyOnly": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "industry": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "keyword": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companySize": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "yearsOfExperience": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "yearsInCurrentRole": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "dataTypes": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "revealInfo": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "revenue": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "contactout-company-search",
+    "contactout-decision-makers-search",
+    "contactout-email-to-linkedin",
+    "contactout-get-company-info",
+    "contactout-get-contact-info-by-member-id",
+    "contactout-get-contact-info",
+    "contactout-linkedin-profile-enrich",
+    "contactout-people-search",
+    "contactout-verify-email"
+  ]
+}

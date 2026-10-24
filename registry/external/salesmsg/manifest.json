@@ -1,0 +1,23 @@
+{
+  "app": "salesmsg",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "salesmsg-create-new-contact",
+    "salesmsg-get-user-conversations",
+    "salesmsg-list-contact-id-options",
+    "salesmsg-search-conversations",
+    "salesmsg-contact-created",
+    "salesmsg-message-received"
+  ]
+}

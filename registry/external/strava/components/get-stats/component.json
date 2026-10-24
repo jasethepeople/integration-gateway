@@ -1,0 +1,7 @@
+{
+  "key": "strava-get-stats",
+  "name": "Get Stats",
+  "description": "Returns the activity stats of an athlete. Only includes data from activities set to Everyone visibilty. [See the docs](https://developers.strava.com/docs/reference/#api-Athletes-getStats)",
+  "type": "action",
+  "version": "0.0.4"
+}

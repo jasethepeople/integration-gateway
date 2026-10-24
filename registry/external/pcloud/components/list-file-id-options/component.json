@@ -1,0 +1,7 @@
+{
+  "key": "pcloud-list-file-id-options",
+  "name": "List File ID Options",
+  "description": "Retrieves available options for the File ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

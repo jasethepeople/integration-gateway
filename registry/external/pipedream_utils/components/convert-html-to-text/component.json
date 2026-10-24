@@ -1,0 +1,7 @@
+{
+  "key": "pipedream_utils-convert-html-to-text",
+  "name": "Formatting - [Text] Convert HTML to text",
+  "description": "Convert valid HTML to text",
+  "type": "action",
+  "version": "0.0.5"
+}

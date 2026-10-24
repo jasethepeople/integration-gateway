@@ -1,0 +1,7 @@
+{
+  "key": "pipedream-delete-subscription",
+  "name": "Delete a Subscription",
+  "description": "Delete a Subscription. [See Doc](https://pipedream.com/docs/api/rest/#delete-a-subscription)",
+  "type": "action",
+  "version": "0.1.2"
+}

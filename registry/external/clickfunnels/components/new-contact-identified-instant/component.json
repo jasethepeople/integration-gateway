@@ -1,0 +1,7 @@
+{
+  "key": "clickfunnels-new-contact-identified-instant",
+  "name": "New Contact Identified (Instant)",
+  "description": "Emit new event when a fresh or formerly anonymous contact is identified via email address or contact number.",
+  "type": "source",
+  "version": "0.0.1"
+}

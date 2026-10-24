@@ -1,0 +1,7 @@
+{
+  "key": "getaccept-document-viewed",
+  "name": "New Document Viewed (Instant)",
+  "description": "Emit new event when a document is opened.",
+  "type": "source",
+  "version": "0.0.1"
+}

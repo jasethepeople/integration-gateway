@@ -1,0 +1,7 @@
+{
+  "key": "apollo_io_oauth-create-or-update-contact",
+  "name": "Create or Update Contact",
+  "description": "Creates a new contact or updates an existing one in your",
+  "type": "action",
+  "version": "0.0.2"
+}

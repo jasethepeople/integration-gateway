@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-upsert-record",
+  "name": "Upsert Record",
+  "description": "Create a Salesforce record, or update it if a matching one already exists, matched on an external ID field.",
+  "type": "action",
+  "version": "1.0.1"
+}

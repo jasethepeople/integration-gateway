@@ -1,0 +1,7 @@
+{
+  "key": "originality_ai-scan-content-for-plagiarism-and-readability",
+  "name": "Scan Content for Plagiarism and Readability",
+  "description": "Scans a string for plagiarism as well as readability. [See the documentation](https://docs.originality.ai/api-v1-0-reference/scan/plagiarism-readability-scan)",
+  "type": "action",
+  "version": "0.0.2"
+}

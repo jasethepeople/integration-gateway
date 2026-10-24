@@ -1,0 +1,7 @@
+{
+  "key": "scalr-new-run-needs-attention",
+  "name": "New Run Needs Attention (Instant)",
+  "description": "Emit new event when a new run needs attention. [See the documentation](https://docs.scalr.io/reference/create_webhook_integration)",
+  "type": "source",
+  "version": "0.0.1"
+}

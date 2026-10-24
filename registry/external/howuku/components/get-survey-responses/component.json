@@ -1,0 +1,7 @@
+{
+  "key": "howuku-get-survey-responses",
+  "name": "Get Survey Responses",
+  "description": "Retrieves a list of survey responses from Howuku. [See the documentation](https://rest.howuku.com/#survey)",
+  "type": "action",
+  "version": "0.0.2"
+}

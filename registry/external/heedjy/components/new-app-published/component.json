@@ -1,0 +1,7 @@
+{
+  "key": "heedjy-new-app-published",
+  "name": "New App Published",
+  "description": "Emit new event when a new app is published. [See the documentation](https://heedjy.readme.io/reference/searchapps)",
+  "type": "source",
+  "version": "0.0.1"
+}

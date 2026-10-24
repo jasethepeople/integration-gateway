@@ -1,0 +1,7 @@
+{
+  "key": "opinion_stage-new-response-created",
+  "name": "New Response Created",
+  "description": "Emit new event when a new response is created in OpinionStage. [See the documentation](https://api.opinionstage.com/api-docs/index.html)",
+  "type": "source",
+  "version": "0.0.1"
+}

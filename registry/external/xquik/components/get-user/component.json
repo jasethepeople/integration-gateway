@@ -1,0 +1,7 @@
+{
+  "key": "xquik-get-user",
+  "name": "Get User",
+  "description": "Get a public X/Twitter user profile by username or ID with Xquik. [See the documentation](https://docs.xquik.com/api-reference/x/get-user)",
+  "type": "action",
+  "version": "0.0.2"
+}

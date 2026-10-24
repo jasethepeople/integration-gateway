@@ -1,0 +1,7 @@
+{
+  "key": "zoho_books-list-tax-exemption-id-options",
+  "name": "List Tax Exemption Id Options",
+  "description": "Retrieves available options for the Tax Exemption Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

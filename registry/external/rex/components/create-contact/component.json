@@ -1,0 +1,7 @@
+{
+  "key": "rex-create-contact",
+  "name": "Create Contact",
+  "description": "Creates a new contact in Rex. [See the documentation](https://api-docs.rexsoftware.com/service/contacts#operation/create)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "phantombuster-launch-phantom",
+  "name": "Launch Phantom",
+  "description": "Adds an agent to the launch queue, [See the docs](https://hub.phantombuster.com/reference/post_agents-launch-1)",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,23 @@
+{
+  "app": "reflect",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "graphId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "reflect-append-daily-note",
+    "reflect-create-link",
+    "reflect-get-user",
+    "reflect-list-graph-id-options",
+    "reflect-list-links",
+    "reflect-new-link-created"
+  ]
+}

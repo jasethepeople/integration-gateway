@@ -1,0 +1,7 @@
+{
+  "key": "bybit-linear-position-switch-mode",
+  "name": "ByBit Linear Position Switch Mode",
+  "description": "If you are in One-Way Mode, you can only open one position on Buy or Sell side. ",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "dear-new-purchase-stock-received-authorized",
+  "name": "New Purchase Stock Received Authorized",
+  "description": "Emit new event when a purchase stock received is authorized",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "fireflies-continue-askfred-conversation",
+  "name": "Continue AskFred Conversation",
+  "description": "Ask a follow-up question in an existing AskFred conversation thread, continuing the context of a prior question. Use **Ask Question About Meeting** first to start a thread and obtain its `thread_id`. [See the documentation](https://docs.fireflies.ai/graphql-api/mutation/continue-askfred-thread)",
+  "type": "action",
+  "version": "0.0.2"
+}

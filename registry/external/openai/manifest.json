@@ -1,0 +1,173 @@
+{
+  "app": "openai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "assistantModel": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "assistant": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "vectorStoreId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "vectorStoreFileId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "threadId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "runId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "stepId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "instructions": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "metadata": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "messages": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "content": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "role": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "toolOutputs": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "order": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fileId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "file": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "purpose": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ttsModel": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fineTuningModel": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "input": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "voice": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "responseFormat": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "speed": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "openai-analyze-image-content",
+    "openai-cancel-run",
+    "openai-chat-using-file-search",
+    "openai-chat-using-functions",
+    "openai-chat-using-web-search",
+    "openai-chat-with-assistant",
+    "openai-chat-with-responses-api",
+    "openai-chat",
+    "openai-classify-items-into-categories",
+    "openai-convert-text-to-speech",
+    "openai-create-assistant",
+    "openai-create-batch",
+    "openai-create-embeddings",
+    "openai-create-fine-tuning-job",
+    "openai-create-image",
+    "openai-create-moderation",
+    "openai-create-thread",
+    "openai-create-transcription",
+    "openai-create-vector-store-file",
+    "openai-create-vector-store",
+    "openai-delete-file",
+    "openai-delete-vector-store-file",
+    "openai-delete-vector-store",
+    "openai-list-assistant-model-options",
+    "openai-list-chat-completion-model-id-options",
+    "openai-list-completion-model-id-options",
+    "openai-list-embeddings-model-id-options",
+    "openai-list-files",
+    "openai-list-messages",
+    "openai-list-responses-model-id-options",
+    "openai-list-run-steps",
+    "openai-list-runs",
+    "openai-list-vector-store-files",
+    "openai-list-vector-stores",
+    "openai-modify-assistant",
+    "openai-retrieve-file-content",
+    "openai-retrieve-file",
+    "openai-retrieve-run-step",
+    "openai-retrieve-run",
+    "openai-retrieve-vector-store-file",
+    "openai-retrieve-vector-store",
+    "openai-send-prompt",
+    "openai-submit-tool-outputs-to-run",
+    "openai-summarize",
+    "openai-translate-text",
+    "openai-upload-file",
+    "openai-new-batch-completed",
+    "openai-new-file-created",
+    "openai-new-fine-tuning-job-created",
+    "openai-new-run-state-changed"
+  ],
+  "npmImports": [
+    "file-type",
+    "form-data",
+    "fs",
+    "stream"
+  ]
+}

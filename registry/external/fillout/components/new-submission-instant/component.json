@@ -1,0 +1,7 @@
+{
+  "key": "fillout-new-submission-instant",
+  "name": "New Submission (Instant)",
+  "description": "Emit new event when a form receives a new submission.",
+  "type": "source",
+  "version": "0.0.1"
+}

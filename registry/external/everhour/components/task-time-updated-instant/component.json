@@ -1,0 +1,7 @@
+{
+  "key": "everhour-task-time-updated-instant",
+  "name": "New Task Time Updated (Instant)",
+  "description": "Emit new event when a task's time spent is modified in Everhour.",
+  "type": "source",
+  "version": "0.0.1"
+}

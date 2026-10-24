@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_365_people-list-folder-id-options",
+  "name": "List Folder ID Options",
+  "description": "Retrieves available options for the Folder ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

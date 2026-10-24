@@ -1,0 +1,7 @@
+{
+  "key": "sendx-add-tag-contact",
+  "name": "Add Tag to Contact",
+  "description": "Associates a user-provided tag with a specified contact in SendX. This action requires the contact's identification detail and the tag.",
+  "type": "action",
+  "version": "0.0.2"
+}

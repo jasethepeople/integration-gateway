@@ -1,0 +1,7 @@
+{
+  "key": "pubrio-get-monitor-stats",
+  "name": "Get Monitor Statistics",
+  "description": "Get overall monitor statistics. [See the documentation](https://docs.pubrio.com/en/api-reference/endpoint/monitors/statistics)",
+  "type": "action",
+  "version": "0.0.1"
+}

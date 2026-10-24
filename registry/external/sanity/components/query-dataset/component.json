@@ -1,0 +1,7 @@
+{
+  "key": "sanity-query-dataset",
+  "name": "Query Dataset",
+  "description": "Query a dataset in Sanity. [See the documentation](https://www.sanity.io/docs/http-reference/query)",
+  "type": "action",
+  "version": "0.0.1"
+}

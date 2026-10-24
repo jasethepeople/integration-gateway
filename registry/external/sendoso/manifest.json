@@ -1,0 +1,81 @@
+{
+  "app": "sendoso",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "touchId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "trackingId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "via": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "viaFrom": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sendId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "perPage": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sendoso-create-egift-links",
+    "sendoso-get-campaign",
+    "sendoso-get-current-user",
+    "sendoso-get-send-status",
+    "sendoso-invite-new-user",
+    "sendoso-list-all-users",
+    "sendoso-list-campaigns",
+    "sendoso-list-group-members",
+    "sendoso-list-groups",
+    "sendoso-list-sends",
+    "sendoso-list-touch-id-options",
+    "sendoso-list-tracking-id-options",
+    "sendoso-send-egift",
+    "sendoso-send-physical-gift-with-address-confirmation",
+    "sendoso-send-physical-gift",
+    "sendoso-new-send",
+    "sendoso-send-status-updated"
+  ],
+  "npmImports": [
+    "moment"
+  ]
+}

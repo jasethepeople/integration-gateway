@@ -1,0 +1,7 @@
+{
+  "key": "splunk-new-search-result",
+  "name": "New Search Result",
+  "description": "Emit new events when a search returns results in Splunk. [See the documentation](https://docs.splunk.com/Documentation/Splunk/9.4.1/RESTREF/RESTsearch#saved.2Fsearches)",
+  "type": "source",
+  "version": "0.0.1"
+}

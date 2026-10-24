@@ -1,0 +1,7 @@
+{
+  "key": "asana-search-projects",
+  "name": "Search Projects",
+  "description": "Finds projects across an entire Asana workspace, optionally filtered by name (e.g. `Website Redesign`). Results are workspace-wide and are not limited to any portfolio, and there is no due-date filter. Archived projects are included unless you set `archived: false`. Every result includes `workspace.gid` — reuse that value directly for the `workspace` param on a follow-up action like **Create Task**, no need to look it up separately. If you need portfolio-scoped results, use **List Portfolios** and **List Portfolio Items** instead. Example: call with `workspace: '1200123456789012'`, `name: 'Marketing'` → returns `[{gid: '1204567890123456', name: 'Q4 Marketing Campaign', workspace: {gid: '1200123456789012'}}, ...]`. [See the documentation](https://developers.asana.com/docs/get-multiple-projects)",
+  "type": "action",
+  "version": "0.3.4"
+}

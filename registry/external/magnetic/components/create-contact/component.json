@@ -1,0 +1,7 @@
+{
+  "key": "magnetic-create-contact",
+  "name": "Create Contact",
+  "description": "Create a new contact. [See docs here](https://app.magnetichq.com/Magnetic/API.do#cl-contactobject)",
+  "type": "action",
+  "version": "0.0.2"
+}

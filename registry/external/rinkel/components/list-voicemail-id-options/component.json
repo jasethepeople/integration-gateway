@@ -1,0 +1,7 @@
+{
+  "key": "rinkel-list-voicemail-id-options",
+  "name": "List Voicemail ID Options",
+  "description": "Retrieves available options for the Voicemail ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

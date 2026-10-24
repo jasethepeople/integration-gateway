@@ -1,0 +1,7 @@
+{
+  "key": "dock_certs-issue-credential",
+  "name": "Issue Credential",
+  "description": "Issue a new credential. [See the documentation](https://docs.api.dock.io/#credentials)",
+  "type": "action",
+  "version": "0.0.3"
+}

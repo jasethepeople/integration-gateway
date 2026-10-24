@@ -1,0 +1,31 @@
+{
+  "app": "easybroker",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "propertyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "easybroker-create-contact-request",
+    "easybroker-create-property",
+    "easybroker-get-contact",
+    "easybroker-get-property",
+    "easybroker-list-contact-id-options",
+    "easybroker-list-contact-requests",
+    "easybroker-list-property-id-options",
+    "easybroker-list-property-types",
+    "easybroker-new-contact-created",
+    "easybroker-new-contact-request-created"
+  ]
+}

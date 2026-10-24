@@ -1,0 +1,7 @@
+{
+  "key": "returnless-list-shipments",
+  "name": "List Shipments",
+  "description": "List all shipments. [See the documentation](https://docs.returnless.com/docs/api-rest-reference/7daf3fa2c9bf9-list-all-shipments)",
+  "type": "action",
+  "version": "0.0.2"
+}

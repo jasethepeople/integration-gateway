@@ -1,0 +1,45 @@
+{
+  "app": "badger_maps",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "address": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phoneNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "badger_maps-create-account",
+    "badger_maps-create-check-in",
+    "badger_maps-delete-account",
+    "badger_maps-get-account",
+    "badger_maps-retrieve-check-ins",
+    "badger_maps-search-user",
+    "badger_maps-update-account",
+    "badger_maps-new-check-in-created"
+  ]
+}

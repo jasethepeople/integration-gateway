@@ -1,0 +1,7 @@
+{
+  "key": "alegra-new-invoice-instant",
+  "name": "New Invoice Created (Instant)",
+  "description": "Emit new event when a new invoice is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,53 @@
+{
+  "app": "sproutgigs",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "test": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "zoneId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "categoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "instructions": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "proofs": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "numTasks": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "taskValue": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "user_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sproutgigs-get-categories",
+    "sproutgigs-get-zones",
+    "sproutgigs-list-category-id-options",
+    "sproutgigs-post-job"
+  ]
+}

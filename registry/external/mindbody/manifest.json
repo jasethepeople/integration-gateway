@@ -1,0 +1,57 @@
+{
+  "app": "mindbody",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "clientId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "locationId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "offset": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "startDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "site_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mindbody-book-appointment",
+    "mindbody-cancel-appointment",
+    "mindbody-get-appointments",
+    "mindbody-get-classes",
+    "mindbody-get-client-details",
+    "mindbody-get-client-purchases",
+    "mindbody-get-client-visits",
+    "mindbody-get-site-info",
+    "mindbody-list-session-types",
+    "mindbody-list-staff",
+    "mindbody-search-clients",
+    "mindbody-upsert-client"
+  ]
+}

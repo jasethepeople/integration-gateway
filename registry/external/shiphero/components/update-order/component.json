@@ -1,0 +1,7 @@
+{
+  "key": "shiphero-update-order",
+  "name": "Update Order",
+  "description": "Update an order. [See the documentation](https://developer.shiphero.com/getting-started/)",
+  "type": "action",
+  "version": "0.0.2"
+}

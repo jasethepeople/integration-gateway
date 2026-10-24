@@ -1,0 +1,7 @@
+{
+  "key": "shopify_developer_app-cart-updated",
+  "name": "Cart Updated (Instant)",
+  "description": "Emit new event when a cart is updated.",
+  "type": "source",
+  "version": "0.0.9"
+}

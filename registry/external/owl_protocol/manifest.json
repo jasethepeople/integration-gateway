@@ -1,0 +1,45 @@
+{
+  "app": "owl_protocol",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "chainId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "collectionName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "symbol": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "address": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mintTo": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "owl_protocol-deploy-collection",
+    "owl_protocol-get-network",
+    "owl_protocol-list-chain-id-options",
+    "owl_protocol-mint-asset"
+  ]
+}

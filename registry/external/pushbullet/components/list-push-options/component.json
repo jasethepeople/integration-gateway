@@ -1,0 +1,7 @@
+{
+  "key": "pushbullet-list-push-options",
+  "name": "List Push Options",
+  "description": "Retrieves available options for the Push field.",
+  "type": "action",
+  "version": "0.0.1"
+}

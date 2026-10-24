@@ -1,0 +1,35 @@
+{
+  "app": "shipengine",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "carrierId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "serviceCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "labelId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shipmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "shipengine-find-tracking-status",
+    "shipengine-search-labels",
+    "shipengine-start-tracking-package",
+    "shipengine-validate-address",
+    "shipengine-new-tracking-event",
+    "shipengine-shipping-label-created"
+  ]
+}

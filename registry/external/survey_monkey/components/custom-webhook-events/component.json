@@ -1,0 +1,7 @@
+{
+  "key": "survey_monkey-custom-webhook-events",
+  "name": "New Custom webhook events",
+  "description": "Emit new custom webhook event",
+  "type": "source",
+  "version": "0.0.4"
+}

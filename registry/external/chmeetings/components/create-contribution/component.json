@@ -1,0 +1,7 @@
+{
+  "key": "chmeetings-create-contribution",
+  "name": "Create Contribution",
+  "description": "Create a new contribution in ChMeetings. [See the documentation](https://api.chmeetings.com/scalar/?_gl=1*xb9g3y*_gcl_au*MTI4MjM0MTM4Mi4xNzUzNzIxOTQw#tag/contributions/post/apiv1contributions)",
+  "type": "action",
+  "version": "0.0.1"
+}

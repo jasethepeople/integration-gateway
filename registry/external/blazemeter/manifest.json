@@ -1,0 +1,37 @@
+{
+  "app": "blazemeter",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workspaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectDescription": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "blazemeter-create-project",
+    "blazemeter-list-account-id-options",
+    "blazemeter-list-projects",
+    "blazemeter-list-workspaces"
+  ]
+}

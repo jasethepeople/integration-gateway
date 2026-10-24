@@ -1,0 +1,7 @@
+{
+  "key": "roblox-update-place",
+  "name": "Update Place",
+  "description": "Update the name, description, or server size of a place within a Roblox universe. [See the documentation](https://create.roblox.com/docs/cloud/reference/Place#Cloud_UpdatePlace)",
+  "type": "action",
+  "version": "0.0.1"
+}

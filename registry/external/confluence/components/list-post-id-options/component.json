@@ -1,0 +1,7 @@
+{
+  "key": "confluence-list-post-id-options",
+  "name": "List Post ID Options",
+  "description": "Retrieves available options for the Post ID field.",
+  "type": "action",
+  "version": "0.0.2"
+}

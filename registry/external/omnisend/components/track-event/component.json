@@ -1,0 +1,7 @@
+{
+  "key": "omnisend-track-event",
+  "name": "Trigger Custom Event",
+  "description": "Trigger custom event to Omnisend. [See the documentation](https://api-docs.omnisend.com/reference/post-events-eventid)",
+  "type": "action",
+  "version": "0.0.2"
+}

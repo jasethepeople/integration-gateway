@@ -1,0 +1,7 @@
+{
+  "key": "google_drive-get-user-details",
+  "name": "Get User Details",
+  "description": "Retrieve the authenticated user's Google Drive identity and storage quota.",
+  "type": "action",
+  "version": "0.0.9"
+}

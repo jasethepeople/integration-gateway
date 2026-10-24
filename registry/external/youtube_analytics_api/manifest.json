@@ -1,0 +1,37 @@
+{
+  "app": "youtube_analytics_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "endDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dimensions": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "sort": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "youtube_analytics_api-get-channel-report-metrics",
+    "youtube_analytics_api-get-video-metrics",
+    "youtube_analytics_api-list-channel-reports",
+    "youtube_analytics_api-query-custom-analytics"
+  ]
+}

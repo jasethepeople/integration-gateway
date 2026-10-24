@@ -1,0 +1,29 @@
+{
+  "app": "dnsfilter",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "policyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "networkId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "categoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dnsfilter-assign-policy-site",
+    "dnsfilter-block-category-policy",
+    "dnsfilter-new-policy-created",
+    "dnsfilter-new-threat-received"
+  ]
+}

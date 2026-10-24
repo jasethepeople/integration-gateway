@@ -1,0 +1,7 @@
+{
+  "key": "terraform-list-runs",
+  "name": "List Runs",
+  "description": "Retrieves a list of runs in a workspace in Terraform. [See the documentation](https://developer.hashicorp.com/terraform/cloud-docs/api-docs/run#list-runs-in-a-workspace)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "testlocally-get-test",
+  "name": "Get Test",
+  "description": "Get details of a specific test in TestLocally. [See the documentation](https://testlocally.readme.io/reference/api_v0_test_results)",
+  "type": "action",
+  "version": "0.0.2"
+}

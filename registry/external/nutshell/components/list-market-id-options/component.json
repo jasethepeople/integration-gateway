@@ -1,0 +1,7 @@
+{
+  "key": "nutshell-list-market-id-options",
+  "name": "List Market Id Options",
+  "description": "Retrieves available options for the Market Id field.",
+  "type": "action",
+  "version": "1.0.0"
+}

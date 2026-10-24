@@ -1,0 +1,7 @@
+{
+  "key": "recruiterflow-create-job",
+  "name": "Create Job",
+  "description": "Creates a new job posting in Recruiterflow. [See the documentation](https://recruiterflow.com/swagger.yml)",
+  "type": "action",
+  "version": "0.0.1"
+}

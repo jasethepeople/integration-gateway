@@ -1,0 +1,7 @@
+{
+  "key": "crove_app-complete-document",
+  "name": "Complete Document",
+  "description": "Mark the document as completed",
+  "type": "action",
+  "version": "1.0.3"
+}

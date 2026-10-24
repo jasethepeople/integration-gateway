@@ -1,0 +1,7 @@
+{
+  "key": "dear-new-authorized-sale-order",
+  "name": "New Authorized Sale Order",
+  "description": "Emit new event when a sale order is created and authorized",
+  "type": "source",
+  "version": "0.0.3"
+}

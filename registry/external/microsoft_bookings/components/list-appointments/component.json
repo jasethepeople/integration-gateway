@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_bookings-list-appointments",
+  "name": "List Appointments",
+  "description": "Lists appointments in a specified date range for a Microsoft Bookings business. [See the documentation](https://learn.microsoft.com/en-us/graph/api/bookingbusiness-list-calendarview?view=graph-rest-1.0)",
+  "type": "action",
+  "version": "0.0.1"
+}

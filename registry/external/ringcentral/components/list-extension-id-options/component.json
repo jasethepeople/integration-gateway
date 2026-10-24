@@ -1,0 +1,7 @@
+{
+  "key": "ringcentral-list-extension-id-options",
+  "name": "List Extensions Options",
+  "description": "Retrieves available options for the Extensions field.",
+  "type": "action",
+  "version": "0.0.1"
+}

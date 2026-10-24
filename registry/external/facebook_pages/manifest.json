@@ -1,0 +1,42 @@
+{
+  "app": "facebook_pages",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "page": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "post": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "comment": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_uid": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "facebook_pages-create-comment",
+    "facebook_pages-create-post",
+    "facebook_pages-get-comment",
+    "facebook_pages-get-page",
+    "facebook_pages-get-post",
+    "facebook_pages-list-comments",
+    "facebook_pages-list-posts",
+    "facebook_pages-update-comment",
+    "facebook_pages-update-post"
+  ]
+}

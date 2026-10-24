@@ -1,0 +1,7 @@
+{
+  "key": "chartmogul-retrieve-customer-count",
+  "name": "Retrieve Customer Count",
+  "description": "Retrieves the number of active customers, for the specified time period. [See the docs here](https://dev.chartmogul.com/reference/retrieve-customer-count)",
+  "type": "action",
+  "version": "0.0.2"
+}

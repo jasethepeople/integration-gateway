@@ -1,0 +1,7 @@
+{
+  "key": "zoho_bugtracker-update-bug",
+  "name": "Update Bug",
+  "description": "Update a specific bug [See the documentation](https://projects.zoho.com/api-docs#issues#update-an-issue)",
+  "type": "action",
+  "version": "0.2.1"
+}

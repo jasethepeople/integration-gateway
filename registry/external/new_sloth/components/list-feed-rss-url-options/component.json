@@ -1,0 +1,7 @@
+{
+  "key": "new_sloth-list-feed-rss-url-options",
+  "name": "List Feed RSS URL Options",
+  "description": "Retrieves available options for the Feed RSS URL field.",
+  "type": "action",
+  "version": "0.0.1"
+}

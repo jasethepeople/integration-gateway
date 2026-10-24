@@ -1,0 +1,7 @@
+{
+  "key": "discord_bot-new-forum-thread-message",
+  "name": "New Forum Thread Message",
+  "description": "Emit new event for each forum thread message posted. Note that your bot must have the `MESSAGE_CONTENT` privilege intent to see the message content. [See the documentation](https://discord.com/developers/docs/topics/gateway#message-content-intent).",
+  "type": "source",
+  "version": "1.0.0"
+}

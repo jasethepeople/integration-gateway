@@ -1,0 +1,7 @@
+{
+  "key": "surecart-retrieve-shipment",
+  "name": "Retrieve Shipment",
+  "description": "Retrieve a shipment by ID. [See the documentation](https://developer.surecart.com/api-reference/shipments/retrieve)",
+  "type": "action",
+  "version": "0.0.3"
+}

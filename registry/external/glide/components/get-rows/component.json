@@ -1,0 +1,7 @@
+{
+  "key": "glide-get-rows",
+  "name": "Get Rows",
+  "description": "Get rows from a specified table. [See the documentation](https://apidocs.glideapps.com/api-reference/v2/tables/get-table-rows)",
+  "type": "action",
+  "version": "0.0.1"
+}

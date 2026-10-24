@@ -1,0 +1,7 @@
+{
+  "key": "lastpass-new-watch-events",
+  "name": "New Watch Events",
+  "description": "Emit new event when a new event is generated in LastPass",
+  "type": "source",
+  "version": "0.0.1"
+}

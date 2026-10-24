@@ -1,0 +1,7 @@
+{
+  "key": "maintainx-update-work-order",
+  "name": "Update Work Order",
+  "description": "Updates a work order. [See docs here](https://api.getmaintainx.com/v1/docs#tag/Work-Orders/paths/~1workorders~1{id}/patch)",
+  "type": "action",
+  "version": "0.0.2"
+}

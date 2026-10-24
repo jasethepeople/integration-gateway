@@ -1,0 +1,7 @@
+{
+  "key": "easypromos-new-participation",
+  "name": "New Participation Submitted",
+  "description": "Emit new event when a registered user submits a participation in the promotion.",
+  "type": "source",
+  "version": "0.0.1"
+}

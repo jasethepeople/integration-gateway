@@ -1,0 +1,7 @@
+{
+  "key": "brex_staging-invite-user",
+  "name": "Invite User",
+  "description": "Invites a new user as an employee. [See the docs here](https://developer.brex.com/openapi/team_api/#operation/createUser).",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "security_reporter-create-assessment",
+  "name": "Create Security Assessment",
+  "description": "Creates a new security assessment. [See the documentation](https://trial3.securityreporter.app/api-documentation)",
+  "type": "action",
+  "version": "0.0.2"
+}

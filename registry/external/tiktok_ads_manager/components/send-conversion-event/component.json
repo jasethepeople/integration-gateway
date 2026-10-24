@@ -1,0 +1,7 @@
+{
+  "key": "tiktok_ads_manager-send-conversion-event",
+  "name": "Send Conversion Event",
+  "description": "Send a server-side web conversion event to TikTok via the Events API.",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "hana-new-report-group-message",
+  "name": "New Report Group Message",
+  "description": "Emit new event when a new message is added to a report group. [See the documentation](https://docs.hanabot.ai/docs/tutorial-connectors/hana-api#get-report-group-messages)",
+  "type": "source",
+  "version": "0.0.1"
+}

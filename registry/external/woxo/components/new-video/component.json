@@ -1,0 +1,7 @@
+{
+  "key": "woxo-new-video",
+  "name": "New Video",
+  "description": "Emit new event on each new video.",
+  "type": "source",
+  "version": "0.0.2"
+}

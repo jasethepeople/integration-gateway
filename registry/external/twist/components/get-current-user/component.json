@@ -1,0 +1,7 @@
+{
+  "key": "twist-get-current-user",
+  "name": "Get Current User",
+  "description": "Gets the associated user for access token used in the request.",
+  "type": "action",
+  "version": "0.1.2"
+}

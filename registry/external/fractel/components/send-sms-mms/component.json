@@ -1,0 +1,7 @@
+{
+  "key": "fractel-send-sms-mms",
+  "name": "Send SMS or MMS",
+  "description": "Allows to send an SMS or MMS to a particular phone number. [See the documentation](https://developer.fonestorm.com/reference/sendmessage)",
+  "type": "action",
+  "version": "0.0.2"
+}

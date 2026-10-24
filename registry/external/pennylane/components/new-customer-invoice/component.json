@@ -1,0 +1,7 @@
+{
+  "key": "pennylane-new-customer-invoice",
+  "name": "New Customer Invoice Created or Imported",
+  "description": "Emit new event when a new invoice is created or imported.",
+  "type": "source",
+  "version": "0.0.1"
+}

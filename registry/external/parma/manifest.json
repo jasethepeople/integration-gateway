@@ -1,0 +1,35 @@
+{
+  "app": "parma",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "groupIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "relationshipType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "relationshipId": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "parma-create-note",
+    "parma-create-relationship",
+    "parma-find-relationship",
+    "parma-list-group-ids-options",
+    "parma-list-relationship-id-options",
+    "parma-new-relationship"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zoho_bugtracker-new-bug-reported",
+  "name": "New Bug Reported",
+  "description": "Emit new event when a new bug is reported.",
+  "type": "source",
+  "version": "0.0.3"
+}

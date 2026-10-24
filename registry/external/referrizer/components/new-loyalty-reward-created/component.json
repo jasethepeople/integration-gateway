@@ -1,0 +1,7 @@
+{
+  "key": "referrizer-new-loyalty-reward-created",
+  "name": "New Loyalty Reward Created",
+  "description": "Emit new event when a new loyalty reward has been created in Referrizer.",
+  "type": "source",
+  "version": "0.0.1"
+}

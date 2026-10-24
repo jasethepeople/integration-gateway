@@ -1,0 +1,32 @@
+{
+  "app": "accelo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "hostname": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "accelo-create-contact",
+    "accelo-create-prospect",
+    "accelo-create-request",
+    "accelo-list-affiliation-id-options",
+    "accelo-list-company-id-options",
+    "accelo-list-contact-id-options",
+    "accelo-list-prospect-type-id-options",
+    "accelo-list-request-type-id-options",
+    "accelo-update-contact",
+    "accelo-new-request-created",
+    "accelo-new-task-assigned"
+  ]
+}

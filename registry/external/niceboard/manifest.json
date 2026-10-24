@@ -1,0 +1,63 @@
+{
+  "app": "niceboard",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "niceboardUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobTypeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "categoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "locationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "minSalary": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "maxSalary": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "salaryTimeframe": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "secret_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "niceboard-create-category",
+    "niceboard-create-job",
+    "niceboard-update-job",
+    "niceboard-new-job-alert",
+    "niceboard-new-job-seeker",
+    "niceboard-new-job"
+  ]
+}

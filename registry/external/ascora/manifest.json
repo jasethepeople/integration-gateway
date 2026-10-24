@@ -1,0 +1,24 @@
+{
+  "app": "ascora",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ascora-create-job",
+    "ascora-create-or-update-customer",
+    "ascora-list-customer-id-options",
+    "ascora-search-customers",
+    "ascora-customer-updated",
+    "ascora-job-status-updated",
+    "ascora-new-job-created"
+  ]
+}

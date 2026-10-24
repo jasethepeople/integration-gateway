@@ -1,0 +1,7 @@
+{
+  "key": "the_official_board-get-orgchart-info",
+  "name": "Get Orgchart Info",
+  "description": "Get organization chart information for a company. [See the documentation](https://rest.theofficialboard.com/rest/api/doc/#/Companies/get_company_orgchart)",
+  "type": "action",
+  "version": "0.0.2"
+}

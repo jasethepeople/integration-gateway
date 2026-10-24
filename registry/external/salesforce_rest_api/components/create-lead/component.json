@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-create-lead",
+  "name": "Create Lead",
+  "description": "Create a Salesforce lead (an unqualified prospect not yet linked to an account).",
+  "type": "action",
+  "version": "0.4.1"
+}

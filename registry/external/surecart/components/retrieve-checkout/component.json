@@ -1,0 +1,7 @@
+{
+  "key": "surecart-retrieve-checkout",
+  "name": "Retrieve Checkout",
+  "description": "Retrieve a checkout by ID. [See the documentation](https://developer.surecart.com/api-reference/checkouts/retrieve)",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,24 @@
+{
+  "app": "claid_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "image": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "claid_ai-correct-color-lighting",
+    "claid_ai-remove-background",
+    "claid_ai-upscale-image"
+  ],
+  "npmImports": [
+    "form-data",
+    "url-exist"
+  ]
+}

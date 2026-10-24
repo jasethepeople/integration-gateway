@@ -1,0 +1,42 @@
+{
+  "app": "topmessage",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "from": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "to": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "text": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shortenURLs": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "channel": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "schedule": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "topmessage-send-message"
+  ]
+}

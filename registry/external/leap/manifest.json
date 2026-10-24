@@ -1,0 +1,28 @@
+{
+  "app": "leap",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "model": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subjectType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "leap-create-image-generation-job",
+    "leap-create-model",
+    "leap-list-model-options",
+    "leap-upload-image-samples",
+    "leap-new-image-sample-created",
+    "leap-new-model-created",
+    "leap-new-model-version-created"
+  ]
+}

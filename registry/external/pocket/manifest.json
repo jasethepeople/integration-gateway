@@ -1,0 +1,18 @@
+{
+  "app": "pocket",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pocket-save-to-later",
+    "pocket-new-archived-item",
+    "pocket-new-favorited-item",
+    "pocket-new-item",
+    "pocket-new-tagged-item"
+  ]
+}

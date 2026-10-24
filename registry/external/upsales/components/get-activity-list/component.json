@@ -1,0 +1,7 @@
+{
+  "key": "upsales-get-activity-list",
+  "name": "Get Activity List",
+  "description": "Retrieves a list of activities from Upsales. [See the documentation](https://api.upsales.com/#ae3a30c0-dcc6-4abc-9be4-6ffe725f989f)",
+  "type": "action",
+  "version": "0.0.1"
+}

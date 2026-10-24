@@ -1,0 +1,7 @@
+{
+  "key": "zoom-get-recording-download-link",
+  "name": "Get Recording Download Link",
+  "description": "Generate a temporary, pre-signed download link for one Zoom cloud recording file.",
+  "type": "action",
+  "version": "0.0.3"
+}

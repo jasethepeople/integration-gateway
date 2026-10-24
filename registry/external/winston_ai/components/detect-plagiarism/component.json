@@ -1,0 +1,7 @@
+{
+  "key": "winston_ai-detect-plagiarism",
+  "name": "Detect Plagiarism",
+  "description": "Inspects if the submitted text contains plagiarised materials. [See the documentation](https://docs.gowinston.ai/api-reference/plagiarism/post)",
+  "type": "action",
+  "version": "0.0.2"
+}

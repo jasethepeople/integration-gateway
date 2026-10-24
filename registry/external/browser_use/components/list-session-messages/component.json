@@ -1,0 +1,7 @@
+{
+  "key": "browser_use-list-session-messages",
+  "name": "List Session Messages",
+  "description": "List messages from a Browser Use agent session, including reasoning, tool calls, browser actions, screenshots, and results. [See the documentation](https://docs.browser-use.com/cloud/api-v3/sessions/list-session-messages)",
+  "type": "action",
+  "version": "0.0.1"
+}

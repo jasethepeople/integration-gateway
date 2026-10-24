@@ -1,0 +1,7 @@
+{
+  "key": "agiled-create-project",
+  "name": "Create Project",
+  "description": "Creates a new project in the Agiled app. [See the documentation](https://my.agiled.app/developers)",
+  "type": "action",
+  "version": "0.0.2"
+}

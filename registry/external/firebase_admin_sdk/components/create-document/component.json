@@ -1,0 +1,7 @@
+{
+  "key": "firebase_admin_sdk-create-document",
+  "name": "Create Document",
+  "description": "Creates a New Document. [See the documentation](https://googleapis.dev/nodejs/firestore/latest/CollectionReference.html#add)",
+  "type": "action",
+  "version": "0.0.13"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "flutterwave-verify-transaction",
+  "name": "Verify Transaction",
+  "description": "Confirms a given transaction. [See the documentation](https://developer.flutterwave.com/reference/endpoints/transactions#verify-a-transaction)",
+  "type": "action",
+  "version": "0.0.2"
+}

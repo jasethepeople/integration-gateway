@@ -1,0 +1,7 @@
+{
+  "key": "waitlist-new-subscriber",
+  "name": "New Subscriber Added",
+  "description": "Emit new event each time a subscriber is added. [See the documentation](https://getwaitlist.com/docs/api-docs/waitlist)",
+  "type": "source",
+  "version": "0.0.1"
+}

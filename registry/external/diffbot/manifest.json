@@ -1,0 +1,31 @@
+{
+  "app": "diffbot",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "location": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "diffbot-enhance-entity",
+    "diffbot-extract-page"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "app": "typeflowai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "workflowIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "typeflowai-list-workflow-ids-options",
+    "typeflowai-new-response-created",
+    "typeflowai-new-response-finished",
+    "typeflowai-new-response-updated"
+  ]
+}

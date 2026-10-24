@@ -1,0 +1,7 @@
+{
+  "key": "nethunt_crm-new-record-created",
+  "name": "New Record Created",
+  "description": "Emit new event for every created record. [See docs here](https://nethunt.com/integration-api#new-record)",
+  "type": "source",
+  "version": "0.0.1"
+}

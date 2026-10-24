@@ -1,0 +1,7 @@
+{
+  "key": "bingx-trade-set-leverage",
+  "name": "BingX Trade Set Leverage",
+  "description": "Switch Leverage [See the documentation](https://bingx-api.github.io/docs/#/swapV2/trade-api.html#Switch%20Leverage).",
+  "type": "action",
+  "version": "0.0.5"
+}

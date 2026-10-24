@@ -1,0 +1,21 @@
+{
+  "app": "trakt",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_client_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "trakt-add-to-watchlist",
+    "trakt-remove-from-watchlist",
+    "trakt-new-show-or-movie-rated",
+    "trakt-new-show-or-movie-watched"
+  ]
+}

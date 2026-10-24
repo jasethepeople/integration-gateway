@@ -1,0 +1,23 @@
+{
+  "app": "temi",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "mediaUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "metadata": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "temi-submit-transcription-job",
+    "temi-new-transcript"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "planview_leankit-remove-tags-from-card",
+  "name": "Remove Tags From Card",
+  "description": "Remove tags from a card or task. [See the docs here](https://success.planview.com/Planview_AgilePlace/AgilePlace_API/01_v2/card/update)",
+  "type": "action",
+  "version": "0.0.3"
+}

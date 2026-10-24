@@ -1,0 +1,7 @@
+{
+  "key": "bol_com-get-order",
+  "name": "Get Order",
+  "description": "Get an order. [See the documentation](https://api.bol.com/retailer/public/redoc/v10/retailer.html#tag/Orders/operation/get-order)",
+  "type": "action",
+  "version": "0.0.1"
+}

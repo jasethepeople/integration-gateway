@@ -1,0 +1,7 @@
+{
+  "key": "clientify-create-contact",
+  "name": "Create Contact",
+  "description": "Create a new contact. [See the documentation](https://developer.clientify.com/#8c678e88-4315-4470-a072-d6b659ace6e8)",
+  "type": "action",
+  "version": "0.0.2"
+}

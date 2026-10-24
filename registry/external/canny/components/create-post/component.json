@@ -1,0 +1,7 @@
+{
+  "key": "canny-create-post",
+  "name": "Create Post",
+  "description": "Create a post. [See the documentation](https://developers.canny.io/api-reference#create_post)",
+  "type": "action",
+  "version": "0.0.1"
+}

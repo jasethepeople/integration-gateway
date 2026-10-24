@@ -1,0 +1,7 @@
+{
+  "key": "surecart-update-product",
+  "name": "Update Product",
+  "description": "Update an existing product. [See the documentation](https://developer.surecart.com/api-reference/products/update)",
+  "type": "action",
+  "version": "0.0.1"
+}

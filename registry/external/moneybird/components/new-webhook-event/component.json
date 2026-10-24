@@ -1,0 +1,7 @@
+{
+  "key": "moneybird-new-webhook-event",
+  "name": "New Webhook event",
+  "description": "Emit new event on each webhook event. [See docs here](https://developer.moneybird.com/webhooks/)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "sendowl-new-order",
+  "name": "New Order",
+  "description": "Emit new event for each order.",
+  "type": "source",
+  "version": "0.0.2"
+}

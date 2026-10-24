@@ -1,0 +1,7 @@
+{
+  "key": "twenty-new-record-modified-instant",
+  "name": "New Record Modified (Instant)",
+  "description": "Emit new event when a record is created, updated, or deleted.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,28 @@
+{
+  "app": "mobygames",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "platform": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "genre": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mobygames-list-games",
+    "mobygames-list-genres",
+    "mobygames-list-platforms"
+  ]
+}

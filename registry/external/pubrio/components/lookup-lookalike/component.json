@@ -1,0 +1,7 @@
+{
+  "key": "pubrio-lookup-lookalike",
+  "name": "Lookup Lookalike",
+  "description": "Look up similar companies (lookalike) result by domain, LinkedIn URL, domain search ID, or domain ID. [See the documentation](https://docs.pubrio.com/en/api-reference/endpoint/companies/similar_lookup)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "sendsms-add-contact",
+  "name": "Add Contact",
+  "description": "Add a new contact into a specified group in SendSMS. [See the documentation](https://www.sendsms.ro/api/#add-a-contact)",
+  "type": "action",
+  "version": "0.0.2"
+}

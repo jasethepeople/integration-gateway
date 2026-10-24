@@ -1,0 +1,7 @@
+{
+  "key": "unsplash-search-photos",
+  "name": "Search Photos",
+  "description": "Get a single page of photo results for a query. [See the documentation](https://unsplash.com/documentation#search-photos)",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "detectify-new-scan-started",
+  "name": "New Scan Started",
+  "description": "Emit new event as soon as a new security scan on the entered domain commences",
+  "type": "source",
+  "version": "0.0.1"
+}

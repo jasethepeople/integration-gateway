@@ -1,0 +1,7 @@
+{
+  "key": "loyverse-item-updated-instant",
+  "name": "Item Updated (Instant)",
+  "description": "Emit new event when an item is updated.",
+  "type": "source",
+  "version": "0.0.1"
+}

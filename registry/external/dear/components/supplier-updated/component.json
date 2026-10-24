@@ -1,0 +1,7 @@
+{
+  "key": "dear-supplier-updated",
+  "name": "New Supplier Updated",
+  "description": "Emit new event when a supplier is updated. [See the documentation](https://dearinventory.docs.apiary.io/#reference/webhooks)",
+  "type": "source",
+  "version": "0.0.2"
+}

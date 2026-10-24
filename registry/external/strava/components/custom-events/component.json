@@ -1,0 +1,7 @@
+{
+  "key": "strava-custom-events",
+  "name": "New Custom Event",
+  "description": "Emit new event when an activity is created, updated, or deleted",
+  "type": "source",
+  "version": "0.0.4"
+}

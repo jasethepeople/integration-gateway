@@ -1,0 +1,7 @@
+{
+  "key": "slack_bot-list-messages",
+  "name": "List Messages",
+  "description": "Read the message history of a channel, direct message (DM), or group DM using the bot token, newest first.",
+  "type": "action",
+  "version": "0.0.1"
+}

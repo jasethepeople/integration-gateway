@@ -1,0 +1,7 @@
+{
+  "key": "miro_custom_app-list-boards",
+  "name": "List Boards",
+  "description": "Returns a user's Miro boards. [See the docs](https://developers.miro.com/reference/get-boards).",
+  "type": "action",
+  "version": "0.0.4"
+}

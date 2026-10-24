@@ -1,0 +1,7 @@
+{
+  "key": "postmark-list-server-id-options",
+  "name": "List Server Id Options",
+  "description": "Retrieves available options for the Server Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

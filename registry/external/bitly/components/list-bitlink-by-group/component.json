@@ -1,0 +1,7 @@
+{
+  "key": "bitly-list-bitlink-by-group",
+  "name": "List Bitlinks by group",
+  "description": "Retrieves all Bitlinks for a given group. [See the docs here](https://dev.bitly.com/api-reference#getBitlinksByGroup)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "heylibby-new-qualified-lead-created",
+  "name": "New Qualified Lead Created",
+  "description": "Emit new event when a new qualified lead is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

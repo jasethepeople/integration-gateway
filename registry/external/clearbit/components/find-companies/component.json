@@ -1,0 +1,7 @@
+{
+  "key": "clearbit-find-companies",
+  "name": "Find Companies",
+  "description": "Find companies via specific criteria. [See the docs here](https://dashboard.clearbit.com/docs#discovery-api-attributes)",
+  "type": "action",
+  "version": "0.3.1"
+}

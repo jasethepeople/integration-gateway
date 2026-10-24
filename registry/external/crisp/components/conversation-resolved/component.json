@@ -1,0 +1,7 @@
+{
+  "key": "crisp-conversation-resolved",
+  "name": "Conversation Resolved",
+  "description": "Emit new event when a conversation is resolved",
+  "type": "source",
+  "version": "0.0.1"
+}

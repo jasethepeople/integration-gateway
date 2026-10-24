@@ -1,0 +1,7 @@
+{
+  "key": "fidel_api-card-linked",
+  "name": "New Card Linked (Instant)",
+  "description": "Emit new event each time a new card is linked to the Fidel API.",
+  "type": "source",
+  "version": "0.0.1"
+}

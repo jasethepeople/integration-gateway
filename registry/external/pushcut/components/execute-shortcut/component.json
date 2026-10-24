@@ -1,0 +1,7 @@
+{
+  "key": "pushcut-execute-shortcut",
+  "name": "Execute Shortcut",
+  "description": "Schedules an Automation Server action request for a shortcut. [See the documentation](https://www.pushcut.io/webapi)",
+  "type": "action",
+  "version": "0.0.2"
+}

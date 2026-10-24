@@ -1,0 +1,7 @@
+{
+  "key": "pipedrive-new-person-instant",
+  "name": "New Person (Instant)",
+  "description": "Emit new event when a new person is created.",
+  "type": "source",
+  "version": "0.0.18"
+}

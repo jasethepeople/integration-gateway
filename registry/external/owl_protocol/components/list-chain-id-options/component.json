@@ -1,0 +1,7 @@
+{
+  "key": "owl_protocol-list-chain-id-options",
+  "name": "List Chain ID Options",
+  "description": "Retrieves available options for the Chain ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

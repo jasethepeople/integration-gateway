@@ -1,0 +1,45 @@
+{
+  "app": "onbee_app",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "employeeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstname": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "surname": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "privateEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dateOfBirth": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workspace_name": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "onbee_app-create-employee",
+    "onbee_app-delete-employee",
+    "onbee_app-list-employee-id-options",
+    "onbee_app-update-employee"
+  ]
+}

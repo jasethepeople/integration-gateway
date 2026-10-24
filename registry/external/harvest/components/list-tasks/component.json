@@ -1,0 +1,7 @@
+{
+  "key": "harvest-list-tasks",
+  "name": "List Tasks",
+  "description": "Only return active or inactive tasks.",
+  "type": "action",
+  "version": "0.0.1"
+}

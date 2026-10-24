@@ -1,0 +1,26 @@
+{
+  "app": "faunadb",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "collections": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "faunadb-execute-graphql-query",
+    "faunadb-import-graphql-schema",
+    "faunadb-list-collections-options",
+    "faunadb-read-from-collection",
+    "faunadb-changes-to-collection"
+  ],
+  "npmImports": [
+    "faunadb",
+    "lodash"
+  ]
+}

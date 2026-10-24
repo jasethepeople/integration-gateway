@@ -1,0 +1,7 @@
+{
+  "key": "pipefy-get-all-cards",
+  "name": "Get All Cards",
+  "description": "Fetches all cards in a pipe. [See the docs here](https://api-docs.pipefy.com/reference/queries/#allCards)",
+  "type": "action",
+  "version": "0.1.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "security_reporter-update-finding",
+  "name": "Update Security Finding",
+  "description": "Updates an existing security finding. [See the documentation](https://trial3.securityreporter.app/api-documentation)",
+  "type": "action",
+  "version": "0.1.1"
+}

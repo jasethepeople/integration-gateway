@@ -1,0 +1,30 @@
+{
+  "app": "the_official_board",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "companyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "executiveId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "the_official_board-create-orgchart-pdf-file",
+    "the_official_board-create-orgchart-xlsx-file",
+    "the_official_board-get-executive-info",
+    "the_official_board-get-orgchart-info",
+    "the_official_board-search-company-org-chart-id",
+    "the_official_board-search-executive-by-name"
+  ],
+  "npmImports": [
+    "fs"
+  ]
+}

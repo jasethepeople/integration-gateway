@@ -1,0 +1,7 @@
+{
+  "key": "trengo-send-a-whatsapp-message-template",
+  "name": "Send A WhatsApp Message Template",
+  "description": "Sends a WhatsApp message template, [See the documentation](https://developers.trengo.com/reference/start-a-conversation)",
+  "type": "action",
+  "version": "0.0.13"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "hyperise-list-image-template-hash-options",
+  "name": "List Image Template Hash Options",
+  "description": "Retrieves available options for the Image Template Hash field.",
+  "type": "action",
+  "version": "0.0.1"
+}

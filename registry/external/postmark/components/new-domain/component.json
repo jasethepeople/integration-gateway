@@ -1,0 +1,7 @@
+{
+  "key": "postmark-new-domain",
+  "name": "New Domain",
+  "description": "Emit new event when a new domain is created.",
+  "type": "source",
+  "version": "0.0.2"
+}

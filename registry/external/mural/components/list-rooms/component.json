@@ -1,0 +1,7 @@
+{
+  "key": "mural-list-rooms",
+  "name": "List Rooms",
+  "description": "List rooms in a workspace. [See the documentation](https://developers.mural.co/public/reference/getworkspacerooms)",
+  "type": "action",
+  "version": "0.0.1"
+}

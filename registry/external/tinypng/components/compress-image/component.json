@@ -1,0 +1,7 @@
+{
+  "key": "tinypng-compress-image",
+  "name": "Compress Image",
+  "description": "Compress a WebP, JPEG, or PNG image using the TinyPNG API. [See the documentation](https://tinypng.com/developers/reference#compressing-images)",
+  "type": "action",
+  "version": "1.0.3"
+}

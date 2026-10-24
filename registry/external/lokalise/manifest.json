@@ -1,0 +1,29 @@
+{
+  "app": "lokalise",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "language": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "lokalise-create-project",
+    "lokalise-download-files",
+    "lokalise-list-language-options",
+    "lokalise-list-project-id-options",
+    "lokalise-upload-file",
+    "lokalise-new-task-closed-instant",
+    "lokalise-new-task-created-instant",
+    "lokalise-project-imported-instant"
+  ]
+}

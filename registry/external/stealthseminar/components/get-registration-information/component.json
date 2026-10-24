@@ -1,0 +1,7 @@
+{
+  "key": "stealthseminar-get-registration-information",
+  "name": "Get Registration Information",
+  "description": "Get registration information for a webinar. [See the documentation](https://docs.stealthseminarapp.com/#get-registration-information)",
+  "type": "action",
+  "version": "0.0.1"
+}

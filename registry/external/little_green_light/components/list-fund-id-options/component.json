@@ -1,0 +1,7 @@
+{
+  "key": "little_green_light-list-fund-id-options",
+  "name": "List Fund ID Options",
+  "description": "Retrieves available options for the Fund ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

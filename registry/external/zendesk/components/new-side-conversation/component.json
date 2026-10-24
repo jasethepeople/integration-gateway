@@ -1,0 +1,7 @@
+{
+  "key": "zendesk-new-side-conversation",
+  "name": "New Side Conversation",
+  "description": "Emit new event when a side conversation is created on a ticket. [See the documentation](https://developer.zendesk.com/api-reference/ticketing/side_conversation/side_conversation/)",
+  "type": "source",
+  "version": "0.0.7"
+}

@@ -1,0 +1,10 @@
+{
+  "app": "npm",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "npm-download-counts",
+    "npm-new-package-version"
+  ]
+}

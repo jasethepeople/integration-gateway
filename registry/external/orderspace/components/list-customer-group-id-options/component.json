@@ -1,0 +1,7 @@
+{
+  "key": "orderspace-list-customer-group-id-options",
+  "name": "List Customer Group ID Options",
+  "description": "Retrieves available options for the Customer Group ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

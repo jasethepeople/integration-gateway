@@ -1,0 +1,24 @@
+{
+  "app": "textline",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "phoneNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "groupUuid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "textline-create-update-contact",
+    "textline-send-announcement",
+    "textline-send-message"
+  ]
+}

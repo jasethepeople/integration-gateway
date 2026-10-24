@@ -1,0 +1,7 @@
+{
+  "key": "typefully-new-draft-scheduled",
+  "name": "New Draft Scheduled",
+  "description": "Emit new event when a draft is scheduled for publication.",
+  "type": "source",
+  "version": "0.0.1"
+}

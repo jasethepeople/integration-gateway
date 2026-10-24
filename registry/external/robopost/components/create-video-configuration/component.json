@@ -1,0 +1,7 @@
+{
+  "key": "robopost-create-video-configuration",
+  "name": "Create Video Configuration",
+  "description": "Create a new faceless video series configuration for generating multiple videos with consistent settings. [See the documentation](https://robopost.app/docs/robopost-api/#videogenerationendpoints)",
+  "type": "action",
+  "version": "0.0.1"
+}

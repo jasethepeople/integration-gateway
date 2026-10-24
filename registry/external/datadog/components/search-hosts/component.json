@@ -1,0 +1,7 @@
+{
+  "key": "datadog-search-hosts",
+  "name": "Search Hosts",
+  "description": "Search monitored infrastructure hosts. Filter",
+  "type": "action",
+  "version": "1.0.2"
+}

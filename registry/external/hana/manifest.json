@@ -1,0 +1,55 @@
+{
+  "app": "hana",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "reportGroupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "reportGroupName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "reportGroupMessageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "spaceName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "role": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "search": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "perPage": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "hana-create-google-chat-message",
+    "hana-create-report-group-message",
+    "hana-generate-completion",
+    "hana-get-chat-completion-status",
+    "hana-search-report-group-messages",
+    "hana-search-report-groups",
+    "hana-search-spaces",
+    "hana-new-report-group-message",
+    "hana-new-report-group",
+    "hana-new-space-added"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "spamcheck_ai-post-spam-check",
+  "name": "Spam Check",
+  "description": "Post a new spam check for an email or IP. [See the documentation](https://app.spamcheck.ai/api_docs/index.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "discogs-create-marketplace-listing",
+  "name": "Create Marketplace Listing",
+  "description": "Creates a new listing in the Discogs marketplace. [See the documentation](https://www.discogs.com/developers#page:marketplace,header:marketplace-new-listing)",
+  "type": "action",
+  "version": "0.0.2"
+}

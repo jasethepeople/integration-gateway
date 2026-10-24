@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-insert-blob-data",
+  "name": "Insert Blob Data",
+  "description": "Upload binary file data to a Salesforce object such as `ContentVersion` or `Attachment`.",
+  "type": "action",
+  "version": "0.2.15"
+}

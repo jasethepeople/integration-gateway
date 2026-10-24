@@ -1,0 +1,39 @@
+{
+  "app": "adhook",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "subtenantId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "postId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "topics": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "externalId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "adhook-create-calendar-event",
+    "adhook-create-update-post",
+    "adhook-list-post-id-options",
+    "adhook-list-subtenant-id-options",
+    "adhook-new-post",
+    "adhook-updated-post"
+  ]
+}

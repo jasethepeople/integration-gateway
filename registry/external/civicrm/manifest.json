@@ -1,0 +1,9 @@
+{
+  "app": "civicrm",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "civicrm-new-contact-created"
+  ]
+}

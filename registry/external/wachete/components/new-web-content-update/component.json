@@ -1,0 +1,7 @@
+{
+  "key": "wachete-new-web-content-update",
+  "name": "New Web Content Update (Instant)",
+  "description": "Emit new event when a Wachet receives a new notification",
+  "type": "source",
+  "version": "0.0.1"
+}

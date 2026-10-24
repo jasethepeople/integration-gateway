@@ -1,0 +1,7 @@
+{
+  "key": "databricks-create-vector-search-index",
+  "name": "Create Vector Search Index",
+  "description": "Creates a new vector search index in Databricks. [See the documentation](https://docs.databricks.com/api/workspace/vectorsearchindexes/createindex)",
+  "type": "action",
+  "version": "0.0.3"
+}

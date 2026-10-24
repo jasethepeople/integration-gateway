@@ -1,0 +1,27 @@
+{
+  "app": "storeganise",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "invoiceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "storeganise-add-invoice-payment",
+    "storeganise-list-invoice-id-options",
+    "storeganise-mark-invoice-paid",
+    "storeganise-new-invoice-created",
+    "storeganise-new-unit-rental-created",
+    "storeganise-new-user-created"
+  ]
+}

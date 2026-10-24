@@ -1,0 +1,7 @@
+{
+  "key": "trengo-get-category",
+  "name": "Get Category",
+  "description": "Get a specific category. [See the documentation](https://developers.trengo.com/reference/get-a-category)",
+  "type": "action",
+  "version": "0.0.5"
+}

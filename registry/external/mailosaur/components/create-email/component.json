@@ -1,0 +1,7 @@
+{
+  "key": "mailosaur-create-email",
+  "name": "Create and Send Email via Mailosaur",
+  "description": "Sends an email through Mailosaur. [See the documentation](https://mailosaur.com/docs/api)",
+  "type": "action",
+  "version": "0.0.3"
+}

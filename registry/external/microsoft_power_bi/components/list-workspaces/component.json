@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_power_bi-list-workspaces",
+  "name": "List Workspaces",
+  "description": "List the Power BI workspaces (groups) the authenticated user can access.",
+  "type": "action",
+  "version": "0.0.3"
+}

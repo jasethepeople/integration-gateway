@@ -1,0 +1,7 @@
+{
+  "key": "whop-new-membership-validated-instant",
+  "name": "New Membership Validated (Instant)",
+  "description": "Emit new event when a membership is activated. [See the documentation](https://docs.whop.com/api-reference/memberships/membership-activated)",
+  "type": "source",
+  "version": "0.0.2"
+}

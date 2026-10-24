@@ -1,0 +1,7 @@
+{
+  "key": "zoom_admin-get-webinar",
+  "name": "Get Webinar",
+  "description": "Retrieve the details of a webinar. [See the documentation](https://marketplace.zoom.us/docs/api-reference/zoom-api/webinars/webinar)",
+  "type": "action",
+  "version": "0.1.8"
+}

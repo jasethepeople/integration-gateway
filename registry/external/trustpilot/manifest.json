@@ -1,0 +1,50 @@
+{
+  "app": "trustpilot",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "businessUnitId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "reviewId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sku": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "perPage": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "language": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "state": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "locale": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "trustpilot-fetch-product-review-by-id",
+    "trustpilot-fetch-product-reviews",
+    "trustpilot-fetch-service-review-by-id",
+    "trustpilot-fetch-service-reviews",
+    "trustpilot-get-conversation-from-product-review",
+    "trustpilot-reply-to-product-review",
+    "trustpilot-reply-to-service-review",
+    "trustpilot-new-product-reviews",
+    "trustpilot-new-service-reviews"
+  ]
+}

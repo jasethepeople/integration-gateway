@@ -1,0 +1,20 @@
+{
+  "app": "securitytrails",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "hostname": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "securitytrails-get-domain-details",
+    "securitytrails-get-history-dns",
+    "securitytrails-get-ips-neighbors"
+  ]
+}

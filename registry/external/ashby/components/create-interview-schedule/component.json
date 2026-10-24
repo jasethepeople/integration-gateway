@@ -1,0 +1,7 @@
+{
+  "key": "ashby-create-interview-schedule",
+  "name": "Create Interview Schedule",
+  "description": "Creates a scheduled interview. [See the documentation](https://developers.ashbyhq.com/reference/interviewschedulecreate)",
+  "type": "action",
+  "version": "0.0.4"
+}

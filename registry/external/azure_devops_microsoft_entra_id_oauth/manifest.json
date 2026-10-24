@@ -1,0 +1,28 @@
+{
+  "app": "azure_devops_microsoft_entra_id_oauth",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "eventType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "organization": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "azure_devops_microsoft_entra_id_oauth-list-event-type-options",
+    "azure_devops_microsoft_entra_id_oauth-list-project-id-options",
+    "azure_devops_microsoft_entra_id_oauth-new-event"
+  ]
+}

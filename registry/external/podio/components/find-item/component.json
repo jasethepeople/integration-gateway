@@ -1,0 +1,7 @@
+{
+  "key": "podio-find-item",
+  "name": "Find Item",
+  "description": "Filters items for the given app. [See the documentation](https://developers.podio.com/doc/items/filter-items-4496747)",
+  "type": "action",
+  "version": "0.0.3"
+}

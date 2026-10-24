@@ -1,0 +1,7 @@
+{
+  "key": "grain-list-meeting-types",
+  "name": "List Meeting Types",
+  "description": "Lists the meeting types configured in your Grain workspace (id, name, scope), where scope is `internal` or `external`.",
+  "type": "action",
+  "version": "0.0.1"
+}

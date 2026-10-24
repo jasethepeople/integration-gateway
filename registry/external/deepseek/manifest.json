@@ -1,0 +1,16 @@
+{
+  "app": "deepseek",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "deepseek-create-chat-completion",
+    "deepseek-get-balance",
+    "deepseek-list-models"
+  ]
+}

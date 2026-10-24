@@ -1,0 +1,7 @@
+{
+  "key": "sendsms-check-blocklist",
+  "name": "Check Blocklist",
+  "description": "Checks if a specific phone number is in the blocklist. [See the documentation](https://www.sendsms.ro/api/)",
+  "type": "action",
+  "version": "0.0.2"
+}

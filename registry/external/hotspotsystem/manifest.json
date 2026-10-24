@@ -1,0 +1,19 @@
+{
+  "app": "hotspotsystem",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "locationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "hotspotsystem-new-customer-created",
+    "hotspotsystem-new-subscriber-created"
+  ]
+}

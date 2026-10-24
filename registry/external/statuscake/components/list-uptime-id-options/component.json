@@ -1,0 +1,7 @@
+{
+  "key": "statuscake-list-uptime-id-options",
+  "name": "List Uptime ID Options",
+  "description": "Retrieves available options for the Uptime ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

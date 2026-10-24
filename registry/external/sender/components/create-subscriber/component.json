@@ -1,0 +1,7 @@
+{
+  "key": "sender-create-subscriber",
+  "name": "Create Subscriber",
+  "description": "Creates a new subscriber. [See the documentation](https://api.sender.net/subscribers/add-subscriber/)",
+  "type": "action",
+  "version": "0.0.1"
+}

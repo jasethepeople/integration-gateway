@@ -1,0 +1,7 @@
+{
+  "key": "mx_technologies-create-user",
+  "name": "Create User",
+  "description": "Creates a new user in the MX Technologies platform. [See the documentation](https://docs.mx.com/api-reference/platform-api/reference/create-user)",
+  "type": "action",
+  "version": "0.0.2"
+}

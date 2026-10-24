@@ -1,0 +1,7 @@
+{
+  "key": "fibery-list-fields-for-entity-type",
+  "name": "List Fields for Entity Type",
+  "description": "Lists fields for an entity type. [See the docs here](https://api.fibery.io/graphql.html#list-of-entities)",
+  "type": "action",
+  "version": "0.0.2"
+}

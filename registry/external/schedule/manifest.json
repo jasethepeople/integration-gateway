@@ -1,0 +1,12 @@
+{
+  "app": "schedule",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "schedule-custom-interval",
+    "schedule-daily",
+    "schedule-monthly",
+    "schedule-weekly"
+  ]
+}

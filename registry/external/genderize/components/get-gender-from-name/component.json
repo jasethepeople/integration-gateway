@@ -1,0 +1,7 @@
+{
+  "key": "genderize-get-gender-from-name",
+  "name": "Get Gender From Name",
+  "description": "Check the statistical probability of a name being male or female. [See the documentation](https://genderize.io/documentation#basic-usage)",
+  "type": "action",
+  "version": "0.1.0"
+}

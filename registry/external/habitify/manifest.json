@@ -1,0 +1,21 @@
+{
+  "app": "habitify",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "habitIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "habitify-list-habit-ids-options",
+    "habitify-habit-logged",
+    "habitify-habit-status-updated",
+    "habitify-new-habit-created"
+  ]
+}

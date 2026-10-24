@@ -1,0 +1,7 @@
+{
+  "key": "joggai-create-avatar-video",
+  "name": "Create Avatar Video",
+  "description": "Creates an avatar video using JoggAI API. [See the documentation](https://docs.jogg.ai/api-reference/Create-Avatar-Videos/CreateAvatarVideo)",
+  "type": "action",
+  "version": "0.0.2"
+}

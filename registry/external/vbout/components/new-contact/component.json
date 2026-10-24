@@ -1,0 +1,7 @@
+{
+  "key": "vbout-new-contact",
+  "name": "New Contact",
+  "description": "Emit new event for each new contact. [See docs here](https://developers.vbout.com/docs#emailmarketing_getcontacts)",
+  "type": "source",
+  "version": "0.0.4"
+}

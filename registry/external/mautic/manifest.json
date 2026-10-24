@@ -1,0 +1,87 @@
+{
+  "app": "mautic",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "formId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "search": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderBy": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderByDir": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "publishedOnly": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "minimal": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "where": {
+      "kind": "propDefinition",
+      "type": "any"
+    },
+    "order": {
+      "kind": "propDefinition",
+      "type": "any"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "mautic_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mautic-add-contact-to-campaign",
+    "mautic-clone-campaign",
+    "mautic-create-contact",
+    "mautic-delete-company",
+    "mautic-get-campaign",
+    "mautic-get-contact",
+    "mautic-list-available-contact-fields",
+    "mautic-search-campaigns",
+    "mautic-search-companies",
+    "mautic-search-contacts",
+    "mautic-update-contact",
+    "mautic-new-contact",
+    "mautic-new-form-submission",
+    "mautic-updated-contact"
+  ],
+  "npmImports": [
+    "crypto",
+    "lodash-es"
+  ]
+}

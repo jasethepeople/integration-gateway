@@ -1,0 +1,14 @@
+{
+  "app": "screenshot_fyi",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "access_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "screenshot_fyi-create-screenshot"
+  ]
+}

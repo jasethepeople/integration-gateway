@@ -1,0 +1,7 @@
+{
+  "key": "aws-lambda-create-function",
+  "name": "Lambda - Create Function",
+  "description": "",
+  "type": "action",
+  "version": "0.0.4"
+}

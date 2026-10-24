@@ -1,0 +1,7 @@
+{
+  "key": "predictleads-new-financing-event",
+  "name": "New Financing Event Added",
+  "description": "Emit new event for each new financing event. [See the documentation](https://docs.predictleads.com/v3/api_endpoints/financing_events_dataset/retrieve_company_s_financing_events)",
+  "type": "source",
+  "version": "0.0.1"
+}

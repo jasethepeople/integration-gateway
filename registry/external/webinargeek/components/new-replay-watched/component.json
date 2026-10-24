@@ -1,0 +1,7 @@
+{
+  "key": "webinargeek-new-replay-watched",
+  "name": "New Replay Watched",
+  "description": "Emit new event on each replay is watched.",
+  "type": "source",
+  "version": "0.0.3"
+}

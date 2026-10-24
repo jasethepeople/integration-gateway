@@ -1,0 +1,28 @@
+{
+  "app": "printful",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "storeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "printful-calculate-shipping-rates",
+    "printful-create-order",
+    "printful-list-store-id-options",
+    "printful-update-product",
+    "printful-new-order-instant",
+    "printful-new-product-added-instant",
+    "printful-order-status-updated-instant"
+  ]
+}

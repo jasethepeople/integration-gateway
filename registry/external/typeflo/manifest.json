@@ -1,0 +1,58 @@
+{
+  "app": "typeflo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "content": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "slug": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "excerpt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "metatitle": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "metadescription": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tocStatus": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "scheduled": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "publishDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "isDraft": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "admin_api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "typeflo-create-post"
+  ]
+}

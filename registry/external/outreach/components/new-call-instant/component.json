@@ -1,0 +1,7 @@
+{
+  "key": "outreach-new-call-instant",
+  "name": "New Call Instant",
+  "description": "Emit new event when a call is created, updated, or deleted.",
+  "type": "source",
+  "version": "0.0.1"
+}

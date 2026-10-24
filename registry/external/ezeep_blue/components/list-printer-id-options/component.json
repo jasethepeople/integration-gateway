@@ -1,0 +1,7 @@
+{
+  "key": "ezeep_blue-list-printer-id-options",
+  "name": "List Printer ID Options",
+  "description": "Retrieves available options for the Printer ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

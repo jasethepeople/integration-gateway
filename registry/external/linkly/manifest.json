@@ -1,0 +1,50 @@
+{
+  "app": "linkly",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "linkId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "slug": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "workspace_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "linkly-create-link",
+    "linkly-delete-link",
+    "linkly-get-link",
+    "linkly-list-domains",
+    "linkly-list-link-id-options",
+    "linkly-list-links",
+    "linkly-list-workspaces",
+    "linkly-update-link",
+    "linkly-new-link-clicked",
+    "linkly-new-link-created"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

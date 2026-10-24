@@ -1,0 +1,7 @@
+{
+  "key": "sunshine_conversations-list-participants",
+  "name": "List Participants",
+  "description": "List participants of a conversation. [See the documentation](https://developer.zendesk.com/api-reference/conversations/#tag/Participants/operation/ListParticipants)",
+  "type": "action",
+  "version": "0.0.3"
+}

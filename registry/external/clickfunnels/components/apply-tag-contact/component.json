@@ -1,0 +1,7 @@
+{
+  "key": "clickfunnels-apply-tag-contact",
+  "name": "Apply Tag to Contact",
+  "description": "Applies a tag to a contact. [See the documentation](https://developers.myclickfunnels.com/reference/createcontactsappliedtags)",
+  "type": "action",
+  "version": "0.0.2"
+}

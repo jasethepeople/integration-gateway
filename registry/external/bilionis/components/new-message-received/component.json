@@ -1,0 +1,7 @@
+{
+  "key": "bilionis-new-message-received",
+  "name": "New Message Received",
+  "description": "Emit new event when a new lead sends a message. [See the documentation](https://bilionis.com/crm/)",
+  "type": "source",
+  "version": "0.0.1"
+}

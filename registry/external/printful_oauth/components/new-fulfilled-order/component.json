@@ -1,0 +1,7 @@
+{
+  "key": "printful_oauth-new-fulfilled-order",
+  "name": "New Fulfilled Order (Instant)",
+  "description": "Emit new event on each fulfilled order.",
+  "type": "source",
+  "version": "0.0.1"
+}

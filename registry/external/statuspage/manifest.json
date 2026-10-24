@@ -1,0 +1,24 @@
+{
+  "app": "statuspage",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "page_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "statuspage-create-incident",
+    "statuspage-create-maintenance",
+    "statuspage-fetch-active-incidents",
+    "statuspage-list-page-id-options",
+    "statuspage-update-incident",
+    "statuspage-incident-updated",
+    "statuspage-new-incident-created"
+  ]
+}

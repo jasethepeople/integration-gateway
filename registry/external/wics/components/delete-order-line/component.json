@@ -1,0 +1,7 @@
+{
+  "key": "wics-delete-order-line",
+  "name": "Delete Order Line",
+  "description": "Delete a line from an order. [See the documentation](https://docs.wics.nl/test-environment.html#orders-delete-order-line)",
+  "type": "action",
+  "version": "0.0.3"
+}

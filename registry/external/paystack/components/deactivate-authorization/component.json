@@ -1,0 +1,7 @@
+{
+  "key": "paystack-deactivate-authorization",
+  "name": "Deactivate Authorization",
+  "description": "Deactivate an authorization when the card needs to be forgotten. [See the documentation](https://paystack.com/docs/api/customer/#deactivate-authorization)",
+  "type": "action",
+  "version": "0.0.2"
+}

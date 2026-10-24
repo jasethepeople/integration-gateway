@@ -1,0 +1,14 @@
+{
+  "app": "printautopilot",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "connection_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "printautopilot-add-pdf-to-queue"
+  ]
+}

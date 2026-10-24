@@ -1,0 +1,7 @@
+{
+  "key": "close-create-lead",
+  "name": "Create Lead",
+  "description": "Creates a lead. [See the documentation](https://developer.close.com/resources/leads/#create-a-new-lead)",
+  "type": "action",
+  "version": "0.1.3"
+}

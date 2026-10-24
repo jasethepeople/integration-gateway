@@ -1,0 +1,35 @@
+{
+  "app": "suitedash",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "companyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "role": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "public_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "secret_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "suitedash-create-company",
+    "suitedash-create-contact",
+    "suitedash-list-company-id-options",
+    "suitedash-update-company",
+    "suitedash-new-company",
+    "suitedash-new-contact"
+  ]
+}

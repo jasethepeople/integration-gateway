@@ -1,0 +1,7 @@
+{
+  "key": "kanban_tool-create-comment",
+  "name": "Create Comment",
+  "description": "Creates a comment [See the docs here](https://kanbantool.com/developer/api-v3#creating-comments)",
+  "type": "action",
+  "version": "0.0.3"
+}

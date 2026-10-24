@@ -1,0 +1,7 @@
+{
+  "key": "survicate-list-surveys",
+  "name": "List Surveys",
+  "description": "Retrieves a list of all surveys from your workspace. [See the documentation](https://developers.survicate.com/data-export/survey/)",
+  "type": "action",
+  "version": "0.0.1"
+}

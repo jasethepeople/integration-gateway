@@ -1,0 +1,7 @@
+{
+  "key": "feedbin-list-feed-id-options",
+  "name": "List Feed ID Options",
+  "description": "Retrieves available options for the Feed ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

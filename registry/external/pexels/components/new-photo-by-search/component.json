@@ -1,0 +1,7 @@
+{
+  "key": "pexels-new-photo-by-search",
+  "name": "New Photo by Search",
+  "description": "Emit new event when a photo is published that matches a specified search query. [See the documentation](https://www.pexels.com/api/documentation/#photos-search)",
+  "type": "source",
+  "version": "0.0.1"
+}

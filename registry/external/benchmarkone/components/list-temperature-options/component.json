@@ -1,0 +1,7 @@
+{
+  "key": "benchmarkone-list-temperature-options",
+  "name": "List Temperature Options",
+  "description": "Retrieves available options for the Temperature field.",
+  "type": "action",
+  "version": "0.0.1"
+}

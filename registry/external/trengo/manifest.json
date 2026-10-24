@@ -1,0 +1,172 @@
+{
+  "app": "trengo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "channelId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "toUserId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "teamId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "callDirection": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactIdentifier": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recepientPhoneNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "hsmId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "ticketId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "whatsappTemplateParamsKeys": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "whatsappTemplateParamsValues": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "note": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "duration": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "recordingUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "threadId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "body": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "attachmentIds": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "parentId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "message": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emailSubject": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "term": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "helpCenterId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "labelId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "messageId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "ticketResultId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "categoryId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "articleId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "blockId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "trengo-assign-ticket",
+    "trengo-attach-label",
+    "trengo-close-ticket",
+    "trengo-create-contact",
+    "trengo-find-contacts",
+    "trengo-get-article",
+    "trengo-get-block",
+    "trengo-get-category",
+    "trengo-get-email-message-content",
+    "trengo-get-help-center",
+    "trengo-get-label",
+    "trengo-get-message",
+    "trengo-get-ticket",
+    "trengo-list-all-blocks",
+    "trengo-list-all-categories",
+    "trengo-list-all-quick-replies",
+    "trengo-list-articles",
+    "trengo-list-channel-id-options",
+    "trengo-list-help-center-id-options",
+    "trengo-list-help-centers",
+    "trengo-list-label-id-options",
+    "trengo-list-labels",
+    "trengo-list-messages",
+    "trengo-list-team-id-options",
+    "trengo-list-ticket-id-options",
+    "trengo-list-ticket-result-id-options",
+    "trengo-list-tickets",
+    "trengo-list-to-user-id-options",
+    "trengo-log-a-voice-call",
+    "trengo-remove-label",
+    "trengo-send-a-message",
+    "trengo-send-a-team-chat-message",
+    "trengo-send-a-ticket-message",
+    "trengo-send-a-whatsapp-message-template",
+    "trengo-new-inbound-message",
+    "trengo-new-internal-note",
+    "trengo-new-outbound-message",
+    "trengo-phone-call-ended",
+    "trengo-phone-call-missed",
+    "trengo-phone-call-started",
+    "trengo-ticket-closed",
+    "trengo-ticket-label-added",
+    "trengo-ticket-reopened",
+    "trengo-voice-call-recorded"
+  ],
+  "npmImports": [
+    "crypto-js"
+  ]
+}

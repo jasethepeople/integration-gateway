@@ -1,0 +1,7 @@
+{
+  "key": "twitch-get-channel-information",
+  "name": "Get Channel Information",
+  "description": "Retrieves information about a particular broadcaster's channel",
+  "type": "action",
+  "version": "0.1.5"
+}

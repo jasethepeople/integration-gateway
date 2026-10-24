@@ -1,0 +1,7 @@
+{
+  "key": "cal_com-booking-rescheduled",
+  "name": "Booking Rescheduled",
+  "description": "Emit new event when a booking is rescheduled.",
+  "type": "source",
+  "version": "1.0.0"
+}

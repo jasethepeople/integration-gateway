@@ -1,0 +1,7 @@
+{
+  "key": "testmonitor-new-test-result",
+  "name": "New Test Result",
+  "description": "Emit new event when a new test result is created.",
+  "type": "source",
+  "version": "0.0.4"
+}

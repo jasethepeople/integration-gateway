@@ -1,0 +1,47 @@
+{
+  "app": "nyckel",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "functionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "imageOrUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "includeRegions": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "labelCount": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "includeMetadata": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "capture": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "externalId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "nyckel-classify-image",
+    "nyckel-classify-text",
+    "nyckel-extract-text-from-image"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

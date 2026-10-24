@@ -1,0 +1,7 @@
+{
+  "key": "mindbody-upsert-client",
+  "name": "Upsert Client",
+  "description": "Creates a new client or updates an existing client record.",
+  "type": "action",
+  "version": "0.0.3"
+}

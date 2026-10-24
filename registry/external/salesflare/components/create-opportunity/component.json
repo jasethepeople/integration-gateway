@@ -1,0 +1,7 @@
+{
+  "key": "salesflare-create-opportunity",
+  "name": "Create Opprtunity",
+  "description": "Create opportunity. [See the docs here](https://api.salesflare.com/docs#operation/postOpportunities)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "clickup-get-list-comments",
+  "name": "Get List Comments",
+  "description": "Get a list comments. [See the documentation](https://clickup.com/api) in **Comments / Get List Comments** section.",
+  "type": "action",
+  "version": "0.0.12"
+}

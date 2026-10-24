@@ -1,0 +1,7 @@
+{
+  "key": "wordpress_org-list-media-options",
+  "name": "List Featured Media Options",
+  "description": "Retrieves available options for the Featured Media field.",
+  "type": "action",
+  "version": "0.0.1"
+}

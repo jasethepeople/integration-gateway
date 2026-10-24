@@ -1,0 +1,48 @@
+{
+  "app": "google_contacts",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "fields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "resourceName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "updatePersonFields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "contactGroupResourceName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "google_contacts-create-contact-group",
+    "google_contacts-create-contact",
+    "google_contacts-delete-contact-group",
+    "google_contacts-delete-contact",
+    "google_contacts-get-contact",
+    "google_contacts-list-contact-groups",
+    "google_contacts-list-contacts",
+    "google_contacts-modify-contact-group-members",
+    "google_contacts-search-contacts",
+    "google_contacts-search-directory-people",
+    "google_contacts-update-contact-group",
+    "google_contacts-update-contact",
+    "google_contacts-contact-created",
+    "google_contacts-contact-group-created",
+    "google_contacts-contact-group-updated",
+    "google_contacts-contact-updated"
+  ],
+  "npmImports": [
+    "googleapis"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "rollbar-list-projects",
+  "name": "List Projects",
+  "description": "Lists all projects in Rollbar. [See the documentation](https://docs.rollbar.com/reference/list-all-projects)",
+  "type": "action",
+  "version": "0.0.2"
+}

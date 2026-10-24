@@ -1,0 +1,7 @@
+{
+  "key": "pdfmonkey-new-document-generated",
+  "name": "New Document Generated",
+  "description": "Emit new event when a document's generation is completed.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "commerce_tools-query-orders",
+  "name": "Query Orders",
+  "description": "Retrieve Orders in the Project, optionally filtered and sorted. [See the documentation](https://docs.commercetools.com/api/projects/orders#query-orders).",
+  "type": "action",
+  "version": "0.0.1"
+}

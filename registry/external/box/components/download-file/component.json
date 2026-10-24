@@ -1,0 +1,7 @@
+{
+  "key": "box-download-file",
+  "name": "Download File",
+  "description": "Downloads a file from Box to your workflow's `/tmp` directory and returns the saved file path. Use **Get File Metadata** to check the file's name and size first, or **Get File Text** to extract text content without downloading. [See the documentation](https://developer.box.com/reference/get-files-id-content/)",
+  "type": "action",
+  "version": "0.0.12"
+}

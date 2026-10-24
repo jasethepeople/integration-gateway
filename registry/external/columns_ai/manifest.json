@@ -1,0 +1,35 @@
+{
+  "app": "columns_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "keys": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "metrics": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "rows": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "columns_ai-build-graph-from-scratch",
+    "columns_ai-build-graph-from-template"
+  ],
+  "npmImports": [
+    "columns-graph-model",
+    "columns-sdk"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "oto-list-brand-name-options",
+  "name": "List Brand Name Options",
+  "description": "Retrieves available options for the Brand Name field.",
+  "type": "action",
+  "version": "0.0.1"
+}

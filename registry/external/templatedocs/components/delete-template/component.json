@@ -1,0 +1,7 @@
+{
+  "key": "templatedocs-delete-template",
+  "name": "Delete Template",
+  "description": "Permanently delete a template. This action cannot be undone. [See the documentation](https://templatedocs.io/docs/api/templates/delete)",
+  "type": "action",
+  "version": "0.0.1"
+}

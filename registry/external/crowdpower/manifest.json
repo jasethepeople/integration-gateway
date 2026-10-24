@@ -1,0 +1,48 @@
+{
+  "app": "crowdpower",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "amount": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customAttributes": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "action": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "properties": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "application_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "crowdpower-create-customer-charge",
+    "crowdpower-create-customer-event",
+    "crowdpower-upsert-customer"
+  ]
+}

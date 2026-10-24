@@ -1,0 +1,7 @@
+{
+  "key": "kadoa-list-workflow-id-options",
+  "name": "List Workflow ID Options",
+  "description": "Retrieves available options for the Workflow ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "adyen-capture-payment",
+  "name": "Capture Payment",
+  "description": "Captures an authorized payment. This is typically used for delayed capture scenarios, such as when you need to verify the order before capturing the funds.",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,45 @@
+{
+  "app": "sourceforge",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "project": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ticket": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "summary": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "labels": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "assignee": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "bearer_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "username": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sourceforge-create-ticket",
+    "sourceforge-list-projects",
+    "sourceforge-update-ticket",
+    "sourceforge-new-commit-received"
+  ]
+}

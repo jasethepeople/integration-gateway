@@ -1,0 +1,7 @@
+{
+  "key": "procore-create-rfi",
+  "name": "Create RFI",
+  "description": "Create a new RFI. [See the documentation](https://developers.procore.com/reference/rest/rfis?version=latest#create-rfi).",
+  "type": "action",
+  "version": "0.0.2"
+}

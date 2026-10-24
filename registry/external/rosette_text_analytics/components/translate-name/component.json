@@ -1,0 +1,7 @@
+{
+  "key": "rosette_text_analytics-translate-name",
+  "name": "Translate Name",
+  "description": "Translate name using Rosette. [See the documentation](https://documentation.babelstreet.com/analytics/match-names/name-translation/translate-names)",
+  "type": "action",
+  "version": "0.0.2"
+}

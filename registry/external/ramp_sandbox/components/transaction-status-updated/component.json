@@ -1,0 +1,7 @@
+{
+  "key": "ramp_sandbox-transaction-status-updated",
+  "name": "Transaction Status Updated",
+  "description": "Emit new event when there is a change in transaction status.",
+  "type": "source",
+  "version": "0.0.3"
+}

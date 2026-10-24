@@ -1,0 +1,7 @@
+{
+  "key": "magnetic-list-grouping-options",
+  "name": "List Grouping Options",
+  "description": "Retrieves available options for the Grouping field.",
+  "type": "action",
+  "version": "0.0.1"
+}

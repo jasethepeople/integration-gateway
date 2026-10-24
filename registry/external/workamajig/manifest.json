@@ -1,0 +1,36 @@
+{
+  "app": "workamajig",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "companyKey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactKey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "user_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "workamajig-create-activity",
+    "workamajig-create-company",
+    "workamajig-list-company-key-options",
+    "workamajig-update-contact",
+    "workamajig-new-activity",
+    "workamajig-new-company",
+    "workamajig-updated-opportunity"
+  ]
+}

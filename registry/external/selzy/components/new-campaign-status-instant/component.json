@@ -1,0 +1,7 @@
+{
+  "key": "selzy-new-campaign-status-instant",
+  "name": "New Campaign Status (Instant)",
+  "description": "Emit new event when the status of a campaign changes.",
+  "type": "source",
+  "version": "0.0.1"
+}

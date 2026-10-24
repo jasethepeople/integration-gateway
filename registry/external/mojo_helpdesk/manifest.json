@@ -1,0 +1,33 @@
+{
+  "app": "mojo_helpdesk",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "ticketQueueId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "priorityId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "access_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mojo_helpdesk-create-ticket",
+    "mojo_helpdesk-create-user",
+    "mojo_helpdesk-list-ticket-queue-id-options",
+    "mojo_helpdesk-list-user-id-options",
+    "mojo_helpdesk-new-ticket-created",
+    "mojo_helpdesk-new-ticket-with-due-date-created",
+    "mojo_helpdesk-new-ticket-with-scheduled-on-created",
+    "mojo_helpdesk-new-user-created"
+  ]
+}

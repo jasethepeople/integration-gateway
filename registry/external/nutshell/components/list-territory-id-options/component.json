@@ -1,0 +1,7 @@
+{
+  "key": "nutshell-list-territory-id-options",
+  "name": "List Territory Id Options",
+  "description": "Retrieves available options for the Territory Id field.",
+  "type": "action",
+  "version": "1.0.0"
+}

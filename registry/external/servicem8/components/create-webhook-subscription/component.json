@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-create-webhook-subscription",
+  "name": "Create Webhook Subscription",
+  "description": "Create or update an object webhook subscription. [See the documentation](https://developer.servicem8.com/reference/post_object_webhook_subscription)",
+  "type": "action",
+  "version": "0.0.2"
+}

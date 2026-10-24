@@ -1,0 +1,49 @@
+{
+  "app": "nango",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "providerConfigKey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauthScopes": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "connectionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "anyPath": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "retries": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "baseUrlOverride": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "anyQueryParams": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "nango_secret_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "nango-create-integration",
+    "nango-delete-connection",
+    "nango-get-connection",
+    "nango-list-connections",
+    "nango-list-integrations",
+    "nango-list-provider-config-key-options",
+    "nango-proxy-get",
+    "nango-proxy-post"
+  ]
+}

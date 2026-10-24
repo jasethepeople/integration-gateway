@@ -1,0 +1,53 @@
+{
+  "app": "fidel_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "cardId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "programId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "countryCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "expMonth": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "expYear": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "number": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "termsOfUse": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "metadata": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "fidel_api-create-program",
+    "fidel_api-delete-card",
+    "fidel_api-link-card",
+    "fidel_api-card-linked",
+    "fidel_api-transaction-completed-instant"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

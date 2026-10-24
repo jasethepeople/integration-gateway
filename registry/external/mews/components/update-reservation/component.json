@@ -1,0 +1,7 @@
+{
+  "key": "mews-update-reservation",
+  "name": "Update Reservation",
+  "description": "Update an existing reservation in Mews. [See the documentation](https://mews-systems.gitbook.io/connector-api/operations/reservations#update-reservations)",
+  "type": "action",
+  "version": "0.0.4"
+}

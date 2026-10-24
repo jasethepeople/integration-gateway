@@ -1,0 +1,7 @@
+{
+  "key": "hubspot-get-custom-object",
+  "name": "Get Custom Object",
+  "description": "Fetch one or more custom object records by ID in a single request.",
+  "type": "action",
+  "version": "0.0.4"
+}

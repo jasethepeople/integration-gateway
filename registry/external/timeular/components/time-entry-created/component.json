@@ -1,0 +1,7 @@
+{
+  "key": "timeular-time-entry-created",
+  "name": "New Time Entry Created (Instant)",
+  "description": "Emit new event when a time entry is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

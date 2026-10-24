@@ -1,0 +1,7 @@
+{
+  "key": "aidbase-add-question-to-faq",
+  "name": "Add Question to FAQ",
+  "description": "Add a new question to a FAQ in Airbase. [See the documentation](https://docs.aidbase.ai/apis/knowledge-api/reference/#post-knowledgeidfaq-item)",
+  "type": "action",
+  "version": "0.0.2"
+}

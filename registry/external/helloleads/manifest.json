@@ -1,0 +1,24 @@
+{
+  "app": "helloleads",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "listKey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "email": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "helloleads-create-lead",
+    "helloleads-list-list-key-options",
+    "helloleads-new-lead-added"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "codex-get-pair-stats",
+  "name": "Get Pair Stats",
+  "description": "Returns metadata and trading statistics for a token pair: price, volume, liquidity, and price changes across multiple timeframes.",
+  "type": "action",
+  "version": "0.0.2"
+}

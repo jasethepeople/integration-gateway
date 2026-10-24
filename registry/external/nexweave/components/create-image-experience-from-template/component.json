@@ -1,0 +1,7 @@
+{
+  "key": "nexweave-create-image-experience-from-template",
+  "name": "Create Image Experience from Template",
+  "description": "Creates an image experience from a template. [See the documentation](https://documentation.nexweave.com/nexweave-api#4OZFt)",
+  "type": "action",
+  "version": "0.0.2"
+}

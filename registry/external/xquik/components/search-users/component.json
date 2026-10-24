@@ -1,0 +1,7 @@
+{
+  "key": "xquik-search-users",
+  "name": "Search Users",
+  "description": "Search public X/Twitter users with Xquik. [See the documentation](https://docs.xquik.com/api-reference/x/search-users)",
+  "type": "action",
+  "version": "0.0.2"
+}

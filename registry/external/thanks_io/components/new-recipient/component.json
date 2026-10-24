@@ -1,0 +1,7 @@
+{
+  "key": "thanks_io-new-recipient",
+  "name": "New Recipient",
+  "description": "Emit new event for each new recipient is added to a mailing list.",
+  "type": "source",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "tidycal-appointment-cancelled",
+  "name": "Appointment Cancelled",
+  "description": "Triggered when an existing appointment is cancelled by a client or by the owner. [See the documentation](https://tidycal.com/developer/docs/#tag/Bookings/operation/list-bookings)",
+  "type": "source",
+  "version": "0.0.1"
+}

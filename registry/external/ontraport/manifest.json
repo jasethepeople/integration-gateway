@@ -1,0 +1,29 @@
+{
+  "app": "ontraport",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "formId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tagId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productId": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ontraport-list-form-id-options",
+    "ontraport-list-product-id-options",
+    "ontraport-list-tag-id-options",
+    "ontraport-new-contact-created",
+    "ontraport-new-form-submitted",
+    "ontraport-product-purchased",
+    "ontraport-tag-added",
+    "ontraport-transaction-created-with-product"
+  ]
+}

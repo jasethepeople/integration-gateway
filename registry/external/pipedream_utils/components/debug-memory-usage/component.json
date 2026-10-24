@@ -1,0 +1,7 @@
+{
+  "key": "pipedream_utils-debug-memory-usage",
+  "name": "Debug Memory Usage",
+  "description": "Get memory usage statistics for the current Pipedream workflow.",
+  "type": "action",
+  "version": "0.0.2"
+}

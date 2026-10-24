@@ -1,0 +1,7 @@
+{
+  "key": "magnetic-find-task",
+  "name": "Find Task",
+  "description": "Search for a task by name or description [See docs here](https://app.magnetichq.com/Magnetic/API.do#ta-taskobject)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "maestra-translate-file",
+  "name": "Translate File",
+  "description": "Translates an existing file in the Maestra system. [See the documentation](https://maestra.ai/docs#translate)",
+  "type": "action",
+  "version": "0.0.2"
+}

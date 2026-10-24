@@ -1,0 +1,7 @@
+{
+  "key": "owl_protocol-get-network",
+  "name": "Get Network",
+  "description": "Get network details by the ID. [See the documentation](https://docs-api.owlprotocol.xyz/reference/network-get)",
+  "type": "action",
+  "version": "0.0.2"
+}

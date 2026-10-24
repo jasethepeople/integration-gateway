@@ -1,0 +1,7 @@
+{
+  "key": "google_search_console-compare-search-analytics",
+  "name": "Compare Search Analytics",
+  "description": "Compare Google Search Console traffic between two date ranges for one property and ",
+  "type": "action",
+  "version": "0.0.1"
+}

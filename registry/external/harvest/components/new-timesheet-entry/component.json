@@ -1,0 +1,7 @@
+{
+  "key": "harvest-new-timesheet-entry",
+  "name": "New Timesheet Entry",
+  "description": "Emit new notifications when a new timesheet entry is created",
+  "type": "source",
+  "version": "0.0.5"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "formaloo-list-form-slug-options",
+  "name": "List Form Slug Options",
+  "description": "Retrieves available options for the Form Slug field.",
+  "type": "action",
+  "version": "0.0.1"
+}

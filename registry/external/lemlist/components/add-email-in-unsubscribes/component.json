@@ -1,0 +1,7 @@
+{
+  "key": "lemlist-add-email-in-unsubscribes",
+  "name": "Add Email In Unsubscribes",
+  "description": "This action adds a lead in the unsubscribed list. [See the docs here](https://developer.lemlist.com/#add-an-email-address-in-the-unsubscribes)",
+  "type": "action",
+  "version": "0.0.2"
+}

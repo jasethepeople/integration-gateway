@@ -1,0 +1,7 @@
+{
+  "key": "mux-get-asset",
+  "name": "Get Asset",
+  "description": "Retrieves an asset. [See the documentation](https://docs.mux.com/api-reference#video/operation/get-asset)",
+  "type": "action",
+  "version": "0.0.3"
+}

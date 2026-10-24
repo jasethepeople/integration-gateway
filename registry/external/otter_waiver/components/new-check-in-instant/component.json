@@ -1,0 +1,7 @@
+{
+  "key": "otter_waiver-new-check-in-instant",
+  "name": "New Check-In (Instant)",
+  "description": "Emit new event when a participant checks into an event.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pipedrive-add-labels",
+  "name": "Add Labels",
+  "description": "Adds labels to a lead, person, deal, or organization in Pipedrive. [See the documentation](https://developers.pipedrive.com/docs/api/v1/Leads#updateLead)",
+  "type": "action",
+  "version": "0.0.5"
+}

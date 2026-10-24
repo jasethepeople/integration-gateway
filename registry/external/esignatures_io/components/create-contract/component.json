@@ -1,0 +1,7 @@
+{
+  "key": "esignatures_io-create-contract",
+  "name": "Create Contract",
+  "description": "Creates a contract and sends the links (via email or SMS) to the signers to collect their signatures. [See docs here](https://esignatures.io/docs/api#contracts)",
+  "type": "action",
+  "version": "0.0.3"
+}

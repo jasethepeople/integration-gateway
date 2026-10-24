@@ -1,0 +1,40 @@
+{
+  "app": "plecto",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "dataSource": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "member": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "externalId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "date": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customFields": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "password": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "plecto-create-registration",
+    "plecto-list-data-source-options",
+    "plecto-list-member-options"
+  ]
+}

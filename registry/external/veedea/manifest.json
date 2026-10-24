@@ -1,0 +1,28 @@
+{
+  "app": "veedea",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "veedea-list-campaign-id-options",
+    "veedea-list-campaigns",
+    "veedea-list-leads",
+    "veedea-list-product-purchases",
+    "veedea-new-campaign-created",
+    "veedea-new-lead-created",
+    "veedea-new-product-purchase-created"
+  ]
+}

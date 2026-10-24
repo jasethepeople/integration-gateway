@@ -1,0 +1,29 @@
+{
+  "app": "google_meet",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "timeZone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "google_meet-cancel-meeting",
+    "google_meet-get-meeting",
+    "google_meet-list-calendars",
+    "google_meet-list-color-id-options",
+    "google_meet-list-meetings",
+    "google_meet-schedule-meeting",
+    "google_meet-update-meeting"
+  ],
+  "npmImports": [
+    "@googleapis/calendar",
+    "moment-timezone",
+    "uuid"
+  ]
+}

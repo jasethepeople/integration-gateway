@@ -1,0 +1,7 @@
+{
+  "key": "mapulus-new-map-added",
+  "name": "New Map Added",
+  "description": "Emit new event when a new map is added.",
+  "type": "source",
+  "version": "0.0.2"
+}

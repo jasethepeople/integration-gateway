@@ -1,0 +1,7 @@
+{
+  "key": "fullstory-native-mobile-crash",
+  "name": "New Native Mobile Crash Event",
+  "description": "Emit new events when native mobile crash events occur. [See the docs here](https://developer.fullstory.com/native-mobile-crash)",
+  "type": "source",
+  "version": "0.0.1"
+}

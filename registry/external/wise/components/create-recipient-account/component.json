@@ -1,0 +1,7 @@
+{
+  "key": "wise-create-recipient-account",
+  "name": "Create Recipient Account",
+  "description": "Get a specific recipient account. [See docs here](https://api-docs.wise.com/api-reference/balance#get)",
+  "type": "action",
+  "version": "0.0.2"
+}

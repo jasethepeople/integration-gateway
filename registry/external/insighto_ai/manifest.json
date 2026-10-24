@@ -1,0 +1,40 @@
+{
+  "app": "insighto_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "assistantId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "widgetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orgId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dataSourceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dataSourceType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "insighto_ai-add-text-blob",
+    "insighto_ai-create-contact",
+    "insighto_ai-list-assistant-id-options",
+    "insighto_ai-list-data-source-id-options",
+    "insighto_ai-list-org-id-options",
+    "insighto_ai-list-widget-id-options",
+    "insighto_ai-new-contact"
+  ]
+}

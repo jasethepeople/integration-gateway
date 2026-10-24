@@ -1,0 +1,7 @@
+{
+  "key": "rentcast-get-market-statistics",
+  "name": "Get Market Statistics",
+  "description": "Get aggregate rental statistics and listing trends for a single US zip code. [See the documentation](https://developers.rentcast.io/reference/market-statistics)",
+  "type": "action",
+  "version": "0.0.2"
+}

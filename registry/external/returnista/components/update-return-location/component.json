@@ -1,0 +1,7 @@
+{
+  "key": "returnista-update-return-location",
+  "name": "Update Return Location",
+  "description": "Updates an existing return location for an account.",
+  "type": "action",
+  "version": "0.0.3"
+}

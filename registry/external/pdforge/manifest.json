@@ -1,0 +1,36 @@
+{
+  "app": "pdforge",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "s3bucket": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "s3key": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fileName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "webhook": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pdforge-generate-pdf-from-html",
+    "pdforge-generate-pdf-from-template"
+  ],
+  "npmImports": [
+    "fs",
+    "stream",
+    "util"
+  ]
+}

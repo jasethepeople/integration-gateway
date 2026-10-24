@@ -1,0 +1,7 @@
+{
+  "key": "retool-trigger-workflow",
+  "name": "Trigger Workflow",
+  "description": "Trigger a workflow. [See the documentation](https://docs.retool.com/workflows/guides/webhooks#send-a-webhook-event).",
+  "type": "action",
+  "version": "0.0.1"
+}

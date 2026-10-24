@@ -1,0 +1,32 @@
+{
+  "app": "snatchbot",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "messageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "bot_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "app_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "app_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "snatchbot-get-messages",
+    "snatchbot-post-message",
+    "snatchbot-new-message-sent"
+  ]
+}

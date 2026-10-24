@@ -1,0 +1,7 @@
+{
+  "key": "fireflies-set-user-role",
+  "name": "Set User Role",
+  "description": "Promote a team member to admin or demote an admin to a regular user. The team must always retain at least one admin — attempting to demote the last remaining admin fails with an `admin_must_exist` error. [See the documentation](https://docs.fireflies.ai/graphql-api/mutation/set-user-role)",
+  "type": "action",
+  "version": "0.0.2"
+}

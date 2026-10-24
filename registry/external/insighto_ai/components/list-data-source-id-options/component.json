@@ -1,0 +1,7 @@
+{
+  "key": "insighto_ai-list-data-source-id-options",
+  "name": "List Data Source ID Options",
+  "description": "Retrieves available options for the Data Source ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

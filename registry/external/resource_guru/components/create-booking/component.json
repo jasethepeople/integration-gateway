@@ -1,0 +1,7 @@
+{
+  "key": "resource_guru-create-booking",
+  "name": "Create Booking",
+  "description": "Create a new booking for an account. [See the documentation](https://resourceguruapp.com/docs/api#tag/booking/paths/~1v1~1%7Baccount%7D~1bookings/post)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "bingx-trade-oneclick-close-all-positions",
+  "name": "BingX Trade One Click Close All Positions",
+  "description": "One-Click Close All Positions [See the documentation](https://bingx-api.github.io/docs/#/swapV2/trade-api.html#One-Click%20Close%20All%20Positions).",
+  "type": "action",
+  "version": "0.0.6"
+}

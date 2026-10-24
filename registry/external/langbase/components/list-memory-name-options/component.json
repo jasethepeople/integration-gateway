@@ -1,0 +1,7 @@
+{
+  "key": "langbase-list-memory-name-options",
+  "name": "List Memory Name Options",
+  "description": "Retrieves available options for the Memory Name field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,23 @@
+{
+  "app": "pitchlane",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pitchlane-create-campaign-video",
+    "pitchlane-get-campaign-schemas",
+    "pitchlane-list-campaigns",
+    "pitchlane-new-video-created",
+    "pitchlane-new-video-first-viewed",
+    "pitchlane-new-video-rendered"
+  ]
+}

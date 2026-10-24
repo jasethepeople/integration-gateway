@@ -1,0 +1,7 @@
+{
+  "key": "ditlead-list-campaigns",
+  "name": "List Campaigns",
+  "description": "List campaigns in Ditlead. [See the documentation](https://ditlead.com/developer/api#tag/Campaign/paths/~1v1~1campaign/get)",
+  "type": "action",
+  "version": "0.0.2"
+}

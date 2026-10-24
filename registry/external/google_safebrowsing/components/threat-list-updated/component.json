@@ -1,0 +1,7 @@
+{
+  "key": "google_safebrowsing-threat-list-updated",
+  "name": "New Threat List Updated",
+  "description": "Emit new event when a threat list is updated. [See the documentation](https://developers.google.com/safe-browsing/v4/reference/rest/v4/threatListUpdates/fetch#ListUpdateRequest)",
+  "type": "source",
+  "version": "0.0.1"
+}

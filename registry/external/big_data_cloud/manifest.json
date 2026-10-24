@@ -1,0 +1,24 @@
+{
+  "app": "big_data_cloud",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "latitude": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "longitude": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "big_data_cloud-get-time-zone-by-location",
+    "big_data_cloud-perform-ip-geolocation",
+    "big_data_cloud-reverse-geocode"
+  ]
+}

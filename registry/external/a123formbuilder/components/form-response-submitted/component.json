@@ -1,0 +1,7 @@
+{
+  "key": "a123formbuilder-form-response-submitted",
+  "name": "Form Response Submitted",
+  "description": "Emit new event for every submitted form response",
+  "type": "source",
+  "version": "0.0.2"
+}

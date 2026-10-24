@@ -1,0 +1,7 @@
+{
+  "key": "wistia-new-viewing-session",
+  "name": "New Viewing Session",
+  "description": "Emit new event for each new viewing session.",
+  "type": "source",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "dhl-get-tracking",
+  "name": "Get Tracking Information",
+  "description": "Get tracking information for shipments. [See the documentation](https://developer.dhl.com/api-reference/shipment-tracking#operations-default-getTrackingShipment)",
+  "type": "action",
+  "version": "0.0.3"
+}

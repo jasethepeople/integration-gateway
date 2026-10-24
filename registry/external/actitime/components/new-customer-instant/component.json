@@ -1,0 +1,7 @@
+{
+  "key": "actitime-new-customer-instant",
+  "name": "New Customer (Instant)",
+  "description": "Emit new event when a new customer is created. [See the documentation](https://www.actitime.com/api-documentation/rest-hooks).",
+  "type": "source",
+  "version": "0.0.1"
+}

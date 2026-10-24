@@ -1,0 +1,7 @@
+{
+  "key": "google_ads-create-or-update-campaign-budget",
+  "name": "Create or Update Campaign Budget",
+  "description": "Whether to create, update, or remove a campaign budget.",
+  "type": "action",
+  "version": "0.0.5"
+}

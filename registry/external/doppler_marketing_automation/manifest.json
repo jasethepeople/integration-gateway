@@ -1,0 +1,22 @@
+{
+  "app": "doppler_marketing_automation",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "account_name": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "doppler_marketing_automation-add-update-subscriber",
+    "doppler_marketing_automation-get-subscriber",
+    "doppler_marketing_automation-list-list-id-options",
+    "doppler_marketing_automation-remove-subscriber",
+    "doppler_marketing_automation-unsubscribe-email"
+  ]
+}

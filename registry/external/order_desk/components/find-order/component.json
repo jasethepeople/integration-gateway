@@ -1,0 +1,7 @@
+{
+  "key": "order_desk-find-order",
+  "name": "Find Order",
+  "description": "Find Order [See the documentation](https://apidocs.orderdesk.com/#get-a-single-order).",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,73 @@
+{
+  "app": "pipedream",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "componentKey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subscriptionSource": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subscriptionCategory": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "listenerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eventName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "appId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "similarityThreshold": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "debug": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "hasComponents": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "hasActions": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "hasTriggers": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "q": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pipedream-create-subscription",
+    "pipedream-delete-subscription",
+    "pipedream-generate-component-code",
+    "pipedream-get-app",
+    "pipedream-get-component-from-global-registry",
+    "pipedream-get-component",
+    "pipedream-list-apps",
+    "pipedream-search-for-registry-components"
+  ]
+}

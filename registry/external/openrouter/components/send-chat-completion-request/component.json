@@ -1,0 +1,7 @@
+{
+  "key": "openrouter-send-chat-completion-request",
+  "name": "Send Chat Completion Request",
+  "description": "Send a chat completion request to a selected model. [See the documentation](https://openrouter.ai/docs/api-reference/chat-completion)",
+  "type": "action",
+  "version": "0.0.3"
+}

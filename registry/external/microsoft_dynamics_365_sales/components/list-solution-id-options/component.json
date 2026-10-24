@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_dynamics_365_sales-list-solution-id-options",
+  "name": "List Solution ID Options",
+  "description": "Retrieves available options for the Solution ID field.",
+  "type": "action",
+  "version": "0.0.2"
+}

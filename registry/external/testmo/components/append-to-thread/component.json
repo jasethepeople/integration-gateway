@@ -1,0 +1,7 @@
+{
+  "key": "testmo-append-to-thread",
+  "name": "Append to Thread in Automation Run",
+  "description": "Appends test artifacts, fields or test results to an existing thread in an automation run. [See the documentation](https://docs.testmo.com/api/reference/automation-runs#post-automation-runs-threads-automation_run_thread_id-append)",
+  "type": "action",
+  "version": "0.0.2"
+}

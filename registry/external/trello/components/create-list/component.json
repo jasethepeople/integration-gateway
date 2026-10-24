@@ -1,0 +1,7 @@
+{
+  "key": "trello-create-list",
+  "name": "Create a List",
+  "description": "Creates a new list. [See the documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-lists/#api-lists-post).",
+  "type": "action",
+  "version": "0.2.7"
+}

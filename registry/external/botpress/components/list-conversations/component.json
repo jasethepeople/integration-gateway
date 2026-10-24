@@ -1,0 +1,7 @@
+{
+  "key": "botpress-list-conversations",
+  "name": "List Conversations",
+  "description": "List conversations. [See the documentation](https://botpress.com/docs/api-documentation/#list-conversations)",
+  "type": "action",
+  "version": "0.0.2"
+}

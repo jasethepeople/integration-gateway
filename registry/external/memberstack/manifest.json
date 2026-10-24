@@ -1,0 +1,32 @@
+{
+  "app": "memberstack",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "memberId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customFields": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "metaData": {
+      "kind": "propDefinition",
+      "type": "object"
+    }
+  },
+  "categories": [],
+  "components": [
+    "memberstack-create-member",
+    "memberstack-delete-member",
+    "memberstack-find-member",
+    "memberstack-list-members",
+    "memberstack-update-member",
+    "memberstack-new-member-created",
+    "memberstack-new-webhook-event-received"
+  ],
+  "npmImports": [
+    "@memberstack/admin",
+    "lodash.pickby"
+  ]
+}

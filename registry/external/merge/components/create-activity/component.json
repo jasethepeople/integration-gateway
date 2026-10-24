@@ -1,0 +1,7 @@
+{
+  "key": "merge-create-activity",
+  "name": "Create Activity",
+  "description": "Creates an Activity object with the given values. [See the documentation](https://docs.merge.dev/ats/activities/#activities_create)",
+  "type": "action",
+  "version": "0.0.2"
+}

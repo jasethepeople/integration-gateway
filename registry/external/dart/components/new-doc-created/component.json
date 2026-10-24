@@ -1,0 +1,7 @@
+{
+  "key": "dart-new-doc-created",
+  "name": "New Document Created",
+  "description": "Emit new event when a new document is created in Dart.",
+  "type": "source",
+  "version": "0.0.3"
+}

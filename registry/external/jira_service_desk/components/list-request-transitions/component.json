@@ -1,0 +1,7 @@
+{
+  "key": "jira_service_desk-list-request-transitions",
+  "name": "List Request Transitions",
+  "description": "Lists the available workflow transitions for a Jira Service Desk request, returning each transition's `id` and `name`.",
+  "type": "action",
+  "version": "1.1.6"
+}

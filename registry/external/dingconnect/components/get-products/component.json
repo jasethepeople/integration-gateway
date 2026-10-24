@@ -1,0 +1,7 @@
+{
+  "key": "dingconnect-get-products",
+  "name": "Get Products",
+  "description": "Retrieves a list of products from DingConnect. [See the documentation](https://www.dingconnect.com/api#operation/getproducts)",
+  "type": "action",
+  "version": "0.0.2"
+}

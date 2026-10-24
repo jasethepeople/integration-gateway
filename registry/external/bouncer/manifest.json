@@ -1,0 +1,15 @@
+{
+  "app": "bouncer",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "bouncer-verify-email-batch",
+    "bouncer-verify-email"
+  ]
+}

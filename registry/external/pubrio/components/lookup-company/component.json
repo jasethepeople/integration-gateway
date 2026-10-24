@@ -1,0 +1,7 @@
+{
+  "key": "pubrio-lookup-company",
+  "name": "Lookup Company",
+  "description": "Look up detailed company information by domain or LinkedIn URL. [See the documentation](https://docs.pubrio.com/en/api-reference/endpoint/companies/lookup)",
+  "type": "action",
+  "version": "0.0.1"
+}

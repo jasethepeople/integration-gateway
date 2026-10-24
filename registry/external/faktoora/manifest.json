@@ -1,0 +1,26 @@
+{
+  "app": "faktoora",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "invoiceNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "environment": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "faktoora-create-invoice",
+    "faktoora-get-invoice"
+  ],
+  "npmImports": [
+    "fs"
+  ]
+}

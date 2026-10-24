@@ -1,0 +1,7 @@
+{
+  "key": "spondyr-list-transaction-type-options",
+  "name": "List Transaction Type Options",
+  "description": "Retrieves available options for the Transaction Type field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "redmine-create-issue",
+  "name": "Create Issue",
+  "description": "Creates a new issue in Redmine. [See the documentation](https://www.redmine.org/projects/redmine/wiki/rest_issues#creating-an-issue)",
+  "type": "action",
+  "version": "0.0.2"
+}

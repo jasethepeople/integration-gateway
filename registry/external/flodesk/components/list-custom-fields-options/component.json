@@ -1,0 +1,7 @@
+{
+  "key": "flodesk-list-custom-fields-options",
+  "name": "List Custom Fields Options",
+  "description": "Retrieves available options for the Custom Fields field.",
+  "type": "action",
+  "version": "0.0.1"
+}

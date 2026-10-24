@@ -1,0 +1,7 @@
+{
+  "key": "pipedrive-updated-person-instant",
+  "name": "Person Updated (Instant)",
+  "description": "Emit new event when a person is updated.",
+  "type": "source",
+  "version": "0.1.14"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "mastodon-bookmark-status",
+  "name": "Bookmark Status",
+  "description": "Privately bookmark a status. [See the docs here](https://docs.joinmastodon.org/methods/statuses/#bookmark)",
+  "type": "action",
+  "version": "0.0.3"
+}

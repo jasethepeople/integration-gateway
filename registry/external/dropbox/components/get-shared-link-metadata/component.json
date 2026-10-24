@@ -1,0 +1,7 @@
+{
+  "key": "dropbox-get-shared-link-metadata",
+  "name": "Get Shared Link Metadata",
+  "description": "Retrieves the shared link metadata for a given shared link. [See the documentation](https://www.dropbox.com/developers/documentation/http/documentation#sharing-get_shared_link_metadata)",
+  "type": "action",
+  "version": "0.0.3"
+}

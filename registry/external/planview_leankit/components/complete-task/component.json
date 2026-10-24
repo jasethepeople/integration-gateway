@@ -1,0 +1,7 @@
+{
+  "key": "planview_leankit-complete-task",
+  "name": "Complete Task",
+  "description": "Move a task to `completed` lane. [See the docs here](https://success.planview.com/Planview_AgilePlace/AgilePlace_API/01_v2/card/move)",
+  "type": "action",
+  "version": "0.0.3"
+}

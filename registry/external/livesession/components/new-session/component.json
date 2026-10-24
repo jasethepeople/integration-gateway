@@ -1,0 +1,7 @@
+{
+  "key": "livesession-new-session",
+  "name": "New Session",
+  "description": "Emit new event when a new session is created in LiveSession. [See the documentation](https://developers.livesession.io/rest-api/reference#list-sessions)",
+  "type": "source",
+  "version": "0.0.1"
+}

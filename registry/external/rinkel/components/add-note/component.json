@@ -1,0 +1,7 @@
+{
+  "key": "rinkel-add-note",
+  "name": "Add Note",
+  "description": "Add a note to a call. [See the documentation](https://developers.rinkel.com/docs/api/add-a-note-to-a-call-detail-record)",
+  "type": "action",
+  "version": "0.0.2"
+}

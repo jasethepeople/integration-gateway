@@ -1,0 +1,7 @@
+{
+  "key": "survey_monkey-get-my-info",
+  "name": "Get My Info",
+  "description": "Retrieve your account details. [See the docs here](https://api.surveymonkey.net/v3/docs?javascript#api-endpoints-get-users-me)",
+  "type": "action",
+  "version": "0.0.4"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "paazl-list-pickup-location-code-options",
+  "name": "List Pickup Location Code Options",
+  "description": "Retrieves available options for the Pickup Location Code field.",
+  "type": "action",
+  "version": "0.0.1"
+}

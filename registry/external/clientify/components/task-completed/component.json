@@ -1,0 +1,7 @@
+{
+  "key": "clientify-task-completed",
+  "name": "New Task Completed",
+  "description": "Emit new event when a task is completed.",
+  "type": "source",
+  "version": "0.0.1"
+}

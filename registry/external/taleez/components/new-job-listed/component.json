@@ -1,0 +1,7 @@
+{
+  "key": "taleez-new-job-listed",
+  "name": "New Job Listing Created",
+  "description": "Emit new event when a job listing is created in Taleez. [See the documentation](https://api.taleez.com/swagger-ui/index.html#/jobs/list_3)",
+  "type": "source",
+  "version": "0.0.1"
+}

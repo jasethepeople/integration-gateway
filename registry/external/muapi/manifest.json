@@ -1,0 +1,24 @@
+{
+  "app": "muapi",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "prompt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "aspectRatio": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "muapi-generate-image",
+    "muapi-generate-video",
+    "muapi-get-prediction"
+  ]
+}

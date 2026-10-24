@@ -1,0 +1,7 @@
+{
+  "key": "wealthbox-new-event-created",
+  "name": "New Event Created",
+  "description": "Emit new event for each event created. [See the documentation](http://dev.wealthbox.com/#events-collection-get)",
+  "type": "source",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "xero_accounting_api-get-contact",
+  "name": "Get Contact",
+  "description": "Gets details of a contact.",
+  "type": "action",
+  "version": "0.1.4"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "awardco-pull-social-feed-data",
+  "name": "Pull Social Feed Data",
+  "description": "Retrieve social feed data from Awardco. [See the documentation](https://api.awardco.com/api#tag/feed/POST/social-feed).",
+  "type": "action",
+  "version": "0.0.1"
+}

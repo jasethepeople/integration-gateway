@@ -1,0 +1,7 @@
+{
+  "key": "mautic-create-contact",
+  "name": "Create Contact",
+  "description": "Creates a new contact. [See docs](https://developer.mautic.org/#create-contact)",
+  "type": "action",
+  "version": "0.2.1"
+}

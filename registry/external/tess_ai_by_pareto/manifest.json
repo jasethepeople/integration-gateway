@@ -1,0 +1,20 @@
+{
+  "app": "tess_ai_by_pareto",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "tess_ai_by_pareto-execute-agent",
+    "tess_ai_by_pareto-get-execution-response",
+    "tess_ai_by_pareto-search-ai-agents"
+  ]
+}

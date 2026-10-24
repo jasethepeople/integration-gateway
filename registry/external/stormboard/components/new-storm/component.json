@@ -1,0 +1,7 @@
+{
+  "key": "stormboard-new-storm",
+  "name": "New Storm",
+  "description": "Creates a new storm. [See the docs here](https://api.stormboard.com/docs)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,30 @@
+{
+  "app": "https_airbyte_com",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workspaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "includeDeleted": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "https_airbyte_com-create-workspace",
+    "https_airbyte_com-delete-workspace",
+    "https_airbyte_com-list-workspace-id-options",
+    "https_airbyte_com-list-workspaces",
+    "https_airbyte_com-update-workspace"
+  ]
+}

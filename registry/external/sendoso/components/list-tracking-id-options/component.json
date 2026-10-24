@@ -1,0 +1,7 @@
+{
+  "key": "sendoso-list-tracking-id-options",
+  "name": "List Tracking Id Options",
+  "description": "Retrieves available options for the Tracking Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

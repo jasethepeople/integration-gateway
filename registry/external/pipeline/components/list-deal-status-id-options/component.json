@@ -1,0 +1,7 @@
+{
+  "key": "pipeline-list-deal-status-id-options",
+  "name": "List Deal Status ID Options",
+  "description": "Retrieves available options for the Deal Status ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "woocommerce-list-product-id-options",
+  "name": "List Product ID Options",
+  "description": "Retrieves available options for the Product ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

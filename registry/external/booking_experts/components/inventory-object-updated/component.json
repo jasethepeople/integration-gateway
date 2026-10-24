@@ -1,0 +1,7 @@
+{
+  "key": "booking_experts-inventory-object-updated",
+  "name": "Inventory Object Updated",
+  "description": "Emit new event when an inventory object is updated. [See the documentation](https://developers.bookingexperts.com/reference/administration-inventoryobjects-index)",
+  "type": "source",
+  "version": "0.0.9"
+}

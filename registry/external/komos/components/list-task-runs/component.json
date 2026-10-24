@@ -1,0 +1,7 @@
+{
+  "key": "komos-list-task-runs",
+  "name": "List Task Runs",
+  "description": "Return the run history for a Komos task (up to 50 runs). [See the documentation](https://docs.komos.ai/api-reference/task-runs/list)",
+  "type": "action",
+  "version": "0.0.1"
+}

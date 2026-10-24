@@ -1,0 +1,7 @@
+{
+  "key": "clevertap-create-or-update-user",
+  "name": "Create Or Update User",
+  "description": "Create or update an user. [See the documentation](https://developer.clevertap.com/docs/upload-user-profiles-api)",
+  "type": "action",
+  "version": "0.0.3"
+}

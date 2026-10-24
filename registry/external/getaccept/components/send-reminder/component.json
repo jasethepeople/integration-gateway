@@ -1,0 +1,7 @@
+{
+  "key": "getaccept-send-reminder",
+  "name": "Send Reminder",
+  "description": "Send a manual reminder for a document. [See the documentation](https://app.getaccept.com/api/#sendreminder).",
+  "type": "action",
+  "version": "0.0.2"
+}

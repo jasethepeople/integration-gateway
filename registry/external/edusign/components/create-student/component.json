@@ -1,0 +1,7 @@
+{
+  "key": "edusign-create-student",
+  "name": "Create Student",
+  "description": "Create a new student. [See the documentation](https://developers.edusign.com/reference/postv1student)",
+  "type": "action",
+  "version": "0.0.1"
+}

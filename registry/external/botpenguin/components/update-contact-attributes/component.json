@@ -1,0 +1,7 @@
+{
+  "key": "botpenguin-update-contact-attributes",
+  "name": "Update Contact Attributes",
+  "description": "Updates custom attributes for a specific contact in your BotPenguin account.",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "keboola-get-table-detail",
+  "name": "Get Table Detail",
+  "description": "Get detailed information about a specific table. [See the documentation](https://keboola.docs.apiary.io/#reference/tables/manage-tables/table-detail)",
+  "type": "action",
+  "version": "0.0.2"
+}

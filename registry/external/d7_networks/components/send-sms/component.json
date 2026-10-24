@@ -1,0 +1,7 @@
+{
+  "key": "d7_networks-send-sms",
+  "name": "Send SMS",
+  "description": "Sending sms via D7 networks! [See the docs](https://d7networks.com/docs/Messages/Send_Message/)",
+  "type": "action",
+  "version": "0.0.2"
+}

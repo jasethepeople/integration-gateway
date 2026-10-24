@@ -1,0 +1,7 @@
+{
+  "key": "claap-get-recording-transcript",
+  "name": "Get Recording Transcript",
+  "description": "Get the transcript for a specific recording in Claap. [See the documentation](https://docs.claap.io/api-reference/endpoint/get_recording_transcript).",
+  "type": "action",
+  "version": "0.0.1"
+}

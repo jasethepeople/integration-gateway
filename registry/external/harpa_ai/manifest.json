@@ -1,0 +1,28 @@
+{
+  "app": "harpa_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "node": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timeout": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "resultsWebhook": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "harpa_ai-run-ai-command",
+    "harpa_ai-scrape-web-page",
+    "harpa_ai-search-the-web"
+  ]
+}

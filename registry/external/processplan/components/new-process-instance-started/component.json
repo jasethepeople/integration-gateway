@@ -1,0 +1,7 @@
+{
+  "key": "processplan-new-process-instance-started",
+  "name": "New Process Instance Started",
+  "description": "Emit new event each time a process instance is started. [See the documentation](https://techdocs.processplan.com/)",
+  "type": "source",
+  "version": "0.0.1"
+}

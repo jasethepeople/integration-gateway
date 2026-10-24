@@ -1,0 +1,91 @@
+{
+  "app": "resource_guru",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "billable": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "bookerId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "bookingId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "clashResolution": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "clientId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "details": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "duration": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "endDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "resourceIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "rrule": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tentative": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "timezone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "account_url_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "resource_guru-create-booking",
+    "resource_guru-delete-booking",
+    "resource_guru-list-booker-id-options",
+    "resource_guru-list-booking-id-options",
+    "resource_guru-list-client-id-options",
+    "resource_guru-list-project-id-options",
+    "resource_guru-list-resource-ids-options",
+    "resource_guru-update-booking",
+    "resource_guru-new-booking-event-instant",
+    "resource_guru-new-project-event-instant",
+    "resource_guru-new-resource-event-instant"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

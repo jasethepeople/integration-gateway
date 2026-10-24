@@ -1,0 +1,7 @@
+{
+  "key": "big_data_cloud-reverse-geocode",
+  "name": "Reverse Geocode",
+  "description": "Convert a user's coordinates to a human-readable address. [See the documentation](https://www.bigdatacloud.com/docs/api/reverse-geocode-to-city-api)",
+  "type": "action",
+  "version": "0.0.2"
+}

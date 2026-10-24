@@ -1,0 +1,31 @@
+{
+  "app": "livekit",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "room": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "identity": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "project_url": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "livekit-create-ingress-from-url",
+    "livekit-create-room",
+    "livekit-delete-room",
+    "livekit-generate-access-token",
+    "livekit-list-rooms",
+    "livekit-remove-participants",
+    "livekit-new-room-event-instant"
+  ],
+  "npmImports": [
+    "livekit-server-sdk"
+  ]
+}

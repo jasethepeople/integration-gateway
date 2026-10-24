@@ -1,0 +1,7 @@
+{
+  "key": "shift4-create-token",
+  "name": "Create Token",
+  "description": "Creates a new token object. [See the documentation](https://dev.shift4.com/docs/api#token-create)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "enedis-get-contracts",
+  "name": "Get Contracts",
+  "description": "Returns the contract informations of a client. [See the docs here](https://datahub-enedis.fr/data-connect/documentation/customers-v5-contrats/)",
+  "type": "action",
+  "version": "0.0.3"
+}

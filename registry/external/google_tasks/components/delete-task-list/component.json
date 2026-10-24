@@ -1,0 +1,7 @@
+{
+  "key": "google_tasks-delete-task-list",
+  "name": "Delete Task List",
+  "description": "Deletes the authenticated user's specified task list. [See the docs here](https://developers.google.com/tasks/reference/rest/v1/tasklists/delete)",
+  "type": "action",
+  "version": "0.0.4"
+}

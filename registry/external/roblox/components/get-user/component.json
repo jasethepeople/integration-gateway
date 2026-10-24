@@ -1,0 +1,7 @@
+{
+  "key": "roblox-get-user",
+  "name": "Get User",
+  "description": "Get information about a Roblox user by ID. [See the documentation](https://create.roblox.com/docs/cloud/reference/User#Cloud_GetUser)",
+  "type": "action",
+  "version": "0.0.1"
+}

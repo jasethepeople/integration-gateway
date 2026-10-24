@@ -1,0 +1,81 @@
+{
+  "app": "xquik",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "queryType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tweetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sourceUsername": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "targetUsername": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tweetInput": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cursor": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sinceTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "untilTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "includeReplies": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "includeParentTweet": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "woeid": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "count": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "xquik-check-follower",
+    "xquik-download-tweet-media",
+    "xquik-get-trends",
+    "xquik-get-tweet",
+    "xquik-get-user-tweets",
+    "xquik-get-user",
+    "xquik-search-tweets",
+    "xquik-search-users"
+  ]
+}

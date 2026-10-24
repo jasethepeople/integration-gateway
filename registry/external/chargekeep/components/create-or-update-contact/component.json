@@ -1,0 +1,7 @@
+{
+  "key": "chargekeep-create-or-update-contact",
+  "name": "Create or Update Contact",
+  "description": "Create or update a contact in Chargekeep. [See the documentation](https://crm.chargekeep.com/app/api/swagger)",
+  "type": "action",
+  "version": "0.0.1"
+}

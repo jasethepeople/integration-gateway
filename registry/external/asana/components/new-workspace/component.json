@@ -1,0 +1,7 @@
+{
+  "key": "asana-new-workspace",
+  "name": "New Workspace Added",
+  "description": "Emit new event each time you add a new workspace/organization.",
+  "type": "source",
+  "version": "0.1.16"
+}

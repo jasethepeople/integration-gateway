@@ -1,0 +1,7 @@
+{
+  "key": "codeqr-create-qrcode",
+  "name": "Create a QR Code",
+  "description": "Creates a new QR Code in CodeQR using the QR Codes API. [See the documentation](https://codeqr.mintlify.app/api-reference/endpoint/create-a-qrcode)",
+  "type": "action",
+  "version": "0.0.3"
+}

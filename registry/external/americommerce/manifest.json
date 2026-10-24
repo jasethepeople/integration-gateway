@@ -1,0 +1,70 @@
+{
+  "app": "americommerce",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "adcodeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerTypeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "storeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderStatusId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderAddressId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shippingMethodId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subscriptionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emailTemplateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "americommerce-change-order-status",
+    "americommerce-create-update-order",
+    "americommerce-list-adcode-id-options",
+    "americommerce-list-customer-type-id-options",
+    "americommerce-list-email-template-id-options",
+    "americommerce-list-order-address-id-options",
+    "americommerce-list-order-status-id-options",
+    "americommerce-list-store-id-options",
+    "americommerce-list-subscription-id-options",
+    "americommerce-update-customer",
+    "americommerce-new-customer-instant",
+    "americommerce-new-product-instant",
+    "americommerce-new-valid-order-instant"
+  ]
+}

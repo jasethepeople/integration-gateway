@@ -1,0 +1,52 @@
+{
+  "app": "timebuzzer",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "activityId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tileIds": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "startDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startUtcOffset": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endUtcOffset": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "note": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "timebuzzer-create-activity",
+    "timebuzzer-list-activities",
+    "timebuzzer-list-activity-id-options",
+    "timebuzzer-list-tile-ids-options",
+    "timebuzzer-list-user-id-options",
+    "timebuzzer-update-activity",
+    "timebuzzer-new-activity-instant"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "kizeo_forms-new-form",
+  "name": "New Form Created",
+  "description": "Emit new event when a new form is created on Kizeo Forms. [See the documentation](https://www.kizeoforms.com/doc/swagger/v3/#/forms/get_forms)",
+  "type": "source",
+  "version": "0.0.1"
+}

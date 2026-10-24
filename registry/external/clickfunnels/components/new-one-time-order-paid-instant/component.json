@@ -1,0 +1,7 @@
+{
+  "key": "clickfunnels-new-one-time-order-paid-instant",
+  "name": "New One-Time Order Paid (Instant)",
+  "description": "Emit new event when a one-time order gets paid by a customer.",
+  "type": "source",
+  "version": "0.0.1"
+}

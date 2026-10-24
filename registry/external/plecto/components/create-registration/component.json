@@ -1,0 +1,7 @@
+{
+  "key": "plecto-create-registration",
+  "name": "Create Registration",
+  "description": "Creates a new registration in Plecto. [See the documentation](https://docs.plecto.com/kb/guide/en/overview-of-plecto-api-endpoints-Qvm3c3ucy1/Steps/3879885,3896454)",
+  "type": "action",
+  "version": "0.0.2"
+}

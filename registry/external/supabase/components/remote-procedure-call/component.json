@@ -1,0 +1,7 @@
+{
+  "key": "supabase-remote-procedure-call",
+  "name": "Remote Procedure Call",
+  "description": "Call a Postgres function in a database. [See the docs here](https://supabase.com/docs/reference/javascript/rpc)",
+  "type": "action",
+  "version": "0.1.6"
+}

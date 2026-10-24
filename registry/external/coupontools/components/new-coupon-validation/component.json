@@ -1,0 +1,7 @@
+{
+  "key": "coupontools-new-coupon-validation",
+  "name": "New Coupon Validation",
+  "description": "Emit new event when a coupon has been validated. [See the documentation](https://docs.coupontools.com/api/coupon#list-sessions)",
+  "type": "source",
+  "version": "0.0.1"
+}

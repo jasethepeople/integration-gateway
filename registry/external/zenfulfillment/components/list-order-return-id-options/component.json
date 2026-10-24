@@ -1,0 +1,7 @@
+{
+  "key": "zenfulfillment-list-order-return-id-options",
+  "name": "List Order Return ID Options",
+  "description": "Retrieves available options for the Order Return ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

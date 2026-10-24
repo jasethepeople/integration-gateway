@@ -1,0 +1,7 @@
+{
+  "key": "dart-list-size-options",
+  "name": "List Size Options",
+  "description": "Retrieves available options for the Size field.",
+  "type": "action",
+  "version": "0.0.1"
+}

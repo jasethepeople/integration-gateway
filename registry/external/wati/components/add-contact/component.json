@@ -1,0 +1,7 @@
+{
+  "key": "wati-add-contact",
+  "name": "Add Contact",
+  "description": "Adds a new contact on the WATI platform. [See the documentation](https://docs.wati.io/reference/post_api-v1-addcontact-whatsappnumber)",
+  "type": "action",
+  "version": "0.0.2"
+}

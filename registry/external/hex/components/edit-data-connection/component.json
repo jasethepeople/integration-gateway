@@ -1,0 +1,7 @@
+{
+  "key": "hex-edit-data-connection",
+  "name": "Edit Data Connection",
+  "description": "Edit a specific data connection. [See the documentation](https://learn.hex.tech/docs/api/api-reference#operation/EditDataConnection)",
+  "type": "action",
+  "version": "0.0.1"
+}

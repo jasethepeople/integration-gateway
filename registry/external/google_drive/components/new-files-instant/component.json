@@ -1,0 +1,7 @@
+{
+  "key": "google_drive-new-files-instant",
+  "name": "New Files (Instant)",
+  "description": "Emit new event when a new file is added in your linked Google Drive",
+  "type": "source",
+  "version": "0.3.0"
+}

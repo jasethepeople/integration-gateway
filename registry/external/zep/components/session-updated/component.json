@@ -1,0 +1,7 @@
+{
+  "key": "zep-session-updated",
+  "name": "New Session Updated",
+  "description": "Emit new event when an existing session is updated. [See the documentation](https://help.getzep.com/api-reference/memory/list-sessions)",
+  "type": "source",
+  "version": "0.0.3"
+}

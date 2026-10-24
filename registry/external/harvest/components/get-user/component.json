@@ -1,0 +1,7 @@
+{
+  "key": "harvest-get-user",
+  "name": "Get User",
+  "description": "Retrieve a single user by ID. Use **List Users** to find a valid ID. To fetch the authenticated user, use **Get Me** instead. Example: call with userId set to a known user's ID to see their name, email, and role. [See the documentation](https://help.getharvest.com/api-v2/users-api/users/users/#retrieve-a-user).",
+  "type": "action",
+  "version": "0.0.1"
+}

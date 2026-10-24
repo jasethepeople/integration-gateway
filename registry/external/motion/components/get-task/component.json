@@ -1,0 +1,7 @@
+{
+  "key": "motion-get-task",
+  "name": "Retrieve Task",
+  "description": "Retrieve a specific task by Id. [See the documentation](https://docs.usemotion.com/docs/motion-rest-api/3e8c65ed58693-retrieve-a-task)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,27 @@
+{
+  "app": "geokeo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "q": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lat": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lng": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "geokeo-forward-geocoding",
+    "geokeo-reverse-geocoding"
+  ]
+}

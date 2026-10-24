@@ -1,0 +1,15 @@
+{
+  "app": "flash_by_velora_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "flash_by_velora_ai-add-feedback",
+    "flash_by_velora_ai-upload-transcript"
+  ]
+}

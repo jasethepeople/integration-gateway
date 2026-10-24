@@ -1,0 +1,7 @@
+{
+  "key": "brainbase_labs-list-voice-deployment-logs",
+  "name": "List Voice Deployment Logs",
+  "description": "List voice deployment logs for a worker with optional filtering and pagination. [See the documentation](https://docs.usebrainbase.com/api-reference/voice-deployment-logs/list-voice-deployment-logs-for-a-worker-with-optional-filtering-and-pagination)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "sheetdb-delete-rows",
+  "name": "Delete Rows",
+  "description": "Deletes the specified row(s) in a SheetDB sheet by matching a column name and value. [See the documentation](https://docs.sheetdb.io/sheetdb-api/delete#delete-with-single-query)",
+  "type": "action",
+  "version": "0.0.2"
+}

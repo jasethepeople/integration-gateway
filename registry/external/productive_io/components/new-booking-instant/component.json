@@ -1,0 +1,7 @@
+{
+  "key": "productive_io-new-booking-instant",
+  "name": "New Booking (Instant)",
+  "description": "Emit new event when a new booking is created. [See the documentation](https://developer.productive.io/webhooks.html#webhooks)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,34 @@
+{
+  "app": "stannp",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "region": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "stannp-create-campaign",
+    "stannp-create-recipient",
+    "stannp-get-campaign",
+    "stannp-list-group-id-options",
+    "stannp-new-campaign-created",
+    "stannp-new-recipient-created"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

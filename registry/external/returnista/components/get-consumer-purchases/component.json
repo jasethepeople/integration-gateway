@@ -1,0 +1,7 @@
+{
+  "key": "returnista-get-consumer-purchases",
+  "name": "Get Consumer Purchases",
+  "description": "Gets the purchase history for a consumer by their consumer ID.",
+  "type": "action",
+  "version": "0.0.3"
+}

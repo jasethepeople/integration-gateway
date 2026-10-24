@@ -1,0 +1,7 @@
+{
+  "key": "deel-list-contract-tasks",
+  "name": "List Contract Tasks",
+  "description": "List all tasks for a specific Deel IC contract. Returns task IDs, descriptions, amounts, statuses,",
+  "type": "action",
+  "version": "0.0.2"
+}

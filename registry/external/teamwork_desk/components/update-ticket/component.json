@@ -1,0 +1,7 @@
+{
+  "key": "teamwork_desk-update-ticket",
+  "name": "Update Ticket",
+  "description": "Update a specific ticket [See the documentation](https://apidocs.teamwork.com/docs/desk/4de711efd2f09-update-multiple-tickets)",
+  "type": "action",
+  "version": "0.0.3"
+}

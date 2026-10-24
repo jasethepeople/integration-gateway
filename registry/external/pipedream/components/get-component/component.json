@@ -1,0 +1,7 @@
+{
+  "key": "pipedream-get-component",
+  "name": "Get Component",
+  "description": "Get info for a published component. [See docs](https://pipedream.com/docs/api/rest/#get-a-component)",
+  "type": "action",
+  "version": "0.1.2"
+}

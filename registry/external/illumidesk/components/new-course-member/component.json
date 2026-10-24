@@ -1,0 +1,7 @@
+{
+  "key": "illumidesk-new-course-member",
+  "name": "New Course Member",
+  "description": "Emit new event when a new member is added to a course.",
+  "type": "source",
+  "version": "0.0.2"
+}

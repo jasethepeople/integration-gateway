@@ -1,0 +1,7 @@
+{
+  "key": "drata-create-control",
+  "name": "Create Control",
+  "description": "The name of the control.",
+  "type": "action",
+  "version": "0.0.4"
+}

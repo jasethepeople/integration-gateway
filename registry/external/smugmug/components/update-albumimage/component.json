@@ -1,0 +1,7 @@
+{
+  "key": "smugmug-update-albumimage",
+  "name": "Update Album Image",
+  "description": "Updates an album image. [See the docs here](https://api.smugmug.com/api/v2/doc/reference/album-image.html)",
+  "type": "action",
+  "version": "0.1.3"
+}

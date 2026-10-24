@@ -1,0 +1,7 @@
+{
+  "key": "swell-create-account",
+  "name": "Create Account",
+  "description": "Create a new customer account. [See the documentation](https://developers.swell.is/backend-api/accounts/create-an-account)",
+  "type": "action",
+  "version": "0.0.2"
+}

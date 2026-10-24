@@ -1,0 +1,24 @@
+{
+  "app": "documenterra",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "outputFileName": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "documenterra-create-page",
+    "documenterra-create-project-backup",
+    "documenterra-export-publication"
+  ]
+}

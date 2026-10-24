@@ -1,0 +1,7 @@
+{
+  "key": "taiga-create-task",
+  "name": "Create Task",
+  "description": "Create a new task in a Taiga project. [See the documentation](https://docs.taiga.io/api.html#tasks-create)",
+  "type": "action",
+  "version": "0.0.2"
+}

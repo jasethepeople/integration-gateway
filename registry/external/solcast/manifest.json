@@ -1,0 +1,32 @@
+{
+  "app": "solcast",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "latitude": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "longitude": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "hours": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "period": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "solcast-get-live-weather",
+    "solcast-get-monthly-averages",
+    "solcast-get-weather-forecast"
+  ]
+}

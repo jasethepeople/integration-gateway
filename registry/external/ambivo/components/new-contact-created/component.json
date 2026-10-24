@@ -1,0 +1,7 @@
+{
+  "key": "ambivo-new-contact-created",
+  "name": "New Contact Created",
+  "description": "Emit new event when a new contact is created in Ambivo.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "dopplerai-create-chat",
+  "name": "Create Chat",
+  "description": "Initializes a new chat thread. [See the documentation](https://api.dopplerai.com/docs/reference#tag/Chats/operation/create_chat_v1_chats_post)",
+  "type": "action",
+  "version": "0.0.2"
+}

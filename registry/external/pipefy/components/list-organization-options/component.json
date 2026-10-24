@@ -1,0 +1,7 @@
+{
+  "key": "pipefy-list-organization-options",
+  "name": "List Organization Options",
+  "description": "Retrieves available options for the Organization field.",
+  "type": "action",
+  "version": "0.0.1"
+}

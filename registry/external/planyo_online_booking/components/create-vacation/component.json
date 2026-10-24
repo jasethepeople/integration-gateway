@@ -1,0 +1,7 @@
+{
+  "key": "planyo_online_booking-create-vacation",
+  "name": "Create Vacation",
+  "description": "Adds a new one-time vacation for given resource or entire Planyo site. [See Docs](https://www.planyo.com/api.php?topic=add_vacation)",
+  "type": "action",
+  "version": "0.0.2"
+}

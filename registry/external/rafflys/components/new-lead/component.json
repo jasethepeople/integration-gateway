@@ -1,0 +1,7 @@
+{
+  "key": "rafflys-new-lead",
+  "name": "New Lead",
+  "description": "Emit new event when a lead is collected.",
+  "type": "source",
+  "version": "0.0.1"
+}

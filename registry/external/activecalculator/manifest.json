@@ -1,0 +1,19 @@
+{
+  "app": "activecalculator",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "calculatorIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "activecalculator-list-calculator-ids-options",
+    "activecalculator-new-submission-instant"
+  ]
+}

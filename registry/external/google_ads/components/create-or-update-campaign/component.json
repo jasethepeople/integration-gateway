@@ -1,0 +1,7 @@
+{
+  "key": "google_ads-create-or-update-campaign",
+  "name": "Create or Update Campaign",
+  "description": "Whether to create, update, or remove a campaign.",
+  "type": "action",
+  "version": "1.0.3"
+}

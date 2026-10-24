@@ -1,0 +1,53 @@
+{
+  "app": "ironclad",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "recordType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recordId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workflowId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "selectedEvents": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ironclad-create-record",
+    "ironclad-delete-record",
+    "ironclad-describe-workflow-template",
+    "ironclad-describe-workspace",
+    "ironclad-get-record",
+    "ironclad-get-workflow",
+    "ironclad-launch-workflow",
+    "ironclad-list-properties-options",
+    "ironclad-list-record-id-options",
+    "ironclad-list-record-type-options",
+    "ironclad-list-selected-events-options",
+    "ironclad-list-template-id-options",
+    "ironclad-list-workflow-id-options",
+    "ironclad-search-records",
+    "ironclad-search-workflows",
+    "ironclad-update-record",
+    "ironclad-update-workflow",
+    "ironclad-new-approval-event-instant",
+    "ironclad-new-workflow-document-event-instant",
+    "ironclad-new-workflow-event-instant"
+  ]
+}

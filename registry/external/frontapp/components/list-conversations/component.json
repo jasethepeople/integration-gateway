@@ -1,0 +1,7 @@
+{
+  "key": "frontapp-list-conversations",
+  "name": "List Conversations",
+  "description": "List conversations in the company. [See the documentation](https://dev.frontapp.com/reference/list-conversations)",
+  "type": "action",
+  "version": "0.0.7"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "missive-list-contact-book-id-options",
+  "name": "List Contact Book ID Options",
+  "description": "Retrieves available options for the Contact Book ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

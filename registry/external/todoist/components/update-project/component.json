@@ -1,0 +1,7 @@
+{
+  "key": "todoist-update-project",
+  "name": "Update Project",
+  "description": "Updates a project. [See the documentation](https://developer.todoist.com/api/v1#tag/Projects/operation/update_project_api_v1_projects__project_id__post)",
+  "type": "action",
+  "version": "0.0.10"
+}

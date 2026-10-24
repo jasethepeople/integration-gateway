@@ -1,0 +1,7 @@
+{
+  "key": "canny-new-vote-created",
+  "name": "New Vote Created",
+  "description": "Emit new event when a new vote is created. [See the documentation](https://developers.canny.io/api-reference#list_votes)",
+  "type": "source",
+  "version": "0.0.1"
+}

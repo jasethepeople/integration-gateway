@@ -1,0 +1,7 @@
+{
+  "key": "papyrs-create-heading",
+  "name": "Create Heading",
+  "description": "Create Heading. [See the docs here](https://about.papyrs.com/@docs/API#Create-Text-box/Heading)",
+  "type": "action",
+  "version": "0.0.2"
+}

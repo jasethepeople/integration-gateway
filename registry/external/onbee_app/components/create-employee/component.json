@@ -1,0 +1,7 @@
+{
+  "key": "onbee_app-create-employee",
+  "name": "Create Employee",
+  "description": "Adds an employee to the system. [See the documentation](https://docs.onboardee.io/api/#tag/Employees/paths/~1employees~1add/post)",
+  "type": "action",
+  "version": "0.0.2"
+}

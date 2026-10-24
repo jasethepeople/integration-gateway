@@ -1,0 +1,7 @@
+{
+  "key": "dock_certs-revoke-credential",
+  "name": "Revoke Credential",
+  "description": "Revoke an existing credential. [See the documentation](https://docs.api.dock.io/#revoke-unrevoke-credential)",
+  "type": "action",
+  "version": "0.0.2"
+}

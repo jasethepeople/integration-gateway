@@ -1,0 +1,28 @@
+{
+  "app": "bigdatacorp",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "doc": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dataset": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "token_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "bigdatacorp-get-address-data",
+    "bigdatacorp-get-company-data",
+    "bigdatacorp-get-person-data"
+  ]
+}

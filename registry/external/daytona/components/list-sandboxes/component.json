@@ -1,0 +1,7 @@
+{
+  "key": "daytona-list-sandboxes",
+  "name": "List Sandboxes",
+  "description": "Lists sandboxes on Daytona. [See the documentation](https://www.daytona.io/docs/en/typescript-sdk/daytona/#list)",
+  "type": "action",
+  "version": "0.0.2"
+}

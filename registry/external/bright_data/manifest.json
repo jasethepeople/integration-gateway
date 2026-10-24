@@ -1,0 +1,45 @@
+{
+  "app": "bright_data",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "datasetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "zone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "format": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "method": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dataFormat": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "bright_data-list-dataset-id-options",
+    "bright_data-scrape-serp",
+    "bright_data-scrape-website",
+    "bright_data-unlock-website"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "app": "hotmart",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "offerCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "buyerEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subscriberCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "environment": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "hotmart-get-comissions",
+    "hotmart-get-sales-history",
+    "hotmart-get-subscriptions",
+    "hotmart-list-subscriber-code-options"
+  ]
+}

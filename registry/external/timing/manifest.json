@@ -1,0 +1,44 @@
+{
+  "app": "timing",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "project": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "notes": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "replaceExisting": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "timing-create-time-entry",
+    "timing-list-project-options",
+    "timing-start-timer",
+    "timing-stop-timer",
+    "timing-new-project",
+    "timing-new-time-entry",
+    "timing-new-timer-started-running"
+  ]
+}

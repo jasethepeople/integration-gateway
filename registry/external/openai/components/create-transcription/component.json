@@ -1,0 +1,7 @@
+{
+  "key": "openai-create-transcription",
+  "name": "Create Transcription",
+  "description": "Transcribes audio into the input language. [See the documentation](https://platform.openai.com/docs/api-reference/audio/createTranscription)",
+  "type": "action",
+  "version": "0.3.6"
+}

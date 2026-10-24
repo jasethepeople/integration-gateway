@@ -1,0 +1,23 @@
+{
+  "app": "emailoctopus",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "listId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "emailoctopus-add-subscribers-to-list",
+    "emailoctopus-create-list",
+    "emailoctopus-list-list-id-options",
+    "emailoctopus-new-list-contact",
+    "emailoctopus-new-subscriber",
+    "emailoctopus-subscriber-unsubscribed"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "app": "canny",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "boardId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "postId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tagId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "categoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "commentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "canny-change-post-status",
+    "canny-create-comment",
+    "canny-create-post",
+    "canny-get-post",
+    "canny-list-board-id-options",
+    "canny-list-category-id-options",
+    "canny-list-comment-id-options",
+    "canny-list-company-id-options",
+    "canny-list-tag-id-options",
+    "canny-list-user-id-options",
+    "canny-new-comment-created",
+    "canny-new-vote-created",
+    "canny-post-status-changed"
+  ]
+}

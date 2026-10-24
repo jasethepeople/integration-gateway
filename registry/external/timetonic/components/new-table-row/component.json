@@ -1,0 +1,7 @@
+{
+  "key": "timetonic-new-table-row",
+  "name": "New Table Row",
+  "description": "Emit new event when a new table row is added in TimeTonic",
+  "type": "source",
+  "version": "0.0.1"
+}

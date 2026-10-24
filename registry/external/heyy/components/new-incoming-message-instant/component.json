@@ -1,0 +1,7 @@
+{
+  "key": "heyy-new-incoming-message-instant",
+  "name": "New Incoming Message",
+  "description": "Emit new event when a business gets a new incoming message. [See the documentation](https://documenter.getpostman.com/view/27408936/2sA2r3a6DW#eda04a28-4c5b-4709-a3f4-204dba6bcc18).",
+  "type": "source",
+  "version": "0.0.1"
+}

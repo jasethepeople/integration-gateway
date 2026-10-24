@@ -1,0 +1,7 @@
+{
+  "key": "dart-list-dartboard-options",
+  "name": "List Dartboard Options",
+  "description": "Retrieves available options for the Dartboard field.",
+  "type": "action",
+  "version": "0.0.1"
+}

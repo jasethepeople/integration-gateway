@@ -1,0 +1,7 @@
+{
+  "key": "gainsight_nxt-list-object-name-options",
+  "name": "List Custom Object Options",
+  "description": "Retrieves available options for the Custom Object field.",
+  "type": "action",
+  "version": "0.0.1"
+}

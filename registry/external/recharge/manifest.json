@@ -1,0 +1,72 @@
+{
+  "app": "recharge",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subscriptionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "addressId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "externalVariantId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "discountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "externalCustomerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taxExempt": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "applyCreditToNextRecurringCharge": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "recharge-cancel-subscription",
+    "recharge-create-customer",
+    "recharge-create-subscription",
+    "recharge-list-address-id-options",
+    "recharge-list-customer-id-options",
+    "recharge-list-external-variant-id-options",
+    "recharge-list-subscription-id-options",
+    "recharge-update-customer",
+    "recharge-new-customer-created",
+    "recharge-new-order-created",
+    "recharge-new-subscription-created"
+  ]
+}

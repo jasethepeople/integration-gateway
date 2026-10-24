@@ -1,0 +1,7 @@
+{
+  "key": "zoom-meeting-ended",
+  "name": "Meeting Ended (Instant)",
+  "description": "Emit new event each time a meeting ends where you're the host",
+  "type": "source",
+  "version": "0.1.12"
+}

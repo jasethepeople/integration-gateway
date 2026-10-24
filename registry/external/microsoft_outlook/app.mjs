@@ -1,0 +1,751 @@
+import { getFileStreamAndMetadata } from "../_platform-shim.mjs";
+import { Client } from "@microsoft/microsoft-graph-client";
+import "isomorphic-fetch";
+import pickBy from "lodash.pickby";
+const DEFAULT_LIMIT = 50;
+
+const __pdApp = {
+  type: "app",
+  app: "microsoft_outlook",
+  propDefinitions: {
+    recipients: {
+      label: "Recipients",
+      description: "Array of email addresses",
+      type: "string[]",
+      optional: true,
+      default: [],
+    },
+    ccRecipients: {
+      label: "CC Recipients",
+      description: "Array of email addresses",
+      type: "string[]",
+      optional: true,
+      default: [],
+    },
+    bccRecipients: {
+      label: "BCC Recipients",
+      description: "Array of email addresses",
+      type: "string[]",
+      optional: true,
+      default: [],
+    },
+    subject: {
+      label: "Subject",
+      description: "Subject of the email",
+      type: "string",
+      optional: true,
+    },
+    contentType: {
+      label: "Content Type",
+      description: "Content type (default `text`)",
+      type: "string",
+      optional: true,
+      options: [
+        "text",
+        "html",
+      ],
+      default: "text",
+    },
+    content: {
+      label: "Content",
+      description: "Content of the email in text or html format",
+      type: "string",
+      optional: true,
+    },
+    files: {
+      type: "string[]",
+      label: "File Paths or URLs",
+      description: "Provide either an array of file URLs or an array of paths to a files in the /tmp directory (for example, /tmp/myFile.pdf).",
+      format: "file-ref",
+      optional: true,
+    },
+    contact: {
+      label: "Contact",
+      description: "The contact to be updated",
+      type: "string",
+      async options({ page }) {
+        const limit = DEFAULT_LIMIT;
+        const contactResponse = await this.listContacts({
+          params: {
+            $top: limit,
+            $skip: limit * page,
+          },
+        });
+        return contactResponse.value.map((co) => ({
+          label: co.displayName,
+          value: co.id,
+        }));
+      },
+    },
+    givenName: {
+      label: "Given name",
+      description: "Given name of the contact",
+      type: "string",
+      optional: true,
+    },
+    surname: {
+      label: "Surname",
+      description: "Surname of the contact",
+      type: "string",
+      optional: true,
+    },
+    emailAddresses: {
+      label: "Email addresses",
+      description: "Email addresses",
+      type: "string[]",
+      optional: true,
+    },
+    businessPhones: {
+      label: "Recipients",
+      description: "Array of phone numbers",
+      type: "string[]",
+      optional: true,
+    },
+    expand: {
+      label: "Expand",
+      description: "Additional properties",
+      type: "object",
+      optional: true,
+    },
+    label: {
+      type: "string",
+      label: "Label",
+      description: "The name of the label/category to add",
+      async options({
+        userId, messageId, excludeMessageLabels, onlyMessageLabels,
+      }) {
+        const { value } = await this.listLabels({
+          userId,
+        });
+        let labels = value;
+        if (messageId) {
+          const { categories } = await this.getMessage({
+            userId,
+            messageId,
+          });
+          labels = excludeMessageLabels
+            ? labels.filter(({ displayName }) => !categories.includes(displayName))
+            : onlyMessageLabels
+              ? labels.filter(({ displayName }) => categories.includes(displayName))
+              : labels;
+        }
+        return labels?.map(({ displayName }) => displayName) || [];
+      },
+    },
+    messageId: {
+      type: "string",
+      label: "Message ID",
+      description: "The identifier of the message to update",
+      async options({
+        userId, page,
+      }) {
+        const limit = DEFAULT_LIMIT;
+        const { value } = await this.listMessages({
+          userId,
+          params: {
+            $top: limit,
+            $skip: limit * page,
+            $orderby: "createdDateTime desc",
+          },
+        });
+        return value?.map(({
+          id: value, subject: label,
+        }) => ({
+          value,
+          label,
+        })) || [];
+      },
+    },
+    folderIds: {
+      type: "string[]",
+      label: "Folder IDs to Monitor",
+      description: "Specify the folder IDs or names in Outlook that you want to monitor for new emails. Leave empty to monitor all folders (excluding \"Sent Items\" and \"Drafts\").",
+      async options({ page }) {
+        const limit = DEFAULT_LIMIT;
+        const folders = await this.listAllFolders({
+          params: {
+            $top: limit,
+            $skip: limit * page,
+          },
+        });
+        return folders?.map(({
+          id: value, displayName: label,
+        }) => ({
+          value,
+          label,
+        })) || [];
+      },
+    },
+    attachmentId: {
+      type: "string",
+      label: "Attachment ID",
+      description: "The identifier of the attachment to download",
+      async options({
+        userId, messageId, page,
+      }) {
+        const limit = DEFAULT_LIMIT;
+        const { value: attachments } = await this.listAttachments({
+          userId,
+          messageId,
+          params: {
+            $top: limit,
+            $skip: limit * page,
+            $select: "id,name",
+          },
+        });
+        return attachments?.map(({
+          id: value, name: label,
+        }) => ({
+          value,
+          label,
+        })) || [];
+      },
+    },
+    userId: {
+      type: "string",
+      label: "User ID",
+      description: "The ID of the user to get messages for",
+      useQuery: true,
+      async options({
+        query, prevContext,
+      }) {
+        const args = {};
+        if (prevContext?.nextLink) {
+          args.url = prevContext.nextLink;
+        } else if (query) {
+          const escaped = query.replace(/[\\"]/g, "\\$&");
+          args.params = {
+            $search: `"displayName:${escaped}" OR "mail:${escaped}" OR "userPrincipalName:${escaped}"`,
+          };
+        }
+        const response = await this.listUsers(args);
+        const options = response.value?.map(({
+          id: value, displayName, mail,
+        }) => ({
+          value,
+          label: `${displayName} (${mail})`,
+        })) || [];
+        return {
+          options,
+          context: {
+            nextLink: response["@odata.nextLink"],
+          },
+        };
+      },
+    },
+    sharedFolderId: {
+      type: "string",
+      label: "Shared Folder ID",
+      description: "The ID of the shared folder to get messages for",
+      async options({
+        userId, page,
+      }) {
+        const sharedFolders = await this.listSharedFolders({
+          userId,
+          params: {
+            $top: DEFAULT_LIMIT,
+            $skip: DEFAULT_LIMIT * page,
+          },
+        });
+
+        return sharedFolders?.map(({
+          id: value, displayName,
+        }) => ({
+          value,
+          label: displayName,
+        })) || [];
+      },
+    },
+    folderId: {
+      type: "string",
+      label: "Folder ID",
+      description: "The ID of the mail folder to retrieve. Use the **List Folders** action to get the list of folders.",
+    },
+    maxResults: {
+      type: "integer",
+      label: "Max Results",
+      description: "The maximum number of results to return",
+      default: 100,
+      optional: true,
+    },
+    search: {
+      type: "string",
+      label: "Search",
+      description: "Search for an email in Microsoft Outlook. Can search for specific message properties such as `\"to:example@example.com\"` or `\"subject:example\"`. If the property is excluded, the search targets the default propertes `from`, `subject`, and `body`. For example, `\"pizza\"` will search for messages with the word `pizza` in the subject, body, or from address, but `\"to:example@example.com\"` will only search for messages to `example@example.com`. Not for use with `$filter` or `$orderby`.",
+      optional: true,
+    },
+    filter: {
+      type: "string",
+      label: "Filter",
+      description: "Filters results. For example, `contains(subject, 'meet for lunch?')` will include messages whose subject contains ‘meet for lunch?’. [See documentation](https://learn.microsoft.com/en-us/graph/filter-query-parameter) for the full list of operations. Not for use with `$search`.",
+      optional: true,
+    },
+    orderBy: {
+      type: "string",
+      label: "Order By",
+      description: "Order results by a property. For example, `receivedDateTime desc` will order messages by the received date in descending order. Not for use with `$search`.",
+      optional: true,
+    },
+  },
+  methods: {
+    _userPath(userId) {
+      return userId
+        ? `/users/${userId}`
+        : "/me";
+    },
+    client() {
+      return Client.init({
+        authProvider: (done) => {
+          done(null, this.$auth.oauth_access_token);
+        },
+      });
+    },
+    async createHook({ data = {} } = {}) {
+      return await this.client().api("/subscriptions")
+        .post(data);
+    },
+    async renewHook({
+      hookId, data = {},
+    } = {}) {
+      return await this.client().api(`/subscriptions/${hookId}`)
+        .patch(data);
+    },
+    async deleteHook({ hookId } = {}) {
+      return await this.client().api(`/subscriptions/${hookId}`)
+        .delete();
+    },
+    async streamToBase64(stream) {
+      return new Promise((resolve, reject) => {
+        const chunks = [];
+
+        stream.on("data", (chunk) => chunks.push(chunk));
+        stream.on("end", () => {
+          const buffer = Buffer.concat(chunks);
+          resolve(buffer.toString("base64"));
+        });
+        stream.on("error", reject);
+      });
+    },
+    async streamToBuffer(stream) {
+      // Node.js Readable stream
+      if (typeof stream.on === "function") {
+        return new Promise((resolve, reject) => {
+          const chunks = [];
+          stream.on("data", (chunk) => chunks.push(chunk));
+          stream.on("end", () => resolve(Buffer.concat(chunks)));
+          stream.on("error", reject);
+        });
+      }
+
+      // Web ReadableStream (WHATWG)
+      if (typeof stream.getReader === "function") {
+        const reader = stream.getReader();
+        const chunks = [];
+
+        while (true) {
+          const {
+            done, value,
+          } = await reader.read();
+          if (done) break;
+          chunks.push(Buffer.from(value));
+        }
+
+        return Buffer.concat(chunks);
+      }
+
+      throw new Error("Unknown stream type returned by Microsoft Graph client");
+    },
+    async prepareMessageBody(self) {
+      const toRecipients = [];
+      const ccRecipients = [];
+      const bccRecipients = [];
+      for (const address of self.recipients) {
+        toRecipients.push({
+          emailAddress: {
+            address,
+          },
+        });
+      }
+      for (const address of self.ccRecipients) {
+        if (address.trim() !== "") {
+          ccRecipients.push({
+            emailAddress: {
+              address,
+            },
+          });
+        }
+      }
+      for (const address of self.bccRecipients) {
+        if (address.trim() !== "") {
+          bccRecipients.push({
+            emailAddress: {
+              address,
+            },
+          });
+        }
+      }
+
+      const attachments = [];
+      for (let i = 0; self.files && i < self.files.length; i++) {
+        const {
+          stream, metadata,
+        } = await getFileStreamAndMetadata(self.files[i]);
+        const base64 = await this.streamToBase64(stream);
+        attachments.push({
+          "@odata.type": "#microsoft.graph.fileAttachment",
+          "name": metadata.name,
+          "contentType": metadata.contentType,
+          "contentBytes": base64,
+        });
+      }
+      const message = {
+        subject: self.subject,
+        attachments,
+      };
+
+      if (self.content) {
+        message.body = {
+          content: self.content,
+          contentType: self.contentType,
+        };
+      }
+      if (toRecipients.length > 0) message.toRecipients = toRecipients;
+      if (ccRecipients.length > 0) message.ccRecipients = ccRecipients;
+      if (bccRecipients.length > 0) message.bccRecipients = bccRecipients;
+
+      return message;
+    },
+    async sendEmail({
+      userId, data = {},
+    } = {}) {
+      return await this.client().api(`${this._userPath(userId)}/sendMail`)
+        .post(data);
+    },
+    async replyToEmail({
+      userId, messageId, data = {},
+    } = {}) {
+      return await this.client().api(`${this._userPath(userId)}/messages/${messageId}/reply`)
+        .post(data);
+    },
+    async createDraft({
+      userId, data = {},
+    } = {}) {
+      return await this.client().api(`${this._userPath(userId)}/messages`)
+        .post(data);
+    },
+    async createContact({ data = {} } = {}) {
+      return await this.client().api("/me/contacts")
+        .post(data);
+    },
+    async listContacts({
+      filterAddress, params = {}, nextLink,
+    } = {}) {
+      if (nextLink) {
+        const request = this.client().api(nextLink);
+        if (params?.$count) {
+          request.header("ConsistencyLevel", "eventual");
+        }
+        return await request.get();
+      }
+      if (filterAddress) {
+        params["$filter"] = `emailAddresses/any(a:a/address eq '${filterAddress}')`;
+      }
+      const request = this.client().api("/me/contacts")
+        .query(pickBy(params));
+      if (params?.$count) {
+        request.header("ConsistencyLevel", "eventual");
+      }
+      return await request.get();
+    },
+    async updateContact({
+      contactId, data = {},
+    } = {}) {
+      return await this.client().api(`/me/contacts/${contactId}`)
+        .patch(data);
+    },
+    async getMessage({
+      userId, messageId, params = {},
+    } = {}) {
+      return await this.client().api(`${this._userPath(userId)}/messages/${messageId}`)
+        .query(pickBy(params))
+        .get();
+    },
+    async listMessages({
+      userId, folderScope, params = {}, nextLink,
+    } = {}) {
+      if (nextLink) {
+        return await this.client().api(nextLink)
+          .header("ConsistencyLevel", "eventual")
+          .get();
+      }
+      const path = folderScope
+        ? `${this._userPath(userId)}/mailFolders/${folderScope}/messages`
+        : `${this._userPath(userId)}/messages`;
+      return await this.client().api(path)
+        .header("ConsistencyLevel", "eventual")
+        .query(pickBy(params))
+        .get();
+    },
+    /**
+     * List messages from a user's inbox. Uses this.client(), this._userPath(userId),
+     * and pickBy(params) for the initial request; when nextLink is provided, fetches
+     * the next page from that URL so callers can paginate using Graph's @odata.nextLink.
+     *
+     * @param {Object} opts - Options for the request
+     * @param {string} [opts.userId] - User ID; omitted for the signed-in user
+     * @param {Object} [opts.params={}] - Query params (e.g. $filter, $select, $orderby)
+     * @param {string} [opts.nextLink] - Full URL for the next page (from @odata.nextLink)
+     * @returns {Promise<Object>} Graph API response with value array and optional @odata.nextLink
+     */
+    async listInboxMessages({
+      userId, params = {}, nextLink,
+    } = {}) {
+      if (nextLink) {
+        const request = this.client().api(nextLink);
+        if (params?.$count) {
+          request.header("ConsistencyLevel", "eventual");
+        }
+        return await request.get();
+      }
+
+      const request = this.client().api(`${this._userPath(userId)}/mailFolders/inbox/messages`)
+        .query(pickBy(params));
+      if (params?.$count) {
+        request.header("ConsistencyLevel", "eventual");
+      }
+      return await request.get();
+    },
+    async countMessages({
+      userId, folderScope, sharedFolderId, filter,
+    } = {}) {
+      let path;
+      if (sharedFolderId && userId) {
+        path = `/users/${userId}/mailFolders/${sharedFolderId}/messages`;
+      } else if (folderScope) {
+        path = `${this._userPath(userId)}/mailFolders/${folderScope}/messages`;
+      } else {
+        path = `${this._userPath(userId)}/messages`;
+      }
+      return await this.client().api(path)
+        .header("ConsistencyLevel", "eventual")
+        .query(pickBy({
+          $count: "true",
+          $top: 1,
+          $filter: filter || undefined,
+        }))
+        .get();
+    },
+    async listSharedFolderMessages({
+      userId, sharedFolderId, params = {}, nextLink,
+    } = {}) {
+      if (nextLink) {
+        return await this.client().api(nextLink)
+          .header("ConsistencyLevel", "eventual")
+          .get();
+      }
+      return await this.client().api(`/users/${userId}/mailFolders/${sharedFolderId}/messages`)
+        .header("ConsistencyLevel", "eventual")
+        .query(pickBy(params))
+        .get();
+    },
+    async getContact({
+      contactId, params = {},
+    } = {}) {
+      return await this.client().api(`/me/contacts/${contactId}`)
+        .query(pickBy(params))
+        .get();
+    },
+    async listLabels({
+      userId, params = {},
+    } = {}) {
+      return await this.client().api(`${this._userPath(userId)}/outlook/masterCategories`)
+        .query(pickBy(params))
+        .get();
+    },
+    async listFolders({
+      params = {}, nextLink,
+    } = {}) {
+      if (nextLink) {
+        return await this.client().api(nextLink)
+          .get();
+      }
+      return await this.client().api("/me/mailFolders")
+        .query(pickBy(params))
+        .get();
+    },
+    async listAllFolders({
+      parentFolderId, params = {},
+    } = {}) {
+      const { value } = await this.client().api(`/me/mailFolders${parentFolderId
+        ? `/${parentFolderId}/childFolders`
+        : ""}`)
+        .query(pickBy(params))
+        .get();
+
+      const foldersArray = [];
+      for (const folder of value) {
+        foldersArray.push(folder);
+        foldersArray.push(...await this.listAllFolders({
+          parentFolderId: folder.id,
+          params,
+        }));
+      }
+      return foldersArray;
+    },
+    async moveMessage({
+      userId, messageId, data = {},
+    } = {}) {
+      return await this.client().api(`${this._userPath(userId)}/messages/${messageId}/move`)
+        .post(data);
+    },
+    async updateMessage({
+      userId, messageId, data = {},
+    } = {}) {
+      return await this.client().api(`${this._userPath(userId)}/messages/${messageId}`)
+        .patch(data);
+    },
+    async getAttachment({
+      userId, messageId, attachmentId, params = {},
+    } = {}) {
+      return await this.client().api(`${this._userPath(userId)}/messages/${messageId}/attachments/${attachmentId}/$value`)
+        .responseType("stream")
+        .query(pickBy(params))
+        .get();
+    },
+    async getAttachmentInfo({
+      userId, messageId, attachmentId, params = {},
+    } = {}) {
+      return await this.client().api(`${this._userPath(userId)}/messages/${messageId}/attachments/${attachmentId}`)
+        .query(pickBy(params))
+        .get();
+    },
+    async listAttachments({
+      userId, messageId, params = {},
+    } = {}) {
+      return await this.client().api(`${this._userPath(userId)}/messages/${messageId}/attachments`)
+        .query(pickBy(params))
+        .get();
+    },
+    async listUsers({
+      url, params = {},
+    } = {}) {
+      const client = this.client();
+      return url
+        ? client.api(url)
+          .header("ConsistencyLevel", "eventual")
+          .get()
+        : client.api("/users")
+          .header("ConsistencyLevel", "eventual")
+          .query(pickBy(params))
+          .get();
+    },
+    async listSharedFolders({
+      userId, parentFolderId, params = {},
+    } = {}) {
+      const { value } = await this.client().api(`/users/${userId}/mailFolders${parentFolderId
+        ? `/${parentFolderId}/childFolders`
+        : ""}`)
+        .query(pickBy(params))
+        .get();
+
+      const foldersArray = [];
+      for (const folder of value) {
+        foldersArray.push(folder);
+        const {
+        // eslint-disable-next-line no-unused-vars
+          $skip, $top, ...childParams
+        } = params;
+        foldersArray.push(...await this.listSharedFolders({
+          userId,
+          parentFolderId: folder.id,
+          params: childParams,
+        }));
+      }
+
+      return foldersArray;
+    },
+    async listSharedFoldersPaged({
+      userId, params = {}, nextLink,
+    } = {}) {
+      if (nextLink) {
+        return await this.client().api(nextLink)
+          .get();
+      }
+      return await this.client().api(`/users/${userId}/mailFolders`)
+        .query(pickBy(params))
+        .get();
+    },
+    async getFolderById({
+      folderId, params = {},
+    } = {}) {
+      return this.client().api(`/me/mailFolders/${folderId}`)
+        .query(pickBy(params))
+        .get();
+    },
+    async getSharedFolderById({
+      userId, folderId, params = {},
+    } = {}) {
+      return this.client().api(`/users/${userId}/mailFolders/${folderId}`)
+        .query(pickBy(params))
+        .get();
+    },
+    async *paginate({
+      fn, args = {}, max, meta,
+    }) {
+      const limit = DEFAULT_LIMIT;
+      args = {
+        ...args,
+        params: {
+          ...args?.params,
+          $top: limit,
+          $skip: 0,
+        },
+      };
+      let hasMore = true;
+      let count = 0;
+      let nextLink;
+      let usedNextLink = false;
+      do {
+        const response = await fn({
+          ...args,
+          ...(nextLink
+            ? {
+              nextLink,
+              params: undefined,
+            }
+            : {}),
+        });
+        if (meta && response?.["@odata.count"] !== undefined) {
+          meta["@odata.count"] = response["@odata.count"];
+        }
+        const { value } = response;
+        for (const item of value) {
+          yield item;
+          if (max && ++count >= max) {
+            return;
+          }
+        }
+        nextLink = response?.["@odata.nextLink"];
+
+        if (nextLink) {
+          hasMore = true;
+          usedNextLink = true;
+          continue;
+        }
+
+        if (!usedNextLink && args?.params && typeof args.params.$skip === "number") {
+          hasMore = value?.length === limit;
+          if (hasMore) {
+            args.params.$skip += limit;
+          }
+        } else {
+          hasMore = false;
+        }
+      } while (hasMore);
+    },
+  },
+};
+
+export default __pdApp;
+import { __pdBindAuth as __pdBind } from "../_platform-shim.mjs";
+__pdBind(__pdApp, "microsoft_outlook");

@@ -1,0 +1,7 @@
+{
+  "key": "pipefy-card-created",
+  "name": "Card Created (Instant)",
+  "description": "Emits an event for each new card created in a Pipe.",
+  "type": "source",
+  "version": "0.0.3"
+}

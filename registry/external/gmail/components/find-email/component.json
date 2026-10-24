@@ -1,0 +1,7 @@
+{
+  "key": "gmail-find-email",
+  "name": "Find Emails",
+  "description": "Search the user's Gmail mailbox with Gmail's native query syntax and return matching messages (headers + snippet by default; full bodies when requested).",
+  "type": "action",
+  "version": "0.4.1"
+}

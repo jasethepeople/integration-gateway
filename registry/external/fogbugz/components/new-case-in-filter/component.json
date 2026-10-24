@@ -1,0 +1,7 @@
+{
+  "key": "fogbugz-new-case-in-filter",
+  "name": "New Case in Filter",
+  "description": "Emit new new event when there's a new case under a specified filter. Note this may not effectively work for filters that generate results too long, or filters with more than 50,000 cases, especially if your FogBugz site is running Ocelot.",
+  "type": "source",
+  "version": "0.0.1"
+}

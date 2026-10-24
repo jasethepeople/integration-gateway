@@ -1,0 +1,7 @@
+{
+  "key": "freeagent-create-task",
+  "name": "Create Task",
+  "description": "Create a task under a specific project in FreeAgent. [See the documentation](https://dev.freeagent.com/docs/tasks#create-a-task-under-a-certain-project).",
+  "type": "action",
+  "version": "0.0.1"
+}

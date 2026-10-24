@@ -1,0 +1,7 @@
+{
+  "key": "social_intents-new-event-emitted",
+  "name": "New Event Emitted",
+  "description": "Emit new event when any type of event is emitted.",
+  "type": "source",
+  "version": "0.0.1"
+}

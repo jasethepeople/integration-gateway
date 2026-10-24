@@ -1,0 +1,7 @@
+{
+  "key": "surecart-list-variants",
+  "name": "List Variants",
+  "description": "Return a list of variants. [See the documentation](https://developer.surecart.com/api-reference/variants/list)",
+  "type": "action",
+  "version": "0.0.1"
+}

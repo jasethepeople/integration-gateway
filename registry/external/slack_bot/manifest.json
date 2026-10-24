@@ -1,0 +1,16 @@
+{
+  "app": "slack_bot",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "bot_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "slack_bot-list-messages",
+    "slack_bot-new-direct-message",
+    "slack_bot-new-message-in-channel"
+  ]
+}

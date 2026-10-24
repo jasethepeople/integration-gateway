@@ -1,0 +1,7 @@
+{
+  "key": "badger_maps-new-check-in-created",
+  "name": "New Check-In Created",
+  "description": "Emit new event each time a new check-in is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

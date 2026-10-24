@@ -1,0 +1,7 @@
+{
+  "key": "mode-list-spaces",
+  "name": "List Spaces",
+  "description": "List the spaces (called Collections in the Mode UI) visible to the authenticated user. [See the documentation](https://mode.com/developer/api-reference/management/collections/#listCollections)",
+  "type": "action",
+  "version": "0.0.1"
+}

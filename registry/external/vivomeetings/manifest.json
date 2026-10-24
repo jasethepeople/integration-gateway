@@ -1,0 +1,93 @@
+{
+  "app": "vivomeetings",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "conferenceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "hostId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "subject": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "agenda": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "start": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timeZone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "duration": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "autoRecord": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "autoStream": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "autoTranscribe": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "oneTimeAccessCode": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "secureUrl": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "hostInitiatedRecording": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "securityPin": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "muteMode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "participantEmails": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "vivomeetings-create-conference",
+    "vivomeetings-get-conference-recordings",
+    "vivomeetings-update-conference",
+    "vivomeetings-new-meeting"
+  ]
+}

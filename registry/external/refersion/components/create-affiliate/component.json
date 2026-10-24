@@ -1,0 +1,7 @@
+{
+  "key": "refersion-create-affiliate",
+  "name": "Create Affiliate",
+  "description": "Create a new affiliate. [See the docs here](https://www.refersion.dev/reference/new_affiliate)",
+  "type": "action",
+  "version": "0.0.2"
+}

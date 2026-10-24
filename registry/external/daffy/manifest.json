@@ -1,0 +1,27 @@
+{
+  "app": "daffy",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "causeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ein": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "daffy-create-donation",
+    "daffy-list-cause-id-options",
+    "daffy-new-donation-created"
+  ],
+  "npmImports": [
+    "moment"
+  ]
+}

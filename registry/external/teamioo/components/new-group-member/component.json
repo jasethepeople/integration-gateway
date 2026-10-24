@@ -1,0 +1,7 @@
+{
+  "key": "teamioo-new-group-member",
+  "name": "New Group Member",
+  "description": "Emit new event when a new member is added.",
+  "type": "source",
+  "version": "0.0.1"
+}

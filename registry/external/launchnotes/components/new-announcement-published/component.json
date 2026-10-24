@@ -1,0 +1,7 @@
+{
+  "key": "launchnotes-new-announcement-published",
+  "name": "New Announcement Published",
+  "description": "Emit new event when an announcement is published.",
+  "type": "source",
+  "version": "0.0.1"
+}

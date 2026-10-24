@@ -1,0 +1,7 @@
+{
+  "key": "signnow-updated-document-instant",
+  "name": "Updated Document (Instant)",
+  "description": "Emit new event when a document has been updated. [See the documentation](https://docs.signnow.com/docs/signnow/webhooks/operations/create-a-api-v-2-event)",
+  "type": "source",
+  "version": "0.0.1"
+}

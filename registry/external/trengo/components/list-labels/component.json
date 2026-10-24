@@ -1,0 +1,7 @@
+{
+  "key": "trengo-list-labels",
+  "name": "List Labels",
+  "description": "List all labels. [See the documentation](https://developers.trengo.com/reference/list-all-labels)",
+  "type": "action",
+  "version": "0.0.8"
+}

@@ -1,0 +1,143 @@
+{
+  "app": "salesflare",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "accountIds": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "opportunityId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "personId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "currency": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "pipelineId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "pipelineStageId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "workflowId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "city": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "stateRegion": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "street": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "zip": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "website": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phoneNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "socialProfiles": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "links": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "custom": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "search": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "details": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "salesflare-add-contact-to-account",
+    "salesflare-add-user-to-account",
+    "salesflare-create-account",
+    "salesflare-create-call",
+    "salesflare-create-contact",
+    "salesflare-create-internal-note",
+    "salesflare-create-meeting",
+    "salesflare-create-opportunity",
+    "salesflare-create-task",
+    "salesflare-find-account",
+    "salesflare-find-contact",
+    "salesflare-find-opportunity",
+    "salesflare-find-person",
+    "salesflare-find-pipeline-stage",
+    "salesflare-find-user",
+    "salesflare-find-workflow",
+    "salesflare-list-currency-options",
+    "salesflare-remove-contact-from-workflow",
+    "salesflare-update-account",
+    "salesflare-update-contact",
+    "salesflare-update-opportunity",
+    "salesflare-new-account",
+    "salesflare-new-contact",
+    "salesflare-new-opportunity",
+    "salesflare-new-task",
+    "salesflare-new-workflow"
+  ]
+}

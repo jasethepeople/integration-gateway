@@ -1,0 +1,7 @@
+{
+  "key": "apollo_io-create-opportunity",
+  "name": "Create Opportunity",
+  "description": "Creates a new opportunity in Apollo.io. [See the documentation](https://apolloio.github.io/apollo-api-docs/?shell#create-opportunity)",
+  "type": "action",
+  "version": "0.0.7"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "stiply-new-sign-request-completed",
+  "name": "New Sign Request Completed",
+  "description": "Emit new event when a sign request is completed in Stiply. [See the documentation](https://app.stiply.nl/api-documentation/v2#tag/sign-requests/operation/GetSignRequests).",
+  "type": "source",
+  "version": "0.0.1"
+}

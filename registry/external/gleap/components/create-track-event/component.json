@@ -1,0 +1,7 @@
+{
+  "key": "gleap-create-track-event",
+  "name": "Create Track Event",
+  "description": "Creates a new track event in Gleap. [See the documentation](https://docs.gleap.io/server/rest-api#track-events)",
+  "type": "action",
+  "version": "0.0.2"
+}

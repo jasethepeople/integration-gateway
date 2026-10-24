@@ -1,0 +1,7 @@
+{
+  "key": "zenserp-list-country-options",
+  "name": "List Country Options",
+  "description": "Retrieves available options for the Country field.",
+  "type": "action",
+  "version": "0.0.1"
+}

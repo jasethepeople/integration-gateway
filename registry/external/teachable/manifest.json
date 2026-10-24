@@ -1,0 +1,33 @@
+{
+  "app": "teachable",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "studentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "src": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "teachable-create-student",
+    "teachable-list-student-id-options",
+    "teachable-search-users",
+    "teachable-update-student"
+  ]
+}

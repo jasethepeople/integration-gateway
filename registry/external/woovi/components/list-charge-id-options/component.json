@@ -1,0 +1,7 @@
+{
+  "key": "woovi-list-charge-id-options",
+  "name": "List Charge ID Options",
+  "description": "Retrieves available options for the Charge ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

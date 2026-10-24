@@ -1,0 +1,7 @@
+{
+  "key": "altoviz-find-product",
+  "name": "Find Product",
+  "description": "Finds products in Altoviz using the 'productnumber' prop. [See the documentation](https://developer.altoviz.com/api#tag/Products/operation/GET_Products_Find)",
+  "type": "action",
+  "version": "0.0.2"
+}

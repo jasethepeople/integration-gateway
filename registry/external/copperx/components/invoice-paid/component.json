@@ -1,0 +1,7 @@
+{
+  "key": "copperx-invoice-paid",
+  "name": "New Invoice Paid (Instant)",
+  "description": "Emit new event when an invoice is paid.",
+  "type": "source",
+  "version": "0.0.1"
+}

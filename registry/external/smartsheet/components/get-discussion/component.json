@@ -1,0 +1,7 @@
+{
+  "key": "smartsheet-get-discussion",
+  "name": "Get Discussion",
+  "description": "Retrieves a single discussion from a Smartsheet sheet, including its embedded comments array",
+  "type": "action",
+  "version": "0.0.2"
+}

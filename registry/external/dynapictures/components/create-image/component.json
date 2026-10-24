@@ -1,0 +1,7 @@
+{
+  "key": "dynapictures-create-image",
+  "name": "Create Image",
+  "description": "Generates a new image by using a given image as a template. [See the documentation](https://dynapictures.com/docs/#image-generation)",
+  "type": "action",
+  "version": "0.0.2"
+}

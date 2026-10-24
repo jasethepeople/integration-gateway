@@ -1,0 +1,7 @@
+{
+  "key": "mailersend-email-is-soft-bounced",
+  "name": "New Email Is Soft Bounced (Instant)",
+  "description": "Emit new event when your email is not delivered because it soft bounced. [See the documentation](https://developers.mailersend.com/api/v1/webhooks.html#webhooks-overview)",
+  "type": "source",
+  "version": "0.0.1"
+}

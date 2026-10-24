@@ -1,0 +1,7 @@
+{
+  "key": "glide-delete-row",
+  "name": "Delete Row",
+  "description": "Delete an existing row from a table. [See the documentation](https://apidocs.glideapps.com/api-reference/v2/tables/delete-table-row)",
+  "type": "action",
+  "version": "0.0.1"
+}

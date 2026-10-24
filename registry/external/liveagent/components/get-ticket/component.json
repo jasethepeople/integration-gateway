@@ -1,0 +1,7 @@
+{
+  "key": "liveagent-get-ticket",
+  "name": "Get Ticket",
+  "description": "Get a ticket. [See the documentation](https://support.liveagent.com/911737-API-v3)",
+  "type": "action",
+  "version": "0.0.1"
+}

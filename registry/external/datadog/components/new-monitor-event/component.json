@@ -1,0 +1,7 @@
+{
+  "key": "datadog-new-monitor-event",
+  "name": "New Monitor Event (Instant)",
+  "description": "Emit new events captured by a Datadog monitor",
+  "type": "source",
+  "version": "1.0.1"
+}

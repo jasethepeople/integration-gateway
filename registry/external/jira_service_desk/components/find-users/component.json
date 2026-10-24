@@ -1,0 +1,7 @@
+{
+  "key": "jira_service_desk-find-users",
+  "name": "Find Users",
+  "description": "Finds any active user on an Atlassian site by name or email address and returns the `accountId` of each match.",
+  "type": "action",
+  "version": "0.0.2"
+}

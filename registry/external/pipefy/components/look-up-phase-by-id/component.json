@@ -1,0 +1,7 @@
+{
+  "key": "pipefy-look-up-phase-by-id",
+  "name": "Look Up Phase By Id",
+  "description": "Looks up a phase by its ID. [See the docs here](https://api-docs.pipefy.com/reference/queries/#phase)",
+  "type": "action",
+  "version": "0.1.3"
+}

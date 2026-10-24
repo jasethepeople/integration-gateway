@@ -1,0 +1,7 @@
+{
+  "key": "trengo-list-all-categories",
+  "name": "List All Categories",
+  "description": "List all categories in a help center. [See the documentation](https://developers.trengo.com/reference/list-all-categories)",
+  "type": "action",
+  "version": "0.0.5"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "teamgantt-create-task",
+  "name": "Create Task",
+  "description": "Creates a new task within a specific project. [See the documentation](https://api.teamgantt.com)",
+  "type": "action",
+  "version": "0.0.2"
+}

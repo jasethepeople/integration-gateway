@@ -1,0 +1,7 @@
+{
+  "key": "questionpro-create-contact",
+  "name": "Create Contact",
+  "description": "Create a contact in a survey. [See the documentation](https://www.questionpro.com/api/create-email-addresses.html)",
+  "type": "action",
+  "version": "0.0.1"
+}

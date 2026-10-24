@@ -1,0 +1,7 @@
+{
+  "key": "ncscale-push-log",
+  "name": "Push Log",
+  "description": "Pushes a new log entry to the ncscale app. [See the documentation](https://documentation.ncscale.io/docs/api/push-log)",
+  "type": "action",
+  "version": "0.0.2"
+}

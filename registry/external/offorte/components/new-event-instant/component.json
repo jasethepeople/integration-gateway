@@ -1,0 +1,7 @@
+{
+  "key": "offorte-new-event-instant",
+  "name": "New Event (Instant)",
+  "description": "Emit new event when an event is created. [See the documentation](https://www.offorte.com/api-docs/api#tag/Webhooks/operation/webhookDetails)",
+  "type": "source",
+  "version": "0.0.1"
+}

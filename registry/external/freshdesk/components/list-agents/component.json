@@ -1,0 +1,7 @@
+{
+  "key": "freshdesk-list-agents",
+  "name": "List Agents",
+  "description": "List all agents in Freshdesk. [See the documentation](https://developers.freshdesk.com/api/#list_all_agents)",
+  "type": "action",
+  "version": "0.0.10"
+}

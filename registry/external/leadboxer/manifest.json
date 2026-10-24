@@ -1,0 +1,19 @@
+{
+  "app": "leadboxer",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "dataset_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "leadboxer-list-leads",
+    "leadboxer-new-lead-added"
+  ]
+}

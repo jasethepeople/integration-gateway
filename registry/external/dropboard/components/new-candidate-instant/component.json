@@ -1,0 +1,7 @@
+{
+  "key": "dropboard-new-candidate-instant",
+  "name": "New Candidate Profile Created (Instant)",
+  "description": "Emit new event when a candidate profile is created.",
+  "type": "source",
+  "version": "0.0.2"
+}

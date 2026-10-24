@@ -1,0 +1,7 @@
+{
+  "key": "linkly-list-domains",
+  "name": "List Domains",
+  "description": "List all custom domains in your workspace via `GET /api/v1/workspace/{workspace_id}/domains`. [See the documentation](https://app.linklyhq.com/swaggerui#/Domains/listDomains).",
+  "type": "action",
+  "version": "0.0.1"
+}

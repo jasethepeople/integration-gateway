@@ -1,0 +1,7 @@
+{
+  "key": "procore-create-incident",
+  "name": "Create Incident",
+  "description": "Create a new incident. [See the documentation](https://developers.procore.com/reference/rest/incidents?version=latest#create-incident).",
+  "type": "action",
+  "version": "0.0.3"
+}

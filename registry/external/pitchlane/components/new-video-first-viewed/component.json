@@ -1,0 +1,7 @@
+{
+  "key": "pitchlane-new-video-first-viewed",
+  "name": "New Video First Viewed (Instant)",
+  "description": "Emit new event when a video is first viewed in Pitchlane. [See the documentation](https://docs.pitchlane.com/reference#tag/webhooks/POST/webhooks)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "gmail-list-filters",
+  "name": "List Filters",
+  "description": "List every filter configured in the authenticated user's Gmail settings, including each filter's `id`, `criteria` (what it matches) and `action` (what it does to matching mail).",
+  "type": "action",
+  "version": "0.0.1"
+}

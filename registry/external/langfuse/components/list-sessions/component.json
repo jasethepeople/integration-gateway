@@ -1,0 +1,7 @@
+{
+  "key": "langfuse-list-sessions",
+  "name": "List Sessions",
+  "description": "Retrieve a paginated list of sessions from Langfuse with optional filters. [See the documentation](https://api.reference.langfuse.com/#tag/sessions/GET/api/public/sessions).",
+  "type": "action",
+  "version": "0.0.1"
+}

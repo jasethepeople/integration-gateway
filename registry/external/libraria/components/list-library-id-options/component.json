@@ -1,0 +1,7 @@
+{
+  "key": "libraria-list-library-id-options",
+  "name": "List Library ID Options",
+  "description": "Retrieves available options for the Library ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,27 @@
+{
+  "app": "veriphone",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "phoneNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "countryCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phoneType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "veriphone-get-phone-example",
+    "veriphone-verify-phone-number"
+  ]
+}

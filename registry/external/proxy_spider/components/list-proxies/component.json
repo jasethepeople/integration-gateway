@@ -1,0 +1,7 @@
+{
+  "key": "proxy_spider-list-proxies",
+  "name": "List Proxies",
+  "description": "List proxies from Proxy Spider. [See the documentation](https://proxy-spider.com/docs/api/public-proxies)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,50 @@
+{
+  "app": "freshmarketer",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "leadSourceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "listId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ownerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "territoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "freshmarketer-add-update-contact",
+    "freshmarketer-find-contact",
+    "freshmarketer-list-lead-source-id-options",
+    "freshmarketer-list-list-id-options",
+    "freshmarketer-list-owner-id-options",
+    "freshmarketer-list-territory-id-options",
+    "freshmarketer-remove-contact-from-list",
+    "freshmarketer-new-contact-added-to-list",
+    "freshmarketer-new-contact-removed-from-list"
+  ]
+}

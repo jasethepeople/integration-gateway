@@ -1,0 +1,32 @@
+{
+  "app": "billsby",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subscriptionIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "company_domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "billsby-add-feature-tags",
+    "billsby-create-one-time-charge",
+    "billsby-list-subscription-ids-options",
+    "billsby-update-customer-details",
+    "billsby-new-customer-created",
+    "billsby-new-invoice-created",
+    "billsby-new-subscription-created"
+  ]
+}

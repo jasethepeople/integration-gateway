@@ -1,0 +1,7 @@
+{
+  "key": "parsera-list-proxy-country-options",
+  "name": "List Proxy Country Options",
+  "description": "Retrieves available options for the Proxy Country field.",
+  "type": "action",
+  "version": "0.0.1"
+}

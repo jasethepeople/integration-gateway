@@ -1,0 +1,7 @@
+{
+  "key": "zoho_salesiq-list-feedback",
+  "name": "List Feedback",
+  "description": "Retrieve a list of feedback from website visitors. [See the documentation](https://www.zoho.com/salesiq/help/developer-section/visitor-feedback-v2.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

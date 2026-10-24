@@ -1,0 +1,7 @@
+{
+  "key": "shopify_developer_app-draft-order-updated",
+  "name": "Draft Order Updated (Instant)",
+  "description": "Emit new event for each draft order updated in a store.",
+  "type": "source",
+  "version": "0.0.9"
+}

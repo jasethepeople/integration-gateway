@@ -1,0 +1,31 @@
+{
+  "app": "ecologi",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "number": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "units": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "test": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ecologi-buy-offsets",
+    "ecologi-buy-trees"
+  ]
+}

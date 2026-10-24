@@ -1,0 +1,7 @@
+{
+  "key": "jibble-list-client-id-options",
+  "name": "List Client Id Options",
+  "description": "Retrieves available options for the Client Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

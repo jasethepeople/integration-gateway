@@ -1,0 +1,7 @@
+{
+  "key": "browserbase-create-context",
+  "name": "Create Context",
+  "description": "Creates a new context in Browserbase. [See the documentation](https://docs.browserbase.com/reference/api/create-a-context)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "fortnox-list-supplier-invoice-number-options",
+  "name": "List Supplier Invoice Number Options",
+  "description": "Retrieves available options for the Supplier Invoice Number field.",
+  "type": "action",
+  "version": "0.0.1"
+}

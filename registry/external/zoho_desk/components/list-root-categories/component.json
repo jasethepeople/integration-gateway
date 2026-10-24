@@ -1,0 +1,7 @@
+{
+  "key": "zoho_desk-list-root-categories",
+  "name": "List Root Categories",
+  "description": "Lists root knowledge base categories for a help center. [See the documentation](https://desk.zoho.com/portal/APIDocument.do#KnowledgeBase_Listallrootcategoriesofthehelpcenter)",
+  "type": "action",
+  "version": "0.0.8"
+}

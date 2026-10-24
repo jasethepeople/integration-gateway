@@ -1,0 +1,7 @@
+{
+  "key": "credit_repair_cloud-create-client",
+  "name": "Create Client",
+  "description": "Create Client [See the documentation](https://app.creditrepaircloud.com/webapi/examples).",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "typefully-new-draft-published",
+  "name": "New Draft Published",
+  "description": "Emit new event when a draft is published to Twitter via Typefully.",
+  "type": "source",
+  "version": "0.0.1"
+}

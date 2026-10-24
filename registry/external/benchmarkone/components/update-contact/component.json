@@ -1,0 +1,7 @@
+{
+  "key": "benchmarkone-update-contact",
+  "name": "Update Contact",
+  "description": "Updates an existing contact. [See the documentation](https://sandbox.hatchbuck.com/api/dist/#!/Contacts/put_contact)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "nifty-new-task-created",
+  "name": "New Task Created",
+  "description": "Emit new event when a task is created in a project.",
+  "type": "source",
+  "version": "0.0.2"
+}

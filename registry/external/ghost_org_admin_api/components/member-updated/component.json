@@ -1,0 +1,7 @@
+{
+  "key": "ghost_org_admin_api-member-updated",
+  "name": "Member Updated (Instant)",
+  "description": "Emit new event each time a member is updated.",
+  "type": "source",
+  "version": "0.0.10"
+}

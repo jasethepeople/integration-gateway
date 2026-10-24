@@ -1,0 +1,7 @@
+{
+  "key": "google_photos-add-items-to-album",
+  "name": "Add Items To Album",
+  "description": "Adds selected items to the selected album. [See the documentation](https://developers.google.com/photos/library/guides/manage-albums#adding-items-to-album)",
+  "type": "action",
+  "version": "0.0.2"
+}

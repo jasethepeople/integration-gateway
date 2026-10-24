@@ -1,0 +1,7 @@
+{
+  "key": "softr-search-records",
+  "name": "Search Records",
+  "description": "Searches for records in a Softr database by field value. [See the documentation](https://docs.softr.io/softr-api/softr-database-api/records/search-records)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "constant_contact-list-taggings-options",
+  "name": "List Taggings Options",
+  "description": "Retrieves available options for the Taggings field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "hubspot-list-crm-associations",
+  "name": "List CRM Associations",
+  "description": "List CRM v4 associations from a source record to a target object type.",
+  "type": "action",
+  "version": "0.0.7"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pdf_app_net-image-to-pdf",
+  "name": "Image to PDF",
+  "description": "Convert an image from a URL to a PDF File with PDF-app.net. [See the documentation](https://pdf-app.net/apidocumentation)",
+  "type": "action",
+  "version": "0.0.2"
+}

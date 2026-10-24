@@ -1,0 +1,37 @@
+{
+  "app": "cisco_webex",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "roomId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "messageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "teamId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "personId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "cisco_webex-create-message",
+    "cisco_webex-create-room",
+    "cisco_webex-list-messages",
+    "cisco_webex-new-message"
+  ],
+  "npmImports": [
+    "crypto",
+    "uuid"
+  ]
+}

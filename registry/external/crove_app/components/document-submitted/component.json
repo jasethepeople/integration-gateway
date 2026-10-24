@@ -1,0 +1,7 @@
+{
+  "key": "crove_app-document-submitted",
+  "name": "Document Submitted",
+  "description": "Triggers when a document is submitted.",
+  "type": "source",
+  "version": "1.0.2"
+}

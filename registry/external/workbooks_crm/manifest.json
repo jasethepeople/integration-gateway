@@ -1,0 +1,45 @@
+{
+  "app": "workbooks_crm",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "organizationQueue": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "personQueue": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "personId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderQueue": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "authenticity_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "session_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "workbooks_crm-create-customer-order",
+    "workbooks_crm-create-organisation",
+    "workbooks_crm-create-person",
+    "workbooks_crm-find-or-create-order",
+    "workbooks_crm-update-person",
+    "workbooks_crm-new-organisation",
+    "workbooks_crm-new-person",
+    "workbooks_crm-posted-credit-note",
+    "workbooks_crm-posted-invoice"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

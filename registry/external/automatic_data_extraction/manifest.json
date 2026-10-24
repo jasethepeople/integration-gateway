@@ -1,0 +1,14 @@
+{
+  "app": "automatic_data_extraction",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "automatic_data_extraction-extract-data-from-url"
+  ]
+}

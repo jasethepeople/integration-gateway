@@ -1,0 +1,7 @@
+{
+  "key": "appsflyer-get-message-fields",
+  "name": "Get Message Fields",
+  "description": "Returns a list of the available message fields for each platform. [See the documentation](https://dev.appsflyer.com/hc/reference/get_fields-platform)",
+  "type": "action",
+  "version": "0.0.2"
+}

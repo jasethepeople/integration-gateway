@@ -1,0 +1,7 @@
+{
+  "key": "snipe_it-get-user-assets",
+  "name": "Get User Assets",
+  "description": "Retrieves all assets currently assigned to a specific user. Useful for audits and inventory reviews. [See the documentation](https://snipe-it.readme.io/reference/usersidassets)",
+  "type": "action",
+  "version": "0.0.2"
+}

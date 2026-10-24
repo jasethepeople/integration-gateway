@@ -1,0 +1,7 @@
+{
+  "key": "explorium-new-business-event",
+  "name": "New Business Event (Instant)",
+  "description": "Emit new event when a business update occurs. [See the documentation](https://developers.explorium.ai/reference/webhooks)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "retriever-create-device-return",
+  "name": "Create Device Return",
+  "description": "Creates a device return order. [See the documentation](https://app.helloretriever.com/api/v1/docs/#tag/Device-Return-Orders/operation/Submit%20Order)",
+  "type": "action",
+  "version": "0.0.2"
+}

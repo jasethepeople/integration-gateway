@@ -1,0 +1,32 @@
+{
+  "app": "sms_messages",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "message": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "numbers": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sms_messages-send-registered-sms-contract",
+    "sms_messages-send-registered-sms",
+    "sms_messages-send-sms"
+  ]
+}

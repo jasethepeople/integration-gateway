@@ -1,0 +1,7 @@
+{
+  "key": "bamboohr-get-company-report",
+  "name": "Get Company Report",
+  "description": "Get a saved company report by ID. Report IDs are company-specific. In JSON, returns `{title, fields, employees}`. [See the documentation](https://documentation.bamboohr.com/reference/get-company-report)",
+  "type": "action",
+  "version": "0.0.1"
+}

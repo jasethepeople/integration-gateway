@@ -1,0 +1,7 @@
+{
+  "key": "uplisting-new-booking-removed",
+  "name": "New Booking Removed (Instant)",
+  "description": "Emit new event when a booking is removed.",
+  "type": "source",
+  "version": "0.0.1"
+}

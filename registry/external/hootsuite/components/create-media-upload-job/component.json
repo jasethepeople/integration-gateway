@@ -1,0 +1,7 @@
+{
+  "key": "hootsuite-create-media-upload-job",
+  "name": "Create Media Upload Job",
+  "description": "Creates a new Media Upload Job on your Hootsuite account. [See the documentation](https://apidocs.hootsuite.com/docs/api/index.html#operation/createMedia)",
+  "type": "action",
+  "version": "0.0.4"
+}

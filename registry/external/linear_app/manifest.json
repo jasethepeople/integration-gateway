@@ -1,0 +1,152 @@
+{
+  "app": "linear_app",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "teamId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "issueId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "issueIdentifier": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "issueTitle": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "assigneeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "stateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "issueDescription": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "issueLabelNames": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "issueLabelIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "projectStatusId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectLabelIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "initiativeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customViewId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectPriority": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "issuePriority": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "initiativeStatus": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "targetDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "updateBody": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "health": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderBy": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "includeArchived": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "first": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "after": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "linear_app-create-comment",
+    "linear_app-create-initiative-update",
+    "linear_app-create-initiative",
+    "linear_app-create-issue",
+    "linear_app-create-project-update",
+    "linear_app-create-project",
+    "linear_app-get-initiative-update",
+    "linear_app-get-issue",
+    "linear_app-get-project-update",
+    "linear_app-get-teams",
+    "linear_app-get-view-issues",
+    "linear_app-list-comments",
+    "linear_app-list-initiative-updates",
+    "linear_app-list-initiatives",
+    "linear_app-list-labels",
+    "linear_app-list-project-labels",
+    "linear_app-list-project-statuses",
+    "linear_app-list-project-updates",
+    "linear_app-list-projects",
+    "linear_app-list-users",
+    "linear_app-list-views",
+    "linear_app-list-workflow-states",
+    "linear_app-remove-label-from-issue",
+    "linear_app-search-issues",
+    "linear_app-update-initiative",
+    "linear_app-update-issue",
+    "linear_app-comment-created-instant",
+    "linear_app-issue-created-instant",
+    "linear_app-issue-updated-instant",
+    "linear_app-new-issue-status-updated",
+    "linear_app-new-projectupdate-created",
+    "linear_app-project-updated-instant"
+  ],
+  "npmImports": [
+    "@linear/sdk"
+  ]
+}

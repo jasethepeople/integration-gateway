@@ -1,0 +1,7 @@
+{
+  "key": "clicktime-create-user",
+  "name": "Create User",
+  "description": "Create an User on ClickTime. [See the documentation](https://developer.clicktime.com/docs/api/#/operations/Users/CreateManagedUser)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zoom-create-user",
+  "name": "Create User",
+  "description": "Creates a new user in your account.",
+  "type": "action",
+  "version": "0.2.6"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zoho_crm-list-modules",
+  "name": "List Modules",
+  "description": "Retrieves a list of all the modules available in your CRM account.",
+  "type": "action",
+  "version": "0.0.4"
+}

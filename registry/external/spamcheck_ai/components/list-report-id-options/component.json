@@ -1,0 +1,7 @@
+{
+  "key": "spamcheck_ai-list-report-id-options",
+  "name": "List Report ID Options",
+  "description": "Retrieves available options for the Report ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

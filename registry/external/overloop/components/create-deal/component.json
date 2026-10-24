@@ -1,0 +1,7 @@
+{
+  "key": "overloop-create-deal",
+  "name": "Create Deal",
+  "description": "Creates a new deal. [See the docs](https://apidoc.overloop.com/#create-a-deal)",
+  "type": "action",
+  "version": "0.0.2"
+}

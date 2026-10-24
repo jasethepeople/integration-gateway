@@ -1,0 +1,7 @@
+{
+  "key": "shopify-customer-data-request",
+  "name": "New Customer Data Request",
+  "description": "Emit new customer data requests for data via a GDPR request.",
+  "type": "source",
+  "version": "0.0.23"
+}

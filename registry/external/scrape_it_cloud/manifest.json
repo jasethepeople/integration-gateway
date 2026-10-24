@@ -1,0 +1,14 @@
+{
+  "app": "scrape_it_cloud",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "scrape_it_cloud-start-scraping"
+  ]
+}

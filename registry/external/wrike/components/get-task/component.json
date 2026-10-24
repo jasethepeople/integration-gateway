@@ -1,0 +1,7 @@
+{
+  "key": "wrike-get-task",
+  "name": "Get Task",
+  "description": "Retrieve the full details of one or more Wrike tasks (title, status, importance, dates, responsibles, custom fields) via GET /tasks/{taskIds}. Use this when you already know a task ID and need its complete record. Use **Find Tasks** to discover task IDs within a folder first. Provide the taskId as returned by **Find Tasks**. [See the documentation](https://developers.wrike.com/reference/gettasksmulti)",
+  "type": "action",
+  "version": "0.0.2"
+}

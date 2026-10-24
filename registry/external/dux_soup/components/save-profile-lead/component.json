@@ -1,0 +1,7 @@
+{
+  "key": "dux_soup-save-profile-lead",
+  "name": "Save Profile as Lead",
+  "description": "Queues a profile save action to store the targeted profile as a lead. [See the documentation](https://support.dux-soup.com/article/115-remote-control-by-example)",
+  "type": "action",
+  "version": "0.0.3"
+}

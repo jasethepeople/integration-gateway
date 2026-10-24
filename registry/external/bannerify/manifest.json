@@ -1,0 +1,24 @@
+{
+  "app": "bannerify",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "modifications": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "bannerify-list-templates",
+    "bannerify-render-image",
+    "bannerify-render-pdf"
+  ]
+}

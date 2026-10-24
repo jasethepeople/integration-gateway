@@ -1,0 +1,7 @@
+{
+  "key": "parseur-new-mailbox-created",
+  "name": "New Mailbox Created",
+  "description": "Emit new event when a new mailbox is created. [See the docs](https://help.parseur.com/en/articles/3566155-send-parsed-data-using-webhooks).",
+  "type": "source",
+  "version": "0.0.1"
+}

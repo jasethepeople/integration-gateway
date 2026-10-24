@@ -1,0 +1,7 @@
+{
+  "key": "klaxoon-create-idea",
+  "name": "Create Idea",
+  "description": "Creates an idea. [See the documentation](https://developers.klaxoon.com/reference/v1boardideapost)",
+  "type": "action",
+  "version": "0.0.3"
+}

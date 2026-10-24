@@ -1,0 +1,69 @@
+{
+  "app": "gleap",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "data": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "date": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "feedbackId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userValue": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userPhone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userCreatedAt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customProperties": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "secret_api_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "gleap-create-track-event",
+    "gleap-list-project-id-options",
+    "gleap-new-feedback-created",
+    "gleap-new-feedback-updated"
+  ]
+}

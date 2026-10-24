@@ -1,0 +1,22 @@
+{
+  "app": "ambivo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ambivo-get-contacts",
+    "ambivo-get-leads",
+    "ambivo-contact-status-updated",
+    "ambivo-new-contact-created",
+    "ambivo-new-lead-created"
+  ]
+}

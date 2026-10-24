@@ -1,0 +1,7 @@
+{
+  "key": "zoom_admin-list-meetings",
+  "name": "List meetings",
+  "description": "List all meetings. [See the documentation](https://marketplace.zoom.us/docs/api-reference/zoom-api/meetings/meetings)",
+  "type": "action",
+  "version": "0.2.5"
+}

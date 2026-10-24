@@ -1,0 +1,7 @@
+{
+  "key": "livekit-new-room-event-instant",
+  "name": "New Room Event (Instant)",
+  "description": "Emit new event for LiveKit room activities via webhook. [See the documentation](https://docs.livekit.io/home/server/webhooks/).",
+  "type": "source",
+  "version": "0.0.1"
+}

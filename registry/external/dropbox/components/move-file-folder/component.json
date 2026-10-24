@@ -1,0 +1,7 @@
+{
+  "key": "dropbox-move-file-folder",
+  "name": "Move a File/Folder",
+  "description": "Moves a file or folder to a different location in the user's Dropbox [See the documentation](https://dropbox.github.io/dropbox-sdk-js/Dropbox.html#filesMoveV2__anchor)",
+  "type": "action",
+  "version": "0.0.15"
+}

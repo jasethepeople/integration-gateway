@@ -1,0 +1,7 @@
+{
+  "key": "smoove-new-list-created",
+  "name": "New List Created",
+  "description": "Emit new event when a new list is created. [See the docs](https://rest.smoove.io/#!/Lists/Lists_Get).",
+  "type": "source",
+  "version": "0.0.1"
+}

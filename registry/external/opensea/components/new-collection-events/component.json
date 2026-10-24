@@ -1,0 +1,7 @@
+{
+  "key": "opensea-new-collection-events",
+  "name": "New Collection Events",
+  "description": "Emit new filtered events for a collection. [See the documentation](https://docs.opensea.io/reference/list_events_by_collection)",
+  "type": "source",
+  "version": "0.0.4"
+}

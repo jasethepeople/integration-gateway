@@ -1,0 +1,7 @@
+{
+  "key": "strava-activity-created",
+  "name": "New Activity Created Event",
+  "description": "Emit new event when a new activity is created",
+  "type": "source",
+  "version": "0.0.3"
+}

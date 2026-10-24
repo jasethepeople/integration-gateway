@@ -1,0 +1,7 @@
+{
+  "key": "coinbase-place-buy-order",
+  "name": "Place Buy Order",
+  "description": "Places a buy order",
+  "type": "action",
+  "version": "0.1.2"
+}

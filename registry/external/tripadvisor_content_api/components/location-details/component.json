@@ -1,0 +1,7 @@
+{
+  "key": "tripadvisor_content_api-location-details",
+  "name": "Get Location Details",
+  "description": "Returns comprehensive information about a location. [See the documentation](https://tripadvisor-content-api.readme.io/reference/getlocationdetails)",
+  "type": "action",
+  "version": "0.0.2"
+}

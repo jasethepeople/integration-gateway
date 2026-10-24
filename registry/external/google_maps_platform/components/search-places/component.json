@@ -1,0 +1,7 @@
+{
+  "key": "google_maps_platform-search-places",
+  "name": "Search Places",
+  "description": "Searches for places based on location, radius, and optional filters like keywords, place type, or name. [See the documentation](https://developers.google.com/maps/documentation/places/web-service/text-search)",
+  "type": "action",
+  "version": "0.0.4"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "userlist-create-update-company",
+  "name": "Create or Update Company",
+  "description": "Creates a new company or replaces an existing one using a given identifier. [See the documentation](https://userlist.com/docs/getting-started/integration-guide/)",
+  "type": "action",
+  "version": "0.0.2"
+}

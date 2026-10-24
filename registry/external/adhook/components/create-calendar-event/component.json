@@ -1,0 +1,7 @@
+{
+  "key": "adhook-create-calendar-event",
+  "name": "Create Calendar Event",
+  "description": "Generates a personalized calendar event in AdHook. [See the documentation](https://app.adhook.io/api-doc/)",
+  "type": "action",
+  "version": "0.0.2"
+}

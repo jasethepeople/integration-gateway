@@ -1,0 +1,270 @@
+{
+  "app": "mews",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "additionalFields": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "reservationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "serviceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startUtc": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endUtc": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "state": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "resourceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "number": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "notes": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "rateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "travelAgencyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "businessSegmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "currency": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taxRate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "departmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productServiceOrderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "accountType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "billId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "countryCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "creditCardId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "availabilityBlockId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "enterpriseIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "orderItemIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "reservationGroupIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "sex": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "secondLastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "birthDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "birthPlace": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "occupation": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "loyaltyCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "carRegistrationNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dietaryRequirements": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taxIdentificationNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "address": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "classifications": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "options": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "italianDestinationCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "italianFiscalCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "createdStartUtc": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "createdEndUtc": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "updatedStartUtc": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "updatedEndUtc": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "deletedStartUtc": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "deletedEndUtc": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "filePath": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "resourceCategoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "activityStates": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "platform_url": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mews-add-customer-file",
+    "mews-add-customer",
+    "mews-add-reservation-companion",
+    "mews-add-reservation-product",
+    "mews-cancel-reservation",
+    "mews-create-availability-block",
+    "mews-create-order",
+    "mews-create-reservation",
+    "mews-create-task",
+    "mews-fetch-age-categories",
+    "mews-fetch-bills",
+    "mews-fetch-customers",
+    "mews-fetch-order-items",
+    "mews-fetch-products",
+    "mews-fetch-rates",
+    "mews-fetch-reservations",
+    "mews-get-bill-pdf",
+    "mews-get-rate-prices",
+    "mews-update-customer",
+    "mews-update-reservation",
+    "mews-bill-closed",
+    "mews-company-created",
+    "mews-customer-created",
+    "mews-order-item-created",
+    "mews-order-item-updated",
+    "mews-product-service-order-created",
+    "mews-reservation-cancelled",
+    "mews-reservation-created",
+    "mews-reservation-updated"
+  ]
+}

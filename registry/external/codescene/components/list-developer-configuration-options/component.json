@@ -1,0 +1,7 @@
+{
+  "key": "codescene-list-developer-configuration-options",
+  "name": "List Developer Configuration Options",
+  "description": "Retrieves available options for the Developer Configuration field.",
+  "type": "action",
+  "version": "0.0.1"
+}

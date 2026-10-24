@@ -1,0 +1,7 @@
+{
+  "key": "trello-new-checklist",
+  "name": "New Checklist (Instant)",
+  "description": "Emit new event for each new checklist added to a board.",
+  "type": "source",
+  "version": "0.1.6"
+}

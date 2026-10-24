@@ -1,0 +1,7 @@
+{
+  "key": "wave-create-invoice",
+  "name": "Create Invoice",
+  "description": "Create an invoice for a customer with one product. [See the documentation](https://developer.waveapps.com/hc/en-us/articles/360038817812-Mutation-Create-invoice)",
+  "type": "action",
+  "version": "0.0.2"
+}

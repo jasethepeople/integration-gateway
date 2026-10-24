@@ -1,0 +1,25 @@
+{
+  "app": "google_merchant_center",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "productId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "merchant_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "google_merchant_center-create-product",
+    "google_merchant_center-list-product-id-options",
+    "google_merchant_center-update-product",
+    "google_merchant_center-new-product-added"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "ewebinar-webinar-joined",
+  "name": "New Webinar Joined",
+  "description": "Emit new event immediately after a registrant joins a webinar session or starts a replay.",
+  "type": "source",
+  "version": "0.0.1"
+}

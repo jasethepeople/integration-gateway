@@ -1,0 +1,7 @@
+{
+  "key": "quickbooks-list-department-ids-options",
+  "name": "List Department IDs Options",
+  "description": "Retrieves available options for the Department IDs field.",
+  "type": "action",
+  "version": "0.0.1"
+}

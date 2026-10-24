@@ -1,0 +1,7 @@
+{
+  "key": "habitify-habit-status-updated",
+  "name": "Habit Status Updated",
+  "description": "Emit new event when the status of a habit is updated. [See the documentation](https://docs.habitify.me/core-resources/habits/status)",
+  "type": "source",
+  "version": "0.0.1"
+}

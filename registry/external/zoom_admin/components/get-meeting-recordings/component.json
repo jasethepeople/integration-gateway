@@ -1,0 +1,7 @@
+{
+  "key": "zoom_admin-get-meeting-recordings",
+  "name": "Get meeting recordings",
+  "description": "Get all recordings of a meeting. [See the documentation](https://developers.zoom.us/docs/api/meetings/#tag/cloud-recording/GET/meetings/{meetingId}/recordings)",
+  "type": "action",
+  "version": "0.0.4"
+}

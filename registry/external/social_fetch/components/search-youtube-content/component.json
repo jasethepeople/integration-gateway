@@ -1,0 +1,7 @@
+{
+  "key": "social_fetch-search-youtube-content",
+  "name": "Search YouTube Content",
+  "description": "Searches YouTube for videos matching a query. [See the documentation](https://app.socialfetch.dev/playground?path=/v1/youtube/search&method=GET)",
+  "type": "action",
+  "version": "0.0.1"
+}

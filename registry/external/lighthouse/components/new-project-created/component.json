@@ -1,0 +1,7 @@
+{
+  "key": "lighthouse-new-project-created",
+  "name": "New Project Created",
+  "description": "Emit new event for each new project created.",
+  "type": "source",
+  "version": "0.0.1"
+}

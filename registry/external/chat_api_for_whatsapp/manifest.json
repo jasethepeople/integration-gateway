@@ -1,0 +1,9 @@
+{
+  "app": "chat_api_for_whatsapp",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "chat_api_for_whatsapp-send-message"
+  ]
+}

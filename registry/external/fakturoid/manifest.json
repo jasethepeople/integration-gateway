@@ -1,0 +1,32 @@
+{
+  "app": "fakturoid",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "accountSlug": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subjectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "invoiceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "fakturoid-cancel-uncancel-invoice",
+    "fakturoid-create-invoice",
+    "fakturoid-list-account-slug-options",
+    "fakturoid-pay-remove-payment-invoice",
+    "fakturoid-invoice-updated",
+    "fakturoid-new-contact",
+    "fakturoid-new-invoice"
+  ]
+}

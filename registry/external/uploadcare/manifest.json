@@ -1,0 +1,22 @@
+{
+  "app": "uploadcare",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "uploadcare-upload-file",
+    "uploadcare-new-uploaded-file"
+  ],
+  "npmImports": [
+    "qs"
+  ]
+}

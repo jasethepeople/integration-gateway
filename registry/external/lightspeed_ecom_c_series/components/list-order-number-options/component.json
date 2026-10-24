@@ -1,0 +1,7 @@
+{
+  "key": "lightspeed_ecom_c_series-list-order-number-options",
+  "name": "List Order Number Options",
+  "description": "Retrieves available options for the Order Number field.",
+  "type": "action",
+  "version": "0.0.1"
+}

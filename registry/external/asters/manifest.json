@@ -1,0 +1,35 @@
+{
+  "app": "asters",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "workspaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "socialAccountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fromDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "toDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "asters-list-labels",
+    "asters-list-posts-analytics",
+    "asters-list-posts",
+    "asters-list-social-accounts",
+    "asters-list-workspace-id-options",
+    "asters-new-label-added"
+  ]
+}

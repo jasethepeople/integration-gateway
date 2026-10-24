@@ -1,0 +1,43 @@
+{
+  "app": "fathom",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "recordingId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "includeActionItems": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "includeCrmMatches": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "teamName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cursor": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "fathom-get-recording-download-status",
+    "fathom-get-recording-summary",
+    "fathom-get-recording-transcript",
+    "fathom-list-meeting-types",
+    "fathom-list-meetings",
+    "fathom-list-team-members",
+    "fathom-list-teams",
+    "fathom-list-users",
+    "fathom-request-recording-download",
+    "fathom-new-recording"
+  ]
+}

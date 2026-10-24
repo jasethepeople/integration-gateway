@@ -1,0 +1,7 @@
+{
+  "key": "pretix-list-organizer-slug-options",
+  "name": "List Organizer Slug Options",
+  "description": "Retrieves available options for the Organizer Slug field.",
+  "type": "action",
+  "version": "0.0.1"
+}

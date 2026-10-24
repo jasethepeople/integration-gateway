@@ -1,0 +1,22 @@
+{
+  "app": "clearbit",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "errorIfNoRecords": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "secret_api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "clearbit-company-name-to-domain",
+    "clearbit-domain-lookup",
+    "clearbit-email-lookup",
+    "clearbit-find-companies",
+    "clearbit-find-contacts"
+  ]
+}

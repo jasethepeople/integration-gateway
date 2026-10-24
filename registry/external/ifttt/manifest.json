@@ -1,0 +1,31 @@
+{
+  "app": "ifttt",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "webhookKey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eventName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "data": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "value": {
+      "kind": "propDefinition",
+      "type": "any"
+    },
+    "ifttt_Service_Key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ifttt-trigger-event-with-json",
+    "ifttt-trigger-event-with-values"
+  ]
+}

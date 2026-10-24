@@ -1,0 +1,25 @@
+{
+  "app": "callrail",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "callrail-list-account-id-options",
+    "callrail-new-sms-received-instant",
+    "callrail-phone-call-completed-instant",
+    "callrail-phone-call-started-instant"
+  ]
+}

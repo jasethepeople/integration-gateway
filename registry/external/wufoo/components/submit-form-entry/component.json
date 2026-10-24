@@ -1,0 +1,7 @@
+{
+  "key": "wufoo-submit-form-entry",
+  "name": "Submit Form Entry",
+  "description": "Submit a new entry to a specific form. [See the documentation](https://wufoo.github.io/docs/#submit-entry)",
+  "type": "action",
+  "version": "0.0.2"
+}

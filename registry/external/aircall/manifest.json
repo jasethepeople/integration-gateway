@@ -1,0 +1,65 @@
+{
+  "app": "aircall",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "call": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "information": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "from": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "to": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "order": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "aircall-create-contact",
+    "aircall-get-call",
+    "aircall-list-call-options",
+    "aircall-list-calls",
+    "aircall-list-contacts",
+    "aircall-retrieve-transcription",
+    "aircall-update-contact",
+    "aircall-new-call-ended",
+    "aircall-new-note-added",
+    "aircall-new-number-created",
+    "aircall-new-sms",
+    "aircall-new-tag-added"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "ispring_learn-new-enrollment-instant",
+  "name": "New Enrollment (Instant)",
+  "description": "Emit new event when learners are enrolled in courses.",
+  "type": "source",
+  "version": "0.0.1"
+}

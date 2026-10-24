@@ -1,0 +1,7 @@
+{
+  "key": "status_hero-create-team-holiday",
+  "name": "Create Team Holiday",
+  "description": "Creates a team-wide holiday., [See the docs](https://api.statushero.com/#team-absences)",
+  "type": "action",
+  "version": "0.0.2"
+}

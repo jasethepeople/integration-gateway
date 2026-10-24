@@ -1,0 +1,7 @@
+{
+  "key": "alttextify-list-asset-id-options",
+  "name": "List Asset ID Options",
+  "description": "Retrieves available options for the Asset ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

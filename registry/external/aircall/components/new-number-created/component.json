@@ -1,0 +1,7 @@
+{
+  "key": "aircall-new-number-created",
+  "name": "New Number Created",
+  "description": "Emit new event when a number is created",
+  "type": "source",
+  "version": "0.0.5"
+}

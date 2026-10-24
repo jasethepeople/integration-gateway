@@ -1,0 +1,7 @@
+{
+  "key": "eodhd_apis-retrieve-stock-prices",
+  "name": "Retrieve Stock Prices",
+  "description": "Fetch historical stock prices for a given symbol and time period. [See the docs here](https://eodhistoricaldata.com/financial-apis/api-for-historical-data-and-volumes/)",
+  "type": "action",
+  "version": "0.0.2"
+}

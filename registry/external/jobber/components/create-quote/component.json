@@ -1,0 +1,7 @@
+{
+  "key": "jobber-create-quote",
+  "name": "Create Quote",
+  "description": "Generates a new quote for a client's property in Jobber. [See the documentation](https://developer.getjobber.com/docs/)",
+  "type": "action",
+  "version": "0.0.4"
+}

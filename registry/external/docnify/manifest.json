@@ -1,0 +1,33 @@
+{
+  "app": "docnify",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "documentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "docnify-add-recipient-to-document",
+    "docnify-create-document-from-template",
+    "docnify-list-document-id-options",
+    "docnify-list-template-id-options",
+    "docnify-send-document",
+    "docnify-new-document-completed",
+    "docnify-new-document-created",
+    "docnify-new-document-signed"
+  ]
+}

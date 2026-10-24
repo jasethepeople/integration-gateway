@@ -1,0 +1,32 @@
+{
+  "app": "facebook_groups",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "group": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "post": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "facebook_groups-create-post",
+    "facebook_groups-get-post",
+    "facebook_groups-list-comments",
+    "facebook_groups-list-reactions",
+    "facebook_groups-post-photo",
+    "facebook_groups-new-comment-created",
+    "facebook_groups-new-post-created"
+  ]
+}

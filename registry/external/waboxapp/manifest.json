@@ -1,0 +1,45 @@
+{
+  "app": "waboxapp",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "uid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "to": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customUid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "caption": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "urlThumb": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "waboxapp-send-image",
+    "waboxapp-send-link",
+    "waboxapp-send-media",
+    "waboxapp-send-text-message"
+  ]
+}

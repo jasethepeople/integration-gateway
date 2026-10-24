@@ -1,0 +1,7 @@
+{
+  "key": "chartmogul-retrieve-mrr",
+  "name": "Retrieve Monthly Recurring Revenue (MRR)",
+  "description": "Retrieves the Monthly Recurring Revenue (MRR), for the specified time period. [See the docs here](https://dev.chartmogul.com/reference/retrieve-mrr)",
+  "type": "action",
+  "version": "0.0.2"
+}

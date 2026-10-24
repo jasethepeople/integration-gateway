@@ -1,0 +1,7 @@
+{
+  "key": "coinbase-withdraw-funds",
+  "name": "Withdraw Funds",
+  "description": "Withdraw funds",
+  "type": "action",
+  "version": "0.1.2"
+}

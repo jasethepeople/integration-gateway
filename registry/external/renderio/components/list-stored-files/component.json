@@ -1,0 +1,7 @@
+{
+  "key": "renderio-list-stored-files",
+  "name": "List Stored Files",
+  "description": "Retrieve stored files for the account. [See the documentation](https://renderio.dev/docs/api-reference/files/list-files)",
+  "type": "action",
+  "version": "0.0.1"
+}

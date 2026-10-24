@@ -1,0 +1,18 @@
+{
+  "app": "easyly",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "easyly-post-lead",
+    "easyly-new-event-triggered-instant"
+  ],
+  "npmImports": [
+    "uuid"
+  ]
+}

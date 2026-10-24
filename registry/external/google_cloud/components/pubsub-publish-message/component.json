@@ -1,0 +1,7 @@
+{
+  "key": "google_cloud-pubsub-publish-message",
+  "name": "Pub/Sub - Publish Message",
+  "description": "Publish a message to a Pub/Sub topic. [See the documentation](https://cloud.google.com/nodejs/docs/reference/pubsub/latest/pubsub/topic#_google_cloud_pubsub_Topic_publishMessage_member_1_)",
+  "type": "action",
+  "version": "0.0.3"
+}

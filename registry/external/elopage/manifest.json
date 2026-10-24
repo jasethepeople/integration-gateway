@@ -1,0 +1,25 @@
+{
+  "app": "elopage",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "productId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "elopage-create-order",
+    "elopage-list-funnels",
+    "elopage-list-products",
+    "elopage-new-webhook-event"
+  ]
+}

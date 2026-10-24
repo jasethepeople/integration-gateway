@@ -1,0 +1,7 @@
+{
+  "key": "freshservice-ticket-updated",
+  "name": "Ticket Updated",
+  "description": "Emit new event for each updated ticket. [See documentation](https://api.freshservice.com/#view_all_ticket)",
+  "type": "source",
+  "version": "0.0.1"
+}

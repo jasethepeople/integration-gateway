@@ -1,0 +1,199 @@
+{
+  "app": "gitlab",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "groupPath": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "branch": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "issueIid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "epicIid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "labels": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "groupLabels": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "assignee": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "issueState": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "stateEvent": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "max": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "color": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "confidential": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "created_at": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "updated_at": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "start_date_is_fixed": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "due_date_is_fixed": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "projectIdStatic": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "groupIdStatic": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sourceBranchStatic": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "targetBranchStatic": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "labelsStatic": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "mergeRequestIid": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "discussionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mergeRequestState": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mergeRequestScope": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mergeRequestOrderBy": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sortDirection": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "detail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "base_api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_uid": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "gitlab-approve-merge-request",
+    "gitlab-create-branch",
+    "gitlab-create-epic",
+    "gitlab-create-issue",
+    "gitlab-create-merge-request-comment",
+    "gitlab-create-merge-request-review",
+    "gitlab-create-merge-request",
+    "gitlab-get-issue",
+    "gitlab-get-merge-request-commits",
+    "gitlab-get-merge-request-diffs",
+    "gitlab-get-merge-request",
+    "gitlab-get-repo-branch",
+    "gitlab-list-commits",
+    "gitlab-list-group-id-options",
+    "gitlab-list-group-path-options",
+    "gitlab-list-groups",
+    "gitlab-list-merge-request-discussions",
+    "gitlab-list-merge-requests",
+    "gitlab-list-project-id-options",
+    "gitlab-list-project-labels",
+    "gitlab-list-project-members",
+    "gitlab-list-projects",
+    "gitlab-list-repo-branches",
+    "gitlab-resolve-merge-request-thread",
+    "gitlab-search-issues",
+    "gitlab-search-merge-requests",
+    "gitlab-update-epic",
+    "gitlab-update-issue",
+    "gitlab-new-audit-event",
+    "gitlab-new-branch",
+    "gitlab-new-commit-comment",
+    "gitlab-new-commit",
+    "gitlab-new-issue",
+    "gitlab-new-mention",
+    "gitlab-new-merge-request",
+    "gitlab-new-milestone",
+    "gitlab-new-project",
+    "gitlab-new-review-request"
+  ],
+  "npmImports": [
+    "lodash",
+    "uuid"
+  ]
+}

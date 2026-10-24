@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-list-badges",
+  "name": "List Badges",
+  "description": "List badges with optional filters. [See the documentation](https://developer.servicem8.com/reference/listbadges)",
+  "type": "action",
+  "version": "0.0.1"
+}

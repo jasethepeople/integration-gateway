@@ -1,0 +1,15 @@
+{
+  "app": "castmagic",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "secret_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "castmagic-get-transcription",
+    "castmagic-submit-transcription-request"
+  ]
+}

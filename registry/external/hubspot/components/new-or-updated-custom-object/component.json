@@ -1,0 +1,7 @@
+{
+  "key": "hubspot-new-or-updated-custom-object",
+  "name": "New or Updated Custom Object",
+  "description": "Emit new event each time a Custom Object of the specified schema is updated.",
+  "type": "source",
+  "version": "0.0.36"
+}

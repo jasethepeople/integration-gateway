@@ -1,0 +1,218 @@
+// x-pd-ai: optimized
+import { axios } from "../_platform-shim.mjs";
+
+const __pdApp = {
+  type: "app",
+  app: "google_tasks",
+  propDefinitions: {
+    title: {
+      type: "string",
+      label: "Title",
+      description: "The title of the task list.",
+    },
+    notes: {
+      type: "string",
+      label: "Notes",
+      description: "The description of the task.",
+      optional: true,
+    },
+    maxResults: {
+      type: "integer",
+      label: "Max Results",
+      description: "Maximum number of registers to be fetched.",
+      default: 20,
+    },
+    taskListId: {
+      type: "string",
+      label: "Task List",
+      description: "The ID of the task list.",
+      async options({ prevContext }) {
+        const res = await this.getTaskLists(this, {
+          pageToken: prevContext.nextPageToken,
+        });
+        return {
+          context: {
+            nextPageToken: res.nextPageToken,
+          },
+          options: res.items.map((taskList) => ({
+            label: taskList.title,
+            value: taskList.id,
+          })),
+        };
+      },
+    },
+    taskId: {
+      type: "string",
+      label: "Task",
+      description: "The ID of the task.",
+      async options({
+        prevContext, taskListId,
+      }) {
+        const res = await this.getTasks(
+          this,
+          {
+            pageToken: prevContext.nextPageToken,
+          },
+          taskListId,
+        );
+        return {
+          context: {
+            nextPageToken: res.nextPageToken,
+          },
+          options: res.items.map((task) => ({
+            label: task.title,
+            value: task.id,
+          })),
+        };
+      },
+    },
+    completed: {
+      type: "boolean",
+      label: "Completed",
+      description: "Mark as `true` if your task is already completed.",
+    },
+    due: {
+      type: "string",
+      label: "Due",
+      description:
+        "Due date of the task (as a [RFC 3339](https://en.wikipedia.org/wiki/ISO_8601) timestamp, for example `2026-07-26T00:00:00Z`). Optional. The due date only records date information; the time portion of the timestamp is discarded when setting the due date. It isn't possible to read or write the time that a task is due via the API.",
+      optional: true,
+    },
+    keyword: {
+      type: "string",
+      label: "Keyword",
+      description: "Searches task titles and notes for the specified keyword.",
+      optional: true,
+    },
+    alert: {
+      type: "alert",
+      alertType: "info",
+      content:
+        "Please note that this component is not able to use tasks created from Google Docs, as this is a limitation with the Google Task APIs. For more information, please visit [Google's Issue Tracker](https://issuetracker.google.com/issues/244387279).",
+    },
+  },
+  methods: {
+    _getBaseUrl() {
+      return "https://tasks.googleapis.com/tasks/v1";
+    },
+    _getHeaders() {
+      return {
+        "Content-Type": "application/json",
+        "Authorization": `Bearer ${this.$auth.oauth_access_token}`,
+      };
+    },
+    _getRequestParams(opts = {}) {
+      if (!opts.path) {
+        throw new Error("Missing path");
+      }
+      return {
+        ...opts,
+        url: this._getBaseUrl() + opts.path,
+        headers: this._getHeaders(),
+      };
+    },
+    _makeRequest(ctx, opts) {
+      return axios(
+        ctx,
+        this._getRequestParams(opts),
+      );
+    },
+    async paginate(ctx, fn, params, ...rest) {
+      let data = [];
+      let nextPageToken = null;
+      const TOTAL_MAX_RESULTS = Math.min(params.maxResults, 1000);
+      const ITEMS_PER_PAGE = Math.min(params.maxResults, 50);
+      do {
+        const pageResult = await fn(
+          ctx,
+          {
+            ...params,
+            maxResults: ITEMS_PER_PAGE,
+            pageToken: nextPageToken,
+          },
+          ...rest,
+        );
+        nextPageToken = pageResult.nextPageToken;
+        data.push(...pageResult.items);
+        if (data.length >= TOTAL_MAX_RESULTS) {
+          data = data.slice(0, TOTAL_MAX_RESULTS);
+          break;
+        }
+      } while (nextPageToken);
+      return data;
+    },
+    async getTaskLists(ctx = this, params = {}) {
+      return this._makeRequest(ctx, {
+        path: "/users/@me/lists",
+        method: "GET",
+        params,
+      });
+    },
+    async insertTaskList(ctx = this, data) {
+      return this._makeRequest(ctx, {
+        path: "/users/@me/lists",
+        method: "POST",
+        data,
+      });
+    },
+    async updateTaskList(ctx = this, data) {
+      return this._makeRequest(ctx, {
+        path: `/users/@me/lists/${data.id}`,
+        method: "PUT",
+        data,
+      });
+    },
+    async deleteTaskList(ctx = this, id) {
+      return this._makeRequest(ctx, {
+        path: `/users/@me/lists/${id}`,
+        method: "DELETE",
+      });
+    },
+    async insertTask(ctx = this, taskListId, data, params = {}) {
+      return this._makeRequest(ctx, {
+        path: `/lists/${taskListId}/tasks`,
+        method: "POST",
+        data,
+        params,
+      });
+    },
+    async getTasks(ctx = this, params, taskListId) {
+      return this._makeRequest(ctx, {
+        path: `/lists/${taskListId}/tasks`,
+        method: "GET",
+        params,
+      });
+    },
+    async updateTask(ctx = this, taskListId, taskId, data) {
+      return this._makeRequest(ctx, {
+        path: `/lists/${taskListId}/tasks/${taskId}`,
+        method: "PUT",
+        data,
+      });
+    },
+    async patchTask(ctx = this, taskListId, taskId, data) {
+      return this._makeRequest(ctx, {
+        path: `/lists/${taskListId}/tasks/${taskId}`,
+        method: "PATCH",
+        data,
+      });
+    },
+    async deleteTask(ctx = this, taskListId, taskId) {
+      return this._makeRequest(ctx, {
+        path: `/lists/${taskListId}/tasks/${taskId}`,
+        method: "DELETE",
+      });
+    },
+    async moveTask(ctx = this, taskListId, taskId, params = {}) {
+      return this._makeRequest(ctx, {
+        path: `/lists/${taskListId}/tasks/${taskId}/move`,
+        method: "POST",
+        params,
+      });
+    },
+  },
+};
+
+export default __pdApp;
+import { __pdBindAuth as __pdBind } from "../_platform-shim.mjs";
+__pdBind(__pdApp, "google_tasks");

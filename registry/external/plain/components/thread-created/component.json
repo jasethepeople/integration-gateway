@@ -1,0 +1,7 @@
+{
+  "key": "plain-thread-created",
+  "name": "Thread Created",
+  "description": "Emit new event when a thread is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

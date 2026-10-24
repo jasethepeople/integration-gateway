@@ -1,0 +1,7 @@
+{
+  "key": "apollo_io_oauth-create-or-update-account",
+  "name": "Create or Update Account",
+  "description": "Creates a new account (company) or updates an existing one",
+  "type": "action",
+  "version": "0.0.2"
+}

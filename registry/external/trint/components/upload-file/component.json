@@ -1,0 +1,7 @@
+{
+  "key": "trint-upload-file",
+  "name": "Upload File",
+  "description": "Upload media files directly to Trint for immediate transcription. [See the documentation](https://dev.trint.com/reference/upload)",
+  "type": "action",
+  "version": "0.0.3"
+}

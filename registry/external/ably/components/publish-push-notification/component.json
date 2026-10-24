@@ -1,0 +1,7 @@
+{
+  "key": "ably-publish-push-notification",
+  "name": "Publish Push Notification",
+  "description": "Publish a push notification for a channel. [See docs here](https://ably.com/docs/general/push/publish#channel-broadcast-example)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "dayschedule-list-event-options",
+  "name": "List Event Options",
+  "description": "Retrieves available options for the Event field.",
+  "type": "action",
+  "version": "0.0.1"
+}

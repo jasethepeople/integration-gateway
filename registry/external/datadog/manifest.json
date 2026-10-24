@@ -1,0 +1,56 @@
+{
+  "app": "datadog",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "host": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "metric": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "metricType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "monitors": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "region": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "application_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "datadog-get-account-info",
+    "datadog-get-metric-data",
+    "datadog-post-metric-data",
+    "datadog-search-dashboards",
+    "datadog-search-events",
+    "datadog-search-hosts",
+    "datadog-search-incidents",
+    "datadog-search-logs",
+    "datadog-search-metrics",
+    "datadog-search-monitors",
+    "datadog-search-services",
+    "datadog-new-monitor-event"
+  ],
+  "npmImports": [
+    "uuid"
+  ]
+}

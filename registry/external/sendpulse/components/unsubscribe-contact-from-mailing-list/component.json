@@ -1,0 +1,7 @@
+{
+  "key": "sendpulse-unsubscribe-contact-from-mailing-list",
+  "name": "Unsubscribe a Contact From a Defined Mailing List",
+  "description": "Make a POST request to https://api.sendpulse.com/addressbooks/{id}/emails/unsubscribe",
+  "type": "action",
+  "version": "0.1.2"
+}

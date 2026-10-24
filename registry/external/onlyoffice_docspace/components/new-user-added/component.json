@@ -1,0 +1,7 @@
+{
+  "key": "onlyoffice_docspace-new-user-added",
+  "name": "New User Added",
+  "description": "Emit new event when a new user is added. [See the documentation](https://api.onlyoffice.com/docspace/api-backend/usage-api/get-simple-by-filter/).",
+  "type": "source",
+  "version": "0.0.2"
+}

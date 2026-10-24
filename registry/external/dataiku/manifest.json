@@ -1,0 +1,45 @@
+{
+  "app": "dataiku",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectKey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "scenarioId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dataiku-build-dataset",
+    "dataiku-get-job-status",
+    "dataiku-list-datasets",
+    "dataiku-list-jobs",
+    "dataiku-list-projects",
+    "dataiku-list-scenario-runs",
+    "dataiku-list-scenarios",
+    "dataiku-run-scenario"
+  ]
+}

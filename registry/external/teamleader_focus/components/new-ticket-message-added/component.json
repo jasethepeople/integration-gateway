@@ -1,0 +1,7 @@
+{
+  "key": "teamleader_focus-new-ticket-message-added",
+  "name": "New Ticket Message Added (Instant)",
+  "description": "Emit new event for each message added to a ticket. [See the documentation](https://developer.focus.teamleader.eu/docs/api/webhooks-register)",
+  "type": "source",
+  "version": "0.0.1"
+}

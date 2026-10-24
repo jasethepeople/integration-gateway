@@ -1,0 +1,23 @@
+{
+  "app": "browserstack",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "browser": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "user_name": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "access_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "browserstack-list-browser-options",
+    "browserstack-take-screenshot"
+  ]
+}

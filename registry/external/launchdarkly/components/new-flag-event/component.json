@@ -1,0 +1,7 @@
+{
+  "key": "launchdarkly-new-flag-event",
+  "name": "New Flag Event",
+  "description": "Emit new event when flag activity occurs. [See the documentation](https://apidocs.launchdarkly.com/tag/Webhooks#operation/postWebhook).",
+  "type": "source",
+  "version": "0.0.3"
+}

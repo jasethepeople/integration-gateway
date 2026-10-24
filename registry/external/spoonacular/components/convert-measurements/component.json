@@ -1,0 +1,7 @@
+{
+  "key": "spoonacular-convert-measurements",
+  "name": "Convert Measurements",
+  "description": "Converts a measurements. [See docs here](https://spoonacular.com/food-api/docs#Convert-Amounts)",
+  "type": "action",
+  "version": "0.0.2"
+}

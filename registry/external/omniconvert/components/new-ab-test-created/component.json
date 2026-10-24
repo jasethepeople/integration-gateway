@@ -1,0 +1,7 @@
+{
+  "key": "omniconvert-new-ab-test-created",
+  "name": "New AB Test Created",
+  "description": "Emit new event when a new AB test is created. [See the documentation](https://api.omniconvert.com/docs#get--v1-experiments)",
+  "type": "source",
+  "version": "0.0.1"
+}

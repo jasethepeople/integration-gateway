@@ -1,0 +1,7 @@
+{
+  "key": "sigma-create-workbook",
+  "name": "Create Workbook",
+  "description": "Creates a new blank workbook. [See the documentation](https://docs.sigmacomputing.com/#post-/v2/workbooks)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "tidy-update-job",
+  "name": "Update Job",
+  "description": "Updaets a job in Tidy. [See the documentation](https://help.tidy.com/update-a-job)",
+  "type": "action",
+  "version": "0.0.2"
+}

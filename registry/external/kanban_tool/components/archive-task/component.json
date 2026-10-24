@@ -1,0 +1,7 @@
+{
+  "key": "kanban_tool-archive-task",
+  "name": "Archive Task",
+  "description": "Archives a task [See the docs here](https://kanbantool.com/developer/api-v3#archiving-tasks)",
+  "type": "action",
+  "version": "0.0.3"
+}

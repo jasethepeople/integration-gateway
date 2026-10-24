@@ -1,0 +1,52 @@
+{
+  "app": "onepagecrm",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "companyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dealId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "leadSourceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pipelineId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "user_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "onepagecrm-create-contact",
+    "onepagecrm-delete-contact",
+    "onepagecrm-list-company-id-options",
+    "onepagecrm-list-contact-id-options",
+    "onepagecrm-list-deal-id-options",
+    "onepagecrm-list-lead-source-id-options",
+    "onepagecrm-list-pipeline-id-options",
+    "onepagecrm-list-user-id-options",
+    "onepagecrm-update-deal",
+    "onepagecrm-new-contact-created",
+    "onepagecrm-new-deal-closed"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "planview_leankit-card-assigned-to-user",
+  "name": "New Card Assigned To User",
+  "description": "Emit new event when a card is assigned to a user.",
+  "type": "source",
+  "version": "0.0.1"
+}

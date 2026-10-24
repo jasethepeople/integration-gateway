@@ -1,0 +1,7 @@
+{
+  "key": "pixelbin-upload-asset-url",
+  "name": "Upload Asset From URL",
+  "description": "Uploads an asset to Pixelbin from a given URL. [See the documentation](https://www.pixelbin.io/docs/api-docs/)",
+  "type": "action",
+  "version": "0.0.2"
+}

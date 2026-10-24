@@ -1,0 +1,7 @@
+{
+  "key": "sendit-schedule-post",
+  "name": "Schedule Post",
+  "description": "Schedule content to be published at a future time. [See the documentation](https://sendit.infiniteappsai.com/docs/api)",
+  "type": "action",
+  "version": "0.0.1"
+}

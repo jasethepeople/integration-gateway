@@ -1,0 +1,7 @@
+{
+  "key": "google_sheets-format-cells",
+  "name": "Format Cells",
+  "description": "Apply formatting to a range of cells in a Google Sheets worksheet:",
+  "type": "action",
+  "version": "0.0.1"
+}

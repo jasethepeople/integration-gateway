@@ -1,0 +1,29 @@
+{
+  "app": "userflow",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "userflow-create-update-user",
+    "userflow-find-user",
+    "userflow-new-checklist-completed-instant",
+    "userflow-new-event-tracked-instant",
+    "userflow-new-flow-completed-instant"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

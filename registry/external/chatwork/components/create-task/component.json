@@ -1,0 +1,7 @@
+{
+  "key": "chatwork-create-task",
+  "name": "Create Task",
+  "description": "Create a new task in a specified room. [See the documentation](https://download.chatwork.com/ChatWork_API_Documentation.pdf)",
+  "type": "action",
+  "version": "0.0.2"
+}

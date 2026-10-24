@@ -1,0 +1,7 @@
+{
+  "key": "recruiterflow-search-candidates",
+  "name": "Search Candidates",
+  "description": "Searches for candidates matching specified criteria in Recruiterflow. Supports both simple searches and advanced filter arrays. [See the documentation](https://recruiterflow.com/swagger.yml)",
+  "type": "action",
+  "version": "0.0.2"
+}

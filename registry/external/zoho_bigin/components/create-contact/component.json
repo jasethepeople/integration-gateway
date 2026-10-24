@@ -1,0 +1,7 @@
+{
+  "key": "zoho_bigin-create-contact",
+  "name": "Create Contact",
+  "description": "Creates a contact. [See the documentation](https://www.bigin.com/developer/docs/apis/insert-records.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

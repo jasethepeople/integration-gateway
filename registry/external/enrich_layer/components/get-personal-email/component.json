@@ -1,0 +1,7 @@
+{
+  "key": "enrich_layer-get-personal-email",
+  "name": "Get Personal Email",
+  "description": "Find personal email addresses associated with a given social media profile. Cost: 1 credit per email returned. [See the documentation](https://enrichlayer.com/docs/api/v2/contact-api/personal-email-lookup).",
+  "type": "action",
+  "version": "0.0.2"
+}

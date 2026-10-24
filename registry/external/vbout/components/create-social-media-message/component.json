@@ -1,0 +1,7 @@
+{
+  "key": "vbout-create-social-media-message",
+  "name": "Create Social Media Message",
+  "description": "This action creates a new post on social media. [See the documentation](https://developers.vbout.com/docs/?r=developers/docs#tag/Social-Media/operation/post-SocialMedia-AddPost)",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "proxycurl-retrieve-company-metadata-from-linkedin",
+  "name": "Retrieve Company Metadata from LinkedIn",
+  "description": "Retrieve Company Metadata from LinkedIn URL. Cost: 1 credit/successful request [See the documentation](https://nubela.co/proxycurl/docs#company-api-company-profile-endpoint).",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "rhombus-list-door-uuid-options",
+  "name": "List Access Controlled Door ID Options",
+  "description": "Retrieves available options for the Access Controlled Door ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

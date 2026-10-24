@@ -1,0 +1,7 @@
+{
+  "key": "richpanel-list-tags-options",
+  "name": "List Tags Options",
+  "description": "Retrieves available options for the Tags field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zoho_survey-send-email-invitation",
+  "name": "Send Email Invitation",
+  "description": "Sends an email invitation with Zoho Survey.",
+  "type": "action",
+  "version": "0.0.5"
+}

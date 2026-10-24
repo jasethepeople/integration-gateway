@@ -1,0 +1,36 @@
+{
+  "app": "roboflow",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "datasetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "filePath": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fileUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "roboflow-classify-image",
+    "roboflow-detect-object-from-image",
+    "roboflow-list-project-id-options",
+    "roboflow-upload-image"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "mindbody-get-client-visits",
+  "name": "Get Client Visits",
+  "description": "Returns the paginated list of visit records for a specific Mindbody client (member), each including its date/datetime (e.g. `StartDateTime`).",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "stripe-list-customers",
+  "name": "List Customers",
+  "description": "Find or list customers. By default returns an array of customer objects (auto-paginated up to `Limit`). Set `Return Pagination Info` to true to instead receive `{ data, has_more, next_starting_after }` for a single Stripe page (max 100 per call). [See the documentation](https://stripe.com/docs/api/customers/list).",
+  "type": "action",
+  "version": "0.2.1"
+}

@@ -1,0 +1,53 @@
+{
+  "app": "plentyone",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "warehouseId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "countryId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "orderItemId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "statusId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "plentyone-add-order-note",
+    "plentyone-create-order",
+    "plentyone-get-order-documents",
+    "plentyone-get-order-items",
+    "plentyone-get-order-properties",
+    "plentyone-get-order",
+    "plentyone-get-orders",
+    "plentyone-list-contact-id-options",
+    "plentyone-list-country-id-options",
+    "plentyone-list-order-id-options",
+    "plentyone-list-status-id-options",
+    "plentyone-list-warehouse-id-options"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "app": "sendbird",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "channelType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "applicationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "channelUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "messageTs": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "messageId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "prevLimit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "nextLimit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "include": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "reverse": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "senderIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "operatorFilter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "messageType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "includingRemoved": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "withSortedMetaArray": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "message": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sendPush": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "mentionType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mentionedUserIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "isSilent": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "dedupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sendbird-list-messages",
+    "sendbird-send-message"
+  ],
+  "npmImports": [
+    "sendbird-platform-sdk"
+  ]
+}

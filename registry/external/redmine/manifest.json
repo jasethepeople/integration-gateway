@@ -1,0 +1,43 @@
+{
+  "app": "redmine",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "trackerId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "statusId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "priorityId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "hostname": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "redmine-create-issue",
+    "redmine-delete-user",
+    "redmine-list-priority-id-options",
+    "redmine-list-project-id-options",
+    "redmine-list-status-id-options",
+    "redmine-list-tracker-id-options",
+    "redmine-list-user-id-options",
+    "redmine-update-project",
+    "redmine-issue-created",
+    "redmine-project-updated"
+  ]
+}

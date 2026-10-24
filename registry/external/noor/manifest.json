@@ -1,0 +1,26 @@
+{
+  "app": "noor",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "thread": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "text": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "spaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "noor-send-text-message"
+  ]
+}

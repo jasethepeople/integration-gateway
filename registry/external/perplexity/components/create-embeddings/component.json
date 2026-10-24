@@ -1,0 +1,7 @@
+{
+  "key": "perplexity-create-embeddings",
+  "name": "Create Embeddings",
+  "description": "Generates vector embeddings for text inputs. [See the documentation](https://docs.perplexity.ai/api-reference/embeddings-post)",
+  "type": "action",
+  "version": "0.0.2"
+}

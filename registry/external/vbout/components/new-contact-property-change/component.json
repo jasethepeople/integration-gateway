@@ -1,0 +1,7 @@
+{
+  "key": "vbout-new-contact-property-change",
+  "name": "New Contact Property Change",
+  "description": "Emit new event for each new property changed in a specific contact. [See docs here](https://developers.vbout.com/docs#emailmarketing_getcontact)",
+  "type": "source",
+  "version": "0.0.4"
+}

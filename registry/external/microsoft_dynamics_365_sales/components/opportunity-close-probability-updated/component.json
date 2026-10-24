@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_dynamics_365_sales-opportunity-close-probability-updated",
+  "name": "Opportunity Close Probability Updated",
+  "description": "Emit new event when the close probability of an opportunity is updated.",
+  "type": "source",
+  "version": "0.0.6"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "ollama-list-local-models",
+  "name": "List Local Models",
+  "description": "List models that are available locally. [See the documentation](https://github.com/ollama/ollama/blob/main/docs/api.md#list-running-models).",
+  "type": "action",
+  "version": "0.0.2"
+}

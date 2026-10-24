@@ -1,0 +1,7 @@
+{
+  "key": "segment-webhook-destination",
+  "name": "Webhook Destination (Instant)",
+  "description": "Send events to a webhook. Requires a Team or Business account.",
+  "type": "source",
+  "version": "0.0.2"
+}

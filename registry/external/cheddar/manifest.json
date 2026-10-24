@@ -1,0 +1,27 @@
+{
+  "app": "cheddar",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "productCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "password": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "cheddar-new-customer-created",
+    "cheddar-new-pricing-plan-created",
+    "cheddar-new-promotion-created"
+  ],
+  "npmImports": [
+    "fast-xml-parser"
+  ]
+}

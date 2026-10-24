@@ -1,0 +1,7 @@
+{
+  "key": "botpenguin-new-incoming-message",
+  "name": "New Incoming Message",
+  "description": "Emit new event for each new incoming message from a user.",
+  "type": "source",
+  "version": "0.0.1"
+}

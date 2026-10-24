@@ -1,0 +1,27 @@
+{
+  "app": "mergemole",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "secret_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mergemole-generate-pdf",
+    "mergemole-get-template-variables",
+    "mergemole-list-templates"
+  ],
+  "npmImports": [
+    "fs"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "sevdesk-list-origin-id-options",
+  "name": "List Origin Id Options",
+  "description": "Retrieves available options for the Origin Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

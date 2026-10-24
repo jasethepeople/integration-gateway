@@ -1,0 +1,23 @@
+{
+  "app": "neon_postgres",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "neon_postgres-delete-rows",
+    "neon_postgres-execute-custom-query",
+    "neon_postgres-find-row-custom-query",
+    "neon_postgres-find-row",
+    "neon_postgres-insert-row",
+    "neon_postgres-update-row",
+    "neon_postgres-upsert-row",
+    "neon_postgres-new-column",
+    "neon_postgres-new-or-updated-row",
+    "neon_postgres-new-row-custom-query",
+    "neon_postgres-new-row",
+    "neon_postgres-new-table"
+  ],
+  "npmImports": [
+    "pg-format"
+  ]
+}

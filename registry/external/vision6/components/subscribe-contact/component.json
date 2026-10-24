@@ -1,0 +1,7 @@
+{
+  "key": "vision6-subscribe-contact",
+  "name": "Subscribe Contact",
+  "description": "Subscribe an existing contact. [See the docs here](https://api.vision6.com/#update-contacts)",
+  "type": "action",
+  "version": "0.0.2"
+}

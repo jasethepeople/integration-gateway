@@ -1,0 +1,7 @@
+{
+  "key": "exhibitday-new-event",
+  "name": "New Event",
+  "description": "Emit new event when an event is created in ExhibitDay",
+  "type": "source",
+  "version": "0.0.1"
+}

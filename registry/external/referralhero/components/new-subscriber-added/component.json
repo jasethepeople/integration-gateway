@@ -1,0 +1,7 @@
+{
+  "key": "referralhero-new-subscriber-added",
+  "name": "New Subscriber Added",
+  "description": "Emit new event when a new subscriber is added",
+  "type": "source",
+  "version": "0.0.1"
+}

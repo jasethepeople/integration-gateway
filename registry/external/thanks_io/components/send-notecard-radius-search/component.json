@@ -1,0 +1,7 @@
+{
+  "key": "thanks_io-send-notecard-radius-search",
+  "name": "Send Notecard via Radius Search",
+  "description": "Sends a notecard to a recipients within a radius. [See the docs here](https://api-docs.thanks.io/#9130103a-1834-4550-88fb-ec5c1e21a59b)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "getprospect-create-contact",
+  "name": "Create Contact",
+  "description": "Create a new contact in GetProspect. [See the documentation](https://getprospect.readme.io/reference/contactcontroller_create)",
+  "type": "action",
+  "version": "0.0.1"
+}

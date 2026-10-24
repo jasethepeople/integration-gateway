@@ -1,0 +1,7 @@
+{
+  "key": "overloop-new-campaign-created",
+  "name": "New Campaign Created",
+  "description": "Emit new event each time a campaign is created. [See the docs](https://apidoc.overloop.com/#list-automations)",
+  "type": "source",
+  "version": "0.0.1"
+}

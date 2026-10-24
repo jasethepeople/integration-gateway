@@ -1,0 +1,7 @@
+{
+  "key": "constant_contact-create-or-update-contact",
+  "name": "Create Or Update Contact",
+  "description": "Create a new contact or update an existing one based on their email address. This method is appropriate when a contact has given explicit permission to receive emails. [See the documentation](https://developer.constantcontact.com/api_reference/index.html#tag/Contacts/operation/createOrUpdateContact)",
+  "type": "action",
+  "version": "0.0.2"
+}

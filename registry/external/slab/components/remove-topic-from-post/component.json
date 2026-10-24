@@ -1,0 +1,7 @@
+{
+  "key": "slab-remove-topic-from-post",
+  "name": "Remove Topic From Post",
+  "description": "Disassociate a topic from a post via the `removeTopicFromPost` GraphQL mutation, returning the topic. This only removes the association (reversible with **Add Topic To Post**); it does not delete the post or the topic. Run **Search Posts** for the post ID and **List Topics** for the topic ID before calling. Example: postId `abc123`, topicId `abc12def` returns `{\"id\":\"abc12def\",\"name\":\"Engineering\"}`. [See the documentation](https://studio.apollographql.com/public/Slab/variant/current/schema/reference/objects/RootMutationType#removeTopicFromPost).",
+  "type": "action",
+  "version": "0.0.1"
+}

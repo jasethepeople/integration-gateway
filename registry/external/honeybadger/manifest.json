@@ -1,0 +1,9 @@
+{
+  "app": "honeybadger",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "honeybadger-get-projects"
+  ]
+}

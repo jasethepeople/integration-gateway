@@ -1,0 +1,7 @@
+{
+  "key": "niceboard-new-job",
+  "name": "New Job Published",
+  "description": "Emit new event each time a new job is published in Niceboard",
+  "type": "source",
+  "version": "0.0.1"
+}

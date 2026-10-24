@@ -1,0 +1,7 @@
+{
+  "key": "upkeep-purchase-order-status-change",
+  "name": "New Purchase Order Status Change Event",
+  "description": "Emit new event when a purchase order status is changed.",
+  "type": "source",
+  "version": "0.0.3"
+}

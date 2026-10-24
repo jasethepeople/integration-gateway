@@ -1,0 +1,7 @@
+{
+  "key": "mailmodo-trigger-campaign",
+  "name": "Trigger Campaign",
+  "description": "Allows to trigger campaigns with personalization parameter added to the email template. [See the docs here](https://www.mailmodo.com/developers/4c44d1b19765f-send-campaign-email/)",
+  "type": "action",
+  "version": "0.0.3"
+}

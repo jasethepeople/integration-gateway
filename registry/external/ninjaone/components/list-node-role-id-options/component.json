@@ -1,0 +1,7 @@
+{
+  "key": "ninjaone-list-node-role-id-options",
+  "name": "List Node Role Id Options",
+  "description": "Retrieves available options for the Node Role Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

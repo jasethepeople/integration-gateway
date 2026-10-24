@@ -1,0 +1,52 @@
+{
+  "app": "chargebee",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "itemPriceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sub_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "chargebee-create-customer",
+    "chargebee-create-subscription",
+    "chargebee-list-customer-id-options",
+    "chargebee-list-item-price-id-options",
+    "chargebee-customer-card-expired-instant",
+    "chargebee-customer-changed-instant",
+    "chargebee-new-customer-created-instant",
+    "chargebee-new-event",
+    "chargebee-new-invoice-created-instant",
+    "chargebee-new-invoice-updated-instant",
+    "chargebee-new-payment-source-added-instant",
+    "chargebee-payment-failed-instant",
+    "chargebee-payment-refunded-instant",
+    "chargebee-payment-source-updated-instant",
+    "chargebee-payment-succeeded-instant",
+    "chargebee-subscription-activated-instant",
+    "chargebee-subscription-cancellation-scheduled-instant",
+    "chargebee-subscription-cancelled-instant",
+    "chargebee-subscription-changed-instant",
+    "chargebee-subscription-created-instant",
+    "chargebee-subscription-paused-instant",
+    "chargebee-subscription-reactivated-instant",
+    "chargebee-subscription-renewed-instant",
+    "chargebee-subscription-resumed-instant"
+  ],
+  "npmImports": [
+    "chargebee"
+  ]
+}

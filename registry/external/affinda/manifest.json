@@ -1,0 +1,32 @@
+{
+  "app": "affinda",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "organization": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workspace": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "collection": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "affinda-list-organization-options",
+    "affinda-upload-document-from-url",
+    "affinda-document-parse-completed",
+    "affinda-document-validated"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

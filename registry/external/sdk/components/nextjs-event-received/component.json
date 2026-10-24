@@ -1,0 +1,7 @@
+{
+  "key": "sdk-nextjs-event-received",
+  "name": "Next.js",
+  "description": "Emit a new event via the Next.js Pipedream SDK.",
+  "type": "source",
+  "version": "0.0.2"
+}

@@ -1,0 +1,18 @@
+{
+  "app": "databox",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "databox-list-metric-key-options",
+    "databox-send-custom-data"
+  ],
+  "npmImports": [
+    "databox"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "kustomer-get-custom-object-by-id",
+  "name": "Get Custom Object by ID",
+  "description": "Gets a custom object by ID in Kustomer. [See the documentation](https://developer.kustomer.com/kustomer-api-docs/reference/getkobject)",
+  "type": "action",
+  "version": "0.0.2"
+}

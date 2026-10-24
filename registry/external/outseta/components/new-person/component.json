@@ -1,0 +1,7 @@
+{
+  "key": "outseta-new-person",
+  "name": "New Person Added",
+  "description": "Emit new event when a person is added. [See the documentation](https://documenter.getpostman.com/view/3613332/outseta-rest-api-v1/7TNfr6k#68021219-0038-0214-2df5-d4a781cdbdf2)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "bitmex-list-trades",
+  "name": "List Trades",
+  "description": "Retrieve a list of executed trades from your BitMEX account. [See the documentation](https://www.bitmex.com/api/explorer/#!/Execution/Execution_getTradeHistory)",
+  "type": "action",
+  "version": "0.0.2"
+}

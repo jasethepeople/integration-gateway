@@ -1,0 +1,19 @@
+{
+  "app": "keysender",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "databaseId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "keysender-create-transaction",
+    "keysender-list-database-id-options"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "dear-customer-updated",
+  "name": "New Customer Updated",
+  "description": "Emit new event when a customer is updated. [See the documentation](https://dearinventory.docs.apiary.io/#reference/webhooks)",
+  "type": "source",
+  "version": "0.0.2"
+}

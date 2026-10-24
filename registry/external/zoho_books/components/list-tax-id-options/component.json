@@ -1,0 +1,7 @@
+{
+  "key": "zoho_books-list-tax-id-options",
+  "name": "List Tax Id Options",
+  "description": "Retrieves available options for the Tax Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

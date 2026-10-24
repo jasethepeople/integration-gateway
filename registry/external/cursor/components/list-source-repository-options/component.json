@@ -1,0 +1,7 @@
+{
+  "key": "cursor-list-source-repository-options",
+  "name": "List Source Repository Options",
+  "description": "Retrieves available options for the Source Repository field.",
+  "type": "action",
+  "version": "0.0.1"
+}

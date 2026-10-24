@@ -1,0 +1,7 @@
+{
+  "key": "reddit-new-hot-posts-on-a-subreddit",
+  "name": "New hot posts on a subreddit",
+  "description": "Emit new event each time a new hot post is added to the top 10 items in a subreddit.",
+  "type": "source",
+  "version": "0.2.4"
+}

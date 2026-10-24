@@ -1,0 +1,7 @@
+{
+  "key": "graceblocks-create-record",
+  "name": "Create Record",
+  "description": "Create a new record in GraceBlocks.",
+  "type": "action",
+  "version": "0.0.1"
+}

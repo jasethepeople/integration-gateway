@@ -1,0 +1,7 @@
+{
+  "key": "utopian_labs-initiate-qualification-run",
+  "name": "Initiate Qualification Run",
+  "description": "Initiate a qualification run of the R1-Qualification agent. [See the documentation](https://docs.utopianlabs.ai/qualification#initiate-a-qualification-run)",
+  "type": "action",
+  "version": "0.0.2"
+}

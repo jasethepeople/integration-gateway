@@ -1,0 +1,39 @@
+{
+  "app": "parsehub",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "runToken": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "offset": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "parsehub-cancel-run",
+    "parsehub-delete-run",
+    "parsehub-get-data-run",
+    "parsehub-get-project",
+    "parsehub-get-projects",
+    "parsehub-run-project"
+  ]
+}

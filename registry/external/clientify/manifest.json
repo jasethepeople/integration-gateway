@@ -1,0 +1,135 @@
+{
+  "app": "clientify",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "addressType": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "city": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "company": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactSource": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customFields": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "dealId": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastContact": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "message": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phoneType": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "postalCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "remarks": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "state": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "street": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "summary": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskStage": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "clientify-create-contact",
+    "clientify-create-task",
+    "clientify-list-task-stage-options",
+    "clientify-list-task-type-options",
+    "clientify-update-contact",
+    "clientify-contact-added",
+    "clientify-task-completed"
+  ],
+  "npmImports": [
+    "moment"
+  ]
+}

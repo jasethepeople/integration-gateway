@@ -1,0 +1,7 @@
+{
+  "key": "google_palm_api-chat",
+  "name": "Chat",
+  "description": "Chat using Google PaLM. [See the docs here](https://developers.generativeai.google/api/python/google/generativeai/chat)",
+  "type": "action",
+  "version": "0.0.3"
+}

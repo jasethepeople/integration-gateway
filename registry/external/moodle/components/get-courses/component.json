@@ -1,0 +1,7 @@
+{
+  "key": "moodle-get-courses",
+  "name": "Get Courses",
+  "description": "Returns course details. If no IDs are provided, returns all courses except the front page. [See the documentation](https://moodledev.io/docs/5.2)",
+  "type": "action",
+  "version": "0.0.2"
+}

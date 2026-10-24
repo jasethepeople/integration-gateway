@@ -1,0 +1,7 @@
+{
+  "key": "esendex-list-account-reference-options",
+  "name": "List Account Reference Options",
+  "description": "Retrieves available options for the Account Reference field.",
+  "type": "action",
+  "version": "0.0.1"
+}

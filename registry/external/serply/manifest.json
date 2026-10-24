@@ -1,0 +1,20 @@
+{
+  "app": "serply",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "serply-search-bing",
+    "serply-search-for-website-in-serp",
+    "serply-search-google"
+  ]
+}

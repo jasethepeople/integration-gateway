@@ -1,0 +1,7 @@
+{
+  "key": "streamtime-list-job-id-options",
+  "name": "List Job Options",
+  "description": "Retrieves available options for the Job field.",
+  "type": "action",
+  "version": "0.0.1"
+}

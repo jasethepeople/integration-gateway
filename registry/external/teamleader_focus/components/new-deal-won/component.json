@@ -1,0 +1,7 @@
+{
+  "key": "teamleader_focus-new-deal-won",
+  "name": "New Deal Won (Instant)",
+  "description": "Emit new event for each deal won. [See the documentation](https://developer.focus.teamleader.eu/docs/api/webhooks-register)",
+  "type": "source",
+  "version": "0.0.4"
+}

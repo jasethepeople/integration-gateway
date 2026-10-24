@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-update-record",
+  "name": "Update Record",
+  "description": "Update a Salesforce record of any object type.",
+  "type": "action",
+  "version": "1.0.1"
+}

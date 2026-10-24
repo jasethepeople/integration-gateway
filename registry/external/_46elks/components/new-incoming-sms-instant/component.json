@@ -1,0 +1,7 @@
+{
+  "key": "_46elks-new-incoming-sms-instant",
+  "name": "New Incoming SMS (Instant)",
+  "description": "Emit new event instantly when an SMS is received by a specific number linked to your 46elks account. [See the documentation](https://46elks.com/docs/receive-sms)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,46 @@
+{
+  "app": "dolibarr",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "thirdPartyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "paymentTermCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "paymentMethodCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "additionalProperties": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dolibarr-create-order",
+    "dolibarr-create-thirdparty",
+    "dolibarr-create-user",
+    "dolibarr-list-payment-method-code-options",
+    "dolibarr-list-payment-term-code-options",
+    "dolibarr-list-third-party-id-options",
+    "dolibarr-new-invoice-created",
+    "dolibarr-new-order-created",
+    "dolibarr-new-thirdparty-created"
+  ]
+}

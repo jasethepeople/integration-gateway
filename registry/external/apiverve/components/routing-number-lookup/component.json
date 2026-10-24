@@ -1,0 +1,7 @@
+{
+  "key": "apiverve-routing-number-lookup",
+  "name": "Routing Number Lookup",
+  "description": "Lookup routing number information for USA Banks. [See the documentation](https://docs.apiverve.com/api/routinglookup)",
+  "type": "action",
+  "version": "0.0.2"
+}

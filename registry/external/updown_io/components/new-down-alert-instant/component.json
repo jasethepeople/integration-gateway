@@ -1,0 +1,7 @@
+{
+  "key": "updown_io-new-down-alert-instant",
+  "name": "New Down Alert (Instant)",
+  "description": "Emit new event when a website check reports as down. [See the documentation](https://updown.io/api#webhooks)",
+  "type": "source",
+  "version": "0.0.1"
+}

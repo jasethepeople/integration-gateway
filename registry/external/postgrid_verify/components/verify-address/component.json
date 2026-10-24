@@ -1,0 +1,7 @@
+{
+  "key": "postgrid_verify-verify-address",
+  "name": "Verify Address",
+  "description": "Verify, standardize, and correct an address written on a single line. Ensure that you add the ISO 2-letter country code to the end of the line for best results. [See the documentation](https://avdocs.postgrid.com/#1061f2ea-00ee-4977-99da-a54872de28c2).",
+  "type": "action",
+  "version": "0.0.3"
+}

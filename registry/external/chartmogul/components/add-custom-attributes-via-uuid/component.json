@@ -1,0 +1,7 @@
+{
+  "key": "chartmogul-add-custom-attributes-via-uuid",
+  "name": "Add Custom Attributes To Customer Via UUID",
+  "description": "Adds custom attributes to a given customer. [See the docs here](https://dev.chartmogul.com/reference/add-custom-attributes-to-customer)",
+  "type": "action",
+  "version": "0.0.2"
+}

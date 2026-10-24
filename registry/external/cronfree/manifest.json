@@ -1,0 +1,38 @@
+{
+  "app": "cronfree",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "wdays": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "months": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "mdays": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "hours": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "minutes": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "timezone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "license_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "cronfree-new-message-received-instant"
+  ]
+}

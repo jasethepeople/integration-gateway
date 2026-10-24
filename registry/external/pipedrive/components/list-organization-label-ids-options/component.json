@@ -1,0 +1,7 @@
+{
+  "key": "pipedrive-list-organization-label-ids-options",
+  "name": "List Organization Label IDs Options",
+  "description": "Retrieves available options for the Organization Label IDs field.",
+  "type": "action",
+  "version": "0.0.2"
+}

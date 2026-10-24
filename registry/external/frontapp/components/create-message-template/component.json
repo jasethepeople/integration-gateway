@@ -1,0 +1,7 @@
+{
+  "key": "frontapp-create-message-template",
+  "name": "Create Message Template",
+  "description": "Create a new message template. [See the documentation](https://dev.frontapp.com/reference/create-message-template).",
+  "type": "action",
+  "version": "0.0.6"
+}

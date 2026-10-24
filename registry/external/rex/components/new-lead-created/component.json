@@ -1,0 +1,7 @@
+{
+  "key": "rex-new-lead-created",
+  "name": "New Lead Created (Instant)",
+  "description": "Emit new event for each new lead created in Rex.",
+  "type": "source",
+  "version": "0.0.1"
+}

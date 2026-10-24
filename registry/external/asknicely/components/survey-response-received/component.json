@@ -1,0 +1,7 @@
+{
+  "key": "asknicely-survey-response-received",
+  "name": "New Survey Response Received",
+  "description": "Emit new event when a survey is responded.",
+  "type": "source",
+  "version": "0.0.1"
+}

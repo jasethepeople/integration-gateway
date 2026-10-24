@@ -1,0 +1,57 @@
+{
+  "app": "dayschedule",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "event": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "page": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "schedule": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "locations": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "duration": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eventType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "questions": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "skipForm": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dayschedule-create-event",
+    "dayschedule-delete-event",
+    "dayschedule-list-event-options",
+    "dayschedule-list-page-options",
+    "dayschedule-list-schedule-options",
+    "dayschedule-update-event",
+    "dayschedule-new-event-scheduled",
+    "dayschedule-new-event-updated"
+  ]
+}

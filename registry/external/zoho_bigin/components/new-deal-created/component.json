@@ -1,0 +1,7 @@
+{
+  "key": "zoho_bigin-new-deal-created",
+  "name": "New Deal Created (Instant)",
+  "description": "Emit new event on each created deal.",
+  "type": "source",
+  "version": "0.0.1"
+}

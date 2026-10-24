@@ -1,0 +1,32 @@
+{
+  "app": "pennylane",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lineItemsSectionsAttributes": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "lineItems": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pennylane-create-billing-subscription",
+    "pennylane-create-customer-invoice",
+    "pennylane-create-customer",
+    "pennylane-list-customer-id-options",
+    "pennylane-new-billing-subscription",
+    "pennylane-new-customer-invoice",
+    "pennylane-new-customer"
+  ]
+}

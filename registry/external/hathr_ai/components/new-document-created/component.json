@@ -1,0 +1,7 @@
+{
+  "key": "hathr_ai-new-document-created",
+  "name": "New Document Created",
+  "description": "Emit new event when a new document is created. [See the documentation](https://drive.google.com/drive/folders/1jtoSXqzhe-iwf9kfUwTCVQBu4iXVJO2x?usp=sharing)",
+  "type": "source",
+  "version": "0.0.1"
+}

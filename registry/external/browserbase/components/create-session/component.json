@@ -1,0 +1,7 @@
+{
+  "key": "browserbase-create-session",
+  "name": "Create Session",
+  "description": "Creates a new browser session with specified settings. [See the documentation](https://docs.browserbase.com/reference/api/create-a-session)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "fortnox-list-invoice-number-options",
+  "name": "List Invoice Number Options",
+  "description": "Retrieves available options for the Invoice Number field.",
+  "type": "action",
+  "version": "0.0.1"
+}

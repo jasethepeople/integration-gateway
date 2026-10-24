@@ -1,0 +1,7 @@
+{
+  "key": "endorsal-create-testimonial",
+  "name": "Create Testimonial",
+  "description": "Creates a new testimonial. [See the documentation](https://developers.endorsal.io/docs/endorsal/b3a6mtcynteyoq-create-a-testimonial)",
+  "type": "action",
+  "version": "0.0.2"
+}

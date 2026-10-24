@@ -1,0 +1,7 @@
+{
+  "key": "gitlab-create-issue",
+  "name": "Create issue",
+  "description": "Creates a new issue. [See the documentation](https://docs.gitlab.com/ee/api/issues.html#new-issue)",
+  "type": "action",
+  "version": "0.2.4"
+}

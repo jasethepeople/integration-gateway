@@ -1,0 +1,7 @@
+{
+  "key": "nicereply-new-csat-rating",
+  "name": "New CSAT Rating",
+  "description": "Emit new event on each new CSAT rating.",
+  "type": "source",
+  "version": "0.0.2"
+}

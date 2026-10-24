@@ -1,0 +1,7 @@
+{
+  "key": "zendesk-ticket-updated",
+  "name": "Ticket Updated (Instant)",
+  "description": "Emit new event when a ticket has been updated",
+  "type": "source",
+  "version": "0.2.19"
+}

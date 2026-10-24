@@ -1,0 +1,36 @@
+{
+  "app": "encodian",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "primaryText": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "secondaryText": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ignoreCase": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "emailAddress": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "encodian_flowr_api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "encodian-compare-text",
+    "encodian-validate-email",
+    "encodian-validate-url"
+  ]
+}

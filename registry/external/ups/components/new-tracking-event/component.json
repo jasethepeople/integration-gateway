@@ -1,0 +1,7 @@
+{
+  "key": "ups-new-tracking-event",
+  "name": "New Tracking Event (Instant)",
+  "description": "Emit new event when new tracking activity is detected. [See the documentation](https://developer.ups.com/tag/UPS-Track-Alert?loc=en_US#operation/processSubscriptionTypeForTrackingNumber)",
+  "type": "source",
+  "version": "0.0.1"
+}

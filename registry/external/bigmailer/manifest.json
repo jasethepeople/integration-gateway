@@ -1,0 +1,32 @@
+{
+  "app": "bigmailer",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "brandId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "listIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "bigmailer-add-update-contact",
+    "bigmailer-send-transactional-email",
+    "bigmailer-new-contact-created"
+  ]
+}

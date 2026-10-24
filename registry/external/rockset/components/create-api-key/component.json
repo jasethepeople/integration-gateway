@@ -1,0 +1,7 @@
+{
+  "key": "rockset-create-api-key",
+  "name": "Create API Key",
+  "description": "Create a new API key for the authenticated user.",
+  "type": "action",
+  "version": "0.1.2"
+}

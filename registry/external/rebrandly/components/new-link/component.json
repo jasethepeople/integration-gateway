@@ -1,0 +1,7 @@
+{
+  "key": "rebrandly-new-link",
+  "name": "New Link",
+  "description": "Emit new event on each new link created.",
+  "type": "source",
+  "version": "0.0.3"
+}

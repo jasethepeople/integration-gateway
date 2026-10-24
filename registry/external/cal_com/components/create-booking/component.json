@@ -1,0 +1,7 @@
+{
+  "key": "cal_com-create-booking",
+  "name": "Create Booking",
+  "description": "Create a new booking. [See the documentation](https://cal.com/docs/api-reference/v2/bookings/create-a-booking)",
+  "type": "action",
+  "version": "1.0.1"
+}

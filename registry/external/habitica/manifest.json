@@ -1,0 +1,57 @@
+{
+  "app": "habitica",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "group": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shortName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "summary": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "official": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "prize": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "challengeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "user_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "habitica-create-challenge",
+    "habitica-delete-challenge",
+    "habitica-get-challenge",
+    "habitica-list-challenge-id-options"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "relavate-new-referral",
+  "name": "New Referral",
+  "description": "Emit new event when a new referral is created in Relavate",
+  "type": "source",
+  "version": "0.0.1"
+}

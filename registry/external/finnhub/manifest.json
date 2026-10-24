@@ -1,0 +1,45 @@
+{
+  "app": "finnhub",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "symbol": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "from": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "to": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "category": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "exchange": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "currency": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mic": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "finnhub-get-insider-transactions",
+    "finnhub-get-market-news",
+    "finnhub-get-recommendation-trends",
+    "finnhub-get-symbols"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "neetokb-new-published-article",
+  "name": "New Published Article",
+  "description": "Emit new event when a new article is published. [See the documentation](https://neetokb-apis.mintlify.app/api-reference/articles/list-articles).",
+  "type": "source",
+  "version": "0.0.1"
+}

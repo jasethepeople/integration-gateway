@@ -1,0 +1,7 @@
+{
+  "key": "unisender-new-unsubscriber",
+  "name": "New Unsubscriber (Instant)",
+  "description": "Emit new event when a email unsubscribes from a list.",
+  "type": "source",
+  "version": "0.0.3"
+}

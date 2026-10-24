@@ -1,0 +1,7 @@
+{
+  "key": "snappy-create-wall-post",
+  "name": "Create Wall Post",
+  "description": "Creates a wall post. [See docs here](https://github.com/BeSnappy/api-docs#posting-to-team-wall)",
+  "type": "action",
+  "version": "0.0.2"
+}

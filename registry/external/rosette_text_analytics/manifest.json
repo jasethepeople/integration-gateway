@@ -1,0 +1,49 @@
+{
+  "app": "rosette_text_analytics",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "nameOne": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "nameTwo": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "targetLanguage": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "content": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "calculateConfidence": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "calculateSalience": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "includeDBpediaTypes": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "rosette_text_analytics-extract-entities",
+    "rosette_text_analytics-list-target-language-options",
+    "rosette_text_analytics-match-names",
+    "rosette_text_analytics-translate-name"
+  ]
+}

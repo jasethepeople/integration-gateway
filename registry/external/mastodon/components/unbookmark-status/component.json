@@ -1,0 +1,7 @@
+{
+  "key": "mastodon-unbookmark-status",
+  "name": "Undo Bookmark of a Status",
+  "description": "Remove a status from your private bookmarks. [See the docs here](https://docs.joinmastodon.org/methods/statuses/#unbookmark)",
+  "type": "action",
+  "version": "0.0.3"
+}

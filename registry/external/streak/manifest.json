@@ -1,0 +1,55 @@
+{
+  "app": "streak",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "pipelineId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pipelineFields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "teamId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "boxId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "teamMembers": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "stage": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "streak-create-box",
+    "streak-create-task",
+    "streak-link-boxes",
+    "streak-list-pipeline-id-options",
+    "streak-list-team-id-options",
+    "streak-update-box-field-value",
+    "streak-update-box",
+    "streak-box-changed-pipeline",
+    "streak-box-changed-stage",
+    "streak-new-box",
+    "streak-new-comment",
+    "streak-new-contact",
+    "streak-new-email-on-box",
+    "streak-new-task-due",
+    "streak-new-task",
+    "streak-task-completed",
+    "streak-updated-box",
+    "streak-updated-contact"
+  ]
+}

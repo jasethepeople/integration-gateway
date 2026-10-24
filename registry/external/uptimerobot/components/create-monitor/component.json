@@ -1,0 +1,7 @@
+{
+  "key": "uptimerobot-create-monitor",
+  "name": "Create Monitor",
+  "description": "Create a new monitor. [See the documentation](https://uptimerobot.com/api/).",
+  "type": "action",
+  "version": "0.0.2"
+}

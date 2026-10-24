@@ -1,0 +1,7 @@
+{
+  "key": "talenthr-list-nationality-options",
+  "name": "List Nationality Options",
+  "description": "Retrieves available options for the Nationality field.",
+  "type": "action",
+  "version": "0.0.1"
+}

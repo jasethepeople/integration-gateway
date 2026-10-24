@@ -1,0 +1,7 @@
+{
+  "key": "_302_ai-chat-using-functions",
+  "name": "Chat using Functions",
+  "description": "Enable your 302.AI model to invoke user-defined functions. Useful for conditional logic, workflow orchestration, and tool invocation within conversations. [See documentation](https://doc.302.ai/211560247e0)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "brosix-send-message",
+  "name": "Send Message",
+  "description": "Send a message with Brosix. [See the documentation](https://help.brosix.com/notifications-api/)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "salesloft-new-person-instant",
+  "name": "New Person (Instant)",
+  "description": "Emit new event when a person is created in Salesloft. [See the documentation](https://developers.salesloft.com/docs/api/webhook-subscriptions/)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,141 @@
+{
+  "app": "frontapp",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "bodyFormat": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "threadRef": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "conversationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "attachments": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "channelId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "inboxId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tagIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "teammateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "commentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "teamId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "signatureId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ticketStatusId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shouldAddDefaultSignature": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "quoteBody": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "to": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "cc": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "bcc": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "messageTemplateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "folderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "frontapp-add-comment",
+    "frontapp-archive-conversation",
+    "frontapp-assign-conversation",
+    "frontapp-create-draft-reply",
+    "frontapp-create-draft",
+    "frontapp-create-inbox",
+    "frontapp-create-message-template",
+    "frontapp-create-message",
+    "frontapp-delete-message-template",
+    "frontapp-get-comment",
+    "frontapp-get-conversation",
+    "frontapp-get-message",
+    "frontapp-get-teammate",
+    "frontapp-get-ticket-status",
+    "frontapp-import-message",
+    "frontapp-list-comment-mentions",
+    "frontapp-list-comments",
+    "frontapp-list-conversations",
+    "frontapp-list-message-templates",
+    "frontapp-list-teammates",
+    "frontapp-list-ticket-statuses",
+    "frontapp-receive-custom-messages",
+    "frontapp-reply-to-conversation",
+    "frontapp-send-new-message",
+    "frontapp-tag-conversation",
+    "frontapp-update-conversation",
+    "frontapp-update-teammate",
+    "frontapp-new-conversation-created",
+    "frontapp-new-conversation-state-change",
+    "frontapp-new-conversation-tag",
+    "frontapp-new-message-template-created"
+  ],
+  "npmImports": [
+    "async-retry",
+    "form-data",
+    "fs"
+  ]
+}

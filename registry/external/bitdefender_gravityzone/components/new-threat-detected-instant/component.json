@@ -1,0 +1,7 @@
+{
+  "key": "bitdefender_gravityzone-new-threat-detected-instant",
+  "name": "New Threat Detected (Instant)",
+  "description": "Emit new event when a potentially dangerous application is detected and blocked on an endpoint",
+  "type": "source",
+  "version": "0.0.2"
+}

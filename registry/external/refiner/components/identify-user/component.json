@@ -1,0 +1,7 @@
+{
+  "key": "refiner-identify-user",
+  "name": "Identify User",
+  "description": "Identify a user with user ID or email. If the user does not exist, a new one will be created. [See the documentation](https://refiner.io/docs/api/#identify-user)",
+  "type": "action",
+  "version": "0.0.2"
+}

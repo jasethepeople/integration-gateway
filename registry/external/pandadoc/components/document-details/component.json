@@ -1,0 +1,7 @@
+{
+  "key": "pandadoc-document-details",
+  "name": "Get Document Details",
+  "description": "Return detailed data about a document. [See the documentation here](https://developers.pandadoc.com/reference/document-details)",
+  "type": "action",
+  "version": "0.0.9"
+}

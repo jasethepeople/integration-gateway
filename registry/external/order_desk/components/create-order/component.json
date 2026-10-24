@@ -1,0 +1,7 @@
+{
+  "key": "order_desk-create-order",
+  "name": "Create Order",
+  "description": "Create Order [See the documentation](https://apidocs.orderdesk.com/#create-an-order).",
+  "type": "action",
+  "version": "0.0.2"
+}

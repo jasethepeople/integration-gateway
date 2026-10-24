@@ -1,0 +1,7 @@
+{
+  "key": "hubspot-get-deal",
+  "name": "Get Deal",
+  "description": "Get a single deal from HubSpot by its id, with a default set of deal properties. Add **Additional properties to retrieve** to include more (use **Get Properties** for `deals`). Example: Object ID `123`, Additional properties `[\"amount\", \"dealstage\"]`. Returns the deal record. [See the documentation](https://developers.hubspot.com/docs/api/crm/deals#endpoint?spec=GET-/crm/v3/objects/deals/{dealId})",
+  "type": "action",
+  "version": "0.1.1"
+}

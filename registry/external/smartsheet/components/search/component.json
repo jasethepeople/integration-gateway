@@ -1,0 +1,7 @@
+{
+  "key": "smartsheet-search",
+  "name": "Search",
+  "description": "Full-text search across everything the account can see, or within a single sheet.",
+  "type": "action",
+  "version": "0.1.2"
+}

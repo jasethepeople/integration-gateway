@@ -1,0 +1,7 @@
+{
+  "key": "slite-create-doc",
+  "name": "Create Document",
+  "description": "Creates a new document within a chosen parent document or private channel. [See the documentation](https://developers.slite.com/reference/createnote)",
+  "type": "action",
+  "version": "0.0.2"
+}

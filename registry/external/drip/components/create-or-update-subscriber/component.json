@@ -1,0 +1,7 @@
+{
+  "key": "drip-create-or-update-subscriber",
+  "name": "Create Or Update Subscriber",
+  "description": "Creates a new subscriber. If the email already exists, it will update the existing subscriber. [See the docs here](https://developer.drip.com/?javascript#create-or-update-a-subscriber)",
+  "type": "action",
+  "version": "0.0.4"
+}

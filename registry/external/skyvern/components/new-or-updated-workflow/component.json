@@ -1,0 +1,7 @@
+{
+  "key": "skyvern-new-or-updated-workflow",
+  "name": "New or Updated Workflow",
+  "description": "Emit new event when a workflow is created or updated in Skyvern.",
+  "type": "source",
+  "version": "0.0.1"
+}

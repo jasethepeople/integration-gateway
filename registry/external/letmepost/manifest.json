@@ -1,0 +1,34 @@
+{
+  "app": "letmepost",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "profileId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "accounts": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "postId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "letmepost-get-post",
+    "letmepost-list-accounts",
+    "letmepost-list-media",
+    "letmepost-list-posts",
+    "letmepost-publish-post",
+    "letmepost-new-webhook-event"
+  ],
+  "npmImports": [
+    "node:crypto"
+  ]
+}

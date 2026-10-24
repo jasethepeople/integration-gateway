@@ -1,0 +1,7 @@
+{
+  "key": "squarespace-new-update-transaction",
+  "name": "New Update Transaction",
+  "description": "Emit new event for each transaction updated.",
+  "type": "source",
+  "version": "0.0.3"
+}

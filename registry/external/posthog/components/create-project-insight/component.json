@@ -1,0 +1,7 @@
+{
+  "key": "posthog-create-project-insight",
+  "name": "Create Project Insight",
+  "description": "Create a new insight in a project. [See the documentation](https://posthog.com/docs/api/insights#post-api-projects-project_id-insights)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "yanado-new-task",
+  "name": "New Task",
+  "description": "Emit new event for every new task in  a list",
+  "type": "source",
+  "version": "0.0.2"
+}

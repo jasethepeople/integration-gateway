@@ -1,0 +1,7 @@
+{
+  "key": "heygen-new-avatar-video-failure",
+  "name": "New Avatar Video Failure (Instant)",
+  "description": "Emit new event when a Heygen video fails during processing. [See the documentation](https://developers.heygen.com/reference/create-webhook-endpoint)",
+  "type": "source",
+  "version": "0.0.2"
+}

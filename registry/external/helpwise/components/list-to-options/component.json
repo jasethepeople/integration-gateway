@@ -1,0 +1,7 @@
+{
+  "key": "helpwise-list-to-options",
+  "name": "List To Options",
+  "description": "Retrieves available options for the To field.",
+  "type": "action",
+  "version": "0.0.1"
+}

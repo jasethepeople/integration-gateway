@@ -1,0 +1,7 @@
+{
+  "key": "xola-delete-experience-schedule",
+  "name": "Delete Experience Schedule",
+  "description": "Deletes a schedule from an experience. [See the documentation](https://xola.github.io/xola-docs/#tag/schedules/operation/deleteExperienceSchedule)",
+  "type": "action",
+  "version": "0.0.1"
+}

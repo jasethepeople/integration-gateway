@@ -1,0 +1,7 @@
+{
+  "key": "attractwell-list-vault-id-options",
+  "name": "List Vault ID Options",
+  "description": "Retrieves available options for the Vault ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

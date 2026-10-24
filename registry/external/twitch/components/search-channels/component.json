@@ -1,0 +1,7 @@
+{
+  "key": "twitch-search-channels",
+  "name": "Search Channels",
+  "description": "Maximum number of channels to return",
+  "type": "action",
+  "version": "0.1.6"
+}

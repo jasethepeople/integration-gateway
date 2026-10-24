@@ -1,0 +1,7 @@
+{
+  "key": "cloudtables-add-single-row",
+  "name": "Add Single Row",
+  "description": "Add a single row of data into CloudTable data set",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "medium-create-post",
+  "name": "Create a post",
+  "description": "Create a new Medium post.",
+  "type": "action",
+  "version": "0.1.5"
+}

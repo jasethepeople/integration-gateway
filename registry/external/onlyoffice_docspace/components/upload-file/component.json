@@ -1,0 +1,7 @@
+{
+  "key": "onlyoffice_docspace-upload-file",
+  "name": "Upload File",
+  "description": "Uploads a file to the specified room. [See the documentation](https://api.onlyoffice.com/docspace/api-backend/usage-api/upload-file/)",
+  "type": "action",
+  "version": "0.1.4"
+}

@@ -1,0 +1,27 @@
+{
+  "app": "grafana",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "service_account_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "grafana-create-annotation",
+    "grafana-delete-dashboard",
+    "grafana-get-current-user",
+    "grafana-get-dashboard",
+    "grafana-list-alert-rules",
+    "grafana-list-data-sources",
+    "grafana-list-folders",
+    "grafana-query-data-source",
+    "grafana-save-dashboard",
+    "grafana-search-dashboards"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-get-job-contact",
+  "name": "Get Job Contact",
+  "description": "Get a job contact by UUID. [See the documentation](https://developer.servicem8.com/reference/getjobcontacts)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "specific-update-create-contact",
+  "name": "Update or Create Contact",
+  "description": "Modify an existing contact's details or create a new one if the specified contact does not exist. [See the documentation](https://public-api.specific.app/docs/types/contact)",
+  "type": "action",
+  "version": "0.0.2"
+}

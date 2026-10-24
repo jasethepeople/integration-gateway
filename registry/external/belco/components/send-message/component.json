@@ -1,0 +1,7 @@
+{
+  "key": "belco-send-message",
+  "name": "Send Message",
+  "description": "Send a message in a Belco shop on the `email`, `chat` or `phone` channel, starting a new conversation that carries it.",
+  "type": "action",
+  "version": "0.1.0"
+}

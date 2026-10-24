@@ -1,0 +1,32 @@
+{
+  "app": "threads",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "channelID": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "body": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "threadID": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "chatID": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "threads-delete-thread",
+    "threads-post-chat-message",
+    "threads-post-thread"
+  ]
+}

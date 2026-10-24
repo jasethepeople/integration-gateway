@@ -1,0 +1,153 @@
+{
+  "app": "kustomer",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "assignedUsers": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "assignedTeams": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "queueId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "conversationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "klassName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customObjectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "externalId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "priority": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "direction": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sentimentPolarity": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sentimentConfidence": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "defaultLang": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "company": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "username": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "avatarUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "externalIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "sharedExternalIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "emails": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "sharedEmails": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "phones": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "sharedPhones": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "whatsApps": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "urls": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "birthdayAt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "gender": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "kustomer-create-conversation",
+    "kustomer-create-customer",
+    "kustomer-get-custom-object-by-external-id",
+    "kustomer-get-custom-object-by-id",
+    "kustomer-get-custom-objects",
+    "kustomer-list-assigned-teams-options",
+    "kustomer-list-assigned-users-options",
+    "kustomer-list-conversation-id-options",
+    "kustomer-list-customer-id-options",
+    "kustomer-list-klass-name-options",
+    "kustomer-list-queue-id-options",
+    "kustomer-list-tags-options",
+    "kustomer-update-conversation",
+    "kustomer-update-custom-object-by-id",
+    "kustomer-update-customer",
+    "kustomer-new-conversation-instant",
+    "kustomer-new-customer-instant",
+    "kustomer-new-message-instant",
+    "kustomer-updated-conversation-instant",
+    "kustomer-updated-customer-instant"
+  ]
+}

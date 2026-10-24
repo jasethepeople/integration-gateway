@@ -1,0 +1,7 @@
+{
+  "key": "trengo-ticket-label-added",
+  "name": "New Ticket Label Added Event (Instant)",
+  "description": "Emit new event when a ticket label is added. [See the documentation](https://developers.trengo.com/docs/webhooks)",
+  "type": "source",
+  "version": "0.0.12"
+}

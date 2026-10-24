@@ -1,0 +1,51 @@
+{
+  "app": "google_tag_manager",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "liveOnly": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "notes": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "parameter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "consentSettings": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "monitoringMetadata": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "accountId": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "google_tag_manager-create-tag",
+    "google_tag_manager-get-tag",
+    "google_tag_manager-get-tags",
+    "google_tag_manager-list-account-id-options",
+    "google_tag_manager-update-tag",
+    "google_tag_manager-update-variable"
+  ]
+}

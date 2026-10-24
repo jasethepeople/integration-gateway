@@ -1,0 +1,7 @@
+{
+  "key": "picqer-change-order-to-concept",
+  "name": "Change Order To Concept",
+  "description": "Converts expected orders back to concept status for editing. [See the documentation](https://picqer.com/en/api/orders)",
+  "type": "action",
+  "version": "0.0.1"
+}

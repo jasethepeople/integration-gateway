@@ -1,0 +1,117 @@
+{
+  "app": "teamleader_focus",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contact": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "user": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dealPhase": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dealSource": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "invoice": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "company": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "businessType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ticketId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "messageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "website": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "iban": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "bic": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "language": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "remarks": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "marketingMailsConsent": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "teamleader_focus-create-contact",
+    "teamleader_focus-create-deal",
+    "teamleader_focus-get-ticket-message",
+    "teamleader_focus-get-ticket",
+    "teamleader_focus-import-message",
+    "teamleader_focus-list-business-type-options",
+    "teamleader_focus-list-company-options",
+    "teamleader_focus-list-contact-options",
+    "teamleader_focus-list-deal-phase-options",
+    "teamleader_focus-list-deal-source-options",
+    "teamleader_focus-list-invoice-options",
+    "teamleader_focus-list-messages",
+    "teamleader_focus-list-ticket-id-options",
+    "teamleader_focus-list-user-options",
+    "teamleader_focus-update-company",
+    "teamleader_focus-update-contact",
+    "teamleader_focus-update-invoice",
+    "teamleader_focus-new-company-added",
+    "teamleader_focus-new-contact-added",
+    "teamleader_focus-new-deal-won",
+    "teamleader_focus-new-invoice-paid",
+    "teamleader_focus-new-ticket-created",
+    "teamleader_focus-new-ticket-message-added",
+    "teamleader_focus-new-ticket-updated"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "app": "fitbit",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "date": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "fitbit-get-activity-summary",
+    "fitbit-get-body-weight",
+    "fitbit-get-daily-steps",
+    "fitbit-get-heart-rate",
+    "fitbit-get-nutrition-water",
+    "fitbit-get-sleep-data"
+  ]
+}

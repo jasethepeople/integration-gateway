@@ -1,0 +1,7 @@
+{
+  "key": "rhombus-list-audio-gateway-uuid-options",
+  "name": "List Audio Gateway ID Options",
+  "description": "Retrieves available options for the Audio Gateway ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

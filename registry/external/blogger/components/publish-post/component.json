@@ -1,0 +1,7 @@
+{
+  "key": "blogger-publish-post",
+  "name": "Publish a Post",
+  "description": "Publishes a draft post [See the docs here](https://developers.google.com/blogger/docs/3.0/reference/posts/publish).",
+  "type": "action",
+  "version": "0.0.2"
+}

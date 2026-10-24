@@ -1,0 +1,25 @@
+{
+  "app": "smslink_nc",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "personal_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "smslink_nc-create-contact",
+    "smslink_nc-delete-contact",
+    "smslink_nc-delete-sms-campaign",
+    "smslink_nc-list-campaign-id-options"
+  ]
+}

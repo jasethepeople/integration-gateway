@@ -1,0 +1,66 @@
+{
+  "app": "fogbugz",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "filterId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ixAreaId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ixBugParentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ixCategoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ixPersonId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ixPriorityId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ixProjectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sTags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "sTitle": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "your_site": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "fogbugz-create-case",
+    "fogbugz-list-filter-id-options",
+    "fogbugz-list-ix-bug-parent-id-options",
+    "fogbugz-list-ix-category-id-options",
+    "fogbugz-list-ix-person-id-options",
+    "fogbugz-list-ix-priority-id-options",
+    "fogbugz-list-ix-project-id-options",
+    "fogbugz-list-projects",
+    "fogbugz-list-s-tags-options",
+    "fogbugz-update-person",
+    "fogbugz-new-case-in-filter",
+    "fogbugz-new-caseevent",
+    "fogbugz-new-person"
+  ]
+}

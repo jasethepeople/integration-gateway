@@ -1,0 +1,74 @@
+{
+  "app": "arlo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "eventId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "registrationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "presenterId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phoneWork": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phoneMobile": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phoneHome": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "skip": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "password": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "arlo-create-event",
+    "arlo-create-presenter",
+    "arlo-get-event",
+    "arlo-get-registration",
+    "arlo-list-event-templates",
+    "arlo-list-events",
+    "arlo-list-presenters",
+    "arlo-list-registrations",
+    "arlo-list-venues",
+    "arlo-update-presenter"
+  ],
+  "npmImports": [
+    "fast-xml-parser"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "readwise-list-book-id-options",
+  "name": "List Book Id Options",
+  "description": "Retrieves available options for the Book Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

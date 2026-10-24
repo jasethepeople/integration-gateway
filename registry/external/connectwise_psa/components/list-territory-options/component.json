@@ -1,0 +1,7 @@
+{
+  "key": "connectwise_psa-list-territory-options",
+  "name": "List Territory Options",
+  "description": "Retrieves available options for the Territory field.",
+  "type": "action",
+  "version": "0.0.1"
+}

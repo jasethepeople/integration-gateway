@@ -1,0 +1,7 @@
+{
+  "key": "snappy-list-account-id-options",
+  "name": "List Account ID Options",
+  "description": "Retrieves available options for the Account ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

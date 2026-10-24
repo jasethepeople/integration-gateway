@@ -1,0 +1,100 @@
+{
+  "app": "universal_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "universalApi": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "serviceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mdmServiceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "hrisServiceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "distributorServiceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "consumerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "employeeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "depTokenId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "vppTokenId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "trackingId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "server_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "application_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "universal_api-create-consumer",
+    "universal_api-create-distributor-order",
+    "universal_api-delete-connection",
+    "universal_api-delete-consumer",
+    "universal_api-get-connection",
+    "universal_api-get-distributor-order",
+    "universal_api-get-distributor-product",
+    "universal_api-get-hris-employee",
+    "universal_api-get-mdm-apn-cert",
+    "universal_api-get-mdm-dep-token",
+    "universal_api-get-mdm-vpp-token",
+    "universal_api-list-am-budgets",
+    "universal_api-list-am-employees",
+    "universal_api-list-am-equipment-items",
+    "universal_api-list-am-orders",
+    "universal_api-list-connections",
+    "universal_api-list-consumers",
+    "universal_api-list-distributor-orders",
+    "universal_api-list-distributor-products",
+    "universal_api-list-hris-employees",
+    "universal_api-list-mdm-apn-certs",
+    "universal_api-list-mdm-dep-tokens",
+    "universal_api-list-mdm-device-apps",
+    "universal_api-list-mdm-devices",
+    "universal_api-list-mdm-vpp-tokens",
+    "universal_api-track-shipment",
+    "universal_api-update-connection"
+  ]
+}

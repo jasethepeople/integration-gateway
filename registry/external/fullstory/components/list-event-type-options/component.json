@@ -1,0 +1,7 @@
+{
+  "key": "fullstory-list-event-type-options",
+  "name": "List Event Type Options",
+  "description": "Retrieves available options for the Event Type field.",
+  "type": "action",
+  "version": "0.0.1"
+}

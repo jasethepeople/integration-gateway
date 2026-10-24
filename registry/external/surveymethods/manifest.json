@@ -1,0 +1,23 @@
+{
+  "app": "surveymethods",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "login_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "surveymethods-add-contact-to-email-list",
+    "surveymethods-create-email-list",
+    "surveymethods-list-email-list-code-options",
+    "surveymethods-list-survey-code-options",
+    "surveymethods-new-response",
+    "surveymethods-new-survey-created"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "owl_protocol-deploy-collection",
+  "name": "Deploy Collection",
+  "description": "Deploy digital asset collection. [See the documentation](https://docs-api.owlprotocol.xyz/reference/collection-deploy)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "vimeo-new-video-of-mine",
+  "name": "New Video of Mine",
+  "description": "Emit new event when the user adds a new video.",
+  "type": "source",
+  "version": "0.0.1"
+}

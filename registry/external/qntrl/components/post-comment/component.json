@@ -1,0 +1,7 @@
+{
+  "key": "qntrl-post-comment",
+  "name": "Post Comment",
+  "description": "Posts a new comment under a specific job. [See the documentation](https://core.qntrl.com/apidoc.html?type=reference&module=jobs&action=PostComment)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "vision6-contact-activated",
+  "name": "Contact Activated",
+  "description": "Emit new event when a contact is activated",
+  "type": "source",
+  "version": "0.0.2"
+}

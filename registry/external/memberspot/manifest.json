@@ -1,0 +1,16 @@
+{
+  "app": "memberspot",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "memberspot-delete-access",
+    "memberspot-grant-access",
+    "memberspot-list-offer-id-options"
+  ]
+}

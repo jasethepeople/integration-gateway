@@ -1,0 +1,7 @@
+{
+  "key": "tick-new-client",
+  "name": "New Client",
+  "description": "Emit new event on each created client.",
+  "type": "source",
+  "version": "0.0.2"
+}

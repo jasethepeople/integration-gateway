@@ -1,0 +1,7 @@
+{
+  "key": "discourse-create-post",
+  "name": "Create Post",
+  "description": "Creates a post. [See docs here](https://docs.discourse.org/#tag/Posts/operation/createTopicPostPM)",
+  "type": "action",
+  "version": "0.1.2"
+}

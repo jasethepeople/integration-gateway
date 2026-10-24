@@ -1,0 +1,7 @@
+{
+  "key": "connecteam-new-form-submission",
+  "name": "New Form Submission",
+  "description": "Emit new event when a new form submission is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

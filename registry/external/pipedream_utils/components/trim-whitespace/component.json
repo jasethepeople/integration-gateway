@@ -1,0 +1,7 @@
+{
+  "key": "pipedream_utils-trim-whitespace",
+  "name": "Formatting - [Text] Trim Whitespace",
+  "description": "Removes leading and trailing whitespace",
+  "type": "action",
+  "version": "0.0.6"
+}

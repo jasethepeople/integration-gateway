@@ -1,0 +1,31 @@
+{
+  "app": "cloudpress",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "connectionIds": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "documentReference": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "collectionId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "personal_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "cloudpress-export-collection",
+    "cloudpress-export-from-connection",
+    "cloudpress-list-collection-id-options",
+    "cloudpress-list-document-reference-options",
+    "cloudpress-document-export-failed",
+    "cloudpress-document-export-succeeded"
+  ]
+}

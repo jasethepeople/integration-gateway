@@ -1,0 +1,7 @@
+{
+  "key": "https_airbyte_com-delete-workspace",
+  "name": "Delete Workspace",
+  "description": "Deletes a workspace on Airbyte. [See the documentation](https://reference.airbyte.com/reference/deleteworkspace)",
+  "type": "action",
+  "version": "0.0.3"
+}

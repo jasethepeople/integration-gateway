@@ -1,0 +1,7 @@
+{
+  "key": "strava-search-activities",
+  "name": "Search Activities",
+  "description": "Search and list the authenticated athlete's Strava activities, ordered most-recent first.",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "ashby-start-offer",
+  "name": "Start Offer",
+  "description": "Starts an offer and returns an offer form instance that can be filled out and submitted. [See the documentation](https://developers.ashbyhq.com/reference/offerstart)",
+  "type": "action",
+  "version": "0.0.4"
+}

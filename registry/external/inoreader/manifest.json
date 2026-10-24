@@ -1,0 +1,27 @@
+{
+  "app": "inoreader",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "feedId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tagName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "inoreader-list-tag-name-options",
+    "inoreader-subscribe-to-feed",
+    "inoreader-new-article-in-folder",
+    "inoreader-new-broadcasted-article",
+    "inoreader-new-starred-article",
+    "inoreader-new-subscription"
+  ]
+}

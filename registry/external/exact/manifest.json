@@ -1,0 +1,19 @@
+{
+  "app": "exact",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "region": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "exact-new-account-created",
+    "exact-new-contact-created"
+  ]
+}

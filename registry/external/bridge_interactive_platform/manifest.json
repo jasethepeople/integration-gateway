@@ -1,0 +1,43 @@
+{
+  "app": "bridge_interactive_platform",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "dataset": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "field": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "near": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "radius": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "box": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "poly": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "geohash": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "bridge_interactive_platform-get-listings",
+    "bridge_interactive_platform-new-listing-created"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "streamtime-new-to-do-created",
+  "name": "New To Do Created",
+  "description": "Emit new event when a new To Do is created",
+  "type": "source",
+  "version": "0.0.1"
+}

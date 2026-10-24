@@ -1,0 +1,7 @@
+{
+  "key": "e_conomic-list-product-numbers-options",
+  "name": "List Product Numbers Options",
+  "description": "Retrieves available options for the Product Numbers field.",
+  "type": "action",
+  "version": "0.0.1"
+}

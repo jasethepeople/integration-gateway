@@ -1,0 +1,7 @@
+{
+  "key": "vivifyscrum-create-board-item",
+  "name": "Create Board Item",
+  "description": "Creates a new item on a VivifyScrum board. [See the documentation](https://github.com/Vivify-Ideas/vivify-cli)",
+  "type": "action",
+  "version": "0.0.1"
+}

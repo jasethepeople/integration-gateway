@@ -1,0 +1,7 @@
+{
+  "key": "tomba-get-email-format",
+  "name": "Get Email Format",
+  "description": "Retrieve the email format patterns used by a specific domain. [See the documentation](https://docs.tomba.io/api/finder#email-format)",
+  "type": "action",
+  "version": "0.0.1"
+}

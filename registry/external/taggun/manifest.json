@@ -1,0 +1,59 @@
+{
+  "app": "taggun",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "referenceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "refresh": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "near": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "language": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "incognito": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "totalAmount": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taxAmount": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "merchantName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "currencyCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "verbose": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "taggun-extract-data-from-url",
+    "taggun-submit-feedback"
+  ]
+}

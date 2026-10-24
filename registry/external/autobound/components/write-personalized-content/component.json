@@ -1,0 +1,7 @@
+{
+  "key": "autobound-write-personalized-content",
+  "name": "Write Personalized Content",
+  "description": "Write personalized content using Autobound. [See the documentation](https://autobound-api.readme.io/docs/generate-personalized-content-copy)",
+  "type": "action",
+  "version": "0.0.2"
+}

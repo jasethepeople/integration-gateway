@@ -1,0 +1,7 @@
+{
+  "key": "graceblocks-update-record",
+  "name": "Update Record",
+  "description": "Update an existing record in GraceBlocks.",
+  "type": "action",
+  "version": "0.0.1"
+}

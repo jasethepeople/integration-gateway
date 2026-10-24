@@ -1,0 +1,7 @@
+{
+  "key": "local_reviews-get-survey-url",
+  "name": "Get Survey URL",
+  "description": "Retrieve the survey link associated with the connected license. [See the documentation](https://app.localreviews.com/review-tools/api-documentation).",
+  "type": "action",
+  "version": "0.0.2"
+}

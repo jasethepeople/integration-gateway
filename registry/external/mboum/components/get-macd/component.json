@@ -1,0 +1,7 @@
+{
+  "key": "mboum-get-macd",
+  "name": "Get MACD",
+  "description": "Calculate Moving Average Convergence Divergence (MACD) technical indicator to identify trend changes and momentum. [See the documentation](https://docs.mboum.com/#stocks-options-small-stylecolor-f8f2f2background-fa256fpadding-1px-4pxborder-radius-3pxhotsmall-GETapi-v1-markets-indicators-macd)",
+  "type": "action",
+  "version": "0.0.2"
+}

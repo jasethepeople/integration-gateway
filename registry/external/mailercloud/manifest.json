@@ -1,0 +1,65 @@
+{
+  "app": "mailercloud",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "listId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "city": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "state": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "zip": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "industry": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "department": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobTitle": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "organization": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mailercloud-add-contact-list",
+    "mailercloud-create-list",
+    "mailercloud-list-list-id-options",
+    "mailercloud-update-contact"
+  ]
+}

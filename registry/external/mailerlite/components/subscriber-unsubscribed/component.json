@@ -1,0 +1,7 @@
+{
+  "key": "mailerlite-subscriber-unsubscribed",
+  "name": "New Subscriber Unsubscribed (Instant)",
+  "description": "Emit new event when a subscriber is unsubscribed.",
+  "type": "source",
+  "version": "0.0.2"
+}

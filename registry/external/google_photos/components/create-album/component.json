@@ -1,0 +1,7 @@
+{
+  "key": "google_photos-create-album",
+  "name": "Create Album",
+  "description": "Creates an album. [See the documentation](https://developers.google.com/photos/library/guides/manage-albums#creating-new-album)",
+  "type": "action",
+  "version": "0.0.2"
+}

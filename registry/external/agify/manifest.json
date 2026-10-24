@@ -1,0 +1,27 @@
+{
+  "app": "agify",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "names": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "countryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "agify-get-age-from-name",
+    "agify-get-age-from-names"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "tiktok_ads_manager-upload-creative",
+  "name": "Upload Creative",
+  "description": "Upload an image or video to the TikTok Ads Asset Library and return its asset ID.",
+  "type": "action",
+  "version": "0.0.2"
+}

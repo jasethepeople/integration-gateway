@@ -1,0 +1,7 @@
+{
+  "key": "uipath_automation_hub-update-category-idea",
+  "name": "Update Category Idea",
+  "description": "Change the category of a specific Idea. [See the documentation](https://automation-hub.uipath.com/api/v1/api-doc/#/Automation%20Ideas/AutomationCategoriesUpdate)",
+  "type": "action",
+  "version": "0.0.2"
+}

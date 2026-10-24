@@ -1,0 +1,7 @@
+{
+  "key": "teamwork_desk-list-inbox-id-options",
+  "name": "List Inbox ID Options",
+  "description": "Retrieves available options for the Inbox ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

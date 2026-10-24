@@ -1,0 +1,7 @@
+{
+  "key": "webflow-new-ecommerce-order",
+  "name": "New E-commerce Order",
+  "description": "Emit new event when an e-commerce order is created. [See the documentation](https://developers.webflow.com/data/reference/webhooks/events/ecomm-new-order)",
+  "type": "source",
+  "version": "2.0.0"
+}

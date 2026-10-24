@@ -1,0 +1,7 @@
+{
+  "key": "mastodon-get-accounts-following",
+  "name": "Get Accounts Following",
+  "description": "Get the accounts that the given account is following. [See the documentation](https://docs.joinmastodon.org/methods/accounts/#following)",
+  "type": "action",
+  "version": "0.0.3"
+}

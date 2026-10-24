@@ -1,0 +1,7 @@
+{
+  "key": "surveysparrow-new-nps-submission-instant",
+  "name": "New NPS Submission (Instant)",
+  "description": "Emit new event when a net promoter score (NPS) survey receives a new submission.",
+  "type": "source",
+  "version": "0.0.1"
+}

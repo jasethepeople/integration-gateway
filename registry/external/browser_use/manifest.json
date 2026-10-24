@@ -1,0 +1,74 @@
+{
+  "app": "browser_use",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "sessionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "browserSessionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "profileId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workspaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "model": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "proxyCountryCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pageSize": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "pageNumber": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "browserSessionStatus": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "browser_use-create-browser-session",
+    "browser_use-create-profile",
+    "browser_use-create-session",
+    "browser_use-create-workspace",
+    "browser_use-delete-profile",
+    "browser_use-delete-session",
+    "browser_use-delete-workspace-file",
+    "browser_use-delete-workspace",
+    "browser_use-get-account-billing",
+    "browser_use-get-browser-session",
+    "browser_use-get-profile",
+    "browser_use-get-session",
+    "browser_use-get-workspace-size",
+    "browser_use-get-workspace",
+    "browser_use-list-browser-sessions",
+    "browser_use-list-profiles",
+    "browser_use-list-session-messages",
+    "browser_use-list-sessions",
+    "browser_use-list-workspace-files",
+    "browser_use-list-workspaces",
+    "browser_use-stop-session",
+    "browser_use-update-browser-session",
+    "browser_use-update-profile",
+    "browser_use-update-workspace",
+    "browser_use-upload-workspace-files"
+  ]
+}

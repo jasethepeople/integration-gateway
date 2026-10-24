@@ -1,0 +1,171 @@
+{
+  "app": "nationbuilder",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "actblueOrderNumber": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "amountInCents": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "checkNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "corporateContribution": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "cycle": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "donationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "employer": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "facebookUsername": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fecType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "isPrivate": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ngpId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "note": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "paymentTypeName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "party": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "period": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "personId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "personTags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recruiterNameOrEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "registeredAddress1": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "registeredAddress2": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "registeredAddress3": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "registeredAddressCity": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "registeredAddressCountryCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "registeredAddressLat": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "registeredAddressLng": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "registeredAddressState": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "registeredAddressZip": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sex": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "signupType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "trackingCodeSlug": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "twitterLogin": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "slug": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "nationbuilder-add-tags",
+    "nationbuilder-create-donation",
+    "nationbuilder-create-membership",
+    "nationbuilder-create-person",
+    "nationbuilder-delete-donation",
+    "nationbuilder-push-person",
+    "nationbuilder-remove-tags",
+    "nationbuilder-search-person",
+    "nationbuilder-update-donation",
+    "nationbuilder-update-person"
+  ]
+}

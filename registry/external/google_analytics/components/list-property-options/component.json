@@ -1,0 +1,7 @@
+{
+  "key": "google_analytics-list-property-options",
+  "name": "List Property Options",
+  "description": "Retrieves available options for the Property field.",
+  "type": "action",
+  "version": "0.0.1"
+}

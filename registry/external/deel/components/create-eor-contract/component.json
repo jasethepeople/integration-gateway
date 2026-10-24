@@ -1,0 +1,7 @@
+{
+  "key": "deel-create-eor-contract",
+  "name": "Create EOR Contract",
+  "description": "Create an EOR (employer of record) contract quote in Deel to hire a full-time employee in a",
+  "type": "action",
+  "version": "0.0.2"
+}

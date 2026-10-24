@@ -1,0 +1,7 @@
+{
+  "key": "wealthbox-new-comment",
+  "name": "New Comment",
+  "description": "Emit new event for each new comment created in Wealthbox, deduplicated by comment id. Polls GET /comments and tracks by `created_at`. [See the documentation](http://dev.wealthbox.com/#comments)",
+  "type": "source",
+  "version": "0.0.1"
+}

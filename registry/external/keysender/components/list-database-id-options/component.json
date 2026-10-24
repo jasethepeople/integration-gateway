@@ -1,0 +1,7 @@
+{
+  "key": "keysender-list-database-id-options",
+  "name": "List Database ID Options",
+  "description": "Retrieves available options for the Database ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

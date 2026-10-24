@@ -1,0 +1,23 @@
+{
+  "app": "herobot_chatbot_marketing",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "herobot_chatbot_marketing-create-custom-field",
+    "herobot_chatbot_marketing-create-user",
+    "herobot_chatbot_marketing-list-user-id-options",
+    "herobot_chatbot_marketing-send-message",
+    "herobot_chatbot_marketing-new-tag-added",
+    "herobot_chatbot_marketing-new-user-created"
+  ]
+}

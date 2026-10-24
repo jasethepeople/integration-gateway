@@ -1,0 +1,7 @@
+{
+  "key": "pubrio-search-vertical-sub-categories",
+  "name": "Search Vertical Sub-Categories",
+  "description": "Search available vertical sub-categories by keyword. [See the documentation](https://docs.pubrio.com/en/api-reference/endpoint/verticals/vertical_sub_categories)",
+  "type": "action",
+  "version": "0.0.1"
+}

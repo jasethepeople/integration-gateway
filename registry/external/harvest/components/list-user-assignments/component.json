@@ -1,0 +1,7 @@
+{
+  "key": "harvest-list-user-assignments",
+  "name": "List User Assignments",
+  "description": "Optional free-form project ID, e.g. `14308069`. When set, routes to `/projects/{project_id}/user_assignments`; when omitted uses global `/user_assignments`. Run **Get Projects** first to find valid IDs.",
+  "type": "action",
+  "version": "0.0.1"
+}

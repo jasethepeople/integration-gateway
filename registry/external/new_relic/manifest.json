@@ -1,0 +1,21 @@
+{
+  "app": "new_relic",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "application": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "new_relic-list-application-options",
+    "new_relic-new-deployment",
+    "new_relic-new-alert",
+    "new_relic-new-deployment-event"
+  ]
+}

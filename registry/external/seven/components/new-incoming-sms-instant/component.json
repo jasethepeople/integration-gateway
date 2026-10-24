@@ -1,0 +1,7 @@
+{
+  "key": "seven-new-incoming-sms-instant",
+  "name": "New Incoming SMS (Instant)",
+  "description": "Emit new event when a new inbound SMS is received. [See the documentation](https://docs.seven.io/en/rest-api/endpoints/webhooks#register-webhook)",
+  "type": "source",
+  "version": "0.0.1"
+}

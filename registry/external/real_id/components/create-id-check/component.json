@@ -1,0 +1,7 @@
+{
+  "key": "real_id-create-id-check",
+  "name": "Create ID Check",
+  "description": "Create a new ID check for a user. [See the documentation](https://getverdict.com/help/docs/api/checks#create-an-id-check).",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "tapfiliate-set-parent-affiliate",
+  "name": "Set Parent Affiliate",
+  "description": "Sets an affiliate as the parent for another. Useful for managing the Multi Level Marketing (MLM) structure. [See the documentation](https://tapfiliate.com/docs/rest/#affiliates-mlm-parent-affiliate-post)",
+  "type": "action",
+  "version": "0.0.1"
+}

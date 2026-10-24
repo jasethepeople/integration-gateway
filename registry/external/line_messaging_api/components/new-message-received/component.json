@@ -1,0 +1,7 @@
+{
+  "key": "line_messaging_api-new-message-received",
+  "name": "New Message Received (Instant)",
+  "description": "Emit new event for every received message in a channel",
+  "type": "source",
+  "version": "0.0.1"
+}

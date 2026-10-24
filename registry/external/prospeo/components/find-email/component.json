@@ -1,0 +1,7 @@
+{
+  "key": "prospeo-find-email",
+  "name": "Find Email",
+  "description": "Find an email address. [See the documentation](https://prospeo.io/api/email-finder)",
+  "type": "action",
+  "version": "0.0.2"
+}

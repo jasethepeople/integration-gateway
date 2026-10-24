@@ -1,0 +1,7 @@
+{
+  "key": "habitica-delete-challenge",
+  "name": "Delete Challenge",
+  "description": "Delete the challenge with the specified ID. [See the documentation](https://habitica.com/apidoc/#api-Challenge-DeleteChallenge)",
+  "type": "action",
+  "version": "0.0.2"
+}

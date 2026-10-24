@@ -1,0 +1,7 @@
+{
+  "key": "finalscout-find-email-linkedin",
+  "name": "Find Email from LinkedIn",
+  "description": "Finds an email address from a LinkedIn profile URL. [See the documentation](https://finalscout.com/public/doc/api.html#tag/Single-Find/paths/~1v1~1find~1linkedin~1single/post)",
+  "type": "action",
+  "version": "0.0.2"
+}

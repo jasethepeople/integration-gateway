@@ -1,0 +1,76 @@
+{
+  "app": "dropbox",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "path": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sharedLinkUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "exportFormat": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "linkPassword": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fileRevision": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recursive": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dropbox-create-a-text-file",
+    "dropbox-create-folder",
+    "dropbox-create-or-append-to-a-text-file",
+    "dropbox-create-update-share-link",
+    "dropbox-delete-file-folder",
+    "dropbox-download-and-export",
+    "dropbox-download-file-preview",
+    "dropbox-download-file-to-tmp",
+    "dropbox-get-shared-link-file",
+    "dropbox-get-shared-link-metadata",
+    "dropbox-list-file-folders-in-a-folder",
+    "dropbox-list-file-revisions",
+    "dropbox-list-shared-links",
+    "dropbox-move-file-folder",
+    "dropbox-rename-file-folder",
+    "dropbox-restore-a-file",
+    "dropbox-search-files-folders",
+    "dropbox-upload-file",
+    "dropbox-upload-multiple-files",
+    "dropbox-all-updates",
+    "dropbox-new-file",
+    "dropbox-new-folder"
+  ],
+  "npmImports": [
+    "dropbox",
+    "fs",
+    "got",
+    "isomorphic-fetch",
+    "lodash",
+    "stream",
+    "util"
+  ]
+}

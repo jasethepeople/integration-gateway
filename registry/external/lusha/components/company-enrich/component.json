@@ -1,0 +1,7 @@
+{
+  "key": "lusha-company-enrich",
+  "name": "Enrich Companies",
+  "description": "Enriches company information based on provided company IDs. [See the documentation](https://docs.lusha.com/apis/openapi/company-search-and-enrich/enrichprospectingcompanies)",
+  "type": "action",
+  "version": "0.0.6"
+}

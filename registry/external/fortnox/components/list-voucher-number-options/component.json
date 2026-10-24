@@ -1,0 +1,7 @@
+{
+  "key": "fortnox-list-voucher-number-options",
+  "name": "List Voucher Number Options",
+  "description": "Retrieves available options for the Voucher Number field.",
+  "type": "action",
+  "version": "0.0.1"
+}

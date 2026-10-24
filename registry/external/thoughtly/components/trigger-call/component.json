@@ -1,0 +1,7 @@
+{
+  "key": "thoughtly-trigger-call",
+  "name": "Trigger a Call",
+  "description": "Triggers a call to a designated contact. [See the documentation](https://api.thought.ly/docs/#/contact/post_contact_call)",
+  "type": "action",
+  "version": "0.0.2"
+}

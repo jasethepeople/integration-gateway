@@ -1,0 +1,7 @@
+{
+  "key": "activecampaign-get-contact-by-email",
+  "name": "Get contact by email",
+  "description": "Retrieves contact data from the ActiveCampaign CRM by email address. See the docs [here](https://developers.activecampaign.com/reference/list-all-contacts).",
+  "type": "action",
+  "version": "0.3.3"
+}

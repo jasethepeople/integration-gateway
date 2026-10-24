@@ -1,0 +1,7 @@
+{
+  "key": "copper-create-update-person",
+  "name": "Create or Update Person",
+  "description": "Creates a new person or updates an existing one based on email address. [See the documentation](https://developer.copper.com/people/create-a-new-person.html)",
+  "type": "action",
+  "version": "0.0.4"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "bugherd-task-updated-instant",
+  "name": "Task Updated (Instant)",
+  "description": "Emit new event when a task is updated. [See the documentation](https://www.bugherd.com/api_v2#api_webhook_create)",
+  "type": "source",
+  "version": "0.0.1"
+}

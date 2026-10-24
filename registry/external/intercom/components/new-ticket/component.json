@@ -1,0 +1,7 @@
+{
+  "key": "intercom-new-ticket",
+  "name": "New Tickets",
+  "description": "Emit new event when a new ticket is created in Intercom.",
+  "type": "source",
+  "version": "0.0.3"
+}

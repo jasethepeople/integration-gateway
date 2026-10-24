@@ -1,0 +1,17 @@
+{
+  "app": "phrase",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "phrase-list-project-id-options",
+    "phrase-new-job-completed",
+    "phrase-new-job-created",
+    "phrase-new-job-started"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "taxjar-create-customer",
+  "name": "Create Customer",
+  "description": "Creates a new customer at TaxJar. [See the documentation](https://developers.taxjar.com/api/reference/#post-create-a-customer)",
+  "type": "action",
+  "version": "0.0.2"
+}

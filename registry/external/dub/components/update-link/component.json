@@ -1,0 +1,7 @@
+{
+  "key": "dub-update-link",
+  "name": "Update Link",
+  "description": "Updates a link. [See the documentation](https://dub.co/docs/api-reference/endpoint/edit-a-link)",
+  "type": "action",
+  "version": "0.0.8"
+}

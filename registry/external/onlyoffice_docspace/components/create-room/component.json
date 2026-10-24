@@ -1,0 +1,7 @@
+{
+  "key": "onlyoffice_docspace-create-room",
+  "name": "Create Room",
+  "description": "Creates a new room. [See the documentation](https://api.onlyoffice.com/docspace/api-backend/usage-api/create-room/)",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "senta-job-overdue",
+  "name": "New Job Overdue",
+  "description": "Emit new event when a job becomes overdue.",
+  "type": "source",
+  "version": "0.0.1"
+}

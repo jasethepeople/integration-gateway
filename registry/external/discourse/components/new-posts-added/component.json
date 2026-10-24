@@ -1,0 +1,7 @@
+{
+  "key": "discourse-new-posts-added",
+  "name": "New Posts (Instant)",
+  "description": "Emit new posts added to a topic in one of your chosen categories",
+  "type": "source",
+  "version": "0.2.1"
+}

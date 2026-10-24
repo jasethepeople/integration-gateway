@@ -1,0 +1,7 @@
+{
+  "key": "youcanbook_me-new-cancelled-booking",
+  "name": "New Cancelled Booking",
+  "description": "Emit new event when a booking is cancelled",
+  "type": "source",
+  "version": "0.0.2"
+}

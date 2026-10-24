@@ -1,0 +1,14 @@
+{
+  "app": "ntfy",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "server": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ntfy-send-notification"
+  ]
+}

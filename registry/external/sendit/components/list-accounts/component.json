@@ -1,0 +1,7 @@
+{
+  "key": "sendit-list-accounts",
+  "name": "List Connected Accounts",
+  "description": "Get a list of connected social media accounts. [See the documentation](https://sendit.infiniteappsai.com/docs/api)",
+  "type": "action",
+  "version": "0.0.1"
+}

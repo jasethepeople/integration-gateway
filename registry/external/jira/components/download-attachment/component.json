@@ -1,0 +1,7 @@
+{
+  "key": "jira-download-attachment",
+  "name": "Download Attachment",
+  "description": "Downloads a Jira issue attachment's binary content to the configured file-stash directory and",
+  "type": "action",
+  "version": "0.0.6"
+}

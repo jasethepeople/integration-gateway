@@ -1,0 +1,7 @@
+{
+  "key": "pipedream_utils-date-time-format",
+  "name": "Formatting - [Date/Time] Format",
+  "description": "Format a date string to another date string. For more examples on formatting, see the [Sugar Date Format](https://sugarjs.com/dates/#/Formatting) documentation.",
+  "type": "action",
+  "version": "0.0.7"
+}

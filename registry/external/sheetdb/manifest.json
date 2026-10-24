@@ -1,0 +1,38 @@
+{
+  "app": "sheetdb",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "params": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "data": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "columnName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "columnValue": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sheetdb-create-rows",
+    "sheetdb-delete-rows",
+    "sheetdb-get-column-names",
+    "sheetdb-search-content",
+    "sheetdb-update-rows"
+  ]
+}

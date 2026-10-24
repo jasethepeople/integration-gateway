@@ -1,0 +1,7 @@
+{
+  "key": "workiom-updated-record-instant",
+  "name": "Updated Record (Instant)",
+  "description": "Emit new event when a record is updated in a Workiom list. [See the documentation](https://help.workiom.com/article/workiom-webhooks)",
+  "type": "source",
+  "version": "0.0.1"
+}

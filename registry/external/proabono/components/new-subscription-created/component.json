@@ -1,0 +1,7 @@
+{
+  "key": "proabono-new-subscription-created",
+  "name": "New Subscription Created",
+  "description": "Emit new event when a new subscription is created. [See the documentation](https://docs.proabono.com/api/#list-subscriptions)",
+  "type": "source",
+  "version": "0.0.1"
+}

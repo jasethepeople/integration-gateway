@@ -1,0 +1,52 @@
+import salesforce from "../../app.mjs";
+
+export default {
+  key: "salesforce_rest_api-update-record",
+  name: "Update Record",
+  description: "Update a Salesforce record of any object type."
+    + " Only the fields you supply change; everything else is left as-is."
+    + " "
+    + "[See the documentation](https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/dome_update_fields.htm)",
+  version: "1.0.1",
+  annotations: {
+    destructiveHint: false,
+    openWorldHint: true,
+    readOnlyHint: false,
+  },
+  type: "action",
+  ai: "optimized",
+  props: {
+    salesforce,
+    sobjectType: {
+      type: "string",
+      label: "Object Type",
+      description:
+        "The Salesforce object API name to update (e.g. `Account`, `Contact`, `Opportunity`). Prop name preserved to avoid breaking existing configs.",
+    },
+    recordId: {
+      type: "string",
+      label: "Record ID",
+      description:
+        "The ID of the record to update (Salesforce's 15- or 18-character record ID, e.g. `001XX000003DHP0` for an Account). Use **SOQL Query** to find the ID if you only have the record name.",
+    },
+    fields: {
+      type: "object",
+      label: "Fields",
+      description:
+        "Field name -> new value pairs. Only include fields you want to change. Example: `{\"StageName\": \"Closed Won\", \"Amount\": 75000}`. Use **Describe Object** to discover valid field names.",
+    },
+  },
+  async run({ $ }) {
+    await this.salesforce.updateRecord(this.sobjectType, {
+      $,
+      id: this.recordId,
+      data: this.fields,
+    });
+    $.export("$summary", `Successfully updated ${this.sobjectType} record (ID: ${this.recordId})`);
+    return {
+      success: true,
+      objectType: this.sobjectType,
+      recordId: this.recordId,
+    };
+  },
+};

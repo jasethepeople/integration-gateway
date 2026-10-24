@@ -1,0 +1,7 @@
+{
+  "key": "google_ads-create-or-remove-campaign-shared-set",
+  "name": "Create or Remove Campaign Shared Set",
+  "description": "Whether to attach or detach a shared set from a campaign.",
+  "type": "action",
+  "version": "0.0.5"
+}

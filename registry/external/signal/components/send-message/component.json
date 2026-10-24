@@ -1,0 +1,7 @@
+{
+  "key": "signal-send-message",
+  "name": "Send Message",
+  "description": "Send a Signal message to one or more recipients. [See the documentation](https://bbernhard.github.io/signal-cli-rest-api/).",
+  "type": "action",
+  "version": "0.0.1"
+}

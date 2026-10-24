@@ -1,0 +1,7 @@
+{
+  "key": "pandadoc-list-completed-document-id-options",
+  "name": "List Completed Document Id Options",
+  "description": "Retrieves available options for the Completed Document Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

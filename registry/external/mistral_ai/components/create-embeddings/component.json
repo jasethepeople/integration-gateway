@@ -1,0 +1,7 @@
+{
+  "key": "mistral_ai-create-embeddings",
+  "name": "Create Embeddings",
+  "description": "Create new embedding in Mistral AI. [See the Documentation](https://docs.mistral.ai/api/#tag/embeddings)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "loop_returns-return-status-updated-instant",
+  "name": "Return Status Updated (Instant)",
+  "description": "Emit new event when the status of a return has been updated. [See the documentation](https://docs.loopreturns.com/reference/return-webhook)",
+  "type": "source",
+  "version": "0.0.1"
+}

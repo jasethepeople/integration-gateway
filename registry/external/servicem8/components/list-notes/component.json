@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-list-notes",
+  "name": "List Notes",
+  "description": "List notes with optional filters. [See the documentation](https://developer.servicem8.com/reference/listnotes)",
+  "type": "action",
+  "version": "0.0.1"
+}

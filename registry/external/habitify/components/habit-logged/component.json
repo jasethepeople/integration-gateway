@@ -1,0 +1,7 @@
+{
+  "key": "habitify-habit-logged",
+  "name": "Habit Logged",
+  "description": "Emit new event when a new log is created for the selected habit(s). [See the documentation](https://docs.habitify.me/core-resources/habits/logs)",
+  "type": "source",
+  "version": "0.0.1"
+}

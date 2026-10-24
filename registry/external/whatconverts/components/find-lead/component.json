@@ -1,0 +1,7 @@
+{
+  "key": "whatconverts-find-lead",
+  "name": "Find Lead",
+  "description": "Find a lead in WhatConverts. [See the documentation](https://www.whatconverts.com/api/leads/#get-all-leads)",
+  "type": "action",
+  "version": "0.0.2"
+}

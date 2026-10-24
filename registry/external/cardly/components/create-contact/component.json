@@ -1,0 +1,7 @@
+{
+  "key": "cardly-create-contact",
+  "name": "Create Contact",
+  "description": "Creates a new contact in Cardly. [See the documentation](https://api.card.ly/v2/docs#endpoint-create-contact)",
+  "type": "action",
+  "version": "0.0.2"
+}

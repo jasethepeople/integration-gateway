@@ -1,0 +1,7 @@
+{
+  "key": "northflank-get-projects",
+  "name": "Get Projects",
+  "description": "Lists all projects with pagination. [See the documentation](https://northflank.com/docs/v1/api/projects/list-projects)",
+  "type": "action",
+  "version": "0.0.2"
+}

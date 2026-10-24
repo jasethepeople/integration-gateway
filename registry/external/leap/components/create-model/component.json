@@ -1,0 +1,7 @@
+{
+  "key": "leap-create-model",
+  "name": "Create Model",
+  "description": "Creates a new custom model entity, which serves as a container that can be trained on custom images. [See the documentation](https://docs.tryleap.ai/reference/createmodel)",
+  "type": "action",
+  "version": "0.0.2"
+}

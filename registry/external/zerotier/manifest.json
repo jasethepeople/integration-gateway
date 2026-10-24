@@ -1,0 +1,59 @@
+{
+  "app": "zerotier",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "memberHidden": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "memberName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "memberDescription": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "memberAuthorized": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "memberActiveBridge": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "memberNoAutoAssignIps": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "networkName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "privateNetwork": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zerotier-authorize-network-member",
+    "zerotier-create-network",
+    "zerotier-delete-network-member",
+    "zerotier-get-network-node",
+    "zerotier-get-network-nodes",
+    "zerotier-get-network",
+    "zerotier-get-networks",
+    "zerotier-get-status",
+    "zerotier-get-user",
+    "zerotier-update-network-member",
+    "zerotier-new-node-join",
+    "zerotier-new-node-left",
+    "zerotier-new-node-offline",
+    "zerotier-new-node-online"
+  ]
+}

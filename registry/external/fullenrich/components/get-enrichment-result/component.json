@@ -1,0 +1,7 @@
+{
+  "key": "fullenrich-get-enrichment-result",
+  "name": "Get Enrichment Result",
+  "description": "Get the enrichment result for a specified contact. [See the documentation](https://docs.fullenrich.com/getbulk).",
+  "type": "action",
+  "version": "0.0.3"
+}

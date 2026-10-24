@@ -1,0 +1,15 @@
+{
+  "app": "thoughtful_gpt",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "relay_api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "thoughtful_gpt-process-content-macro",
+    "thoughtful_gpt-process-csv-files"
+  ]
+}

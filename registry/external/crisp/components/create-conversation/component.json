@@ -1,0 +1,7 @@
+{
+  "key": "crisp-create-conversation",
+  "name": "Create Conversation",
+  "description": "Create a new conversation and sends a message. [See the documentation](https://docs.crisp.chat/references/rest-api/v1/#create-a-new-conversation)",
+  "type": "action",
+  "version": "0.0.1"
+}

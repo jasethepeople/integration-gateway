@@ -1,0 +1,7 @@
+{
+  "key": "bingx-market-get-market-trades",
+  "name": "BingX Market Get Market Trades",
+  "description": "The latest Trade of a Trading Pair [See the documentation](https://bingx-api.github.io/docs/#/swapV2/market-api.html#Get%20Latest%20Price%20of%20a%20Trading%20Pair).",
+  "type": "action",
+  "version": "0.0.5"
+}

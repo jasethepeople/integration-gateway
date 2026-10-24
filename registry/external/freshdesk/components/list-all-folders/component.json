@@ -1,0 +1,7 @@
+{
+  "key": "freshdesk-list-all-folders",
+  "name": "List All Folders",
+  "description": "View all the canned response folders. [See the documentation](https://developers.freshdesk.com/api/#list_all_canned_response_folders)",
+  "type": "action",
+  "version": "0.0.7"
+}

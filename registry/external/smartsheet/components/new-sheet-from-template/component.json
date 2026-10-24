@@ -1,0 +1,7 @@
+{
+  "key": "smartsheet-new-sheet-from-template",
+  "name": "New Sheet From Template",
+  "description": "Creates a new sheet from a template. Requires either a workspace or folder destination.",
+  "type": "action",
+  "version": "2.0.2"
+}

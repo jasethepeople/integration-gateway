@@ -1,0 +1,7 @@
+{
+  "key": "dart-update-task",
+  "name": "Update Task",
+  "description": "Updates an existing task within a dartboard. [See the documentation](https://app.dartai.com/api/v0/public/docs/#/Task/updateTask)",
+  "type": "action",
+  "version": "1.0.0"
+}

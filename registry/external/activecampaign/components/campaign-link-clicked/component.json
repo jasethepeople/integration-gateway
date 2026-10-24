@@ -1,0 +1,7 @@
+{
+  "key": "activecampaign-campaign-link-clicked",
+  "name": "New Campaign Link Clicked (Instant)",
+  "description": "Emit new event when a link from a campaign is clicked (will only run once for each unique link).",
+  "type": "source",
+  "version": "0.0.7"
+}

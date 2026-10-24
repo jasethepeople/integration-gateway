@@ -1,0 +1,7 @@
+{
+  "key": "surecart-update-subscription",
+  "name": "Update Subscription",
+  "description": "Update an existing subscription. [See the documentation](https://developer.surecart.com/api-reference/subscriptions/update)",
+  "type": "action",
+  "version": "0.0.3"
+}

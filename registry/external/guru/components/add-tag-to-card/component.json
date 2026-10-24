@@ -1,0 +1,7 @@
+{
+  "key": "guru-add-tag-to-card",
+  "name": "Add Tag to Card",
+  "description": "Links an existing tag to a specified card in Guru. [See the documentation](https://developer.getguru.com/reference/getv1cardsgetextendedfact)",
+  "type": "action",
+  "version": "0.0.2"
+}

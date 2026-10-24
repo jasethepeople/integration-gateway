@@ -1,0 +1,48 @@
+{
+  "app": "odoo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "modelName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "recordId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "server_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "db": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "password": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "odoo-create-record",
+    "odoo-delete-record",
+    "odoo-get-records",
+    "odoo-list-models",
+    "odoo-list-record-fields",
+    "odoo-search-read-records",
+    "odoo-update-record",
+    "odoo-new-record-created"
+  ],
+  "npmImports": [
+    "xmlrpc"
+  ]
+}

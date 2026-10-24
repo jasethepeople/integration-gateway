@@ -1,0 +1,7 @@
+{
+  "key": "prisma_management_api-create-database",
+  "name": "Create Database",
+  "description": "Creates a new Postgres database project via Prisma Management API. [See docs here](https://www.prisma.io/docs/postgres/introduction/management-api)",
+  "type": "action",
+  "version": "1.0.2"
+}

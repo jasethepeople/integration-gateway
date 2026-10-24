@@ -1,0 +1,7 @@
+{
+  "key": "add_to_calendar_pro-list-group-pro-key-options",
+  "name": "List Group Pro Key Options",
+  "description": "Retrieves available options for the Group Pro Key field.",
+  "type": "action",
+  "version": "0.0.1"
+}

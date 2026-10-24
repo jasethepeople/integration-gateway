@@ -1,0 +1,7 @@
+{
+  "key": "qstash-list-topics",
+  "name": "List Topics",
+  "description": "List all your existing QStash topics.",
+  "type": "action",
+  "version": "0.0.2"
+}

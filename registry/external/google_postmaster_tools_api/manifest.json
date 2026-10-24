@@ -1,0 +1,62 @@
+{
+  "app": "google_postmaster_tools_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "domain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "matchAllFilters": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "ipReputation": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "domainReputation": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "userReportedSpamRatio": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "spfSuccessRatio": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dkimSuccessRatio": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dmarcSuccessRatio": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "outboundEncryptionRatio": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "inboundEncryptionRatio": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "errorRatio": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "errorCategories": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "google_postmaster_tools_api-new-matched-traffic-stats"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "app": "beaconchain",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "epoch": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "beaconchain-get-epoch",
+    "beaconchain-get-execution-blocks",
+    "beaconchain-get-slots",
+    "beaconchain-get-validators"
+  ]
+}

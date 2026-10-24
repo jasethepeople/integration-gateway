@@ -1,0 +1,7 @@
+{
+  "key": "firebase_admin_sdk-create-realtime-db-record",
+  "name": "Create Firebase Realtime Database Record",
+  "description": "Creates or replaces a child object within your Firebase Realtime Database. [See the docs here](https://firebase.google.com/docs/reference/js/database#update)",
+  "type": "action",
+  "version": "0.0.10"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "repliq-launch-template",
+  "name": "Launch Repliq Template",
+  "description": "Launch a Repliq process by deploying the selected template. [See the documentation](https://developer.repliq.co/)",
+  "type": "action",
+  "version": "0.0.2"
+}

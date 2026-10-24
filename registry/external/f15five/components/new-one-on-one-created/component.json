@@ -1,0 +1,7 @@
+{
+  "key": "f15five-new-one-on-one-created",
+  "name": "New 1-on-1 Created",
+  "description": "Emit new event for each new 1-on-1 created. [See the documentation](https://my.15five.com/api/public/#tag/1-on-1/paths/~1api~1public~1one-on-one~1/get)",
+  "type": "source",
+  "version": "0.0.1"
+}

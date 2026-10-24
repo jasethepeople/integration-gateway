@@ -1,0 +1,7 @@
+{
+  "key": "canny-create-comment",
+  "name": "Create Comment",
+  "description": "Create a comment. [See the documentation](https://developers.canny.io/api-reference#create_comment)",
+  "type": "action",
+  "version": "0.0.1"
+}

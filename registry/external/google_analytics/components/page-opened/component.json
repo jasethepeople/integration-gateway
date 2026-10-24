@@ -1,0 +1,7 @@
+{
+  "key": "google_analytics-page-opened",
+  "name": "New Page Opened (GA4)",
+  "description": "Emit new event when a page is viewed (uses GA4 Data API)",
+  "type": "source",
+  "version": "0.2.0"
+}

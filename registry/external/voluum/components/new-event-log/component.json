@@ -1,0 +1,7 @@
+{
+  "key": "voluum-new-event-log",
+  "name": "New Event Log Created",
+  "description": "Emit new event when a new event log is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,38 @@
+{
+  "app": "polar",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "organizationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "discountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "polar-create-checkout",
+    "polar-list-customers",
+    "polar-list-orders",
+    "polar-list-products",
+    "polar-list-subscriptions",
+    "polar-new-benefit-created",
+    "polar-new-benefit-updated",
+    "polar-new-subscription-created",
+    "polar-new-subscription-updated",
+    "polar-new-webhook-event"
+  ],
+  "npmImports": [
+    "@polar-sh/sdk"
+  ]
+}

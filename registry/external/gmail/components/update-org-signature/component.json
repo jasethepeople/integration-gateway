@@ -1,0 +1,7 @@
+{
+  "key": "gmail-update-org-signature",
+  "name": "Update Signature for Email in Organization",
+  "description": "",
+  "type": "action",
+  "version": "0.0.20"
+}

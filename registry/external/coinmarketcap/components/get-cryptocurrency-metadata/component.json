@@ -1,0 +1,7 @@
+{
+  "key": "coinmarketcap-get-cryptocurrency-metadata",
+  "name": "Get Cryptocurrency Metadata",
+  "description": "Returns all static metadata available for one or more cryptocurrencies. [See the documentation](https://coinmarketcap.com/api/documentation/v1/#operation/getV2CryptocurrencyInfo)",
+  "type": "action",
+  "version": "0.0.3"
+}

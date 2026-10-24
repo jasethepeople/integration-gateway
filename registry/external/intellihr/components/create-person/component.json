@@ -1,0 +1,7 @@
+{
+  "key": "intellihr-create-person",
+  "name": "Create Person",
+  "description": "Creates a new individual record in intellihr. [See the documentation](https://developers.intellihr.io/docs/v1/#tag/People/paths/~1people/post)",
+  "type": "action",
+  "version": "0.0.2"
+}

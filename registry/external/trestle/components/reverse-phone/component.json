@@ -1,0 +1,7 @@
+{
+  "key": "trestle-reverse-phone",
+  "name": "Reverse Phone",
+  "description": "Offers comprehensive verification and enrichment of phone numbers. [See the documentation](https://trestle-api.redoc.ly/Current/tag/Reverse-Phone-API#operation/getPhone)",
+  "type": "action",
+  "version": "0.0.2"
+}

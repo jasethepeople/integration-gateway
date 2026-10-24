@@ -1,0 +1,7 @@
+{
+  "key": "fathom-list-meetings",
+  "name": "List Meetings",
+  "description": "List meetings. [See the documentation](https://developers.fathom.ai/api-reference/meetings/list-meetings)",
+  "type": "action",
+  "version": "0.0.2"
+}

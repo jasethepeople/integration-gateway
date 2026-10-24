@@ -1,0 +1,7 @@
+{
+  "key": "fogbugz-list-ix-project-id-options",
+  "name": "List Ix Project Id Options",
+  "description": "Retrieves available options for the Ix Project Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

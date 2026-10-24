@@ -1,0 +1,7 @@
+{
+  "key": "flutterwave-list-payout-subaccount-options",
+  "name": "List Payout Subaccount Options",
+  "description": "Retrieves available options for the Payout Subaccount field.",
+  "type": "action",
+  "version": "0.0.1"
+}

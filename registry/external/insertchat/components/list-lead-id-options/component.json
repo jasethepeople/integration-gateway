@@ -1,0 +1,7 @@
+{
+  "key": "insertchat-list-lead-id-options",
+  "name": "List Lead ID Options",
+  "description": "Retrieves available options for the Lead ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pocket-new-item",
+  "name": "New Item",
+  "description": "Emit new event for each added item.",
+  "type": "source",
+  "version": "0.0.2"
+}

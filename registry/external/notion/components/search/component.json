@@ -1,0 +1,7 @@
+{
+  "key": "notion-search",
+  "name": "Search",
+  "description": "Search Notion for pages and databases (data sources) by title.",
+  "type": "action",
+  "version": "1.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "teamwork_desk-update-customer",
+  "name": "Update Customer",
+  "description": "Update a specific customer [See the documentation](https://apidocs.teamwork.com/docs/desk/3442f2a79b0d2-update-a-customer)",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pennylane-create-customer-invoice",
+  "name": "Create Customer Invoice",
+  "description": "Generates a new invoice for a customer using Pennylane. [See the documentation](https://pennylane.readme.io/reference/customer_invoices-post-1)",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "blocknative-list-chainid-options",
+  "name": "List chainid Options",
+  "description": "Retrieves available options for the chainid field.",
+  "type": "action",
+  "version": "0.0.1"
+}

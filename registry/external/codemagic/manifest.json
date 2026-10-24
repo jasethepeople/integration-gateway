@@ -1,0 +1,44 @@
+{
+  "app": "codemagic",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "appId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workflowID": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "repositoryUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "key": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "group": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "value": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "teamId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "codemagic-add-application",
+    "codemagic-create-variable",
+    "codemagic-list-application"
+  ]
+}

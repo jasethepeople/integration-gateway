@@ -1,0 +1,40 @@
+{
+  "app": "evernote",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "noteId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "notebookGuid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tagGuids": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "developer_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "evernote-create-note",
+    "evernote-create-notebook",
+    "evernote-get-note",
+    "evernote-list-note-id-options",
+    "evernote-list-notebook-guid-options",
+    "evernote-list-notebooks",
+    "evernote-list-notes",
+    "evernote-list-tag-guids-options",
+    "evernote-update-note",
+    "evernote-new-note",
+    "evernote-new-notebook",
+    "evernote-new-tag"
+  ],
+  "npmImports": [
+    "evernote"
+  ]
+}

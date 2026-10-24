@@ -1,0 +1,7 @@
+{
+  "key": "pipedream-generate-component-code",
+  "name": "Generate Component Code",
+  "description": "Generate component code using AI.",
+  "type": "action",
+  "version": "0.0.4"
+}

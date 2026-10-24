@@ -1,0 +1,15 @@
+{
+  "app": "kickbox",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "kickbox-verify-email-batch",
+    "kickbox-verify-email"
+  ]
+}

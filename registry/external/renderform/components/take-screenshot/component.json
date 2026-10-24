@@ -1,0 +1,7 @@
+{
+  "key": "renderform-take-screenshot",
+  "name": "Take Screenshot",
+  "description": "Capture an image of the current screen. [See the documentation](https://renderform.io/docs/api/take-screenshots)",
+  "type": "action",
+  "version": "0.0.2"
+}

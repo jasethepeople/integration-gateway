@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-update-content-note",
+  "name": "Update Content Note",
+  "description": "Update an enhanced Salesforce content note (rich text, stored in Salesforce Files).",
+  "type": "action",
+  "version": "1.0.1"
+}

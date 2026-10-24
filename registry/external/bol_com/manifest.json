@@ -1,0 +1,55 @@
+{
+  "app": "bol_com",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "orderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shipmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "returnId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "categoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderItemId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "fulfilmentMethod": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "bol_com-create-return",
+    "bol_com-get-order",
+    "bol_com-get-return",
+    "bol_com-get-shipment",
+    "bol_com-get-shipping-label",
+    "bol_com-list-category-id-options",
+    "bol_com-list-invoice-requests",
+    "bol_com-list-order-id-options",
+    "bol_com-list-orders",
+    "bol_com-list-products",
+    "bol_com-list-return-id-options",
+    "bol_com-list-returns",
+    "bol_com-list-shipment-id-options",
+    "bol_com-list-shipments"
+  ]
+}

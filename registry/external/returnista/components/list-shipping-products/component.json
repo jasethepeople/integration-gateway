@@ -1,0 +1,7 @@
+{
+  "key": "returnista-list-shipping-products",
+  "name": "List Shipping Products",
+  "description": "Returns all shipping product options available in Returnista, including carrier integrations, label types, and product codes.",
+  "type": "action",
+  "version": "0.0.1"
+}

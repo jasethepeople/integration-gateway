@@ -1,0 +1,28 @@
+{
+  "app": "granola",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "noteId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "folderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "granola-get-note",
+    "granola-list-folders",
+    "granola-list-notes"
+  ]
+}

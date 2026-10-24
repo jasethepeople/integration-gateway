@@ -1,0 +1,20 @@
+{
+  "app": "rest_countries_pe",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "language": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "currency": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "rest_countries_pe-search-countries-by-currency",
+    "rest_countries_pe-search-countries-by-language",
+    "rest_countries_pe-search-country-by-name"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "spreadsheet_com-row-updated",
+  "name": "New Row Updated",
+  "description": "Emit new event when a row is updated.",
+  "type": "source",
+  "version": "0.0.1"
+}

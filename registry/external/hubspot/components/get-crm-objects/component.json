@@ -1,0 +1,7 @@
+{
+  "key": "hubspot-get-crm-objects",
+  "name": "Get CRM Objects",
+  "description": "Fetch one or more CRM objects by their IDs in a single request.",
+  "type": "action",
+  "version": "0.0.9"
+}

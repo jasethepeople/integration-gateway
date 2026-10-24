@@ -1,0 +1,7 @@
+{
+  "key": "supabase_management_api-new-backup-completed",
+  "name": "New Backup Completed",
+  "description": "Emit new event when a database backup is completed for a project. [See the documentation](https://supabase.com/docs/reference/api/v1-list-all-backups)",
+  "type": "source",
+  "version": "0.0.1"
+}

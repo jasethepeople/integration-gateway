@@ -1,0 +1,7 @@
+{
+  "key": "chartmogul-retrieve-customer-churn-rate",
+  "name": "Retrieve Customer Churn Rate",
+  "description": "Retrieves the Customer Churn Rate, for the specified time period. [See the docs here](https://dev.chartmogul.com/reference/retrieve-customer-churn-rate)",
+  "type": "action",
+  "version": "0.0.2"
+}

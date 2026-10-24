@@ -1,0 +1,7 @@
+{
+  "key": "social_fetch-search-reddit-content",
+  "name": "Search Reddit Content",
+  "description": "Searches Reddit for posts matching a query. [See the documentation](https://app.socialfetch.dev/playground?path=/v1/reddit/search&method=GET)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,18 @@
+{
+  "app": "decodo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "web_scraping_api_username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "web_scraping_api_password": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "decodo-scrape-url"
+  ]
+}

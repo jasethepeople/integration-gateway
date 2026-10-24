@@ -1,0 +1,7 @@
+{
+  "key": "surecart-update-line-item",
+  "name": "Update Line Item",
+  "description": "Update an existing line item. [See the documentation](https://developer.surecart.com/api-reference/line-items/update)",
+  "type": "action",
+  "version": "0.0.2"
+}

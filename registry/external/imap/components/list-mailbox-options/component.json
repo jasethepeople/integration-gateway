@@ -1,0 +1,7 @@
+{
+  "key": "imap-list-mailbox-options",
+  "name": "List Mailbox Options",
+  "description": "Retrieves available options for the Mailbox field.",
+  "type": "action",
+  "version": "0.0.1"
+}

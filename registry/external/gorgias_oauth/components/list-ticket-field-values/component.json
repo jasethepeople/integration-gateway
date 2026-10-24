@@ -1,0 +1,7 @@
+{
+  "key": "gorgias_oauth-list-ticket-field-values",
+  "name": "List Ticket Field Values",
+  "description": "List field values for a ticket. [See the documentation](https://developers.gorgias.com/reference/list-ticket-custom-fields)",
+  "type": "action",
+  "version": "0.0.5"
+}

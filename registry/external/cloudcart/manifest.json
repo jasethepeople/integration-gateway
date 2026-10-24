@@ -1,0 +1,20 @@
+{
+  "app": "cloudcart",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "cloudcart-new-customer-created",
+    "cloudcart-new-order-created",
+    "cloudcart-new-product-created"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "kanban_tool-delete-subtask",
+  "name": "Delete Subtask(Checklist Item)",
+  "description": "Soft deletes a subtask [See the docs here](https://kanbantool.com/developer/api-v3#deleting-subtasks)",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "wiza-create-list",
+  "name": "Create List",
+  "description": "Create a list of people to enrich. [See the documentation](https://wiza.co/api-docs#/paths/~1api~1lists/post)",
+  "type": "action",
+  "version": "0.0.2"
+}

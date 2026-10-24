@@ -1,0 +1,19 @@
+{
+  "app": "what_are_those",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "what_are_those-find-sneakers-by-sku",
+    "what_are_those-grade-sneakers-condition",
+    "what_are_those-identify-sneakers-from-photo"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "app": "companyhub",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "companyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "companyhub-create-company",
+    "companyhub-create-contact",
+    "companyhub-create-deal",
+    "companyhub-list-company-id-options",
+    "companyhub-list-contact-id-options",
+    "companyhub-new-company-created",
+    "companyhub-new-deal-created",
+    "companyhub-new-record-created"
+  ]
+}

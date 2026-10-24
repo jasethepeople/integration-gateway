@@ -1,0 +1,7 @@
+{
+  "key": "gainsight_px-create-account",
+  "name": "Create Account",
+  "description": "Create a new account with the given data. [See the documentation](https://gainsightpx.docs.apiary.io/#reference/accounts/v1accounts/create-account)",
+  "type": "action",
+  "version": "0.0.2"
+}

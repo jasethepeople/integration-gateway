@@ -1,0 +1,7 @@
+{
+  "key": "onedesk-list-item-type-options",
+  "name": "List Item Type Options",
+  "description": "Retrieves available options for the Item Type field.",
+  "type": "action",
+  "version": "0.0.1"
+}

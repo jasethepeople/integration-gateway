@@ -1,0 +1,7 @@
+{
+  "key": "hootsuite-new-post-created",
+  "name": "New Post Created",
+  "description": "Emit new event on each new created post. [See docs here](https://platform.hootsuite.com/docs/api/index.html#operation/retrieveMessages).",
+  "type": "source",
+  "version": "0.0.3"
+}

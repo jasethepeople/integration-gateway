@@ -1,0 +1,7 @@
+{
+  "key": "sendblue-new-message-received-instant",
+  "name": "New Message Received (Instant)",
+  "description": "Emit new event when a new inbound message is received. [See the documentation](https://docs.sendblue.com/api/resources/webhooks/methods/create)",
+  "type": "source",
+  "version": "0.0.1"
+}

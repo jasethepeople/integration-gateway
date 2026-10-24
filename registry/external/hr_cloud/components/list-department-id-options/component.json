@@ -1,0 +1,7 @@
+{
+  "key": "hr_cloud-list-department-id-options",
+  "name": "List Department Options",
+  "description": "Retrieves available options for the Department field.",
+  "type": "action",
+  "version": "0.0.1"
+}

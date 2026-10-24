@@ -1,0 +1,83 @@
+{
+  "app": "etermin",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "updateWhenExistsgdt": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "salutation": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "company": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "birthday": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "id": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "priceInclVat": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "isPercentage": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "customerEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "validFrom": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "validUntil": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "public_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "salt": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "signature": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "etermin-create-contact",
+    "etermin-create-voucher"
+  ]
+}

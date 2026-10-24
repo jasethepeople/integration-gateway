@@ -1,0 +1,7 @@
+{
+  "key": "taiga-update-userstory",
+  "name": "Update User Story",
+  "description": "Update an existing user story in a Taiga project. [See the documentation](https://docs.taiga.io/api.html#_user_stories)",
+  "type": "action",
+  "version": "0.0.2"
+}

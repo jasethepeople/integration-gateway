@@ -1,0 +1,7 @@
+{
+  "key": "woocommerce-new-coupon-event",
+  "name": "New Coupon Event (Instant)",
+  "description": "Emit new event each time the specified coupon event(s) occur",
+  "type": "source",
+  "version": "0.0.4"
+}

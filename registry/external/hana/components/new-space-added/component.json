@@ -1,0 +1,7 @@
+{
+  "key": "hana-new-space-added",
+  "name": "New Space Added",
+  "description": "Emit new event when a new space is added. [See the documentation](https://docs.hanabot.ai/docs/tutorial-connectors/hana-api#get-spaces-hana-is-integrated-in)",
+  "type": "source",
+  "version": "0.0.1"
+}

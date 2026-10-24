@@ -1,0 +1,7 @@
+{
+  "key": "giantcampaign-list-list-uid-options",
+  "name": "List List UID Options",
+  "description": "Retrieves available options for the List UID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

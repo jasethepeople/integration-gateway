@@ -1,0 +1,7 @@
+{
+  "key": "mindbody-get-client-purchases",
+  "name": "Get Client Purchases",
+  "description": "Returns the paginated list of purchases made by a specific Mindbody client, including amount/price fields.",
+  "type": "action",
+  "version": "0.0.2"
+}

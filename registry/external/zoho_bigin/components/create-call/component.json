@@ -1,0 +1,7 @@
+{
+  "key": "zoho_bigin-create-call",
+  "name": "Create Call",
+  "description": "Creates a call. [See the documentation](https://www.bigin.com/developer/docs/apis/insert-records.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "mews-create-order",
+  "name": "Create Order",
+  "description": "Create an order in Mews. [See the documentation](https://mews-systems.gitbook.io/connector-api/operations/orders#add-order)",
+  "type": "action",
+  "version": "0.0.3"
+}

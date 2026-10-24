@@ -1,0 +1,7 @@
+{
+  "key": "smartsheet-delete-column",
+  "name": "Delete Column",
+  "description": "Permanently delete a column from a sheet. WARNING: This is irreversible - all cell data in the column is permanently destroyed.",
+  "type": "action",
+  "version": "0.1.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "solve_crm-create-contact",
+  "name": "Create Contact",
+  "description": "Create a new contact. [See the docs here](https://solve360.com/api/contacts/)",
+  "type": "action",
+  "version": "0.0.2"
+}

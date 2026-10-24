@@ -1,0 +1,7 @@
+{
+  "key": "super_carl-get-communication-history",
+  "name": "Get Communication History",
+  "description": "Fetch prior Super Carl communication history for a target before drafting or sending. Use this to avoid duplicate outreach and to inspect recent Gmail, LinkedIn, X, Instagram, and Super Carl sends. [See the documentation](https://supercarl.ai/docs#endpoints-communications)",
+  "type": "action",
+  "version": "0.0.2"
+}

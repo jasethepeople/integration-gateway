@@ -1,0 +1,7 @@
+{
+  "key": "paystack-set-customer-risk-action",
+  "name": "Set Customer Risk Action",
+  "description": "Whitelist or blacklist a customer on your integration. [See the documentation](https://paystack.com/docs/api/customer/#whitelist-blacklist)",
+  "type": "action",
+  "version": "0.0.1"
+}

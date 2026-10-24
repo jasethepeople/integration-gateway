@@ -1,0 +1,7 @@
+{
+  "key": "lumin_pdf-send-signature-request",
+  "name": "Send Signature Request",
+  "description": "Send a signature request to signers. [See the documentation](https://developers.luminpdf.com/api/send-signature-request/)",
+  "type": "action",
+  "version": "0.0.4"
+}

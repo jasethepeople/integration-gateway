@@ -1,0 +1,7 @@
+{
+  "key": "sinch-send-message",
+  "name": "Send Message",
+  "description": "Send a message to a contact. [See the documentation](https://developers.sinch.com/docs/conversation/api-reference/conversation/tag/Messages/#tag/Messages/operation/Messages_SendMessage)",
+  "type": "action",
+  "version": "0.0.1"
+}

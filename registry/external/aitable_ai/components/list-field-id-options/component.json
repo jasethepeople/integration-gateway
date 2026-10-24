@@ -1,0 +1,7 @@
+{
+  "key": "aitable_ai-list-field-id-options",
+  "name": "List Field ID Options",
+  "description": "Retrieves available options for the Field ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

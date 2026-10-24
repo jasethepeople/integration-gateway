@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-delete-staff",
+  "name": "Delete Staff",
+  "description": "Delete a staff member by UUID. [See the documentation](https://developer.servicem8.com/reference/deletestaffmembers)",
+  "type": "action",
+  "version": "0.0.1"
+}

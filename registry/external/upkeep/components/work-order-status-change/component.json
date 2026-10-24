@@ -1,0 +1,7 @@
+{
+  "key": "upkeep-work-order-status-change",
+  "name": "New Work Order Status Change Event",
+  "description": "Emit new event when a work order status is changed.",
+  "type": "source",
+  "version": "0.0.2"
+}

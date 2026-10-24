@@ -1,0 +1,7 @@
+{
+  "key": "wakatime-fetch-daily-heartbeats",
+  "name": "Fetch Daily Heartbeats",
+  "description": "Fetch your daily coding activity from WakaTime. [See the documentation](https://wakatime.com/developers#heartbeats)",
+  "type": "action",
+  "version": "0.0.2"
+}

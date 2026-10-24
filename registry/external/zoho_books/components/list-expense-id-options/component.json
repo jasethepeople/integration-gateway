@@ -1,0 +1,7 @@
+{
+  "key": "zoho_books-list-expense-id-options",
+  "name": "List Expense Id Options",
+  "description": "Retrieves available options for the Expense Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

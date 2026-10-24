@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_bookings-create-staff-member",
+  "name": "Create Staff Member",
+  "description": "Creates a new staff member in a Microsoft Bookings business. [See the documentation](https://learn.microsoft.com/en-us/graph/api/bookingbusiness-post-staffmembers?view=graph-rest-1.0)",
+  "type": "action",
+  "version": "0.0.1"
+}

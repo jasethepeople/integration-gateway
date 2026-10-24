@@ -1,0 +1,14 @@
+{
+  "app": "livesession",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "livesession-new-session"
+  ]
+}

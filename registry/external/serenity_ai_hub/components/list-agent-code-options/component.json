@@ -1,0 +1,7 @@
+{
+  "key": "serenity_ai_hub-list-agent-code-options",
+  "name": "List Agent Code Options",
+  "description": "Retrieves available options for the Agent Code field.",
+  "type": "action",
+  "version": "0.0.1"
+}

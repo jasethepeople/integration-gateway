@@ -1,0 +1,7 @@
+{
+  "key": "dealmachine-add-tag-to-lead",
+  "name": "Add Tags to Lead",
+  "description": "Add tags(s) to the lead. [See the documentation](https://docs.dealmachine.com/#ba760bae-ed7e-4b88-91ab-4f67668b111c)",
+  "type": "action",
+  "version": "0.0.2"
+}

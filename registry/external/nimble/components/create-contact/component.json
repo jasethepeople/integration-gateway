@@ -1,0 +1,7 @@
+{
+  "key": "nimble-create-contact",
+  "name": "Create Contact",
+  "description": "Creates a contact. [See the documentation](https://nimble.readthedocs.io/en/latest/contacts/basic/create/)",
+  "type": "action",
+  "version": "0.0.2"
+}

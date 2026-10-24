@@ -1,0 +1,7 @@
+{
+  "key": "z_api-modify-chat",
+  "name": "Modify Chat",
+  "description": "Modify the specified chat. [See the documentation](https://developer.z-api.io/en/chats/delete-chat)",
+  "type": "action",
+  "version": "0.0.2"
+}

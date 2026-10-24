@@ -1,0 +1,7 @@
+{
+  "key": "mintlify-chat-with-assistant",
+  "name": "Chat with Assistant",
+  "description": "Generates a response message from the assistant for the specified domain. [See the documentation](https://www.mintlify.com/docs/api-reference/assistant/create-assistant-message)",
+  "type": "action",
+  "version": "0.0.1"
+}

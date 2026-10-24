@@ -1,0 +1,77 @@
+{
+  "app": "_4dem",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "nominative": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ivaFCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "address": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "city": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "province": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cap": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "telephone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "senderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "authCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subject": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "plain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "html": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "_4dem-confirm-email",
+    "_4dem-create-email",
+    "_4dem-create-sender",
+    "_4dem-list-sender-id-options"
+  ]
+}

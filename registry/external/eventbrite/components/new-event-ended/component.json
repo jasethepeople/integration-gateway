@@ -1,0 +1,7 @@
+{
+  "key": "eventbrite-new-event-ended",
+  "name": "New Event Ended",
+  "description": "Emit new event when an event has ended",
+  "type": "source",
+  "version": "0.0.7"
+}

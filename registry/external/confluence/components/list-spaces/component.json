@@ -1,0 +1,7 @@
+{
+  "key": "confluence-list-spaces",
+  "name": "List Spaces",
+  "description": "List all spaces in Confluence. [See the documentation](https://developer.atlassian.com/cloud/confluence/rest/v2/api-group-space/#api-spaces-get)",
+  "type": "action",
+  "version": "0.0.2"
+}

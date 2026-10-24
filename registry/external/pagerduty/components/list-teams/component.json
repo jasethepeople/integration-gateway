@@ -1,0 +1,7 @@
+{
+  "key": "pagerduty-list-teams",
+  "name": "List Teams",
+  "description": "List teams in the PagerDuty account, optionally filtered by name.",
+  "type": "action",
+  "version": "0.0.2"
+}

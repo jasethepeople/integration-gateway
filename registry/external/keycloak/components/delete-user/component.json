@@ -1,0 +1,7 @@
+{
+  "key": "keycloak-delete-user",
+  "name": "Delete User",
+  "description": "Delete a user from Keycloak. [See the documentation](https://www.keycloak.org/docs-api/latest/rest-api/index.html#_users)",
+  "type": "action",
+  "version": "0.0.2"
+}

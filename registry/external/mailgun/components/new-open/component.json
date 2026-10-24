@@ -1,0 +1,7 @@
+{
+  "key": "mailgun-new-open",
+  "name": "New Open (Instant)",
+  "description": "Emit new event when the email recipient opened the email and enabled image ",
+  "type": "source",
+  "version": "0.0.2"
+}

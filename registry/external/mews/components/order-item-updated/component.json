@@ -1,0 +1,7 @@
+{
+  "key": "mews-order-item-updated",
+  "name": "Order Item Updated",
+  "description": "Emit new order items as they are updated (polling). [See the documentation](https://mews-systems.gitbook.io/connector-api/operations/orderitems#get-all-order-items)",
+  "type": "source",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "undetectable_ai-submit-document",
+  "name": "Submit Document",
+  "description": "Submit document for humanization. [See the documentation](https://docs.undetectable.ai/#submit-document)",
+  "type": "action",
+  "version": "0.0.2"
+}

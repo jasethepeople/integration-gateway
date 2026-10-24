@@ -1,0 +1,7 @@
+{
+  "key": "kontent_ai-content-item-published",
+  "name": "New Content Item Published (Instant)",
+  "description": "Emit new event when a content item is published.",
+  "type": "source",
+  "version": "0.0.1"
+}

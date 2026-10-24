@@ -1,0 +1,7 @@
+{
+  "key": "motive-new-hours-of-service-violation",
+  "name": "New Hours of Service Violation",
+  "description": "Emit new event when a hos is emited.",
+  "type": "source",
+  "version": "0.0.1"
+}

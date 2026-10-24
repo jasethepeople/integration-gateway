@@ -1,0 +1,7 @@
+{
+  "key": "speechace-score-scripted-recording",
+  "name": "Score Scripted Recording",
+  "description": "Scores a scripted recording based on fluency and pronunciation. [See the documentation](https://docs.speechace.com/#c34b11dd-8172-441a-bc27-223339d48d8e)",
+  "type": "action",
+  "version": "0.0.5"
+}

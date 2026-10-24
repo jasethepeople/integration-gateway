@@ -1,0 +1,49 @@
+{
+  "app": "kontent_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "typeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "collectionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workflowStepId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "environment_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "delivery_api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "management_api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "kontent_ai-create-content-item",
+    "kontent_ai-list-collection-id-options",
+    "kontent_ai-list-type-id-options",
+    "kontent_ai-list-workflow-step-id-options",
+    "kontent_ai-content-item-created",
+    "kontent_ai-content-item-deleted",
+    "kontent_ai-content-item-moved",
+    "kontent_ai-content-item-published",
+    "kontent_ai-content-item-restored",
+    "kontent_ai-content-item-unpublished"
+  ],
+  "npmImports": [
+    "@kontent-ai/delivery-sdk",
+    "@kontent-ai/management-sdk",
+    "@kontent-ai/webhook-helper",
+    "crypto"
+  ]
+}

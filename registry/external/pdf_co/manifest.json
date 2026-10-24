@@ -1,0 +1,98 @@
+{
+  "app": "pdf_co",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "urls": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "httpusername": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "httppassword": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "searchString": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "expiration": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "async": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "profiles": {
+      "kind": "propDefinition",
+      "type": "any"
+    },
+    "pages": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "inline": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "password": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lang": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "caseSensitive": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "wordMatchingMode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "excludeKeyPages": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "regexSearch": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pdf_co-anything-to-pdf-converter",
+    "pdf_co-barcode-generator",
+    "pdf_co-barcode-reader",
+    "pdf_co-custom-api-call",
+    "pdf_co-document-classifier",
+    "pdf_co-document-parser",
+    "pdf_co-document-toggle-searchable",
+    "pdf_co-html-to-pdf-converter",
+    "pdf_co-pdf-add-security",
+    "pdf_co-pdf-find-table",
+    "pdf_co-pdf-info-reader",
+    "pdf_co-pdf-merge",
+    "pdf_co-pdf-remove-security",
+    "pdf_co-pdf-search-text",
+    "pdf_co-pdf-split-by-pages",
+    "pdf_co-pdf-split-by-text-search",
+    "pdf_co-pdf-to-anything-converter"
+  ]
+}

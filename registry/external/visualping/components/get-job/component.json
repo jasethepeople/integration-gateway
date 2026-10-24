@@ -1,0 +1,7 @@
+{
+  "key": "visualping-get-job",
+  "name": "Get Job Details By Id",
+  "description": "Gets the full details of one Visualping job by id — schedule, trigger,",
+  "type": "action",
+  "version": "0.1.0"
+}

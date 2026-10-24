@@ -1,0 +1,7 @@
+{
+  "key": "textlocal-list-inbox-id-options",
+  "name": "List Inbox Id Options",
+  "description": "Retrieves available options for the Inbox Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

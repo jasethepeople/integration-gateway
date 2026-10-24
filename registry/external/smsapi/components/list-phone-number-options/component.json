@@ -1,0 +1,7 @@
+{
+  "key": "smsapi-list-phone-number-options",
+  "name": "List Phone Number Options",
+  "description": "Retrieves available options for the Phone Number field.",
+  "type": "action",
+  "version": "0.0.1"
+}

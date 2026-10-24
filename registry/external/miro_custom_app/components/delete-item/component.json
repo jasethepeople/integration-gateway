@@ -1,0 +1,7 @@
+{
+  "key": "miro_custom_app-delete-item",
+  "name": "Delete Item",
+  "description": "Deletes an item from a Miro board. [See the docs](https://developers.miro.com/reference/delete-item).",
+  "type": "action",
+  "version": "0.0.3"
+}

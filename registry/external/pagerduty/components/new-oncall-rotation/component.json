@@ -1,0 +1,7 @@
+{
+  "key": "pagerduty-new-oncall-rotation",
+  "name": "New On-Call Rotation",
+  "description": "Emit new event each time a new user rotates onto an on-call rotation",
+  "type": "source",
+  "version": "0.1.2"
+}

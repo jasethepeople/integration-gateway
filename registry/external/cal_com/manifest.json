@@ -1,0 +1,42 @@
+{
+  "app": "cal_com",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "bookingId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eventTypeId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "language": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timeZone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "cal_com-create-booking",
+    "cal_com-delete-booking",
+    "cal_com-get-all-bookings",
+    "cal_com-get-bookable-slots",
+    "cal_com-get-booking",
+    "cal_com-list-event-type-id-options",
+    "cal_com-booking-cancelled",
+    "cal_com-booking-created",
+    "cal_com-booking-ended",
+    "cal_com-booking-rescheduled"
+  ],
+  "npmImports": [
+    "async-retry"
+  ]
+}

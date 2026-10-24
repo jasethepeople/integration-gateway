@@ -1,0 +1,7 @@
+{
+  "key": "fireberry-list-accounts",
+  "name": "List Accounts",
+  "description": "List all accounts in Fireberry. [See the documentation](https://developers.fireberry.com/reference/get-all-accounts)",
+  "type": "action",
+  "version": "0.0.2"
+}

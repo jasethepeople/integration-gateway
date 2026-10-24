@@ -1,0 +1,7 @@
+{
+  "key": "infinity-create-item",
+  "name": "Create Item",
+  "description": "Create a new item. [See the documentation](https://s3.amazonaws.com/devdocs.startinfinity.com/index.html#items-POSTapi-v2-workspaces--workspace--boards--board_id--items)",
+  "type": "action",
+  "version": "0.0.2"
+}

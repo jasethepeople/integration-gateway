@@ -1,0 +1,7 @@
+{
+  "key": "shortcut-search-stories",
+  "name": "Search Stories",
+  "description": "Searches for stories in your Shortcut account.",
+  "type": "action",
+  "version": "1.0.2"
+}

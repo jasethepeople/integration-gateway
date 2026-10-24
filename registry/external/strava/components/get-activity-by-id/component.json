@@ -1,0 +1,7 @@
+{
+  "key": "strava-get-activity-by-id",
+  "name": "Get Activity By ID",
+  "description": "Returns the given activity that is owned by the authenticated athlete. [See the docs](https://developers.strava.com/docs/reference/#api-Activities-getActivityById)",
+  "type": "action",
+  "version": "0.0.3"
+}

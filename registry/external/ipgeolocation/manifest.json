@@ -1,0 +1,29 @@
+{
+  "app": "ipgeolocation",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "lang": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ipgeolocation-convert-timezone",
+    "ipgeolocation-get-abuse-contact",
+    "ipgeolocation-get-asn",
+    "ipgeolocation-get-astronomy-time-series",
+    "ipgeolocation-get-astronomy",
+    "ipgeolocation-get-bulk-geolocation",
+    "ipgeolocation-get-bulk-ip-security",
+    "ipgeolocation-get-geolocation",
+    "ipgeolocation-get-ip-security",
+    "ipgeolocation-get-timezone",
+    "ipgeolocation-parse-bulk-user-agents",
+    "ipgeolocation-parse-user-agent"
+  ]
+}

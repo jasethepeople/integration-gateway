@@ -1,0 +1,7 @@
+{
+  "key": "jira-get-all-projects",
+  "name": "Get All Projects",
+  "description": "Gets metadata on all projects. [See the documentation](https://developer.atlassian.com/cloud/jira/platform/rest/v3/#api-rest-api-3-project-get)",
+  "type": "action",
+  "version": "0.1.27"
+}

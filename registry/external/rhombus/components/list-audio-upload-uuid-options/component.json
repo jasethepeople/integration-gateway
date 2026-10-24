@@ -1,0 +1,7 @@
+{
+  "key": "rhombus-list-audio-upload-uuid-options",
+  "name": "List Audio Upload ID Options",
+  "description": "Retrieves available options for the Audio Upload ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

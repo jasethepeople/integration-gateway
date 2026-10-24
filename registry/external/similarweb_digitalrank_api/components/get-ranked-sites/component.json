@@ -1,0 +1,7 @@
+{
+  "key": "similarweb_digitalrank_api-get-ranked-sites",
+  "name": "Get Ranked Sites",
+  "description": "List the top-ranking websites globally. [See the documentation](https://developers.similarweb.com/docs/digital-rank-api)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "wisepops-new-survey-collected",
+  "name": "New Survey Collected (Instant)",
+  "description": "Emit new event when a new survey is received",
+  "type": "source",
+  "version": "0.0.1"
+}

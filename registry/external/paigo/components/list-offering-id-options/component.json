@@ -1,0 +1,7 @@
+{
+  "key": "paigo-list-offering-id-options",
+  "name": "List Offering ID Options",
+  "description": "Retrieves available options for the Offering ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

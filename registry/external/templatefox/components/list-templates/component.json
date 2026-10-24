@@ -1,0 +1,7 @@
+{
+  "key": "templatefox-list-templates",
+  "name": "List Templates",
+  "description": "List all available PDF templates in your TemplateFox account. [See the documentation](https://pdftemplateapi.com/docs/api/list-templates)",
+  "type": "action",
+  "version": "0.0.1"
+}

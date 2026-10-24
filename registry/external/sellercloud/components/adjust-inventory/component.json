@@ -1,0 +1,7 @@
+{
+  "key": "sellercloud-adjust-inventory",
+  "name": "Adjust Inventory",
+  "description": "Changes the inventory level of a specific product. [See the documentation](https://developer.sellercloud.com/dev-article/adjust-physical-inventory/)",
+  "type": "action",
+  "version": "0.0.2"
+}

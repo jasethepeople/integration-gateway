@@ -1,0 +1,7 @@
+{
+  "key": "snipe_it-list-hardware-id-options",
+  "name": "List Hardware Asset Options",
+  "description": "Retrieves available options for the Hardware Asset field.",
+  "type": "action",
+  "version": "0.0.1"
+}

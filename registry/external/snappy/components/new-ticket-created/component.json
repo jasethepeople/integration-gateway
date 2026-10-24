@@ -1,0 +1,7 @@
+{
+  "key": "snappy-new-ticket-created",
+  "name": "New Ticket Create",
+  "description": "Emit new event on each ticket created.",
+  "type": "source",
+  "version": "0.0.1"
+}

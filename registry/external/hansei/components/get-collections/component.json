@@ -1,0 +1,7 @@
+{
+  "key": "hansei-get-collections",
+  "name": "Get Collections",
+  "description": "Retrieves a list of Collections in Hansei. [See the documentation](https://developers.hansei.app/operation/operation-getcollections)",
+  "type": "action",
+  "version": "0.0.2"
+}

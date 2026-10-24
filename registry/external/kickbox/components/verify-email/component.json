@@ -1,0 +1,7 @@
+{
+  "key": "kickbox-verify-email",
+  "name": "Verify Email",
+  "description": "Verify an email. [See the documentation](https://docs.kickbox.com/docs/single-verification-api)",
+  "type": "action",
+  "version": "0.0.2"
+}

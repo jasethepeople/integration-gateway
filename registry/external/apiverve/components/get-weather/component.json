@@ -1,0 +1,7 @@
+{
+  "key": "apiverve-get-weather",
+  "name": "Get Weather",
+  "description": "Return the temperature, humidity, and more for a given location. [See the documentation](https://docs.apiverve.com/api/weatherforecast)",
+  "type": "action",
+  "version": "0.0.2"
+}

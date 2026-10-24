@@ -1,0 +1,7 @@
+{
+  "key": "gorgias_oauth-add-ticket-tags",
+  "name": "Add Ticket Tags",
+  "description": "Add tags to a ticket. [See the documentation](https://developers.gorgias.com/reference/create-ticket-tags)",
+  "type": "action",
+  "version": "0.0.5"
+}

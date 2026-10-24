@@ -1,0 +1,7 @@
+{
+  "key": "booking_experts-list-rentable-types",
+  "name": "List Rentable Types",
+  "description": "List all rentable types for a given administration. [See the documentation](https://developers.bookingexperts.com/reference/administration-rentabletypes-index)",
+  "type": "action",
+  "version": "1.0.1"
+}

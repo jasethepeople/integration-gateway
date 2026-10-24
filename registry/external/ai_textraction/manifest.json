@@ -1,0 +1,14 @@
+{
+  "app": "ai_textraction",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "rapid_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ai_textraction-extract-data"
+  ]
+}

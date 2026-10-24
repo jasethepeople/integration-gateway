@@ -1,0 +1,7 @@
+{
+  "key": "elorus-create-task",
+  "name": "Create Task",
+  "description": "Create a new task in Elorus. [See the documentation](https://developer.elorus.com/#operation/tasks_create)",
+  "type": "action",
+  "version": "0.0.2"
+}

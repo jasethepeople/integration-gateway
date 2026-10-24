@@ -1,0 +1,7 @@
+{
+  "key": "openai-classify-items-into-categories",
+  "name": "Classify Items into Categories",
+  "description": "Classify items into specific categories using the Chat API. [See the documentation](https://platform.openai.com/docs/api-reference/chat)",
+  "type": "action",
+  "version": "0.1.12"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zoho_cliq-list-chat-options",
+  "name": "List Chat ID Options",
+  "description": "Retrieves available options for the Chat ID field.",
+  "type": "action",
+  "version": "0.0.2"
+}

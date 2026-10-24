@@ -1,0 +1,7 @@
+{
+  "key": "harvest-update-time-entry",
+  "name": "Update Time Entry",
+  "description": "Update an existing time entry. Use **List Time Entries** to find a valid ID. Example: call with timeEntryId set to a logged entry's ID and hours set to a corrected value to fix a mistaken time entry. [See the documentation](https://help.getharvest.com/api-v2/timesheets-api/timesheets/time-entries/#update-a-time-entry).",
+  "type": "action",
+  "version": "0.0.1"
+}

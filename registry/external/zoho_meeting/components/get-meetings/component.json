@@ -1,0 +1,7 @@
+{
+  "key": "zoho_meeting-get-meetings",
+  "name": "Get Meetings",
+  "description": "Get a list of meetings. [See the documentation](https://www.zoho.com/meeting/api-integration/meeting-api/list-of-meeting-api.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

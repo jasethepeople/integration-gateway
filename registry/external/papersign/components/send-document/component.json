@@ -1,0 +1,7 @@
+{
+  "key": "papersign-send-document",
+  "name": "Send Document",
+  "description": "Dispatches a document to a specified recipient. [See the documentation](https://paperform.readme.io/reference/papersignsenddocument)",
+  "type": "action",
+  "version": "0.0.2"
+}

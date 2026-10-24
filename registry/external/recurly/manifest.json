@@ -1,0 +1,20 @@
+{
+  "app": "recurly",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "recurly-new-account-created",
+    "recurly-new-invoice-created",
+    "recurly-new-subscription-created",
+    "recurly-new-transaction-created"
+  ],
+  "npmImports": [
+    "recurly"
+  ]
+}

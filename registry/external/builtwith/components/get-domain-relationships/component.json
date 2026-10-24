@@ -1,0 +1,7 @@
+{
+  "key": "builtwith-get-domain-relationships",
+  "name": "Get Domain Relationships",
+  "description": "Get the relationships of a domain with other websites. [See the documentation](https://api.builtwith.com/relationships-api)",
+  "type": "action",
+  "version": "0.0.2"
+}

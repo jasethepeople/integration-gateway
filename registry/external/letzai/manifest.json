@@ -1,0 +1,86 @@
+{
+  "app": "letzai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "prompt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "imageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "width": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "height": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "quality": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "creativity": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "hasWatermark": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "systemVersion": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "generationMode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "originalImageCompletionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "imageUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "promptEdit": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mask": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "imageCompletionsCount": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "settings": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "webhookUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "letzai-create-image-edit",
+    "letzai-create-new-image",
+    "letzai-get-image-information",
+    "letzai-new-image-edit",
+    "letzai-new-image"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "social_fetch-search-threads-content",
+  "name": "Search Threads Content",
+  "description": "Searches Threads for posts matching a query. [See the documentation](https://app.socialfetch.dev/playground?path=/v1/threads/search&method=GET)",
+  "type": "action",
+  "version": "0.0.1"
+}

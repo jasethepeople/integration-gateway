@@ -1,0 +1,7 @@
+{
+  "key": "vestaboard-get-current-message",
+  "name": "Get Current Message",
+  "description": "Retrieves the current message. [See the docs](https://docs.vestaboard.com/read-write)",
+  "type": "action",
+  "version": "0.0.2"
+}

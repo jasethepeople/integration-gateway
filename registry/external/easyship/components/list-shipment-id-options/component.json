@@ -1,0 +1,7 @@
+{
+  "key": "easyship-list-shipment-id-options",
+  "name": "List Shipment ID Options",
+  "description": "Retrieves available options for the Shipment ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

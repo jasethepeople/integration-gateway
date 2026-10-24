@@ -1,0 +1,23 @@
+{
+  "app": "expedy",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "printerUid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_sid": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "expedy-create-print-job",
+    "expedy-list-printer-uid-options"
+  ]
+}

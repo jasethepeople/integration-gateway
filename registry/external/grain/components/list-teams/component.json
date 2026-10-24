@@ -1,0 +1,7 @@
+{
+  "key": "grain-list-teams",
+  "name": "List Teams",
+  "description": "Lists the teams in your Grain workspace (id, name).",
+  "type": "action",
+  "version": "0.0.1"
+}

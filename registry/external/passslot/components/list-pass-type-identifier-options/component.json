@@ -1,0 +1,7 @@
+{
+  "key": "passslot-list-pass-type-identifier-options",
+  "name": "List Pass Type Identifier Options",
+  "description": "Retrieves available options for the Pass Type Identifier field.",
+  "type": "action",
+  "version": "0.0.1"
+}

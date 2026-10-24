@@ -1,0 +1,24 @@
+{
+  "app": "qr_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "qr_api-create-email-qrcode",
+    "qr_api-create-googlemaps-qrcode",
+    "qr_api-create-phonecall-qrcode",
+    "qr_api-create-sms-qrcode",
+    "qr_api-create-text-qrcode",
+    "qr_api-create-url-qrcode",
+    "qr_api-create-vcard-qrcode",
+    "qr_api-create-wifi-qrcode"
+  ],
+  "npmImports": [
+    "fs"
+  ]
+}

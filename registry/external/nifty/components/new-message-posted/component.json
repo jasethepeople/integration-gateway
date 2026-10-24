@@ -1,0 +1,7 @@
+{
+  "key": "nifty-new-message-posted",
+  "name": "New Message Posted",
+  "description": "Emit new event when a new message is posted in a team's discussion.",
+  "type": "source",
+  "version": "0.0.2"
+}

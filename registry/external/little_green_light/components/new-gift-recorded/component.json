@@ -1,0 +1,7 @@
+{
+  "key": "little_green_light-new-gift-recorded",
+  "name": "New Gift Recorded",
+  "description": "Emit new event for each new gift recorded in Little Green Light.",
+  "type": "source",
+  "version": "0.0.1"
+}

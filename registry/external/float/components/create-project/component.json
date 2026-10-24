@@ -1,0 +1,7 @@
+{
+  "key": "float-create-project",
+  "name": "Create Project",
+  "description": "Create a new project. [See the documentation](https://developer.float.com/tutorial_managing_your_projects.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

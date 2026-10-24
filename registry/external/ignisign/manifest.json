@@ -1,0 +1,91 @@
+{
+  "app": "ignisign",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "signatureProfileId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "signerProfileId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "signerIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "signatureRequestId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "documentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "externalId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phoneNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "nationality": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "birthDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "birthPlace": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "birthCountry": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "app_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "app_env": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ignisign-create-signature-request",
+    "ignisign-create-signer",
+    "ignisign-get-signature-proof",
+    "ignisign-list-signature-profile-id-options",
+    "ignisign-list-signature-request-id-options",
+    "ignisign-list-signer-ids-options",
+    "ignisign-list-signer-profile-id-options",
+    "ignisign-new-signature-proof-instant"
+  ],
+  "npmImports": [
+    "form-data",
+    "fs",
+    "stream",
+    "util"
+  ]
+}

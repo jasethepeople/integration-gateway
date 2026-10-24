@@ -1,0 +1,7 @@
+{
+  "key": "shopify_developer_app-update-customer",
+  "name": "Update Customer",
+  "description": "Update a existing customer. [See the documentation](https://shopify.dev/docs/api/admin-graphql/latest/mutations/customerupdate)",
+  "type": "action",
+  "version": "0.0.18"
+}

@@ -1,0 +1,45 @@
+{
+  "app": "zep",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "sessionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "threadId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "factRatingInstructions": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "metadata": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zep-add-memory",
+    "zep-add-user",
+    "zep-create-session",
+    "zep-get-thread-messages",
+    "zep-get-threads",
+    "zep-list-session-id-options",
+    "zep-list-thread-id-options",
+    "zep-list-user-id-options",
+    "zep-update-session",
+    "zep-new-message",
+    "zep-new-session",
+    "zep-session-updated"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "replicate-get-model",
+  "name": "Get Model",
+  "description": "Get a specific model identified by Id. [See the documentation](https://replicate.com/docs/reference/http#models.get)",
+  "type": "action",
+  "version": "0.0.2"
+}

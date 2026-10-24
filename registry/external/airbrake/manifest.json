@@ -1,0 +1,15 @@
+{
+  "app": "airbrake",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "airbrake-list-project-id-options",
+    "airbrake-new-error-occurred"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "tinypng-convert-image",
+  "name": "Convert Image",
+  "description": "Convert your images to your desired image type using TinyPNG. [See the documentation](https://tinypng.com/developers/reference#converting-images)",
+  "type": "action",
+  "version": "0.0.4"
+}

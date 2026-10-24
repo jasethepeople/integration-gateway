@@ -1,0 +1,7 @@
+{
+  "key": "aws-dynamodb-scan",
+  "name": "DynamoDB - Scan",
+  "description": "",
+  "type": "action",
+  "version": "0.2.4"
+}

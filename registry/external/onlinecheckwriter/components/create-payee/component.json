@@ -1,0 +1,7 @@
+{
+  "key": "onlinecheckwriter-create-payee",
+  "name": "Create Payee",
+  "description": "Registers a new payee within the system.[See the documentation](https://apiv3.onlinecheckwriter.com/#38a31300-bf13-4da1-ac97-dd81525b57b3)",
+  "type": "action",
+  "version": "0.0.2"
+}

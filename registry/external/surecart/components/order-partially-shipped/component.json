@@ -1,0 +1,7 @@
+{
+  "key": "surecart-order-partially-shipped",
+  "name": "New Order Partially Shipped (Instant)",
+  "description": "Emit new event when an order is partially shipped. [See the documentation](https://developer.surecart.com/api-reference/webhook-endpoints/create)",
+  "type": "source",
+  "version": "0.0.1"
+}

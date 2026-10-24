@@ -1,0 +1,7 @@
+{
+  "key": "evernote-update-note",
+  "name": "Update Note",
+  "description": "Updates an existing note in Evernote. [See the documentation](https://dev.evernote.com/doc/reference/NoteStore.html#Fn_NoteStore_updateNote)",
+  "type": "action",
+  "version": "0.0.4"
+}

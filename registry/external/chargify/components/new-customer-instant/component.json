@@ -1,0 +1,7 @@
+{
+  "key": "chargify-new-customer-instant",
+  "name": "New Customer (Instant)",
+  "description": "Emit new event when a new customer is added in Chargify",
+  "type": "source",
+  "version": "0.0.1"
+}

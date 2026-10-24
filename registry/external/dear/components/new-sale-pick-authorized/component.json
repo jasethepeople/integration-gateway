@@ -1,0 +1,7 @@
+{
+  "key": "dear-new-sale-pick-authorized",
+  "name": "New Sale Pick Authorized",
+  "description": "Emit new event when a sale pick is authorized",
+  "type": "source",
+  "version": "0.0.1"
+}

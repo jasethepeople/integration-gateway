@@ -1,0 +1,7 @@
+{
+  "key": "optimoroute-get-mobile-events",
+  "name": "Get Mobile Events",
+  "description": "Get mobile events from Optimoroute. [See the documentation](https://optimoroute.com/api/#get-mobile-events)",
+  "type": "action",
+  "version": "0.0.1"
+}

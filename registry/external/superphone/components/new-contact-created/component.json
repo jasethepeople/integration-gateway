@@ -1,0 +1,7 @@
+{
+  "key": "superphone-new-contact-created",
+  "name": "New Contact Created",
+  "description": "Triggered when a new contact is created. [See the documentation](https://api.superphone.io/docs/webhooksubscription.doc.html)",
+  "type": "source",
+  "version": "0.0.1"
+}

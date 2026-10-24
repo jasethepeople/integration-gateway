@@ -1,0 +1,23 @@
+{
+  "app": "freeagent",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "freeagent-create-contact",
+    "freeagent-create-task",
+    "freeagent-list-project-id-options",
+    "freeagent-new-contact",
+    "freeagent-new-invoice",
+    "freeagent-new-task"
+  ]
+}

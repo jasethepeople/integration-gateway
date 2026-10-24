@@ -1,0 +1,26 @@
+{
+  "app": "postgrid",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "returnEnvelopeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "postgrid-create-contact",
+    "postgrid-create-letter",
+    "postgrid-create-postcard",
+    "postgrid-list-contact-id-options",
+    "postgrid-list-return-envelope-id-options"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pipeline-update-deal",
+  "name": "Update Deal",
+  "description": "Updates a deal in your Pipeline account. [See the docs here](https://app.pipelinecrm.com/api/docs#tag/Deals/paths/~1deals~1{id}/put)",
+  "type": "action",
+  "version": "0.0.2"
+}

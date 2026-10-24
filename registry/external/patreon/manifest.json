@@ -1,0 +1,26 @@
+{
+  "app": "patreon",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "campaign": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "patreon-member-created",
+    "patreon-member-deleted",
+    "patreon-new-pledge-received",
+    "patreon-post-published"
+  ],
+  "npmImports": [
+    "axios",
+    "url",
+    "uuid"
+  ]
+}

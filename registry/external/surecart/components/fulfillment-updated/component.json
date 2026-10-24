@@ -1,0 +1,7 @@
+{
+  "key": "surecart-fulfillment-updated",
+  "name": "New Fulfillment Updated (Instant)",
+  "description": "Emit new event when a fulfillment is updated. [See the documentation](https://developer.surecart.com/api-reference/webhook-endpoints/create)",
+  "type": "source",
+  "version": "0.0.3"
+}

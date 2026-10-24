@@ -1,0 +1,7 @@
+{
+  "key": "flowla-new-flow-created",
+  "name": "New Flow Created",
+  "description": "Emit new event when a new flow is created in Flowla. [See the documentation](https://api.flowla.com/docs#/default/ApiV1Controller_flows)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "surveymethods-list-survey-code-options",
+  "name": "List Survey Code Options",
+  "description": "Retrieves available options for the Survey Code field.",
+  "type": "action",
+  "version": "0.0.1"
+}

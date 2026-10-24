@@ -1,0 +1,7 @@
+{
+  "key": "lusha-list-seniority-options",
+  "name": "List Contact Seniority Levels Options",
+  "description": "Retrieves available options for the Contact Seniority Levels field.",
+  "type": "action",
+  "version": "0.0.1"
+}

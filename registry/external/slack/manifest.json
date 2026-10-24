@@ -1,0 +1,14 @@
+{
+  "app": "slack",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "commit": "d5872355ef27b4efa769f05352f2820c299a456e",
+  "note": "Upstream app directory is components/slack_v2 (the maintained Slack app); mirrored here under the canonical app name 'slack'.",
+  "upstreamPaths": {
+    "slack-post-message": "components/slack_v2/actions/post-message/post-message.mjs",
+    "slack-new-message-in-channels": "components/slack_v2/sources/new-message-in-channels/new-message-in-channels.mjs"
+  },
+  "components": [
+    "slack-post-message",
+    "slack-new-message-in-channels"
+  ]
+}

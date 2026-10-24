@@ -1,0 +1,7 @@
+{
+  "key": "twitch-get-users",
+  "name": "Get Users",
+  "description": "Gets the user objects for the specified Twitch login names",
+  "type": "action",
+  "version": "0.1.5"
+}

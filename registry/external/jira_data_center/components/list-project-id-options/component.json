@@ -1,0 +1,7 @@
+{
+  "key": "jira_data_center-list-project-id-options",
+  "name": "List Project ID Options",
+  "description": "Retrieves available options for the Project ID field.",
+  "type": "action",
+  "version": "0.0.2"
+}

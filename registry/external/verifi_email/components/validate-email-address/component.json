@@ -1,0 +1,7 @@
+{
+  "key": "verifi_email-validate-email-address",
+  "name": "Validate Email Address",
+  "description": "Validate an email address. [See the documentation](https://verifi.email/docs)",
+  "type": "action",
+  "version": "0.0.2"
+}

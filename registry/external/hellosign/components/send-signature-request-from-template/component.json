@@ -1,0 +1,7 @@
+{
+  "key": "hellosign-send-signature-request-from-template",
+  "name": "Send Signature Request From Template",
+  "description": "Send a signature request from a template with Dropbox Sign. [See the documentation](https://developers.hellosign.com/api/reference/operation/signatureRequestSendWithTemplate/)",
+  "type": "action",
+  "version": "0.0.2"
+}

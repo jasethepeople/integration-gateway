@@ -1,0 +1,7 @@
+{
+  "key": "rhombus-new-button-event-instant",
+  "name": "New Button Event (Instant)",
+  "description": "Emit new event when a new button event is created. [See the documentation](https://apidocs.rhombus.com/reference/subscribezapierwebhook)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "woocommerce-list-products",
+  "name": "List Products",
+  "description": "Retrieve a list of products. [See the docs](https://woocommerce.github.io/woocommerce-rest-api-docs/#list-all-products)",
+  "type": "action",
+  "version": "0.0.1"
+}

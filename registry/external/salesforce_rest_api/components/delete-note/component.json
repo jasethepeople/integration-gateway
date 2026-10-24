@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-delete-note",
+  "name": "Delete Note Or Content Note",
+  "description": "Delete a note or content note from a Salesforce record.",
+  "type": "action",
+  "version": "0.0.5"
+}

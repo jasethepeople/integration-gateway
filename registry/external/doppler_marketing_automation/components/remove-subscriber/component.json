@@ -1,0 +1,7 @@
+{
+  "key": "doppler_marketing_automation-remove-subscriber",
+  "name": "Remove Subscriber",
+  "description": "Removes a subscriber from a list completely. [See the documentation](https://restapi.fromdoppler.com/docs/resources#!/Subscribers/AccountsByAccountNameListsByListIdSubscribersByEmailDelete)",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,17 @@
+{
+  "app": "linkup",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "linkup-search"
+  ],
+  "npmImports": [
+    "linkup-sdk"
+  ]
+}

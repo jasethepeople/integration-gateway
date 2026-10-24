@@ -1,0 +1,7 @@
+{
+  "key": "google_ads-create-or-update-ad-group",
+  "name": "Create or Update Ad Group",
+  "description": "Whether to create, update, or remove an ad group.",
+  "type": "action",
+  "version": "0.1.3"
+}

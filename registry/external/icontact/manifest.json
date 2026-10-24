@@ -1,0 +1,49 @@
+{
+  "app": "icontact",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "listId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "account_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "client_folder_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_app_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_password": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "icontact-create-contact",
+    "icontact-create-message",
+    "icontact-list-campaign-id-options",
+    "icontact-list-contact-id-options",
+    "icontact-subscribe-contact-list",
+    "icontact-contact-subscribed-instant",
+    "icontact-new-contact-instant",
+    "icontact-updated-contact-instant"
+  ]
+}

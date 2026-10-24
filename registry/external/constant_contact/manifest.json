@@ -1,0 +1,91 @@
+{
+  "app": "constant_contact",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "anniversary": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "birthdayDay": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "birthdayMonth": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "createSource": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emailAddress": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobTitle": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "listMemberships": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "numberOfNotes": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "numberOfPhoneNumbers": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "numberOfStreetAddresses": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "permissionToSend": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taggings": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "constant_contact-add-account-email-address",
+    "constant_contact-add-contact",
+    "constant_contact-create-email-campaign",
+    "constant_contact-create-or-update-contact",
+    "constant_contact-delete-contact",
+    "constant_contact-list-contact-id-options",
+    "constant_contact-list-list-memberships-options",
+    "constant_contact-list-taggings-options",
+    "constant_contact-update-contact",
+    "constant_contact-new-account-created",
+    "constant_contact-new-contact-added"
+  ],
+  "npmImports": [
+    "lodash"
+  ]
+}

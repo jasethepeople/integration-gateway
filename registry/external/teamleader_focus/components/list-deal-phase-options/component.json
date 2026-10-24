@@ -1,0 +1,7 @@
+{
+  "key": "teamleader_focus-list-deal-phase-options",
+  "name": "List Phase Options",
+  "description": "Retrieves available options for the Phase field.",
+  "type": "action",
+  "version": "0.0.1"
+}

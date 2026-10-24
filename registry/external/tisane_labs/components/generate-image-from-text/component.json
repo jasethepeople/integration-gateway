@@ -1,0 +1,7 @@
+{
+  "key": "tisane_labs-generate-image-from-text",
+  "name": "Generate Image From Text",
+  "description": "Finds and returns a URL of an image (Creative Commons) best describing the text. [See the documentation](https://docs.tisane.ai/#b61cf454-1e78-42c4-a239-7fa580781729)",
+  "type": "action",
+  "version": "0.0.2"
+}

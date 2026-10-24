@@ -1,0 +1,7 @@
+{
+  "key": "bamboohr-clock-out",
+  "name": "Clock Out",
+  "description": "Clock an employee out in real time. Separate endpoint from **Clock In**; returns 409 if the employee is not currently clocked in. [See the documentation](https://documentation.bamboohr.com/reference/create-timesheet-clock-out-entry)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "drata-new-personnel-added",
+  "name": "New Personnel Added",
+  "description": "Only emit events for current employees",
+  "type": "source",
+  "version": "0.0.3"
+}

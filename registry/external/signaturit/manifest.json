@@ -1,0 +1,63 @@
+{
+  "app": "signaturit",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "body": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "brandingId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eventsUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "data": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "attachments": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "recipients": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "subject": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "templates": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "signatureRequestId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "signaturit-create-certified-email",
+    "signaturit-create-signature-request-from-template",
+    "signaturit-list-branding-id-options",
+    "signaturit-list-signature-request-id-options",
+    "signaturit-list-templates-options",
+    "signaturit-send-signature-request-reminder",
+    "signaturit-new-signed-document"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "onesignal_rest_api-get-device",
+  "name": "Get Device",
+  "description": "Get a specific device. [See docs here](https://documentation.onesignal.com/reference/view-device)",
+  "type": "action",
+  "version": "0.1.0"
+}

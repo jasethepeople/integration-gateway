@@ -1,0 +1,7 @@
+{
+  "key": "relevance_ai-list-tool-id-options",
+  "name": "List Tool ID Options",
+  "description": "Retrieves available options for the Tool ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

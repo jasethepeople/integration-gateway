@@ -1,0 +1,7 @@
+{
+  "key": "signpath-resubmit-signing-request",
+  "name": "Resubmit Signing Request",
+  "description": "Resubmit a signing request. [See the documentation](https://docs.signpath.io/build-system-integration#resubmit-a-signing-request)",
+  "type": "action",
+  "version": "0.0.1"
+}

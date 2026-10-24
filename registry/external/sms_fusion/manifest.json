@@ -1,0 +1,24 @@
+{
+  "app": "sms_fusion",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "phoneNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "countryCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sms_fusion-get-balance",
+    "sms_fusion-perform-hlr-lookup",
+    "sms_fusion-send-sms"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zoho_sheet-list-workbook-id-options",
+  "name": "List Worksheet Options",
+  "description": "Retrieves available options for the Worksheet field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "unstructured-extract-file",
+  "name": "Extract File",
+  "description": "Extract data from a file. [See the documentation](https://docs.unstructured.io/api-reference/general/summary)",
+  "type": "action",
+  "version": "0.0.2"
+}

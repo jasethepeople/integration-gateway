@@ -1,0 +1,7 @@
+{
+  "key": "openai-modify-assistant",
+  "name": "Modify an Assistant",
+  "description": "Modifies an existing OpenAI assistant. [See the documentation](https://platform.openai.com/docs/api-reference/assistants/modifyAssistant)",
+  "type": "action",
+  "version": "0.1.17"
+}

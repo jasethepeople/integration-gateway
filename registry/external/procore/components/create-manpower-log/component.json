@@ -1,0 +1,7 @@
+{
+  "key": "procore-create-manpower-log",
+  "name": "Create Manpower Log",
+  "description": "Create a new manpower log. [See the documentation](https://developers.procore.com/reference/rest/manpower-logs?version=latest#create-manpower-log).",
+  "type": "action",
+  "version": "0.0.3"
+}

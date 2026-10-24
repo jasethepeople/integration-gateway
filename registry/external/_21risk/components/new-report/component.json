@@ -1,0 +1,7 @@
+{
+  "key": "_21risk-new-report",
+  "name": "New Report Created",
+  "description": "Emit new event when a new report is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

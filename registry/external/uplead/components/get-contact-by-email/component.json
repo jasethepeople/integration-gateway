@@ -1,0 +1,7 @@
+{
+  "key": "uplead-get-contact-by-email",
+  "name": "Get Contact By Email",
+  "description": "Get a contact by email. [See the documentation](https://docs.uplead.com/#person-api)",
+  "type": "action",
+  "version": "0.0.2"
+}

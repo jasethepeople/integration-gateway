@@ -1,0 +1,7 @@
+{
+  "key": "zoom-webinar-ended",
+  "name": "Webinar Ended (Instant)",
+  "description": "Emit new event each time a webinar ends where you're the host",
+  "type": "source",
+  "version": "0.1.12"
+}

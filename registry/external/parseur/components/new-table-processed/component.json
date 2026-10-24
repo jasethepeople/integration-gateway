@@ -1,0 +1,7 @@
+{
+  "key": "parseur-new-table-processed",
+  "name": "New Table Processed",
+  "description": "Emit new event when a new table is processed. [See the docs](https://help.parseur.com/en/articles/3566155-send-parsed-data-using-webhooks).",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "hotmart-get-comissions",
+  "name": "Get Comissions",
+  "description": "Get sales commission information for sale participants. [See the documentation](https://developers.hotmart.com/docs/pt-BR/v1/sales/sales-commissions/)",
+  "type": "action",
+  "version": "0.0.2"
+}

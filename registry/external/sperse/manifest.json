@@ -1,0 +1,38 @@
+{
+  "app": "sperse",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactGroupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "currencyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sperse-add-or-update-contact",
+    "sperse-create-invoice",
+    "sperse-create-product",
+    "sperse-get-contact-details",
+    "sperse-list-contact-group-id-options",
+    "sperse-list-currency-id-options",
+    "sperse-list-product-id-options",
+    "sperse-new-lead",
+    "sperse-new-subscription"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "eppo-create-feature-flag",
+  "name": "Create Feature Flag",
+  "description": "Create a new feature flag in Eppo with a unique key, display name, entity ID, variations, and optional tags.",
+  "type": "action",
+  "version": "0.0.2"
+}

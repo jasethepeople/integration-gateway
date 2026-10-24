@@ -1,0 +1,7 @@
+{
+  "key": "product_hunt-new-product-added",
+  "name": "New Product Added",
+  "description": "Emit new event when any new product is posted.",
+  "type": "source",
+  "version": "0.0.1"
+}

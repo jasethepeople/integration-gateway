@@ -1,0 +1,7 @@
+{
+  "key": "procore-new-prime-contract-event-instant",
+  "name": "New Prime Contract Event (Instant)",
+  "description": "Emit new event when a new prime contract event is created. [See the documentation](https://developers.procore.com/reference/rest/hooks?version=latest).",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,18 @@
+{
+  "app": "godial",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "godial-add-contact",
+    "godial-add-member",
+    "godial-list-list-id-options",
+    "godial-list-team-id-options",
+    "godial-new-updated-contact"
+  ]
+}

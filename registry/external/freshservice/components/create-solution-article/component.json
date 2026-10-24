@@ -1,0 +1,7 @@
+{
+  "key": "freshservice-create-solution-article",
+  "name": "Create Solution Article",
+  "description": "Create a solution article. [See the documentation](https://api.freshservice.com/#create_solution_article)",
+  "type": "action",
+  "version": "0.0.2"
+}

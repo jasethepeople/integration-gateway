@@ -1,0 +1,7 @@
+{
+  "key": "transistor_fm-create-subscriber",
+  "name": "Create subscriber",
+  "description": "Create a subscriber. [See the docs here](https://developers.transistor.fm/#subscribers)",
+  "type": "action",
+  "version": "0.0.2"
+}

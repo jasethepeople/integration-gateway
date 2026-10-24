@@ -1,0 +1,7 @@
+{
+  "key": "pagerduty-list-status-pages",
+  "name": "List Status Pages",
+  "description": "List configured PagerDuty status pages.",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,21 @@
+{
+  "app": "gist",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "gist-add-tag-to-contacts",
+    "gist-create-or-update-contact",
+    "gist-get-contact",
+    "gist-list-campaign-id-options",
+    "gist-list-tag-id-options",
+    "gist-list-user-id-options",
+    "gist-remove-tag-from-contact",
+    "gist-new-contact"
+  ]
+}

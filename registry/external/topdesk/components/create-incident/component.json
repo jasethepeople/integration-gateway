@@ -1,0 +1,7 @@
+{
+  "key": "topdesk-create-incident",
+  "name": "Create Incident",
+  "description": "Creates a new incident. [See the documentation](https://developers.topdesk.com/explorer/?page=incident#/incident/createIncident)",
+  "type": "action",
+  "version": "0.0.4"
+}

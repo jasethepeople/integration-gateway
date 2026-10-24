@@ -1,0 +1,7 @@
+{
+  "key": "ticketsauce-get-events",
+  "name": "Get Events",
+  "description": "Get a list of all events owned by the authenticated account. [See documentation](https://speca.io/ticketsauce/ticketsauce-public-api?key=204000d6bda66da78315e721920f43aa#list-of-events)",
+  "type": "action",
+  "version": "0.0.1"
+}

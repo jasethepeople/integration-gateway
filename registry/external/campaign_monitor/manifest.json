@@ -1,0 +1,44 @@
+{
+  "app": "campaign_monitor",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "clientId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subscriber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "listId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "smartEmailId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "consentToTrack": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "campaign_monitor-add-subscriber",
+    "campaign_monitor-list-client-id-options",
+    "campaign_monitor-send-smart-transactional-email",
+    "campaign_monitor-unsubscribe",
+    "campaign_monitor-new-bounce",
+    "campaign_monitor-new-email-open",
+    "campaign_monitor-new-subscriber"
+  ]
+}

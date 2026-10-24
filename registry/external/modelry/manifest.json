@@ -1,0 +1,48 @@
+{
+  "app": "modelry",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "sku": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "batchId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "dimensions": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "externalUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "modelry-create-product",
+    "modelry-delete-product",
+    "modelry-get-product"
+  ]
+}

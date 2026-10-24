@@ -1,0 +1,7 @@
+{
+  "key": "vc_deal_flow_signal-search-by-sector",
+  "name": "Search Startups by Sector",
+  "description": "Return every tracked startup in one of the 20 sectors, ranked by engineering acceleration.",
+  "type": "action",
+  "version": "0.0.1"
+}

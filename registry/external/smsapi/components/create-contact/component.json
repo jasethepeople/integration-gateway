@@ -1,0 +1,7 @@
+{
+  "key": "smsapi-create-contact",
+  "name": "Create Contact",
+  "description": "Creates a new contact in SMSAPI. [See the documentation](https://www.smsapi.com/docs/#create-contact)",
+  "type": "action",
+  "version": "0.0.2"
+}

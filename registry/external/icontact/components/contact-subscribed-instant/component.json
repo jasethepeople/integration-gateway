@@ -1,0 +1,7 @@
+{
+  "key": "icontact-contact-subscribed-instant",
+  "name": "New Contact Subscribed (Instant)",
+  "description": "Emit new event when a contact is subscribed to a list.",
+  "type": "source",
+  "version": "0.0.1"
+}

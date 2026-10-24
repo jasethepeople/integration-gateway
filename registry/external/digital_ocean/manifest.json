@@ -1,0 +1,22 @@
+{
+  "app": "digital_ocean",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "digital_ocean-add-ssh-key",
+    "digital_ocean-create-domain",
+    "digital_ocean-create-droplet",
+    "digital_ocean-create-snapshot",
+    "digital_ocean-list-all-droplets",
+    "digital_ocean-turnonoff-droplet"
+  ],
+  "npmImports": [
+    "do-wrapper"
+  ]
+}

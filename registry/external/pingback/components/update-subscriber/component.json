@@ -1,0 +1,7 @@
+{
+  "key": "pingback-update-subscriber",
+  "name": "Update Subscriber",
+  "description": "Update a specific subscriber by email [See the documentation](https://developer.pingback.com/docs/api/update-subscriber)",
+  "type": "action",
+  "version": "0.0.2"
+}

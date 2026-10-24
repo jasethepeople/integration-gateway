@@ -1,0 +1,7 @@
+{
+  "key": "supportbee-new-comment",
+  "name": "New Comment",
+  "description": "Emit new event on each new comment.",
+  "type": "source",
+  "version": "0.0.2"
+}

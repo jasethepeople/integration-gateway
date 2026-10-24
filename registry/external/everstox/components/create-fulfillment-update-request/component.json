@@ -1,0 +1,7 @@
+{
+  "key": "everstox-create-fulfillment-update-request",
+  "name": "Create Fulfillment Update Request",
+  "description": "Creates a new fulfillment update request for a specific fulfillment.",
+  "type": "action",
+  "version": "0.0.2"
+}

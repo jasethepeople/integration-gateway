@@ -1,0 +1,26 @@
+{
+  "app": "bugbug",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "suite": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "test": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "bugbug-list-suite-options",
+    "bugbug-list-test-options",
+    "bugbug-new-cloud-test-run-failed",
+    "bugbug-new-scheduled-run-failed",
+    "bugbug-new-suite-run-failed"
+  ]
+}

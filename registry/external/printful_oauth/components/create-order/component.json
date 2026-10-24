@@ -1,0 +1,7 @@
+{
+  "key": "printful_oauth-create-order",
+  "name": "Create Order",
+  "description": "Creates an order. [See docs here](https://developers.printful.com/docs/#operation/createOrder)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "amara-add-video",
+  "name": "Add Video",
+  "description": "Add a video. [See the docs here](https://apidocs.amara.org/#add-a-video)",
+  "type": "action",
+  "version": "0.0.3"
+}

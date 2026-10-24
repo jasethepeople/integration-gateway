@@ -1,0 +1,7 @@
+{
+  "key": "mural-create-mural",
+  "name": "Create Mural",
+  "description": "Create a new mural within a specified workspace. [See the documentation](https://developers.mural.co/public/reference/createmural)",
+  "type": "action",
+  "version": "0.0.3"
+}

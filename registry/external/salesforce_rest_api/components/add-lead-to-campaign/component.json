@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-add-lead-to-campaign",
+  "name": "Add Lead to Campaign",
+  "description": "Add an existing lead to an existing campaign as a campaign member.",
+  "type": "action",
+  "version": "0.1.9"
+}

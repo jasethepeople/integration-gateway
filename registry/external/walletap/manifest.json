@@ -1,0 +1,21 @@
+{
+  "app": "walletap",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "template_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "walletap-create-pass",
+    "walletap-get-pass",
+    "walletap-send-notification",
+    "walletap-update-pass"
+  ]
+}

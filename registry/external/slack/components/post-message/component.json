@@ -1,0 +1,7 @@
+{
+  "key": "slack-post-message",
+  "name": "Post Message",
+  "description": "Send a message to a channel, user, or group. Accepts a channel ID (e.g. `C1234567890`) or channel name. Supports plain text with Slack mrkdwn formatting and Block Kit blocks. [See the documentation](https://api.slack.com/methods/chat.postMessage)",
+  "type": "action",
+  "version": "0.1.6"
+}

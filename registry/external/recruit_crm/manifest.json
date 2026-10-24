@@ -1,0 +1,62 @@
+{
+  "app": "recruit_crm",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "candidateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dealId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "reminder": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "relatedToType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "relatedTo": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "recruit_crm-create-candidate",
+    "recruit_crm-create-meeting",
+    "recruit_crm-create-task",
+    "recruit_crm-candidate-created",
+    "recruit_crm-task-updated"
+  ]
+}

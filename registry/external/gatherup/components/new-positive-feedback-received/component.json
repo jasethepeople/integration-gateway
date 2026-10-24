@@ -1,0 +1,7 @@
+{
+  "key": "gatherup-new-positive-feedback-received",
+  "name": "New Positive Feedback Received",
+  "description": "Emit new event on each new positive feedback received.",
+  "type": "source",
+  "version": "0.0.2"
+}

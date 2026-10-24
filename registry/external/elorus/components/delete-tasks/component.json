@@ -1,0 +1,7 @@
+{
+  "key": "elorus-delete-tasks",
+  "name": "Delete Tasks",
+  "description": "Delete a task from Elorus. [See the documentation](https://developer.elorus.com/#operation/tasks_delete)",
+  "type": "action",
+  "version": "0.0.2"
+}

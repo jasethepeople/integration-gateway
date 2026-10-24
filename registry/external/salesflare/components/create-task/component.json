@@ -1,0 +1,7 @@
+{
+  "key": "salesflare-create-task",
+  "name": "Create Task",
+  "description": "Create a task [See the docs here](https://api.salesflare.com/docs#operation/postTasks)",
+  "type": "action",
+  "version": "0.0.2"
+}

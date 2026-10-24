@@ -1,0 +1,7 @@
+{
+  "key": "close-new-lead",
+  "name": "New Lead",
+  "description": "Emit new event when a new Lead is created",
+  "type": "source",
+  "version": "0.1.1"
+}

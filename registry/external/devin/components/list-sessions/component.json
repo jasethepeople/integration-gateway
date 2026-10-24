@@ -1,0 +1,7 @@
+{
+  "key": "devin-list-sessions",
+  "name": "List Sessions",
+  "description": "Retrieve a list of all sessions. [See the documentation](https://docs.devin.ai/api-reference/sessions/list-sessions)",
+  "type": "action",
+  "version": "0.0.2"
+}

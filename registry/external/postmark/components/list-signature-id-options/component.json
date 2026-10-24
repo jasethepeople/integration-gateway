@@ -1,0 +1,7 @@
+{
+  "key": "postmark-list-signature-id-options",
+  "name": "List Signature Id Options",
+  "description": "Retrieves available options for the Signature Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "data_stores-delete-single-record",
+  "name": "Delete a single record",
+  "description": "Delete a single record in your [Pipedream Data Store](https://pipedream.com/data-stores/).",
+  "type": "action",
+  "version": "0.0.12"
+}

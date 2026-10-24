@@ -1,0 +1,7 @@
+{
+  "key": "gumroad-new-product",
+  "name": "New Product",
+  "description": "Emit new event on each new product.",
+  "type": "source",
+  "version": "0.0.4"
+}

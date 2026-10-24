@@ -1,0 +1,7 @@
+{
+  "key": "xero_accounting_api-get-item",
+  "name": "Get Item",
+  "description": "Gets details of an item.",
+  "type": "action",
+  "version": "0.2.4"
+}

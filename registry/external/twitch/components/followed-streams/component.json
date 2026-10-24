@@ -1,0 +1,7 @@
+{
+  "key": "twitch-followed-streams",
+  "name": "New Followed Streams",
+  "description": "Emit new event when a followed stream is live.",
+  "type": "source",
+  "version": "0.1.4"
+}

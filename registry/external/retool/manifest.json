@@ -1,0 +1,16 @@
+{
+  "app": "retool",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "retool-create-organization-user-attribute",
+    "retool-create-user",
+    "retool-trigger-workflow"
+  ]
+}

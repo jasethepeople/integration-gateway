@@ -1,0 +1,7 @@
+{
+  "key": "pagerduty-list-oncalls",
+  "name": "List On-Calls",
+  "description": "List on-call entries — who is on call right now or during a given time window.",
+  "type": "action",
+  "version": "0.0.2"
+}

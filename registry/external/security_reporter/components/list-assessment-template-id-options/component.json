@@ -1,0 +1,7 @@
+{
+  "key": "security_reporter-list-assessment-template-id-options",
+  "name": "List Assessment Template ID Options",
+  "description": "Retrieves available options for the Assessment Template ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

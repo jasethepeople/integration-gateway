@@ -1,0 +1,7 @@
+{
+  "key": "poof-create-deposit-address",
+  "name": "Create Deposit Address",
+  "description": "Creates a new deposit address in Poof. [See the documentation](https://docs.poof.io/reference/create_address)",
+  "type": "action",
+  "version": "0.0.2"
+}

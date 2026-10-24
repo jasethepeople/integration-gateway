@@ -1,0 +1,63 @@
+{
+  "app": "mysql",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "table": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "column": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "whereCondition": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "whereValues": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "whereOperator": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "whereValue": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "storedProcedure": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "storedProcedureParameters": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "database": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mysql-create-row",
+    "mysql-delete-row",
+    "mysql-execute-query",
+    "mysql-execute-raw-query",
+    "mysql-execute-stored-procedure",
+    "mysql-find-row",
+    "mysql-list-stored-procedure-options",
+    "mysql-list-table-options",
+    "mysql-update-row",
+    "mysql-new-column",
+    "mysql-new-or-updated-row",
+    "mysql-new-row-custom-query",
+    "mysql-new-row",
+    "mysql-new-table"
+  ],
+  "npmImports": [
+    "mysql2",
+    "uuid"
+  ]
+}

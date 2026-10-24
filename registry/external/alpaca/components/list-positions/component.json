@@ -1,0 +1,7 @@
+{
+  "key": "alpaca-list-positions",
+  "name": "List Positions",
+  "description": "Retrieves a list of the account’s open positions, [See the docs](https://alpaca.markets/docs/api-references/trading-api/positions/#get-open-positions)",
+  "type": "action",
+  "version": "0.0.2"
+}

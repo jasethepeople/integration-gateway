@@ -1,0 +1,34 @@
+{
+  "app": "zoho_recruit",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "module": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "record": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "base_api_uri": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zoho_recruit-create-or-update-record",
+    "zoho_recruit-create-record",
+    "zoho_recruit-update-record",
+    "zoho_recruit-new-record-created",
+    "zoho_recruit-record-updated"
+  ]
+}

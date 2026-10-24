@@ -1,0 +1,7 @@
+{
+  "key": "klipfolio-update-datasource",
+  "name": "Update Datasource",
+  "description": "Update the specified data source. [See the documentation](https://apidocs.klipfolio.com/reference/data-sources#put-datasourcesid)",
+  "type": "action",
+  "version": "0.0.2"
+}

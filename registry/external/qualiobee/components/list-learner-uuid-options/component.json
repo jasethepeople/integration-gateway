@@ -1,0 +1,7 @@
+{
+  "key": "qualiobee-list-learner-uuid-options",
+  "name": "List Learner UUID Options",
+  "description": "Retrieves available options for the Learner UUID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

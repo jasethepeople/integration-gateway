@@ -1,0 +1,40 @@
+{
+  "app": "originality_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "content": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "aiModelVersion": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "storeScan": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "excludedUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "originality_ai-detect-ai-content",
+    "originality_ai-detect-ai-from-url",
+    "originality_ai-scan-content-for-plagiarism-and-readability"
+  ]
+}

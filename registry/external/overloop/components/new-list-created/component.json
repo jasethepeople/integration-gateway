@@ -1,0 +1,7 @@
+{
+  "key": "overloop-new-list-created",
+  "name": "New List Created",
+  "description": "Emit new event each time a list is created. [See the docs](https://apidoc.overloop.com/#list-lists)",
+  "type": "source",
+  "version": "0.0.1"
+}

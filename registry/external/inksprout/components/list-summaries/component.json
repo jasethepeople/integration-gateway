@@ -1,0 +1,7 @@
+{
+  "key": "inksprout-list-summaries",
+  "name": "List Summaries",
+  "description": "List all summaries created. [See the docs](https://inksprout.co/docs/index.html#item-2-2).",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "sendoso-list-all-users",
+  "name": "List All Users",
+  "description": "Retrieve a list of all users in the account. [See the documentation](https://developer.sendoso.com/rest-api/reference/users/get-users)",
+  "type": "action",
+  "version": "0.0.1"
+}

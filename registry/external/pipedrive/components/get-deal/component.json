@@ -1,0 +1,7 @@
+{
+  "key": "pipedrive-get-deal",
+  "name": "Get Deal",
+  "description": "Get a deal by its ID. [See the documentation](https://developers.pipedrive.com/docs/api/v1/Deals)",
+  "type": "action",
+  "version": "0.0.3"
+}

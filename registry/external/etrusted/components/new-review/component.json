@@ -1,0 +1,7 @@
+{
+  "key": "etrusted-new-review",
+  "name": "New Review",
+  "description": "Emit new event when a new review is submitted on an eTrusted channel. [See the documentation](https://developers.etrusted.com/reference/getreviews)",
+  "type": "source",
+  "version": "1.0.0"
+}

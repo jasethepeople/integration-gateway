@@ -1,0 +1,7 @@
+{
+  "key": "upsales-update-company",
+  "name": "Update Company",
+  "description": "Updates an existing company (account) in Upsales. [See the documentation](https://api.upsales.com/#3e8b5e8d-3f4a-4e8e-8b5e-8d3f4a4e8e8b)",
+  "type": "action",
+  "version": "0.0.1"
+}

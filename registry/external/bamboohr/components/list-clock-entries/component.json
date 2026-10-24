@@ -1,0 +1,7 @@
+{
+  "key": "bamboohr-list-clock-entries",
+  "name": "List Clock Entries",
+  "description": "List time-tracking clock entries with optional OData filtering. An entry with a null `end` is still open, so this action also serves to check clocked-in status (filter by employeeId and inspect `end`). Use returned IDs with **Get Clock Entry** and **Delete Clock Entry**. [See the documentation](https://documentation.bamboohr.com/reference/list-clock-entries)",
+  "type": "action",
+  "version": "0.0.1"
+}

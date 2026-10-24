@@ -1,0 +1,7 @@
+{
+  "key": "token_metrics-get-quantmetrics",
+  "name": "Get Quantmetrics",
+  "description": "Select categories to filter results. Example: `layer-1,nft`",
+  "type": "action",
+  "version": "0.1.1"
+}

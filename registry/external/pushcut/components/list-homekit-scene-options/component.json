@@ -1,0 +1,7 @@
+{
+  "key": "pushcut-list-homekit-scene-options",
+  "name": "List Homekit Scene Options",
+  "description": "Retrieves available options for the Homekit Scene field.",
+  "type": "action",
+  "version": "0.0.1"
+}

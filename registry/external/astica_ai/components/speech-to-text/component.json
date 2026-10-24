@@ -1,0 +1,7 @@
+{
+  "key": "astica_ai-speech-to-text",
+  "name": "Speech To Text",
+  "description": "Transcribe an audio file to text with Astica AI [See the documentation](https://astica.ai/hearing/documentation/)",
+  "type": "action",
+  "version": "0.0.2"
+}

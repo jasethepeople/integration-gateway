@@ -1,0 +1,39 @@
+{
+  "app": "clevertap",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "from": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "to": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "project_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "pass_code": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "region": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "clevertap-create-campaign",
+    "clevertap-create-or-update-user",
+    "clevertap-get-campaign-report",
+    "clevertap-get-campaigns",
+    "clevertap-stop-campaign",
+    "clevertap-upload-events"
+  ]
+}

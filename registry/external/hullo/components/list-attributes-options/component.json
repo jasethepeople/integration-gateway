@@ -1,0 +1,7 @@
+{
+  "key": "hullo-list-attributes-options",
+  "name": "List Attributes Options",
+  "description": "Retrieves available options for the Attributes field.",
+  "type": "action",
+  "version": "0.0.1"
+}

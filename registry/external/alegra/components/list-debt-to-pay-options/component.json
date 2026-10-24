@@ -1,0 +1,7 @@
+{
+  "key": "alegra-list-debt-to-pay-options",
+  "name": "List Debt to Pay Options",
+  "description": "Retrieves available options for the Debt to Pay field.",
+  "type": "action",
+  "version": "0.0.1"
+}

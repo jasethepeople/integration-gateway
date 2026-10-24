@@ -1,0 +1,7 @@
+{
+  "key": "liveswitch-create-conversation",
+  "name": "Create Conversation",
+  "description": "Create a conversation in LiveSwitch [See the documentation](https://developer.liveswitch.com/reference/post_v1-conversations)",
+  "type": "action",
+  "version": "0.0.2"
+}

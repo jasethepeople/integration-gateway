@@ -1,0 +1,7 @@
+{
+  "key": "flock-send-channel-message",
+  "name": "Send Channel Message",
+  "description": "Send a message to a channel. [See the documentation](https://docs.flock.com/display/flockos/chat.sendMessage)",
+  "type": "action",
+  "version": "0.0.1"
+}

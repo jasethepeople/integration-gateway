@@ -1,0 +1,28 @@
+{
+  "app": "real_id",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "checkId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "real_id-create-id-check",
+    "real_id-delete-id-check",
+    "real_id-get-id-check"
+  ]
+}

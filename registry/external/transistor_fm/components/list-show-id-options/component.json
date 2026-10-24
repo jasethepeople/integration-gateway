@@ -1,0 +1,7 @@
+{
+  "key": "transistor_fm-list-show-id-options",
+  "name": "List Show ID Options",
+  "description": "Retrieves available options for the Show ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

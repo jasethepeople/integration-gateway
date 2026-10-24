@@ -1,0 +1,7 @@
+{
+  "key": "tinyurl-create-shortened-link",
+  "name": "Create Shortened Link",
+  "description": "Creates a new shortened link. [See the documentation]()",
+  "type": "action",
+  "version": "0.0.2"
+}

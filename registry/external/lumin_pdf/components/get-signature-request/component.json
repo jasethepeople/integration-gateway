@@ -1,0 +1,7 @@
+{
+  "key": "lumin_pdf-get-signature-request",
+  "name": "Get Signature Request",
+  "description": "Get details of a specific signature request. [See the documentation](https://developers.luminpdf.com/api/get-signature-request/)",
+  "type": "action",
+  "version": "0.0.2"
+}

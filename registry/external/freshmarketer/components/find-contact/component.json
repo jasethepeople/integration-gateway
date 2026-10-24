@@ -1,0 +1,7 @@
+{
+  "key": "freshmarketer-find-contact",
+  "name": "Find Contact",
+  "description": "Searches for a contact by email and returns contact details if found. [See the documentation](https://developers.freshworks.com/crm/api/#search)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,28 @@
+{
+  "app": "autom",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "googleDomain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "autom-bing-search",
+    "autom-brave-search",
+    "autom-google-search"
+  ]
+}

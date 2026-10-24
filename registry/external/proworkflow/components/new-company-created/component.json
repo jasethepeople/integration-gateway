@@ -1,0 +1,7 @@
+{
+  "key": "proworkflow-new-company-created",
+  "name": "New Company Created",
+  "description": "Emit new event when a new comapny is created. [See the docs](https://api.proworkflow.net/?documentation#introductionoverview).",
+  "type": "source",
+  "version": "0.0.1"
+}

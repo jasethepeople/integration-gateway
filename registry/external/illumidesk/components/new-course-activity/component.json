@@ -1,0 +1,7 @@
+{
+  "key": "illumidesk-new-course-activity",
+  "name": "New Course Activity",
+  "description": "Emit new event when a new course activity is created",
+  "type": "source",
+  "version": "0.0.2"
+}

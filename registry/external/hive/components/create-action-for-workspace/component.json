@@ -1,0 +1,7 @@
+{
+  "key": "hive-create-action-for-workspace",
+  "name": "Create Action For Workspace",
+  "description": "Create an action for given workspace [See the documentation](https://developers.hive.com/v1.0/reference/actionscreate-1)",
+  "type": "action",
+  "version": "0.0.2"
+}

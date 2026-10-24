@@ -1,0 +1,24 @@
+{
+  "app": "loopify",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "flowId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "loopify-add-contact-to-new-entry",
+    "loopify-create-update-contact",
+    "loopify-list-contact-id-options"
+  ]
+}

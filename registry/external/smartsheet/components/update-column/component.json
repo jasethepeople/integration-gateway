@@ -1,0 +1,7 @@
+{
+  "key": "smartsheet-update-column",
+  "name": "Update Column",
+  "description": "Update a column's title, type, or position in a sheet.",
+  "type": "action",
+  "version": "0.1.2"
+}

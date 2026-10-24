@@ -1,0 +1,24 @@
+{
+  "app": "optimoroute",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "afterTag": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "optimoroute-create-order",
+    "optimoroute-get-mobile-events",
+    "optimoroute-get-routes",
+    "optimoroute-search-orders",
+    "optimoroute-start-planning",
+    "optimoroute-update-order-status",
+    "optimoroute-new-mobile-event"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "regfox-registrant-applied",
+  "name": "New Registrant Applied",
+  "description": "Emit new event when a registrant applies to an event. [See docs here.](https://docs.webconnex.io/api/v2/#registration-notification)",
+  "type": "source",
+  "version": "0.0.1"
+}

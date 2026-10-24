@@ -1,0 +1,7 @@
+{
+  "key": "visibot-get-video-status",
+  "name": "Get Video Status",
+  "description": "Check the processing status of a video and retrieve the final URL when ready. [See the documentation](https://dashboard.visibot.app/api-docs#video-api-GETapi-video-get)",
+  "type": "action",
+  "version": "0.0.1"
+}

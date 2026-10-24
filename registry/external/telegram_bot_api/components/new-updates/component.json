@@ -1,0 +1,7 @@
+{
+  "key": "telegram_bot_api-new-updates",
+  "name": "New Updates (Instant)",
+  "description": "Emit new event for each new Telegram event.",
+  "type": "source",
+  "version": "0.1.8"
+}

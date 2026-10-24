@@ -1,0 +1,29 @@
+{
+  "app": "spiritme",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "avatar": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "voice": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "file": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "spiritme-generate-video",
+    "spiritme-list-avatar-options",
+    "spiritme-list-voice-options",
+    "spiritme-new-avatar-video-completion"
+  ]
+}

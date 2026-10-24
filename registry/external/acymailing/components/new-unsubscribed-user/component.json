@@ -1,0 +1,7 @@
+{
+  "key": "acymailing-new-unsubscribed-user",
+  "name": "New Unsubscribed User",
+  "description": "Emit new event when a user unsubscribes from the specified mailing list.",
+  "type": "source",
+  "version": "0.0.1"
+}

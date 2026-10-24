@@ -1,0 +1,7 @@
+{
+  "key": "telnyx-list-messaging-profile-id-options",
+  "name": "List Messaging Profile Id Options",
+  "description": "Retrieves available options for the Messaging Profile Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

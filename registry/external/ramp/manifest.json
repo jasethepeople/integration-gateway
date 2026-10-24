@@ -1,0 +1,89 @@
+{
+  "app": "ramp",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "spendProgramId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "departmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "locationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "transactionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "allowedCategories": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "blockedCategories": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "role": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "transferStatus": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pageSize": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "start": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ramp-create-department",
+    "ramp-create-location",
+    "ramp-create-user-invite",
+    "ramp-get-limit",
+    "ramp-get-transaction",
+    "ramp-get-user",
+    "ramp-issue-virtual-card",
+    "ramp-list-departments",
+    "ramp-list-limits",
+    "ramp-list-locations",
+    "ramp-list-spend-programs",
+    "ramp-list-transactions",
+    "ramp-list-transfers",
+    "ramp-list-users",
+    "ramp-terminate-limit",
+    "ramp-update-limit",
+    "ramp-update-user",
+    "ramp-upload-receipt",
+    "ramp-new-transaction-created",
+    "ramp-transaction-status-updated",
+    "ramp-transfer-payment-updated"
+  ],
+  "npmImports": [
+    "uuid"
+  ]
+}

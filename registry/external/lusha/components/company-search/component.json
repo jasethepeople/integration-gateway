@@ -1,0 +1,7 @@
+{
+  "key": "lusha-company-search",
+  "name": "Search Companies",
+  "description": "Search for companies using various filters. [See the documentation](https://docs.lusha.com/apis/openapi/company-search-and-enrich/searchprospectingcompanies)",
+  "type": "action",
+  "version": "0.0.5"
+}

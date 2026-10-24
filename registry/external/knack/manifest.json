@@ -1,0 +1,22 @@
+{
+  "app": "knack",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "application_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "knack-create-record",
+    "knack-delete-record",
+    "knack-get-record",
+    "knack-update-record",
+    "knack-new-record"
+  ]
+}

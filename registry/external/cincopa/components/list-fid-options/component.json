@@ -1,0 +1,7 @@
+{
+  "key": "cincopa-list-fid-options",
+  "name": "List Gallery FID Options",
+  "description": "Retrieves available options for the Gallery FID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "paved-list-slug-options",
+  "name": "List Newsletter Slug Options",
+  "description": "Retrieves available options for the Newsletter Slug field.",
+  "type": "action",
+  "version": "0.0.1"
+}

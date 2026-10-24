@@ -1,0 +1,7 @@
+{
+  "key": "taiga-delete-issue",
+  "name": "Delete Issue",
+  "description": "Delete an existing issue from a Taiga project. [See the documentation](https://docs.taiga.io/api.html#issues-delete)",
+  "type": "action",
+  "version": "0.0.2"
+}

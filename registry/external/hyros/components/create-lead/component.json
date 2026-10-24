@@ -1,0 +1,7 @@
+{
+  "key": "hyros-create-lead",
+  "name": "Create Lead",
+  "description": "Create a new lead. [See the documentation](https://hyros.docs.apiary.io/#reference/0/leads/create-lead)",
+  "type": "action",
+  "version": "0.0.3"
+}

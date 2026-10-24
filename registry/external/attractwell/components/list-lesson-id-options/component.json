@@ -1,0 +1,7 @@
+{
+  "key": "attractwell-list-lesson-id-options",
+  "name": "List Lesson ID Options",
+  "description": "Retrieves available options for the Lesson ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

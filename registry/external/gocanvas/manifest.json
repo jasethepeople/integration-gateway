@@ -1,0 +1,34 @@
+{
+  "app": "gocanvas",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "form": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dispatchId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "gocanvas-create-dispatch",
+    "gocanvas-create-or-update-reference-data",
+    "gocanvas-delete-dispatch",
+    "gocanvas-list-form-options",
+    "gocanvas-new-submission-received"
+  ],
+  "npmImports": [
+    "csv-parse",
+    "xml2js"
+  ]
+}

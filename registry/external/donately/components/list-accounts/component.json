@@ -1,0 +1,7 @@
+{
+  "key": "donately-list-accounts",
+  "name": "List Accounts",
+  "description": "List all accounts. [See the documentation](https://developer.donate.ly/api/#accounts)",
+  "type": "action",
+  "version": "0.0.1"
+}

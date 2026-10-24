@@ -1,0 +1,25 @@
+{
+  "app": "bytenite",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "bytenite-create-job",
+    "bytenite-get-job-results",
+    "bytenite-list-template-id-options",
+    "bytenite-start-job"
+  ]
+}

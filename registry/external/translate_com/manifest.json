@@ -1,0 +1,19 @@
+{
+  "app": "translate_com",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "language": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "translate_com-list-language-options",
+    "translate_com-translate-text"
+  ]
+}

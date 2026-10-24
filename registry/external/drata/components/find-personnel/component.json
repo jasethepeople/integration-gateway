@@ -1,0 +1,7 @@
+{
+  "key": "drata-find-personnel",
+  "name": "Find Personnel",
+  "description": "Query to search for",
+  "type": "action",
+  "version": "0.0.4"
+}

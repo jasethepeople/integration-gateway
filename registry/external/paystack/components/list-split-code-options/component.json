@@ -1,0 +1,7 @@
+{
+  "key": "paystack-list-split-code-options",
+  "name": "List Split Code Options",
+  "description": "Retrieves available options for the Split Code field.",
+  "type": "action",
+  "version": "0.0.1"
+}

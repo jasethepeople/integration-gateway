@@ -1,0 +1,7 @@
+{
+  "key": "trengo-attach-label",
+  "name": "Attach Label",
+  "description": "Attach a label to a ticket. [See the documentation](https://developers.trengo.com/reference/apply-a-label)",
+  "type": "action",
+  "version": "0.0.8"
+}

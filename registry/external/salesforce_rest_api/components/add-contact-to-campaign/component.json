@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-add-contact-to-campaign",
+  "name": "Add Contact to Campaign",
+  "description": "Add an existing contact to an existing campaign as a campaign member.",
+  "type": "action",
+  "version": "0.1.9"
+}

@@ -1,0 +1,50 @@
+{
+  "app": "robopost",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contentType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "style": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "voice": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lang": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxDuration": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "configurationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "robopost-create-video-configuration",
+    "robopost-generate-video",
+    "robopost-get-video-status",
+    "robopost-list-configuration-id-options",
+    "robopost-list-task-id-options"
+  ]
+}

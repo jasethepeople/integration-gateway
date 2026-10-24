@@ -1,0 +1,7 @@
+{
+  "key": "onedesk-new-user-created",
+  "name": "New User Created",
+  "description": "Emit new event when a new user is created. [See the documentation](https://www.onedesk.com/dev/).",
+  "type": "source",
+  "version": "0.0.2"
+}

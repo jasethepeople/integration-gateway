@@ -1,0 +1,18 @@
+{
+  "app": "brosix",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "msg": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "brosix-send-message"
+  ]
+}

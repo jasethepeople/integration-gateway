@@ -1,0 +1,517 @@
+import { axios } from "../_platform-shim.mjs";
+import { promisify } from "util";
+import {
+  ITEM_TYPES,
+  ITEM_TYPES_RESULT_NAME,
+  PAGE_SIZE,
+} from "./shared/common/constants.mjs";
+import Countries from "./shared/country-codes.mjs";
+
+const pause = promisify((delay, fn) => setTimeout(fn, delay));
+
+const __pdApp = {
+  type: "app",
+  app: "spotify",
+  propDefinitions: {
+    market: {
+      type: "string",
+      label: "Market",
+      description: "Type to search for a country or enter a custom expression to specify the [ISO 3166-1 alpha-2 country code](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2).",
+      options: Countries,
+    },
+    playlistTracksUris: {
+      type: "string[]",
+      label: "Tracks",
+      description: "Select tracks or episodes to remove, or enter a custom expression to reference specific [Spotify URIs](https://developer.spotify.com/documentation/web-api/#spotify-uris-and-ids) (for example, `spotify:track:4iV5W9uYEdYUVa79Axb7Rh, spotify:episode:512ojhOuo1ktJprKbVcKyQ`). A maximum of 100 URIs can be sent at once.",
+      withLabel: true,
+      async options({
+        page, playlistId,
+      }) {
+        const items = await this.getPlaylistItems({
+          params: {
+            limit: PAGE_SIZE,
+            offset: PAGE_SIZE * page,
+          },
+          playlistId: playlistId.value ?? playlistId,
+        });
+
+        return {
+          options: items.map((item) => ({
+            label: this.getItemOptionLabel(item.item),
+            value: item.item.uri,
+          })),
+        };
+      },
+    },
+    savedUserTracksId: {
+      type: "string[]",
+      label: "Track ID",
+      description: "Search saved user tracks in \"Liked Songs\" or enter a custom expression to reference specific [Spotify ID](https://developer.spotify.com/documentation/web-api/#spotify-uris-and-ids) for the track. For example: `4iV5W9uYEdYUVa79Axb7Rh`. Maximum: 50 IDs.",
+      withLabel: true,
+      async options({ page }) {
+        const items = await this.getUserTracks({
+          params: {
+            limit: PAGE_SIZE,
+            offset: PAGE_SIZE * page,
+          },
+        });
+
+        return {
+          options: items.map((item) => ({
+            label: this.getItemOptionLabel(item.track),
+            value: item.track.id,
+          })),
+        };
+      },
+    },
+    artistId: {
+      type: "string",
+      label: "Artist ID",
+      description: "Type to search for any artist on Spotify or enter a custom expression to specify an artist's [Spotify ID](https://developer.spotify.com/documentation/web-api/#spotify-uris-and-ids) (for example, `43ZHCT0cAZBISjO8DG9PnE`).",
+      useQuery: true,
+      withLabel: true,
+      async options({
+        query,
+        page,
+      }) {
+        const artists = await this.getItems(
+          ITEM_TYPES.ARTIST,
+          query,
+          PAGE_SIZE,
+          PAGE_SIZE * page,
+        );
+        return {
+          options: artists.map((artist) => ({
+            label: artist.name,
+            value: artist.id,
+          })),
+        };
+      },
+    },
+    playlistId: {
+      type: "string",
+      label: "Playlist ID",
+      description: "Select an existing playlist or pass a custom expression to reference a specific [`playlist_id`](https://developer.spotify.com/documentation/web-api/#spotify-uris-and-ids) (for example, `3cEYpjA9oz9GiPac4AsH4n`).",
+      async options({ page }) {
+        const playlists = await this.getPlaylists({
+          params: {
+            limit: PAGE_SIZE,
+            offset: PAGE_SIZE * page,
+          },
+        });
+        return {
+          options: playlists.map((playlist) => ({
+            label: playlist.name,
+            value: playlist.id,
+          })),
+        };
+      },
+    },
+    categoryId: {
+      type: "string",
+      label: "Category ID",
+      description: "Type to search for a category or enter a custom expression to reference a specific [category ID](https://developer.spotify.com/documentation/web-api/#spotify-uris-and-ids) (for example, `party`).",
+      withLabel: true,
+      async options({ page }) {
+        const categories = await this.getCategories({
+          params: {
+            limit: PAGE_SIZE,
+            offset: PAGE_SIZE * page,
+          },
+        });
+        return {
+          options: categories.map((category) => ({
+            label: category.name,
+            value: category.id,
+          })),
+        };
+      },
+    },
+    trackId: {
+      type: "string",
+      label: "Track ID",
+      description: "Type to search for any track or artist on Spotify, or enter a custom expression to reference a specific [track ID](https://developer.spotify.com/documentation/web-api/#spotify-uris-and-ids) (for example, `4iV5W9uYEdYUVa79Axb7Rh`).",
+      useQuery: true,
+      withLabel: true,
+      async options({
+        query,
+        page,
+      }) {
+        const tracks = await this.getItems(
+          ITEM_TYPES.TRACK,
+          query,
+          PAGE_SIZE,
+          PAGE_SIZE * page,
+        );
+        return {
+          options: tracks.map((track) => ({
+            label: this.getItemOptionLabel(track),
+            value: track.id,
+          })),
+        };
+      },
+    },
+    uris: {
+      type: "string[]",
+      label: "Track or Episode URIs",
+      description: "Type to search for any tracks or episodes on Spotify, or enter a custom expression to reference specific [track or episode URIs](https://developer.spotify.com/documentation/web-api/#spotify-uris-and-ids) (for example, `spotify:track:4iV5W9uYEdYUVa79Axb7Rh, spotify:episode:512ojhOuo1ktJprKbVcKyQ`). A maximum of 100 items can be added in one request.",
+      useQuery: true,
+      withLabel: true,
+      async options({
+        query,
+        page,
+      }) {
+        const items = await this.getItems(
+          [
+            ITEM_TYPES.TRACK,
+            ITEM_TYPES.EPISODE,
+          ],
+          query,
+          PAGE_SIZE,
+          PAGE_SIZE * page,
+        );
+        return {
+          options: items.map((item) => ({
+            label: this.getItemOptionLabel(item),
+            value: item.uri,
+          })),
+        };
+      },
+    },
+    offset: {
+      type: "integer",
+      label: "Offset",
+      description: "The index of the first item to return. Default: 0 (the first object). Use with `limit` to get the next set of items.",
+      optional: true,
+      min: 0,
+    },
+    limit: {
+      type: "integer",
+      label: "Limit",
+      description: "The maximum number of items to return. The default is 100.",
+      optional: true,
+      min: 1,
+      max: 100,
+    },
+    genres: {
+      type: "string[]",
+      label: "Seed Genres",
+      description: "An array of genres. Up to 5 seed values may be provided in any combination of `seedArtists`, `seedTracks` and `seedGenres`.",
+      async options() {
+        return this.getGenres();
+      },
+    },
+  },
+  methods: {
+    sanitizedArray(value) {
+      if (Array.isArray(value)) {
+        return value.map((item) => item.value ?? item);
+      }
+
+      // If is string, try to convert it in an array
+      if (typeof value === "string") {
+        // Return an empty array if string is empty
+        if (value === "") {
+          return [];
+        }
+
+        return value.replace(/["'[\]\s]+/g, "").split(",");
+      }
+
+      throw new Error(`${value} is not an array or an array-like`);
+    },
+    _getHeaders() {
+      return {
+        Authorization: `Bearer ${this.$auth.oauth_access_token}`,
+      };
+    },
+    async _paginate(resourceFn, args = {}) {
+      let data = [];
+      const params = {
+        ...args.params,
+        limit: PAGE_SIZE,
+        offset: 0,
+      };
+
+      do {
+        const items = await resourceFn({
+          ...args,
+          params,
+        });
+        data = [
+          ...data,
+          ...items,
+        ];
+
+        if (items.length < params.limit) {
+          break;
+        }
+
+        params.offset += params.limit;
+      } while (true);
+
+      return data;
+    },
+    getTrackNameWithArtists(track) {
+      if (!track) {
+        return "";
+      }
+
+      if (!track.artists || !track.artists[0]) {
+        return `${track.name} [Unknown Artist]`;
+      }
+
+      const artists = track.artists.map((artist) => artist.name).join(", ");
+      return `${track.name} [${artists}]`;
+    },
+    _getBaseUrl() {
+      return "https://api.spotify.com/v1";
+    },
+    async _makeRequest({
+      $ = this,
+      headers,
+      ...args
+    } = {}) {
+      const config = {
+        baseURL: this._getBaseUrl(),
+        headers: {
+          ...headers,
+          ...this._getHeaders(),
+        },
+        ...args,
+      };
+      return await this.retry($, config);
+    },
+    // Retry axios request if not successful
+    async retry($, config, retries = 1) {
+      try {
+        return await axios($, {
+          ...config,
+          returnFullResponse: true,
+        });
+      } catch (err) {
+        if (err?.status !== 429 || retries > 3) {
+          $?.export?.("response", err);
+          throw new Error("Error response exported in the \"response\" object");
+        }
+
+        const delay = retries * 5000;
+        await pause(delay);
+        return this.retry($, config, retries + 1);
+      }
+    },
+    async getItems(types, q, limit, offset) {
+      if (!Array.isArray(types)) {
+        types = [
+          types,
+        ];
+      }
+      for (const type of types) {
+        if (!Object.values(ITEM_TYPES).includes(type)) {
+          throw new Error("Invalid item type");
+        }
+      }
+      if (!q) {
+        return [];
+      }
+
+      const params = {
+        type: types.join(","),
+        q,
+        limit,
+        offset,
+      };
+
+      const res = await this._makeRequest({
+        method: "GET",
+        url: "/search",
+        params,
+      });
+      return types.reduce((accumulator, type) => (
+        accumulator.concat(res.data?.[ITEM_TYPES_RESULT_NAME[type]]?.items ?? [])
+      ), []);
+    },
+    getItemOptionLabel(item) {
+      switch (item.type) {
+      case ITEM_TYPES.TRACK:
+        return this.getTrackNameWithArtists(item);
+      case ITEM_TYPES.EPISODE:
+        return `${item.name}`;
+      default:
+        return item.name;
+      }
+    },
+    async getPlaylist({
+      playlistId, ...args
+    }) {
+      const { data } = await this._makeRequest({
+        url: `/playlists/${playlistId}`,
+        ...args,
+      });
+      return data;
+    },
+    async getPlaylists(args) {
+      const { data } = await this._makeRequest({
+        url: "/me/playlists",
+        ...args,
+      });
+      return data?.items ?? [];
+    },
+    async getCategories(args) {
+      const { data } = await this._makeRequest({
+        url: "/browse/categories",
+        ...args,
+      });
+      return data?.categories?.items ?? [];
+    },
+    async getUserTracks(args) {
+      const { data } = await this._makeRequest({
+        url: "/me/tracks",
+        ...args,
+      });
+      return data?.items ?? [];
+    },
+    async getPlaylistItems({
+      $, playlistId, ...args
+    }) {
+      const { data } = await this._makeRequest({
+        $,
+        url: `/playlists/${playlistId}/items`,
+        ...args,
+      });
+      return data?.items ?? [];
+    },
+    async getGenres(args) {
+      const { data } = await this._makeRequest({
+        url: "/recommendations/available-genre-seeds",
+        ...args,
+      });
+      return data?.genres;
+    },
+    async getRecommendations(args) {
+      const { data } = await this._makeRequest({
+        url: "/recommendations",
+        ...args,
+      });
+      return data;
+    },
+    async search({
+      $, ...params
+    }) {
+      const { data } = await this._makeRequest({
+        $,
+        method: "GET",
+        url: "/search",
+        params,
+      });
+      return data;
+    },
+    async getArtistAlbums({
+      $,
+      artistId,
+      market,
+    }) {
+      // Paginate the (cheap) album listing, deduping by album ID since
+      // `include_groups=album,single` can surface the same album more than once.
+      const albumsById = new Map();
+      let page = 0;
+      let next = undefined;
+      do {
+        const { data } = await this._makeRequest({
+          $,
+          url: `/artists/${artistId.value ?? artistId}/albums`,
+          params: {
+            market,
+            limit: PAGE_SIZE,
+            offset: PAGE_SIZE * page,
+            include_groups: "album,single",
+          },
+        });
+        for (const album of data.items) {
+          if (!albumsById.has(album.id)) {
+            albumsById.set(album.id, {
+              id: album.id,
+              total_tracks: album.total_tracks,
+            });
+          }
+        }
+        next = data.next;
+        page++;
+      } while (next);
+      return [
+        ...albumsById.values(),
+      ];
+    },
+    async getAllTracksByAlbumIds({
+      $,
+      albumIds,
+      market,
+    }) {
+      // Spotify's "Get Several Albums" endpoint accepts max 20 IDs per request.
+      // Flatten + dedupe all IDs first, then chunk globally by 20 so we don't
+      // waste calls on partial batches at page boundaries.
+      const MAX_ALBUMS_PER_REQUEST = 20;
+      const uniqueIds = [
+        ...new Set(albumIds),
+      ];
+      const tracks = [];
+      for (let i = 0; i < uniqueIds.length; i += MAX_ALBUMS_PER_REQUEST) {
+        const idsChunk = uniqueIds.slice(i, i + MAX_ALBUMS_PER_REQUEST);
+        const { data } = await this._makeRequest({
+          $,
+          url: "/albums",
+          params: {
+            market,
+            ids: idsChunk.join(","),
+          },
+        });
+        for (const album of data.albums) {
+          // Spotify returns `null` placeholders for unavailable or
+          // market-restricted album IDs; skip them.
+          if (!album) {
+            continue;
+          }
+          tracks.push(...await this.getAlbumTracks({
+            $,
+            album,
+            market,
+          }));
+        }
+      }
+      return tracks;
+    },
+    async getAlbumTracks({
+      $,
+      album,
+      market,
+    }) {
+      // The embedded `tracks` object from "Get Several Albums" is itself a
+      // paginated page (capped at 50 items), so page the remainder for albums
+      // with more tracks.
+      const tracks = [
+        ...album.tracks.items,
+      ];
+      let next = album.tracks.next;
+      let offset = album.tracks.items.length;
+      while (next) {
+        const { data } = await this._makeRequest({
+          $,
+          url: `/albums/${album.id}/tracks`,
+          params: {
+            market,
+            limit: PAGE_SIZE,
+            offset,
+          },
+        });
+        tracks.push(...data.items);
+        offset += data.items.length;
+        next = data.next;
+      }
+      return tracks;
+    },
+  },
+};
+
+export default __pdApp;
+import { __pdBindAuth as __pdBind } from "../_platform-shim.mjs";
+__pdBind(__pdApp, "spotify");

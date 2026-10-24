@@ -1,0 +1,7 @@
+{
+  "key": "accelo-new-request-created",
+  "name": "New Request Created (Instant)",
+  "description": "Emit new event on each new request created.",
+  "type": "source",
+  "version": "0.0.2"
+}

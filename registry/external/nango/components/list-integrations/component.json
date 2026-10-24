@@ -1,0 +1,7 @@
+{
+  "key": "nango-list-integrations",
+  "name": "List Integrations",
+  "description": "Returns a list of Integrations. [See the Documentation](https://docs.nango.dev/api-reference/integration/list)",
+  "type": "action",
+  "version": "0.0.2"
+}

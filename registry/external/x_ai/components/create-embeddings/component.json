@@ -1,0 +1,7 @@
+{
+  "key": "x_ai-create-embeddings",
+  "name": "Create Embedding",
+  "description": "Create an embedding vector representation corresponding to the input text. [See the documentation](https://docs.x.ai/api/endpoints#create-embeddings)",
+  "type": "action",
+  "version": "0.0.3"
+}

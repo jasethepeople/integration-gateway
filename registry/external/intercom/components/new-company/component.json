@@ -1,0 +1,7 @@
+{
+  "key": "intercom-new-company",
+  "name": "New Companies",
+  "description": "Emit new event each time a new company is added.",
+  "type": "source",
+  "version": "0.0.9"
+}

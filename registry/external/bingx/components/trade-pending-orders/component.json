@@ -1,0 +1,7 @@
+{
+  "key": "bingx-trade-pending-orders",
+  "name": "BingX Trade Pending Orders",
+  "description": "Unfilled Order Acquisition [See the documentation](https://bingx-api.github.io/docs/#/swapV2/trade-api.html#Query%20all%20current%20pending%20orders).",
+  "type": "action",
+  "version": "0.0.5"
+}

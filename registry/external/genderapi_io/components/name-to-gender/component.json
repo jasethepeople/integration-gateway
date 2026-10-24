@@ -1,0 +1,7 @@
+{
+  "key": "genderapi_io-name-to-gender",
+  "name": "Name to Gender",
+  "description": "Send a Name to Gender request to GenderAPI. [See the documentation](https://www.genderapi.io/api-documentation#single-name)",
+  "type": "action",
+  "version": "0.0.2"
+}

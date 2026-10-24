@@ -1,0 +1,7 @@
+{
+  "key": "vision6-reactivate-contact",
+  "name": "Reactivate Contact",
+  "description": "Reactivate an existing contact. [See the docs here](https://api.vision6.com/#update-contacts)",
+  "type": "action",
+  "version": "0.0.2"
+}

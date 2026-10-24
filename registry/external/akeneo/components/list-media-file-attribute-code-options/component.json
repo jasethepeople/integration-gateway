@@ -1,0 +1,7 @@
+{
+  "key": "akeneo-list-media-file-attribute-code-options",
+  "name": "List Media File Attribute Code Options",
+  "description": "Retrieves available options for the Media File Attribute Code field.",
+  "type": "action",
+  "version": "0.0.1"
+}

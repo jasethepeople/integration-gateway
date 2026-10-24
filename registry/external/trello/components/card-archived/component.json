@@ -1,0 +1,7 @@
+{
+  "key": "trello-card-archived",
+  "name": "Card Archived (Instant)",
+  "description": "Emit new event for each card archived.",
+  "type": "source",
+  "version": "0.1.6"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "tricentis_qtest-list-defect-fields",
+  "name": "List Defect Fields",
+  "description": "List all available fields for defects in a qTest project, including field IDs, types, and allowed values. Use this to discover field IDs before submitting or updating defects. Pass `fields` (e.g. `[\"id\", \"label\", \"required\"]`) to keep only those attributes per field — some fields' `allowed_values` lists are long, so omitting them when you only need the field ID/label keeps the response small. Example: `projectId: 1` → returns `[{id: 1, label: \"Summary\", attribute_type: \"String\", required: true}, {id: 2, label: \"Status\", attribute_type: \"String\", allowed_values: [{label: \"New\", value: \"1\"}], required: true}]`. [See the documentation](https://documentation.tricentis.com/qtest/od/en/content/apis/apis/defect_apis.htm)",
+  "type": "action",
+  "version": "0.0.1"
+}

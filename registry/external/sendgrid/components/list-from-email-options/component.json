@@ -1,0 +1,7 @@
+{
+  "key": "sendgrid-list-from-email-options",
+  "name": "List From Email Options",
+  "description": "Retrieves available options for the From Email field.",
+  "type": "action",
+  "version": "0.0.1"
+}

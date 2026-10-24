@@ -1,0 +1,7 @@
+{
+  "key": "polar-list-products",
+  "name": "List Products",
+  "description": "List products according to the specified filters. [See the API docs](https://polar.sh/docs/api-reference/products/list)",
+  "type": "action",
+  "version": "0.0.1"
+}

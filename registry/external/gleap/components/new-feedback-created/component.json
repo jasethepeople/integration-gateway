@@ -1,0 +1,7 @@
+{
+  "key": "gleap-new-feedback-created",
+  "name": "New Feedback Created",
+  "description": "Emit new event when a feedback is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

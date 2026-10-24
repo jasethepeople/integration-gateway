@@ -1,0 +1,36 @@
+{
+  "app": "xverify",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "domain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "aff": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subaff": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "xverify-verify-address",
+    "xverify-verify-email",
+    "xverify-verify-phone"
+  ]
+}

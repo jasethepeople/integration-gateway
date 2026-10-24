@@ -1,0 +1,7 @@
+{
+  "key": "zerotier-create-network",
+  "name": "Create A Network",
+  "description": "Create a new network on your ZeroTier account. [See docs here](https://docs.zerotier.com/central/v1/#operation/newNetwork)",
+  "type": "action",
+  "version": "0.0.4"
+}

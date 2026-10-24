@@ -1,0 +1,7 @@
+{
+  "key": "sellercloud-list-purchaser-options",
+  "name": "List Purchaser Options",
+  "description": "Retrieves available options for the Purchaser field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "slack_v2-edit-message",
+  "name": "Edit Message",
+  "description": "Edit an existing message.",
+  "type": "action",
+  "version": "0.0.16"
+}

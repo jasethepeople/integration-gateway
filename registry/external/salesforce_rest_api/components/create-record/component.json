@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-create-record",
+  "name": "Create Record",
+  "description": "Create a Salesforce record of any object type.",
+  "type": "action",
+  "version": "1.0.1"
+}

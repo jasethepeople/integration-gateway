@@ -1,0 +1,26 @@
+{
+  "app": "copperx",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "environment": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "copperx-create-customer",
+    "copperx-create-invoice",
+    "copperx-list-customer-id-options",
+    "copperx-customer-subscription-created",
+    "copperx-invoice-paid"
+  ]
+}

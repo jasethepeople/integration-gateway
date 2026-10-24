@@ -1,0 +1,30 @@
+{
+  "app": "docuwriter_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "sourceCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "filename": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "additionalInstructions": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "docuwriter_ai-generate-code-optimization",
+    "docuwriter_ai-generate-documentation",
+    "docuwriter_ai-generate-tests",
+    "docuwriter_ai-generate-uml-diagram",
+    "docuwriter_ai-list-generations"
+  ]
+}

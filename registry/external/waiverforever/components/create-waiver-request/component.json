@@ -1,0 +1,7 @@
+{
+  "key": "waiverforever-create-waiver-request",
+  "name": "Create Waiver Request",
+  "description": "Create waiver request. [See the docs here](https://docs.waiverforever.com/?javascript--nodejs#create-waiver-request)",
+  "type": "action",
+  "version": "0.0.2"
+}

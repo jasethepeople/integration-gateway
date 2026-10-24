@@ -1,0 +1,7 @@
+{
+  "key": "contentgroove-new-media-processing-finished-instant",
+  "name": "New Media Processing Finished (Instant)",
+  "description": "Emit new event when a media is done processing by ContentGroove.",
+  "type": "source",
+  "version": "0.0.1"
+}

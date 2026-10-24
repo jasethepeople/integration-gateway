@@ -1,0 +1,7 @@
+{
+  "key": "qstash-list-endpoints",
+  "name": "List Endpoints",
+  "description": "Lists all your existing QStash endpoints.",
+  "type": "action",
+  "version": "0.0.2"
+}

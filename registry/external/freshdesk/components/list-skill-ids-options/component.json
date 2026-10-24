@@ -1,0 +1,7 @@
+{
+  "key": "freshdesk-list-skill-ids-options",
+  "name": "List Skill IDs Options",
+  "description": "Retrieves available options for the Skill IDs field.",
+  "type": "action",
+  "version": "0.0.3"
+}

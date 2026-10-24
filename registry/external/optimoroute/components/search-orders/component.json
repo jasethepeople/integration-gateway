@@ -1,0 +1,7 @@
+{
+  "key": "optimoroute-search-orders",
+  "name": "Search Orders",
+  "description": "Search for orders in Optimoroute. [See the documentation](https://optimoroute.com/api/#search-orders)",
+  "type": "action",
+  "version": "0.0.2"
+}

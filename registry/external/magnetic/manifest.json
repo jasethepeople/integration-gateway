@@ -1,0 +1,43 @@
+{
+  "app": "magnetic",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "grouping": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "user": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contact": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "company": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "task": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "magnetic-create-contact",
+    "magnetic-create-grouping",
+    "magnetic-create-task",
+    "magnetic-find-task",
+    "magnetic-list-company-options",
+    "magnetic-list-contact-options",
+    "magnetic-list-grouping-options",
+    "magnetic-list-user-options",
+    "magnetic-log-time-on-task",
+    "magnetic-new-task-created"
+  ]
+}

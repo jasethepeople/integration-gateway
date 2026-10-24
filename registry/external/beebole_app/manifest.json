@@ -1,0 +1,24 @@
+{
+  "app": "beebole_app",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "begda": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endda": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "beebole_app-list-companies",
+    "beebole_app-list-untimed-employees",
+    "beebole_app-run-report"
+  ]
+}

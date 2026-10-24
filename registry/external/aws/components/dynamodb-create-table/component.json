@@ -1,0 +1,7 @@
+{
+  "key": "aws-dynamodb-create-table",
+  "name": "DynamoDB - Create Table",
+  "description": "The data type of the sort key",
+  "type": "action",
+  "version": "0.2.3"
+}

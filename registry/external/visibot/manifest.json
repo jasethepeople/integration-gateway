@@ -1,0 +1,59 @@
+{
+  "app": "visibot",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "language": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "resizeForSocialMedia": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "captionsFontColor": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "captionsHighlightColor": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "captionsOutlineColor": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "captionsPosition": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "captionsFontSize": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "captionsFontFamily": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "captionsAddEmojis": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "captionsOutlineThickness": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "callback": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "auth_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "visibot-create-video",
+    "visibot-get-video-status"
+  ]
+}

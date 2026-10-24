@@ -1,0 +1,7 @@
+{
+  "key": "godial-add-contact",
+  "name": "Add Contact",
+  "description": "Adds a contact. [See docs here](https://godial.stoplight.io/docs/godial/b3A6MzAzMTY2Mg-contact-add)",
+  "type": "action",
+  "version": "0.0.3"
+}

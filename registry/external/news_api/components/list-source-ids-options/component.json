@@ -1,0 +1,7 @@
+{
+  "key": "news_api-list-source-ids-options",
+  "name": "List Source IDs Options",
+  "description": "Retrieves available options for the Source IDs field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "omnisend-new-contact-created",
+  "name": "New Contact Created",
+  "description": "Emit new event each time a new contact is created in Omnisend.",
+  "type": "source",
+  "version": "0.0.1"
+}

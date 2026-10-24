@@ -1,0 +1,7 @@
+{
+  "key": "rumi_ai-get-memory-threads",
+  "name": "Get Memory Threads",
+  "description": "Retrieve memory threads. [See the documentation](https://rumiai.notion.site/Rumi-Public-API-Authentication-02055b7286874bd7b355862f1abe48d9)",
+  "type": "action",
+  "version": "0.0.2"
+}

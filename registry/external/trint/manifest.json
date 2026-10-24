@@ -1,0 +1,32 @@
+{
+  "app": "trint",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "workspaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "folderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "transcriptId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "trint-get-transcript",
+    "trint-list-transcript-id-options",
+    "trint-list-workspace-id-options",
+    "trint-upload-file",
+    "trint-new-transcript-complete",
+    "trint-new-transcript-verified",
+    "trint-new-transcript-version"
+  ]
+}

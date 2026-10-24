@@ -1,0 +1,7 @@
+{
+  "key": "hubspot-add-note-to-contact",
+  "name": "Add Note to Contact",
+  "description": "MCP and AI agents: **Prefer this action** when the user wants to **leave a note on a HubSpot contact** using a **contact ID** and note text. ",
+  "type": "action",
+  "version": "0.0.6"
+}

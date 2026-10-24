@@ -1,0 +1,7 @@
+{
+  "key": "samsara-create-contact",
+  "name": "Create Contact",
+  "description": "Adds a new contact to the organization. [See the documentation](https://developers.samsara.com/reference/createcontact)",
+  "type": "action",
+  "version": "0.0.2"
+}

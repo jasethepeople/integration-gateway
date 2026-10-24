@@ -1,0 +1,7 @@
+{
+  "key": "dataforseo-list-language-code-options",
+  "name": "List Language Code Options",
+  "description": "Retrieves available options for the Language Code field.",
+  "type": "action",
+  "version": "0.0.1"
+}

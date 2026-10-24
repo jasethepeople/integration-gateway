@@ -1,0 +1,7 @@
+{
+  "key": "spoonacular-create-meal-plan",
+  "name": "Create Meal Plan",
+  "description": "Creates a meal plan. [See docs here](https://spoonacular.com/food-api/docs#Generate-Meal-Plan)",
+  "type": "action",
+  "version": "0.0.2"
+}

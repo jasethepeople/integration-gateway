@@ -1,0 +1,7 @@
+{
+  "key": "shortcut-create-story",
+  "name": "Create Story",
+  "description": "Creates a new story in your Shortcut account. See [Create Story](https://shortcut.com/api/rest/v3#Create-Story) in Shortcut Rest API, V3 reference for endpoint documentation.",
+  "type": "action",
+  "version": "1.0.2"
+}

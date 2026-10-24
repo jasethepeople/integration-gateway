@@ -1,0 +1,23 @@
+import common from "../../shared/sources/common/http-based/common-predefined-module.mjs";
+import crudOps from "../../shared/sources/common/http-based/common-crud-operations.mjs";
+
+export default {
+  ...common,
+  key: "zoho_crm-new-or-updated-lead",
+  name: "New or Updated Lead (Instant)",
+  description: "Emits an event each time a new lead is created or updated in Zoho CRM",
+  version: "0.0.11",
+  type: "source",
+  methods: {
+    ...common.methods,
+    getModuleName() {
+      return "Lead";
+    },
+    getSupportedOps() {
+      return [
+        crudOps.createOpData(),
+        crudOps.editOpData(),
+      ];
+    },
+  },
+};

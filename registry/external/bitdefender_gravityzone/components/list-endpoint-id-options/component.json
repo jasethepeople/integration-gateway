@@ -1,0 +1,7 @@
+{
+  "key": "bitdefender_gravityzone-list-endpoint-id-options",
+  "name": "List Endpoint ID Options",
+  "description": "Retrieves available options for the Endpoint ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

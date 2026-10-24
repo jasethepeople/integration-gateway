@@ -1,0 +1,7 @@
+{
+  "key": "vimeo-new-video-liked",
+  "name": "New Video Liked",
+  "description": "Emit new event each time the user likes a new video on Vimeo.",
+  "type": "source",
+  "version": "0.0.1"
+}

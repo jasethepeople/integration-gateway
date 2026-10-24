@@ -1,0 +1,7 @@
+{
+  "key": "teamgate-list-product-category-options",
+  "name": "List Category Options",
+  "description": "Retrieves available options for the Category field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "talend-get-available-plans-executions",
+  "name": "Get Available Plans Executions",
+  "description": "List all plan executions the user is granted visibility on. For each plan execution returns execution and plan identifiers, start and finish timestamps, execution status and counters on done and planned executables within plan. [See the documentation](https://api.talend.com/apis/processing/2021-03/#operation_get-available-plans-executions).",
+  "type": "action",
+  "version": "0.0.2"
+}

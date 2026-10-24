@@ -1,0 +1,7 @@
+{
+  "key": "trengo-list-all-quick-replies",
+  "name": "List All Quick Replies",
+  "description": "List all quick replies. [See the documentation](https://developers.trengo.com/reference/list-all-quick-replies)",
+  "type": "action",
+  "version": "0.0.5"
+}

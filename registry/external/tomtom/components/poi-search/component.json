@@ -1,0 +1,7 @@
+{
+  "key": "tomtom-poi-search",
+  "name": "POI Search",
+  "description": "Search for Points of Interest. [See the documentation](https://developer.tomtom.com/search-api/documentation/search-service/points-of-interest-search)",
+  "type": "action",
+  "version": "0.0.1"
+}

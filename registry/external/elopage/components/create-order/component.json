@@ -1,0 +1,7 @@
+{
+  "key": "elopage-create-order",
+  "name": "Create Order",
+  "description": "Create a new order. See the documentation by importing \"https://api.myablefy.com/api/swagger_doc/\" into the [Swagger editor](https://editor-next.swagger.io/)",
+  "type": "action",
+  "version": "0.0.1"
+}

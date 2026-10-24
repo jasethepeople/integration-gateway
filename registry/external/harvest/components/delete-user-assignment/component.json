@@ -1,0 +1,7 @@
+{
+  "key": "harvest-delete-user-assignment",
+  "name": "Delete User Assignment",
+  "description": "Delete a user assignment from a project (only possible if it has no time entries or expenses). Use **List User Assignments** to find IDs. Example: call with projectId and userAssignmentId to unstaff that person from the project. [See the documentation](https://help.getharvest.com/api-v2/projects-api/projects/user-assignments/#delete-a-user-assignment).",
+  "type": "action",
+  "version": "0.0.1"
+}

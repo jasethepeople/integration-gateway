@@ -1,0 +1,7 @@
+{
+  "key": "qntrl-new-job-comment",
+  "name": "New Comment Posted",
+  "description": "Emit new event when a comment is posted to a job. [See the documentation](https://core.qntrl.com/apidoc.html?type=reference&module=jobs&action=GetAllComments)",
+  "type": "source",
+  "version": "0.0.1"
+}

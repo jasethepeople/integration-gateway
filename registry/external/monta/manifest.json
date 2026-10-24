@@ -1,0 +1,148 @@
+{
+  "app": "monta",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "orderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "returnId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "reference": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sku": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "inboundForecasts": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "supplierCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "comment": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "warehouseDisplayName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "allocateStockOnDelivery": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "expectedDeliveryDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "street": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "houseNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "houseNumberAddition": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "postalCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "city": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "state": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "countryCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "company": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "middleName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phoneNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emailAddress": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "additionalFields": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "password": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "monta-add-order-colli",
+    "monta-approve-inbound-forecasts",
+    "monta-cancel-order",
+    "monta-create-inbound-forecast-group",
+    "monta-create-order",
+    "monta-create-rma-link",
+    "monta-create-shipping-label",
+    "monta-delete-inbound-forecast-group",
+    "monta-download-shipping-label",
+    "monta-forget-order",
+    "monta-get-inbound-forecast-group",
+    "monta-get-inbound-forecast",
+    "monta-get-order",
+    "monta-get-return",
+    "monta-list-inbound-forecast-events",
+    "monta-list-inbound-forecast-groups",
+    "monta-list-inbound-forecasts-by-product-sku",
+    "monta-list-inbounds",
+    "monta-list-order-batches",
+    "monta-list-order-colli",
+    "monta-list-order-events-since-id",
+    "monta-list-order-events",
+    "monta-list-order-id-options",
+    "monta-list-order-returns",
+    "monta-list-product-stock-changes",
+    "monta-list-return-forecasts",
+    "monta-list-return-labels",
+    "monta-list-shipping-labels",
+    "monta-list-updated-orders",
+    "monta-update-inbound-forecast-group",
+    "monta-update-order",
+    "monta-validate-address"
+  ],
+  "npmImports": [
+    "fs"
+  ]
+}

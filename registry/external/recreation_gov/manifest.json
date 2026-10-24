@@ -1,0 +1,37 @@
+{
+  "app": "recreation_gov",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "recAreaId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "campsiteId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "activities": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "states": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "recreation_gov-get-recreation-area",
+    "recreation_gov-list-activities-options",
+    "recreation_gov-list-campsite-id-options",
+    "recreation_gov-list-rec-area-id-options",
+    "recreation_gov-search-campsites",
+    "recreation_gov-search-recreation-areas",
+    "recreation_gov-campsite-availability-changed",
+    "recreation_gov-new-recreation-area-added"
+  ]
+}

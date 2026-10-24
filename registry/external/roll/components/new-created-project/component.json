@@ -1,0 +1,7 @@
+{
+  "key": "roll-new-created-project",
+  "name": "New Created Project",
+  "description": "Emit new event when a project is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

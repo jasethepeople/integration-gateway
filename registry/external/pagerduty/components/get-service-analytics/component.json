@@ -1,0 +1,7 @@
+{
+  "key": "pagerduty-get-service-analytics",
+  "name": "Get Service Analytics",
+  "description": "Get incident volume and MTTR (mean time to resolve) metrics for one or more services over a time range.",
+  "type": "action",
+  "version": "0.0.2"
+}

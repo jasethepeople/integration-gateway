@@ -1,0 +1,7 @@
+{
+  "key": "bingx-custom-calculate-leveraged-position",
+  "name": "BingX Custom Calculate Leveraged Position",
+  "description": "Calculate leveraged position based on entry, stop price and account balance",
+  "type": "action",
+  "version": "0.0.5"
+}

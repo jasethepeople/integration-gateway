@@ -1,0 +1,7 @@
+{
+  "key": "contentstack-publish-entry-instant",
+  "name": "New Entry Published (Instant)",
+  "description": "Emit new event when an entry is published in ContentStack.",
+  "type": "source",
+  "version": "0.0.1"
+}

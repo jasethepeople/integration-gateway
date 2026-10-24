@@ -1,0 +1,7 @@
+{
+  "key": "moodle-get-course-update",
+  "name": "Get a Course Update",
+  "description": "Checks if there are any updates affecting the current user in a specified Moodle course since a given timestamp. [See the documentation](https://moodledev.io/docs/5.2)",
+  "type": "action",
+  "version": "0.0.1"
+}

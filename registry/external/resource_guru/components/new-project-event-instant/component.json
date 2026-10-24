@@ -1,0 +1,7 @@
+{
+  "key": "resource_guru-new-project-event-instant",
+  "name": "New Project Event (Instant)",
+  "description": "Emit new event when a project is created, updated or deleted.",
+  "type": "source",
+  "version": "0.0.1"
+}

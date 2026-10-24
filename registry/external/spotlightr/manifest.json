@@ -1,0 +1,29 @@
+{
+  "app": "spotlightr",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "videoGroup": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "videoId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "spotlightr-create-video",
+    "spotlightr-delete-videos",
+    "spotlightr-list-video-group-options",
+    "spotlightr-video-viewed"
+  ],
+  "npmImports": [
+    "axios",
+    "form-data"
+  ]
+}

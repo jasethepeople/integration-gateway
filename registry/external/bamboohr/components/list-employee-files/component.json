@@ -1,0 +1,7 @@
+{
+  "key": "bamboohr-list-employee-files",
+  "name": "List Employee Files",
+  "description": "List file metadata (grouped by category) for an employee. Use the returned file IDs with **Get Employee File**. Run **Get Employees Directory** to find the employee ID. [See the documentation](https://documentation.bamboohr.com/reference/list-employee-files)",
+  "type": "action",
+  "version": "0.0.1"
+}

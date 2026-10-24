@@ -1,0 +1,7 @@
+{
+  "key": "sendspark-create-dynamic-video",
+  "name": "Create Dynamic Video",
+  "description": "Creates a new dynamic video campaign. [See the documentation](https://help.sendspark.com/en/articles/9051823-api-automatically-create-dynamic-videos-via-api-integration)",
+  "type": "action",
+  "version": "0.0.2"
+}

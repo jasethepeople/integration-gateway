@@ -1,0 +1,7 @@
+{
+  "key": "invision_community-new-forum-topic-instant",
+  "name": "New Forum Topic (Instant)",
+  "description": "Emit new event when a new topic is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

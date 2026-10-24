@@ -1,0 +1,7 @@
+{
+  "key": "lastpass-list-username-options",
+  "name": "List Username Options",
+  "description": "Retrieves available options for the Username field.",
+  "type": "action",
+  "version": "0.0.1"
+}

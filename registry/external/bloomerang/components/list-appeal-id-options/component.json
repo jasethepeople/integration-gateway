@@ -1,0 +1,7 @@
+{
+  "key": "bloomerang-list-appeal-id-options",
+  "name": "List Appeal Options",
+  "description": "Retrieves available options for the Appeal field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,15 @@
+{
+  "app": "pingbell",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pingbell-list-pingbell-id-options",
+    "pingbell-send-notification"
+  ]
+}

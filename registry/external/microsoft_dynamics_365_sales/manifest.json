@@ -1,0 +1,71 @@
+{
+  "app": "microsoft_dynamics_365_sales",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "solutionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "opportunityId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "appointmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "appointmentCategory": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "microsoft_dynamics_365_sales-create-appointment",
+    "microsoft_dynamics_365_sales-create-custom-entity",
+    "microsoft_dynamics_365_sales-find-contact",
+    "microsoft_dynamics_365_sales-get-account",
+    "microsoft_dynamics_365_sales-list-accounts",
+    "microsoft_dynamics_365_sales-list-appointment-categories",
+    "microsoft_dynamics_365_sales-list-appointment-category-options",
+    "microsoft_dynamics_365_sales-list-appointments",
+    "microsoft_dynamics_365_sales-list-solution-id-options",
+    "microsoft_dynamics_365_sales-search-accounts",
+    "microsoft_dynamics_365_sales-update-account",
+    "microsoft_dynamics_365_sales-update-appointment",
+    "microsoft_dynamics_365_sales-account-ownership-changed",
+    "microsoft_dynamics_365_sales-account-status-changed",
+    "microsoft_dynamics_365_sales-contact-added-to-account",
+    "microsoft_dynamics_365_sales-new-account-activity",
+    "microsoft_dynamics_365_sales-new-account-created",
+    "microsoft_dynamics_365_sales-new-opportunity-activity",
+    "microsoft_dynamics_365_sales-new-opportunity-created",
+    "microsoft_dynamics_365_sales-opportunity-close-date-updated",
+    "microsoft_dynamics_365_sales-opportunity-close-probability-updated",
+    "microsoft_dynamics_365_sales-opportunity-contact-changed",
+    "microsoft_dynamics_365_sales-opportunity-estimated-value-updated",
+    "microsoft_dynamics_365_sales-opportunity-marked-won-or-lost",
+    "microsoft_dynamics_365_sales-opportunity-ownership-changed",
+    "microsoft_dynamics_365_sales-opportunity-reopened",
+    "microsoft_dynamics_365_sales-opportunity-stage-updated"
+  ],
+  "npmImports": [
+    "pluralize"
+  ]
+}

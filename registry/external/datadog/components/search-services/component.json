@@ -1,0 +1,7 @@
+{
+  "key": "datadog-search-services",
+  "name": "Search Services",
+  "description": "List services from Datadog's Service Catalog",
+  "type": "action",
+  "version": "1.0.2"
+}

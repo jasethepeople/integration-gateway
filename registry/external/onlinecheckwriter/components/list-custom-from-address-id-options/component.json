@@ -1,0 +1,7 @@
+{
+  "key": "onlinecheckwriter-list-custom-from-address-id-options",
+  "name": "List Custom From Address ID Options",
+  "description": "Retrieves available options for the Custom From Address ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

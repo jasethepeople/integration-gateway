@@ -1,0 +1,7 @@
+{
+  "key": "docugenerate-new-template",
+  "name": "New Template",
+  "description": "Emit new event when a new template is created. [See the documentation](https://api.docugenerate.com/#/Template/queryTemplates)",
+  "type": "source",
+  "version": "0.0.2"
+}

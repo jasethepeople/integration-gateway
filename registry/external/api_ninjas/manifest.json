@@ -1,0 +1,28 @@
+{
+  "app": "api_ninjas",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "domain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "length": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "address": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "api_ninjas-check-domain",
+    "api_ninjas-generate-password",
+    "api_ninjas-ip-lookup"
+  ]
+}

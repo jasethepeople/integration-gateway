@@ -1,0 +1,7 @@
+{
+  "key": "postmark-send-single-email",
+  "name": "Send Single Email",
+  "description": "Send a single email with Postmark [See the documentation](https://postmarkapp.com/developer/api/email-api#send-a-single-email)",
+  "type": "action",
+  "version": "0.2.5"
+}

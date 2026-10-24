@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_outlook-create-contact",
+  "name": "Create Contact",
+  "description": "Add a contact to the root Contacts folder, [See the documentation](https://docs.microsoft.com/en-us/graph/api/user-post-contacts)",
+  "type": "action",
+  "version": "0.0.34"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "shadertoy-search-shaders",
+  "name": "Search Shaders",
+  "description": "Returns an array of shader IDs based on the query string. [See the documentation](https://www.shadertoy.com/howto)",
+  "type": "action",
+  "version": "0.0.2"
+}

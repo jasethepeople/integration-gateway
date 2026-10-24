@@ -1,0 +1,7 @@
+{
+  "key": "onedesk-find-project",
+  "name": "Find Project",
+  "description": "Search for a project/space by name or ID. [See the documentation](https://www.onedesk.com/dev/).",
+  "type": "action",
+  "version": "0.0.3"
+}

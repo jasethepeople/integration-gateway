@@ -1,0 +1,7 @@
+{
+  "key": "helpspot-list-email-from-options",
+  "name": "List Send Email From Options",
+  "description": "Retrieves available options for the Send Email From field.",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "cohere_platform-classify-text",
+  "name": "Classify Text",
+  "description": "This action makes a prediction about which label fits the specified text inputs best. [See the documentation](https://docs.cohere.com/reference/classify-1)",
+  "type": "action",
+  "version": "0.1.1"
+}

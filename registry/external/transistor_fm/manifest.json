@@ -1,0 +1,27 @@
+{
+  "app": "transistor_fm",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "showId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "transistor_fm-create-subscriber",
+    "transistor_fm-list-show-id-options",
+    "transistor_fm-new-event"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

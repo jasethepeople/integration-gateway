@@ -1,0 +1,7 @@
+{
+  "key": "oyster-new-engagement",
+  "name": "New Engagement",
+  "description": "Emit new event when a new engagement is added. [See the documentation](https://docs.oysterhr.com/reference/get_v1-engagements)",
+  "type": "source",
+  "version": "0.0.1"
+}

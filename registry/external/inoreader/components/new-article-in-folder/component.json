@@ -1,0 +1,7 @@
+{
+  "key": "inoreader-new-article-in-folder",
+  "name": "New Article In Folder",
+  "description": "Emit new event when a new article is added to a folder. [See the Documentation](https://www.inoreader.com/developers/stream-contents)",
+  "type": "source",
+  "version": "0.0.1"
+}

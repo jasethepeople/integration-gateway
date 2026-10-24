@@ -1,0 +1,7 @@
+{
+  "key": "seqera-create-action",
+  "name": "Create Pipeline Action",
+  "description": "Creates a new pipeline action in Seqera. [See the documentation](https://docs.seqera.io/platform/23.3.0/api/overview)",
+  "type": "action",
+  "version": "0.0.3"
+}

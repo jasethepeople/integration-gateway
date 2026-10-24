@@ -1,0 +1,7 @@
+{
+  "key": "alerty-notify-devices",
+  "name": "Notify Devices",
+  "description": "Sends a notification to active devices. [See the documentation](https://alerty.dev/api/notify)",
+  "type": "action",
+  "version": "0.0.3"
+}

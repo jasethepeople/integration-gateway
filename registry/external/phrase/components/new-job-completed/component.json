@@ -1,0 +1,7 @@
+{
+  "key": "phrase-new-job-completed",
+  "name": "New Job Completed (Instant)",
+  "description": "Emit new event when each job is completed.",
+  "type": "source",
+  "version": "0.0.1"
+}

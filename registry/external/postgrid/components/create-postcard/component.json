@@ -1,0 +1,7 @@
+{
+  "key": "postgrid-create-postcard",
+  "name": "Create Postcard",
+  "description": "Creates a new postcard in PostGrid. [See the documentation](https://docs.postgrid.com/#fe8c4cd6-7617-4023-9437-669fa847ccc1)",
+  "type": "action",
+  "version": "0.0.3"
+}

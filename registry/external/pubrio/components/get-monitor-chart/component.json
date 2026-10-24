@@ -1,0 +1,7 @@
+{
+  "key": "pubrio-get-monitor-chart",
+  "name": "Get Monitor Chart",
+  "description": "Get chart data for a specific monitor over a date range. [See the documentation](https://docs.pubrio.com/en/api-reference/endpoint/monitors/statistics_chart)",
+  "type": "action",
+  "version": "0.0.1"
+}

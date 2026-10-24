@@ -1,0 +1,7 @@
+{
+  "key": "changes_page-list-posts",
+  "name": "List Posts",
+  "description": "Retrieve a list of posts from Changes Page. [See the documentation](https://docs.changes.page/docs/api/page#get-all-posts)",
+  "type": "action",
+  "version": "0.0.2"
+}

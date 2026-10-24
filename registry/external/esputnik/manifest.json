@@ -1,0 +1,59 @@
+{
+  "app": "esputnik",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "segment": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contact": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxRequests": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "address": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "town": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "region": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "postcode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "esputnik-create-contact",
+    "esputnik-send-event",
+    "esputnik-subscribe-contact",
+    "esputnik-update-contact",
+    "esputnik-new-contact-in-segment",
+    "esputnik-new-contact"
+  ]
+}

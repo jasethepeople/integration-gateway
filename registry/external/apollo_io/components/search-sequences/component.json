@@ -1,0 +1,7 @@
+{
+  "key": "apollo_io-search-sequences",
+  "name": "Search For Sequences",
+  "description": "Search for sequences in Apollo.io. [See the documentation](https://apolloio.github.io/apollo-api-docs/?shell#search-for-sequences)",
+  "type": "action",
+  "version": "0.0.8"
+}

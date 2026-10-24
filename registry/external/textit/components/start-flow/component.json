@@ -1,0 +1,7 @@
+{
+  "key": "textit-start-flow",
+  "name": "Start Flow",
+  "description": "Starts a flow. [See docs here](https://textit.in/api/v2/flow_starts)",
+  "type": "action",
+  "version": "0.0.2"
+}

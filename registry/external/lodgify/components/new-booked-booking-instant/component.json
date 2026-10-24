@@ -1,0 +1,7 @@
+{
+  "key": "lodgify-new-booked-booking-instant",
+  "name": "New Booked Booking (Instant)",
+  "description": "Emit new event when a new booking is created with the status 'Booked'.",
+  "type": "source",
+  "version": "0.0.1"
+}

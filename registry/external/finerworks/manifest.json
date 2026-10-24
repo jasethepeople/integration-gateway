@@ -1,0 +1,73 @@
+{
+  "app": "finerworks",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "address": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "city": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "stateCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "province": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "zipPostalCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "countryCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productQty": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "productSku": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "web_api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "app_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "finerworks-get-prices",
+    "finerworks-get-product-details",
+    "finerworks-list-product-sku-options",
+    "finerworks-validate-address"
+  ]
+}

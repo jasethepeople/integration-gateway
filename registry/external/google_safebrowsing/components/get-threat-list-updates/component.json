@@ -1,0 +1,7 @@
+{
+  "key": "google_safebrowsing-get-threat-list-updates",
+  "name": "Get Threat List Updates",
+  "description": "Get the latest threat list update information from Google Safe Browsing API. [See the documentation](https://developers.google.com/safe-browsing/v4/reference/rest/v4/threatListUpdates/fetch#ListUpdateRequest)",
+  "type": "action",
+  "version": "0.0.2"
+}

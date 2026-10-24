@@ -1,0 +1,159 @@
+{
+  "app": "freshdesk",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "companyId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "ticketId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "agentId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "ticketStatus": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "ticketPriority": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "contactEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ticketFieldId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "skillIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "roleIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "categoryId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "folderId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "articleId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "ticketTags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "fromEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "threadId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cannedResponseFolderId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "cannedResponseId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "freshdesk-add-note-to-ticket",
+    "freshdesk-add-ticket-tags",
+    "freshdesk-assign-ticket-to-agent",
+    "freshdesk-assign-ticket-to-group",
+    "freshdesk-close-ticket",
+    "freshdesk-create-agent",
+    "freshdesk-create-company",
+    "freshdesk-create-contact",
+    "freshdesk-create-message-for-thread",
+    "freshdesk-create-reply",
+    "freshdesk-create-solution-article",
+    "freshdesk-create-thread",
+    "freshdesk-create-ticket-field",
+    "freshdesk-create-ticket",
+    "freshdesk-delete-solution-article",
+    "freshdesk-delete-ticket-summary",
+    "freshdesk-delete-ticket",
+    "freshdesk-download-attachment",
+    "freshdesk-forward-ticket",
+    "freshdesk-get-agent",
+    "freshdesk-get-canned-response",
+    "freshdesk-get-contact",
+    "freshdesk-get-folder-canned-responses",
+    "freshdesk-get-solution-article",
+    "freshdesk-get-ticket",
+    "freshdesk-list-agent-id-options",
+    "freshdesk-list-agents",
+    "freshdesk-list-all-folders",
+    "freshdesk-list-all-tickets",
+    "freshdesk-list-canned-response-folder-id-options",
+    "freshdesk-list-category-folders",
+    "freshdesk-list-company-id-options",
+    "freshdesk-list-folder-articles",
+    "freshdesk-list-folder-canned-responses",
+    "freshdesk-list-from-email-options",
+    "freshdesk-list-group-id-options",
+    "freshdesk-list-role-ids-options",
+    "freshdesk-list-skill-ids-options",
+    "freshdesk-list-solution-categories",
+    "freshdesk-list-ticket-conversations",
+    "freshdesk-list-ticket-field-id-options",
+    "freshdesk-list-ticket-fields",
+    "freshdesk-list-ticket-id-options",
+    "freshdesk-remove-ticket-tags",
+    "freshdesk-reply-to-forward",
+    "freshdesk-search-solution-article",
+    "freshdesk-search-tickets",
+    "freshdesk-set-ticket-priority",
+    "freshdesk-set-ticket-status",
+    "freshdesk-set-ticket-tags",
+    "freshdesk-update-agent",
+    "freshdesk-update-contact",
+    "freshdesk-update-solution-article",
+    "freshdesk-update-ticket-field",
+    "freshdesk-update-ticket-summary",
+    "freshdesk-update-ticket",
+    "freshdesk-view-ticket-summary",
+    "freshdesk-contact-updated",
+    "freshdesk-new-contact",
+    "freshdesk-new-ticket",
+    "freshdesk-ticket-updated"
+  ],
+  "npmImports": [
+    "form-data",
+    "fs",
+    "moment"
+  ]
+}

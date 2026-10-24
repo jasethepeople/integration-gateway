@@ -1,0 +1,7 @@
+{
+  "key": "rinkel-list-call-id-options",
+  "name": "List Call ID Options",
+  "description": "Retrieves available options for the Call ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "paradym-new-verification-response-instant",
+  "name": "New Verification Response (Instant)",
+  "description": "Emit new event when a verification results in a confirmed response from the user.",
+  "type": "source",
+  "version": "0.0.1"
+}

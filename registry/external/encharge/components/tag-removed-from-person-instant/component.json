@@ -1,0 +1,7 @@
+{
+  "key": "encharge-tag-removed-from-person-instant",
+  "name": "Tag Removed from Person (Instant)",
+  "description": "Emit new event when a tag is removed from a person.",
+  "type": "source",
+  "version": "0.0.1"
+}

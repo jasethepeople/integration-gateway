@@ -1,0 +1,24 @@
+{
+  "app": "demio",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "demio-create-join-link",
+    "demio-get-event",
+    "demio-get-events",
+    "demio-new-participant"
+  ],
+  "npmImports": [
+    "dayjs"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "aidaform-new-form",
+  "name": "New Form Created",
+  "description": "Emit new event when a new form is created. [See the documentation](https://app.swaggerhub.com/apis/aidaform/AidaForm/1.1.0#/default/RetrieveFormsList)",
+  "type": "source",
+  "version": "0.0.1"
+}

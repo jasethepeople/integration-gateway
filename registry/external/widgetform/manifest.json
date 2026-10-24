@@ -1,0 +1,19 @@
+{
+  "app": "widgetform",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "form": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "widgetform-get-recent-submissions",
+    "widgetform-new-submission-instant"
+  ]
+}

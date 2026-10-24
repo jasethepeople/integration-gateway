@@ -1,0 +1,30 @@
+{
+  "app": "meteomatics_weather_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "validDateTime": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "parameters": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "locations": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "format": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "meteomatics_weather_api-get-weather-data"
+  ]
+}

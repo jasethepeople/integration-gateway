@@ -1,0 +1,7 @@
+{
+  "key": "similarweb_digitalrank_api-get-subscription-status",
+  "name": "Get Subscription Status",
+  "description": "Returns the number of monthly data points remaining in your Similarweb account. [See the documentation](https://developers.similarweb.com/docs/digital-rank-api)",
+  "type": "action",
+  "version": "0.0.2"
+}

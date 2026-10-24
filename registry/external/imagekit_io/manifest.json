@@ -1,0 +1,24 @@
+{
+  "app": "imagekit_io",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "fileId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "private_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "imagekit_io-get-file-details",
+    "imagekit_io-list-file-id-options",
+    "imagekit_io-search-files",
+    "imagekit_io-upload-image"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

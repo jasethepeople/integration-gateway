@@ -1,0 +1,7 @@
+{
+  "key": "deel-list-contract-adjustments",
+  "name": "List Contract Adjustments",
+  "description": "List all adjustments (bonuses, deductions, expenses, etc.) for a specific Deel contract.",
+  "type": "action",
+  "version": "0.0.2"
+}

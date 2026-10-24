@@ -1,0 +1,38 @@
+{
+  "app": "oanda",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "isDemo": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tradeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "instrument": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "personal_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "oanda-create-order",
+    "oanda-get-historical-prices",
+    "oanda-list-trades",
+    "oanda-new-open-position",
+    "oanda-new-open-trade",
+    "oanda-new-transaction"
+  ],
+  "npmImports": [
+    "md5"
+  ]
+}

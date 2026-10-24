@@ -1,0 +1,29 @@
+{
+  "app": "wakatime",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "project": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "language": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "wakatime-fetch-daily-heartbeats",
+    "wakatime-list-language-options",
+    "wakatime-list-project-options",
+    "wakatime-list-projects",
+    "wakatime-log-coding-activity",
+    "wakatime-new-commit-created",
+    "wakatime-new-goal-created",
+    "wakatime-new-project-created"
+  ]
+}

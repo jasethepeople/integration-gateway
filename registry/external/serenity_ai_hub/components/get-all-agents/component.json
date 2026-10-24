@@ -1,0 +1,7 @@
+{
+  "key": "serenity_ai_hub-get-all-agents",
+  "name": "Get All Agents",
+  "description": "Gets a list containing all agents. [See the documentation](https://docs.serenitystar.ai/docs/api/aihub/get-all-agents)",
+  "type": "action",
+  "version": "0.0.1"
+}

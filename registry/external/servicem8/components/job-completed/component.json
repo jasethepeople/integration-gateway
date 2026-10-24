@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-job-completed",
+  "name": "New Job Completed (Instant)",
+  "description": "Emit new event when a job completes. By creating this trigger, any other `Job` triggers will stop working as ServiceM8 will replace any previous ones.",
+  "type": "source",
+  "version": "0.0.3"
+}

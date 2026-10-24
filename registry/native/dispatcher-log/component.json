@@ -1,0 +1,7 @@
+{
+  "key": "native_dispatcher_log",
+  "name": "Native Dispatcher Log",
+  "description": "Appends the received event as a JSONL line to logs/native-events.jsonl (proves native I/O).",
+  "type": "action",
+  "version": "1.0.0"
+}

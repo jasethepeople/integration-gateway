@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_dynamics_365_sales-new-opportunity-activity",
+  "name": "New Opportunity Activity",
+  "description": "Emit new event when a new task or activity is created for an opportunity.",
+  "type": "source",
+  "version": "0.0.5"
+}

@@ -1,0 +1,17 @@
+{
+  "app": "mixpanel",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mixpanel-emit-event-to"
+  ],
+  "npmImports": [
+    "mixpanel"
+  ]
+}

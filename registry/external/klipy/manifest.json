@@ -1,0 +1,39 @@
+{
+  "app": "klipy",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "q": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "locale": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "slug": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "app_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "klipy-get-clip-by-slug",
+    "klipy-get-gif-by-slug",
+    "klipy-get-sticker-by-slug",
+    "klipy-search-clips",
+    "klipy-search-gifs",
+    "klipy-search-stickers"
+  ]
+}

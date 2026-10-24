@@ -1,0 +1,7 @@
+{
+  "key": "kustomer-list-queue-id-options",
+  "name": "List Queue Id Options",
+  "description": "Retrieves available options for the Queue Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

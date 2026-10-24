@@ -1,0 +1,7 @@
+{
+  "key": "cheddar-new-promotion-created",
+  "name": "New Promotion Created",
+  "description": "Emit new event when a new promotion is created. [See the documentation](https://docs.getcheddar.com/#promotions)",
+  "type": "source",
+  "version": "0.0.1"
+}

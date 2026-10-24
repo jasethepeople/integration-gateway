@@ -1,0 +1,7 @@
+{
+  "key": "trawlingweb-search-news",
+  "name": "Search News",
+  "description": "Search for news based on the specified search parameters. [See the documentation](https://dashboard.trawlingweb.com/documentation)",
+  "type": "action",
+  "version": "0.0.1"
+}

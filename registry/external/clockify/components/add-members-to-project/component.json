@@ -1,0 +1,7 @@
+{
+  "key": "clockify-add-members-to-project",
+  "name": "Add Members To Project",
+  "description": "Adds member(s) to a project in Clockify. [See the documentation](https://docs.clockify.me/#tag/Project/operation/updateMemberships)",
+  "type": "action",
+  "version": "0.0.5"
+}

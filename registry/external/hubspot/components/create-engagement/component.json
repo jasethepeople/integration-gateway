@@ -1,0 +1,7 @@
+{
+  "key": "hubspot-create-engagement",
+  "name": "Create Engagement",
+  "description": "Create a **task, meeting, email, call, or note** engagement with optional associations. ",
+  "type": "action",
+  "version": "1.0.1"
+}

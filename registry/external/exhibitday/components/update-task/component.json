@@ -1,0 +1,7 @@
+{
+  "key": "exhibitday-update-task",
+  "name": "Update Task",
+  "description": "Updates an existing task in ExhibitDay. [See the documentation](https://api.exhibitday.com/Help/V1?epf=2)",
+  "type": "action",
+  "version": "0.0.2"
+}

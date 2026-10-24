@@ -1,0 +1,7 @@
+{
+  "key": "fraudlabs_pro-status-changed",
+  "name": "Status Changed (Instant)",
+  "description": "Emit new events when the status of an order changes in FraudLabs Pro. [See the documentation](https://www.fraudlabspro.com/developer/webhook)",
+  "type": "source",
+  "version": "0.0.3"
+}

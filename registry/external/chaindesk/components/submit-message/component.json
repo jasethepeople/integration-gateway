@@ -1,0 +1,7 @@
+{
+  "key": "chaindesk-submit-message",
+  "name": "Submit Message",
+  "description": "Allows the API to send a message input from the user.",
+  "type": "action",
+  "version": "0.0.2"
+}

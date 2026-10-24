@@ -1,0 +1,14 @@
+{
+  "app": "rumble",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "live_streaming_api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "rumble-new-live-stream"
+  ]
+}

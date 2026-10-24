@@ -1,0 +1,35 @@
+{
+  "app": "transloadit",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "assemblyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "auth_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "auth_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "transloadit-cancel-assembly",
+    "transloadit-create-assembly",
+    "transloadit-get-assembly-status",
+    "transloadit-list-assembly-id-options",
+    "transloadit-list-template-id-options",
+    "transloadit-new-assembly-completed",
+    "transloadit-new-assembly-error"
+  ],
+  "npmImports": [
+    "transloadit"
+  ]
+}

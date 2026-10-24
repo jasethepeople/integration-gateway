@@ -1,0 +1,40 @@
+{
+  "app": "waiverforever",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "size": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "note": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactInfo": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "template": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "waiverforever-create-waiver-request",
+    "waiverforever-list-template-options",
+    "waiverforever-new-waiver-signed"
+  ]
+}

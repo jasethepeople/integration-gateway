@@ -1,0 +1,7 @@
+{
+  "key": "figma-new-comment",
+  "name": "New Comment (Instant)",
+  "description": "Emit new event when someone comments on a file",
+  "type": "source",
+  "version": "0.0.5"
+}

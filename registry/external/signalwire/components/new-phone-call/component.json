@@ -1,0 +1,7 @@
+{
+  "key": "signalwire-new-phone-call",
+  "name": "New Phone Call",
+  "description": "Emits an event when a new phone call has been logged",
+  "type": "source",
+  "version": "0.0.1"
+}

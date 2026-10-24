@@ -1,0 +1,21 @@
+{
+  "app": "unstructured",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "unstructured-extract-file"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

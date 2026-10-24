@@ -1,0 +1,7 @@
+{
+  "key": "dropbox-download-and-export",
+  "name": "Download and Export",
+  "description": "Export a file from a user's Dropbox. If file is not exportable, it will be downloaded in original format. [See the documentation](https://www.dropbox.com/developers/documentation/http/documentation#files-export)",
+  "type": "action",
+  "version": "0.0.2"
+}

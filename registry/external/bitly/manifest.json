@@ -1,0 +1,19 @@
+{
+  "app": "bitly",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "bitly-create-bitlink",
+    "bitly-expand-bitlink",
+    "bitly-find-bitlink",
+    "bitly-list-bitlink-by-group",
+    "bitly-shorten",
+    "bitly-update-bitlink"
+  ]
+}

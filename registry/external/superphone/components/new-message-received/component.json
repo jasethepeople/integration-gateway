@@ -1,0 +1,7 @@
+{
+  "key": "superphone-new-message-received",
+  "name": "New Message Received",
+  "description": "Triggered when a new message is received. [See the documentation](https://api.superphone.io/docs/webhooksubscription.doc.html)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,20 @@
+{
+  "app": "aidaform",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "formId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "aidaform-list-form-id-options",
+    "aidaform-new-form-response",
+    "aidaform-new-form"
+  ]
+}

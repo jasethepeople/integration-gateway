@@ -1,0 +1,7 @@
+{
+  "key": "pingbell-list-pingbell-id-options",
+  "name": "List Pingbell ID Options",
+  "description": "Retrieves available options for the Pingbell ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

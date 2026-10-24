@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-soql-query",
+  "name": "SOQL Query",
+  "description": "Execute a SOQL query against Salesforce. This is the **primary tool for querying Salesforce data** — use for all structured queries.",
+  "type": "action",
+  "version": "0.0.4"
+}

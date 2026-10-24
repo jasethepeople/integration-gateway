@@ -1,0 +1,20 @@
+{
+  "app": "callpage",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "widgetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "callpage-create-sms",
+    "callpage-list-widget-id-options",
+    "callpage-new-call-event"
+  ]
+}

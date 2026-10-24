@@ -1,0 +1,7 @@
+{
+  "key": "starshipit-print-label",
+  "name": "Print Shipping Label",
+  "description": "Print a shipping label for a specific order. [See the documentation](https://api-docs.starshipit.com/#b6bc3576-a43f-4992-86d8-8fdf57f872f6)",
+  "type": "action",
+  "version": "0.0.2"
+}

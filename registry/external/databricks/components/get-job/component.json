@@ -1,0 +1,7 @@
+{
+  "key": "databricks-get-job",
+  "name": "Get Job",
+  "description": "Retrieves the details for a single job. [See the documentation](https://docs.databricks.com/api/workspace/jobs/get)",
+  "type": "action",
+  "version": "0.0.4"
+}

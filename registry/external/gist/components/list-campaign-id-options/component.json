@@ -1,0 +1,7 @@
+{
+  "key": "gist-list-campaign-id-options",
+  "name": "List Campaign Id Options",
+  "description": "Retrieves available options for the Campaign Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

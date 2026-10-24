@@ -1,0 +1,7 @@
+{
+  "key": "circle-new-post",
+  "name": "New Post Published",
+  "description": "Emit new event each time a new post gets published in the community.",
+  "type": "source",
+  "version": "0.0.3"
+}

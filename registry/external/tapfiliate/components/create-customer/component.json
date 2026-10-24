@@ -1,0 +1,7 @@
+{
+  "key": "tapfiliate-create-customer",
+  "name": "Create Customer",
+  "description": "Creates a new customer in Tapfiliate. [See the documentation](https://tapfiliate.com/docs/rest/#customers-customers-collection-post)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "teamioo-create-task",
+  "name": "Create Task",
+  "description": "Creates a new task in Teamioo. [See the documentation](https://demo.teamioo.com/teamiooapi)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zoho_creator-new-or-updated-record",
+  "name": "New or Updated Record",
+  "description": "",
+  "type": "source",
+  "version": "0.0.3"
+}

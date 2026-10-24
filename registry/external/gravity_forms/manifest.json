@@ -1,0 +1,28 @@
+{
+  "app": "gravity_forms",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "formId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "base_api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "consumer_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "consumer_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "gravity_forms-create-entry",
+    "gravity_forms-list-form-id-options",
+    "gravity_forms-form-submitted"
+  ]
+}

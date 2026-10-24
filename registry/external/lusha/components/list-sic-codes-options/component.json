@@ -1,0 +1,7 @@
+{
+  "key": "lusha-list-sic-codes-options",
+  "name": "List Company SIC Codes Options",
+  "description": "Retrieves available options for the Company SIC Codes field.",
+  "type": "action",
+  "version": "0.0.1"
+}

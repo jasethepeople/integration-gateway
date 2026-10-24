@@ -1,0 +1,7 @@
+{
+  "key": "timeular-list-integration-options",
+  "name": "List Integration Options",
+  "description": "Retrieves available options for the Integration field.",
+  "type": "action",
+  "version": "0.0.1"
+}

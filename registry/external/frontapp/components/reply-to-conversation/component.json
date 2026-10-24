@@ -1,0 +1,7 @@
+{
+  "key": "frontapp-reply-to-conversation",
+  "name": "Reply To Conversation",
+  "description": "Reply to a conversation by sending a message and appending it to the conversation. [See the documentation](https://dev.frontapp.com/reference/post_conversations-conversation-id-messages).",
+  "type": "action",
+  "version": "0.0.10"
+}

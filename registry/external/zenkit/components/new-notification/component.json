@@ -1,0 +1,7 @@
+{
+  "key": "zenkit-new-notification",
+  "name": "New Notification (Instant)",
+  "description": "Emit new event when there is a new notification in Zenkit",
+  "type": "source",
+  "version": "0.0.1"
+}

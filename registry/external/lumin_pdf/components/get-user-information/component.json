@@ -1,0 +1,7 @@
+{
+  "key": "lumin_pdf-get-user-information",
+  "name": "Get User Information",
+  "description": "Get information about the current authenticated user. [See the documentation](https://developers.luminpdf.com/api/get-user-information/)",
+  "type": "action",
+  "version": "0.0.2"
+}

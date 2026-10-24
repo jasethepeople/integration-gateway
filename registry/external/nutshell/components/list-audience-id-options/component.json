@@ -1,0 +1,7 @@
+{
+  "key": "nutshell-list-audience-id-options",
+  "name": "List Audience Id Options",
+  "description": "Retrieves available options for the Audience Id field.",
+  "type": "action",
+  "version": "1.0.0"
+}

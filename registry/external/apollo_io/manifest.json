@@ -1,0 +1,127 @@
+{
+  "app": "apollo_io",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "organizationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactStageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "accountStageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sequenceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emailAccountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ownerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "opportunityId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "opportunityStageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "websiteUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "labelNames": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "address": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "apollo_io-add-contacts-to-sequence",
+    "apollo_io-create-account",
+    "apollo_io-create-contact",
+    "apollo_io-create-opportunity",
+    "apollo_io-create-update-contact",
+    "apollo_io-get-opportunity",
+    "apollo_io-get-organization",
+    "apollo_io-list-account-id-options",
+    "apollo_io-list-contact-id-options",
+    "apollo_io-list-email-account-id-options",
+    "apollo_io-list-label-names-options",
+    "apollo_io-list-opportunity-id-options",
+    "apollo_io-list-opportunity-stage-id-options",
+    "apollo_io-list-organization-job-postings",
+    "apollo_io-list-owner-id-options",
+    "apollo_io-organization-search",
+    "apollo_io-people-enrichment",
+    "apollo_io-people-search",
+    "apollo_io-search-accounts",
+    "apollo_io-search-contacts",
+    "apollo_io-search-news-articles",
+    "apollo_io-search-sequences",
+    "apollo_io-update-account-stage",
+    "apollo_io-update-account",
+    "apollo_io-update-contact-stage",
+    "apollo_io-update-contact",
+    "apollo_io-update-opportunity",
+    "apollo_io-account-created",
+    "apollo_io-account-updated",
+    "apollo_io-contact-created",
+    "apollo_io-contact-updated"
+  ],
+  "npmImports": [
+    "md5"
+  ]
+}

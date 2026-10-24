@@ -1,0 +1,7 @@
+{
+  "key": "papyrs-update-heading",
+  "name": "Update Heading",
+  "description": "Update Heading. [See the docs here](https://about.papyrs.com/@docs/API#Update-Text-box/Heading)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "survicate-list-questions",
+  "name": "List Questions",
+  "description": "Retrieves a list of questions for a specific survey. [See the documentation](https://developers.survicate.com/data-export/survey/)",
+  "type": "action",
+  "version": "0.0.1"
+}

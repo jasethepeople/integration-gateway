@@ -1,0 +1,7 @@
+{
+  "key": "openai-create-thread",
+  "name": "Create Thread (Assistants)",
+  "description": "Creates a thread with optional messages and metadata, and optionally runs the thread using the specified assistant. [See the documentation](https://platform.openai.com/docs/api-reference/threads/createThread)",
+  "type": "action",
+  "version": "0.0.19"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_dynamics_365_sales-opportunity-reopened",
+  "name": "Opportunity Reopened",
+  "description": "Emit new event when an opportunity is reopened.",
+  "type": "source",
+  "version": "0.0.5"
+}

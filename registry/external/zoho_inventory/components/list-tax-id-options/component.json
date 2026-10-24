@@ -1,0 +1,7 @@
+{
+  "key": "zoho_inventory-list-tax-id-options",
+  "name": "List Tax Options",
+  "description": "Retrieves available options for the Tax field.",
+  "type": "action",
+  "version": "0.0.1"
+}

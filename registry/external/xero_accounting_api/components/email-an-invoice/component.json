@@ -1,0 +1,7 @@
+{
+  "key": "xero_accounting_api-email-an-invoice",
+  "name": "Email an Invoice",
+  "description": "Triggers the email of a sales invoice out of Xero.",
+  "type": "action",
+  "version": "0.1.4"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "onlyoffice_docspace-new-file",
+  "name": "New File Created",
+  "description": "Emit new event when a new file is created. [See the documentation](https://api.onlyoffice.com/docspace/api-backend/usage-api/get-root-folders/).",
+  "type": "source",
+  "version": "0.0.2"
+}

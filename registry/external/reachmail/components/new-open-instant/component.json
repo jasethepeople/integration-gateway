@@ -1,0 +1,7 @@
+{
+  "key": "reachmail-new-open-instant",
+  "name": "New Email Open Instant",
+  "description": "Emit new event when a recipient opens an email.",
+  "type": "source",
+  "version": "0.0.1"
+}

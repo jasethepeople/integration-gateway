@@ -1,0 +1,39 @@
+{
+  "app": "serphouse",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "domain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "language": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "locationAlert": {
+      "kind": "propDefinition",
+      "type": "alert"
+    },
+    "locationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dateRange": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "serphouse-google-jobs-search",
+    "serphouse-perform-search"
+  ]
+}

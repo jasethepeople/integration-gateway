@@ -1,0 +1,43 @@
+{
+  "app": "height",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "listIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "assigneeIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "height-create-task",
+    "height-search-tasks",
+    "height-update-task",
+    "height-new-completed-task",
+    "height-new-task-added",
+    "height-new-updated-task"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "app": "apify",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "keyValueStoreId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "actorId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "datasetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "buildTag": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "clean": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "fields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "omit": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "flatten": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "offset": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "apify-get-dataset-items",
+    "apify-get-kvs-record",
+    "apify-list-dataset-id-options",
+    "apify-run-actor",
+    "apify-run-task-synchronously",
+    "apify-scrape-single-url",
+    "apify-set-key-value-store-record",
+    "apify-new-finished-actor-run-instant",
+    "apify-new-finished-task-run-instant"
+  ],
+  "npmImports": [
+    "@apify/consts",
+    "apify-client",
+    "axios"
+  ]
+}

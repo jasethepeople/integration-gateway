@@ -1,0 +1,7 @@
+{
+  "key": "momentum_ams-get-client",
+  "name": "Get Client",
+  "description": "Get data for the client with the specified ID. [See the documentation](https://support.momentumamp.com/nowcerts-rest-api-search-insureds)",
+  "type": "action",
+  "version": "0.0.2"
+}

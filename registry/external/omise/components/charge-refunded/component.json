@@ -1,0 +1,7 @@
+{
+  "key": "omise-charge-refunded",
+  "name": "New Charge Refunded",
+  "description": "Emit new event for each refunded charge through the OPN platform.",
+  "type": "source",
+  "version": "0.0.1"
+}

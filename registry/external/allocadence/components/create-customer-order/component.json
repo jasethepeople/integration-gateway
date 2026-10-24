@@ -1,0 +1,7 @@
+{
+  "key": "allocadence-create-customer-order",
+  "name": "Create Customer Order",
+  "description": "Creates a new customer order. [See the documentation](https://docs.allocadence.com/#tag/customer_order/paths/~1customer-orders/post)",
+  "type": "action",
+  "version": "0.0.2"
+}

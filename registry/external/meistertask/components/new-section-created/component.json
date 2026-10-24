@@ -1,0 +1,7 @@
+{
+  "key": "meistertask-new-section-created",
+  "name": "New Section Created",
+  "description": "Emit new event when a new section is created. [See the docs](https://developers.meistertask.com/reference/get-sections)",
+  "type": "source",
+  "version": "0.0.1"
+}

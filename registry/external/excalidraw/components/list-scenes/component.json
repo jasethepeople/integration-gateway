@@ -1,0 +1,7 @@
+{
+  "key": "excalidraw-list-scenes",
+  "name": "List Scenes",
+  "description": "Returns scenes (whiteboards) in the Excalidraw Plus workspace.",
+  "type": "action",
+  "version": "0.0.2"
+}

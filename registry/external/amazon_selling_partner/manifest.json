@@ -1,0 +1,39 @@
+{
+  "app": "amazon_selling_partner",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "marketplaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "marketplace": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "amazon_selling_partner-check-fba-inventory-levels",
+    "amazon_selling_partner-fetch-orders-by-date-range",
+    "amazon_selling_partner-generate-sales-inventory-reports",
+    "amazon_selling_partner-get-order-details",
+    "amazon_selling_partner-list-inbound-shipments",
+    "amazon_selling_partner-list-marketplace-id-options",
+    "amazon_selling_partner-optimize-product-pricing",
+    "amazon_selling_partner-retrieve-sales-performance-reports",
+    "amazon_selling_partner-new-inbound-shipment-to-fba-created",
+    "amazon_selling_partner-new-order-created"
+  ]
+}

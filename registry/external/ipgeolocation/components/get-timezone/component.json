@@ -1,0 +1,7 @@
+{
+  "key": "ipgeolocation-get-timezone",
+  "name": "Get Timezone",
+  "description": "Retrieve timezone information using a timezone name, IP address, coordinates, city, IATA code, ICAO code, or UN/LOCODE. [See the documentation](https://ipgeolocation.io/documentation/timezone-api.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

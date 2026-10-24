@@ -1,0 +1,21 @@
+{
+  "app": "pdf_api_io",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pdf_api_io-get-template",
+    "pdf_api_io-list-templates",
+    "pdf_api_io-merge-templates",
+    "pdf_api_io-render-template"
+  ]
+}

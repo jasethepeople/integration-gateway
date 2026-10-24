@@ -1,0 +1,40 @@
+{
+  "app": "breeze",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "workspaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "stageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "swimlaneId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "breeze-create-project",
+    "breeze-create-task",
+    "breeze-find-project",
+    "breeze-list-workspace-id-options",
+    "breeze-new-task",
+    "breeze-task-moved",
+    "breeze-task-status-updated"
+  ]
+}

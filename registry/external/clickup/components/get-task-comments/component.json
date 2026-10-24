@@ -1,0 +1,7 @@
+{
+  "key": "clickup-get-task-comments",
+  "name": "Get Task Comments",
+  "description": "Get a task comments. [See the documentation](https://clickup.com/api) in **Comments / Get Task Comments** section.",
+  "type": "action",
+  "version": "0.0.12"
+}

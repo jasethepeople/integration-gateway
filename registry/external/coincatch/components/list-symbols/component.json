@@ -1,0 +1,7 @@
+{
+  "key": "coincatch-list-symbols",
+  "name": "List Symbols",
+  "description": "List all symbols. [See the documentation](https://coincatch.github.io/github.io/en/mix/#get-all-symbols)",
+  "type": "action",
+  "version": "0.0.1"
+}

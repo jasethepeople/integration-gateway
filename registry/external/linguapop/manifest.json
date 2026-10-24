@@ -1,0 +1,20 @@
+{
+  "app": "linguapop",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "languageCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "linguapop-create-test-invitation",
+    "linguapop-list-language-code-options",
+    "linguapop-new-placement-test-result-instant"
+  ]
+}

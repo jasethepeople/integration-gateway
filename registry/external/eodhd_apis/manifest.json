@@ -1,0 +1,50 @@
+{
+  "app": "eodhd_apis",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "exchangeCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fmt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "from": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "order": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "period": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "symbolCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "to": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "eodhd_apis-get-company-financials",
+    "eodhd_apis-list-exchange-code-options",
+    "eodhd_apis-retrieve-stock-prices",
+    "eodhd_apis-search-stock-symbol",
+    "eodhd_apis-financial-report-released",
+    "eodhd_apis-stock-price-updated"
+  ],
+  "npmImports": [
+    "moment"
+  ]
+}

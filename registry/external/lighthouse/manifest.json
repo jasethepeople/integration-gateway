@@ -1,0 +1,25 @@
+{
+  "app": "lighthouse",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "lighthouse-create-milestone",
+    "lighthouse-create-project",
+    "lighthouse-create-ticket",
+    "lighthouse-list-project-id-options",
+    "lighthouse-new-message-created",
+    "lighthouse-new-milestone-created",
+    "lighthouse-new-project-created",
+    "lighthouse-new-ticket-created"
+  ]
+}

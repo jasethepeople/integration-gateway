@@ -1,0 +1,7 @@
+{
+  "key": "beebole_app-run-report",
+  "name": "Run report",
+  "description": "Run a report from Beebole",
+  "type": "action",
+  "version": "0.0.2"
+}

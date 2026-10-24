@@ -1,0 +1,7 @@
+{
+  "key": "teamgate-list-product-id-options",
+  "name": "List Product Id Options",
+  "description": "Retrieves available options for the Product Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

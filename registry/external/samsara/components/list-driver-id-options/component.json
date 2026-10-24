@@ -1,0 +1,7 @@
+{
+  "key": "samsara-list-driver-id-options",
+  "name": "List Driver Id Options",
+  "description": "Retrieves available options for the Driver Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

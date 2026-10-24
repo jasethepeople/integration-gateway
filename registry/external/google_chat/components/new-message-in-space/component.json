@@ -1,0 +1,7 @@
+{
+  "key": "google_chat-new-message-in-space",
+  "name": "New Message in Space",
+  "description": "Emit new event when a new message is posted in a space. [See the documentation](https://developers.google.com/workspace/chat/api/reference/rest/v1/spaces.messages/list)",
+  "type": "source",
+  "version": "0.0.3"
+}

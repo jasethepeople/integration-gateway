@@ -1,0 +1,7 @@
+{
+  "key": "invision_community-list-forum-id-options",
+  "name": "List Forum ID Options",
+  "description": "Retrieves available options for the Forum ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

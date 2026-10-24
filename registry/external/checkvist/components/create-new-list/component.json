@@ -1,0 +1,7 @@
+{
+  "key": "checkvist-create-new-list",
+  "name": "Create New List",
+  "description": "Creates a new list in Checkvist. [See the documentation](https://checkvist.com/auth/api)",
+  "type": "action",
+  "version": "0.0.2"
+}

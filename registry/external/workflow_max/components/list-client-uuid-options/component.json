@@ -1,0 +1,7 @@
+{
+  "key": "workflow_max-list-client-uuid-options",
+  "name": "List Client UUID Options",
+  "description": "Retrieves available options for the Client UUID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

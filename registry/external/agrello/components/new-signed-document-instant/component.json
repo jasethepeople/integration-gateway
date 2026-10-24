@@ -1,0 +1,7 @@
+{
+  "key": "agrello-new-signed-document-instant",
+  "name": "New Signed Document (Instant)",
+  "description": "Emit new event when a given document is signed by all parties.",
+  "type": "source",
+  "version": "0.0.1"
+}

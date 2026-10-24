@@ -1,0 +1,7 @@
+{
+  "key": "gpt_trainer-list-chatbot-uuid-options",
+  "name": "List Chatbot UUID Options",
+  "description": "Retrieves available options for the Chatbot UUID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

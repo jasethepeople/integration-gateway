@@ -1,0 +1,29 @@
+{
+  "app": "mx_technologies",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "metadata": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "client_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mx_technologies-create-account",
+    "mx_technologies-create-user",
+    "mx_technologies-list-user-id-options",
+    "mx_technologies-new-user-created"
+  ]
+}

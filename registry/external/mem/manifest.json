@@ -1,0 +1,19 @@
+{
+  "app": "mem",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "content": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mem-append-mem",
+    "mem-create-mem"
+  ]
+}

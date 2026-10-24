@@ -1,0 +1,7 @@
+{
+  "key": "dear-new-sale-shipment-authorized",
+  "name": "New Sale Shipment Authorized",
+  "description": "Emit new event when a sale shipment is authorized",
+  "type": "source",
+  "version": "0.0.1"
+}

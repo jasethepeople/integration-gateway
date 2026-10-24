@@ -1,0 +1,343 @@
+{
+  "app": "urlbox_io",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "html": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "format": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "width": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "height": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "fullPage": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "selector": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "gpu": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "blockAds": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "blockUrls": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "hideCookieBanners": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "clickAccept": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "hideSelector": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "js": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "css": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "darkMode": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "retina": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "thumbWidth": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "thumbHeight": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "quality": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "transparent": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "maxHeight": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "download": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pdfPageSize": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pdfPageWidth": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "pdfPageHeight": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "pdfMargin": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pdfMarginTop": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "pdfMarginRight": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "pdfMarginBottom": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "pdfMarginLeft": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "pdfScale": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pdfOrientation": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pdfBackground": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "disableLigatures": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "media": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "force": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "unique": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ttl": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "proxy": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "header": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cookie": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userAgent": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "acceptLang": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "authorization": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tz": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "delay": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timeout": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "waitUntil": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "waitFor": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "waitToLeave": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "waitTimeout": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "scrollto": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "click": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "clickAll": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "hover": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "bgColor": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "disable_js": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "fullWidth": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "allowInfinite": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "skipScroll": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "detectFullHeight": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxSectionHeight": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "scrollIncrement": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "scrollDelay": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "turbo": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "highlight": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "highlightfg": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "highlightbg": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "latitude": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "longitude": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "accuracy": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "useS3": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "s3Path": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "s3Bucket": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "s3StorageClass": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "failIfSelectorMissing": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "failIfSelectorPresent": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "failOn4xx": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "failOn5xx": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "publishable_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "secret_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "urlbox_io-generate-screenshot-from-html",
+    "urlbox_io-generate-screenshot-from-url"
+  ],
+  "npmImports": [
+    "crypto-js",
+    "qs"
+  ]
+}

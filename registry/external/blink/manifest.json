@@ -1,0 +1,17 @@
+{
+  "app": "blink",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "blink-get-feed-event",
+    "blink-list-category-id-options",
+    "blink-list-user-id-options",
+    "blink-post-feed"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "linkly-list-links",
+  "name": "List Links",
+  "description": "List all short links in your workspace via `GET /api/v1/workspace/{workspace_id}/list_links`, with click counts and metadata. [See the documentation](https://app.linklyhq.com/swaggerui#/Links/listLinks).",
+  "type": "action",
+  "version": "0.0.1"
+}

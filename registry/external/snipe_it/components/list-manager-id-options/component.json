@@ -1,0 +1,7 @@
+{
+  "key": "snipe_it-list-manager-id-options",
+  "name": "List Manager Options",
+  "description": "Retrieves available options for the Manager field.",
+  "type": "action",
+  "version": "0.0.1"
+}

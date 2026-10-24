@@ -1,0 +1,7 @@
+{
+  "key": "smartsheet-update-sheet",
+  "name": "Update Sheet",
+  "description": "Rename an existing sheet, leaving its rows, columns, attachments, and sharing untouched.",
+  "type": "action",
+  "version": "0.1.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "nocrm_io-new-lead-status-changed",
+  "name": "New Lead Status Changed",
+  "description": "Emit new event when a lead status is changed.",
+  "type": "source",
+  "version": "0.0.2"
+}

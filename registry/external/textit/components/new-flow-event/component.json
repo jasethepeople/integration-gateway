@@ -1,0 +1,7 @@
+{
+  "key": "textit-new-flow-event",
+  "name": "New Flow Event",
+  "description": "Emit new event for each new flow event",
+  "type": "source",
+  "version": "0.0.1"
+}

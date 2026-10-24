@@ -1,0 +1,7 @@
+{
+  "key": "evenium-new-participant",
+  "name": "New Participant",
+  "description": "Emit new event when a new participant (guest) is added to an event. [See the documentation](https://static.evenium.com/api-docs/organizer/index-json.html#_get_all_guests)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "clientify-list-task-type-options",
+  "name": "List Task Type Options",
+  "description": "Retrieves available options for the Task Type field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "coinbase_developer_platform-new-wallet-event",
+  "name": "New Wallet Event (Instant)",
+  "description": "Emit new event for each new wallet event. [See the documentation](https://docs.cdp.coinbase.com/webhooks/cdp-sdk#external-address-webhook)",
+  "type": "source",
+  "version": "0.0.1"
+}

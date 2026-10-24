@@ -1,0 +1,7 @@
+{
+  "key": "mews-bill-closed",
+  "name": "New Closed Bill",
+  "description": "Emit new event when a bill is closed",
+  "type": "source",
+  "version": "0.0.2"
+}

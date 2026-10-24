@@ -1,0 +1,7 @@
+{
+  "key": "signaturit-list-templates-options",
+  "name": "List Templates Options",
+  "description": "Retrieves available options for the Templates field.",
+  "type": "action",
+  "version": "0.0.1"
+}

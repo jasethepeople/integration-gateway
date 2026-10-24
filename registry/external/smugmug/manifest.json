@@ -1,0 +1,45 @@
+{
+  "app": "smugmug",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "album": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "image": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "folder": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_refresh_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_signer_uri": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "smugmug-create-album",
+    "smugmug-get-album",
+    "smugmug-get-authenticated-user",
+    "smugmug-get-image",
+    "smugmug-get-user-profile",
+    "smugmug-list-album-options",
+    "smugmug-list-folder-options",
+    "smugmug-update-albumimage",
+    "smugmug-upload-image"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "close-new-opportunity",
+  "name": "New Opportunity",
+  "description": "Emit new event when a new Opportunity is created",
+  "type": "source",
+  "version": "0.1.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "limoexpress-mark-invoice-paid",
+  "name": "Mark Invoice Paid",
+  "description": "Marks an invoice as paid. [See the documentation](https://api.limoexpress.me/api/docs/v1#/Invoices/markInvoiceAsPaid)",
+  "type": "action",
+  "version": "0.0.2"
+}

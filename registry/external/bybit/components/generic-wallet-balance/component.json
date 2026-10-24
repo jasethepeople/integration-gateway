@@ -1,0 +1,7 @@
+{
+  "key": "bybit-generic-wallet-balance",
+  "name": "ByBit Generic Wallet Balance",
+  "description": "Get Wallet Balance.[reference](https://bybit-exchange.github.io/docs/futuresV2/inverse/#t-balance)",
+  "type": "action",
+  "version": "0.0.2"
+}

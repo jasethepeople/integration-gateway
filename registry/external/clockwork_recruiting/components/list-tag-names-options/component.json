@@ -1,0 +1,7 @@
+{
+  "key": "clockwork_recruiting-list-tag-names-options",
+  "name": "List Tag Names Options",
+  "description": "Retrieves available options for the Tag Names field.",
+  "type": "action",
+  "version": "0.0.1"
+}

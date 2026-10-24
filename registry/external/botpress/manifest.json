@@ -1,0 +1,20 @@
+{
+  "app": "botpress",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "conversationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "botpress-add-participant",
+    "botpress-list-conversations",
+    "botpress-new-bot-event-created"
+  ]
+}

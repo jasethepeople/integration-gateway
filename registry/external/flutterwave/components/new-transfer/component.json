@@ -1,0 +1,7 @@
+{
+  "key": "flutterwave-new-transfer",
+  "name": "New Transfer",
+  "description": "Emit new event whenever a new transfer event occurs.",
+  "type": "source",
+  "version": "0.0.1"
+}

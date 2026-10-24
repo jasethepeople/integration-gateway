@@ -1,0 +1,7 @@
+{
+  "key": "whatsapp_business-send-text-message",
+  "name": "Send Text Message",
+  "description": "The text content of the message.",
+  "type": "action",
+  "version": "0.0.4"
+}

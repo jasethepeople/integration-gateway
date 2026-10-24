@@ -1,0 +1,7 @@
+{
+  "key": "iauditor_by_safetyculture-list-group-id-options",
+  "name": "List Group Options",
+  "description": "Retrieves available options for the Group field.",
+  "type": "action",
+  "version": "0.0.1"
+}

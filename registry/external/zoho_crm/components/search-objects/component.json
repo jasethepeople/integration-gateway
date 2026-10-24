@@ -1,0 +1,7 @@
+{
+  "key": "zoho_crm-search-objects",
+  "name": "Search Objects",
+  "description": "Retrieves the records that match your search criteria.",
+  "type": "action",
+  "version": "0.2.3"
+}

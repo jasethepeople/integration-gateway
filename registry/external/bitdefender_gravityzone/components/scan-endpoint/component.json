@@ -1,0 +1,7 @@
+{
+  "key": "bitdefender_gravityzone-scan-endpoint",
+  "name": "Scan Endpoint",
+  "description": "Trigger a scan on a specific endpoint. [See the documentation](https://www.bitdefender.com/business/support/en/77209-128495-createscantask.html)",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "topdesk-new-incident-created",
+  "name": "New Incident Created",
+  "description": "Emit new event when a new incident is created. [See the documentation](https://developers.topdesk.com/explorer/?page=incident#/incident/get_incidents)",
+  "type": "source",
+  "version": "0.0.2"
+}

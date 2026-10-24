@@ -1,0 +1,91 @@
+{
+  "app": "typeform",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "formId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "search": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pageSize": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "since": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "until": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "after": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "before": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workspaceHref": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fieldId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "responseId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workspaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "typeform-create-form",
+    "typeform-create-image",
+    "typeform-delete-form",
+    "typeform-delete-image",
+    "typeform-duplicate-form",
+    "typeform-get-form",
+    "typeform-list-form-id-options",
+    "typeform-list-forms",
+    "typeform-list-images",
+    "typeform-list-responses",
+    "typeform-list-workspace-href-options",
+    "typeform-list-workspace-id-options",
+    "typeform-lookup-responses",
+    "typeform-update-dropdown-multiple-choice-ranking",
+    "typeform-update-form-title",
+    "typeform-new-submission"
+  ],
+  "npmImports": [
+    "crypto",
+    "lodash.omit",
+    "luxon",
+    "uuidv4"
+  ]
+}

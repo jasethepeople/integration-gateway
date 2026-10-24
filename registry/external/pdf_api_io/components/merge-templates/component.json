@@ -1,0 +1,7 @@
+{
+  "key": "pdf_api_io-merge-templates",
+  "name": "Merge Templates",
+  "description": "Merge two templates into a single PDF document. Returns a URL to the PDF document. [See the documentation](https://pdf-api.io/en/docs/api/merge-templates)",
+  "type": "action",
+  "version": "0.0.1"
+}

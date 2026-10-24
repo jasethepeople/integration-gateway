@@ -1,0 +1,7 @@
+{
+  "key": "airtop-scrape-content",
+  "name": "Scrape Content",
+  "description": "Scrape structured content from a web page using AI. [See the documentation](https://docs.airtop.ai/api-reference/airtop-api/windows/scrape-content)",
+  "type": "action",
+  "version": "0.0.2"
+}

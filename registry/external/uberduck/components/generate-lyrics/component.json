@@ -1,0 +1,7 @@
+{
+  "key": "uberduck-generate-lyrics",
+  "name": "Generate Lyrics",
+  "description": "Generates lyrics using a specified voice model. [See the documentation](https://docs.uberduck.ai/reference/generate-lyrics)",
+  "type": "action",
+  "version": "0.0.2"
+}

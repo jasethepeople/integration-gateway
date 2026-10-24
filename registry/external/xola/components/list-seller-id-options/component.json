@@ -1,0 +1,7 @@
+{
+  "key": "xola-list-seller-id-options",
+  "name": "List Seller ID Options",
+  "description": "Retrieves available options for the Seller ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

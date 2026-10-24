@@ -1,0 +1,7 @@
+{
+  "key": "z_api-send-text",
+  "name": "Send Text",
+  "description": "Send a text to the specified phone. [See the documentation](https://developer.z-api.io/en/message/send-message-text)",
+  "type": "action",
+  "version": "0.0.2"
+}

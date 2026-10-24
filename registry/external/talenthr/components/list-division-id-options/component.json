@@ -1,0 +1,7 @@
+{
+  "key": "talenthr-list-division-id-options",
+  "name": "List Division ID Options",
+  "description": "Retrieves available options for the Division ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

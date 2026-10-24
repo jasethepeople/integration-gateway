@@ -1,0 +1,85 @@
+{
+  "app": "filetopdf_dev",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "landscape": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "paperWidth": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "paperHeight": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "marginTop": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "marginBottom": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "marginLeft": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "marginRight": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "scale": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "printBackground": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "preferCssPageSize": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "nativePageRanges": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pdfa": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pdfua": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "sourcePassword": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userPassword": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ownerPassword": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "filetopdf_dev-convert-file",
+    "filetopdf_dev-convert-html",
+    "filetopdf_dev-convert-markdown",
+    "filetopdf_dev-get-account"
+  ],
+  "npmImports": [
+    "form-data",
+    "fs"
+  ]
+}

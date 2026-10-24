@@ -1,0 +1,7 @@
+{
+  "key": "surecart-list-purchases",
+  "name": "List Purchases",
+  "description": "Return a list of purchases. [See the documentation](https://developer.surecart.com/api-reference/purchases/list)",
+  "type": "action",
+  "version": "1.0.0"
+}

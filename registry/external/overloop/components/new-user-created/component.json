@@ -1,0 +1,7 @@
+{
+  "key": "overloop-new-user-created",
+  "name": "New User Created",
+  "description": "Emit new event each time a user is created. [See the docs](https://apidoc.overloop.com/#list-users)",
+  "type": "source",
+  "version": "0.0.1"
+}

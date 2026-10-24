@@ -1,0 +1,7 @@
+{
+  "key": "e_conomic-list-payment-term-number-options",
+  "name": "List Payment Term Number Options",
+  "description": "Retrieves available options for the Payment Term Number field.",
+  "type": "action",
+  "version": "0.0.1"
+}

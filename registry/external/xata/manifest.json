@@ -1,0 +1,46 @@
+{
+  "app": "xata",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "recordId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "table": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endpoint": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recordData": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "workspace": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "database": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "branch": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "xata-create-record",
+    "xata-list-branches",
+    "xata-list-workspace-options",
+    "xata-replace-record",
+    "xata-update-record"
+  ]
+}

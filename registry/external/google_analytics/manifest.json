@@ -1,0 +1,35 @@
+{
+  "app": "google_analytics",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "account": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "viewId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "property": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "google_analytics-create-ga4-property",
+    "google_analytics-create-key-event",
+    "google_analytics-list-account-options",
+    "google_analytics-list-property-options",
+    "google_analytics-run-report-in-ga4",
+    "google_analytics-run-report",
+    "google_analytics-page-opened"
+  ],
+  "npmImports": [
+    "@googleapis/analyticsreporting"
+  ]
+}

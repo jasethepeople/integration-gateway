@@ -1,0 +1,7 @@
+{
+  "key": "bybit-linear-stop-order-search",
+  "name": "ByBit Linear Stop Order Search",
+  "description": "Query Conditional Order.",
+  "type": "action",
+  "version": "0.0.2"
+}

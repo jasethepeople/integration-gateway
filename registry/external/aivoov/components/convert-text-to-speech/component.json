@@ -1,0 +1,7 @@
+{
+  "key": "aivoov-convert-text-to-speech",
+  "name": "Convert Text to Speech",
+  "description": "Converts text to audio using the Aivoov API. [See the documentation](https://github.com/aivoov/aivoov-api)",
+  "type": "action",
+  "version": "0.0.2"
+}

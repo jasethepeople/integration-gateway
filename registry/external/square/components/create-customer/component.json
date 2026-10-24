@@ -1,0 +1,7 @@
+{
+  "key": "square-create-customer",
+  "name": "Create Customer",
+  "description": "The first name associated with the customer profile",
+  "type": "action",
+  "version": "0.0.5"
+}

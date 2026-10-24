@@ -1,0 +1,7 @@
+{
+  "key": "onenote-search-notebooks",
+  "name": "Search Notebooks",
+  "description": "Searches for notebooks. [See the documentation](https://learn.microsoft.com/en-us/graph/api/onenote-list-notebooks?view=graph-rest-1.0&tabs=http)",
+  "type": "action",
+  "version": "0.0.2"
+}

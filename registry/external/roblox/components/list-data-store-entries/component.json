@@ -1,0 +1,7 @@
+{
+  "key": "roblox-list-data-store-entries",
+  "name": "List Data Store Entries",
+  "description": "List the entries (keys) in a Roblox data store. [See the documentation](https://create.roblox.com/docs/cloud/reference/features/storage#Cloud_ListDataStoreEntries__Using_Universes_DataStores)",
+  "type": "action",
+  "version": "0.0.1"
+}

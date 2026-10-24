@@ -1,0 +1,92 @@
+{
+  "app": "coda",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "docId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "docIdStatic": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "folderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tableId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tableIdStatic": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "rowId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "columnId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "keyColumns": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "pageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sortBy": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "disableParsing": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "visibleOnly": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "max": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "coda-copy-doc",
+    "coda-create-doc",
+    "coda-create-rows",
+    "coda-delete-row",
+    "coda-find-row",
+    "coda-get-page-content",
+    "coda-get-page",
+    "coda-get-row",
+    "coda-list-columns",
+    "coda-list-docs",
+    "coda-list-formulas",
+    "coda-list-pages",
+    "coda-list-tables",
+    "coda-update-row",
+    "coda-upsert-rows",
+    "coda-row-created"
+  ],
+  "npmImports": [
+    "fs"
+  ]
+}

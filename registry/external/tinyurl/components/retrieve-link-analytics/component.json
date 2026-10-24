@@ -1,0 +1,7 @@
+{
+  "key": "tinyurl-retrieve-link-analytics",
+  "name": "Retrieve Link Analytics",
+  "description": "Retrieves analytics for a specific TinyURL link, including total clicks, geographic breakdowns, and device types. [See the documentation]()",
+  "type": "action",
+  "version": "0.0.2"
+}

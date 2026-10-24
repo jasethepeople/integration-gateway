@@ -1,0 +1,7 @@
+{
+  "key": "aircall-retrieve-transcription",
+  "name": "Retrieve Transcription",
+  "description": "Retrieves AI-generated transcription for a specific Aircall call. Requires the AI Assist add-on to be enabled on your Aircall account. [See the docs here](https://developer.aircall.io/api-references/#retrieve-a-transcription)",
+  "type": "action",
+  "version": "0.0.3"
+}

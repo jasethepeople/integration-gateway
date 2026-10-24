@@ -1,0 +1,7 @@
+{
+  "key": "gosquared-new-user-exited-smart-group-instant",
+  "name": "New User Exited Smart Group (Instant)",
+  "description": "Emit new event when a user exits a smart group in GoSquared.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "deployhq-deploy-failed",
+  "name": "New Deploy Failed",
+  "description": "Emit new event when a deploy fails",
+  "type": "source",
+  "version": "0.0.2"
+}

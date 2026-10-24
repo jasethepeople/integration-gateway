@@ -1,0 +1,7 @@
+{
+  "key": "oncehub-new-conversation-abandoned",
+  "name": "New Conversation Abandoned (Instant)",
+  "description": "Emit new event when a website visitor stops interacting with a bot for more than 10 minutes. [See the docs](https://developers.oncehub.com/reference/create-a-webhook)",
+  "type": "source",
+  "version": "0.0.1"
+}

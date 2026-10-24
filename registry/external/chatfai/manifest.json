@@ -1,0 +1,44 @@
+{
+  "app": "chatfai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "characterId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "conversation": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "content": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "bio": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "useInternalOptimizations": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "searchQuery": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "chatfai-generate-message",
+    "chatfai-get-character",
+    "chatfai-search-characters"
+  ]
+}

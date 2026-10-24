@@ -1,0 +1,7 @@
+{
+  "key": "letmepost-list-media",
+  "name": "List Media",
+  "description": "List previously uploaded media assets. [See the documentation](https://docs.letmepost.dev/api-reference/media/list-uploaded-media)",
+  "type": "action",
+  "version": "0.0.1"
+}

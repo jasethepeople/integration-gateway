@@ -1,0 +1,7 @@
+{
+  "key": "workiom-create-record",
+  "name": "Create Record",
+  "description": "Creates a new record in a Workiom list. [See the documentation](https://help.workiom.com/article/workiom-api-guide)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,43 @@
+{
+  "app": "navigatr",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "providerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recipientHasAccount": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "recipientId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recipientEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recipientFirstname": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recipientLastname": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "badgeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "navigatr-issue-badge",
+    "navigatr-list-provider-id-options"
+  ]
+}

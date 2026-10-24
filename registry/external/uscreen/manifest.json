@@ -1,0 +1,20 @@
+{
+  "app": "uscreen",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "offerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "publisher_api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "uscreen-create-user",
+    "uscreen-grant-user-access",
+    "uscreen-list-offer-id-options"
+  ]
+}

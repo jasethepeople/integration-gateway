@@ -1,0 +1,7 @@
+{
+  "key": "buildkite-create-build",
+  "name": "Create Build",
+  "description": "Creates a new build for a pipeline. [See the documentation](https://buildkite.com/docs/apis/rest-api/builds#create-a-build)",
+  "type": "action",
+  "version": "0.0.1"
+}

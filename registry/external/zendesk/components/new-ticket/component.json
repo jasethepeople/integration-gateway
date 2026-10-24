@@ -1,0 +1,7 @@
+{
+  "key": "zendesk-new-ticket",
+  "name": "New Ticket (Instant)",
+  "description": "Emit new event when a ticket is created",
+  "type": "source",
+  "version": "0.2.19"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pdfmonkey-find-document",
+  "name": "Find Document",
+  "description": "Find a document within PDFMonkey. [See the documentation](https://docs.pdfmonkey.io/references/api/documents)",
+  "type": "action",
+  "version": "0.0.2"
+}

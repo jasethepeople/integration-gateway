@@ -1,0 +1,7 @@
+{
+  "key": "blogger-update-post",
+  "name": "Update a Post",
+  "description": "Updates a published post. [See the docs here](https://developers.google.com/blogger/docs/3.0/reference/posts/update).",
+  "type": "action",
+  "version": "0.0.3"
+}

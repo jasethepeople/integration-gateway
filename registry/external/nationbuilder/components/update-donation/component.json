@@ -1,0 +1,7 @@
+{
+  "key": "nationbuilder-update-donation",
+  "name": "Update Donation",
+  "description": "Update a specific donation with the provided data. [See the documentation](https://nationbuilder.com/donations_api)",
+  "type": "action",
+  "version": "0.0.2"
+}

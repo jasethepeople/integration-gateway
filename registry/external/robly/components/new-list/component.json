@@ -1,0 +1,7 @@
+{
+  "key": "robly-new-list",
+  "name": "New List",
+  "description": "Emit new event when a new list is created. [See the documentation](https://docs.robly.com/docs/api-v1/6a75f202e3938-get-lists)",
+  "type": "source",
+  "version": "0.0.1"
+}

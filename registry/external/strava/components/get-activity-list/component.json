@@ -1,0 +1,7 @@
+{
+  "key": "strava-get-activity-list",
+  "name": "Get Activity List",
+  "description": "Returns the activities of an athlete for a specific identifier. [See the docs](https://developers.strava.com/docs/reference/#api-Activities-getLoggedInAthleteActivities)",
+  "type": "action",
+  "version": "0.0.3"
+}

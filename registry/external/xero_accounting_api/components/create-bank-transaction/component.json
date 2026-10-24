@@ -1,0 +1,7 @@
+{
+  "key": "xero_accounting_api-create-bank-transaction",
+  "name": "Create Bank Transaction",
+  "description": "Create a new bank transaction [See the documentation](https://developer.xero.com/documentation/api/accounting/banktransactions#put-banktransactions)",
+  "type": "action",
+  "version": "0.1.4"
+}

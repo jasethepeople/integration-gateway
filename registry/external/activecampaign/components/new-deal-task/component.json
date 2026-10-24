@@ -1,0 +1,7 @@
+{
+  "key": "activecampaign-new-deal-task",
+  "name": "New Deal Task (Instant)",
+  "description": "Emit new event each time a new task is added to a deal.",
+  "type": "source",
+  "version": "0.0.7"
+}

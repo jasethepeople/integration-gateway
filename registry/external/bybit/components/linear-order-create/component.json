@@ -1,0 +1,7 @@
+{
+  "key": "bybit-linear-order-create",
+  "name": "ByBit Linear Order Create",
+  "description": "Place active order.",
+  "type": "action",
+  "version": "0.0.2"
+}

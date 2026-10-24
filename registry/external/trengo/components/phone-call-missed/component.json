@@ -1,0 +1,7 @@
+{
+  "key": "trengo-phone-call-missed",
+  "name": "New Phone Call Missed Event (Instant)",
+  "description": "Emit new event when an phone call missed. [See the documentation](https://developers.trengo.com/docs/webhooks)",
+  "type": "source",
+  "version": "0.0.12"
+}

@@ -1,0 +1,29 @@
+{
+  "app": "vimeo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "videoId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "albumUri": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "vimeo-add-video-to-album",
+    "vimeo-delete-video",
+    "vimeo-list-album-uri-options",
+    "vimeo-list-video-id-options",
+    "vimeo-upload-video",
+    "vimeo-new-video-by-search",
+    "vimeo-new-video-liked",
+    "vimeo-new-video-of-mine"
+  ]
+}

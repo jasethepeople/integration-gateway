@@ -1,0 +1,7 @@
+{
+  "key": "fly_io-new-event-created",
+  "name": "New Event Created",
+  "description": "Emit new event when a new event is created in Fly.io. [See the documentation](https://docs.machines.dev/#tag/machines/get/apps/{app_name}/machines/{machine_id}/events)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pagerduty-get-incident",
+  "name": "Get Incident",
+  "description": "Get full details for a single incident by ID, including its current status, urgency, assignments, and `html_url`.",
+  "type": "action",
+  "version": "0.0.2"
+}

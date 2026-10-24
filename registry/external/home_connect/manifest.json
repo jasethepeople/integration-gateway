@@ -1,0 +1,25 @@
+{
+  "app": "home_connect",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "haId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "host_environment": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "home_connect-get-appliances",
+    "home_connect-get-programs",
+    "home_connect-get-status",
+    "home_connect-list-ha-id-options"
+  ]
+}

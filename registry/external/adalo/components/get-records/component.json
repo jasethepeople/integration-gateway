@@ -1,0 +1,7 @@
+{
+  "key": "adalo-get-records",
+  "name": "Get Records",
+  "description": "Get all records from a collection. [See docs here](https://help.adalo.com/integrations/the-adalo-api/collections)",
+  "type": "action",
+  "version": "0.0.5"
+}

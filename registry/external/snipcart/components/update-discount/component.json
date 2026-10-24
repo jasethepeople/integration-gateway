@@ -1,0 +1,7 @@
+{
+  "key": "snipcart-update-discount",
+  "name": "Update Discount",
+  "description": "Update a Discount. [See the documentation](https://docs.snipcart.com/v3/api-reference/discounts#put-discountsid)",
+  "type": "action",
+  "version": "0.0.2"
+}

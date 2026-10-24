@@ -1,0 +1,7 @@
+{
+  "key": "semgrep-get-deployments",
+  "name": "Get Deployments",
+  "description": "Returns a list of deployments. [See the documentation](https://semgrep.dev/api/v1/docs/#tag/deployment/operation/semgrep_app.saas.handlers.deployment.openapi_list_deployments)",
+  "type": "action",
+  "version": "0.0.2"
+}

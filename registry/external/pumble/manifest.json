@@ -1,0 +1,23 @@
+{
+  "app": "pumble",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "channel": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pumble-create-channel",
+    "pumble-list-channel-options",
+    "pumble-list-messages",
+    "pumble-send-message",
+    "pumble-new-channel-created",
+    "pumble-new-message-in-channel"
+  ]
+}

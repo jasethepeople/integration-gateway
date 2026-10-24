@@ -1,0 +1,7 @@
+{
+  "key": "greenhouse-new-candidate-application",
+  "name": "New Candidate Application",
+  "description": "Emit new event when a candidate submits a new application.",
+  "type": "source",
+  "version": "0.0.1"
+}

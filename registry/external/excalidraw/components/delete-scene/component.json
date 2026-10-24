@@ -1,0 +1,7 @@
+{
+  "key": "excalidraw-delete-scene",
+  "name": "Delete Scene",
+  "description": "Permanently deletes an Excalidraw scene and all its drawing content. This action cannot be undone.",
+  "type": "action",
+  "version": "0.0.2"
+}

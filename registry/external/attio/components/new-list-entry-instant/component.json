@@ -1,0 +1,7 @@
+{
+  "key": "attio-new-list-entry-instant",
+  "name": "New List Entry (Instant)",
+  "description": "Emit new event when a record, such as person, company, or deal, is added to a list",
+  "type": "source",
+  "version": "0.0.6"
+}

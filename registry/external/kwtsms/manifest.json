@@ -1,0 +1,35 @@
+{
+  "app": "kwtsms",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "senderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mobile": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lang": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "message": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_password": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "kwtsms-list-sender-id-options",
+    "kwtsms-send-sms"
+  ]
+}

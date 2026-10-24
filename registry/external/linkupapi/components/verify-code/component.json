@@ -1,0 +1,7 @@
+{
+  "key": "linkupapi-verify-code",
+  "name": "Verify Code",
+  "description": "Submit a checkpoint/challenge verification code to complete authentication for a connected account. [See the documentation](https://docs.linkupapi.com/api-reference/v2/accounts/checkpoint)",
+  "type": "action",
+  "version": "1.0.1"
+}

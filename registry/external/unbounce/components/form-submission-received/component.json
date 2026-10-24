@@ -1,0 +1,7 @@
+{
+  "key": "unbounce-form-submission-received",
+  "name": "New Form Submission Received",
+  "description": "Emit new event when a new form submit is received.",
+  "type": "source",
+  "version": "0.0.1"
+}

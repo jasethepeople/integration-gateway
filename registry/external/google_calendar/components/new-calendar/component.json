@@ -1,0 +1,7 @@
+{
+  "key": "google_calendar-new-calendar",
+  "name": "New Calendar Created",
+  "description": "Emit new event when a calendar is created.",
+  "type": "source",
+  "version": "0.1.17"
+}

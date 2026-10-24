@@ -1,0 +1,7 @@
+{
+  "key": "google_calendar-event-ended",
+  "name": "New Ended Event",
+  "description": "Emit new event when a Google Calendar event ends",
+  "type": "source",
+  "version": "0.1.17"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "deel-create-contract-task",
+  "name": "Create Contract Task",
+  "description": "Add a task or milestone to a Deel `payg_tasks` contractor contract. Tasks represent discrete",
+  "type": "action",
+  "version": "0.0.2"
+}

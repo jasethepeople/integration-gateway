@@ -1,0 +1,7 @@
+{
+  "key": "papersign-new-signer-signed-instant",
+  "name": "New Signer Signed (Instant)",
+  "description": "Emit new event when a signer signs a document.",
+  "type": "source",
+  "version": "0.0.1"
+}

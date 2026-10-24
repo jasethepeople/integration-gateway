@@ -1,0 +1,7 @@
+{
+  "key": "ayrshare-list-profile-to-delete-options",
+  "name": "List Profile to Delete Options",
+  "description": "Retrieves available options for the Profile to Delete field.",
+  "type": "action",
+  "version": "0.0.1"
+}

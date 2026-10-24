@@ -1,0 +1,7 @@
+{
+  "key": "viral_loops-create-participant",
+  "name": "Create Participant",
+  "description": "Creates a participant. [See documentation here](https://developers.viral-loops.com/reference/post_campaign-participant-1)",
+  "type": "action",
+  "version": "0.0.2"
+}

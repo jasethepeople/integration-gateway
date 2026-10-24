@@ -1,0 +1,7 @@
+{
+  "key": "joggai-create-ai-avatar-photo",
+  "name": "Create AI Avatar Photo",
+  "description": "Creates an AI avatar photo using JoggAI API. [See the documentation](https://docs.jogg.ai/api-reference/Avatar/GenerateAIAvatarPhoto)",
+  "type": "action",
+  "version": "0.0.2"
+}

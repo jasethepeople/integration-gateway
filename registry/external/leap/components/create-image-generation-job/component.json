@@ -1,0 +1,7 @@
+{
+  "key": "leap-create-image-generation-job",
+  "name": "Create Image Generation Job",
+  "description": "Queues an image generation job and returns the job details. [See the documentation](https://docs.tryleap.ai/reference/inferencescontroller_create-1)",
+  "type": "action",
+  "version": "0.0.2"
+}

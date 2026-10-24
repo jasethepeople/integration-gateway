@@ -1,0 +1,7 @@
+{
+  "key": "billbee-list-order-state-id-options",
+  "name": "List Order State ID Options",
+  "description": "Retrieves available options for the Order State ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

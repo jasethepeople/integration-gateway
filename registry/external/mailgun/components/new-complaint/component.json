@@ -1,0 +1,7 @@
+{
+  "key": "mailgun-new-complaint",
+  "name": "New Complaint (Instant)",
+  "description": "Emit new event when the email recipient clicked on the spam complaint button within their email client. Feedback loops enable the notification to be received by Mailgun.",
+  "type": "source",
+  "version": "0.0.2"
+}

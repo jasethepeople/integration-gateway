@@ -1,0 +1,7 @@
+{
+  "key": "simplero-create-update-contact",
+  "name": "Create/Update Contact",
+  "description": "Create a new contact or update an existing contact with the same email. [See the documentation](https://github.com/Simplero/Simplero-API?tab=readme-ov-file#createupdate-contact)",
+  "type": "action",
+  "version": "0.0.1"
+}

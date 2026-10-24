@@ -1,0 +1,7 @@
+{
+  "key": "rentman-new-file-updated",
+  "name": "New File Uploaded/Updated",
+  "description": "Emit new event when a file is uploaded/updated. [See the documentation](https://api.rentman.net/)",
+  "type": "source",
+  "version": "0.0.1"
+}

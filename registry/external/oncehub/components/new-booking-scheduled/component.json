@@ -1,0 +1,7 @@
+{
+  "key": "oncehub-new-booking-scheduled",
+  "name": "New Booking Scheduled (Instant)",
+  "description": "Emit new event when a new booking is scheduled. [See the docs](https://developers.oncehub.com/reference/create-a-webhook)",
+  "type": "source",
+  "version": "0.0.1"
+}

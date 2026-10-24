@@ -1,0 +1,7 @@
+{
+  "key": "sevdesk-get-invoice",
+  "name": "Get Invoice",
+  "description": "Find and retrieve a single invoice by its ID. [See the documentation](https://api.sevdesk.de/#tag/Invoice/operation/getInvoiceById)",
+  "type": "action",
+  "version": "0.0.2"
+}

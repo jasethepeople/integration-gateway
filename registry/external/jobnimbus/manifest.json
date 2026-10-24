@@ -1,0 +1,42 @@
+{
+  "app": "jobnimbus",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerIdFromContacts": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "jobnimbus-create-attachment",
+    "jobnimbus-create-contact",
+    "jobnimbus-find-contact-by-email",
+    "jobnimbus-find-contact-by-id",
+    "jobnimbus-list-contact-id-options",
+    "jobnimbus-list-customer-id-from-contacts-options",
+    "jobnimbus-update-contact",
+    "jobnimbus-activity-created",
+    "jobnimbus-contact-created",
+    "jobnimbus-contact-deleted",
+    "jobnimbus-contact-updated",
+    "jobnimbus-job-created",
+    "jobnimbus-job-deleted",
+    "jobnimbus-job-updated"
+  ],
+  "npmImports": [
+    "fs"
+  ]
+}

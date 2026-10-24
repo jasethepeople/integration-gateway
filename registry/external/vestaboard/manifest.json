@@ -1,0 +1,29 @@
+{
+  "app": "vestaboard",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "subscriptionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_secret": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "readwrite_api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "vestaboard-create-message",
+    "vestaboard-get-current-message",
+    "vestaboard-get-subscriptions",
+    "vestaboard-new-current-message"
+  ]
+}

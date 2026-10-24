@@ -1,0 +1,60 @@
+{
+  "app": "sunshine_conversations",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "authorType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "conversationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "app_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "secret": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "key_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sunshine_conversations-get-conversation",
+    "sunshine_conversations-join-conversation",
+    "sunshine_conversations-list-conversations",
+    "sunshine_conversations-list-integrations",
+    "sunshine_conversations-list-messages",
+    "sunshine_conversations-list-participants",
+    "sunshine_conversations-post-activity",
+    "sunshine_conversations-post-text-message",
+    "sunshine_conversations-update-conversation",
+    "sunshine_conversations-conversation-deleted",
+    "sunshine_conversations-conversation-joined",
+    "sunshine_conversations-conversation-left",
+    "sunshine_conversations-message-delivery-failed",
+    "sunshine_conversations-new-message-delivered-to-channel",
+    "sunshine_conversations-new-message-delivered-to-user",
+    "sunshine_conversations-new-message-sent"
+  ],
+  "npmImports": [
+    "jsonwebtoken"
+  ]
+}

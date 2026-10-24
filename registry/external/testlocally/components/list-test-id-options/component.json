@@ -1,0 +1,7 @@
+{
+  "key": "testlocally-list-test-id-options",
+  "name": "List Test ID Options",
+  "description": "Retrieves available options for the Test ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

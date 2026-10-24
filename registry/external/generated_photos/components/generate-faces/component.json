@@ -1,0 +1,7 @@
+{
+  "key": "generated_photos-generate-faces",
+  "name": "Generate Faces",
+  "description": "Generates faces using the Generated Photos API. [See the documentation](https://generated.photos/account#apikey)",
+  "type": "action",
+  "version": "0.0.2"
+}

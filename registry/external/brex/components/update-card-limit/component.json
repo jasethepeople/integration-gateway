@@ -1,0 +1,7 @@
+{
+  "key": "brex-update-card-limit",
+  "name": "Update Card Limit",
+  "description": "Updates the spend limit on a vendor card (`limit_type: CARD`). This sends a complete `spend_controls` object, so treat it as a replacement: supply every spend control you want the card to keep, because Brex does not document whether omitted fields are preserved or cleared. Corporate cards draw on their cardholder's limit instead — use **Set Limit for User** for those. [See the documentation](https://developer.brex.com/openapi/team_api/cards/updatecard)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "astica_ai-describe-image",
+  "name": "Describe Image",
+  "description": "Analyze an image with Astica AI [See the documentation](https://astica.ai/vision/documentation/)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "exhibitday-task-completed",
+  "name": "Task Completed",
+  "description": "Emit new event when a task is marked as complete in ExhibitDay",
+  "type": "source",
+  "version": "0.0.1"
+}

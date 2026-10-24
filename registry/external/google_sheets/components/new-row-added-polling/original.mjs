@@ -1,0 +1,49 @@
+import googleSheets from "../../app.mjs";
+import common from "../../shared/sources/common/new-row-added.mjs";
+import base from "../../shared/sources/common/http-based/base.mjs";
+import { DEFAULT_POLLING_SOURCE_TIMER_INTERVAL } from "../../../_platform-shim.mjs";
+
+export default {
+  ...common,
+  key: "google_sheets-new-row-added-polling",
+  name: "New Row Added",
+  description: "Emit new event each time a row or rows are added to the bottom of a spreadsheet.",
+  version: "0.1.7",
+  dedupe: "unique",
+  type: "source",
+  props: {
+    googleSheets,
+    db: "$.service.db",
+    timer: {
+      type: "$.interface.timer",
+      static: {
+        intervalSeconds: DEFAULT_POLLING_SOURCE_TIMER_INTERVAL,
+      },
+    },
+    watchedDrive: {
+      propDefinition: [
+        googleSheets,
+        "watchedDrive",
+      ],
+      description: "Defaults to My Drive. To select a [Shared Drive](https://support.google.com/a/users/answer/9310351) instead, select it from this list.",
+    },
+    sheetID: {
+      propDefinition: [
+        googleSheets,
+        "sheetID",
+        (c) => ({
+          driveId: googleSheets.methods.getDriveId(c.watchedDrive),
+        }),
+      ],
+    },
+    ...common.props,
+  },
+  methods: {
+    ...base.methods,
+    ...common.methods,
+  },
+  async run() {
+    const spreadsheet = await this.googleSheets.getSpreadsheet(this.sheetID);
+    return this.processSpreadsheet(spreadsheet);
+  },
+};

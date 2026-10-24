@@ -1,0 +1,7 @@
+{
+  "key": "uscreen-create-user",
+  "name": "Create User",
+  "description": "Creates an user. [See the documentation](https://uscreen.io/api/publisher.html#/default/post_customers)",
+  "type": "action",
+  "version": "0.0.2"
+}

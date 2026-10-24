@@ -1,0 +1,7 @@
+{
+  "key": "zoho_cliq-send-direct-message",
+  "name": "Send Direct Message",
+  "description": "Send a direct message. [See documentation](https://www.zoho.com/cliq/help/restapi/v2/#Post_Message_User)",
+  "type": "action",
+  "version": "0.0.4"
+}

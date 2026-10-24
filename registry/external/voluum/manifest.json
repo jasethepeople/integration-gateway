@@ -1,0 +1,22 @@
+{
+  "app": "voluum",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "sharedReportId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "voluum-get-shared-report",
+    "voluum-list-shared-reports",
+    "voluum-report-data",
+    "voluum-new-event-log",
+    "voluum-new-shared-report"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "height-new-task-added",
+  "name": "New Task Added",
+  "description": "Emit new event when a new task is added in Height",
+  "type": "source",
+  "version": "0.0.1"
+}

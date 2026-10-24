@@ -1,0 +1,7 @@
+{
+  "key": "trengo-list-ticket-result-id-options",
+  "name": "List Ticket Result ID Options",
+  "description": "Retrieves available options for the Ticket Result ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

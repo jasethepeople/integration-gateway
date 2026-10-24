@@ -1,0 +1,7 @@
+{
+  "key": "gotowebinar-webinar-changed",
+  "name": "Webinar Changed (Instant)",
+  "description": "Emit new event when a webinar is changed.",
+  "type": "source",
+  "version": "0.0.1"
+}

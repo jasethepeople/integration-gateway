@@ -1,0 +1,7 @@
+{
+  "key": "modelry-delete-product",
+  "name": "Delete Product",
+  "description": "Delete the product with the specified ID. [See the documentation](https://files.cgtarsenal.com/api/doc/index.html#api-Products-DeleteProduct)",
+  "type": "action",
+  "version": "0.0.2"
+}

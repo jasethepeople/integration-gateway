@@ -1,0 +1,22 @@
+{
+  "app": "letterdrop",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "letterdrop-add-subscriber",
+    "letterdrop-draft-post",
+    "letterdrop-remove-subscriber",
+    "letterdrop-new-post-published-instant",
+    "letterdrop-watch-added-subscribers-instant"
+  ]
+}

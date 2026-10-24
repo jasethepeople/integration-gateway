@@ -1,0 +1,29 @@
+{
+  "app": "mailcheck",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emails": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "operationName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mailcheck-create-batch-operation",
+    "mailcheck-get-batch-operation-status",
+    "mailcheck-list-operation-name-options",
+    "mailcheck-validate-single-email"
+  ]
+}

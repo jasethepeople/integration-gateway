@@ -1,0 +1,44 @@
+{
+  "app": "findymail",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyWebsiteOrName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "listName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "listId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "findymail-create-list",
+    "findymail-delete-list",
+    "findymail-find-email-name-domain",
+    "findymail-find-email",
+    "findymail-list-contact-lists",
+    "findymail-verify-email",
+    "findymail-new-saved-contact"
+  ]
+}

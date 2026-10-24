@@ -1,0 +1,7 @@
+{
+  "key": "white_swan-new-personal-plan",
+  "name": "New Personal Plan",
+  "description": "Emit new event when a customer creates a personal plan.",
+  "type": "source",
+  "version": "0.0.1"
+}

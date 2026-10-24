@@ -1,0 +1,7 @@
+{
+  "key": "survey_monkey-list-surveys",
+  "name": "List Surveys",
+  "description": "List all your Surveys. [See the docs here](https://developer.surveymonkey.com/api/v3/#api-endpoints-get-surveys)",
+  "type": "action",
+  "version": "0.0.4"
+}

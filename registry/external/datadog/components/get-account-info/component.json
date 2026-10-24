@@ -1,0 +1,7 @@
+{
+  "key": "datadog-get-account-info",
+  "name": "Get Account Info",
+  "description": "Detect the Datadog region for the connected account.",
+  "type": "action",
+  "version": "1.0.2"
+}

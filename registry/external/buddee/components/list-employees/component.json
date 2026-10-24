@@ -1,0 +1,7 @@
+{
+  "key": "buddee-list-employees",
+  "name": "List Employees",
+  "description": "Retrieve a complete list of employees. [See the documentation](https://developers.buddee.nl/#fd057d3c-8b40-4808-a4d2-eeffc5da82d7)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "donately-list-people",
+  "name": "List People",
+  "description": "List people for an account. [See the documentation](https://developer.donate.ly/api/#people)",
+  "type": "action",
+  "version": "0.0.1"
+}

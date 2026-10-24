@@ -1,0 +1,7 @@
+{
+  "key": "taiga-new-task-instant",
+  "name": "New Task (Instant)",
+  "description": "Emit new event when a task is created in the selected project. [See the documentation](https://docs.taiga.io/api.html#webhooks-create)",
+  "type": "source",
+  "version": "0.0.1"
+}

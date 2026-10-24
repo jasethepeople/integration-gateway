@@ -1,0 +1,21 @@
+{
+  "app": "digistore24",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "productId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "digistore24-list-product-id-options",
+    "digistore24-new-purchase",
+    "digistore24-new-rebilling-payment",
+    "digistore24-subscription-status-changed"
+  ]
+}

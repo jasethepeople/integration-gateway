@@ -1,0 +1,7 @@
+{
+  "key": "unleashed_software-get-sales-order",
+  "name": "Get Sales Order",
+  "description": "Retrieves a sales order by ID. [See the documentation](https://apidocs.unleashedsoftware.com/SalesOrders)",
+  "type": "action",
+  "version": "0.0.1"
+}

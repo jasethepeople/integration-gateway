@@ -1,0 +1,7 @@
+{
+  "key": "edusign-list-professor-id-options",
+  "name": "List Professor ID Options",
+  "description": "Retrieves available options for the Professor ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

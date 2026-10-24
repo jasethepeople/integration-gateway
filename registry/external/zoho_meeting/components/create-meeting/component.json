@@ -1,0 +1,7 @@
+{
+  "key": "zoho_meeting-create-meeting",
+  "name": "Create Meeting",
+  "description": "Creates a meeting. [See the documentation](https://www.zoho.com/meeting/api-integration/meeting-api/create-a-meeting.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

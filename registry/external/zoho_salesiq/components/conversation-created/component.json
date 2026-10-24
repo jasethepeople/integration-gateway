@@ -1,0 +1,7 @@
+{
+  "key": "zoho_salesiq-conversation-created",
+  "name": "New Conversation Created",
+  "description": "Emit new event when a new conversation is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

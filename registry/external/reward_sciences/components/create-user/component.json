@@ -1,0 +1,7 @@
+{
+  "key": "reward_sciences-create-user",
+  "name": "Create User",
+  "description": "Creates a new user in the Reward Sciences platform. [See the documentation](https://developers.rewardsciences.com/api/docs)",
+  "type": "action",
+  "version": "0.0.1"
+}

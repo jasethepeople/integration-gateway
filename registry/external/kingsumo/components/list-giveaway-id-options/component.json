@@ -1,0 +1,7 @@
+{
+  "key": "kingsumo-list-giveaway-id-options",
+  "name": "List Giveaway Id Options",
+  "description": "Retrieves available options for the Giveaway Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

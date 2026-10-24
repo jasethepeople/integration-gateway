@@ -1,0 +1,7 @@
+{
+  "key": "help_scout-get-conversation-details",
+  "name": "Get Conversation Details",
+  "description": "Retrieves the details of a specific conversation. [See the documentation](https://developer.helpscout.com/mailbox-api/endpoints/conversations/get/)",
+  "type": "action",
+  "version": "0.0.4"
+}

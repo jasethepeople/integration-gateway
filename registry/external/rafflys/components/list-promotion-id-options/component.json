@@ -1,0 +1,7 @@
+{
+  "key": "rafflys-list-promotion-id-options",
+  "name": "List Promotion ID Options",
+  "description": "Retrieves available options for the Promotion ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

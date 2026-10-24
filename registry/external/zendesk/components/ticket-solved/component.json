@@ -1,0 +1,7 @@
+{
+  "key": "zendesk-ticket-solved",
+  "name": "Ticket Solved (Instant)",
+  "description": "Emit new event when a ticket has changed to solved status",
+  "type": "source",
+  "version": "0.2.19"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pipefy-look-up-table-by-id",
+  "name": "Look Up Table by ID",
+  "description": "Looks up a database table by its ID. [See the docs here](https://api-docs.pipefy.com/reference/queries/#table)",
+  "type": "action",
+  "version": "0.1.3"
+}

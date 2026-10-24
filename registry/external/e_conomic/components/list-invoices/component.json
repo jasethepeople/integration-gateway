@@ -1,0 +1,7 @@
+{
+  "key": "e_conomic-list-invoices",
+  "name": "List Invoices",
+  "description": "Retrieves a list of invoices. [See the documentation](https://restdocs.e-conomic.com/#get-invoices)",
+  "type": "action",
+  "version": "0.0.1"
+}

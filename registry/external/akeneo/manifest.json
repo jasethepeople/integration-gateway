@@ -1,0 +1,80 @@
+{
+  "app": "akeneo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "productId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productModelCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mediaFileAttributeCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "channelCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "localeCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "locale": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "attribute": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "withAttributeOptions": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "withAssetShareLinks": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "withQualityScores": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "withCompletenesses": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "host": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "akeneo-create-a-new-product-media-file",
+    "akeneo-delete-product",
+    "akeneo-get-draft",
+    "akeneo-get-product",
+    "akeneo-list-attribute-options",
+    "akeneo-list-channel-code-options",
+    "akeneo-list-locale-options",
+    "akeneo-list-media-file-attribute-code-options",
+    "akeneo-list-product-id-options",
+    "akeneo-list-product-model-code-options",
+    "akeneo-search-products",
+    "akeneo-submit-product-for-approval"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "convertkit-new-subscriber-instant",
+  "name": "New Subscriber Activation (Instant)",
+  "description": "Emit new event when a new subscriber is activated. [See docs here](https://developers.convertkit.com/#create-a-webhook)",
+  "type": "source",
+  "version": "0.0.2"
+}

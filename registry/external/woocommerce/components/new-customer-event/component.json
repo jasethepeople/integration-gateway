@@ -1,0 +1,7 @@
+{
+  "key": "woocommerce-new-customer-event",
+  "name": "New Customer Event (Instant)",
+  "description": "Emit new event each time the specified customer event(s) occur",
+  "type": "source",
+  "version": "0.0.4"
+}

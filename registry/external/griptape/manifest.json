@@ -1,0 +1,53 @@
+{
+  "app": "griptape",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "input": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "knowledgeBaseId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "rulesetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "structureId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "toolId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "assistantId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "griptape-create-assistant",
+    "griptape-delete-assistant",
+    "griptape-list-assistant-id-options",
+    "griptape-list-knowledge-base-id-options",
+    "griptape-list-ruleset-id-options",
+    "griptape-list-structure-id-options",
+    "griptape-list-tool-id-options",
+    "griptape-update-assistant"
+  ]
+}

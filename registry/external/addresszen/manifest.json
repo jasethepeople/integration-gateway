@@ -1,0 +1,32 @@
+{
+  "app": "addresszen",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "addressLine": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "city": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "state": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "zipCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "addresszen-freeform-verify-correct-us-address",
+    "addresszen-verify-correct-us-address-city-state",
+    "addresszen-verify-correct-us-address-zip-code"
+  ]
+}

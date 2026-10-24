@@ -1,0 +1,72 @@
+{
+  "app": "peakon_employee_voice",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contextId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "interval": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "employeeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "observations": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "participation": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "filterSegmentIds": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "identifier": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "employmentStatus": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customAttributes": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "environment": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "peakon_employee_voice-create-employee",
+    "peakon_employee_voice-delete-employee",
+    "peakon_employee_voice-get-driver-scores",
+    "peakon_employee_voice-get-engagement-overview",
+    "peakon_employee_voice-list-employees",
+    "peakon_employee_voice-list-segments",
+    "peakon_employee_voice-update-employee"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "engage-list-customer-id-options",
+  "name": "List Customer ID Options",
+  "description": "Retrieves available options for the Customer ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

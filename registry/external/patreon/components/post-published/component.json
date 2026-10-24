@@ -1,0 +1,7 @@
+{
+  "key": "patreon-post-published",
+  "name": "Post Published",
+  "description": "Emit new event for published post",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "surecart-retrieve-refund",
+  "name": "Retrieve Refund",
+  "description": "Retrieve a refund by ID. [See the documentation](https://developer.surecart.com/api-reference/refunds/retrieve)",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,30 @@
+{
+  "app": "ipstack",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "ip": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "hostname": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "security": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "language": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "access_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ipstack-ip-lookup"
+  ]
+}

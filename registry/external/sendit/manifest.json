@@ -1,0 +1,58 @@
+{
+  "app": "sendit",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "platforms": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "text": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mediaUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mediaUrls": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "mediaType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "scheduledTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "scheduleId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "platformFilter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sendit-cancel-scheduled-post",
+    "sendit-list-accounts",
+    "sendit-list-scheduled-posts",
+    "sendit-publish-post",
+    "sendit-schedule-post",
+    "sendit-trigger-scheduled-post",
+    "sendit-validate-content",
+    "sendit-post-failed",
+    "sendit-post-published",
+    "sendit-post-scheduled"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

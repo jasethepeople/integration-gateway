@@ -1,0 +1,152 @@
+{
+  "app": "order_desk",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "order_items": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "customer_first_name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customer_last_name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customer_company": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shipping_first_name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shipping_last_name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shipping_company": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "order_id": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "source_id": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "source_name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shipping_method": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "quantity_total": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "weight_total": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "product_total": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shipping_total": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "handling_total": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tax_total": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "discount_total": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "order_total": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cc_number": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cc_exp": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "processor_response": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "payment_type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "payment_status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "processor_balance": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "refund_total": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customer_id": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ip_address": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fulfillment_name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fulfillment_id": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "folder_id": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "store_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "order_desk-create-order",
+    "order_desk-find-order",
+    "order_desk-list-order-id-options",
+    "order_desk-list-orders",
+    "order_desk-update-order",
+    "order_desk-new-order-created",
+    "order_desk-new-order-updated"
+  ]
+}

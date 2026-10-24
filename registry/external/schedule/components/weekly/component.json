@@ -1,0 +1,7 @@
+{
+  "key": "schedule-weekly",
+  "name": "Weekly schedule",
+  "description": "Trigger your workflow on one or more days each week at a specific time (with timezone support).",
+  "type": "source",
+  "version": "0.0.1"
+}

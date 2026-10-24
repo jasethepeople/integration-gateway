@@ -1,0 +1,7 @@
+{
+  "key": "acuity_scheduling-list-calendar-id-options",
+  "name": "List Calendar ID Options",
+  "description": "Retrieves available options for the Calendar ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "surveybot-list-surveys",
+  "name": "List Surveys",
+  "description": "List all surveys from SurveyBot. [See the documentation](https://app.surveybot.io/accounts/api_use_cases)",
+  "type": "action",
+  "version": "0.0.1"
+}

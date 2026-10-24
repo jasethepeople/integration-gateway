@@ -1,0 +1,7 @@
+{
+  "key": "cogmento-list-user-ids-options",
+  "name": "List User IDs Options",
+  "description": "Retrieves available options for the User IDs field.",
+  "type": "action",
+  "version": "0.0.1"
+}

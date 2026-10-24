@@ -1,0 +1,7 @@
+{
+  "key": "sentry-list-project-events",
+  "name": "List Project Events.",
+  "description": "Return a list of events bound to a project. [See the docs here](https://docs.sentry.io/api/events/list-a-projects-events/)",
+  "type": "action",
+  "version": "0.1.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "fitbit-get-body-weight",
+  "name": "Get Body Weight and BMI Logs",
+  "description": "Gets body weight and BMI log entries for a given date. [See the docs](https://dev.fitbit.com/build/reference/web-api/body/get-weight-logs/)",
+  "type": "action",
+  "version": "0.0.1"
+}

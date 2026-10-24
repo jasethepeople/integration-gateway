@@ -1,0 +1,7 @@
+{
+  "key": "pennylane-new-customer",
+  "name": "New Customer Created",
+  "description": "Emit new event when a customer is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

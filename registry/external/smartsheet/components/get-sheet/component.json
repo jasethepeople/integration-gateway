@@ -1,0 +1,7 @@
+{
+  "key": "smartsheet-get-sheet",
+  "name": "Get Sheet",
+  "description": "Get a sheet's full structure: column definitions (name, type, options, ID), all rows with cell values, and sheet metadata.",
+  "type": "action",
+  "version": "1.0.2"
+}

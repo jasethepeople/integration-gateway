@@ -1,0 +1,60 @@
+{
+  "app": "daytona",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "snapshotId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sandboxId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timeout": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "target": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "daytona-clone-git-repository",
+    "daytona-create-sandbox",
+    "daytona-create-ssh-access",
+    "daytona-delete-sandbox",
+    "daytona-get-preview-link",
+    "daytona-get-sandbox",
+    "daytona-list-sandbox-id-options",
+    "daytona-list-sandboxes",
+    "daytona-list-snapshot-id-options",
+    "daytona-list-snapshots",
+    "daytona-revoke-ssh-access",
+    "daytona-run-code",
+    "daytona-run-command",
+    "daytona-start-sandbox",
+    "daytona-stop-sandbox",
+    "daytona-wait-until-stopped"
+  ],
+  "npmImports": [
+    "@daytonaio/sdk"
+  ]
+}

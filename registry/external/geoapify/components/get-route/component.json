@@ -1,0 +1,7 @@
+{
+  "key": "geoapify-get-route",
+  "name": "Get Route",
+  "description": "Calculates a route between two sets of latitude and longitude points. [See the documentation](https://apidocs.geoapify.com/docs/routing/)",
+  "type": "action",
+  "version": "0.0.2"
+}

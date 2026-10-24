@@ -1,0 +1,7 @@
+{
+  "key": "nicereply-new-user-rating",
+  "name": "New User Rating",
+  "description": "Emit new event on each new user rating.",
+  "type": "source",
+  "version": "0.0.2"
+}

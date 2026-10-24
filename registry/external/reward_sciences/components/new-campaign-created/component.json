@@ -1,0 +1,7 @@
+{
+  "key": "reward_sciences-new-campaign-created",
+  "name": "New Campaign Created",
+  "description": "Emit new event when a new campaign is created in Reward Sciences. [See the documentation](https://developers.rewardsciences.com/api/docs)",
+  "type": "source",
+  "version": "0.0.1"
+}

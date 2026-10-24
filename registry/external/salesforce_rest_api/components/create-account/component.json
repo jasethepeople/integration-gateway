@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-create-account",
+  "name": "Create Account",
+  "description": "Create a Salesforce account (a company or organization record).",
+  "type": "action",
+  "version": "0.4.1"
+}

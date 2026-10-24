@@ -1,0 +1,7 @@
+{
+  "key": "influxdb_cloud-list-script-id-options",
+  "name": "List Script ID Options",
+  "description": "Retrieves available options for the Script ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

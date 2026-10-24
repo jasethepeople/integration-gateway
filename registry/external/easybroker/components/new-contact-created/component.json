@@ -1,0 +1,7 @@
+{
+  "key": "easybroker-new-contact-created",
+  "name": "New Contact Created",
+  "description": "Emit new event when a new contact is created. [See the documentation](https://dev.easybroker.com/reference/get_contacts)",
+  "type": "source",
+  "version": "0.0.2"
+}

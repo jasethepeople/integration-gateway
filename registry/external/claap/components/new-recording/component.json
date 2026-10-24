@@ -1,0 +1,7 @@
+{
+  "key": "claap-new-recording",
+  "name": "New Recording",
+  "description": "Emit new event when a new recording is created in Claap. [See the documentation](https://docs.claap.io/api-reference/endpoint/list_recordings).",
+  "type": "source",
+  "version": "0.0.1"
+}

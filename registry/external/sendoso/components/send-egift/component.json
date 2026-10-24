@@ -1,0 +1,7 @@
+{
+  "key": "sendoso-send-egift",
+  "name": "Send an eGift",
+  "description": "Send an eGift. [See the documentation](https://developer.sendoso.com/rest-api/reference/sends/egift/eGift)",
+  "type": "action",
+  "version": "0.0.1"
+}

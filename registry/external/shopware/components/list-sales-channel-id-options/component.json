@@ -1,0 +1,7 @@
+{
+  "key": "shopware-list-sales-channel-id-options",
+  "name": "List Sales Channel ID Options",
+  "description": "Retrieves available options for the Sales Channel ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

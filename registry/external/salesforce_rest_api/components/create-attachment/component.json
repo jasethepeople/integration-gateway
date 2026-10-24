@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-create-attachment",
+  "name": "Create Attachment",
+  "description": "Attach a file to an existing Salesforce record (classic `Attachment` object).",
+  "type": "action",
+  "version": "0.6.1"
+}

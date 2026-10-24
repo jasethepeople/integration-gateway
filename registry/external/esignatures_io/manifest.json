@@ -1,0 +1,15 @@
+{
+  "app": "esignatures_io",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "esignatures_io-create-contract",
+    "esignatures_io-list-template-id-options"
+  ]
+}

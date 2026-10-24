@@ -1,0 +1,7 @@
+{
+  "key": "testlocally-new-test-run",
+  "name": "New Test Run",
+  "description": "Emit new event when a new test is run or completed in TestLocally. [See the documentation](https://testlocally.readme.io/reference/api_v0_recent_tests)",
+  "type": "source",
+  "version": "0.0.1"
+}

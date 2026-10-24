@@ -1,0 +1,7 @@
+{
+  "key": "gotowebinar-registrant-added",
+  "name": "New Registrant Added (Instant)",
+  "description": "Emit new event when a registrant is added.",
+  "type": "source",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pagerduty-list-log-entries",
+  "name": "List Log Entries",
+  "description": "List log entries (the audit trail of actions taken on an incident or across the account).",
+  "type": "action",
+  "version": "0.0.2"
+}

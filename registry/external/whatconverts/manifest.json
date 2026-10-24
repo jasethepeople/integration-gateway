@@ -1,0 +1,33 @@
+{
+  "app": "whatconverts",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "profileId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "leadType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "whatconverts-find-lead",
+    "whatconverts-list-account-id-options",
+    "whatconverts-new-lead-added",
+    "whatconverts-updated-lead"
+  ]
+}

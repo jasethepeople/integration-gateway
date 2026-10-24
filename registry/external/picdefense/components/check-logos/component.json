@@ -1,0 +1,7 @@
+{
+  "key": "picdefense-check-logos",
+  "name": "Check Logos",
+  "description": "Returns whether the image contains a logo and any detected logo names. [See the documentation](https://app.picdefense.io/apidocs/)",
+  "type": "action",
+  "version": "0.0.1"
+}

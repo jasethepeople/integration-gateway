@@ -1,0 +1,7 @@
+{
+  "key": "google_drive-list-mime-type-options",
+  "name": "List Mime Type Options",
+  "description": "Retrieves available options for the Mime Type field.",
+  "type": "action",
+  "version": "0.0.10"
+}

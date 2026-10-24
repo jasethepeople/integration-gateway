@@ -1,0 +1,7 @@
+{
+  "key": "inksprout-create-summary",
+  "name": "Create Summary",
+  "description": "Create summary by either url or raw text. [See the docs](https://inksprout.co/docs/index.html#item-2-2).",
+  "type": "action",
+  "version": "0.0.2"
+}

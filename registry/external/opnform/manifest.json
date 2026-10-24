@@ -1,0 +1,23 @@
+{
+  "app": "opnform",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "workspaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "formId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "opnform-list-workspace-id-options",
+    "opnform-new-submission-instant"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "belco-conversation-reopened-instant",
+  "name": "Conversation Reopened (Instant)",
+  "description": "Emit new event for each new conversation reopened event",
+  "type": "source",
+  "version": "0.0.3"
+}

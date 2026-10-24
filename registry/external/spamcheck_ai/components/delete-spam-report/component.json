@@ -1,0 +1,7 @@
+{
+  "key": "spamcheck_ai-delete-spam-report",
+  "name": "Delete Report",
+  "description": "Delete a spam report. [See the documentation](https://app.spamcheck.ai/api_docs/index.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

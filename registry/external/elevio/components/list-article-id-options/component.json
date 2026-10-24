@@ -1,0 +1,7 @@
+{
+  "key": "elevio-list-article-id-options",
+  "name": "List Article ID Options",
+  "description": "Retrieves available options for the Article ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "onenote-search-pages",
+  "name": "Search Pages",
+  "description": "Search and list OneNote pages. Supports free-text title search, OData filtering, expansion of related resources, and pagination.",
+  "type": "action",
+  "version": "1.0.1"
+}

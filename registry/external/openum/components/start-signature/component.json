@@ -1,0 +1,7 @@
+{
+  "key": "openum-start-signature",
+  "name": "Start Signature",
+  "description": "Initiates an electronic document delivery process to recipient(s). [See the documentation](https://api.lleida.net/dtd/openum/v1/en/)",
+  "type": "action",
+  "version": "0.0.1"
+}

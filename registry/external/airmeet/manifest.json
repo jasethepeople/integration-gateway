@@ -1,0 +1,27 @@
+{
+  "app": "airmeet",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "airmeetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "region": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "airmeet-add-authorized-attendee",
+    "airmeet-create-airmeet",
+    "airmeet-list-airmeet-id-options"
+  ],
+  "npmImports": [
+    "dayjs"
+  ]
+}

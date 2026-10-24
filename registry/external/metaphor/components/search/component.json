@@ -1,0 +1,7 @@
+{
+  "key": "metaphor-search",
+  "name": "Search",
+  "description": "Perform a search with a Metaphor prompt-engineered query and retrieve a list of relevant results. [See the documentation](https://docs.metaphor.systems/reference/search)",
+  "type": "action",
+  "version": "0.0.2"
+}

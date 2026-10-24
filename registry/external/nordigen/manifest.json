@@ -1,0 +1,49 @@
+{
+  "app": "nordigen",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "countryCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "institutionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "requisitionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "accessValidForDays": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "maxHistoricalDays": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "accessScope": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "nordigen-create-requisition-link",
+    "nordigen-delete-requisition-link",
+    "nordigen-get-account-balances",
+    "nordigen-get-account-details",
+    "nordigen-get-account-metadata",
+    "nordigen-get-account-transactions",
+    "nordigen-list-requisition-id-options",
+    "nordigen-new-transaction"
+  ]
+}

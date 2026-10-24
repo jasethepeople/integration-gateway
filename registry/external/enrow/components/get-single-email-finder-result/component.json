@@ -1,0 +1,7 @@
+{
+  "key": "enrow-get-single-email-finder-result",
+  "name": "Get Single Email Finder Result",
+  "description": "Retrieve a result from a single search executed via email finder function. [See the documentation](https://enrow.readme.io/reference/get-single-email-finder-result)",
+  "type": "action",
+  "version": "0.0.2"
+}

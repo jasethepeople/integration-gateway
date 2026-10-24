@@ -1,0 +1,7 @@
+{
+  "key": "twitch-new-clips",
+  "name": "New Clips",
+  "description": "Emit new event when there is a new clip for the specified game.",
+  "type": "source",
+  "version": "0.1.4"
+}

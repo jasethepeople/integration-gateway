@@ -1,0 +1,7 @@
+{
+  "key": "upkeep-custom-events",
+  "name": "New Custom Event",
+  "description": "Emit new event when a configured event occurs.",
+  "type": "source",
+  "version": "0.0.2"
+}

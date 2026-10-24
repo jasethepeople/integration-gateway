@@ -1,0 +1,19 @@
+{
+  "app": "invidious",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "invidious-search-suggestions",
+    "invidious-search"
+  ]
+}

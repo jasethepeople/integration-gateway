@@ -1,0 +1,7 @@
+{
+  "key": "rejoiner-update-customer-profile",
+  "name": "Update Customer Profile",
+  "description": "Updates a customer's profile information. [See the documentation](https://docs.rejoiner.com/reference/update-customer-profile)",
+  "type": "action",
+  "version": "0.0.2"
+}

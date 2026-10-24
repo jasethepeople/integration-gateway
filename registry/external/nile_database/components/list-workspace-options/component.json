@@ -1,0 +1,7 @@
+{
+  "key": "nile_database-list-workspace-options",
+  "name": "List Workspace Options",
+  "description": "Retrieves available options for the Workspace field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pagerduty-list-incident-workflows",
+  "name": "List Incident Workflows",
+  "description": "List available incident automation workflows.",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,162 @@
+{
+  "app": "dataforseo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "locationCode": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "tripAdvisorLocationCode": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "locationCoordinate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "targetType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "target": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "backlinksTarget": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "categories": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "isClaimed": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "languageCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "keywords": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "backlinksFilters": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "rankScale": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tag": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "includeSubdomains": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "includeIndirectLinks": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "excludeInternalBacklinks": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "backlinksStatusType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "additionalOptions": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "targets": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_login": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_password": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dataforseo-create-onpage-task",
+    "dataforseo-get-app-intersection",
+    "dataforseo-get-app-reviews-summary",
+    "dataforseo-get-backlinks-history",
+    "dataforseo-get-backlinks-summary",
+    "dataforseo-get-backlinks",
+    "dataforseo-get-bing-organic-results",
+    "dataforseo-get-bulk-backlinks",
+    "dataforseo-get-bulk-ranks",
+    "dataforseo-get-bulk-referring-domains",
+    "dataforseo-get-bulk-spam-score",
+    "dataforseo-get-bulk-traffic-analytics",
+    "dataforseo-get-business-listings-categories",
+    "dataforseo-get-business-listings",
+    "dataforseo-get-categories-aggregation",
+    "dataforseo-get-competitor-domains",
+    "dataforseo-get-content-citations",
+    "dataforseo-get-content-summary",
+    "dataforseo-get-crawled-pages",
+    "dataforseo-get-domain-intersection",
+    "dataforseo-get-domain-keywords",
+    "dataforseo-get-domain-pages-summary",
+    "dataforseo-get-domain-rank-overview",
+    "dataforseo-get-domain-whois-overview",
+    "dataforseo-get-google-ads-ad-traffic-by-keyword",
+    "dataforseo-get-google-ads-keywords-for-keywords-completed-tasks",
+    "dataforseo-get-google-ads-keywords-for-keywords",
+    "dataforseo-get-google-ads-keywords-for-site-completed-tasks",
+    "dataforseo-get-google-ads-languages",
+    "dataforseo-get-google-ads-locations",
+    "dataforseo-get-google-ads-search-volume-completed-tasks",
+    "dataforseo-get-google-ads-search-volume",
+    "dataforseo-get-google-ads-status",
+    "dataforseo-get-google-ads-traffic-by-keywords-completed-tasks",
+    "dataforseo-get-google-images-results",
+    "dataforseo-get-google-my-business-info",
+    "dataforseo-get-google-news-results",
+    "dataforseo-get-google-organic-results",
+    "dataforseo-get-google-play-search",
+    "dataforseo-get-google-reviews",
+    "dataforseo-get-historical-serp-data",
+    "dataforseo-get-keyword-data-errors",
+    "dataforseo-get-keyword-data-id-list",
+    "dataforseo-get-keyword-difficulty",
+    "dataforseo-get-keyword-ideas-live",
+    "dataforseo-get-keyword-suggestions",
+    "dataforseo-get-ranked-keywords",
+    "dataforseo-get-referring-domains",
+    "dataforseo-get-sentiment-analysis",
+    "dataforseo-get-technologies-domain-list",
+    "dataforseo-get-top-serp-results",
+    "dataforseo-get-trustpilot-reviews",
+    "dataforseo-get-yahoo-organic-results",
+    "dataforseo-list-language-code-options",
+    "dataforseo-list-location-code-options",
+    "dataforseo-parse-page-content",
+    "dataforseo-search-business-listings"
+  ]
+}

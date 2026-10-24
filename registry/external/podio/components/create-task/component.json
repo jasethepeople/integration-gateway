@@ -1,0 +1,7 @@
+{
+  "key": "podio-create-task",
+  "name": "Create Task",
+  "description": "Creates a task to the given workspace. [See the documentation](https://developers.podio.com/doc/tasks/create-task-22419)",
+  "type": "action",
+  "version": "0.0.3"
+}

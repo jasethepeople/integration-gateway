@@ -1,0 +1,7 @@
+{
+  "key": "trakt-new-show-or-movie-rated",
+  "name": "New Show Or Movie Rated",
+  "description": "Emit new event on each new rated show or movie.",
+  "type": "source",
+  "version": "0.0.3"
+}

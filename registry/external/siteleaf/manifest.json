@@ -1,0 +1,31 @@
+{
+  "app": "siteleaf",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "siteId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "collectionPath": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "siteleaf-create-document",
+    "siteleaf-list-site-id-options",
+    "siteleaf-new-collection",
+    "siteleaf-new-document",
+    "siteleaf-new-page",
+    "siteleaf-new-site"
+  ]
+}

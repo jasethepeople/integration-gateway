@@ -1,0 +1,7 @@
+{
+  "key": "fakturoid-new-invoice",
+  "name": "New Invoice Created",
+  "description": "Emit new event when a new invoice is created in Fakturoid.",
+  "type": "source",
+  "version": "0.0.1"
+}

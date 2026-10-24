@@ -1,0 +1,7 @@
+{
+  "key": "smartsheet-get-comment",
+  "name": "Get Comment",
+  "description": "Retrieves a single comment from a Smartsheet sheet (GET /sheets/{sheetId}/comments/{commentId}),",
+  "type": "action",
+  "version": "0.0.2"
+}

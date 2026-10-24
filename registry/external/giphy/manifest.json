@@ -1,0 +1,23 @@
+{
+  "app": "giphy",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "max": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "giphy-search-gifs-stickers",
+    "giphy-translate-term-to-a-gif-sticker",
+    "giphy-upload-a-gif"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

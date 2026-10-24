@@ -1,0 +1,17 @@
+{
+  "app": "poof",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "poof-create-deposit-address",
+    "poof-list-transactions",
+    "poof-send-transaction",
+    "poof-new-payment-made"
+  ]
+}

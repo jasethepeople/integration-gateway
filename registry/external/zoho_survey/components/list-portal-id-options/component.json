@@ -1,0 +1,7 @@
+{
+  "key": "zoho_survey-list-portal-id-options",
+  "name": "List Portal Options",
+  "description": "Retrieves available options for the Portal field.",
+  "type": "action",
+  "version": "0.0.1"
+}

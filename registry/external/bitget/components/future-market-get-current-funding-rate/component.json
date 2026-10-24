@@ -1,0 +1,7 @@
+{
+  "key": "bitget-future-market-get-current-funding-rate",
+  "name": "Future - Market - Get Current Funding Rate",
+  "description": "Retrieve current funding rate for a contract symbol. [See the documentation](https://www.bitget.com/api-doc/contract/market/Get-Current-Funding-Rate)",
+  "type": "action",
+  "version": "0.0.3"
+}

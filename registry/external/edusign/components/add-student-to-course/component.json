@@ -1,0 +1,7 @@
+{
+  "key": "edusign-add-student-to-course",
+  "name": "Add Student to Course",
+  "description": "Add a student to a course. [See the documentation](https://developers.edusign.com/reference/putv1courseattendancecourseid)",
+  "type": "action",
+  "version": "0.0.1"
+}

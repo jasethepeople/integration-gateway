@@ -1,0 +1,7 @@
+{
+  "key": "ecologi-buy-trees",
+  "name": "Buy Trees",
+  "description": "Purchase trees through Ecologi. [See the documentation](https://docs.ecologi.com/docs/public-api-docs/004342d262f93-purchase-trees)",
+  "type": "action",
+  "version": "0.0.2"
+}

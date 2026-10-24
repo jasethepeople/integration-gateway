@@ -1,0 +1,7 @@
+{
+  "key": "social_fetch-search-tiktok-hashtags",
+  "name": "Search TikTok Hashtags",
+  "description": "Searches TikTok for hashtags matching a query. [See the documentation](https://app.socialfetch.dev/playground?path=/v1/tiktok/search/hashtags&method=GET)",
+  "type": "action",
+  "version": "0.0.1"
+}

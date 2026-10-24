@@ -1,0 +1,7 @@
+{
+  "key": "templatedocs-generate-document",
+  "name": "Generate Document",
+  "description": "Generate a document by merging data with a template's placeholders. Returns the document as a file saved to `/tmp`. [See the documentation](https://templatedocs.io/docs/api/templates/generate)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "tomba-get-email-count",
+  "name": "Get Email Count",
+  "description": "Find total email addresses we have for one domain. [See the documentation](https://docs.tomba.io/api/finder#email-count)",
+  "type": "action",
+  "version": "0.0.1"
+}

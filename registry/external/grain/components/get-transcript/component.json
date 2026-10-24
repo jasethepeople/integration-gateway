@@ -1,0 +1,7 @@
+{
+  "key": "grain-get-transcript",
+  "name": "Get Transcript",
+  "description": "Fetches the full transcript of a Grain recording.",
+  "type": "action",
+  "version": "0.0.3"
+}

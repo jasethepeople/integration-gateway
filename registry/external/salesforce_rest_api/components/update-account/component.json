@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-update-account",
+  "name": "Update Account",
+  "description": "Update fields on an existing Salesforce account.",
+  "type": "action",
+  "version": "0.4.1"
+}

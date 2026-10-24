@@ -1,0 +1,7 @@
+{
+  "key": "crove_app-update-document",
+  "name": "Update Document",
+  "description": "Update values of variables of a document.",
+  "type": "action",
+  "version": "1.0.3"
+}

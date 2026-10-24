@@ -1,0 +1,7 @@
+{
+  "key": "confluence_data_center-update-content",
+  "name": "Update Content",
+  "description": "Updates a page or blogpost in Confluence Data Center. [See the documentation](https://developer.atlassian.com/server/confluence/rest/v1022/api-group-content-resource/#api-rest-api-content-contentid-put)",
+  "type": "action",
+  "version": "0.0.3"
+}

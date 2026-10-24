@@ -1,0 +1,56 @@
+{
+  "app": "zoho_crm",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "module": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recordId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "attachmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_domain": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zoho_crm-convert-lead",
+    "zoho_crm-create-object",
+    "zoho_crm-download-attachment",
+    "zoho_crm-get-object",
+    "zoho_crm-list-attachments",
+    "zoho_crm-list-fields",
+    "zoho_crm-list-modules",
+    "zoho_crm-list-objects",
+    "zoho_crm-search-objects",
+    "zoho_crm-update-object",
+    "zoho_crm-upload-attachment",
+    "zoho_crm-upsert-records",
+    "zoho_crm-new-contact",
+    "zoho_crm-new-event",
+    "zoho_crm-new-lead",
+    "zoho_crm-new-module-entry",
+    "zoho_crm-new-or-updated-contact",
+    "zoho_crm-new-or-updated-lead",
+    "zoho_crm-new-or-updated-module-entry",
+    "zoho_crm-new-user",
+    "zoho_crm-updated-module-entry"
+  ],
+  "npmImports": [
+    "crypto",
+    "form-data",
+    "fs",
+    "lodash.sortby"
+  ]
+}

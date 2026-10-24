@@ -1,0 +1,7 @@
+{
+  "key": "philips_hue-new-light-state",
+  "name": "New Light State",
+  "description": "Emit new event when the state of a light changes (e.g., turned on/off, brightness adjusted, color changed). [See the documentation](https://developers.meethue.com/develop/hue-api-v2/api-reference/#resource_light__id__put)",
+  "type": "source",
+  "version": "0.0.1"
+}

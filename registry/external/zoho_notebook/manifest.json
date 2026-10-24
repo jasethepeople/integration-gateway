@@ -1,0 +1,27 @@
+{
+  "app": "zoho_notebook",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "notebookId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "base_api_uri": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zoho_notebook-create-notebook",
+    "zoho_notebook-list-notebook-id-options",
+    "zoho_notebook-list-notebooks",
+    "zoho_notebook-new-audio-card",
+    "zoho_notebook-new-checklist-card",
+    "zoho_notebook-new-notecard-in-notebook"
+  ]
+}

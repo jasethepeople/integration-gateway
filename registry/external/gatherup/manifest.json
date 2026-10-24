@@ -1,0 +1,25 @@
+{
+  "app": "gatherup",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "bearer_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "client_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "gatherup-create-customer",
+    "gatherup-list-business-id-options",
+    "gatherup-new-feedback-received",
+    "gatherup-new-negative-feedback-received",
+    "gatherup-new-positive-feedback-received"
+  ],
+  "npmImports": [
+    "dayjs"
+  ]
+}

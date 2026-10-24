@@ -1,0 +1,7 @@
+{
+  "key": "laposta-delete-relation",
+  "name": "Delete Relation",
+  "description": "Deletes a relation. [See docs here (Go to `Remove relationship`)](http://api.laposta.nl/doc/)",
+  "type": "action",
+  "version": "0.0.2"
+}

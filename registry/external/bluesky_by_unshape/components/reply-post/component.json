@@ -1,0 +1,7 @@
+{
+  "key": "bluesky_by_unshape-reply-post",
+  "name": "Reply to a Post",
+  "description": "Allows you to reply to a post in Bluesky. [See the documentation](https://unshape.readme.io/reference/post_bluesky-reply)",
+  "type": "action",
+  "version": "0.0.2"
+}

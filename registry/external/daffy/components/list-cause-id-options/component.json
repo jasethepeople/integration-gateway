@@ -1,0 +1,7 @@
+{
+  "key": "daffy-list-cause-id-options",
+  "name": "List Cause Options",
+  "description": "Retrieves available options for the Cause field.",
+  "type": "action",
+  "version": "0.0.1"
+}

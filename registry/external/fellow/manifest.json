@@ -1,0 +1,28 @@
+{
+  "app": "fellow",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "noteId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "actionItemId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "fellow-archive-action-item",
+    "fellow-complete-action-item",
+    "fellow-get-note-by-id"
+  ]
+}

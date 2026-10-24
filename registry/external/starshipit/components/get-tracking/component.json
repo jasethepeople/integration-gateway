@@ -1,0 +1,7 @@
+{
+  "key": "starshipit-get-tracking",
+  "name": "Get Tracking Details",
+  "description": "Retrieve tracking details using a tracking number or order number. [See the documentation](https://api-docs.starshipit.com/#a655a3b4-ea39-42c4-acb4-d868ad40dc47)",
+  "type": "action",
+  "version": "0.0.2"
+}

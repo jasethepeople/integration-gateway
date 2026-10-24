@@ -1,0 +1,49 @@
+{
+  "app": "airtop",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "sessionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "windowId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "waitUntil": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "waitUntilTimeoutSeconds": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "followPaginationLinks": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "costThresholdCredits": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "timeThresholdSeconds": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "airtop-create-session",
+    "airtop-create-window",
+    "airtop-end-session",
+    "airtop-list-session-id-options",
+    "airtop-load-url",
+    "airtop-query-page",
+    "airtop-scrape-content",
+    "airtop-new-session-created"
+  ]
+}

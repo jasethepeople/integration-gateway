@@ -1,0 +1,7 @@
+{
+  "key": "vision6-contact-unsubscribed",
+  "name": "Contact Unsubscribed",
+  "description": "Emit new event when a contact is unsubscribed",
+  "type": "source",
+  "version": "0.0.2"
+}

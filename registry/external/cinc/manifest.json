@@ -1,0 +1,62 @@
+{
+  "app": "cinc",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "leadId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cellphone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "source": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "medianListingPrice": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "averageListingPrice": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "isBuyerLead": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "isSellerLead": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "cinc-create-lead",
+    "cinc-get-lead",
+    "cinc-list-lead-id-options",
+    "cinc-lead-details-updated",
+    "cinc-new-lead-created"
+  ]
+}

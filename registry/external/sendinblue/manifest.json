@@ -1,0 +1,17 @@
+{
+  "app": "sendinblue",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sendinblue-add-or-update-contact",
+    "sendinblue-send-transactional-email",
+    "sendinblue-marketing-webhook",
+    "sendinblue-transactional-webhook"
+  ]
+}

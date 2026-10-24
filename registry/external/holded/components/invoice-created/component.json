@@ -1,0 +1,7 @@
+{
+  "key": "holded-invoice-created",
+  "name": "New Invoice Created",
+  "description": "Emit new event when invoice is generated in Holded. [See the docs](https://developers.holded.com/reference/list-documents-1).",
+  "type": "source",
+  "version": "0.0.1"
+}

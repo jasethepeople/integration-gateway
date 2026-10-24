@@ -1,0 +1,31 @@
+{
+  "app": "miestro",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "courseId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "miestro-create-user",
+    "miestro-enroll-user-to-course",
+    "miestro-list-course-id-options",
+    "miestro-list-user-id-options",
+    "miestro-unroll-user-to-course",
+    "miestro-new-webhook-event-received"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-delete-category",
+  "name": "Delete Category",
+  "description": "Delete a category by UUID. [See the documentation](https://developer.servicem8.com/reference/deletecategories)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "universal_api-list-mdm-vpp-tokens",
+  "name": "List MDM VPP Tokens",
+  "description": "List VPP (Volume Purchase Program) tokens from the MDM API on Universal API. Returns an array; use the returned IDs with **Get MDM VPP Token**. [See the documentation](https://docs.universalapi.io/reference/list-vpp-tokens).",
+  "type": "action",
+  "version": "0.0.2"
+}

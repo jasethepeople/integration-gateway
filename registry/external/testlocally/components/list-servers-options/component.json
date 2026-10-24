@@ -1,0 +1,7 @@
+{
+  "key": "testlocally-list-servers-options",
+  "name": "List Servers Options",
+  "description": "Retrieves available options for the Servers field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,45 @@
+{
+  "app": "pointagram",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "externalId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "offline": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "playerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "scoreSeriesId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_user": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pointagram-add-points-to-player",
+    "pointagram-create-player",
+    "pointagram-list-players",
+    "pointagram-list-score-series-id-options"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-soql-search",
+  "name": "SOQL Query (Object Query)",
+  "description": "Run a SOQL query with guided prompts for the object, fields and filter.",
+  "type": "action",
+  "version": "0.2.16"
+}

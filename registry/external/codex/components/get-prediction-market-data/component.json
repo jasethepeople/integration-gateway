@@ -1,0 +1,7 @@
+{
+  "key": "codex-get-prediction-market-data",
+  "name": "Get Prediction Market Data",
+  "description": "Returns prediction market outcomes (Polymarket, Kalshi) with current prices and implied probabilities.",
+  "type": "action",
+  "version": "0.0.2"
+}

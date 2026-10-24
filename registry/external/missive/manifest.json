@@ -1,0 +1,29 @@
+{
+  "app": "missive",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactBookId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "missive-create-contact",
+    "missive-create-draft",
+    "missive-create-post",
+    "missive-get-contact",
+    "missive-list-contact-book-id-options",
+    "missive-list-contacts",
+    "missive-new-comment-instant",
+    "missive-new-contact"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "drata-update-vendor",
+  "name": "Update Vendor",
+  "description": "The name of the vendor",
+  "type": "action",
+  "version": "0.0.4"
+}

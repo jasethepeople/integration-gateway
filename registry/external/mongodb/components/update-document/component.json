@@ -1,0 +1,7 @@
+{
+  "key": "mongodb-update-document",
+  "name": "Update a Document",
+  "description": "Updates a single document by ID. [See the docs here](https://docs.mongodb.com/manual/reference/method/db.collection.findOneAndUpdate/)",
+  "type": "action",
+  "version": "0.1.6"
+}

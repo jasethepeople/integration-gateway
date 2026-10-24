@@ -1,0 +1,7 @@
+{
+  "key": "hubspot-create-note",
+  "name": "Create Note",
+  "description": "Create a HubSpot CRM **note**. Put the note text in **Object Properties** as `hs_note_body` (e.g. `{ \"hs_note_body\": \"Reviewed the Q3 numbers\" }`). ",
+  "type": "action",
+  "version": "1.0.1"
+}

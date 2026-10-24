@@ -1,0 +1,7 @@
+{
+  "key": "cronfree-new-message-received-instant",
+  "name": "New Message Received (Instant)",
+  "description": "Emit new event when a new message is received. [See the documentation](https://docs.cronfree.com/)",
+  "type": "source",
+  "version": "0.0.1"
+}

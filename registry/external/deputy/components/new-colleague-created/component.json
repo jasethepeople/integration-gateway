@@ -1,0 +1,7 @@
+{
+  "key": "deputy-new-colleague-created",
+  "name": "New Colleague Created (Instant)",
+  "description": "Emit new event when a new individual is added to the workplace",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,41 @@
+{
+  "app": "paigo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "offeringId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "invoiceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dimensionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "paigo-add-credits",
+    "paigo-create-dimension",
+    "paigo-create-offering",
+    "paigo-get-invoice",
+    "paigo-list-customer-id-options",
+    "paigo-list-dimension-id-options",
+    "paigo-list-offering-id-options",
+    "paigo-measure-usage",
+    "paigo-onboard-customer",
+    "paigo-entitlement-threshold-reached-instant",
+    "paigo-new-customer-instant",
+    "paigo-new-invoice-instant"
+  ]
+}

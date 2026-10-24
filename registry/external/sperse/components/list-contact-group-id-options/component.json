@@ -1,0 +1,7 @@
+{
+  "key": "sperse-list-contact-group-id-options",
+  "name": "List Contact Group ID Options",
+  "description": "Retrieves available options for the Contact Group ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pipeline-update-company",
+  "name": "Update Company",
+  "description": "Updates a company in your Pipeline account. [See the docs here](https://app.pipelinecrm.com/api/docs#tag/Companies/paths/~1companies~1{id}/put)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "simla_com-list-order-type-options",
+  "name": "List Order Type Options",
+  "description": "Retrieves available options for the Order Type field.",
+  "type": "action",
+  "version": "0.0.1"
+}

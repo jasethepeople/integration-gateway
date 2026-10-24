@@ -1,0 +1,31 @@
+{
+  "app": "charthop",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "orgId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "employeeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "groupTypeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "charthop-create-employee",
+    "charthop-search-organization",
+    "charthop-update-employee-details",
+    "charthop-new-employee-created",
+    "charthop-new-group-created",
+    "charthop-new-job-created"
+  ]
+}

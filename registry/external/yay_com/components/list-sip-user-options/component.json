@@ -1,0 +1,7 @@
+{
+  "key": "yay_com-list-sip-user-options",
+  "name": "List SIP User ID Options",
+  "description": "Retrieves available options for the SIP User ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

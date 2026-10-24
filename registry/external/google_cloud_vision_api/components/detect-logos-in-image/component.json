@@ -1,0 +1,7 @@
+{
+  "key": "google_cloud_vision_api-detect-logos-in-image",
+  "name": "Detect Logos in Image",
+  "description": "Detects logos within a local or remote image file. [See the documentation](https://cloud.google.com/vision/docs/detecting-logos).",
+  "type": "action",
+  "version": "1.0.1"
+}

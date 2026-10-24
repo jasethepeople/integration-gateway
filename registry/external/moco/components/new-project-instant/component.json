@@ -1,0 +1,7 @@
+{
+  "key": "moco-new-project-instant",
+  "name": "New Project (Instant)",
+  "description": "Emit new event when a new project is created. [See the documentation](https://everii-group.github.io/mocoapp-api-docs/sections/web_hooks.html#post-accountweb_hooks)",
+  "type": "source",
+  "version": "0.0.1"
+}

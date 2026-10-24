@@ -1,0 +1,7 @@
+{
+  "key": "corporate_merch-list-products",
+  "name": "List Products",
+  "description": "Retrieve a list of products from the catalog. [See the documentation](https://corporatemerch.readme.io/reference/list-catalog)",
+  "type": "action",
+  "version": "0.0.1"
+}

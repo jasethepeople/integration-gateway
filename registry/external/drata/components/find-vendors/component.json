@@ -1,0 +1,7 @@
+{
+  "key": "drata-find-vendors",
+  "name": "Find Vendors",
+  "description": "Query to search for",
+  "type": "action",
+  "version": "0.0.4"
+}

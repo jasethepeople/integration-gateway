@@ -1,0 +1,7 @@
+{
+  "key": "clear_books-new-purchase-document-created",
+  "name": "New Purchase Document Created",
+  "description": "Emit new event when a new purchase document is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

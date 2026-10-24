@@ -1,0 +1,7 @@
+{
+  "key": "tapfiliate-list-conversion-id-options",
+  "name": "List Conversion ID Options",
+  "description": "Retrieves available options for the Conversion ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

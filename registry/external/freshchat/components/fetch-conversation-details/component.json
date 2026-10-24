@@ -1,0 +1,7 @@
+{
+  "key": "freshchat-fetch-conversation-details",
+  "name": "Fetch Conversation Details",
+  "description": "Fetches details for a specific conversation. [See the documentation](https://developers.freshchat.com/api/#retrieve_a_conversation)",
+  "type": "action",
+  "version": "0.0.5"
+}

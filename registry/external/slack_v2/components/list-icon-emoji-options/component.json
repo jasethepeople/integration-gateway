@@ -1,0 +1,7 @@
+{
+  "key": "slack_v2-list-icon-emoji-options",
+  "name": "List Icon (emoji) Options",
+  "description": "Retrieves available options for the Icon (emoji) field. [See the documentation](https://api.slack.com/methods/emoji.list)",
+  "type": "action",
+  "version": "0.0.14"
+}

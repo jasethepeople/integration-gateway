@@ -1,0 +1,7 @@
+{
+  "key": "monta-list-order-returns",
+  "name": "List Order Returns",
+  "description": "List the return records for an order. Use this to see all returns registered against an order. [See the documentation](https://api-v6.monta.nl/index.html#tag/Order/paths/~1order~1%7Bwebshoporderid%7D~1return/get)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "veedea-list-product-purchases",
+  "name": "List Product Purchases",
+  "description": "Retrieves a list of leads who purchased products through the specified campaign. [See the documentation](https://veedea.com/api/doc)",
+  "type": "action",
+  "version": "0.0.2"
+}

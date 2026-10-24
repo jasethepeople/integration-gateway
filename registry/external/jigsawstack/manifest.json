@@ -1,0 +1,19 @@
+{
+  "app": "jigsawstack",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "jigsawstack-object-detection",
+    "jigsawstack-sentiment-analysis",
+    "jigsawstack-verify-email"
+  ],
+  "npmImports": [
+    "mime"
+  ]
+}

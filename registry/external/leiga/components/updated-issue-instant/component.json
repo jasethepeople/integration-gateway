@@ -1,0 +1,7 @@
+{
+  "key": "leiga-updated-issue-instant",
+  "name": "New Updated Issue (Instant)",
+  "description": "Emit new event when an existing issue is updated in Leiga.",
+  "type": "source",
+  "version": "0.0.2"
+}

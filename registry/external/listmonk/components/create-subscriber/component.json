@@ -1,0 +1,7 @@
+{
+  "key": "listmonk-create-subscriber",
+  "name": "Create Subscriber",
+  "description": "Create a new subscriber in Listmonk. [See the documentation](https://listmonk.app/docs/apis/subscribers/#post-apisubscribers)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "notion-append-block",
+  "name": "Append Block to Parent",
+  "description": "Append Markdown content to the bottom of a Notion page (or block).",
+  "type": "action",
+  "version": "1.0.2"
+}

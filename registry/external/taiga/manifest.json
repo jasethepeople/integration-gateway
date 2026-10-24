@@ -1,0 +1,156 @@
+{
+  "app": "taiga",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "issuePriority": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "issueSeverity": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "issueStatus": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "issueType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "milestone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskStatus": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "issueId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userStoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userStoryStatus": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "issueSubject": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "issueDescription": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "issueBlockedNote": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "isBlocked": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "taskSubject": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskDescription": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "usOrder": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "taskboardOrder": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "userStorySubject": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userStoryDescription": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "backlogOrder": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "kanbanOrder": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "sprintOrder": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "clientRequirement": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "points": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "teamRequirement": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "taiga-create-issue",
+    "taiga-create-task",
+    "taiga-create-userstory",
+    "taiga-delete-issue",
+    "taiga-delete-task",
+    "taiga-delete-userstory",
+    "taiga-get-issue",
+    "taiga-get-userstory",
+    "taiga-list-project-id-options",
+    "taiga-update-issue",
+    "taiga-update-task",
+    "taiga-update-userstory",
+    "taiga-changed-issue-instant",
+    "taiga-changed-issue-status-instant",
+    "taiga-changed-task-instant",
+    "taiga-changed-task-status-instant",
+    "taiga-deleted-issue-instant",
+    "taiga-deleted-task-instant",
+    "taiga-new-issue-instant",
+    "taiga-new-task-instant"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

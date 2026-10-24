@@ -1,0 +1,7 @@
+{
+  "key": "simplybook_me-booking-updated",
+  "name": "Booking Updated",
+  "description": "Emit new event when a booking is updated in SimplyBook.me. [See the documentation](https://simplybook.me/en/api/developer-api/tab/rest_api#method_GET_/admin/bookings)",
+  "type": "source",
+  "version": "0.0.1"
+}

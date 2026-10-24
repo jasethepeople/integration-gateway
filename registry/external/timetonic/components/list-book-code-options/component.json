@@ -1,0 +1,7 @@
+{
+  "key": "timetonic-list-book-code-options",
+  "name": "List Book Code Options",
+  "description": "Retrieves available options for the Book Code field.",
+  "type": "action",
+  "version": "0.0.1"
+}

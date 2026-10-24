@@ -1,0 +1,11 @@
+{
+  "app": "ipdata_co",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "ipdata_co-get-carrier",
+    "ipdata_co-get-ip-data",
+    "ipdata_co-get-time-zone"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "app": "tuya",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "homeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "deviceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "instructionCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "base_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "client_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "client_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "tuya-list-devices",
+    "tuya-list-homes",
+    "tuya-send-instructions-to-device",
+    "tuya-new-device-parameter-updated"
+  ],
+  "npmImports": [
+    "@tuya/tuya-connector-nodejs"
+  ]
+}

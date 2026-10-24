@@ -1,0 +1,7 @@
+{
+  "key": "activecampaign-new-or-updated-deal",
+  "name": "New Deal Added or Updated (Instant)",
+  "description": "Emit new event each time a deal is added or updated.",
+  "type": "source",
+  "version": "0.0.7"
+}

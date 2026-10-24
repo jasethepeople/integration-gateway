@@ -1,0 +1,7 @@
+{
+  "key": "close-lead-status-changed",
+  "name": "New Lead Status Change",
+  "description": "Emit new event when a Lead's status is changed",
+  "type": "source",
+  "version": "0.1.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "godaddy-suggest-domains",
+  "name": "Suggest Domains",
+  "description": "Suggest domains based on the given criteria. [See the documentation](https://developer.godaddy.com/doc/endpoint/domains#/v1/suggest)",
+  "type": "action",
+  "version": "0.0.2"
+}

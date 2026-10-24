@@ -1,0 +1,7 @@
+{
+  "key": "shopify-create-order",
+  "name": "Create Order",
+  "description": "Creates a new order. [See the documentation](https://shopify.dev/docs/api/admin-graphql/latest/mutations/orderCreate).",
+  "type": "action",
+  "version": "1.0.0"
+}

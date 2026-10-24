@@ -1,0 +1,7 @@
+{
+  "key": "spotify-new-saved-track",
+  "name": "New Saved Track",
+  "description": "Emit new event for each new track saved to the current Spotify user's Music Library.",
+  "type": "source",
+  "version": "0.1.7"
+}

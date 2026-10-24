@@ -1,0 +1,7 @@
+{
+  "key": "hackerone-get-members",
+  "name": "Get Members",
+  "description": "List all members of an organization. [See the documentation](https://api.hackerone.com/customer-resources/#organizations-get-all-members)",
+  "type": "action",
+  "version": "0.0.2"
+}

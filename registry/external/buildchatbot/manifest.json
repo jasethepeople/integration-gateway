@@ -1,0 +1,22 @@
+{
+  "app": "buildchatbot",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "chatbotId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "buildchatbot-attach-single-content-to-bot",
+    "buildchatbot-list-chatbot-id-options",
+    "buildchatbot-scrape-single-site-url",
+    "buildchatbot-submit-user-identification-form",
+    "buildchatbot-new-question-and-answer"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "meistertask-create-task",
+  "name": "Create Task",
+  "description": "Create a new task in a project section. [See the docs](https://developers.meistertask.com/reference/post-task)",
+  "type": "action",
+  "version": "0.0.2"
+}

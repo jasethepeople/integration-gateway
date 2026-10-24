@@ -1,0 +1,7 @@
+{
+  "key": "trust-new-testimonial",
+  "name": "New Testimonial Created",
+  "description": "Emit new event when a new testimonial is created. [See the documentation](https://api-docs.usetrust.io/get-a-list-with-testimonials-for-a-specific-website-via-brand-id).",
+  "type": "source",
+  "version": "0.0.1"
+}

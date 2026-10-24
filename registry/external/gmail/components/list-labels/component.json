@@ -1,0 +1,7 @@
+{
+  "key": "gmail-list-labels",
+  "name": "List Labels",
+  "description": "List every label in the authenticated user's mailbox (system labels like `INBOX`, `SENT`, `TRASH`, `STARRED`, `UNREAD` and user-created labels).",
+  "type": "action",
+  "version": "0.1.4"
+}

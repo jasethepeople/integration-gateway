@@ -1,0 +1,7 @@
+{
+  "key": "bingx-market-get-kline-history",
+  "name": "BingX Market Get History Klines",
+  "description": "K-Line Data History [See the documentation](https://bingx-api.github.io/docs/#/swapV2/market-api.html#%20K-Line%20Data).",
+  "type": "action",
+  "version": "0.0.5"
+}

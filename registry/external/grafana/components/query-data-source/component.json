@@ -1,0 +1,7 @@
+{
+  "key": "grafana-query-data-source",
+  "name": "Query Data Source",
+  "description": "Execute a query against any configured data source.",
+  "type": "action",
+  "version": "0.0.3"
+}

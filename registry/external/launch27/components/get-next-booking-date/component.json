@@ -1,0 +1,7 @@
+{
+  "key": "launch27-get-next-booking-date",
+  "name": "Get Next Booking Date",
+  "description": "Retrieves the next booking date for a given frequency. [See the documentation](https://bitbucket.org/awoo23/api-2.0/wiki/Next_booking_date_for_frequency)",
+  "type": "action",
+  "version": "0.0.1"
+}

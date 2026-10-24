@@ -1,0 +1,7 @@
+{
+  "key": "mews-fetch-customers",
+  "name": "Fetch Customers",
+  "description": "Retrieve customers using Mews Connector API. [See the documentation](https://mews-systems.gitbook.io/connector-api/operations/customers#get-all-customers)",
+  "type": "action",
+  "version": "0.1.0"
+}

@@ -1,0 +1,54 @@
+{
+  "app": "frontegg",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "senderEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "redirectURL": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "htmlTemplate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subject": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fromName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "successRedirectUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "active": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "sendGridSecretKey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "geo_location": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "frontegg-create-template"
+  ]
+}

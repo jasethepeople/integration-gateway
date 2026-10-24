@@ -1,0 +1,7 @@
+{
+  "key": "trello-new-attachment",
+  "name": "New Attachment (Instant)",
+  "description": "Emit new event when a new attachment is added on a board.",
+  "type": "source",
+  "version": "0.1.6"
+}

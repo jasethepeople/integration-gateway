@@ -1,0 +1,7 @@
+{
+  "key": "filestack-resize-image",
+  "name": "Resize Image",
+  "description": "Resizes an uploaded image to specified width and height. [See the documentation](https://www.filestack.com/docs/api/processing/#resize)",
+  "type": "action",
+  "version": "0.0.2"
+}

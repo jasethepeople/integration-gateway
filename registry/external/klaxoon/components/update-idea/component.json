@@ -1,0 +1,7 @@
+{
+  "key": "klaxoon-update-idea",
+  "name": "Update Idea",
+  "description": "Updates an idea. [See the documentation](ttps://developers.klaxoon.com/reference/v1boardideapatch)",
+  "type": "action",
+  "version": "0.0.2"
+}

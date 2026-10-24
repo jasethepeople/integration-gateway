@@ -1,0 +1,7 @@
+{
+  "key": "typeflowai-new-response-created",
+  "name": "New Response Created (Instant)",
+  "description": "Emit new event when a response is created for a workflow in TypeflowAI. [See the documentation](https://typeflowai.com/docs/api/management/webhooks)",
+  "type": "source",
+  "version": "0.0.1"
+}

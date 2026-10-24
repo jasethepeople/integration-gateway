@@ -1,0 +1,7 @@
+{
+  "key": "papertrail-list-systems",
+  "name": "List Systems",
+  "description": "List all log senders (systems) in the account. [See the documentation](https://www.papertrail.com/help/settings-api/#list-systems)",
+  "type": "action",
+  "version": "0.0.1"
+}

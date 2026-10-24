@@ -1,0 +1,17 @@
+{
+  "app": "clinchpad",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "clinchpad-create-lead",
+    "clinchpad-list-pipeline-id-options",
+    "clinchpad-list-user-id-options",
+    "clinchpad-new-lead-created"
+  ]
+}

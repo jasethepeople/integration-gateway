@@ -1,0 +1,7 @@
+{
+  "key": "buildkite-get-user",
+  "name": "Get Current User",
+  "description": "Returns basic details about the user account that sent the request. [See the documentation](https://buildkite.com/docs/apis/rest-api/user)",
+  "type": "action",
+  "version": "0.2.0"
+}

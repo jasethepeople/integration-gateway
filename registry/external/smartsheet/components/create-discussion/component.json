@@ -1,0 +1,7 @@
+{
+  "key": "smartsheet-create-discussion",
+  "name": "Create Discussion",
+  "description": "Creates a discussion on a Smartsheet sheet. If a Row ID is provided the discussion is attached to that row",
+  "type": "action",
+  "version": "0.0.2"
+}

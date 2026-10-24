@@ -1,0 +1,7 @@
+{
+  "key": "remote-show-timeoff-balance",
+  "name": "Show Time Off Balance",
+  "description": "Show the time off balance for an employment in Remote. [See the documentation](https://developer.remote.com/reference/get_show_timeoff_balance)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "booking_experts-delete-guest",
+  "name": "Delete Guest",
+  "description": "Delete a guest for a reservation. [See the documentation](https://developers.bookingexperts.com/reference/administration-reservation-guests-delete)",
+  "type": "action",
+  "version": "0.0.8"
+}

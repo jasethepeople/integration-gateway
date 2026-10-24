@@ -1,0 +1,26 @@
+{
+  "app": "recruitee",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "candidateId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "company_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "recruitee-create-candidate",
+    "recruitee-create-note",
+    "recruitee-create-task",
+    "recruitee-list-candidate-id-options",
+    "recruitee-new-candidate"
+  ]
+}

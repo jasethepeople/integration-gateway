@@ -1,0 +1,7 @@
+{
+  "key": "meistertask-list-projects",
+  "name": "List Projects",
+  "description": "List all projects in MeisterTask. [See the docs](https://developers.meistertask.com/reference/get-projects)",
+  "type": "action",
+  "version": "0.0.1"
+}

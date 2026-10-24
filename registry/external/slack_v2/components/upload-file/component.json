@@ -1,0 +1,7 @@
+{
+  "key": "slack_v2-upload-file",
+  "name": "Upload File",
+  "description": "Upload a file (document, image, audio, etc.) to a Slack channel, group, or direct message, optionally with a comment.",
+  "type": "action",
+  "version": "0.2.3"
+}

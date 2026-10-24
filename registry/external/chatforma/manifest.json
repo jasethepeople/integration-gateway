@@ -1,0 +1,37 @@
+{
+  "app": "chatforma",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "botId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "segmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "botUserId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "formId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "content": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "chatforma-create-broadcast",
+    "chatforma-create-user-broadcast",
+    "chatforma-list-bot-id-options",
+    "chatforma-new-user-input"
+  ]
+}

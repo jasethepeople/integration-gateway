@@ -1,0 +1,7 @@
+{
+  "key": "teamwork_desk-customer-reply",
+  "name": "New Customer Reply",
+  "description": "Emit new event when a customer reply.",
+  "type": "source",
+  "version": "0.0.2"
+}

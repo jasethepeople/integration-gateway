@@ -1,0 +1,20 @@
+{
+  "app": "builtwith",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "domain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "builtwith-get-domain-relationships",
+    "builtwith-get-domain-technologies",
+    "builtwith-get-profile-websites"
+  ]
+}

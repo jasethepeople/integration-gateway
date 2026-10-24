@@ -1,0 +1,7 @@
+{
+  "key": "surecart-retrieve-fulfillment",
+  "name": "Retrieve Fulfillment",
+  "description": "Retrieve a fulfillment by ID. [See the documentation](https://developer.surecart.com/api-reference/fulfillments/retrieve)",
+  "type": "action",
+  "version": "0.0.3"
+}

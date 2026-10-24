@@ -1,0 +1,7 @@
+{
+  "key": "dataforseo-search-business-listings",
+  "name": "Search Business Listings",
+  "description": "Get information about business entities listed on Google Maps. [See the documentation](https://docs.dataforseo.com/v3/business_data/business_listings/search/live/)",
+  "type": "action",
+  "version": "0.0.3"
+}

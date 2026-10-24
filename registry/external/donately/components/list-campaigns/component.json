@@ -1,0 +1,7 @@
+{
+  "key": "donately-list-campaigns",
+  "name": "List Campaigns",
+  "description": "List campaigns for an account. [See the documentation](https://developer.donate.ly/api/#campaigns)",
+  "type": "action",
+  "version": "0.0.1"
+}

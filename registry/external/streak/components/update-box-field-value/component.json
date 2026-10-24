@@ -1,0 +1,7 @@
+{
+  "key": "streak-update-box-field-value",
+  "name": "Update Box Field Value",
+  "description": "",
+  "type": "action",
+  "version": "0.0.2"
+}

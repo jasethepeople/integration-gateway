@@ -1,0 +1,7 @@
+{
+  "key": "mapbox-create-tileset",
+  "name": "Create Tileset",
+  "description": "Uploads and creates a new tileset from a data source. [See the documentation](https://docs.mapbox.com/api/maps/mapbox-tiling-service/)",
+  "type": "action",
+  "version": "0.1.4"
+}

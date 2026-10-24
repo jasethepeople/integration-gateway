@@ -1,0 +1,7 @@
+{
+  "key": "viewdns_info-whois-lookup",
+  "name": "Whois Lookup",
+  "description": "Performs a WHOIS lookup to retrieve domain registration information. [See the documentation](https://viewdns.info/api/whois/)",
+  "type": "action",
+  "version": "0.0.2"
+}

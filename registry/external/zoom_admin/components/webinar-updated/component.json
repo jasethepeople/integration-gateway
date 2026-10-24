@@ -1,0 +1,7 @@
+{
+  "key": "zoom_admin-webinar-updated",
+  "name": "Webinar Updated",
+  "description": "Emits an event each time a webinar is updated in your Zoom account",
+  "type": "source",
+  "version": "0.1.9"
+}

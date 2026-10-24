@@ -1,0 +1,7 @@
+{
+  "key": "seatable-delete-row",
+  "name": "Delete Row",
+  "description": "Deletes a specific row from a specified table. [See the documentation](https://api.seatable.io/reference/delete-row)",
+  "type": "action",
+  "version": "0.0.2"
+}

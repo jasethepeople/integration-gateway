@@ -1,0 +1,7 @@
+{
+  "key": "liveagent-new-customer",
+  "name": "New Customer",
+  "description": "Emit new event on each new customer.",
+  "type": "source",
+  "version": "0.0.3"
+}

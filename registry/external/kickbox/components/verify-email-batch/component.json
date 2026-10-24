@@ -1,0 +1,7 @@
+{
+  "key": "kickbox-verify-email-batch",
+  "name": "Verify Email Batch",
+  "description": "Verify an email batch. [See the documentation](https://docs.kickbox.com/docs/batch-verification-api)",
+  "type": "action",
+  "version": "0.0.2"
+}

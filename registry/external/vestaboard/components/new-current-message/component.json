@@ -1,0 +1,7 @@
+{
+  "key": "vestaboard-new-current-message",
+  "name": "New Current Message",
+  "description": "Emit new event when a new message is displayed on a board. [See the docs](https://docs.vestaboard.com/read-write)",
+  "type": "source",
+  "version": "0.0.1"
+}

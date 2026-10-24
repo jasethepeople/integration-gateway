@@ -1,0 +1,7 @@
+{
+  "key": "mailchimp-new-file",
+  "name": "New File",
+  "description": "Emit new event when a new file is added to the File Manager of the connected Mailchimp account.",
+  "type": "source",
+  "version": "0.0.3"
+}

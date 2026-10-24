@@ -1,0 +1,7 @@
+{
+  "key": "writer-run-application",
+  "name": "Run Application",
+  "description": "Run a saved no-code application (agent) with the inputs it expects and return the generated content. ",
+  "type": "action",
+  "version": "0.0.2"
+}

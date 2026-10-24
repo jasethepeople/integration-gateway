@@ -1,0 +1,7 @@
+{
+  "key": "filetopdf_dev-convert-html",
+  "name": "Convert HTML to PDF",
+  "description": "Render HTML + CSS into a pixel-perfect PDF. [See the documentation](https://filetopdf.dev/html).",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "polygon-get-stock-price",
+  "name": "Get Stock Price",
+  "description": "Get the open, close and afterhours prices of a stock symbol on a certain date. [See the documentation](https://polygon.io/docs/stocks/get_v1_open-close__stocksticker___date)",
+  "type": "action",
+  "version": "0.0.2"
+}

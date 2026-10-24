@@ -1,0 +1,7 @@
+{
+  "key": "shopify_developer_app-new-event-emitted",
+  "name": "New Event Emitted (Instant)",
+  "description": "Emit new event for each new Shopify event.",
+  "type": "source",
+  "version": "0.0.22"
+}

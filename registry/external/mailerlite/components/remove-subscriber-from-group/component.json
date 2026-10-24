@@ -1,0 +1,7 @@
+{
+  "key": "mailerlite-remove-subscriber-from-group",
+  "name": "Remove Subscriber From Group",
+  "description": "Removes single subscriber from specified group. [See the documentation](https://developers.mailerlite.com/docs/groups.html#unassign-subscriber-from-a-group)",
+  "type": "action",
+  "version": "0.0.6"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "finnhub-get-recommendation-trends",
+  "name": "Get Recommendation Trends",
+  "description": "Get latest analyst recommendation trends for a company. [See the documentation](https://finnhub.io/docs/api/recommendation-trends)",
+  "type": "action",
+  "version": "0.0.1"
+}

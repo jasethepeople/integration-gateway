@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-update-opportunities-batch",
+  "name": "Update Opportunities (Batch)",
+  "description": "Update many Salesforce opportunities in one job using Bulk API 2.0.",
+  "type": "action",
+  "version": "0.0.8"
+}

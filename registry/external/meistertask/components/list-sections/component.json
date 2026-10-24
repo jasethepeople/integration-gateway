@@ -1,0 +1,7 @@
+{
+  "key": "meistertask-list-sections",
+  "name": "List Sections",
+  "description": "List sections in MeisterTask, optionally scoped to a specific project. [See the docs](https://developers.meistertask.com/reference/get-sections)",
+  "type": "action",
+  "version": "0.0.1"
+}

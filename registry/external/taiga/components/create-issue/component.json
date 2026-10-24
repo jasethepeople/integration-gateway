@@ -1,0 +1,7 @@
+{
+  "key": "taiga-create-issue",
+  "name": "Create Issue",
+  "description": "Create a new issue in a Taiga project. [See the documentation](https://docs.taiga.io/api.html#issues-create)",
+  "type": "action",
+  "version": "0.0.2"
+}

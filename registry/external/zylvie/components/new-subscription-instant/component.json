@@ -1,0 +1,7 @@
+{
+  "key": "zylvie-new-subscription-instant",
+  "name": "New Subscription (Instant)",
+  "description": "Emit new event when a user subscribes to a subscription product, whether free trial or otherwise. [See the documentation](https://developers.zylvie.com/webhooks/subscribe).",
+  "type": "source",
+  "version": "0.0.1"
+}

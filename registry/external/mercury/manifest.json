@@ -1,0 +1,30 @@
+{
+  "app": "mercury",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "account": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mercury-add-recipient",
+    "mercury-get-account-info",
+    "mercury-get-transaction",
+    "mercury-list-accounts",
+    "mercury-list-categories",
+    "mercury-list-recipients",
+    "mercury-list-send-money-requests",
+    "mercury-list-transactions",
+    "mercury-send-payment",
+    "mercury-new-transaction"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

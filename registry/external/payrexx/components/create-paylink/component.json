@@ -1,0 +1,7 @@
+{
+  "key": "payrexx-create-paylink",
+  "name": "Create Paylink",
+  "description": "Create a paylink. [See the documentation](https://developers.payrexx.com/reference/create-a-paylink)",
+  "type": "action",
+  "version": "0.0.1"
+}

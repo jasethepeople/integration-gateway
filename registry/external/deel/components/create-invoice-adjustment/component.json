@@ -1,0 +1,7 @@
+{
+  "key": "deel-create-invoice-adjustment",
+  "name": "Create Invoice Adjustment",
+  "description": "Add a bonus, deduction, commission, expense, or other financial adjustment to an IC contractor's",
+  "type": "action",
+  "version": "0.0.2"
+}

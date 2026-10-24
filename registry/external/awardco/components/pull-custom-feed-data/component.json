@@ -1,0 +1,7 @@
+{
+  "key": "awardco-pull-custom-feed-data",
+  "name": "Pull Custom Feed Data",
+  "description": "Retrieve custom feed data from Awardco. [See the documentation](https://api.awardco.com/api#tag/feed/GET/v1/custom-feed).",
+  "type": "action",
+  "version": "0.0.1"
+}

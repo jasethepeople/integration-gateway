@@ -1,0 +1,7 @@
+{
+  "key": "moodle-set-favourite-courses",
+  "name": "Set Favourite Courses",
+  "description": "Adds or removes a course from the user's list of favourite courses. [See the documentation](https://moodledev.io/docs/5.2)",
+  "type": "action",
+  "version": "0.0.1"
+}

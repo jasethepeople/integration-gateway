@@ -1,0 +1,7 @@
+{
+  "key": "brex_staging-list-transactions-for-selected-cash-account",
+  "name": "List Transactions for Selected Cash Account",
+  "description": "Lists all transactions for the specified cash account. [See the docs here](https://developer.brex.com/openapi/transactions_api/#operation/listCashTransactions).",
+  "type": "action",
+  "version": "0.0.3"
+}

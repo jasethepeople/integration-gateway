@@ -1,0 +1,7 @@
+{
+  "key": "discord-send-message-with-file",
+  "name": "Send Message With File",
+  "description": "Post a message with an attached file",
+  "type": "action",
+  "version": "2.0.3"
+}

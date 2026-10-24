@@ -1,0 +1,39 @@
+{
+  "app": "netlify",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "siteId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "deployId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "max": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "netlify-get-site",
+    "netlify-list-files",
+    "netlify-list-site-deploys",
+    "netlify-rollback-deploy",
+    "netlify-new-deploy-failure",
+    "netlify-new-deploy-start",
+    "netlify-new-deploy-success",
+    "netlify-new-form-submission"
+  ],
+  "npmImports": [
+    "crypto",
+    "jwt-simple",
+    "netlify",
+    "parse-link-header"
+  ]
+}

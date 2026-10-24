@@ -1,0 +1,7 @@
+{
+  "key": "message_bird-create-contact",
+  "name": "Create Contact",
+  "description": "Creates a new contact. [See the documentation](https://developers.messagebird.com/api/contacts/#create-a-contact)",
+  "type": "action",
+  "version": "0.0.2"
+}

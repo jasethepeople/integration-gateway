@@ -1,0 +1,7 @@
+{
+  "key": "forcemanager-list-branch-id-options",
+  "name": "List Branch ID Options",
+  "description": "Retrieves available options for the Branch ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

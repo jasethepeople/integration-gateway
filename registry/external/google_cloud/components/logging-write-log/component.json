@@ -1,0 +1,7 @@
+{
+  "key": "google_cloud-logging-write-log",
+  "name": "Logging - Write Log",
+  "description": "Writes log data to the Logging service, [See the docs](https://cloud.google.com/nodejs/docs/reference/logging/latest/logging/log#_google_cloud_logging_Log_write_member_1_)",
+  "type": "action",
+  "version": "0.0.7"
+}

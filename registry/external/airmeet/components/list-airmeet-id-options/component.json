@@ -1,0 +1,7 @@
+{
+  "key": "airmeet-list-airmeet-id-options",
+  "name": "List Airmeet ID Options",
+  "description": "Retrieves available options for the Airmeet ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "snipe_it-list-supplier-id-options",
+  "name": "List Supplier Options",
+  "description": "Retrieves available options for the Supplier field.",
+  "type": "action",
+  "version": "0.0.1"
+}

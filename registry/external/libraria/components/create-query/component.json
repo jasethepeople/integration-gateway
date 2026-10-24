@@ -1,0 +1,7 @@
+{
+  "key": "libraria-create-query",
+  "name": "Create Query",
+  "description": "Creates a query. [See the documentation](https://docs.libraria.dev/api-reference/library/create-query)",
+  "type": "action",
+  "version": "0.0.3"
+}

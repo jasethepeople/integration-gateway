@@ -1,0 +1,7 @@
+{
+  "key": "mews-reservation-created",
+  "name": "New Reservation Created",
+  "description": "Emit new reservations as they are created (polling). [See the documentation](https://mews-systems.gitbook.io/connector-api/operations/reservations#get-all-reservations-ver-2023-06-06)",
+  "type": "source",
+  "version": "0.0.3"
+}

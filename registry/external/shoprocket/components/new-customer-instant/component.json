@@ -1,0 +1,7 @@
+{
+  "key": "shoprocket-new-customer-instant",
+  "name": "New Customer (Instant)",
+  "description": "Emit new event when a customer is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

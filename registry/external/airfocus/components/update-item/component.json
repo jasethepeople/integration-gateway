@@ -1,0 +1,7 @@
+{
+  "key": "airfocus-update-item",
+  "name": "Update Item",
+  "description": "Updates an existing item in airfocus. [See the documentation](https://developer.airfocus.com/endpoints.html)",
+  "type": "action",
+  "version": "0.1.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "smstools-new-inbound-message",
+  "name": "New Inbound Message",
+  "description": "Emit new event when a new inbound message is received.",
+  "type": "source",
+  "version": "0.0.1"
+}

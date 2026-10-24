@@ -1,0 +1,7 @@
+{
+  "key": "vimeo-list-album-uri-options",
+  "name": "List Album URI Options",
+  "description": "Retrieves available options for the Album URI field.",
+  "type": "action",
+  "version": "0.0.1"
+}

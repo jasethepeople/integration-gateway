@@ -1,0 +1,33 @@
+{
+  "app": "pencil_spaces",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "spaceToCloneId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ownerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "siteId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pencil_spaces-create-space",
+    "pencil_spaces-list-owner-id-options",
+    "pencil_spaces-list-site-id-options",
+    "pencil_spaces-list-space-to-clone-id-options"
+  ]
+}

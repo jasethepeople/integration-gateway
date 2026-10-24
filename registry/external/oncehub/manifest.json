@@ -1,0 +1,26 @@
+{
+  "app": "oncehub",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "oncehub-new-booking-canceled-and-rescheduled",
+    "oncehub-new-booking-canceled",
+    "oncehub-new-booking-lifecycle-event",
+    "oncehub-new-booking-no-show",
+    "oncehub-new-booking-rescheduled",
+    "oncehub-new-booking-scheduled",
+    "oncehub-new-contact-created",
+    "oncehub-new-contact-updated",
+    "oncehub-new-conversation-abandoned",
+    "oncehub-new-conversation-closed",
+    "oncehub-new-conversation-lifecycle-event",
+    "oncehub-new-conversation-reached-out",
+    "oncehub-new-conversation-started"
+  ]
+}

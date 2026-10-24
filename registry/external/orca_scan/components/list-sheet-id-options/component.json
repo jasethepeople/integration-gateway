@@ -1,0 +1,7 @@
+{
+  "key": "orca_scan-list-sheet-id-options",
+  "name": "List Sheet ID Options",
+  "description": "Retrieves available options for the Sheet ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

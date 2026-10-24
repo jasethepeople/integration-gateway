@@ -1,0 +1,26 @@
+{
+  "app": "white_swan",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "clientEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "white_swan-create-pre-fill-info",
+    "white_swan-get-referred-clients-info",
+    "white_swan-list-client-email-options",
+    "white_swan-submit-complete-plan-request",
+    "white_swan-new-earnings-event",
+    "white_swan-new-personal-plan"
+  ],
+  "npmImports": [
+    "md5"
+  ]
+}

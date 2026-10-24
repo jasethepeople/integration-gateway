@@ -1,0 +1,7 @@
+{
+  "key": "rapid_url_indexer-get-project-status",
+  "name": "Get Project Status",
+  "description": "Get the status of a specific project. [See the documentation](https://rapidurlindexer.com/indexing-api/).",
+  "type": "action",
+  "version": "0.0.2"
+}

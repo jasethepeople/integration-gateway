@@ -1,0 +1,52 @@
+{
+  "app": "dexatel",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "audienceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "senderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "number": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recipientNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "messageContent": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recipientNumbers": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dexatel-create-contact",
+    "dexatel-send-bulk-sms",
+    "dexatel-send-single-sms"
+  ]
+}

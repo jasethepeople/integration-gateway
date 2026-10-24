@@ -1,0 +1,23 @@
+{
+  "app": "anymail_finder",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "domain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "anymail_finder-search-all-emails-on-company",
+    "anymail_finder-search-email"
+  ]
+}

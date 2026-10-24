@@ -1,0 +1,7 @@
+{
+  "key": "motion-delete-task",
+  "name": "Delete Task",
+  "description": "Delete a specific task by Id. [See the documentation](https://docs.usemotion.com/docs/motion-rest-api/963b35f93846f-delete-a-task)",
+  "type": "action",
+  "version": "0.0.2"
+}

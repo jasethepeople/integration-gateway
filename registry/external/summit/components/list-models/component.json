@@ -1,0 +1,7 @@
+{
+  "key": "summit-list-models",
+  "name": "List Models",
+  "description": "Returns a list of models from Summit. [See the documentation](https://summit.readme.io/reference/apps)",
+  "type": "action",
+  "version": "0.0.2"
+}

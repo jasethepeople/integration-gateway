@@ -1,0 +1,7 @@
+{
+  "key": "reward_sciences-new-activity-added",
+  "name": "New Activity Added",
+  "description": "Emit new event when a new activity is added to Reward Sciences. [See the documentation](https://developers.rewardsciences.com/api/docs)",
+  "type": "source",
+  "version": "0.0.1"
+}

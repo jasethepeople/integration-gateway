@@ -1,0 +1,7 @@
+{
+  "key": "gorgias_oauth-list-tickets",
+  "name": "List Tickets",
+  "description": "List all tickets. [See the docs](https://developers.gorgias.com/reference/get_api-tickets)",
+  "type": "action",
+  "version": "0.0.15"
+}

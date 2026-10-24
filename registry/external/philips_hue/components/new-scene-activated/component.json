@@ -1,0 +1,7 @@
+{
+  "key": "philips_hue-new-scene-activated",
+  "name": "New Scene Activated",
+  "description": "Emit new event when a specific scene is activated. [See the documentation](https://developers.meethue.com/develop/hue-api-v2/api-reference/#resource_light__id__put)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "api4ai-alcohol-label-recognition",
+  "name": "Alcohol Label Recognition",
+  "description": "Accurately identifies alcohol labels using advanced intelligent technologies. Powered by API4AI.",
+  "type": "action",
+  "version": "0.0.6"
+}

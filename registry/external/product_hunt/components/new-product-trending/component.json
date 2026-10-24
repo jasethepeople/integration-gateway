@@ -1,0 +1,7 @@
+{
+  "key": "product_hunt-new-product-trending",
+  "name": "New Product Trending",
+  "description": "Emit new event when a product posted by a user hits 100+ upvotes.",
+  "type": "source",
+  "version": "0.0.1"
+}

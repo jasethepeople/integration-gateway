@@ -1,0 +1,7 @@
+{
+  "key": "hookdeck-create-connection",
+  "name": "Create Connection",
+  "description": "This endpoint creates a connection. [See the documentation](https://hookdeck.com/api-ref#create-a-connection).",
+  "type": "action",
+  "version": "0.0.3"
+}

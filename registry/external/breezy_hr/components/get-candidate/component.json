@@ -1,0 +1,7 @@
+{
+  "key": "breezy_hr-get-candidate",
+  "name": "Get Candidate",
+  "description": "Retrieve a candidate by ID for a given position. [See the documentation](https://developer.breezy.hr/reference/company-position-candidate)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "upkeep-request-approved",
+  "name": "New Request Approved Event",
+  "description": "Emit new event when a request is approved.",
+  "type": "source",
+  "version": "0.0.2"
+}

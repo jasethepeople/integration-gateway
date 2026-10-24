@@ -1,0 +1,7 @@
+{
+  "key": "goody-order-delivered",
+  "name": "Order Delivered",
+  "description": "Emit new event when an order is delivered in Goody.",
+  "type": "source",
+  "version": "0.0.1"
+}

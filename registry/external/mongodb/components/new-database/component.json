@@ -1,0 +1,7 @@
+{
+  "key": "mongodb-new-database",
+  "name": "New Database",
+  "description": "Emit new an event when a new database is added",
+  "type": "source",
+  "version": "0.0.7"
+}

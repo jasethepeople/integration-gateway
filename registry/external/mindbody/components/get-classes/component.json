@@ -1,0 +1,7 @@
+{
+  "key": "mindbody-get-classes",
+  "name": "Get Classes",
+  "description": "Returns upcoming group class sessions at the studio, including class name, start/end time, instructor, location, and remaining capacity.",
+  "type": "action",
+  "version": "0.0.3"
+}

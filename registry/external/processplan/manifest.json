@@ -1,0 +1,41 @@
+{
+  "app": "processplan",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "processTemplateHeaderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "processTemplateTaskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "processInstanceHeaderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "processInstanceHeaderIdByTask": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fieldValues": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "regional_subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "processplan-complete-task",
+    "processplan-list-process-template-header-id-options",
+    "processplan-start-new-process",
+    "processplan-new-process-instance-started"
+  ]
+}

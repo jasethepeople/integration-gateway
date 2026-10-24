@@ -1,0 +1,7 @@
+{
+  "key": "taiga-delete-userstory",
+  "name": "Delete User Story",
+  "description": "Delete an existing user story from a Taiga project. [See the documentation](https://docs.taiga.io/api.html#user-stories-delete)",
+  "type": "action",
+  "version": "0.0.2"
+}

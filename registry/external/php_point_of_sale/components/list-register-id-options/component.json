@@ -1,0 +1,7 @@
+{
+  "key": "php_point_of_sale-list-register-id-options",
+  "name": "List Register ID Options",
+  "description": "Retrieves available options for the Register ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

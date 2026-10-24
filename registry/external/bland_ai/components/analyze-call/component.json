@@ -1,0 +1,7 @@
+{
+  "key": "bland_ai-analyze-call",
+  "name": "Analyze Call",
+  "description": "Analyzes an input call, extracting structured data and providing insights. [See the documentation](https://docs.bland.ai/api-v1/post/calls-id-analyze)",
+  "type": "action",
+  "version": "0.0.2"
+}

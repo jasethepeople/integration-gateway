@@ -1,0 +1,7 @@
+{
+  "key": "harvest-get-projects",
+  "name": "Get Projects",
+  "description": "Array of free-form project IDs, e.g. `[\"14308069\"]`. Omit this parameter to retrieve every project instead.",
+  "type": "action",
+  "version": "0.1.0"
+}

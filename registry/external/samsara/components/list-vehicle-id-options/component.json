@@ -1,0 +1,7 @@
+{
+  "key": "samsara-list-vehicle-id-options",
+  "name": "List Vehicle Id Options",
+  "description": "Retrieves available options for the Vehicle Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

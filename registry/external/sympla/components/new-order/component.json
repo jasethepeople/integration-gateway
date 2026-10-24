@@ -1,0 +1,7 @@
+{
+  "key": "sympla-new-order",
+  "name": "New Order",
+  "description": "Emit new event for each new order in an event.",
+  "type": "source",
+  "version": "0.0.1"
+}

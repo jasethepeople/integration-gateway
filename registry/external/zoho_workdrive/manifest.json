@@ -1,0 +1,42 @@
+{
+  "app": "zoho_workdrive",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "teamId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "parentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "folderType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "base_api_uri": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zoho_workdrive-download-file",
+    "zoho_workdrive-list-folder-type-options",
+    "zoho_workdrive-list-team-id-options",
+    "zoho_workdrive-upload-file",
+    "zoho_workdrive-new-file-in-folder",
+    "zoho_workdrive-new-folder"
+  ],
+  "npmImports": [
+    "axios",
+    "file-type",
+    "form-data",
+    "fs",
+    "stream"
+  ]
+}

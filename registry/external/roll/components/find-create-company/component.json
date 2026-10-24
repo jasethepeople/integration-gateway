@@ -1,0 +1,7 @@
+{
+  "key": "roll-find-create-company",
+  "name": "Find Or Create Company",
+  "description": "Find a company or create it if it doesn't exists [See the docs here](https://docs.rollhq.com/docs/roll-api#api-url)",
+  "type": "action",
+  "version": "0.0.3"
+}

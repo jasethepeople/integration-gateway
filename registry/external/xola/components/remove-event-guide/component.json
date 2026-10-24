@@ -1,0 +1,7 @@
+{
+  "key": "xola-remove-event-guide",
+  "name": "Remove Event Guide",
+  "description": "Removes a guide from an event. [See the documentation](https://xola.github.io/xola-docs/#tag/events/operation/removeEventGuide)",
+  "type": "action",
+  "version": "0.0.1"
+}

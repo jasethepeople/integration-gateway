@@ -1,0 +1,7 @@
+{
+  "key": "svix-list-messages",
+  "name": "List Messages",
+  "description": "List all of the application's messages. [See the docs here](https://api.svix.com/docs#tag/Message/operation/list_messages_api_v1_app__app_id__msg__get)",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "orderspace-list-price-list-id-options",
+  "name": "List Price List ID Options",
+  "description": "Retrieves available options for the Price List ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

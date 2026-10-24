@@ -1,0 +1,7 @@
+{
+  "key": "rhombus-new-environmental-sensor-event-instant",
+  "name": "New Environmental Sensor Event (Instant)",
+  "description": "Emit new event when a new environmental sensor event is created. [See the documentation](https://apidocs.rhombus.com/reference/subscribezapierwebhook)",
+  "type": "source",
+  "version": "0.0.1"
+}

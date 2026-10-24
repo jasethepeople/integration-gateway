@@ -1,0 +1,7 @@
+{
+  "key": "writer-get-application",
+  "name": "Get Application",
+  "description": "Get a single no-code application (agent) by its application id, including its **input schema** — the `inputs` array, where each entry's `id` is an **input field name** that **Run Application** must supply a value for (it is NOT the application's id). ",
+  "type": "action",
+  "version": "0.0.2"
+}

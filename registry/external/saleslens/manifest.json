@@ -1,0 +1,61 @@
+{
+  "app": "saleslens",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "employeeExternalId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "categoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "locale": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fileExtension": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "httpHeader": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "saleslens-list-category-id-options",
+    "saleslens-list-employee-external-id-options",
+    "saleslens-upload-conversation-recording",
+    "saleslens-upload-conversation-transcription"
+  ]
+}

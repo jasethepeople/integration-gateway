@@ -1,0 +1,7 @@
+{
+  "key": "lucca-new-leave-request",
+  "name": "New Leave Request",
+  "description": "Emit new event when a new leave request is submitted by an employee. [See the documentation](https://developers.lucca.fr/api-reference/legacy/timmi-absences/leave-requests/list-leave-requests)",
+  "type": "source",
+  "version": "0.0.1"
+}

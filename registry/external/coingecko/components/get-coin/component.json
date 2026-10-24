@@ -1,0 +1,7 @@
+{
+  "key": "coingecko-get-coin",
+  "name": "Get Coin",
+  "description": "Get current data for a coin by its ID, including price, market cap, volume, community data, and developer data. [See the documentation](https://docs.coingecko.com/v3.0.1/reference/coins-id)",
+  "type": "action",
+  "version": "0.0.1"
+}

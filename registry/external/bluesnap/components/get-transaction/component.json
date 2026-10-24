@@ -1,0 +1,7 @@
+{
+  "key": "bluesnap-get-transaction",
+  "name": "Get Transaction",
+  "description": "Retrieve a single BlueSnap transaction by ID. Use **List Transactions** first to find a transaction ID. [See the documentation](https://developers.bluesnap.com/v8976-JSON/reference/retrieve)",
+  "type": "action",
+  "version": "0.0.1"
+}

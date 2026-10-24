@@ -1,0 +1,52 @@
+{
+  "app": "shift4",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "amount": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "card": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "currency": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "metadata": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "orderIdentifier": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recursTo": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "shift4-create-charge",
+    "shift4-create-customer",
+    "shift4-create-plan",
+    "shift4-create-token",
+    "shift4-charge-updated",
+    "shift4-new-charge",
+    "shift4-new-customer"
+  ]
+}

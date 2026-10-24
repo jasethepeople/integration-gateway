@@ -1,0 +1,7 @@
+{
+  "key": "ninjaone-new-device-online",
+  "name": "New Device Online",
+  "description": "Emit new event when a monitored device comes online.",
+  "type": "source",
+  "version": "0.0.1"
+}

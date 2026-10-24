@@ -1,0 +1,46 @@
+{
+  "app": "wp_maps",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "productId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "price": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "image": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "client_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "wp_maps-create-product",
+    "wp_maps-list-product-id-options",
+    "wp_maps-update-product",
+    "wp_maps-new-product-created",
+    "wp_maps-new-store-created"
+  ]
+}

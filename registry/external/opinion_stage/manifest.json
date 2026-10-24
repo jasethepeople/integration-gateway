@@ -1,0 +1,19 @@
+{
+  "app": "opinion_stage",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "itemId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "opinion_stage-list-item-id-options",
+    "opinion_stage-new-response-created"
+  ]
+}

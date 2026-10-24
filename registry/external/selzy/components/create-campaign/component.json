@@ -1,0 +1,7 @@
+{
+  "key": "selzy-create-campaign",
+  "name": "Create Campaign",
+  "description": "Creates a new campaign. [See the documentation](https://selzy.com/en/support/api/messages/createcampaign/)",
+  "type": "action",
+  "version": "0.0.2"
+}

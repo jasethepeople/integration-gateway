@@ -1,0 +1,7 @@
+{
+  "key": "uplisting-new-booking-created",
+  "name": "New Booking Created (Instant)",
+  "description": "Emit new event when a booking is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

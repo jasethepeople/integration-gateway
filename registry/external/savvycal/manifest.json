@@ -1,0 +1,12 @@
+{
+  "app": "savvycal",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "savvycal-new-webhook-event"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

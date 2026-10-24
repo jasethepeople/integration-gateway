@@ -1,0 +1,7 @@
+{
+  "key": "etsy-get-listing-inventory",
+  "name": "Get Listing Inventory",
+  "description": "Retrieves the inventory record for a listing by listing ID. [See the Documentation](https://developer.etsy.com/documentation/reference/#operation/getListingInventory)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zoom_admin-meeting-updated",
+  "name": "Meeting Updated",
+  "description": "Emits an event each time a meeting is updated in your Zoom account",
+  "type": "source",
+  "version": "0.1.9"
+}

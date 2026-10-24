@@ -1,0 +1,7 @@
+{
+  "key": "wrike-new-task",
+  "name": "New Task",
+  "description": "Create a Wrike task under a specified folder ID. [See the documentation](https://developers.wrike.com/api/v4/tasks/#create-task)",
+  "type": "action",
+  "version": "0.3.4"
+}

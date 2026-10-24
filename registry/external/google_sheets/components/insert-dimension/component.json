@@ -1,0 +1,7 @@
+{
+  "key": "google_sheets-insert-dimension",
+  "name": "Insert Dimension",
+  "description": "Insert a dimension into a spreadsheet. [See the documentation](https://developers.google.com/workspace/sheets/api/reference/rest/v4/spreadsheets/request#InsertDimensionRequest)",
+  "type": "action",
+  "version": "0.0.4"
+}

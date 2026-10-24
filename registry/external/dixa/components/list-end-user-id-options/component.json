@@ -1,0 +1,7 @@
+{
+  "key": "dixa-list-end-user-id-options",
+  "name": "List End User Id Options",
+  "description": "Retrieves available options for the End User Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

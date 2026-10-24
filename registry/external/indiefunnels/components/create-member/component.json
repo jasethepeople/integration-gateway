@@ -1,0 +1,7 @@
+{
+  "key": "indiefunnels-create-member",
+  "name": "Create Member",
+  "description": "Creates a new Member on your IndieFunnel website. [See the documentation](https://websitebuilder.docs.apiary.io/#reference/members/list-and-create/create-new-member)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "hubspot-list-custom-objects",
+  "name": "List Custom Objects",
+  "description": "List records of a custom object type with pagination and property selection.",
+  "type": "action",
+  "version": "0.0.4"
+}

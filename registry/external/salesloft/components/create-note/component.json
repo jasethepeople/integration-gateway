@@ -1,0 +1,7 @@
+{
+  "key": "salesloft-create-note",
+  "name": "Create Note",
+  "description": "Creates a new note in Salesloft. [See the documentation](https://developers.salesloft.com/docs/api/notes-create/)",
+  "type": "action",
+  "version": "0.0.2"
+}

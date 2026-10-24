@@ -1,0 +1,26 @@
+{
+  "app": "google_vertex_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "model": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "google_vertex_ai-analyze-image-video",
+    "google_vertex_ai-analyze-text-sentiment",
+    "google_vertex_ai-classify-text",
+    "google_vertex_ai-generate-video-from-image",
+    "google_vertex_ai-generate-video-from-text"
+  ]
+}

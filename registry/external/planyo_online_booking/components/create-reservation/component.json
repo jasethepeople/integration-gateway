@@ -1,0 +1,7 @@
+{
+  "key": "planyo_online_booking-create-reservation",
+  "name": "Create Reservation",
+  "description": "Enters a new reservation into the system. [See Docs](https://www.planyo.com/api.php?topic=make_reservation)",
+  "type": "action",
+  "version": "0.0.2"
+}

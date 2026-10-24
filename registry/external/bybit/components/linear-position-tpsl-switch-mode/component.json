@@ -1,0 +1,7 @@
+{
+  "key": "bybit-linear-position-tpsl-switch-mode",
+  "name": "ByBit Linear Position TP/SL Switch Mode",
+  "description": "Switch mode between Full or Partial. ",
+  "type": "action",
+  "version": "0.0.3"
+}

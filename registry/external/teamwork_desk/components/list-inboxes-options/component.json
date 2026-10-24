@@ -1,0 +1,7 @@
+{
+  "key": "teamwork_desk-list-inboxes-options",
+  "name": "List Inboxes Options",
+  "description": "Retrieves available options for the Inboxes field.",
+  "type": "action",
+  "version": "0.0.1"
+}

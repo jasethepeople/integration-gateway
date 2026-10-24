@@ -1,0 +1,25 @@
+{
+  "app": "happy_scribe",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "transcriptionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "organization_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "happy_scribe-delete-transcription",
+    "happy_scribe-get-transcription",
+    "happy_scribe-submit-file",
+    "happy_scribe-new-transcription"
+  ]
+}

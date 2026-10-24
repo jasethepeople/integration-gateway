@@ -1,0 +1,7 @@
+{
+  "key": "vimeo-list-video-id-options",
+  "name": "List Video ID Options",
+  "description": "Retrieves available options for the Video ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

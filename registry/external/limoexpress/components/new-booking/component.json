@@ -1,0 +1,7 @@
+{
+  "key": "limoexpress-new-booking",
+  "name": "New Limo Booking Created",
+  "description": "Emit new event when a customer creates a new limo booking. [See the documentation](https://api.limoexpress.me/api/docs/v1#/Bookings/createBooking)",
+  "type": "source",
+  "version": "0.0.1"
+}

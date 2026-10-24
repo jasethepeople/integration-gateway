@@ -1,0 +1,19 @@
+{
+  "app": "vybit",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "vybitId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "vybit-list-vybit-id-options",
+    "vybit-send-vybit"
+  ]
+}

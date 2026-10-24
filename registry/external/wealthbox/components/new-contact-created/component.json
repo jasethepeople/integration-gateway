@@ -1,0 +1,7 @@
+{
+  "key": "wealthbox-new-contact-created",
+  "name": "New Contact Created",
+  "description": "Emit new event for each contact created. [See the documentation](http://dev.wealthbox.com/#contacts-retrieve-all-contacts-get)",
+  "type": "source",
+  "version": "0.0.2"
+}

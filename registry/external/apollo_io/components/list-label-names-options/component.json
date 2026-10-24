@@ -1,0 +1,7 @@
+{
+  "key": "apollo_io-list-label-names-options",
+  "name": "List Label Names Options",
+  "description": "Retrieves available options for the Label Names field.",
+  "type": "action",
+  "version": "0.0.2"
+}

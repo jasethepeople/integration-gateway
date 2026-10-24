@@ -1,0 +1,7 @@
+{
+  "key": "google_sheets-find-rows",
+  "name": "Find Rows",
+  "description": "Search for rows matching a value in a specific column.",
+  "type": "action",
+  "version": "0.0.5"
+}

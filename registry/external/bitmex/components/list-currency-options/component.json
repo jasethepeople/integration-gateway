@@ -1,0 +1,7 @@
+{
+  "key": "bitmex-list-currency-options",
+  "name": "List Currency Options",
+  "description": "Retrieves available options for the Currency field.",
+  "type": "action",
+  "version": "0.0.1"
+}

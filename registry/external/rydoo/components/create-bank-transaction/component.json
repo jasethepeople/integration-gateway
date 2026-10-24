@@ -1,0 +1,7 @@
+{
+  "key": "rydoo-create-bank-transaction",
+  "name": "Create Bank Transaction",
+  "description": "Manually pushes a bank transaction record for a specific user. [See the documentation](https://developers.rydoo.com/reference/v2transactionsaddtransaction)",
+  "type": "action",
+  "version": "0.0.2"
+}

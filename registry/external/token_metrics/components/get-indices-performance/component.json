@@ -1,0 +1,7 @@
+{
+  "key": "token_metrics-get-indices-performance",
+  "name": "Get Indices Performance",
+  "description": "ID of the index. Example: `1`",
+  "type": "action",
+  "version": "0.1.1"
+}

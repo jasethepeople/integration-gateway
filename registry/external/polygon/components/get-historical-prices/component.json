@@ -1,0 +1,7 @@
+{
+  "key": "polygon-get-historical-prices",
+  "name": "Get Historical Prices",
+  "description": "Fetches historical price data for a specified stock ticker within a date range. [See the documentation](https://polygon.io/docs/stocks/get_v2_aggs_ticker__stocksticker__range__multiplier___timespan___from___to)",
+  "type": "action",
+  "version": "0.0.3"
+}

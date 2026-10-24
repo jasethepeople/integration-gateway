@@ -1,0 +1,7 @@
+{
+  "key": "whautomate-new-appointment-scheduled-instant",
+  "name": "New Appointment Scheduled (Instant)",
+  "description": "Emit new event when a new appointment is scheduled in Whautomate.",
+  "type": "source",
+  "version": "0.0.1"
+}

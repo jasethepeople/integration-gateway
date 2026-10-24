@@ -1,0 +1,20 @@
+{
+  "app": "mamo_business",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "environment": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mamo_business-create-payment-link",
+    "mamo_business-new-failed-payment",
+    "mamo_business-new-successful-payment"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "linkly-list-link-id-options",
+  "name": "List Link ID Options",
+  "description": "Retrieves available options for the Link ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

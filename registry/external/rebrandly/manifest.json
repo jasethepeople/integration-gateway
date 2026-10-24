@@ -1,0 +1,17 @@
+{
+  "app": "rebrandly",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "rebrandly-create-link",
+    "rebrandly-update-link",
+    "rebrandly-new-click-received",
+    "rebrandly-new-link"
+  ]
+}

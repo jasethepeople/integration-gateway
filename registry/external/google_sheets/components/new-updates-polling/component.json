@@ -1,0 +1,7 @@
+{
+  "key": "google_sheets-new-updates-polling",
+  "name": "New Updates",
+  "description": "Emit new event each time a row or cell is updated in a spreadsheet.",
+  "type": "source",
+  "version": "0.0.6"
+}

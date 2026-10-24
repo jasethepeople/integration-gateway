@@ -1,0 +1,16 @@
+{
+  "app": "wit_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "app_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "wit_ai-add-utterance",
+    "wit_ai-create-entity",
+    "wit_ai-create-intent"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pagerduty-get-event-orchestration-service",
+  "name": "Get Event Orchestration for Service",
+  "description": "Get the active event orchestration routing rules configured for a service.",
+  "type": "action",
+  "version": "0.0.2"
+}

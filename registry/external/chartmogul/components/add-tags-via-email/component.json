@@ -1,0 +1,7 @@
+{
+  "key": "chartmogul-add-tags-via-email",
+  "name": "Add Tags To Customer Via Email",
+  "description": "Adds tags to customers that have the specified email address. [See the docs here](https://dev.chartmogul.com/reference/add-tags-to-customers-with-email)",
+  "type": "action",
+  "version": "0.0.2"
+}

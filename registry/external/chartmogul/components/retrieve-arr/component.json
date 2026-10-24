@@ -1,0 +1,7 @@
+{
+  "key": "chartmogul-retrieve-arr",
+  "name": "Retrieve ARR",
+  "description": "Retrieves the Annualized Run Rate (ARR), for the specified time period. [See the docs here](https://dev.chartmogul.com/reference/retrieve-arr)",
+  "type": "action",
+  "version": "0.0.2"
+}

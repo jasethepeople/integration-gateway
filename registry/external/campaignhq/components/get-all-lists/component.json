@@ -1,0 +1,7 @@
+{
+  "key": "campaignhq-get-all-lists",
+  "name": "Get all Lists",
+  "description": "Get all lists [See the documentation](https://campaignhq.docs.apiary.io/#reference/0/lists-collection/get-all-lists).",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "daytona-delete-sandbox",
+  "name": "Delete Sandbox",
+  "description": "Deletes a sandbox on Daytona. This action is irreversible and all data in the sandbox will be lost. [See the documentation](https://www.daytona.io/docs/en/typescript-sdk/sandbox/#delete)",
+  "type": "action",
+  "version": "0.0.1"
+}

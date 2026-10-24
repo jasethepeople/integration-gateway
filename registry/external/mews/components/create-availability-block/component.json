@@ -1,0 +1,7 @@
+{
+  "key": "mews-create-availability-block",
+  "name": "Create Availability Block",
+  "description": "Create an availability block in Mews. [See the documentation](https://mews-systems.gitbook.io/connector-api/operations/availabilityblocks#add-availability-blocks)",
+  "type": "action",
+  "version": "0.0.3"
+}

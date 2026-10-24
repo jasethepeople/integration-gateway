@@ -1,0 +1,7 @@
+{
+  "key": "docmosis-generate-document",
+  "name": "Generate Document",
+  "description": "Generates a document by merging data with a Docmosis template. [See the documentation](https://resources.docmosis.com/Documentation/Cloud/DWS4/Cloud-Web-Services-Guide-DWS4.pdf)",
+  "type": "action",
+  "version": "0.0.3"
+}

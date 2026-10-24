@@ -1,0 +1,7 @@
+{
+  "key": "shopware-update-order",
+  "name": "Update Order",
+  "description": "Partially update information about an order resource. [See the documentation](https://shopware.stoplight.io/docs/admin-api/3cc867261ff28-partially-update-information-about-a-order-resource)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "more_trees_-list-tree-type-slug-options",
+  "name": "List Tree Type Slug Options",
+  "description": "Retrieves available options for the Tree Type Slug field.",
+  "type": "action",
+  "version": "0.0.1"
+}

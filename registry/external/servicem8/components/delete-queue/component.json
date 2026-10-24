@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-delete-queue",
+  "name": "Delete Queue",
+  "description": "Delete a job queue by UUID. [See the documentation](https://developer.servicem8.com/reference/deletejobqueues)",
+  "type": "action",
+  "version": "0.0.1"
+}

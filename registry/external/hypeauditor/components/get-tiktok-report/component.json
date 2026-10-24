@@ -1,0 +1,7 @@
+{
+  "key": "hypeauditor-get-tiktok-report",
+  "name": "Get Tiktok Report",
+  "description": "Returns a report about the specified Tiktok channel. [See the documentation](https://hypeauditor.readme.io/reference/get_report_tiktok)",
+  "type": "action",
+  "version": "0.0.3"
+}

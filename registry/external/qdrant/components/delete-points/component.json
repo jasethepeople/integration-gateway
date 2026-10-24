@@ -1,0 +1,7 @@
+{
+  "key": "qdrant-delete-points",
+  "name": "Delete Points",
+  "description": "Deletes one or more points by ID/filter in a Qdrant collection.",
+  "type": "action",
+  "version": "0.0.2"
+}

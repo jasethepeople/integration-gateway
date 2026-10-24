@@ -1,0 +1,7 @@
+{
+  "key": "owl_protocol-mint-asset",
+  "name": "Mint Asset",
+  "description": "Mint digital assets for collection. [See the documentation](https://docs-api.owlprotocol.xyz/reference/collection-erc721autoid-mint)",
+  "type": "action",
+  "version": "0.0.2"
+}

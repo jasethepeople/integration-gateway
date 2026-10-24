@@ -1,0 +1,7 @@
+{
+  "key": "swapcard_exhibitor-new-connection",
+  "name": "New Connection Formed",
+  "description": "Emit new event when a new connection is formed (new lead).",
+  "type": "source",
+  "version": "0.0.1"
+}

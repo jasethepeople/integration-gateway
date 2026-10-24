@@ -1,0 +1,7 @@
+{
+  "key": "grafana-create-annotation",
+  "name": "Create Annotation",
+  "description": "Create an annotation on a dashboard or globally.",
+  "type": "action",
+  "version": "0.0.3"
+}

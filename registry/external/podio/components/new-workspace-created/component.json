@@ -1,0 +1,7 @@
+{
+  "key": "podio-new-workspace-created",
+  "name": "New Workspace created",
+  "description": "Emit new events when a new workspace created. [See the documentation](https://developers.podio.com/doc/spaces/get-list-of-organization-workspaces-238875316)",
+  "type": "source",
+  "version": "0.0.2"
+}

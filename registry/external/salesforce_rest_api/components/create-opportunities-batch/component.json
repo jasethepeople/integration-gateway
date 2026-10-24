@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-create-opportunities-batch",
+  "name": "Create Opportunities (Batch)",
+  "description": "Create many Salesforce opportunities in one job using Bulk API 2.0.",
+  "type": "action",
+  "version": "0.0.8"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "faraday-predict",
+  "name": "Predict",
+  "description": "Returns a prediction about a single person. [See the documentation](https://faraday.ai/developers/reference/lookupontarget)",
+  "type": "action",
+  "version": "0.0.2"
+}

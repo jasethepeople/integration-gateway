@@ -1,0 +1,7 @@
+{
+  "key": "expofp-add-exhibitor-booth",
+  "name": "Add Exhibitor Booth",
+  "description": "Adds an exhibitor booth. [See the documentation](https://expofp.docs.apiary.io/#reference/0/add-exhibitor-booth/add-exhibitor-booth)",
+  "type": "action",
+  "version": "0.0.2"
+}

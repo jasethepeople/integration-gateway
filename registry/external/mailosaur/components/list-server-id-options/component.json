@@ -1,0 +1,7 @@
+{
+  "key": "mailosaur-list-server-id-options",
+  "name": "List Server ID Options",
+  "description": "Retrieves available options for the Server ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

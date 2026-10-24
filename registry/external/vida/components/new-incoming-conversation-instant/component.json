@@ -1,0 +1,7 @@
+{
+  "key": "vida-new-incoming-conversation-instant",
+  "name": "New Incoming Conversation (Instant)",
+  "description": "Emit new event when an incoming call or message is received before answered by an agent. Useful for providing context about the caller or messenger to your agent before response.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "returnless-return-status-changed",
+  "name": "Return Status Changed (Instant)",
+  "description": "Emit new event when a return status is changed. [See the documentation](https://docs.returnless.com/docs/api-rest-reference/fd4ad9c27648b-creates-a-webhook-subscriptions)",
+  "type": "source",
+  "version": "0.0.3"
+}

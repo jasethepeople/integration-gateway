@@ -1,0 +1,41 @@
+{
+  "app": "paradym",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sdJWTVCCredentialTemplateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "anoncredsCredentialTemplateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "presentationTemplateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "openId4VcVerificationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "paradym-create-didcomm-issuance-offer",
+    "paradym-create-openid4vc-credential-offer",
+    "paradym-create-openid4vc-verification-request",
+    "paradym-get-openid4vc-verification-session",
+    "paradym-new-verification-response-instant"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

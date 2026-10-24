@@ -1,0 +1,7 @@
+{
+  "key": "dataforseo-get-competitor-domains",
+  "name": "Get Competitor Domains",
+  "description": "Find competing domains for specified keywords or target domain. [See the documentation](https://docs.dataforseo.com/v3/dataforseo_labs/google/competitors_domain/live/?bash)",
+  "type": "action",
+  "version": "0.0.2"
+}

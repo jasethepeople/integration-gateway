@@ -1,0 +1,7 @@
+{
+  "key": "hostaway-reservation-updated",
+  "name": "New Reservation Updated",
+  "description": "Emit new event when a reservation is updated in Hostaway.",
+  "type": "source",
+  "version": "0.0.3"
+}

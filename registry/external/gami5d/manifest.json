@@ -1,0 +1,18 @@
+{
+  "app": "gami5d",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "access_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "secret_access_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "gami5d-record-observation"
+  ]
+}

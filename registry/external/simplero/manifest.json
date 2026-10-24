@@ -1,0 +1,68 @@
+{
+  "app": "simplero",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "listId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ipAddress": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "referrer": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ref": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "landingPageId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "gdprConsent": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "application_info": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "simplero-create-update-contact",
+    "simplero-list-list-id-options",
+    "simplero-subscribe-to-list",
+    "simplero-tag-contact",
+    "simplero-new-invoice",
+    "simplero-new-list",
+    "simplero-new-product"
+  ]
+}

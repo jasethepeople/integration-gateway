@@ -1,0 +1,7 @@
+{
+  "key": "google_ads-get-keyword-quality-scores",
+  "name": "Get Keyword Quality Scores",
+  "description": "Filter results to a specific campaign. Use the **List Campaigns** action to discover options.",
+  "type": "action",
+  "version": "0.0.6"
+}

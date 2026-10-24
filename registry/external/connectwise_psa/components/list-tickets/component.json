@@ -1,0 +1,7 @@
+{
+  "key": "connectwise_psa-list-tickets",
+  "name": "List Tickets",
+  "description": "Retrieves a list of tickets. [See the documentation](https://developer.connectwise.com/Products/ConnectWise_PSA/REST#/Tickets/getServiceTickets)",
+  "type": "action",
+  "version": "0.0.2"
+}

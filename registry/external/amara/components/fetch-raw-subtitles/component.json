@@ -1,0 +1,7 @@
+{
+  "key": "amara-fetch-raw-subtitles",
+  "name": "Fetch Raw Subtitles",
+  "description": "Fetch raw subtitles. [See the docs here](https://apidocs.amara.org/#fetch-raw-subtitles)",
+  "type": "action",
+  "version": "0.0.3"
+}

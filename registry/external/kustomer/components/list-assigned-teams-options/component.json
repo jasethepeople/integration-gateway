@@ -1,0 +1,7 @@
+{
+  "key": "kustomer-list-assigned-teams-options",
+  "name": "List Assigned Teams Options",
+  "description": "Retrieves available options for the Assigned Teams field.",
+  "type": "action",
+  "version": "0.0.1"
+}

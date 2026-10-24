@@ -1,0 +1,7 @@
+{
+  "key": "harvest-create-user",
+  "name": "Create User",
+  "description": "Create a new user in the Harvest account. Example: call with firstName=\"Ian\", lastName=\"Malcolm\", email=\"ian.malcolm@example.com\" to add a new team member. [See the documentation](https://help.getharvest.com/api-v2/users-api/users/users/#create-a-user).",
+  "type": "action",
+  "version": "0.0.1"
+}

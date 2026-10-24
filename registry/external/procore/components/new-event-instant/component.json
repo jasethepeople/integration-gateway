@@ -1,0 +1,7 @@
+{
+  "key": "procore-new-event-instant",
+  "name": "New Event (Instant)",
+  "description": "Emit new event depending on the resource name selected. [See the documentation](https://developers.procore.com/reference/rest/hooks?version=latest).",
+  "type": "source",
+  "version": "0.0.1"
+}

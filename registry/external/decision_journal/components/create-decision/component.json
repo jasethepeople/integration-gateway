@@ -1,0 +1,7 @@
+{
+  "key": "decision_journal-create-decision",
+  "name": "Create Decision",
+  "description": "Creates a new decision in the Decision Journal. [See the documentation](https://openpm.ai/apis/decision-journal#/decisions)",
+  "type": "action",
+  "version": "0.0.2"
+}

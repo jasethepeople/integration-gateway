@@ -1,0 +1,7 @@
+{
+  "key": "apify-new-finished-task-run-instant",
+  "name": "New Finished Task Run (Instant)",
+  "description": "Emit new event when a selected task is run and finishes.",
+  "type": "source",
+  "version": "0.0.6"
+}

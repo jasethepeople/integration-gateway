@@ -1,0 +1,7 @@
+{
+  "key": "sendoso-send-physical-gift-with-address-confirmation",
+  "name": "Send A Physical Gift With Address Confirmation",
+  "description": "Send a physical gift. [See the docs here](https://developer.sendoso.com/rest-api/reference/sends/physical/physicalAC)",
+  "type": "action",
+  "version": "0.1.1"
+}

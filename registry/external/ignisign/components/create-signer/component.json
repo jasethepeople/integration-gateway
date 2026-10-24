@@ -1,0 +1,7 @@
+{
+  "key": "ignisign-create-signer",
+  "name": "Create Signer",
+  "description": "Creates a new signer entity in IgniSign. [See the documentation](https://ignisign.io/docs/ignisign-api/create-signer)",
+  "type": "action",
+  "version": "0.0.2"
+}

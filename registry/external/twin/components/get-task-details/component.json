@@ -1,0 +1,7 @@
+{
+  "key": "twin-get-task-details",
+  "name": "Get Task Details",
+  "description": "Retrieve details of a specific task. [See the documentation](https://docs.twin.so/api-reference/endpoint/get-task)",
+  "type": "action",
+  "version": "0.0.2"
+}

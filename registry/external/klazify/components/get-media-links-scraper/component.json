@@ -1,0 +1,7 @@
+{
+  "key": "klazify-get-media-links-scraper",
+  "name": "Get Media Links Scraper",
+  "description": "Get the media links of a domain. [See the documentation](https://www.klazify.com/category#docs).",
+  "type": "action",
+  "version": "0.0.2"
+}

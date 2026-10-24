@@ -1,0 +1,7 @@
+{
+  "key": "nyckel-extract-text-from-image",
+  "name": "Extract Text from Image",
+  "description": "Extracts text from an image URL. [See the documentation](https://www.nyckel.com/docs#ocr-image)",
+  "type": "action",
+  "version": "0.1.1"
+}

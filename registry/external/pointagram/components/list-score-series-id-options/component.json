@@ -1,0 +1,7 @@
+{
+  "key": "pointagram-list-score-series-id-options",
+  "name": "List Score Series ID Options",
+  "description": "Retrieves available options for the Score Series ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

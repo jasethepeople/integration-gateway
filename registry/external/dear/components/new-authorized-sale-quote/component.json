@@ -1,0 +1,7 @@
+{
+  "key": "dear-new-authorized-sale-quote",
+  "name": "New Authorized Sale Quote",
+  "description": "Emit new event when a sale quote is created and authorized",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "insighto_ai-list-assistant-id-options",
+  "name": "List Assistant ID Options",
+  "description": "Retrieves available options for the Assistant ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

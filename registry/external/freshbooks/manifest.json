@@ -1,0 +1,105 @@
+{
+  "app": "freshbooks",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "invoiceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "clientId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "invoiceNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "createDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "generationDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "discountValue": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "discountDescription": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "poNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "currencyCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "language": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "terms": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "notes": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "address": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "street": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "street2": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "city": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "province": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "code": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dueOffsetDays": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "lines": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    }
+  },
+  "categories": [],
+  "components": [
+    "freshbooks-create-invoice",
+    "freshbooks-list-account-id-options",
+    "freshbooks-send-invoice-by-email",
+    "freshbooks-update-invoice",
+    "freshbooks-new-event-instant"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "sendcloud-create-return",
+  "name": "Create Return",
+  "description": "Create a return. [See the documentation](https://api.sendcloud.dev/docs/sendcloud-public-api/returns/operations/create-a-return)",
+  "type": "action",
+  "version": "0.0.3"
+}

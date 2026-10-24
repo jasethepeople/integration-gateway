@@ -1,0 +1,7 @@
+{
+  "key": "pipedrive-new-event-instant",
+  "name": "New Event (Instant)",
+  "description": "Emit new event when a new webhook event is received. [See the documentation](https://developers.pipedrive.com/docs/api/v1/Webhooks#addWebhook)",
+  "type": "source",
+  "version": "0.0.9"
+}

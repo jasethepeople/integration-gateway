@@ -1,0 +1,7 @@
+{
+  "key": "plaid-get-real-time-balance",
+  "name": "Get Real-Time Balance",
+  "description": "Get the real-time balance for each of an Item's accounts. [See the documentation](https://plaid.com/docs/api/products/balance/#accountsbalanceget).",
+  "type": "action",
+  "version": "0.0.2"
+}

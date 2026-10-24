@@ -1,0 +1,49 @@
+{
+  "app": "donately",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "donationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "sort": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderBy": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "donately-get-campaign",
+    "donately-get-donation",
+    "donately-get-subscription",
+    "donately-list-accounts",
+    "donately-list-campaigns",
+    "donately-list-donations",
+    "donately-list-fundraisers",
+    "donately-list-people",
+    "donately-list-subscriptions",
+    "donately-new-donation-created",
+    "donately-new-fundraiser-created",
+    "donately-new-subscription-failure"
+  ]
+}

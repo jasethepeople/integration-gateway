@@ -1,0 +1,7 @@
+{
+  "key": "sare-add-email",
+  "name": "Add Email",
+  "description": "Add an email to SARE. Optionally, assign the subscriber to a group. [See the documentation](https://dev.sare.pl/rest-api/other/index.html#post-/email/add)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "surveymethods-new-response",
+  "name": "New Response",
+  "description": "Emit new event for each response.",
+  "type": "source",
+  "version": "0.0.3"
+}

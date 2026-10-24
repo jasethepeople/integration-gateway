@@ -1,0 +1,7 @@
+{
+  "key": "autom-brave-search",
+  "name": "Brave Search",
+  "description": "Scrape the results from Brave search engine using Autom.dev. [See the documentation](https://docs.autom.dev/api-reference/brave/search)",
+  "type": "action",
+  "version": "0.0.2"
+}

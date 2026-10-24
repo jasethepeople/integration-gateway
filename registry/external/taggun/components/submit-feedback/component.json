@@ -1,0 +1,7 @@
+{
+  "key": "taggun-submit-feedback",
+  "name": "Submit Feedback",
+  "description": "Add manually verified receipt data to a given receipt for feedback and training purposes. [See the documentation](https://developers.taggun.io/reference/improve-your-restuls)",
+  "type": "action",
+  "version": "0.0.1"
+}

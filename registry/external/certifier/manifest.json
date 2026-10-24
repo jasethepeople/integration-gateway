@@ -1,0 +1,63 @@
+{
+  "app": "certifier",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recipientName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recipientEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "issueCredential": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "sendCredential": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "issueDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "expiryDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "groupName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "certificateDesignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "badgeDesignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "learningEventUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "credentialId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "certifier-create-group",
+    "certifier-issue-credential"
+  ]
+}

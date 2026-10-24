@@ -1,0 +1,22 @@
+{
+  "app": "getprospect",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "listIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "getprospect-create-contact",
+    "getprospect-list-list-ids-options",
+    "getprospect-verify-email",
+    "getprospect-new-company-created",
+    "getprospect-new-contact-created"
+  ]
+}

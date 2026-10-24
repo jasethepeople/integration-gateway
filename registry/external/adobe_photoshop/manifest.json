@@ -1,0 +1,18 @@
+{
+  "app": "adobe_photoshop",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "client_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "adobe_photoshop-remove-background-from-image"
+  ]
+}

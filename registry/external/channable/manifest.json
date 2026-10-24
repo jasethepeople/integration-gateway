@@ -1,0 +1,30 @@
+{
+  "app": "channable",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "stockUpdateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "company_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "project_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "channable-list-stock-update-id-options",
+    "channable-list-stock-updates",
+    "channable-update-stock-update",
+    "channable-new-stock-update-created",
+    "channable-stock-update-updated"
+  ]
+}

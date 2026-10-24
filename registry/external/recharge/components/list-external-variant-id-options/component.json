@@ -1,0 +1,7 @@
+{
+  "key": "recharge-list-external-variant-id-options",
+  "name": "List External Variant ID Options",
+  "description": "Retrieves available options for the External Variant ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

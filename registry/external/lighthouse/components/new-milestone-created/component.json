@@ -1,0 +1,7 @@
+{
+  "key": "lighthouse-new-milestone-created",
+  "name": "New Milestone Created",
+  "description": "Emit new event for each new milestone created.",
+  "type": "source",
+  "version": "0.0.1"
+}

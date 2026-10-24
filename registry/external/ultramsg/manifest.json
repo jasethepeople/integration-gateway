@@ -1,0 +1,20 @@
+{
+  "app": "ultramsg",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "to": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "instance_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": []
+}

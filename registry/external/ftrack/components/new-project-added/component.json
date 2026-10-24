@@ -1,0 +1,7 @@
+{
+  "key": "ftrack-new-project-added",
+  "name": "New Project Added",
+  "description": "Triggered when a new task is added. [See the documentation](https://help.ftrack.com/en/articles/1040498-operations#query)",
+  "type": "source",
+  "version": "0.0.1"
+}

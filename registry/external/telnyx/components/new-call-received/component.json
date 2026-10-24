@@ -1,0 +1,7 @@
+{
+  "key": "telnyx-new-call-received",
+  "name": "New Call Received",
+  "description": "Emit new event on an incoming call to a Call Control Application. [See the documentation](https://developers.telnyx.com/api/webhooks/get-webhook-deliveries)",
+  "type": "source",
+  "version": "0.0.1"
+}

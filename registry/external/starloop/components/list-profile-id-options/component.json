@@ -1,0 +1,7 @@
+{
+  "key": "starloop-list-profile-id-options",
+  "name": "List Profile ID Options",
+  "description": "Retrieves available options for the Profile ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

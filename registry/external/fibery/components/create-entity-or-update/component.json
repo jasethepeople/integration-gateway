@@ -1,0 +1,7 @@
+{
+  "key": "fibery-create-entity-or-update",
+  "name": "Create or Update Entity",
+  "description": "Creates a new entity or updates if it exists. [See the docs here](https://api.fibery.io/graphql.html#update)",
+  "type": "action",
+  "version": "0.0.2"
+}

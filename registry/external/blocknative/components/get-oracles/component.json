@@ -1,0 +1,7 @@
+{
+  "key": "blocknative-get-oracles",
+  "name": "Get Oracles",
+  "description": "Get a list of supported oracles. [See the documentation](https://docs.blocknative.com/gas-prediction/gas-platform-2)",
+  "type": "action",
+  "version": "0.0.1"
+}

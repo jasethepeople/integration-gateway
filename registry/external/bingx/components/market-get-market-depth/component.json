@@ -1,0 +1,7 @@
+{
+  "key": "bingx-market-get-market-depth",
+  "name": "BingX Market Get Market Depth",
+  "description": "Get Market Depth [See the documentation](https://bingx-api.github.io/docs/#/swapV2/market-api.html#Get%20Market%20Depth).",
+  "type": "action",
+  "version": "0.0.5"
+}

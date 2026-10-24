@@ -1,0 +1,7 @@
+{
+  "key": "google_sheets-list-spreadsheets",
+  "name": "List Spreadsheets",
+  "description": "List Google Spreadsheets accessible to the authenticated",
+  "type": "action",
+  "version": "0.1.1"
+}

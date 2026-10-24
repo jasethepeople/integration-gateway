@@ -1,0 +1,7 @@
+{
+  "key": "social_fetch-search-instagram-reels",
+  "name": "Search Instagram Reels",
+  "description": "Searches Instagram for Reels matching a query. [See the documentation](https://app.socialfetch.dev/playground?path=/v1/instagram/search/reels&method=GET)",
+  "type": "action",
+  "version": "0.0.1"
+}

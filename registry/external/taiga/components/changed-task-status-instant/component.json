@@ -1,0 +1,7 @@
+{
+  "key": "taiga-changed-task-status-instant",
+  "name": "Changed Task Status (Instant)",
+  "description": "Emit new event when a task status is changed in the selected project. [See the documentation](https://docs.taiga.io/api.html#webhooks-create)",
+  "type": "source",
+  "version": "0.0.1"
+}

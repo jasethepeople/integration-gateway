@@ -1,0 +1,7 @@
+{
+  "key": "ipstack-ip-lookup",
+  "name": "IP Lookup",
+  "description": "Look up single IPv4 or IPv6 addresses. [See the documentation](https://ipstack.com/documentation#standard)",
+  "type": "action",
+  "version": "0.0.2"
+}

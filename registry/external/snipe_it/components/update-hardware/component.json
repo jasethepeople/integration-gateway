@@ -1,0 +1,7 @@
+{
+  "key": "snipe_it-update-hardware",
+  "name": "Update Hardware Asset",
+  "description": "Partially updates information about an existing hardware asset. [See the documentation](https://snipe-it.readme.io/reference/hardware-partial-update)",
+  "type": "action",
+  "version": "0.0.2"
+}

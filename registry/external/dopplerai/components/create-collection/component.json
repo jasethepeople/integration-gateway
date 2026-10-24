@@ -1,0 +1,7 @@
+{
+  "key": "dopplerai-create-collection",
+  "name": "Create Collection",
+  "description": "Establishes a new collection to save uploaded data. [See the documentation](https://api.dopplerai.com/docs/reference#tag/Collections/operation/create_collection_v1_collections_post)",
+  "type": "action",
+  "version": "0.0.2"
+}

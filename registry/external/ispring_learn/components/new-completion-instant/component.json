@@ -1,0 +1,7 @@
+{
+  "key": "ispring_learn-new-completion-instant",
+  "name": "New Course or Material Completion (Instant)",
+  "description": "Emit new event when courses or materials in a course are completed successfully.",
+  "type": "source",
+  "version": "0.0.1"
+}

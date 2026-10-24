@@ -1,0 +1,16 @@
+{
+  "app": "firefish",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "firefish-unsubscribe-email",
+    "firefish-new-candidate-created",
+    "firefish-new-contact-created"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "snipe_it-list-license-id-options",
+  "name": "List License Options",
+  "description": "Retrieves available options for the License field.",
+  "type": "action",
+  "version": "0.0.1"
+}

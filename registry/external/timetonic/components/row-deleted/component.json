@@ -1,0 +1,7 @@
+{
+  "key": "timetonic-row-deleted",
+  "name": "Row Deleted",
+  "description": "Emit new event when a row is deleted in a table.",
+  "type": "source",
+  "version": "0.0.1"
+}

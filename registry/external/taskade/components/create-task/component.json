@@ -1,0 +1,7 @@
+{
+  "key": "taskade-create-task",
+  "name": "Create Task",
+  "description": "Creates a new task in Taskade. [See the documentation](https://developers.taskade.com/docs/api/tasks/create)",
+  "type": "action",
+  "version": "0.0.2"
+}

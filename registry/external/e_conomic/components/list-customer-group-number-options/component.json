@@ -1,0 +1,7 @@
+{
+  "key": "e_conomic-list-customer-group-number-options",
+  "name": "List Customer Group Number Options",
+  "description": "Retrieves available options for the Customer Group Number field.",
+  "type": "action",
+  "version": "0.0.1"
+}

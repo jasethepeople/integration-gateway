@@ -1,0 +1,7 @@
+{
+  "key": "launchdarkly-get-feature-flag",
+  "name": "Get Feature Flag",
+  "description": "Get a feature flag by key. [See the documentation](https://launchdarkly.com/docs/api/feature-flags/get-feature-flag).",
+  "type": "action",
+  "version": "0.0.2"
+}

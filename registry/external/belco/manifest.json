@@ -1,0 +1,79 @@
+{
+  "app": "belco",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "shopId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "from": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "to": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "conversationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "channel": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fromType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "toType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "toEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subject": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "body": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "belco-add-note-to-conversation",
+    "belco-add-tags-to-conversation",
+    "belco-close-conversation",
+    "belco-create-conversation",
+    "belco-get-contact-details",
+    "belco-list-all-conversations",
+    "belco-list-contacts",
+    "belco-list-shop-id-options",
+    "belco-list-users",
+    "belco-reopen-conversation",
+    "belco-reply-to-conversation",
+    "belco-retrieve-conversation-items",
+    "belco-retrieve-conversation",
+    "belco-send-message",
+    "belco-conversation-assigned-instant",
+    "belco-conversation-closed-instant",
+    "belco-conversation-reopened-instant",
+    "belco-conversation-replied-instant",
+    "belco-new-conversation-created-instant",
+    "belco-new-conversation",
+    "belco-new-webhook-event",
+    "belco-note-added-instant"
+  ]
+}

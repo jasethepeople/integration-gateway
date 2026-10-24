@@ -1,0 +1,7 @@
+{
+  "key": "_302_ai-list-model-id-options",
+  "name": "List Model ID Options",
+  "description": "Retrieves available options for the Model ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_dynamics_365_sales-account-status-changed",
+  "name": "Account Status Changed",
+  "description": "Emit new event when an account is activated or deactivated.",
+  "type": "source",
+  "version": "0.0.4"
+}

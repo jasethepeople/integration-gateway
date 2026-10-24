@@ -1,0 +1,7 @@
+{
+  "key": "bitly-find-bitlink",
+  "name": "Retrieve a Bitlink",
+  "description": "Finds an existing Bitlink in your account. Optionally, creates one if none are found.  [See the docs here](https://dev.bitly.com/api-reference#expandBitlink)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "survey_monkey-list-collectors",
+  "name": "List Survey Collectors",
+  "description": "Retrieve a survey's Collectors. [See the docs here](https://api.surveymonkey.net/v3/docs?javascript#api-endpoints-get-surveys-id-collectors)",
+  "type": "action",
+  "version": "0.0.4"
+}

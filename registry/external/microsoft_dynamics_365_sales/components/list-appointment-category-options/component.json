@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_dynamics_365_sales-list-appointment-category-options",
+  "name": "List Appointment Category Options",
+  "description": "Retrieves available options for the Category of appointment field.",
+  "type": "action",
+  "version": "0.0.2"
+}

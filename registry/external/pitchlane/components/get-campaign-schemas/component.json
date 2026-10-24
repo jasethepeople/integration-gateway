@@ -1,0 +1,7 @@
+{
+  "key": "pitchlane-get-campaign-schemas",
+  "name": "Get Campaign Schemas",
+  "description": "Retrieve the variable schema and lead schema mapping for a specific campaign. [See the documentation](https://docs.pitchlane.com/reference#tag/campaigns/GET/campaigns/{campaignId}/schemas)",
+  "type": "action",
+  "version": "0.0.1"
+}

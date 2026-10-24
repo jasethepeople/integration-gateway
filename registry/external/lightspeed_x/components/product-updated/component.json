@@ -1,0 +1,7 @@
+{
+  "key": "lightspeed_x-product-updated",
+  "name": "Product Updated (Instant)",
+  "description": "Emit new event when a product is updated. [See the documentation](https://x-series-api.lightspeedhq.com/v2026.01/reference/post-webhooks)",
+  "type": "source",
+  "version": "0.0.1"
+}

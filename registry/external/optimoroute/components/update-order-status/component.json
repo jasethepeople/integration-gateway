@@ -1,0 +1,7 @@
+{
+  "key": "optimoroute-update-order-status",
+  "name": "Update Order Status",
+  "description": "Update the status of an order. [See the documentation](https://optimoroute.com/api/#update-order-completion)",
+  "type": "action",
+  "version": "0.0.2"
+}

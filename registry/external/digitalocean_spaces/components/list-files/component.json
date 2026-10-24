@@ -1,0 +1,7 @@
+{
+  "key": "digitalocean_spaces-list-files",
+  "name": "List Files",
+  "description": "List files in a bucket. [See the docs](https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/clients/client-s3/classes/listobjectsv2command.html).",
+  "type": "action",
+  "version": "1.0.1"
+}

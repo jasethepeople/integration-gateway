@@ -1,0 +1,34 @@
+import common from "../../shared/sources/common/base.mjs";
+import sampleEmit from "../../shared/sources/new-error-occurrence/test-event.mjs";
+
+export default {
+  ...common,
+  key: "bugsnag-new-error-occurrence",
+  name: "New Error Occurrence",
+  description: "Emit new event when an existing error receives a new occurrence.",
+  version: "0.0.1",
+  type: "source",
+  dedupe: "unique",
+  methods: {
+    ...common.methods,
+    getResourceFn() {
+      return this.bugsnag.listEvents;
+    },
+    getArgs() {
+      return {
+        projectId: this.projectId,
+        params: {
+          sort: "timestamp",
+          direction: "desc",
+        },
+      };
+    },
+    getTsField() {
+      return "received_at";
+    },
+    getSummary(item) {
+      return `New Error Event ID: ${item.id}`;
+    },
+  },
+  sampleEmit,
+};

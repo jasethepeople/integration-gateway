@@ -1,0 +1,7 @@
+{
+  "key": "jo4-list-url-slug-options",
+  "name": "List URL Options",
+  "description": "Retrieves available options for the URL field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "opengraph_io-extract-data",
+  "name": "Extract Data",
+  "description": "Extract specific OpenGraph properties from a specified URL, such as title, image, or description. [See the docs here](https://www.opengraph.io/documentation)",
+  "type": "action",
+  "version": "0.0.2"
+}

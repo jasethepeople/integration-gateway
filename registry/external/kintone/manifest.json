@@ -1,0 +1,34 @@
+{
+  "app": "kintone",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "appId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "recordId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "record": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "kintone-add-comment",
+    "kintone-create-record",
+    "kintone-list-app-id-options",
+    "kintone-update-record",
+    "kintone-new-record"
+  ]
+}

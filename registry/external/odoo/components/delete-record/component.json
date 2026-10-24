@@ -1,0 +1,7 @@
+{
+  "key": "odoo-delete-record",
+  "name": "Delete Record",
+  "description": "Delete a record from Odoo. [See the documentation](https://www.odoo.com/documentation/18.0/developer/reference/external_api.html#delete-records)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "docusign_developer-create-signature-request",
+  "name": "Create Signature Request",
+  "description": "Creates a signature request from a template [See the documentation](https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/envelopes/create)",
+  "type": "action",
+  "version": "0.1.3"
+}

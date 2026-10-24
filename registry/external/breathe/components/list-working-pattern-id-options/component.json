@@ -1,0 +1,7 @@
+{
+  "key": "breathe-list-working-pattern-id-options",
+  "name": "List Working Pattern ID Options",
+  "description": "Retrieves available options for the Working Pattern ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

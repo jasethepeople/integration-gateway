@@ -1,0 +1,7 @@
+{
+  "key": "neetoinvoice-new-invoice",
+  "name": "New Invoice (Instant)",
+  "description": "Emit new event when there is a new invoice. [See the documentation](https://help.neetoinvoice.com/articles/neetoinvoice-zapier-integration)",
+  "type": "source",
+  "version": "0.0.1"
+}

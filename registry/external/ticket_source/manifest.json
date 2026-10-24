@@ -1,0 +1,32 @@
+{
+  "app": "ticket_source",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "eventId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eventDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "bookingId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ticket_source-create-customer",
+    "ticket_source-get-booking",
+    "ticket_source-get-event",
+    "ticket_source-list-bookings-for-date",
+    "ticket_source-list-customers",
+    "ticket_source-list-event-id-options",
+    "ticket_source-list-events"
+  ]
+}

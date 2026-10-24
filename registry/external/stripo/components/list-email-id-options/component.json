@@ -1,0 +1,7 @@
+{
+  "key": "stripo-list-email-id-options",
+  "name": "List Email ID Options",
+  "description": "Retrieves available options for the Email ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

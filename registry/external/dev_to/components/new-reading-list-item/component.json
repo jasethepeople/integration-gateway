@@ -1,0 +1,7 @@
+{
+  "key": "dev_to-new-reading-list-item",
+  "name": "New reading list item",
+  "description": "Emit new event for each new reading list item on your Dev.to account",
+  "type": "source",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "connecteam-list-scheduler-id-options",
+  "name": "List Scheduler ID Options",
+  "description": "Retrieves available options for the Scheduler ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

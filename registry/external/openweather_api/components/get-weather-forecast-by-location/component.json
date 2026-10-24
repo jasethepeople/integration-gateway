@@ -1,0 +1,7 @@
+{
+  "key": "openweather_api-get-weather-forecast-by-location",
+  "name": "Get Current Weather Forecast by Location",
+  "description": "Number of days, which will be returned in the API response",
+  "type": "action",
+  "version": "0.0.3"
+}

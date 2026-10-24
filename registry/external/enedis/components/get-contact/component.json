@@ -1,0 +1,7 @@
+{
+  "key": "enedis-get-contact",
+  "name": "Get Contact",
+  "description": "Returns the contact informations of a client. [See the docs here](https://datahub-enedis.fr/data-connect/documentation/customers-v5-contact/)",
+  "type": "action",
+  "version": "0.0.3"
+}

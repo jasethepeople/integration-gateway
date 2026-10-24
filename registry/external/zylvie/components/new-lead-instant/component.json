@@ -1,0 +1,7 @@
+{
+  "key": "zylvie-new-lead-instant",
+  "name": "New Lead (Instant)",
+  "description": "Emit new event when a user submits their name and email to receive a free product/lead magnet. [See the documentation](https://developers.zylvie.com/webhooks/subscribe).",
+  "type": "source",
+  "version": "0.0.1"
+}

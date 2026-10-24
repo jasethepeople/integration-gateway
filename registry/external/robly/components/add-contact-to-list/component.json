@@ -1,0 +1,7 @@
+{
+  "key": "robly-add-contact-to-list",
+  "name": "Add Contact To List",
+  "description": "Add a contact to one or more sub-lists. [See the documentation](https://docs.robly.com/docs/api-v1/bbf2cab090a93-add-contact-to-sub-list)",
+  "type": "action",
+  "version": "0.0.1"
+}

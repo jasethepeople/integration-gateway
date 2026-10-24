@@ -1,0 +1,7 @@
+{
+  "key": "pumble-send-message",
+  "name": "Send Message",
+  "description": "Send a message to a channel in Pumble. [See the documentation](https://pumble.com/help/integrations/add-pumble-apps/api-keys-integration/#send-messages)",
+  "type": "action",
+  "version": "0.0.2"
+}

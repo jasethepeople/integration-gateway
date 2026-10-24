@@ -1,0 +1,7 @@
+{
+  "key": "tableau-list-sites",
+  "name": "List Sites",
+  "description": "Returns a list of the sites on the server that the caller of this method has access to. [See the documentation](https://help.tableau.com/current/api/rest_api/en-us/REST/rest_api_ref_site.htm#query_sites)",
+  "type": "action",
+  "version": "0.0.1"
+}

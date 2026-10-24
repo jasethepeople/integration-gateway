@@ -1,0 +1,7 @@
+{
+  "key": "strale-execute-capability",
+  "name": "Execute Capability",
+  "description": "Execute a specific Strale capability by slug with the provided inputs. Returns structured data with quality score and audit trail. [See the documentation](https://strale.dev/docs)",
+  "type": "action",
+  "version": "0.0.1"
+}

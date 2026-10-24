@@ -1,0 +1,7 @@
+{
+  "key": "liveswitch-create-contact",
+  "name": "Create Contact",
+  "description": "Create a contact in LiveSwitch [See the documentation](https://developer.liveswitch.com/reference/post_v1-contacts)",
+  "type": "action",
+  "version": "0.0.2"
+}

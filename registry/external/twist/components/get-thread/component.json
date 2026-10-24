@@ -1,0 +1,7 @@
+{
+  "key": "twist-get-thread",
+  "name": "Get Thread",
+  "description": "Gets a thread object by id.",
+  "type": "action",
+  "version": "0.1.2"
+}

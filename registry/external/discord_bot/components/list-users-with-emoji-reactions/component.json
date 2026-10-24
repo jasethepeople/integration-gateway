@@ -1,0 +1,7 @@
+{
+  "key": "discord_bot-list-users-with-emoji-reactions",
+  "name": "List Users that Reacted with Emoji",
+  "description": "Return a list of users that reacted with a specified emoji.",
+  "type": "action",
+  "version": "1.0.1"
+}

@@ -1,0 +1,50 @@
+{
+  "app": "elorus",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "hourlyRate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "project": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "active": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "search": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "organization_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "elorus-create-task",
+    "elorus-delete-tasks",
+    "elorus-get-tasks",
+    "elorus-list-project-options",
+    "elorus-list-task-id-options"
+  ]
+}

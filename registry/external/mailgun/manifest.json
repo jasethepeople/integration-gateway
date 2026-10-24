@@ -1,0 +1,110 @@
+{
+  "app": "mailgun",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "domain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "list": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emailString": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emails": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subject": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "bodyText": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "bodyHtml": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "priority": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "vars": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "subscribed": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "upsert": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "acceptableRiskLevels": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "haltOnError": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "region": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mailgun-create-mailinglist-member",
+    "mailgun-create-route",
+    "mailgun-delete-mailinglist-member",
+    "mailgun-list-domain-options",
+    "mailgun-list-domains",
+    "mailgun-list-list-options",
+    "mailgun-list-mailinglist-members",
+    "mailgun-retrieve-mailinglist-member",
+    "mailgun-send-email",
+    "mailgun-suppress-email",
+    "mailgun-verify-email",
+    "mailgun-new-bounce",
+    "mailgun-new-click",
+    "mailgun-new-complaint",
+    "mailgun-new-delivery-failure",
+    "mailgun-new-delivery",
+    "mailgun-new-log-data",
+    "mailgun-new-mailing-list",
+    "mailgun-new-open",
+    "mailgun-new-permanent-failure",
+    "mailgun-new-temporary-failure",
+    "mailgun-new-unsubscribe"
+  ],
+  "npmImports": [
+    "crypto",
+    "form-data",
+    "lodash",
+    "mailgun.js",
+    "uuid"
+  ]
+}

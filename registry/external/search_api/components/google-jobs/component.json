@@ -1,0 +1,7 @@
+{
+  "key": "search_api-google-jobs",
+  "name": "Google Jobs API",
+  "description": "Search real-time Google Jobs listings. Returns a `jobs` array. Each page returns about 10 jobs; pass a previous run's `pagination.next_page_token` as **Next Page Token** for more. [See the documentation](https://www.searchapi.io/docs/google-jobs)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "fogbugz-create-case",
+  "name": "Create Case",
+  "description": "Creates a new case on FogBugz. [See the documentation](https://support.fogbugz.com/hc/en-us/articles/360011330713-FogBugz-XML-API-Editing-Cases)",
+  "type": "action",
+  "version": "0.0.2"
+}

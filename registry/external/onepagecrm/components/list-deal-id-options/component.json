@@ -1,0 +1,7 @@
+{
+  "key": "onepagecrm-list-deal-id-options",
+  "name": "List Deal ID Options",
+  "description": "Retrieves available options for the Deal ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

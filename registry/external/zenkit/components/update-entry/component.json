@@ -1,0 +1,7 @@
+{
+  "key": "zenkit-update-entry",
+  "name": "Update Entry",
+  "description": "Update an entry/item in a list on Zenkit. [See the docs](https://base.zenkit.com/docs/api/entries/put-api-v1-lists-listid-entries-listentryid)",
+  "type": "action",
+  "version": "0.0.2"
+}

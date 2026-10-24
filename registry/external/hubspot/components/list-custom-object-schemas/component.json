@@ -1,0 +1,7 @@
+{
+  "key": "hubspot-list-custom-object-schemas",
+  "name": "List Custom Object Schemas",
+  "description": "Discover all custom object types defined in the HubSpot account.",
+  "type": "action",
+  "version": "0.0.4"
+}

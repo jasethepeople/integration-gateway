@@ -1,0 +1,7 @@
+{
+  "key": "typeflowai-new-response-updated",
+  "name": "New Response Updated (Instant)",
+  "description": "Emit new event when a response is updated within a workflow. [See the documentation](https://typeflowai.com/docs/api/management/webhooks)",
+  "type": "source",
+  "version": "0.0.1"
+}

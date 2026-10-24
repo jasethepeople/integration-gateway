@@ -1,0 +1,76 @@
+{
+  "app": "pandadoc",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "documentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "completedDocumentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "documentFolderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "file": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recipients": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "separateFiles": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "outputFilename": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pandadoc-create-document-attachment",
+    "pandadoc-create-document-from-file",
+    "pandadoc-create-document-from-template",
+    "pandadoc-create-folder",
+    "pandadoc-create-or-update-contact",
+    "pandadoc-document-details",
+    "pandadoc-download-document",
+    "pandadoc-download-protected-document",
+    "pandadoc-get-document-status",
+    "pandadoc-list-completed-document-id-options",
+    "pandadoc-list-contacts",
+    "pandadoc-list-document-attachments",
+    "pandadoc-list-document-folder-id-options",
+    "pandadoc-list-document-id-options",
+    "pandadoc-list-documents",
+    "pandadoc-list-folders",
+    "pandadoc-list-template-id-options",
+    "pandadoc-send-document",
+    "pandadoc-document-creation-failed",
+    "pandadoc-document-deleted",
+    "pandadoc-document-state-changed",
+    "pandadoc-document-updated",
+    "pandadoc-recipient-completed"
+  ],
+  "npmImports": [
+    "form-data",
+    "fs"
+  ]
+}

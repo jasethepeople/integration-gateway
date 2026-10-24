@@ -1,0 +1,7 @@
+{
+  "key": "reflect-list-graph-id-options",
+  "name": "List GraphId Options",
+  "description": "Retrieves available options for the GraphId field.",
+  "type": "action",
+  "version": "0.0.1"
+}

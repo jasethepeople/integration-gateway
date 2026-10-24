@@ -1,0 +1,7 @@
+{
+  "key": "activecampaign-campaign-opened",
+  "name": "New Campaign Opened (Instant)",
+  "description": "Emit new event when a contact opens a campaign (will trigger once per contact per campaign).",
+  "type": "source",
+  "version": "0.0.7"
+}

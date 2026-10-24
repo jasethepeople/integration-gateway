@@ -1,0 +1,7 @@
+{
+  "key": "acelle_mail-list-subscriber-id-options",
+  "name": "List Subscriber ID Options",
+  "description": "Retrieves available options for the Subscriber ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

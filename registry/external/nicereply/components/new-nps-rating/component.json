@@ -1,0 +1,7 @@
+{
+  "key": "nicereply-new-nps-rating",
+  "name": "New NPS Rating",
+  "description": "Emit new event on each new NPS rating.",
+  "type": "source",
+  "version": "0.0.2"
+}

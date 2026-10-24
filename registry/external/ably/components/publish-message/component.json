@@ -1,0 +1,7 @@
+{
+  "key": "ably-publish-message",
+  "name": "Publish Message",
+  "description": "Publish a message in a channel. [See docs here](https://ably.com/docs/realtime/messages#message-publish)",
+  "type": "action",
+  "version": "0.0.2"
+}

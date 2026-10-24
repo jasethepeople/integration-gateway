@@ -1,0 +1,7 @@
+{
+  "key": "constant_contact-new-contact-added",
+  "name": "New Contact Added",
+  "description": "Emit new event when a new contact is created.",
+  "type": "source",
+  "version": "0.0.3"
+}

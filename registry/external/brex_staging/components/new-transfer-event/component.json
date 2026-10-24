@@ -1,0 +1,7 @@
+{
+  "key": "brex_staging-new-transfer-event",
+  "name": "New Transfer Event (Instant)",
+  "description": "Emit new event for new failed or processed events",
+  "type": "source",
+  "version": "0.0.2"
+}

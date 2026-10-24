@@ -1,0 +1,7 @@
+{
+  "key": "notion-create-page",
+  "name": "Create Page",
+  "description": "Create a new Notion page. The `parent` can be **either** another page (creates a subpage) **or** a database/data source (creates a row in that database).",
+  "type": "action",
+  "version": "1.0.2"
+}

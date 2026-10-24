@@ -1,0 +1,7 @@
+{
+  "key": "zoho_desk-get-ticket-details",
+  "name": "Get Ticket Details",
+  "description": "Retrieve details for a specified ticket. [See the documentation](https://desk.zoho.com/DeskAPIDocument#Tickets_Getaticket)",
+  "type": "action",
+  "version": "0.0.5"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "repairshopr-create-lead",
+  "name": "Create Lead",
+  "description": "Create a new lead. [See the docs here](https://api-docs.repairshopr.com/#/Lead/post_leads)",
+  "type": "action",
+  "version": "0.0.2"
+}

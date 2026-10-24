@@ -1,0 +1,58 @@
+{
+  "app": "jotform",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "formId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "teamId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "formTitle": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "questions": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "emails": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "formHeight": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "max": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "region": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "jotform-get-form-submissions",
+    "jotform-get-monthly-user-usage",
+    "jotform-get-user-submissions",
+    "jotform-list-forms",
+    "jotform-list-team-id-options",
+    "jotform-new-submission"
+  ],
+  "npmImports": [
+    "query-string"
+  ]
+}

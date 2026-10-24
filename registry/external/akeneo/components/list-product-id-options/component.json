@@ -1,0 +1,7 @@
+{
+  "key": "akeneo-list-product-id-options",
+  "name": "List Product Identifier Options",
+  "description": "Retrieves available options for the Product Identifier field.",
+  "type": "action",
+  "version": "0.0.1"
+}

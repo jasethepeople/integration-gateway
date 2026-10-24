@@ -1,0 +1,7 @@
+{
+  "key": "replicate-create-prediction",
+  "name": "Create Prediction",
+  "description": "Create a new prediction [See the documentation](https://replicate.com/docs/reference/http#predictions.create)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "sendoso-create-egift-links",
+  "name": "Create eGift Links",
+  "description": "Generate eGift links. [See the documentation](https://developer.sendoso.com/rest-api/reference/sends/egift/eGiftlink)",
+  "type": "action",
+  "version": "0.0.1"
+}

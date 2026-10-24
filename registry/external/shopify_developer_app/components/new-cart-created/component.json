@@ -1,0 +1,7 @@
+{
+  "key": "shopify_developer_app-new-cart-created",
+  "name": "New Cart Created (Instant)",
+  "description": "Emit new event when a new cart is created.",
+  "type": "source",
+  "version": "0.0.9"
+}

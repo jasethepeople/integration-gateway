@@ -1,0 +1,56 @@
+{
+  "app": "deepgram",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "balanceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "requestId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "language": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tier": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "model": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "redact": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "start": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "end": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "deepgram-get-balance",
+    "deepgram-get-project",
+    "deepgram-get-request",
+    "deepgram-list-balances",
+    "deepgram-list-projects",
+    "deepgram-list-requests",
+    "deepgram-summarize-usage"
+  ]
+}

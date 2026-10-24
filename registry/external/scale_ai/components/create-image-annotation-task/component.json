@@ -1,0 +1,7 @@
+{
+  "key": "scale_ai-create-image-annotation-task",
+  "name": "Create Image Annotation Task",
+  "description": "Create an image annotation task. [See the documentation](https://docs.scale.com/reference/general-image-annotation)",
+  "type": "action",
+  "version": "0.0.3"
+}

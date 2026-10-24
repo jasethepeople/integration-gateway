@@ -1,0 +1,7 @@
+{
+  "key": "overloop-mark-deal-lost",
+  "name": "Mark Deal as Lost",
+  "description": "Marks a deal as lost. [See the docs](https://apidoc.overloop.com/#mark-as-lost)",
+  "type": "action",
+  "version": "0.0.2"
+}

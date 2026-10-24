@@ -1,0 +1,7 @@
+{
+  "key": "encodian-compare-text",
+  "name": "Compare Text",
+  "description": "Compares two texts answering if they are equal or not. [See the documentation](https://api.apps-encodian.com/index.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

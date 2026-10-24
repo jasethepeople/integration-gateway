@@ -1,0 +1,7 @@
+{
+  "key": "skyvern-create-run-task",
+  "name": "Create and Run Task",
+  "description": "Create a new task and run it instantly in Skyvern. Useful for one-off automations. [See the documentation](https://docs.skyvern.com/)",
+  "type": "action",
+  "version": "0.0.3"
+}

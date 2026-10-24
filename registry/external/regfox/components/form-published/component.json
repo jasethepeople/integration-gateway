@@ -1,0 +1,7 @@
+{
+  "key": "regfox-form-published",
+  "name": "New Form Published",
+  "description": "Emit new event when a form is succesfully published. [See docs here.](https://docs.webconnex.io/api/v2/#form-publish-event)",
+  "type": "source",
+  "version": "0.0.1"
+}

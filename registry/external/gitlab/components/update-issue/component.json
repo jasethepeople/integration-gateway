@@ -1,0 +1,7 @@
+{
+  "key": "gitlab-update-issue",
+  "name": "Update Issue",
+  "description": "Updates an existing project issue. [See the documentation](https://docs.gitlab.com/ee/api/issues.html#edit-issue)",
+  "type": "action",
+  "version": "0.0.4"
+}

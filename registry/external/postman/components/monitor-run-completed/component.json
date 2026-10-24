@@ -1,0 +1,7 @@
+{
+  "key": "postman-monitor-run-completed",
+  "name": "New Monitor Run Completed",
+  "description": "Emit new event when a monitor run is completed. [See the documentation](https://learning.postman.com/docs/monitoring-your-api/intro-monitors/)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "sevdesk-new-order",
+  "name": "New Order Created",
+  "description": "Emit new event for each new order created in SevDesk.",
+  "type": "source",
+  "version": "0.0.2"
+}

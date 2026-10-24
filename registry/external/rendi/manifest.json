@@ -1,0 +1,21 @@
+{
+  "app": "rendi",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "rendi-get-ffmpeg-command-status",
+    "rendi-list-stored-files",
+    "rendi-run-ffmpeg-command",
+    "rendi-new-ffmpeg-command",
+    "rendi-new-stored-file"
+  ],
+  "npmImports": [
+    "fs"
+  ]
+}

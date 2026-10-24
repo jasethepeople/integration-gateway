@@ -1,0 +1,7 @@
+{
+  "key": "recruitis-create-job",
+  "name": "Create Job",
+  "description": "Creates a new job ad and puts it in classifieds. [See the documentation](https://docs.recruitis.io/api/#tag/Jobs/paths/~1jobs/post)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,26 @@
+{
+  "app": "justcall",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "from": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "justcall-create-contact",
+    "justcall-list-from-options",
+    "justcall-send-text-message",
+    "justcall-new-missed-call",
+    "justcall-new-text-received"
+  ]
+}

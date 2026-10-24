@@ -1,0 +1,7 @@
+{
+  "key": "grain-manage-recording-sharing",
+  "name": "Manage Recording Sharing",
+  "description": "Shares or unshares a recording with a specific user or team.",
+  "type": "action",
+  "version": "0.0.1"
+}

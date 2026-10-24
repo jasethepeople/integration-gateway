@@ -1,0 +1,7 @@
+{
+  "key": "google_classroom-assignment-done",
+  "name": "Assignment Done",
+  "description": "Emit new event when an assignment in a course is marked as done.",
+  "type": "source",
+  "version": "0.0.3"
+}

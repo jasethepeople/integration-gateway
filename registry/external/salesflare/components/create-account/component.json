@@ -1,0 +1,7 @@
+{
+  "key": "salesflare-create-account",
+  "name": "Create Account",
+  "description": "Create an account. [See the docs here](https://api.salesflare.com/docs#operation/postAccounts)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "recruitis-create-candidate",
+  "name": "Create Candidate",
+  "description": "Create a new candidate. [See the documentation](https://docs.recruitis.io/api/#tag/Candidates/paths/~1candidates/post)",
+  "type": "action",
+  "version": "0.0.2"
+}

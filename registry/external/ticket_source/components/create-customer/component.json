@@ -1,0 +1,7 @@
+{
+  "key": "ticket_source-create-customer",
+  "name": "Create Customer",
+  "description": "Creates a new customer. [See the documentation](https://reference.ticketsource.io/#/operations/post-customer)",
+  "type": "action",
+  "version": "0.0.1"
+}

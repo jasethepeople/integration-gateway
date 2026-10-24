@@ -1,0 +1,7 @@
+{
+  "key": "twist-new-message",
+  "name": "New Message (Instant)",
+  "description": "Emit new event for any new message in a workspace [See the docs here](https://developer.twist.com/v3/#outgoing-webhook)",
+  "type": "source",
+  "version": "0.0.2"
+}

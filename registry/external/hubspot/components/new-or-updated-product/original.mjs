@@ -1,0 +1,91 @@
+import {
+  DEFAULT_LIMIT,
+  DEFAULT_PRODUCT_PROPERTIES,
+} from "../../shared/common/constants.mjs";
+import common from "../../shared/sources/common/common.mjs";
+import sampleEmit from "../../shared/sources/new-or-updated-product/test-event.mjs";
+
+export default {
+  ...common,
+  key: "hubspot-new-or-updated-product",
+  name: "New or Updated Product",
+  description: "Emit new event for each new or updated product in Hubspot.",
+  version: "0.0.34",
+  dedupe: "unique",
+  type: "source",
+  props: {
+    ...common.props,
+    info: {
+      type: "alert",
+      alertType: "info",
+      content: `Properties:\n\`${DEFAULT_PRODUCT_PROPERTIES.join(", ")}\``,
+    },
+    properties: {
+      propDefinition: [
+        common.props.hubspot,
+        "productProperties",
+        () => ({
+          excludeDefaultProperties: true,
+        }),
+      ],
+      label: "Additional properties to retrieve",
+    },
+    newOnly: {
+      type: "boolean",
+      label: "New Only",
+      description: "Emit events only for new products",
+      default: false,
+      optional: true,
+    },
+  },
+  methods: {
+    ...common.methods,
+    getTs(product) {
+      return this.newOnly
+        ? Date.parse(product.createdAt)
+        : Date.parse(product.updatedAt);
+    },
+    generateMeta(product) {
+      const {
+        id, properties,
+      } = product;
+      const ts = this.getTs(product);
+      return {
+        id: this.newOnly
+          ? id
+          : `${id}-${ts}`,
+        summary: properties.name,
+        ts,
+      };
+    },
+    isRelevant(product, updatedAfter) {
+      return this.getTs(product) > updatedAfter;
+    },
+    getParams(after) {
+      const { properties = [] } = this;
+      const dateProperty = this.newOnly
+        ? "createdate"
+        : "hs_lastmodifieddate";
+      return this.addDateFilter({
+        data: {
+          limit: DEFAULT_LIMIT,
+          sorts: [
+            {
+              propertyName: dateProperty,
+              direction: "DESCENDING",
+            },
+          ],
+          properties: [
+            ...DEFAULT_PRODUCT_PROPERTIES,
+            ...properties,
+          ],
+        },
+        object: "products",
+      }, dateProperty, after);
+    },
+    async processResults(after, params) {
+      await this.searchCRM(params, after);
+    },
+  },
+  sampleEmit,
+};

@@ -1,0 +1,7 @@
+{
+  "key": "rev_ai-submit-transcription-job",
+  "name": "Submit Transcription Job",
+  "description": "Starts an asynchronous job to transcribe speech-to-text for a media file. Add an optional callback URL to invoke when processing is complete.",
+  "type": "action",
+  "version": "0.1.3"
+}

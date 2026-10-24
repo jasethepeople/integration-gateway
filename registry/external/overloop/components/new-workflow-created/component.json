@@ -1,0 +1,7 @@
+{
+  "key": "overloop-new-workflow-created",
+  "name": "New Workflow Created",
+  "description": "Emit new event each time a workflow is created. [See the docs](https://apidoc.overloop.com/#list-automations)",
+  "type": "source",
+  "version": "0.0.1"
+}

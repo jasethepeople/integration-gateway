@@ -1,0 +1,7 @@
+{
+  "key": "plain-note-created",
+  "name": "Note Created",
+  "description": "Emit new event when a note is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

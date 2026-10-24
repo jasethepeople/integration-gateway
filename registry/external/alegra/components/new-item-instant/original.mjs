@@ -1,0 +1,22 @@
+import common from "../../shared/sources/common/base.mjs";
+import sampleEmit from "../../shared/sources/new-item-instant/test-event.mjs";
+
+export default {
+  ...common,
+  key: "alegra-new-item-instant",
+  name: "New Item Added (Instant)",
+  description: "Emit new event each time a new item is added.",
+  version: "0.0.1",
+  type: "source",
+  dedupe: "unique",
+  methods: {
+    ...common.methods,
+    getEventType() {
+      return "new-item";
+    },
+    getSummary({ item }) {
+      return `New item added: ${item.name}`;
+    },
+  },
+  sampleEmit,
+};

@@ -1,0 +1,7 @@
+{
+  "key": "letzai-create-new-image",
+  "name": "Create New Image",
+  "description": "Creates a new image generation task from a text prompt in LetzAI. [See the documentation](https://api.letz.ai/doc#/images/images_create)",
+  "type": "action",
+  "version": "0.0.2"
+}

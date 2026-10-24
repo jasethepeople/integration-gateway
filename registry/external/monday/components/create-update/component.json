@@ -1,0 +1,7 @@
+{
+  "key": "monday-create-update",
+  "name": "Create an Update",
+  "description": "Post an update (a comment) on an item, or reply to an existing update. Use to add a note to an item's activity feed; this changes no column value — use **Update Column Values** for that. Set `Board ID`, `Item ID` and `Update Body`, and set `Parent Update ID` only when replying to an existing update rather than starting a new thread. Example: Update Body `Design approved, moving to build`. Returns the new update's ID as a string. Use **Get Board Items Page** to find an `Item ID`. [See the documentation](https://developer.monday.com/api-reference/reference/updates#create-an-update)",
+  "type": "action",
+  "version": "0.0.19"
+}

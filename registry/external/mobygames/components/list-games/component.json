@@ -1,0 +1,7 @@
+{
+  "key": "mobygames-list-games",
+  "name": "List Games",
+  "description": "Provides a list of games. [See the documentation](https://www.mobygames.com/info/api/#games)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "orderspace-new-payment-created",
+  "name": "New Payment Created (Instant)",
+  "description": "Emit new event when a payment is created",
+  "type": "source",
+  "version": "0.0.1"
+}

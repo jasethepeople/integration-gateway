@@ -1,0 +1,7 @@
+{
+  "key": "paystack-validate-customer",
+  "name": "Validate Customer",
+  "description": "Validate a customer's identity. [See the documentation](https://paystack.com/docs/api/customer/#validate)",
+  "type": "action",
+  "version": "0.0.1"
+}

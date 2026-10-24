@@ -1,0 +1,7 @@
+{
+  "key": "clio-new-document-instant",
+  "name": "New Document (Instant)",
+  "description": "Emit new event when a new document is created. [See the documentation](https://docs.developers.clio.com/api-reference/#tag/Webhooks/operation/Webhook#index)",
+  "type": "source",
+  "version": "0.0.3"
+}

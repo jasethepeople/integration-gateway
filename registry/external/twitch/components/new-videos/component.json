@@ -1,0 +1,7 @@
+{
+  "key": "twitch-new-videos",
+  "name": "New Videos",
+  "description": "Emit new event when there is a new video from channels you follow.",
+  "type": "source",
+  "version": "0.1.4"
+}

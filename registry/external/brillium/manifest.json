@@ -1,0 +1,56 @@
+{
+  "app": "brillium",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "assessmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "topicId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "respondentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "pageSize": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_password": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "brillium-list-account-id-options",
+    "brillium-list-assessments",
+    "brillium-list-questions",
+    "brillium-list-respondent-results",
+    "brillium-list-respondents",
+    "brillium-list-topics",
+    "brillium-new-assessment-topic",
+    "brillium-new-assessment",
+    "brillium-new-question-added",
+    "brillium-new-respondent-results",
+    "brillium-new-respondent"
+  ]
+}

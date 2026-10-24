@@ -1,0 +1,25 @@
+{
+  "app": "postalytics",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "listId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "postalytics-create-contact",
+    "postalytics-list-contacts",
+    "postalytics-send-track-postcard-letter",
+    "postalytics-new-campaign-event-instant"
+  ]
+}

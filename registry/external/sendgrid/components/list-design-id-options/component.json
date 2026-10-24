@@ -1,0 +1,7 @@
+{
+  "key": "sendgrid-list-design-id-options",
+  "name": "List Design Id Options",
+  "description": "Retrieves available options for the Design Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

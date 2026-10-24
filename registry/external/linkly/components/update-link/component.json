@@ -1,0 +1,7 @@
+{
+  "key": "linkly-update-link",
+  "name": "Update Link",
+  "description": "Update an existing short link via `POST /api/v1/link` (with `id`) — change its destination URL, slug, name, or custom domain without breaking the existing short URL. [See the documentation](https://app.linklyhq.com/swaggerui#/Links/createOrUpdateLink).",
+  "type": "action",
+  "version": "0.0.2"
+}

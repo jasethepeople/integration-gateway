@@ -1,0 +1,7 @@
+{
+  "key": "dropinblog-new-post-published",
+  "name": "New Post Published",
+  "description": "Emit new event when a new post is published. [See the documentation](https://dropinblog.readme.io/reference/posts-list).",
+  "type": "source",
+  "version": "0.0.1"
+}

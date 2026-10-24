@@ -1,0 +1,7 @@
+{
+  "key": "prisma_management_api-list-databases-from-project",
+  "name": "List Databases from Project",
+  "description": "Retrieves a list of all databases within a specific Prisma project. [See docs here](https://www.prisma.io/docs/postgres/introduction/management-api)",
+  "type": "action",
+  "version": "1.0.2"
+}

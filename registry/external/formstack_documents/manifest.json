@@ -1,0 +1,33 @@
+{
+  "app": "formstack_documents",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "documentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "documentType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "documentOutput": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "formstack_documents-create-document",
+    "formstack_documents-get-document",
+    "formstack_documents-merge-document",
+    "formstack_documents-new-document-created"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "langfuse-get-trace-by-id",
+  "name": "Get Trace by ID",
+  "description": "Retrieve a trace from Langfuse by its ID. [See the documentation](https://api.reference.langfuse.com/#tag/trace/GET/api/public/traces/{traceId}).",
+  "type": "action",
+  "version": "0.0.1"
+}

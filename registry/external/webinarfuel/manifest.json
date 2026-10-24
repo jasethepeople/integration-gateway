@@ -1,0 +1,40 @@
+{
+  "app": "webinarfuel",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "webinarId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "webinarSessionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timeZone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "webinarfuel-add-new-registrant",
+    "webinarfuel-add-tags-to-registrant",
+    "webinarfuel-list-webinar-id-options"
+  ]
+}

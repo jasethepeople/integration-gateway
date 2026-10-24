@@ -1,0 +1,7 @@
+{
+  "key": "cloudpress-export-from-connection",
+  "name": "Export From Connection",
+  "description": "Exports content from a connection in Cloudpress. [See the documentation](https://docs.usecloudpress.com/api-reference/endpoint/export/from-connection)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "teamleader_focus-list-invoice-options",
+  "name": "List Invoice Options",
+  "description": "Retrieves available options for the Invoice field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,50 @@
+{
+  "app": "scrapingant",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "browser": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "returnPageSource": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "cookies": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jsSnippet": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "proxyType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "proxyCountry": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "waitForSelector": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "blockResource": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "scrapingant-general-extraction"
+  ]
+}

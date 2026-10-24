@@ -1,0 +1,7 @@
+{
+  "key": "peakon_employee_voice-create-employee",
+  "name": "Create Employee",
+  "description": "Creates a new employee record in Peakon. Requires `firstName`, `lastName`, and `identifier` ",
+  "type": "action",
+  "version": "0.0.2"
+}

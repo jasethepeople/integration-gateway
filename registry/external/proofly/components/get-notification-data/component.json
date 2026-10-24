@@ -1,0 +1,7 @@
+{
+  "key": "proofly-get-notification-data",
+  "name": "Get Notification Data",
+  "description": "Get data for a notification. [See the documentation here](https://proofly.io/developers)",
+  "type": "action",
+  "version": "0.0.2"
+}

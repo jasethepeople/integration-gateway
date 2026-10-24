@@ -1,0 +1,7 @@
+{
+  "key": "twist-add-message-to-conversation",
+  "name": "Add Message To Conversation",
+  "description": "Adds a message to an existing conversation.",
+  "type": "action",
+  "version": "0.1.3"
+}

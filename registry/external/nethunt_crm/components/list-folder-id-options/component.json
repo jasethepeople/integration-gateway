@@ -1,0 +1,7 @@
+{
+  "key": "nethunt_crm-list-folder-id-options",
+  "name": "List Folder Options",
+  "description": "Retrieves available options for the Folder field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,41 @@
+{
+  "app": "dock_certs",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "profile": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "templateDesign": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "credentialType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "credential": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "registry": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endpoint": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dock_certs-issue-credential",
+    "dock_certs-list-credentials",
+    "dock_certs-revoke-credential",
+    "dock_certs-new-credential-issued"
+  ]
+}

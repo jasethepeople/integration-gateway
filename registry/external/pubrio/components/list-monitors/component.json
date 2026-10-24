@@ -1,0 +1,7 @@
+{
+  "key": "pubrio-list-monitors",
+  "name": "List Monitors",
+  "description": "List all signal monitors. [See the documentation](https://docs.pubrio.com/en/api-reference/endpoint/monitors/monitors)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-list-dboattachments",
+  "name": "List Attachments",
+  "description": "List attachments with optional filters. [See the documentation](https://developer.servicem8.com/reference/listattachments)",
+  "type": "action",
+  "version": "0.0.1"
+}

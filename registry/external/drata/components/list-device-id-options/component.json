@@ -1,0 +1,7 @@
+{
+  "key": "drata-list-device-id-options",
+  "name": "List Device ID Options",
+  "description": "Retrieves available options for the Device ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

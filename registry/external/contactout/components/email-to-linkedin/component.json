@@ -1,0 +1,7 @@
+{
+  "key": "contactout-email-to-linkedin",
+  "name": "Email To LinkedIn",
+  "description": "Find LinkedIn profile from email address. [See the documentation](https://api.contactout.com/#email-to-linkedin-api).",
+  "type": "action",
+  "version": "0.0.2"
+}

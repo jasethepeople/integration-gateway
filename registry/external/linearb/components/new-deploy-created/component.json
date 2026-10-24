@@ -1,0 +1,7 @@
+{
+  "key": "linearb-new-deploy-created",
+  "name": "New Deploy Created",
+  "description": "Emit new event when a new deploy is created in LinearB. [See the documentation](https://docs.linearb.io/api-deployments/)",
+  "type": "source",
+  "version": "0.0.2"
+}

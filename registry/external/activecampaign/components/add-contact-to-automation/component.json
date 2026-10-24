@@ -1,0 +1,7 @@
+{
+  "key": "activecampaign-add-contact-to-automation",
+  "name": "Add Contact to Automation",
+  "description": "Adds an existing contact to an existing automation. See the docs [here](https://developers.activecampaign.com/reference/create-new-contactautomation).",
+  "type": "action",
+  "version": "0.2.2"
+}

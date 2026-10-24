@@ -1,0 +1,41 @@
+{
+  "app": "simla_com",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "countryIso": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "site": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "simla_com-create-customer",
+    "simla_com-create-order",
+    "simla_com-list-country-iso-options",
+    "simla_com-list-order-type-options",
+    "simla_com-list-site-options",
+    "simla_com-new-customer",
+    "simla_com-new-order",
+    "simla_com-updated-customer"
+  ]
+}

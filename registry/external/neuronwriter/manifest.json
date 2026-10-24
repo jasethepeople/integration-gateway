@@ -1,0 +1,26 @@
+{
+  "app": "neuronwriter",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "queryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "project_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "neuronwriter-create-new-query",
+    "neuronwriter-get-content-saved",
+    "neuronwriter-get-query-details",
+    "neuronwriter-new-done-query",
+    "neuronwriter-new-query-processed"
+  ]
+}

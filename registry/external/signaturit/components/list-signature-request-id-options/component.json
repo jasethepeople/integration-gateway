@@ -1,0 +1,7 @@
+{
+  "key": "signaturit-list-signature-request-id-options",
+  "name": "List Signature Request ID Options",
+  "description": "Retrieves available options for the Signature Request ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

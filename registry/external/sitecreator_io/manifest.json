@@ -1,0 +1,24 @@
+{
+  "app": "sitecreator_io",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "siteId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sitecreator_io-create-site",
+    "sitecreator_io-delete-site",
+    "sitecreator_io-new-lead-created",
+    "sitecreator_io-new-newsletter-contact-created"
+  ],
+  "npmImports": [
+    "locale-codes"
+  ]
+}

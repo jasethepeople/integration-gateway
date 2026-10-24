@@ -1,0 +1,7 @@
+{
+  "key": "templated-get-template",
+  "name": "Get Template",
+  "description": "Retrieves a single template object referenced by its unique ID. [See the documentation](https://app.templated.io/docs#retrieve-template)",
+  "type": "action",
+  "version": "0.0.2"
+}

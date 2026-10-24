@@ -1,0 +1,7 @@
+{
+  "key": "pingback-get-subscriber",
+  "name": "Get Subscriber",
+  "description": "Get a subscriber by email [See the documentation](https://developer.pingback.com/docs/api/get-subscriber)",
+  "type": "action",
+  "version": "0.0.2"
+}

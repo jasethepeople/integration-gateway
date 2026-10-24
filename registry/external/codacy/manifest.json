@@ -1,0 +1,33 @@
+{
+  "app": "codacy",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "provider": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "accountProvider": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "remoteOrganizationName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "codacy-delete-integration",
+    "codacy-get-user",
+    "codacy-list-integrations",
+    "codacy-list-organizations"
+  ]
+}

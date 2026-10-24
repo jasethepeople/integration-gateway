@@ -1,0 +1,7 @@
+{
+  "key": "polydoc-test-connection",
+  "name": "Test Connection",
+  "description": "Validate the connected PolyDoc API key with a tiny sandbox screenshot. [See the documentation](https://docs.polydoc.tech).",
+  "type": "action",
+  "version": "0.0.2"
+}

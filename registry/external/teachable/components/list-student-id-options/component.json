@@ -1,0 +1,7 @@
+{
+  "key": "teachable-list-student-id-options",
+  "name": "List Student Options",
+  "description": "Retrieves available options for the Student field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "donately-get-donation",
+  "name": "Get Donation",
+  "description": "Get a donation by ID. [See the documentation](https://developer.donate.ly/api/#donations)",
+  "type": "action",
+  "version": "0.0.1"
+}

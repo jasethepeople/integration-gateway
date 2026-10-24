@@ -1,0 +1,25 @@
+{
+  "app": "zoho_creator",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "appLinkName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "reportLinkName": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zoho_creator-list-app-link-name-options",
+    "zoho_creator-new-or-updated-record",
+    "zoho_creator-new-record"
+  ],
+  "npmImports": [
+    "async-retry",
+    "dateformat",
+    "lodash.get"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "leadfeeder-find-lead",
+  "name": "Find Lead",
+  "description": "Retrieves a specific lead. [See the docs](https://docs.leadfeeder.com/api/#get-a-specific-lead).",
+  "type": "action",
+  "version": "0.0.2"
+}

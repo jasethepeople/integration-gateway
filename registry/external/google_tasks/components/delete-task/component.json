@@ -1,0 +1,7 @@
+{
+  "key": "google_tasks-delete-task",
+  "name": "Delete Task",
+  "description": "Deletes the authenticated user's specified task. [See the docs here](https://developers.google.com/tasks/reference/rest/v1/tasks/delete)",
+  "type": "action",
+  "version": "0.0.4"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "heartbeat-new-event-instant",
+  "name": "New Event (Instant)",
+  "description": "Emit new event when a new event is created. [See the documentation](https://heartbeat.readme.io/reference/createwebhook)",
+  "type": "source",
+  "version": "0.0.1"
+}

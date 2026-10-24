@@ -1,0 +1,24 @@
+{
+  "app": "easypromos",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "userId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "promotionId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "easypromos-new-coin-transaction",
+    "easypromos-new-participation",
+    "easypromos-new-user"
+  ]
+}

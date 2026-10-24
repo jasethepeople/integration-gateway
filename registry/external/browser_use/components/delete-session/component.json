@@ -1,0 +1,7 @@
+{
+  "key": "browser_use-delete-session",
+  "name": "Delete Session",
+  "description": "Delete an agent session. [See the documentation](https://docs.browser-use.com/cloud/api-v3/sessions/delete-session)",
+  "type": "action",
+  "version": "0.0.1"
+}

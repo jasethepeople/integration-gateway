@@ -1,0 +1,40 @@
+{
+  "app": "pushcut",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "notification": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shortcut": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "homekitScene": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timeout": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "delay": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pushcut-execute-homekit-scene",
+    "pushcut-execute-shortcut",
+    "pushcut-list-homekit-scene-options",
+    "pushcut-list-notification-options",
+    "pushcut-list-shortcut-options",
+    "pushcut-send-notification",
+    "pushcut-action-created"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pipefy-card-overdue",
+  "name": "Card Overdue",
+  "description": "Emits an event each time a card becomes overdue in a Pipe.",
+  "type": "source",
+  "version": "0.0.3"
+}

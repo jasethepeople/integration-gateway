@@ -1,0 +1,7 @@
+{
+  "key": "form_io-update-form-action",
+  "name": "Update Form Action",
+  "description": "Update an action attached to a Form.io form. Only the fields you provide are changed; omitted fields keep their current values. Use **List Form Actions** to find the action ID. The `settings` prop is a JSON-string object specific to the action type. [See the documentation](https://apidocs.form.io/#2b553c0c-f857-4bfc-8023-1ddd0fc216e9).",
+  "type": "action",
+  "version": "0.0.1"
+}

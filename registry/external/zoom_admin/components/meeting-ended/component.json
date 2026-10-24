@@ -1,0 +1,7 @@
+{
+  "key": "zoom_admin-meeting-ended",
+  "name": "Meeting Ended",
+  "description": "Emits an event each time a meeting ends in your Zoom account",
+  "type": "source",
+  "version": "0.1.9"
+}

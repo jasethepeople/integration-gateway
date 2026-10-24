@@ -1,0 +1,7 @@
+{
+  "key": "eventbrite-list-timezone-options",
+  "name": "List Timezone Options",
+  "description": "Retrieves available options for the Timezone field.",
+  "type": "action",
+  "version": "0.0.1"
+}

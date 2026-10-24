@@ -1,0 +1,7 @@
+{
+  "key": "data_police_uk-retrieve-crime-data",
+  "name": "Retrieve Crime Data",
+  "description": "Obtain crime data for a specific location and date range. [See the docs here](https://data.police.uk/docs/method/crime-street/)",
+  "type": "action",
+  "version": "0.0.2"
+}

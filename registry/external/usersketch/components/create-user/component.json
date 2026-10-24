@@ -1,0 +1,7 @@
+{
+  "key": "usersketch-create-user",
+  "name": "Create User",
+  "description": "Create an user. [See the documentation](https://usersketch.readme.io/reference/post_api-customer-create)",
+  "type": "action",
+  "version": "0.0.2"
+}

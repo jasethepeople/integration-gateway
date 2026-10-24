@@ -1,0 +1,7 @@
+{
+  "key": "claap-create-recording",
+  "name": "Create Recording",
+  "description": "Create a new recording in Claap. [See the documentation](https://docs.claap.io/api-reference/endpoint/post_recording).",
+  "type": "action",
+  "version": "0.0.2"
+}

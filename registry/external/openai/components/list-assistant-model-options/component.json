@@ -1,0 +1,7 @@
+{
+  "key": "openai-list-assistant-model-options",
+  "name": "List Model Options",
+  "description": "Retrieves available options for the Model field.",
+  "type": "action",
+  "version": "0.0.1"
+}

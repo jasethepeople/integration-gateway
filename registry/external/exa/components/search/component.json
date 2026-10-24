@@ -1,0 +1,7 @@
+{
+  "key": "exa-search",
+  "name": "Search",
+  "description": "Search the web with Exa. `auto` is the recommended search type, and Highlights is the recommended default content mode. [See the documentation](https://docs.exa.ai/reference/search)",
+  "type": "action",
+  "version": "0.1.1"
+}

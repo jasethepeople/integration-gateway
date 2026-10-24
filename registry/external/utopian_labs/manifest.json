@@ -1,0 +1,46 @@
+{
+  "app": "utopian_labs",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "agent": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lead": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "minResearchSteps": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "maxResearchSteps": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "context": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "additionalOptions": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "utopian_labs-get-run-status",
+    "utopian_labs-initiate-classification-run",
+    "utopian_labs-initiate-copywriting-run",
+    "utopian_labs-initiate-qualification-run",
+    "utopian_labs-initiate-research-run",
+    "utopian_labs-initiate-timing-run"
+  ],
+  "npmImports": [
+    "utopianlabs"
+  ]
+}

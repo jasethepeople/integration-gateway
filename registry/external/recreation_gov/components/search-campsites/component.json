@@ -1,0 +1,7 @@
+{
+  "key": "recreation_gov-search-campsites",
+  "name": "Search Campsites",
+  "description": "Searchs campsites with the given query. If no query given, returns campsites from the beginning. Returning campsite number is limited to `1000`. [See the documentation](https://ridb.recreation.gov/docs#/Campsites/getCampsites)",
+  "type": "action",
+  "version": "0.0.3"
+}

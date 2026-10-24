@@ -1,0 +1,7 @@
+{
+  "key": "hedy-get-many-sessions",
+  "name": "Get Many Sessions",
+  "description": "Retrieves a paginated list of Hedy meeting sessions ordered from most recent.",
+  "type": "action",
+  "version": "0.0.2"
+}

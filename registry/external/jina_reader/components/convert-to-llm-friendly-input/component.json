@@ -1,0 +1,7 @@
+{
+  "key": "jina_reader-convert-to-llm-friendly-input",
+  "name": "Convert URL To LLM-Friendly Input",
+  "description": "Converts a provided URL to an LLM-friendly input using Jina Reader. [See the documentation](https://github.com/jina-ai/reader)",
+  "type": "action",
+  "version": "1.0.3"
+}

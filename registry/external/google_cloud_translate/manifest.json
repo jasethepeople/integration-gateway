@@ -1,0 +1,9 @@
+{
+  "app": "google_cloud_translate",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "google_cloud_translate-translate"
+  ]
+}

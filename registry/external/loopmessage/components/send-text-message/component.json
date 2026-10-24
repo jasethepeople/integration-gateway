@@ -1,0 +1,7 @@
+{
+  "key": "loopmessage-send-text-message",
+  "name": "Send Outbound Message",
+  "description": "Action to send a message to an individual recipient.",
+  "type": "action",
+  "version": "0.0.4"
+}

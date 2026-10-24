@@ -1,0 +1,20 @@
+{
+  "app": "google_cloud_vision_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "google_cloud_vision_api-detect-labels-in-image",
+    "google_cloud_vision_api-detect-logos-in-image",
+    "google_cloud_vision_api-detect-text-in-image"
+  ]
+}

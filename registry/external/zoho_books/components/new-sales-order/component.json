@@ -1,0 +1,7 @@
+{
+  "key": "zoho_books-new-sales-order",
+  "name": "New Sales Order",
+  "description": "Emit new event when a new sales order is created.",
+  "type": "source",
+  "version": "0.0.2"
+}

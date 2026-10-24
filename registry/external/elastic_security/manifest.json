@@ -1,0 +1,76 @@
+{
+  "app": "elastic_security",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "id": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ruleId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "caseId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "severity": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "objectType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "perPage": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "sortField": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sortOrder": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "elastic_security-add-case-comment",
+    "elastic_security-create-or-update-case",
+    "elastic_security-create-or-update-detection-rule",
+    "elastic_security-delete-record",
+    "elastic_security-find-assignable-users",
+    "elastic_security-find-cases",
+    "elastic_security-find-detection-rules",
+    "elastic_security-list-tags",
+    "elastic_security-run-detection-rule",
+    "elastic_security-search-alerts",
+    "elastic_security-update-alert-status"
+  ]
+}

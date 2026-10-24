@@ -1,0 +1,7 @@
+{
+  "key": "rentcast-find-rental-listings",
+  "name": "Find Rental Listings",
+  "description": "Search for rental listings in a geographical area, or by a specific address. [See the documentation](https://developers.rentcast.io/reference/rental-listings-long-term)",
+  "type": "action",
+  "version": "0.0.3"
+}

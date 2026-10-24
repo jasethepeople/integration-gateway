@@ -1,0 +1,7 @@
+{
+  "key": "castmagic-submit-transcription-request",
+  "name": "Submit Transcription Request",
+  "description": "Submits a request to transcribe from a URL. [See the documentation](https://docs.castmagic.io/endpoints/transcripts)",
+  "type": "action",
+  "version": "0.0.3"
+}

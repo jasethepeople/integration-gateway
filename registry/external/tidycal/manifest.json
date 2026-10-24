@@ -1,0 +1,18 @@
+{
+  "app": "tidycal",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "tidycal-account-information",
+    "tidycal-list-bookings",
+    "tidycal-list-contacts",
+    "tidycal-appointment-cancelled",
+    "tidycal-new-appointment-booked"
+  ]
+}

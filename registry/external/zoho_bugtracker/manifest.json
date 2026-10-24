@@ -1,0 +1,66 @@
+{
+  "app": "zoho_bugtracker",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "assignee": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "bugFollowers": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "bugId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "flag": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "milestoneId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "portalId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "uploaddoc": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "base_api_uri": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zoho_bugtracker-add-attachment-to-bug",
+    "zoho_bugtracker-create-bug",
+    "zoho_bugtracker-get-bug-details",
+    "zoho_bugtracker-list-portal-id-options",
+    "zoho_bugtracker-update-bug",
+    "zoho_bugtracker-new-bug-reported"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

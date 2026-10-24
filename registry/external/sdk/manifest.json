@@ -1,0 +1,14 @@
+{
+  "app": "sdk",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "sdk-nextjs-event-received",
+    "sdk-nodejs-event-received",
+    "sdk-nuxtjs-event-received",
+    "sdk-python-event-received",
+    "sdk-reactjs-event-received",
+    "sdk-vue-event-received"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "sign_plus-send-envelope",
+  "name": "Send Envelope",
+  "description": "Sends an envelope. [See the documentation](https://apidoc.sign.plus/api-reference/endpoints/signplus/send-envelope-for-signature)",
+  "type": "action",
+  "version": "0.0.1"
+}

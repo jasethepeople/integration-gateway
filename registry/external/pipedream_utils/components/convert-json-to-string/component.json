@@ -1,0 +1,7 @@
+{
+  "key": "pipedream_utils-convert-json-to-string",
+  "name": "Formatting - [Data] Convert JSON to String",
+  "description": "Convert an object to a JSON format string",
+  "type": "action",
+  "version": "0.0.6"
+}

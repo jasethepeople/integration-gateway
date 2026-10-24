@@ -1,0 +1,7 @@
+{
+  "key": "letmepost-publish-post",
+  "name": "Publish a Post",
+  "description": "Publish or schedule a post to one or more connected accounts. [See the documentation](https://docs.letmepost.dev/api-reference/posts/publish-or-schedule-a-multi-target-post)",
+  "type": "action",
+  "version": "0.0.2"
+}

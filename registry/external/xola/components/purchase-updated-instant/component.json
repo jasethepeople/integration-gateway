@@ -1,0 +1,7 @@
+{
+  "key": "xola-purchase-updated-instant",
+  "name": "Purchase Updated (Instant)",
+  "description": "Emit new event when a purchase is updated. [See the documentation](https://developers.xola.com/reference/webhook-introduction)",
+  "type": "source",
+  "version": "0.0.1"
+}

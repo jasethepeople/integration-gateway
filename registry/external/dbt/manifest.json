@@ -1,0 +1,54 @@
+{
+  "app": "dbt",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "environmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "runId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "runArtifact": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "access_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "region": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dbt-get-environment",
+    "dbt-get-run-artifact",
+    "dbt-get-run",
+    "dbt-list-account-id-options",
+    "dbt-trigger-job-run",
+    "dbt-job-run-completed",
+    "dbt-job-run-errored",
+    "dbt-job-run-started",
+    "dbt-new-job-run-event"
+  ]
+}

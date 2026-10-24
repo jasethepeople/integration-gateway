@@ -1,0 +1,7 @@
+{
+  "key": "pdf_co-document-classifier",
+  "name": "Document Classifier",
+  "description": "Auto classification of incoming documents. [See docs here](https://apidocs.pdf.co/01-1-document-classifier)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "gotowebinar-registrant-joined",
+  "name": "New Registrant Joined (Instant)",
+  "description": "Emit new event when a registrant joins a weginar.",
+  "type": "source",
+  "version": "0.0.2"
+}

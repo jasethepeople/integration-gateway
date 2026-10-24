@@ -1,0 +1,7 @@
+{
+  "key": "leap-upload-image-samples",
+  "name": "Upload Image Samples",
+  "description": "Uploads image samples to a custom model. [See the documentation](https://docs.tryleap.ai/reference/samplescontroller_createurl)",
+  "type": "action",
+  "version": "0.0.2"
+}

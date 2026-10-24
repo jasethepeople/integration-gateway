@@ -1,0 +1,7 @@
+{
+  "key": "mctime-new-time-entry-started",
+  "name": "New Time Entry Started",
+  "description": "Emit new event each time a new time entry is started",
+  "type": "source",
+  "version": "0.0.1"
+}

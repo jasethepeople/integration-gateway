@@ -1,0 +1,7 @@
+{
+  "key": "clearbit-find-contacts",
+  "name": "Find Contacts",
+  "description": "Find people who work at a specific company. [See the docs here](https://dashboard.clearbit.com/docs#prospector-api)",
+  "type": "action",
+  "version": "0.0.2"
+}

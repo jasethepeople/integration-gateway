@@ -1,0 +1,7 @@
+{
+  "key": "fynk-list-document-uuid-options",
+  "name": "List Document Options",
+  "description": "Retrieves available options for the Document field.",
+  "type": "action",
+  "version": "0.0.1"
+}

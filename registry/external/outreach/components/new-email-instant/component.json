@@ -1,0 +1,7 @@
+{
+  "key": "outreach-new-email-instant",
+  "name": "New Email Event (Instant)",
+  "description": "Emit new event when an email is created, updated, destroyed, bounced, delivered, opened or replied.",
+  "type": "source",
+  "version": "0.0.1"
+}

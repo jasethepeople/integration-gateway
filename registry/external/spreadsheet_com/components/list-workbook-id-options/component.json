@@ -1,0 +1,7 @@
+{
+  "key": "spreadsheet_com-list-workbook-id-options",
+  "name": "List Workbook Id Options",
+  "description": "Retrieves available options for the Workbook Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

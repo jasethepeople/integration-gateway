@@ -1,0 +1,7 @@
+{
+  "key": "merge-list-candidate-options",
+  "name": "List Candidate Options",
+  "description": "Retrieves available options for the Candidate field.",
+  "type": "action",
+  "version": "0.0.1"
+}

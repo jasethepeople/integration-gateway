@@ -1,0 +1,7 @@
+{
+  "key": "riskadvisor-update-client",
+  "name": "Update Client",
+  "description": "Updates an existing in RiskAdvisor. [See the documentation](https://api.riskadvisor.insure/clients#update-a-client)",
+  "type": "action",
+  "version": "0.0.2"
+}

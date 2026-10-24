@@ -1,0 +1,7 @@
+{
+  "key": "woocommerce-new-product-event",
+  "name": "New Product Event (Instant)",
+  "description": "Emit new event each time the specified product event(s) occur",
+  "type": "source",
+  "version": "0.0.4"
+}

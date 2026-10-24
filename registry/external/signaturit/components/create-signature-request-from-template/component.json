@@ -1,0 +1,7 @@
+{
+  "key": "signaturit-create-signature-request-from-template",
+  "name": "Create Signature Request from Template",
+  "description": "Creates a signature request using a pre-existing template. [See the documentation](https://docs.signaturit.com/api/latest#signatures_create_signature)",
+  "type": "action",
+  "version": "0.1.3"
+}

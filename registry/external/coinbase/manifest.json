@@ -1,0 +1,20 @@
+{
+  "app": "coinbase",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "coinbase-place-buy-order",
+    "coinbase-withdraw-funds",
+    "coinbase-new-transactions"
+  ]
+}

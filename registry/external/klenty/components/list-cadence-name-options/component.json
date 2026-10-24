@@ -1,0 +1,7 @@
+{
+  "key": "klenty-list-cadence-name-options",
+  "name": "List Cadence Options",
+  "description": "Retrieves available options for the Cadence field.",
+  "type": "action",
+  "version": "0.0.1"
+}

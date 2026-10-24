@@ -1,0 +1,68 @@
+{
+  "app": "qstash",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "topic": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "topicId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endpoint": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "body": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "retries": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "deduplicationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contentBasedDeduplicationEnabled": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "delay": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cron": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "topicName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endpointUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "qstash_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "qstash-create-endpoint",
+    "qstash-create-topic",
+    "qstash-list-endpoints",
+    "qstash-list-topics",
+    "qstash-publish-endpoint-message",
+    "qstash-publish-topic-message",
+    "qstash-verify-webhook",
+    "qstash-new-topic-webhook"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

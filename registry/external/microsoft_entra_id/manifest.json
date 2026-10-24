@@ -1,0 +1,38 @@
+{
+  "app": "microsoft_entra_id",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "microsoft_entra_id-add-member-to-group",
+    "microsoft_entra_id-create-group",
+    "microsoft_entra_id-delete-group",
+    "microsoft_entra_id-get-manager",
+    "microsoft_entra_id-get-ms365-groups",
+    "microsoft_entra_id-get-organization-groups",
+    "microsoft_entra_id-get-organization-users",
+    "microsoft_entra_id-get-profile",
+    "microsoft_entra_id-remove-member-from-group",
+    "microsoft_entra_id-search-groups",
+    "microsoft_entra_id-update-group",
+    "microsoft_entra_id-update-user"
+  ],
+  "npmImports": [
+    "@microsoft/microsoft-graph-client",
+    "isomorphic-fetch",
+    "lodash.pickby"
+  ]
+}

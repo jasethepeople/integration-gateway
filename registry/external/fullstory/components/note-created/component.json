@@ -1,0 +1,7 @@
+{
+  "key": "fullstory-note-created",
+  "name": "New Note Created Event",
+  "description": "Emit new events when new note created. [See the docs here](https://developer.fullstory.com/note-created)",
+  "type": "source",
+  "version": "0.0.1"
+}

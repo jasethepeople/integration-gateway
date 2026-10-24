@@ -1,0 +1,7 @@
+{
+  "key": "mercury-new-transaction",
+  "name": "New Transaction",
+  "description": "Emit new event for each transaction posted to a Mercury account. Use it to trigger a workflow on account activity — e.g. notify on incoming/outgoing payments or sync transactions to a ledger. Set **Account** to the account ID (UUID) to watch (run the **List Accounts** action to find it). The first run looks back one day; subsequent runs emit only transactions posted since the previous run. [See the documentation](https://docs.mercury.com/reference/listaccounttransactions)",
+  "type": "source",
+  "version": "0.0.4"
+}

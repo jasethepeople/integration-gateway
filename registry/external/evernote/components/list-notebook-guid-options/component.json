@@ -1,0 +1,7 @@
+{
+  "key": "evernote-list-notebook-guid-options",
+  "name": "List Notebook ID Options",
+  "description": "Retrieves available options for the Notebook ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

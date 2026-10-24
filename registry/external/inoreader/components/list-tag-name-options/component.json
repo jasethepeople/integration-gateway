@@ -1,0 +1,7 @@
+{
+  "key": "inoreader-list-tag-name-options",
+  "name": "List Tag Name Options",
+  "description": "Retrieves available options for the Tag Name field.",
+  "type": "action",
+  "version": "0.0.1"
+}

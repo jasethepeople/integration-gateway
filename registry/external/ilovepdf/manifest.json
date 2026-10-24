@@ -1,0 +1,31 @@
+{
+  "app": "ilovepdf",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "filePaths": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "tool": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "public_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "secret_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ilovepdf-process-files",
+    "ilovepdf-new-task-completed"
+  ],
+  "npmImports": [
+    "form-data",
+    "fs"
+  ]
+}

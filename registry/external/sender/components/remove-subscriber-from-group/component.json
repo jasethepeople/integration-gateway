@@ -1,0 +1,7 @@
+{
+  "key": "sender-remove-subscriber-from-group",
+  "name": "Remove Subscriber From Group",
+  "description": "Removes one or more subscribers from the specified group. [See the documentation](https://api.sender.net/subscribers/remove-group/)",
+  "type": "action",
+  "version": "0.0.1"
+}

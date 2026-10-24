@@ -1,0 +1,7 @@
+{
+  "key": "belco-create-conversation",
+  "name": "Create Conversation",
+  "description": "Start a new Belco conversation in a shop on the `email`, `chat` or `phone` channel, sending `Body` as its first message.",
+  "type": "action",
+  "version": "0.1.0"
+}

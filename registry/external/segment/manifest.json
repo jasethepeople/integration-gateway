@@ -1,0 +1,53 @@
+{
+  "app": "segment",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "context": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "integrations": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "timestamp": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "anonymousId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workspace": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "source": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "write_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "segment-alias",
+    "segment-group",
+    "segment-identify",
+    "segment-list-workspace-options",
+    "segment-page",
+    "segment-screen",
+    "segment-track",
+    "segment-webhook-destination"
+  ]
+}

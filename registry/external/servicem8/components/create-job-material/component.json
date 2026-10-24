@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-create-job-material",
+  "name": "Create Job Material",
+  "description": "Create a job material line. [See the documentation](https://developer.servicem8.com/reference/createjobmaterials)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "freshlearn-create-member",
+  "name": "Create Member",
+  "description": "Creates a new member within FreshLearn. [See the documentation](https://freshlearn.com/support/api#createMember)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "slack_v2-list-messages",
+  "name": "List Messages (Deprecated)",
+  "description": "DEPRECATED — do NOT use for reading a channel's or DM's messages. Use **Get Channel History** instead:",
+  "type": "action",
+  "version": "0.0.17"
+}

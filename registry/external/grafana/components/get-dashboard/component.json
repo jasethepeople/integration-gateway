@@ -1,0 +1,7 @@
+{
+  "key": "grafana-get-dashboard",
+  "name": "Get Dashboard",
+  "description": "Get the full dashboard model by UID, including all panels,",
+  "type": "action",
+  "version": "0.0.3"
+}

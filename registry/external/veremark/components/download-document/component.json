@@ -1,0 +1,7 @@
+{
+  "key": "veremark-download-document",
+  "name": "Download candidate-uploaded document via File Stash",
+  "description": "Downloads a supporting document uploaded by a candidate during the background check process and saves it via File Stash.",
+  "type": "action",
+  "version": "0.0.2"
+}

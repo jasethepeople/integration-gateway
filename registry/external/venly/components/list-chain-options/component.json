@@ -1,0 +1,7 @@
+{
+  "key": "venly-list-chain-options",
+  "name": "List Blockchain Options",
+  "description": "Retrieves available options for the Blockchain field.",
+  "type": "action",
+  "version": "0.0.1"
+}

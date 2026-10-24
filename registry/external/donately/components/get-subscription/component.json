@@ -1,0 +1,7 @@
+{
+  "key": "donately-get-subscription",
+  "name": "Get Subscription",
+  "description": "Get a subscription by ID. [See the documentation](https://developer.donate.ly/api/#subscriptions)",
+  "type": "action",
+  "version": "0.0.2"
+}

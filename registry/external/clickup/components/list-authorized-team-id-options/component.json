@@ -1,0 +1,7 @@
+{
+  "key": "clickup-list-authorized-team-id-options",
+  "name": "List Authorized Team Options",
+  "description": "Retrieves available options for the Authorized Team field.",
+  "type": "action",
+  "version": "0.0.1"
+}

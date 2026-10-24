@@ -1,0 +1,7 @@
+{
+  "key": "motive-find-user-details",
+  "name": "Find User Details",
+  "description": "Retrieve user details based on specific criteria. [See the documentation](https://developer.gomotive.com/reference/users-lookup)",
+  "type": "action",
+  "version": "0.0.2"
+}

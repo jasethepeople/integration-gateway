@@ -1,0 +1,7 @@
+{
+  "key": "open_exchange_rates-rate-update-detected",
+  "name": "New Rate Update",
+  "description": "Emit new event when a new rate update is detected.",
+  "type": "source",
+  "version": "0.0.1"
+}

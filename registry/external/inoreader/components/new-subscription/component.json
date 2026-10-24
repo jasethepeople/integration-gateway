@@ -1,0 +1,7 @@
+{
+  "key": "inoreader-new-subscription",
+  "name": "New Subscription",
+  "description": "Emit new event when a new subscription is added. [See the Documentation](https://www.inoreader.com/developers/subscription-list)",
+  "type": "source",
+  "version": "0.0.1"
+}

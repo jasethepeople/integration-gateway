@@ -1,0 +1,7 @@
+{
+  "key": "xendit-new-invoice",
+  "name": "New Invoice Created",
+  "description": "Emit new event when an invoice is created. [See the documentation](https://developers.xendit.co/api-reference/#create-invoice)",
+  "type": "source",
+  "version": "0.0.1"
+}

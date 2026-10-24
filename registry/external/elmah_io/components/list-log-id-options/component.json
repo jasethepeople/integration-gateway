@@ -1,0 +1,7 @@
+{
+  "key": "elmah_io-list-log-id-options",
+  "name": "List Log ID Options",
+  "description": "Retrieves available options for the Log ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "sms_messages-send-registered-sms",
+  "name": "Send Registered SMS",
+  "description": "Send a registered SMS message using SMS Messages. [See the documentation](https://api.lleida.net/dtd/sms/v2/en/)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "mural-new-sticky",
+  "name": "New Sticky Note Created",
+  "description": "Emit new event each time a new sticky note is created in a specified mural",
+  "type": "source",
+  "version": "0.0.2"
+}

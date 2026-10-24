@@ -1,0 +1,7 @@
+{
+  "key": "billsby-update-customer-details",
+  "name": "Update Customer Details",
+  "description": "Update the details of a customer. [See the documentation](https://support.billsby.com/reference/put-customer)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "keboola-update-bucket",
+  "name": "Update Bucket",
+  "description": "Updates a bucket with a new display name in Keboola. [See the documentation](https://keboola.docs.apiary.io/)",
+  "type": "action",
+  "version": "0.0.2"
+}

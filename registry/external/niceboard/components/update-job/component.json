@@ -1,0 +1,7 @@
+{
+  "key": "niceboard-update-job",
+  "name": "Update Job",
+  "description": "Updates an existing job posting within the Niceboard app.",
+  "type": "action",
+  "version": "0.0.2"
+}

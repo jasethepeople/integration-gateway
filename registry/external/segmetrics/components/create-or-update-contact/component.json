@@ -1,0 +1,7 @@
+{
+  "key": "segmetrics-create-or-update-contact",
+  "name": "Create Or Update Contact",
+  "description": "Create or update a contact. [See documentation here](https://developers.segmetrics.io/#contacts)",
+  "type": "action",
+  "version": "0.0.5"
+}

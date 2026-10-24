@@ -1,0 +1,7 @@
+{
+  "key": "autom-google-search",
+  "name": "Google Search",
+  "description": "Scrape the results from the Google search engine using the Autom.dev API. [See the documentation](https://docs.autom.dev/api-reference/google/search)",
+  "type": "action",
+  "version": "0.0.2"
+}

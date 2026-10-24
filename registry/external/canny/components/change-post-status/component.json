@@ -1,0 +1,7 @@
+{
+  "key": "canny-change-post-status",
+  "name": "Change Post Status",
+  "description": "Change the status of a post. [See the documentation](https://developers.canny.io/api-reference#change_post_status)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,46 @@
+{
+  "app": "aitable_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "spaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fieldId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "folderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "datasheet_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "aitable_ai-create-datasheet",
+    "aitable_ai-create-field",
+    "aitable_ai-delete-field",
+    "aitable_ai-list-field-id-options",
+    "aitable_ai-list-space-id-options"
+  ]
+}

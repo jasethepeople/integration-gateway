@@ -1,0 +1,22 @@
+{
+  "app": "microsoft_clarity",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "numOfDays": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dimension": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "microsoft_clarity-get-live-insights"
+  ]
+}

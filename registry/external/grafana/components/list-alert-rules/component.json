@@ -1,0 +1,7 @@
+{
+  "key": "grafana-list-alert-rules",
+  "name": "List Alert Rules",
+  "description": "List all alert rules with their current state (firing,",
+  "type": "action",
+  "version": "0.0.3"
+}

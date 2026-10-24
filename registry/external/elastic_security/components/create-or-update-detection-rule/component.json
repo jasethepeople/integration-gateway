@@ -1,0 +1,7 @@
+{
+  "key": "elastic_security-create-or-update-detection-rule",
+  "name": "Create or Update Detection Rule",
+  "description": "Create a new Elastic Security detection rule via POST /api/detection_engine/rules, or full-replace update an existing one when `id` is provided, via PUT /api/detection_engine/rules.",
+  "type": "action",
+  "version": "0.0.1"
+}

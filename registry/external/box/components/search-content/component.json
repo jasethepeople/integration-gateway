@@ -1,0 +1,7 @@
+{
+  "key": "box-search-content",
+  "name": "Search Content",
+  "description": "Searches for files, folders, and web links across the user's Box content by keyword and/or metadata filters — at least one of `Query` or `Metadata Filters` is required. Matches item names, descriptions, and file text content; trashed items are excluded. Paginates through and returns all matching results. To browse a known folder instead, use **List Folder Items**. [See the documentation](https://developer.box.com/reference/get-search/).",
+  "type": "action",
+  "version": "0.0.12"
+}

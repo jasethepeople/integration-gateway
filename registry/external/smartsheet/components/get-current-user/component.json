@@ -1,0 +1,7 @@
+{
+  "key": "smartsheet-get-current-user",
+  "name": "Get Current User",
+  "description": "Get the authenticated user's identity - returns user ID, email, first/last name, and account details.",
+  "type": "action",
+  "version": "0.0.6"
+}

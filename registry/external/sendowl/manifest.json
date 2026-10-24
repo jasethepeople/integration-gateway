@@ -1,0 +1,21 @@
+{
+  "app": "sendowl",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sendowl-new-order",
+    "sendowl-new-payment",
+    "sendowl-new-refund",
+    "sendowl-new-subscription-termination"
+  ]
+}

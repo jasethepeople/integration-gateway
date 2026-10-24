@@ -1,0 +1,7 @@
+{
+  "key": "zoho_projects-list-portal-id-options",
+  "name": "List Portal ID Options",
+  "description": "Retrieves available options for the Portal ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

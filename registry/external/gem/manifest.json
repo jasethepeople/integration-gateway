@@ -1,0 +1,25 @@
+{
+  "app": "gem",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "createdBy": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "gem-create-candidate",
+    "gem-list-created-by-options",
+    "gem-list-project-ids-options",
+    "gem-new-candidate"
+  ]
+}

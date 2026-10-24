@@ -1,0 +1,7 @@
+{
+  "key": "clevertap-upload-events",
+  "name": "Upload Events",
+  "description": "Upload events. [See the documentation](https://developer.clevertap.com/docs/upload-events-api)",
+  "type": "action",
+  "version": "0.0.3"
+}

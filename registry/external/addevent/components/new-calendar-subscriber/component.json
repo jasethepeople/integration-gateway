@@ -1,0 +1,7 @@
+{
+  "key": "addevent-new-calendar-subscriber",
+  "name": "New Calendar Subscriber",
+  "description": "Emit new event when a new subscriber is added to a calendar.",
+  "type": "source",
+  "version": "0.0.1"
+}

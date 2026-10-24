@@ -1,0 +1,7 @@
+{
+  "key": "explorium-fetch-businesses",
+  "name": "Fetch Businesses",
+  "description": "Fetches business records using filters. [See the documentation](https://developers.explorium.ai/reference/list_businesses)",
+  "type": "action",
+  "version": "0.0.2"
+}

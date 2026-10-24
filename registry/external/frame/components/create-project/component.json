@@ -1,0 +1,7 @@
+{
+  "key": "frame-create-project",
+  "name": "Create Project",
+  "description": "Creates a new project on Frame.io. [See the documentation](https://developer.frame.io/api/reference/operation/createProject/)",
+  "type": "action",
+  "version": "0.0.3"
+}

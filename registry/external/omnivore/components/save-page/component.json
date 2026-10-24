@@ -1,0 +1,7 @@
+{
+  "key": "omnivore-save-page",
+  "name": "Save Page",
+  "description": "Save a page with supplied HTML content. [See the documentation](https://docs.omnivore.app/integrations/api.html#commonly-used-methods)",
+  "type": "action",
+  "version": "0.0.2"
+}

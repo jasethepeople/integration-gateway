@@ -1,0 +1,7 @@
+{
+  "key": "customjs-convert-html-to-pdf",
+  "name": "Convert HTML to PDF",
+  "description": "Converts an HTML string to a PDF document. [See the documentation](https://www.customjs.space/api/docs#_1-html-to-pdf)",
+  "type": "action",
+  "version": "0.0.5"
+}

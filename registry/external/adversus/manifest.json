@@ -1,0 +1,33 @@
+{
+  "app": "adversus",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "leadId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "statusId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "password": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "adversus-add-note-activity",
+    "adversus-assign-to-campaign",
+    "adversus-change-lead-status",
+    "adversus-create-or-update-lead"
+  ]
+}

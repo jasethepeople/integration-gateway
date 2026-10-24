@@ -1,0 +1,7 @@
+{
+  "key": "instantly-add-tags-campaign",
+  "name": "Add Tags to Campaign",
+  "description": "Adds tags to a specific campaign. [See the documentation](https://developer.instantly.ai/api/v2/customtag/toggletagresource)",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "appdrag-execute-api-function",
+  "name": "Execute API Function",
+  "description": "Executes an API function from a cloud backend. [See the documentation](https://support.appdrag.com/doc/Interacting-with-my-API-Functions)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zenrows-scrape-url-autoparse",
+  "name": "Scrape URL Autoparse",
+  "description": "Scrape HTML of the URL. [See the documentation](https://www.zenrows.com/docs#autoparse-curl)",
+  "type": "action",
+  "version": "0.0.2"
+}

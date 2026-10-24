@@ -1,0 +1,7 @@
+{
+  "key": "zoho_books-new-expense",
+  "name": "New Expense",
+  "description": "Emit new event when a new expense is created.",
+  "type": "source",
+  "version": "0.0.2"
+}

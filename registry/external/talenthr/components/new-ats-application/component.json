@@ -1,0 +1,7 @@
+{
+  "key": "talenthr-new-ats-application",
+  "name": "New Job Application Submitted",
+  "description": "Emit new event when a new job application is submitted. [See the documentation](https://apidocs.talenthr.io/)",
+  "type": "source",
+  "version": "0.0.1"
+}

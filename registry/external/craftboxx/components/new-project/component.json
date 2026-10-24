@@ -1,0 +1,7 @@
+{
+  "key": "craftboxx-new-project",
+  "name": "New Project",
+  "description": "Emit new event when a new project is created in Craftboxx. [See the documentation](https://api.craftboxx.de/docs/docs.json)",
+  "type": "source",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "airtop-load-url",
+  "name": "Load URL",
+  "description": "Navigate a browser window to a specific URL. [See the documentation](https://docs.airtop.ai/api-reference/airtop-api/windows/load-url)",
+  "type": "action",
+  "version": "0.0.2"
+}

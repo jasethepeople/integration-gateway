@@ -1,0 +1,44 @@
+{
+  "app": "pdffiller",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "documentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fillableFormId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "file": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "folderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pdffiller-create-distributable-form-generate-link",
+    "pdffiller-find-document",
+    "pdffiller-list-document-id-options",
+    "pdffiller-list-fillable-form-id-options",
+    "pdffiller-list-folder-id-options",
+    "pdffiller-upload-document",
+    "pdffiller-new-document",
+    "pdffiller-new-filled-form-instant"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

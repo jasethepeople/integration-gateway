@@ -1,0 +1,7 @@
+{
+  "key": "vapi-list-phone-number-id-options",
+  "name": "List Phone Number ID Options",
+  "description": "Retrieves available options for the Phone Number ID field. [See the documentation](https://docs.vapi.ai/api-reference/phone-numbers/list)",
+  "type": "action",
+  "version": "0.0.3"
+}

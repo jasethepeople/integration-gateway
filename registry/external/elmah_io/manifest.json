@@ -1,0 +1,15 @@
+{
+  "app": "elmah_io",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "elmah_io-list-log-id-options",
+    "elmah_io-new-error"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "app": "elevenlabs",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "historyItemId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "voiceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "modelId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phoneNumberId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "agentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "elevenlabs-add-voice",
+    "elevenlabs-create-agent",
+    "elevenlabs-download-history-items",
+    "elevenlabs-get-audio-from-history-item",
+    "elevenlabs-get-voices-with-descriptions",
+    "elevenlabs-list-agents",
+    "elevenlabs-list-models",
+    "elevenlabs-list-phone-number-id-options",
+    "elevenlabs-make-outbound-call",
+    "elevenlabs-text-to-speech",
+    "elevenlabs-new-history-item"
+  ],
+  "npmImports": [
+    "form-data",
+    "fs",
+    "stream",
+    "util"
+  ]
+}

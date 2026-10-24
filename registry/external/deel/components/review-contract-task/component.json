@@ -1,0 +1,7 @@
+{
+  "key": "deel-review-contract-task",
+  "name": "Review Contract Task",
+  "description": "Approve or decline a contractor task on a Deel IC contract.",
+  "type": "action",
+  "version": "0.0.2"
+}

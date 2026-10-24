@@ -1,0 +1,7 @@
+{
+  "key": "sonix-media-upload-complete",
+  "name": "New Media Upload Complete",
+  "description": "Emit new event any time the media status of an item changes to completed.",
+  "type": "source",
+  "version": "0.0.1"
+}

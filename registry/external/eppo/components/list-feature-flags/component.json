@@ -1,0 +1,7 @@
+{
+  "key": "eppo-list-feature-flags",
+  "name": "List Feature Flags",
+  "description": "Retrieve all feature flags in Eppo with their name, key, enabled status, and allocation configuration.",
+  "type": "action",
+  "version": "0.0.2"
+}

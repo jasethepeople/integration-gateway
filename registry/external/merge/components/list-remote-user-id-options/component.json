@@ -1,0 +1,7 @@
+{
+  "key": "merge-list-remote-user-id-options",
+  "name": "List Remote User ID Options",
+  "description": "Retrieves available options for the Remote User ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

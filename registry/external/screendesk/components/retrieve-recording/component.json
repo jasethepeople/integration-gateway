@@ -1,0 +1,7 @@
+{
+  "key": "screendesk-retrieve-recording",
+  "name": "Retrieve A Recording",
+  "description": "Get a specific recording [See the documentation](https://dev.screendesk.io/recordings/get-retrieve-a-recording)",
+  "type": "action",
+  "version": "0.0.2"
+}

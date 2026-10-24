@@ -1,0 +1,7 @@
+{
+  "key": "kanban_tool-update-task",
+  "name": "Update Task",
+  "description": "Updates a task with the given parameters [See the docs here](https://kanbantool.com/developer/api-v3#updating-tasks)",
+  "type": "action",
+  "version": "0.0.3"
+}

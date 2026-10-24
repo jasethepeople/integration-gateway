@@ -1,0 +1,7 @@
+{
+  "key": "survicate-get-personal-data-counters",
+  "name": "Get Personal Data Counters",
+  "description": "Retrieves counts of personal data records for GDPR compliance. [See the documentation](https://developers.survicate.com/data-export/personal-data/)",
+  "type": "action",
+  "version": "0.0.1"
+}

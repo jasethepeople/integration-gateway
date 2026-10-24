@@ -1,0 +1,7 @@
+{
+  "key": "logfire-record-log-entry",
+  "name": "Record Log Entry",
+  "description": "Records a single log entry or event in Logfire as a zero-duration span, via OTLP ingestion.",
+  "type": "action",
+  "version": "0.0.2"
+}

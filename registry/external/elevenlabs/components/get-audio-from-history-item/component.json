@@ -1,0 +1,7 @@
+{
+  "key": "elevenlabs-get-audio-from-history-item",
+  "name": "Get Audio From History Item",
+  "description": "Returns the audio of an history item and converts it to a file. [See the documentation](https://docs.elevenlabs.io/api-reference/history-audio)",
+  "type": "action",
+  "version": "0.0.6"
+}

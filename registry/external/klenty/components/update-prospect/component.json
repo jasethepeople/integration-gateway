@@ -1,0 +1,7 @@
+{
+  "key": "klenty-update-prospect",
+  "name": "Update Prospect",
+  "description": "Updates an existing prospect's information in Klenty. [See the documentation](https://www.klenty.com/developers)",
+  "type": "action",
+  "version": "0.0.2"
+}

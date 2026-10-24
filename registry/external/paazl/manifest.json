@@ -1,0 +1,265 @@
+{
+  "app": "paazl",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "reference": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "consigneeCountryCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "consigneePostalCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "consignorCountryCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "consignorPostalCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shipmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "parcelId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shippingOptionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pickupLocationCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "locale": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timeZone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "numberOfProcessingDays": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "includeExternalDeliveryDates": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "deliveryDateStartDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "deliveryDateNumberOfDays": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "token": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "totalWeight": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "totalPrice": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "totalVolume": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "numberOfGoods": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "startMatrix": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "network": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "crossBorderStores": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "excludeLockers": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "lockersOnly": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "sortOrderBy": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sortOrder": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sortDistributor": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pickupLocationAccountNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderDescription": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderWeight": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "requestedDeliveryDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "additionalInstruction": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "invoiceNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "invoiceDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "labelType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "labelSize": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "quantity": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "enableParcels": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "parcelWeight": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "parcelLength": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "parcelWidth": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "parcelHeight": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "parcelVolume": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "parcelReference": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "parcelDescription": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "parcelCodValue": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "parcelCodCurrency": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "parcelInsuredValue": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "parcelInsuredCurrency": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "consignee": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "customsValue": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "insuredValue": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "codValue": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "products": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "returnProp": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "sender": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "shipping": {
+      "kind": "propDefinition",
+      "type": "object"
+    }
+  },
+  "categories": [],
+  "components": [
+    "paazl-create-checkout-token",
+    "paazl-create-shipment",
+    "paazl-delete-order",
+    "paazl-get-checkout-session",
+    "paazl-get-order-labels",
+    "paazl-get-order-shipments",
+    "paazl-get-parcel-label",
+    "paazl-get-pickup-location-options",
+    "paazl-get-return-shipments",
+    "paazl-get-shipment-labels",
+    "paazl-get-shipment-tracking",
+    "paazl-get-shipping-options",
+    "paazl-list-pickup-location-code-options",
+    "paazl-modify-order",
+    "paazl-save-checkout-session",
+    "paazl-save-order"
+  ]
+}

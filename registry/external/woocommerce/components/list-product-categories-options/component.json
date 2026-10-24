@@ -1,0 +1,7 @@
+{
+  "key": "woocommerce-list-product-categories-options",
+  "name": "List Categories Options",
+  "description": "Retrieves available options for the Categories field.",
+  "type": "action",
+  "version": "0.0.1"
+}

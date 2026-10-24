@@ -1,0 +1,7 @@
+{
+  "key": "google_merchant_center-new-product-added",
+  "name": "New Product Added",
+  "description": "Emit new event when a new product is added",
+  "type": "source",
+  "version": "0.0.1"
+}

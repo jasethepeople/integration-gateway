@@ -1,0 +1,7 @@
+{
+  "key": "intercom-new-conversation-rating-added",
+  "name": "New Conversation Rating Added",
+  "description": "Emit new event each time a new rating is added to a conversation.",
+  "type": "source",
+  "version": "0.0.6"
+}

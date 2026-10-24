@@ -1,0 +1,7 @@
+{
+  "key": "discord-send-message",
+  "name": "Send Message",
+  "description": "Send a simple message to a Discord channel",
+  "type": "action",
+  "version": "1.0.3"
+}

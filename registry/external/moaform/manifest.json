@@ -1,0 +1,22 @@
+{
+  "app": "moaform",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "formId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "moaform-list-form-id-options",
+    "moaform-new-submission-instant"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

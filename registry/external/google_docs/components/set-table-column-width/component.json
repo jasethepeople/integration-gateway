@@ -1,0 +1,7 @@
+{
+  "key": "google_docs-set-table-column-width",
+  "name": "Set Table Column Width",
+  "description": "Text appearing in a cell of the table to resize. The action locates the table containing the first match. Only top-level tables are searched. Takes precedence over **Table Index**; **Table Start Index** wins over both.",
+  "type": "action",
+  "version": "0.0.1"
+}

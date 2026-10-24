@@ -1,0 +1,7 @@
+{
+  "key": "keycloak-create-user",
+  "name": "Create User",
+  "description": "Create a new user in Keycloak. The username must be unique. [See the documentation](https://www.keycloak.org/docs-api/latest/rest-api/index.html#_users)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "totango-new-user",
+  "name": "New User",
+  "description": "Emit new event for each created user. [See the docs](https://support.totango.com/hc/en-us/articles/204174135-Search-API-accounts-and-users-)",
+  "type": "source",
+  "version": "0.0.3"
+}

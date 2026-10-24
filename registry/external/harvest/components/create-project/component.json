@@ -1,0 +1,7 @@
+{
+  "key": "harvest-create-project",
+  "name": "Create Project",
+  "description": "Create a new project. Example: call with clientId set to InGen Corp's client ID, projectName=\"Compound Perimeter Fence Upgrade\", isBillable=true, billBy=\"Project\", budgetBy=\"none\". [See the documentation](https://help.getharvest.com/api-v2/projects-api/projects/projects/#create-a-project).",
+  "type": "action",
+  "version": "0.0.1"
+}

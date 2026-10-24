@@ -1,0 +1,7 @@
+{
+  "key": "redcircle_api-search-categories",
+  "name": "Search Categories",
+  "description": "Search for a category in Redcirle API. [See the documentation](https://docs.trajectdata.com/redcircleapi/categories-api/list-and-search)",
+  "type": "action",
+  "version": "0.0.2"
+}

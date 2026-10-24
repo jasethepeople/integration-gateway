@@ -1,0 +1,7 @@
+{
+  "key": "figma-list-comments",
+  "name": "List Comments",
+  "description": "Lists all comments left on a file. [See the docs here](https://www.figma.com/developers/api#get-comments-endpoint)",
+  "type": "action",
+  "version": "0.0.6"
+}

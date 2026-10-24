@@ -1,0 +1,7 @@
+{
+  "key": "tiktok_ads_manager-list-ad-groups",
+  "name": "List Ad Groups",
+  "description": "List ad groups in a TikTok Ads account with optional filters.",
+  "type": "action",
+  "version": "0.0.2"
+}

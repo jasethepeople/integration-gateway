@@ -1,0 +1,7 @@
+{
+  "key": "brex-cancel-card",
+  "name": "Cancel Card",
+  "description": "Cancels (terminates) a card permanently. This cannot be undone — use **Freeze Card** to block a card temporarily instead. [See the documentation](https://developer.brex.com/openapi/team_api/cards/terminatecard)",
+  "type": "action",
+  "version": "0.0.1"
+}

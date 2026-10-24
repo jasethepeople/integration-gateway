@@ -1,0 +1,7 @@
+{
+  "key": "pipedream_utils-url-decode",
+  "name": "Formatting - [Text] Decode URL",
+  "description": "Decode a URL string",
+  "type": "action",
+  "version": "0.0.6"
+}

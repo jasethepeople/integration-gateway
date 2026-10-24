@@ -1,0 +1,7 @@
+{
+  "key": "surecart-list-periods",
+  "name": "List Periods",
+  "description": "Return a list of subscription billing periods. [See the documentation](https://developer.surecart.com/api-reference/periods/list)",
+  "type": "action",
+  "version": "1.0.0"
+}

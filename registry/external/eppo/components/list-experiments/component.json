@@ -1,0 +1,7 @@
+{
+  "key": "eppo-list-experiments",
+  "name": "List Experiments",
+  "description": "Retrieve all experiments in Eppo with their name, key, status, entity ID, and assignment source ID.",
+  "type": "action",
+  "version": "0.0.2"
+}

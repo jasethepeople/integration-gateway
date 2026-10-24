@@ -1,0 +1,7 @@
+{
+  "key": "memento_database-create-entry",
+  "name": "Create Entry",
+  "description": "Create an entry in a library on Memento Database. [See the documentation](https://mementodatabase.docs.apiary.io/#reference/0/entries/create-a-new-entry)",
+  "type": "action",
+  "version": "0.0.1"
+}

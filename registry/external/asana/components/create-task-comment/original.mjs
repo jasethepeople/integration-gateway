@@ -1,0 +1,71 @@
+import asana from "../../app.mjs";
+import common from "../../shared/actions/common/common.mjs";
+
+export default {
+  key: "asana-create-task-comment",
+  name: "Create Task Comment",
+  description: "Adds a comment (story) to an existing Asana task. Use this to post a text update or pinned note visible to task followers. Provide either `text` (plain text) or `html_text` (HTML-formatted), but not both. Returns the new story record including its `gid` and `type`. Example: call with `task_gid: '1202345678901234'`, `text: 'Approved — ready to ship!'` → returns `{gid: '1209012345678901', type: 'comment', text: 'Approved — ready to ship!'}`. [See the documentation](https://developers.asana.com/docs/create-a-story-on-a-task)",
+  version: "1.0.0",
+  ai: "optimized",
+  annotations: {
+    destructiveHint: false,
+    openWorldHint: true,
+    readOnlyHint: false,
+  },
+  type: "action",
+  props: {
+    asana: common.props.asana,
+    task_gid: {
+      label: "Task GID",
+      description: "The task GID to operate on. Use **Search Tasks** to find available task GIDs.",
+      type: "string",
+      propDefinition: [
+        asana,
+        "tasks",
+      ],
+    },
+    text: {
+      label: "Text",
+      description: "The plain text of the comment to add. Cannot be used with html_text.",
+      type: "string",
+      optional: true,
+    },
+    html_text: {
+      label: "HTML Text",
+      description: "HTML formatted text for a comment. This will not include the name of the creator.",
+      type: "string",
+      optional: true,
+    },
+    is_pinned: {
+      label: "Is Pinned",
+      description: "Conditional. Whether the story should be pinned on the resource.",
+      type: "boolean",
+      optional: true,
+    },
+    sticker_name: {
+      label: "Sticker Name",
+      description: "The name of the sticker in this story. null if there is no sticker.",
+      type: "string",
+      optional: true,
+    },
+  },
+  async run({ $ }) {
+    const response = await this.asana._makeRequest({
+      path: `tasks/${this.task_gid}/stories`,
+      method: "post",
+      data: {
+        data: {
+          text: this.text,
+          html_text: this.html_text,
+          is_pinned: this.is_pinned,
+          sticker_name: this.sticker_name,
+        },
+      },
+      $,
+    });
+
+    $.export("$summary", "Successfully created task comment");
+
+    return response;
+  },
+};

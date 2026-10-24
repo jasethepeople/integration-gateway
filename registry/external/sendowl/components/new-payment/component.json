@@ -1,0 +1,7 @@
+{
+  "key": "sendowl-new-payment",
+  "name": "New Payment",
+  "description": "Emit new event for each payment.",
+  "type": "source",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "eppo-list-metrics",
+  "name": "List Metrics",
+  "description": "Retrieve all metrics defined in Eppo, including their names, IDs, descriptions, and minimum detectable effects.",
+  "type": "action",
+  "version": "0.0.2"
+}

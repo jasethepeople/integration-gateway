@@ -1,0 +1,7 @@
+{
+  "key": "gitlab-list-project-members",
+  "name": "List Project Members",
+  "description": "List all members of a project. [See the documentation](https://docs.gitlab.com/api/project_members/)",
+  "type": "action",
+  "version": "0.0.2"
+}

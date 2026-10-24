@@ -1,0 +1,7 @@
+{
+  "key": "personio-new-employee-created",
+  "name": "New Employee Created",
+  "description": "Emit new event when a new employee is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

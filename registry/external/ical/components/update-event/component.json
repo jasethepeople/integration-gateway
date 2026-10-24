@@ -1,0 +1,7 @@
+{
+  "key": "ical-update-event",
+  "name": "Update Event",
+  "description": "Update an event in a calendar. [See the documentation](https://icalendar.org/)",
+  "type": "action",
+  "version": "0.0.1"
+}

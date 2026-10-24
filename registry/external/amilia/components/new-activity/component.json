@@ -1,0 +1,7 @@
+{
+  "key": "amilia-new-activity",
+  "name": "New Activity",
+  "description": "Emit new event for every new activity in the organization",
+  "type": "source",
+  "version": "0.0.1"
+}

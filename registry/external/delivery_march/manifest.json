@@ -1,0 +1,32 @@
+{
+  "app": "delivery_march",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "shipmentId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "orderNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "client_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "delivery_march-get-status",
+    "delivery_march-list-order-number-options",
+    "delivery_march-list-shipment-id-options"
+  ]
+}

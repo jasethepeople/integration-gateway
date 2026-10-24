@@ -1,0 +1,7 @@
+{
+  "key": "afosto-confirm-cart",
+  "name": "Confirm Cart",
+  "description": "Confirm a cart. [See the documentation](https://afosto.com/docs/developers/storefront-js-client/custom-checkout/payment-process/)",
+  "type": "action",
+  "version": "0.0.2"
+}

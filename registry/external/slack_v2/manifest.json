@@ -1,0 +1,239 @@
+{
+  "app": "slack_v2",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "user": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "group": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userGroup": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "reminder": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "conversation": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "channelId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "team": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "messageTs": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "text": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "topic": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "purpose": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "file": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "attachments": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "unfurl_links": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "unfurl_media": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "parse": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "as_user": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "username": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "blocks": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "icon_emoji": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "link_names": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "thread_broadcast": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "icon_url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "initial_comment": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "metadata_event_type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "metadata_event_payload": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ignoreMyself": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "keyword": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ignoreBot": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "resolveNames": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "pageSize": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "numPages": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "cursor": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "addToChannel": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "oauth_uid": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "bot_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "base_url": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "slack_v2-add-emoji-reaction",
+    "slack_v2-add-reaction",
+    "slack_v2-archive-channel",
+    "slack_v2-browse-files",
+    "slack_v2-create-channel",
+    "slack_v2-create-reminder",
+    "slack_v2-delete-file",
+    "slack_v2-delete-message",
+    "slack_v2-download-file",
+    "slack_v2-edit-message",
+    "slack_v2-find-message",
+    "slack_v2-find-user-by-email",
+    "slack_v2-find-user-by-id",
+    "slack_v2-get-channel-details",
+    "slack_v2-get-channel-history",
+    "slack_v2-get-current-user",
+    "slack_v2-get-file",
+    "slack_v2-get-thread-replies",
+    "slack_v2-get-user-details",
+    "slack_v2-invite-user-to-channel",
+    "slack_v2-kick-user",
+    "slack_v2-leave-channel",
+    "slack_v2-list-channels",
+    "slack_v2-list-emojis",
+    "slack_v2-list-files",
+    "slack_v2-list-group-conversations",
+    "slack_v2-list-group-members",
+    "slack_v2-list-icon-emoji-options",
+    "slack_v2-list-members-in-channel",
+    "slack_v2-list-messages",
+    "slack_v2-list-reminder-options",
+    "slack_v2-list-replies",
+    "slack_v2-list-teams",
+    "slack_v2-list-user-group-options",
+    "slack_v2-list-users",
+    "slack_v2-post-message",
+    "slack_v2-reply-to-a-message",
+    "slack_v2-search",
+    "slack_v2-send-block-kit-message",
+    "slack_v2-send-large-message",
+    "slack_v2-send-message-advanced",
+    "slack_v2-send-message-to-channel",
+    "slack_v2-send-message-to-user-or-group",
+    "slack_v2-send-message",
+    "slack_v2-set-channel-description",
+    "slack_v2-set-channel-topic",
+    "slack_v2-set-status",
+    "slack_v2-update-group-members",
+    "slack_v2-update-message",
+    "slack_v2-update-profile",
+    "slack_v2-upload-file",
+    "slack_v2-verify-slack-signature",
+    "slack_v2-new-channel-created",
+    "slack_v2-new-interaction-event-received",
+    "slack_v2-new-keyword-mention",
+    "slack_v2-new-message-in-channels",
+    "slack_v2-new-private-channel-created",
+    "slack_v2-new-reaction-added",
+    "slack_v2-new-saved-message",
+    "slack_v2-new-user-added",
+    "slack_v2-new-user-mention"
+  ],
+  "npmImports": [
+    "@slack/web-api",
+    "crypto",
+    "form-data",
+    "fs",
+    "lodash",
+    "path",
+    "stream"
+  ]
+}

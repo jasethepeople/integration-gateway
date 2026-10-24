@@ -1,0 +1,7 @@
+{
+  "key": "sevdesk-new-contact",
+  "name": "New Contact Created",
+  "description": "Emit new event when a contact is created in SevDesk.",
+  "type": "source",
+  "version": "0.0.2"
+}

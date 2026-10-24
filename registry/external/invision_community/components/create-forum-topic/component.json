@@ -1,0 +1,7 @@
+{
+  "key": "invision_community-create-forum-topic",
+  "name": "Create Forum Topic",
+  "description": "Creates a new forum topic. [See the documentation](https://invisioncommunity.com/developers/rest-api?endpoint=forums/topics/postindex)",
+  "type": "action",
+  "version": "0.0.2"
+}

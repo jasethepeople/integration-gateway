@@ -1,0 +1,7 @@
+{
+  "key": "bloom_growth-create-issue",
+  "name": "Create Issue",
+  "description": "Create a new meeting issue [See the documentation](https://app.bloomgrowth.com/swagger/index.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

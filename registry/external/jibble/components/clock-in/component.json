@@ -1,0 +1,7 @@
+{
+  "key": "jibble-clock-in",
+  "name": "Clock In",
+  "description": "Create a new clock in time entry [See the documentation](https://docs.api.jibble.io/#ec4b4f62-5832-4911-92b1-81501b7d681c).",
+  "type": "action",
+  "version": "0.0.2"
+}

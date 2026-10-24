@@ -1,0 +1,33 @@
+{
+  "app": "productlane",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "notify": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "workspace_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "productlane-create-contact",
+    "productlane-create-feedback",
+    "productlane-list-project-id-options",
+    "productlane-upvote-project"
+  ]
+}

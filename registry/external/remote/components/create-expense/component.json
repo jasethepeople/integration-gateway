@@ -1,0 +1,7 @@
+{
+  "key": "remote-create-expense",
+  "name": "Create Expense",
+  "description": "Create an expense in Remote. [See the documentation](https://developer.remote.com/reference/post_create_expense)",
+  "type": "action",
+  "version": "0.0.2"
+}

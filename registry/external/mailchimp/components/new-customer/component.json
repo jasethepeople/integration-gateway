@@ -1,0 +1,7 @@
+{
+  "key": "mailchimp-new-customer",
+  "name": "New Customer",
+  "description": "Emit new event when a new customer is added to a selected store.",
+  "type": "source",
+  "version": "0.0.3"
+}

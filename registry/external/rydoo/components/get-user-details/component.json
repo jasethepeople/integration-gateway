@@ -1,0 +1,7 @@
+{
+  "key": "rydoo-get-user-details",
+  "name": "Get User Details",
+  "description": "Retrieves full profile information, roles, and modules for a specific user. [See the documentation](https://developers.rydoo.com/reference/v2usergetuser)",
+  "type": "action",
+  "version": "0.0.1"
+}

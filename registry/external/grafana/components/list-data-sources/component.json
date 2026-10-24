@@ -1,0 +1,7 @@
+{
+  "key": "grafana-list-data-sources",
+  "name": "List Data Sources",
+  "description": "List all configured data sources (Prometheus, Loki,",
+  "type": "action",
+  "version": "0.0.3"
+}

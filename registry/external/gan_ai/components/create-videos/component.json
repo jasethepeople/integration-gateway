@@ -1,0 +1,7 @@
+{
+  "key": "gan_ai-create-videos",
+  "name": "Create Videos",
+  "description": "Creates videos in bulk by passing tags and values. Requires a project ID. [See the documentation](https://docs.gan.ai/create-video/create-videos)",
+  "type": "action",
+  "version": "0.0.2"
+}

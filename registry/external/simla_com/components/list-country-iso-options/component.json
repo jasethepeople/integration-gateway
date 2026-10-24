@@ -1,0 +1,7 @@
+{
+  "key": "simla_com-list-country-iso-options",
+  "name": "List Country ISO Options",
+  "description": "Retrieves available options for the Country ISO field.",
+  "type": "action",
+  "version": "0.0.1"
+}

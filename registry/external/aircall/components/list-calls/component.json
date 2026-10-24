@@ -1,0 +1,7 @@
+{
+  "key": "aircall-list-calls",
+  "name": "List Calls",
+  "description": "List calls. [See the documentation](https://developer.aircall.io/api-references/#list-all-calls)",
+  "type": "action",
+  "version": "0.0.1"
+}

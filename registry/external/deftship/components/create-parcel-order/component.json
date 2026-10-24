@@ -1,0 +1,7 @@
+{
+  "key": "deftship-create-parcel-order",
+  "name": "Create Parcel Order",
+  "description": "Initializes a new parcel order within Deftship. [See the documentation](https://developer.deftship.com/parcel/create-parcel)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "close-update-lead",
+  "name": "Update Lead",
+  "description": "Updates a lead. [See the documentation](https://developer.close.com/resources/leads/#update-an-existing-lead)",
+  "type": "action",
+  "version": "0.1.3"
+}

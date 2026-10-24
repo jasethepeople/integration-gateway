@@ -1,0 +1,7 @@
+{
+  "key": "docusign-new-change-in-envelope-status",
+  "name": "New Change in Envelope Status",
+  "description": "Emit new event when an envelope's status is updated",
+  "type": "source",
+  "version": "0.0.3"
+}

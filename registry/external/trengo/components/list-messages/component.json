@@ -1,0 +1,7 @@
+{
+  "key": "trengo-list-messages",
+  "name": "List Messages",
+  "description": "List messages from a ticket. [See the documentation](https://developers.trengo.com/reference/list-all-messages)",
+  "type": "action",
+  "version": "0.0.10"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zoho_sprints-new-project-created",
+  "name": "New Project Created (Instant)",
+  "description": "Emit new event when a new project is created in Zoho Sprints.",
+  "type": "source",
+  "version": "0.0.1"
+}

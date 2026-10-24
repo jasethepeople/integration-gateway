@@ -1,0 +1,7 @@
+{
+  "key": "signal-new-message-received",
+  "name": "New Message Received",
+  "description": "Emit new event for each Signal message received on the configured phone number. [See the documentation](https://bbernhard.github.io/signal-cli-rest-api/).",
+  "type": "source",
+  "version": "0.0.1"
+}

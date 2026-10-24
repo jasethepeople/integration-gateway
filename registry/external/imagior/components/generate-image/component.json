@@ -1,0 +1,7 @@
+{
+  "key": "imagior-generate-image",
+  "name": "Generate Image",
+  "description": "Generates a unique and robust image using a provided template. [See the documentation](https://docs.imagior.com/api-reference/image-generate)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "clicksend-send-voice-message",
+  "name": "Send Voice Message",
+  "description": "Sends a new TTS (Text-to-speech) voice calls to one or multiple recipients. [See the documentation](https://developers.clicksend.com/docs/messaging/voice-messaging/other/send-voice-message)",
+  "type": "action",
+  "version": "0.0.1"
+}

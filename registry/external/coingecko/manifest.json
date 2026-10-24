@@ -1,0 +1,41 @@
+{
+  "app": "coingecko",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "coinId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "vsCurrency": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "exchangeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "environment": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "coingecko-get-coin-history",
+    "coingecko-get-coin-value",
+    "coingecko-get-coin",
+    "coingecko-get-exchange-rates",
+    "coingecko-get-global-defi-market-overview",
+    "coingecko-get-global-market",
+    "coingecko-list-coin-tickers",
+    "coingecko-list-coins",
+    "coingecko-list-markets",
+    "coingecko-list-trending-coins",
+    "coingecko-list-trending-nfts",
+    "coingecko-list-vs-currency-options"
+  ]
+}

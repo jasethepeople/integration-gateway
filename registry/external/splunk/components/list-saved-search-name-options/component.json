@@ -1,0 +1,7 @@
+{
+  "key": "splunk-list-saved-search-name-options",
+  "name": "List Saved Search Name Options",
+  "description": "Retrieves available options for the Saved Search Name field.",
+  "type": "action",
+  "version": "0.0.1"
+}

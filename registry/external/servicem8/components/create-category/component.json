@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-create-category",
+  "name": "Create Category",
+  "description": "Create a job category. [See the documentation](https://developer.servicem8.com/reference/createcategories)",
+  "type": "action",
+  "version": "0.0.1"
+}

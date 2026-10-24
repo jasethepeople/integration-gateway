@@ -1,0 +1,10 @@
+{
+  "app": "rev_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "rev_ai-get-transcript",
+    "rev_ai-submit-transcription-job"
+  ]
+}

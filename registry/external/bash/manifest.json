@@ -1,0 +1,9 @@
+{
+  "app": "bash",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "bash-run-bash-code"
+  ]
+}

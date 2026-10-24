@@ -1,0 +1,7 @@
+{
+  "key": "redcircle_api-get-account-data",
+  "name": "Get Account Data",
+  "description": "Get your account details. [See the documentation](https://docs.trajectdata.com/redcircleapi/account-api)",
+  "type": "action",
+  "version": "0.0.2"
+}

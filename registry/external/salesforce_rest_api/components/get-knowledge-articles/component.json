@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-get-knowledge-articles",
+  "name": "Get Knowledge Articles",
+  "description": "Retrieve a page of online Knowledge articles for a language and data category, by search or query.",
+  "type": "action",
+  "version": "0.0.6"
+}

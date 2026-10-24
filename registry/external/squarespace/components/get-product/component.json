@@ -1,0 +1,7 @@
+{
+  "key": "squarespace-get-product",
+  "name": "Get Product",
+  "description": "Get a specific product. [See docs here](https://developers.squarespace.com/commerce-apis/retrieve-specific-products)",
+  "type": "action",
+  "version": "0.0.2"
+}

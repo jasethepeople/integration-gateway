@@ -1,0 +1,7 @@
+{
+  "key": "samsara-list-contact-ids-options",
+  "name": "List Contact Ids Options",
+  "description": "Retrieves available options for the Contact Ids field.",
+  "type": "action",
+  "version": "0.0.1"
+}

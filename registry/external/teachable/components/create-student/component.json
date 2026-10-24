@@ -1,0 +1,7 @@
+{
+  "key": "teachable-create-student",
+  "name": "Create Student",
+  "description": "Creates a new student. [See the documentation](https://docs.teachable.com/reference/createuser)",
+  "type": "action",
+  "version": "0.0.2"
+}

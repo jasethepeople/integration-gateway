@@ -1,0 +1,7 @@
+{
+  "key": "coingecko-list-markets",
+  "name": "List Markets",
+  "description": "Search for coins, exchanges, NFTs, and categories on CoinGecko. [See the documentation](https://docs.coingecko.com/v3.0.1/reference/search-data)",
+  "type": "action",
+  "version": "0.0.1"
+}

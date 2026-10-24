@@ -1,0 +1,7 @@
+{
+  "key": "lever-list-opportunity-items",
+  "name": "List Opportunity Items",
+  "description": "Returns sub-records attached to a single opportunity (candidate): notes, feedback, interviews, resumes, files, or offers.",
+  "type": "action",
+  "version": "0.0.2"
+}

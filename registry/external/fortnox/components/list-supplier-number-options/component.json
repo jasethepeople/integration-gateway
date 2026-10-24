@@ -1,0 +1,7 @@
+{
+  "key": "fortnox-list-supplier-number-options",
+  "name": "List Supplier Number Options",
+  "description": "Retrieves available options for the Supplier Number field.",
+  "type": "action",
+  "version": "0.0.1"
+}

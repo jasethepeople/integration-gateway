@@ -1,0 +1,7 @@
+{
+  "key": "google_ads-create-responsive-search-ad",
+  "name": "Create Responsive Search Ad",
+  "description": "The ad group to create this ad in.",
+  "type": "action",
+  "version": "0.0.6"
+}

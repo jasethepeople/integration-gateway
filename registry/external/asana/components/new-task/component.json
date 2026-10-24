@@ -1,0 +1,7 @@
+{
+  "key": "asana-new-task",
+  "name": "New Task (Instant)",
+  "description": "Emit new event for each task added to a project. [See docs here](https://developers.asana.com/docs/establish-a-webhook)",
+  "type": "source",
+  "version": "0.1.15"
+}

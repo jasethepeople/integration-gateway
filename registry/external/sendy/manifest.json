@@ -1,0 +1,41 @@
+{
+  "app": "sendy",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "brandId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "listId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sendy-add-update-subscriber",
+    "sendy-create-draft-campaign",
+    "sendy-list-brand-id-options",
+    "sendy-unsubscribe-email"
+  ]
+}

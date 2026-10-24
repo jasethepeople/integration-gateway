@@ -1,0 +1,7 @@
+{
+  "key": "productboard-new-feature",
+  "name": "New Feature",
+  "description": "Emit new event when a new feature is added",
+  "type": "source",
+  "version": "0.0.1"
+}

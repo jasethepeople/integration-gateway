@@ -1,0 +1,7 @@
+{
+  "key": "ipbase-list-domains",
+  "name": "List Domains",
+  "description": "Retrieves all domains hosted on a single IP address. [See the docs here](https://ipbase.com/docs/domains)",
+  "type": "action",
+  "version": "0.0.2"
+}

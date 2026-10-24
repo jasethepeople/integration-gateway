@@ -1,0 +1,7 @@
+{
+  "key": "dispatch-create-order",
+  "name": "Create Order",
+  "description": "Create a new delivery order. [See the documentation](https://api.dispatchit.com/docs/v1)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "foursquare-create-tip",
+  "name": "Create Tip",
+  "description": "Allows the user to create a new tip for a venue on Foursquare. [See the documentation](https://docs.foursquare.com/developer/reference/add-a-tip)",
+  "type": "action",
+  "version": "0.0.2"
+}

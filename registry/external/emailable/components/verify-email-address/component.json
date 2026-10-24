@@ -1,0 +1,7 @@
+{
+  "key": "emailable-verify-email-address",
+  "name": "Verify Email Address",
+  "description": "Verifies a single email address using Emailable. [See the documentation](https://emailable.com/docs/api/#verify-an-email)",
+  "type": "action",
+  "version": "0.0.2"
+}

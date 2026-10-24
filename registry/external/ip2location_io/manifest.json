@@ -1,0 +1,18 @@
+{
+  "app": "ip2location_io",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "format": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ip2location_io-lookup-ip-address"
+  ]
+}

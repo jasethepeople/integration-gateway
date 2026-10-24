@@ -1,0 +1,7 @@
+{
+  "key": "belco-new-conversation-created-instant",
+  "name": "New Conversation Created (Instant)",
+  "description": "Emit new event for each new conversation created event",
+  "type": "source",
+  "version": "0.0.3"
+}

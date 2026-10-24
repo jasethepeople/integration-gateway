@@ -1,0 +1,7 @@
+{
+  "key": "gmail-list-delegate-options",
+  "name": "List Send as a Delegate Options",
+  "description": "Retrieves available options for the Send as a Delegate field.",
+  "type": "action",
+  "version": "0.0.5"
+}

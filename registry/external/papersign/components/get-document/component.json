@@ -1,0 +1,7 @@
+{
+  "key": "papersign-get-document",
+  "name": "Get Document",
+  "description": "Retrieve a document using a specified ID. [See the documentation](https://paperform.readme.io/reference/getpapersigndocument)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,40 @@
+{
+  "app": "crimeometer",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "lat": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lon": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "datetimeIni": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "datetimeEnd": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "distance": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "max": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "crimeometer-retrieve-raw-data-coverage",
+    "crimeometer-retrieve-raw-data",
+    "crimeometer-retrieve-stats"
+  ]
+}

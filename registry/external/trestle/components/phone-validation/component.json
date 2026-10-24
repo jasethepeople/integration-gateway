@@ -1,0 +1,7 @@
+{
+  "key": "trestle-phone-validation",
+  "name": "Phone Validation",
+  "description": "Validates phone numbers and provides phone metadata. [See the documentation](https://trestle-api.redoc.ly/Current/tag/Phone-Validation-API#operation/getPhoneValidation)",
+  "type": "action",
+  "version": "0.0.2"
+}

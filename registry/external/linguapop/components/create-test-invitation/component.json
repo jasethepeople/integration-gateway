@@ -1,0 +1,7 @@
+{
+  "key": "linguapop-create-test-invitation",
+  "name": "Create Test Invitation",
+  "description": "Creates a new placement test invitation. [See the documentation](https://docs.linguapop.eu/api/#sendcreate-an-invitation-to-a-placement-test)",
+  "type": "action",
+  "version": "0.0.2"
+}

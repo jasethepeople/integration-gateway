@@ -1,0 +1,7 @@
+{
+  "key": "signaturely-document-sent",
+  "name": "Document Sent (Instant)",
+  "description": "Triggers when a document is sent. [See the documentation](https://docs.signaturely.com/#:~:text=Authentication-,Webhook,-Get%20a%20Free)",
+  "type": "source",
+  "version": "0.0.1"
+}

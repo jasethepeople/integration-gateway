@@ -1,0 +1,45 @@
+{
+  "app": "dub",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectSlug": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "linkId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "password": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "publicStats": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "comments": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dub-create-link",
+    "dub-delete-link",
+    "dub-list-project-slug-options",
+    "dub-update-link"
+  ]
+}

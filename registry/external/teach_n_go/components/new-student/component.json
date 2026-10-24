@@ -1,0 +1,7 @@
+{
+  "key": "teach_n_go-new-student",
+  "name": "New Student Registration",
+  "description": "Emit new event when a new student is registered.",
+  "type": "source",
+  "version": "0.0.1"
+}

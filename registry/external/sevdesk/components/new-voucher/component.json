@@ -1,0 +1,7 @@
+{
+  "key": "sevdesk-new-voucher",
+  "name": "New Voucher Created",
+  "description": "Emit new event when a new voucher is created.",
+  "type": "source",
+  "version": "0.0.2"
+}

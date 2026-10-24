@@ -1,0 +1,7 @@
+{
+  "key": "zoho_books-list-salesorder-id-options",
+  "name": "List Salesorder Id Options",
+  "description": "Retrieves available options for the Salesorder Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

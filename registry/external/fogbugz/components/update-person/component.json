@@ -1,0 +1,7 @@
+{
+  "key": "fogbugz-update-person",
+  "name": "Update Person",
+  "description": "Edits an existing person in FogBugz. [See the documentation](https://support.fogbugz.com/hc/en-us/articles/360011330733-FogBugz-XML-API-Editing-a-Person)",
+  "type": "action",
+  "version": "0.0.3"
+}

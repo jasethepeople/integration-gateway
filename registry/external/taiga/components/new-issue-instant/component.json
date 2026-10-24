@@ -1,0 +1,7 @@
+{
+  "key": "taiga-new-issue-instant",
+  "name": "New Issue (Instant)",
+  "description": "Emit new event when an issue is created in the selected project. [See the documentation](https://docs.taiga.io/api.html#webhooks-create)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,32 @@
+{
+  "app": "desktime",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "project": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "task": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "desktime-create-project",
+    "desktime-start-project",
+    "desktime-stop-project"
+  ]
+}

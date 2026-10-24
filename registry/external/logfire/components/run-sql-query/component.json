@@ -1,0 +1,7 @@
+{
+  "key": "logfire-run-sql-query",
+  "name": "Run SQL Query",
+  "description": "Executes an arbitrary SQL query against Logfire's `records` (unified logs + traces, one row per span) or `metrics` tables and returns the results.",
+  "type": "action",
+  "version": "0.0.2"
+}

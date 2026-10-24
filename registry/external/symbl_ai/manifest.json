@@ -1,0 +1,84 @@
+{
+  "app": "symbl_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "conversationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "memberId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "logo": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "favicon": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "background": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "topicsFilter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "insightsFilter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "font": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "summaryURLExpiresIn": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "readOnly": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "enableCustomDomain": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "contentType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "symbl_ai-delete-conversation",
+    "symbl_ai-get-action-items",
+    "symbl_ai-get-analytics",
+    "symbl_ai-get-conversation",
+    "symbl_ai-get-conversations",
+    "symbl_ai-get-entities",
+    "symbl_ai-get-follow-ups",
+    "symbl_ai-get-job-status",
+    "symbl_ai-get-members",
+    "symbl_ai-get-questions",
+    "symbl_ai-get-speech-to-text",
+    "symbl_ai-get-summary",
+    "symbl_ai-get-topics",
+    "symbl_ai-get-trackers",
+    "symbl_ai-list-conversation-id-options",
+    "symbl_ai-post-audio-url",
+    "symbl_ai-post-formatted-transcript",
+    "symbl_ai-post-trackers-analytics-ui",
+    "symbl_ai-post-video-summary-ui",
+    "symbl_ai-post-video-url",
+    "symbl_ai-put-conversation",
+    "symbl_ai-put-member",
+    "symbl_ai-put-speaker-events"
+  ]
+}

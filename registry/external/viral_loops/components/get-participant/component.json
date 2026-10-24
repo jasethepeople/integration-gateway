@@ -1,0 +1,7 @@
+{
+  "key": "viral_loops-get-participant",
+  "name": "Get Participant",
+  "description": "Get a participant. [See documentation here](https://developers.viral-loops.com/reference/post_campaign-participant-query)",
+  "type": "action",
+  "version": "0.0.2"
+}

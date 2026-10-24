@@ -1,0 +1,7 @@
+{
+  "key": "salesflare-new-account",
+  "name": "New Account Event",
+  "description": "Emit new events when new accounts are created. [See the docs](https://api.salesflare.com/docs#operation/getAccounts)",
+  "type": "source",
+  "version": "0.0.1"
+}

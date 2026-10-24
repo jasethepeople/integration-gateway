@@ -1,0 +1,7 @@
+{
+  "key": "line_messaging_api-send-multicast-message",
+  "name": "Send Multicast Message",
+  "description": "Sends a multicast message to a list of users. [See the documentation](https://developers.line.biz/en/reference/messaging-api/#send-multicast-message)",
+  "type": "action",
+  "version": "0.0.2"
+}

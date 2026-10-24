@@ -1,0 +1,21 @@
+{
+  "app": "planning_center",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "listId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "planning_center-list-list-id-options",
+    "planning_center-new-calendar-event",
+    "planning_center-new-donation",
+    "planning_center-new-list-result"
+  ]
+}

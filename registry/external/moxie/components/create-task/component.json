@@ -1,0 +1,7 @@
+{
+  "key": "moxie-create-task",
+  "name": "Create Task",
+  "description": "Create a new task. [See the documentation](https://help.withmoxie.com/en/articles/8160423-create-task)",
+  "type": "action",
+  "version": "0.0.2"
+}

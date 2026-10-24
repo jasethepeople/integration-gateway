@@ -1,0 +1,7 @@
+{
+  "key": "printify-create-product",
+  "name": "Create a Product",
+  "description": "Creates a new product on Printify. [See the documentation](https://developers.printify.com/#create-a-new-product)",
+  "type": "action",
+  "version": "0.1.3"
+}

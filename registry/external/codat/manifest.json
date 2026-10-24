@@ -1,0 +1,23 @@
+{
+  "app": "codat",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "eventTypes": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "companyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "authorization_header": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "codat-list-company-id-options",
+    "codat-new-webhook-message-instant"
+  ]
+}

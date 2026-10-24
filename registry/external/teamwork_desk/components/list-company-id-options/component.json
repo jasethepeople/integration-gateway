@@ -1,0 +1,7 @@
+{
+  "key": "teamwork_desk-list-company-id-options",
+  "name": "List Company Options",
+  "description": "Retrieves available options for the Company field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "orca_scan-new-sheet",
+  "name": "New Sheet Created",
+  "description": "Emit new event when a new sheet is created in Orca Scan. [See the documentation](https://orcascan.com/guides/add-barcode-tracking-to-your-system-using-a-rest-api-f09a21c3)",
+  "type": "source",
+  "version": "0.0.1"
+}

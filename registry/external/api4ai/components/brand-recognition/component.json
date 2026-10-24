@@ -1,0 +1,7 @@
+{
+  "key": "api4ai-brand-recognition",
+  "name": "Brand Recognition",
+  "description": "The service processes input image and responds with a list of found brand logos. Powered by API4AI.",
+  "type": "action",
+  "version": "0.0.6"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "printify-watch-events-instant",
+  "name": "New Watched Event (Instant)",
+  "description": "Emit new event when a specific event occurs in your Printify shop.",
+  "type": "source",
+  "version": "0.0.1"
+}

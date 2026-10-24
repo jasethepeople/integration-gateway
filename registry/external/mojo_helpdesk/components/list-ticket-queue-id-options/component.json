@@ -1,0 +1,7 @@
+{
+  "key": "mojo_helpdesk-list-ticket-queue-id-options",
+  "name": "List Ticket Queue Options",
+  "description": "Retrieves available options for the Ticket Queue field.",
+  "type": "action",
+  "version": "0.0.1"
+}

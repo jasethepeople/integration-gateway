@@ -1,0 +1,17 @@
+{
+  "app": "e2b",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "e2b-run-code"
+  ],
+  "npmImports": [
+    "@e2b/code-interpreter@1.0.3"
+  ]
+}

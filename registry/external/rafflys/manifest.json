@@ -1,0 +1,19 @@
+{
+  "app": "rafflys",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "promotionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "rafflys-list-promotion-id-options",
+    "rafflys-new-lead"
+  ]
+}

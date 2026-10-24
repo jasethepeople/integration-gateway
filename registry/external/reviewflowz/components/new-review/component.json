@@ -1,0 +1,7 @@
+{
+  "key": "reviewflowz-new-review",
+  "name": "New Review",
+  "description": "Emit new event when a review is published on any of your listings.",
+  "type": "source",
+  "version": "0.0.1"
+}

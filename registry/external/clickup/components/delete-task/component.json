@@ -1,0 +1,7 @@
+{
+  "key": "clickup-delete-task",
+  "name": "Delete Task",
+  "description": "Delete a task. [See the documentation](https://clickup.com/api) in **Tasks / Delete Task** section.",
+  "type": "action",
+  "version": "0.0.12"
+}

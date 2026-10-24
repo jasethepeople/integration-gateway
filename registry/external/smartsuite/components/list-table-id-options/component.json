@@ -1,0 +1,7 @@
+{
+  "key": "smartsuite-list-table-id-options",
+  "name": "List Table ID Options",
+  "description": "Retrieves available options for the Table ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

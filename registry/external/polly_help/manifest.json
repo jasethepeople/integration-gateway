@@ -1,0 +1,24 @@
+{
+  "app": "polly_help",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "publication_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "user": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "polly_help-get-article",
+    "polly_help-get-collection",
+    "polly_help-search-publication"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "wise-get-exchange-rates",
+  "name": "Get Exchange Rates",
+  "description": "Get an exchange rates. [See docs here](https://api-docs.wise.com/api-reference/rate#get)",
+  "type": "action",
+  "version": "0.0.6"
+}

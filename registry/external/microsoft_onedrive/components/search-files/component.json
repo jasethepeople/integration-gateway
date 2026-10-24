@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_onedrive-search-files",
+  "name": "Search Files",
+  "description": "Search for files and folders in Microsoft OneDrive. [See the documentation](https://learn.microsoft.com/en-us/graph/api/driveitem-search)",
+  "type": "action",
+  "version": "0.1.1"
+}

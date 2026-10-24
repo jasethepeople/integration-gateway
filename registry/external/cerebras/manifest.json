@@ -1,0 +1,44 @@
+{
+  "app": "cerebras",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "model": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "stream": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "seed": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "stop": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "temperature": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "topP": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "user": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "cerebras-create-chat-completion",
+    "cerebras-create-completion",
+    "cerebras-list-models"
+  ]
+}

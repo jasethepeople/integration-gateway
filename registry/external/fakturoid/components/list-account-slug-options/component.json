@@ -1,0 +1,7 @@
+{
+  "key": "fakturoid-list-account-slug-options",
+  "name": "List Account Options",
+  "description": "Retrieves available options for the Account field.",
+  "type": "action",
+  "version": "0.0.1"
+}

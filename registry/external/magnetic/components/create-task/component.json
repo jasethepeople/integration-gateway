@@ -1,0 +1,7 @@
+{
+  "key": "magnetic-create-task",
+  "name": "Create Task",
+  "description": "Create a new task. [See docs here](https://app.magnetichq.com/Magnetic/API.do#ta-taskobject)",
+  "type": "action",
+  "version": "0.0.2"
+}

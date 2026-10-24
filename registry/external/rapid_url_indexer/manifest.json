@@ -1,0 +1,23 @@
+{
+  "app": "rapid_url_indexer",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "rapid_url_indexer-download-project-report",
+    "rapid_url_indexer-get-project-status",
+    "rapid_url_indexer-submit-project"
+  ],
+  "npmImports": [
+    "fs"
+  ]
+}

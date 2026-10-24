@@ -1,0 +1,7 @@
+{
+  "key": "bamboohr-list-status-id-options",
+  "name": "List Status ID Options",
+  "description": "Retrieves available application status IDs for use with applicant-tracking actions. [See the documentation](https://documentation.bamboohr.com/reference/get-statuses)",
+  "type": "action",
+  "version": "0.0.2"
+}

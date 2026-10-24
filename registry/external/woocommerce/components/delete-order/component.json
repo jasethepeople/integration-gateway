@@ -1,0 +1,7 @@
+{
+  "key": "woocommerce-delete-order",
+  "name": "Delete Order",
+  "description": "Delete an existing order. [See the docs](https://woocommerce.github.io/woocommerce-rest-api-docs/#delete-an-order)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pipedream_utils-format-currency",
+  "name": "Formatting - [Numbers] Format Currency",
+  "description": "Format a number as a currency",
+  "type": "action",
+  "version": "0.0.6"
+}

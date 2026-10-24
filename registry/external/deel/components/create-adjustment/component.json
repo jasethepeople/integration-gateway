@@ -1,0 +1,7 @@
+{
+  "key": "deel-create-adjustment",
+  "name": "Create Adjustment",
+  "description": "Create a payroll line-item adjustment for an EOR or GP contract in Deel (bonus, deduction, expense, etc.).",
+  "type": "action",
+  "version": "0.0.2"
+}

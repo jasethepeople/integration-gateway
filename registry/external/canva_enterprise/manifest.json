@@ -1,0 +1,21 @@
+{
+  "app": "canva_enterprise",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "brandTemplateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "canva_enterprise-create-design-from-brand-template",
+    "canva_enterprise-create-design",
+    "canva_enterprise-export-design",
+    "canva_enterprise-upload-asset"
+  ]
+}

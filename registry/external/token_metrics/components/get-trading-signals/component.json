@@ -1,0 +1,7 @@
+{
+  "key": "token_metrics-get-trading-signals",
+  "name": "Get Trading Signals",
+  "description": "",
+  "type": "action",
+  "version": "0.1.1"
+}

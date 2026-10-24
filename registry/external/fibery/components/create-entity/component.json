@@ -1,0 +1,7 @@
+{
+  "key": "fibery-create-entity",
+  "name": "Create Entity",
+  "description": "Creates a new entity. [See the docs here](https://api.fibery.io/graphql.html#create)",
+  "type": "action",
+  "version": "0.0.2"
+}

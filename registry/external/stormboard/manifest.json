@@ -1,0 +1,21 @@
+{
+  "app": "stormboard",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "stormId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "stormboard-list-storm-id-options",
+    "stormboard-new-idea",
+    "stormboard-new-storm",
+    "stormboard-new-action"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "google_cloud-upload-object",
+  "name": "Upload An Object",
+  "description": "Upload an object to a Google Cloud Storage bucket, [See the docs](https://googleapis.dev/nodejs/storage/latest/Bucket.html#upload)",
+  "type": "action",
+  "version": "0.0.6"
+}

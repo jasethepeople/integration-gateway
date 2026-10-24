@@ -1,0 +1,7 @@
+{
+  "key": "datadog-search-incidents",
+  "name": "Search Incidents",
+  "description": "Search Datadog incidents by state, severity, and",
+  "type": "action",
+  "version": "1.0.2"
+}

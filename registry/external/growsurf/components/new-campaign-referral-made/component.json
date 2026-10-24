@@ -1,0 +1,7 @@
+{
+  "key": "growsurf-new-campaign-referral-made",
+  "name": "New Campaign Referral Made",
+  "description": "Emit new event when a new referral is made for a campaign. [See the documentation](https://docs.growsurf.com/developer-tools/rest-api/api-reference#get-referrals-and-invites)",
+  "type": "source",
+  "version": "0.0.1"
+}

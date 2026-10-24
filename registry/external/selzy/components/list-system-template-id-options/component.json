@@ -1,0 +1,7 @@
+{
+  "key": "selzy-list-system-template-id-options",
+  "name": "List System Template Id Options",
+  "description": "Retrieves available options for the System Template Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

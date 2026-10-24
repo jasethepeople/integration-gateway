@@ -1,0 +1,24 @@
+{
+  "app": "gupshup",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "appname": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "apikey": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "gupshup-list-template-id-options",
+    "gupshup-send-template-message",
+    "gupshup-update-subscription"
+  ]
+}

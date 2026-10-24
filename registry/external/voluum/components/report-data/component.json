@@ -1,0 +1,7 @@
+{
+  "key": "voluum-report-data",
+  "name": "Report Data",
+  "description": "Return standard report. [See the API documentation](https://developers.voluum.com/#!/Reports/get_report)",
+  "type": "action",
+  "version": "0.0.1"
+}

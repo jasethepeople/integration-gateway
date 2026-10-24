@@ -1,0 +1,7 @@
+{
+  "key": "smugmug-get-album",
+  "name": "Get Album",
+  "description": "Gets an album given its id. [See the docs here](https://api.smugmug.com/api/v2/doc/reference/album.html)",
+  "type": "action",
+  "version": "0.1.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "nationbuilder-delete-donation",
+  "name": "Delete Donation",
+  "description": "Delete a specific donation with the provided Id. [See the documentation](https://nationbuilder.com/donations_api)",
+  "type": "action",
+  "version": "0.0.2"
+}

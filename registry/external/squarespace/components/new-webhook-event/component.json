@@ -1,0 +1,7 @@
+{
+  "key": "squarespace-new-webhook-event",
+  "name": "New Webhook Event",
+  "description": "Emit new event on each webhook event.",
+  "type": "source",
+  "version": "0.0.2"
+}

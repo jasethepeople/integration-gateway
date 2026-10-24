@@ -1,0 +1,7 @@
+{
+  "key": "robopost-list-configuration-id-options",
+  "name": "List Configuration ID Options",
+  "description": "Retrieves available options for the Configuration ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "docparser-upload-document",
+  "name": "Upload Document",
+  "description": "Uploads a document to docparser that initiates parsing immediately after reception. [See the documentation](https://docparser.com/api/#import-documents)",
+  "type": "action",
+  "version": "1.0.3"
+}

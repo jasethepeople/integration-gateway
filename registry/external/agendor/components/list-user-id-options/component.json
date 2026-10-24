@@ -1,0 +1,7 @@
+{
+  "key": "agendor-list-user-id-options",
+  "name": "List Owner User Options",
+  "description": "Retrieves available options for the Owner User field.",
+  "type": "action",
+  "version": "0.0.1"
+}

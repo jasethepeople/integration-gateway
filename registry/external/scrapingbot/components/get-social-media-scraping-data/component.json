@@ -1,0 +1,7 @@
+{
+  "key": "scrapingbot-get-social-media-scraping-data",
+  "name": "Get Social Media Scraping Data",
+  "description": "Retrieve data from a social media scraping job by responseId. [See the documentation](https://www.scraping-bot.io/web-scraping-documentation/)",
+  "type": "action",
+  "version": "0.0.2"
+}

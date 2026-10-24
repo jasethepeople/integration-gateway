@@ -1,0 +1,7 @@
+{
+  "key": "planyo_online_booking-create-user",
+  "name": "Create User",
+  "description": "Inserts a new user associated with your Planyo site. [See Docs](https://www.planyo.com/api.php?topic=add_user)",
+  "type": "action",
+  "version": "0.0.2"
+}

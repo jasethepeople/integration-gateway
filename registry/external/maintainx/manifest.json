@@ -1,0 +1,17 @@
+{
+  "app": "maintainx",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "maintainx-create-work-order",
+    "maintainx-send-message",
+    "maintainx-update-work-order",
+    "maintainx-new-work-order-completed"
+  ]
+}

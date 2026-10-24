@@ -1,0 +1,7 @@
+{
+  "key": "apollo_io_oauth-get-current-user",
+  "name": "Get Current User",
+  "description": "Returns the authenticated user's profile including their ID,",
+  "type": "action",
+  "version": "0.0.2"
+}

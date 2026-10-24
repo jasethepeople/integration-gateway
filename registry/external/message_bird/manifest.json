@@ -1,0 +1,29 @@
+{
+  "app": "message_bird",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "originator": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "body": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recipients": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "access_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "message_bird-create-contact",
+    "message_bird-send-sms",
+    "message_bird-send-voice-message",
+    "message_bird-new-sms-message-received"
+  ]
+}

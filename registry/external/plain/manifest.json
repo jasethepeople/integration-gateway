@@ -1,0 +1,44 @@
+{
+  "app": "plain",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "labelTypeIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "groupKey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "plain-add-customer-to-group",
+    "plain-create-customer-event",
+    "plain-create-thread",
+    "plain-upsert-customer",
+    "plain-customer-created",
+    "plain-customer-deleted",
+    "plain-customer-updated",
+    "plain-email-received",
+    "plain-email-sent",
+    "plain-note-created",
+    "plain-thread-assignment-transitioned",
+    "plain-thread-created",
+    "plain-thread-label-changed",
+    "plain-thread-priority-changed",
+    "plain-thread-status-transitioned"
+  ]
+}

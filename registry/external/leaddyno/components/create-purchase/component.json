@@ -1,0 +1,7 @@
+{
+  "key": "leaddyno-create-purchase",
+  "name": "Create Purchase",
+  "description": "Creates a new purchase in LeadDyno. [See the documentation](https://app.theneo.io/leaddyno/leaddyno-rest-api/purchases/post-purchases)",
+  "type": "action",
+  "version": "0.0.2"
+}

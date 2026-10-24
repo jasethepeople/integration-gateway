@@ -1,0 +1,7 @@
+{
+  "key": "screendesk-new-recording",
+  "name": "New Recording",
+  "description": "Emit new event when a new recording is created is sent or received.",
+  "type": "source",
+  "version": "0.0.1"
+}

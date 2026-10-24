@@ -1,0 +1,7 @@
+{
+  "key": "wordpress_com-new-follower",
+  "name": "New Follower",
+  "description": "Emit new event for each new follower that subscribes to the site.",
+  "type": "source",
+  "version": "0.0.2"
+}

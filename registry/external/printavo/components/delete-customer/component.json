@@ -1,0 +1,7 @@
+{
+  "key": "printavo-delete-customer",
+  "name": "Delete Customer",
+  "description": "Delete a customer. [See the docs here](https://printavo.docs.apiary.io/#reference/customers/customer/customer-delete)",
+  "type": "action",
+  "version": "0.0.2"
+}

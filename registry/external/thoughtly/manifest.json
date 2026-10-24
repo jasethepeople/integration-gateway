@@ -1,0 +1,26 @@
+{
+  "app": "thoughtly",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "interviewId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "thoughtly-create-contact",
+    "thoughtly-list-contact-id-options",
+    "thoughtly-list-interview-id-options",
+    "thoughtly-trigger-call",
+    "thoughtly-new-response-instant"
+  ]
+}

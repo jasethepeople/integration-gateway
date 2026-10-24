@@ -1,0 +1,7 @@
+{
+  "key": "homerun-create-job-application",
+  "name": "Create Job Application",
+  "description": "Creates a new job application. [See the documentation](https://developers.homerun.co/#tag/Job-Applications/operation/job-applications.post).",
+  "type": "action",
+  "version": "0.0.3"
+}

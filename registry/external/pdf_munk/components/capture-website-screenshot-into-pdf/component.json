@@ -1,0 +1,7 @@
+{
+  "key": "pdf_munk-capture-website-screenshot-into-pdf",
+  "name": "Capture Website Screenshot into PDF",
+  "description": "Converts a URL to a PDF file with customizable options. [See documentation](https://pdfmunk.com/api-docs#:~:text=Operations%20related%20to%20PDF)",
+  "type": "action",
+  "version": "0.0.2"
+}

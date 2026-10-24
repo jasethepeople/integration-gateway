@@ -1,0 +1,7 @@
+{
+  "key": "zoho_inventory-new-order",
+  "name": "New Sales Order",
+  "description": "Emit new event each time a new sales order is created in Zoho Inventory",
+  "type": "source",
+  "version": "0.0.4"
+}

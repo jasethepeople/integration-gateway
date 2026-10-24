@@ -1,0 +1,7 @@
+{
+  "key": "frontapp-new-conversation-tag",
+  "name": "New Conversation Tag",
+  "description": "Emit new event when a conversation is tagged with a specific tag or any tag. [See the documentation](https://dev.frontapp.com/reference/events)",
+  "type": "source",
+  "version": "0.0.9"
+}

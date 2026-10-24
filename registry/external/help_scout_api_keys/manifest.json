@@ -1,0 +1,42 @@
+{
+  "app": "help_scout_api_keys",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "collectionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "categoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "articleId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "siteId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "help_scout_api_keys-get-article",
+    "help_scout_api_keys-list-articles",
+    "help_scout_api_keys-list-collection-id-options",
+    "help_scout_api_keys-list-site-id-options",
+    "help_scout_api_keys-search-articles"
+  ]
+}

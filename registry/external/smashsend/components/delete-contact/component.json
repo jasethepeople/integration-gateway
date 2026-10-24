@@ -1,0 +1,7 @@
+{
+  "key": "smashsend-delete-contact",
+  "name": "Delete Contact",
+  "description": "Delete a contact. [See the documentation](https://smashsend.com/docs/api/contacts)",
+  "type": "action",
+  "version": "0.0.2"
+}

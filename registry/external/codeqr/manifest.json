@@ -1,0 +1,29 @@
+{
+  "app": "codeqr",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "linkId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "qrcodeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "codeqr-create-link",
+    "codeqr-create-qrcode",
+    "codeqr-delete-link",
+    "codeqr-delete-qrcode",
+    "codeqr-get-link-info",
+    "codeqr-get-qrcode-info",
+    "codeqr-list-link-id-options",
+    "codeqr-list-qrcode-id-options"
+  ]
+}

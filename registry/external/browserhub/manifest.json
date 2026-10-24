@@ -1,0 +1,20 @@
+{
+  "app": "browserhub",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "scraperId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "browserhub-list-scraper-id-options",
+    "browserhub-run-automation",
+    "browserhub-new-finished-automation-run"
+  ]
+}

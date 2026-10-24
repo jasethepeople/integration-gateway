@@ -1,0 +1,7 @@
+{
+  "key": "paypal-list-payment-event-types-options",
+  "name": "List Payment Event Types Options",
+  "description": "Retrieves available options for the Payment Event Types field.",
+  "type": "action",
+  "version": "0.0.1"
+}

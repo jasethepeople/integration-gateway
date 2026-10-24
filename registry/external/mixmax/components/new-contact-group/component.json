@@ -1,0 +1,7 @@
+{
+  "key": "mixmax-new-contact-group",
+  "name": "New Contact Group",
+  "description": "Emit new event when a new contact group is created. [See docs here](https://developer.mixmax.com/reference/contactgroups)",
+  "type": "source",
+  "version": "0.0.1"
+}

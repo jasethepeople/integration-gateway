@@ -1,0 +1,31 @@
+{
+  "app": "mailmodo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "listName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mailmodo-add-contact-to-list",
+    "mailmodo-list-campaign-id-options",
+    "mailmodo-list-list-name-options",
+    "mailmodo-trigger-campaign",
+    "mailmodo-trigger-journey",
+    "mailmodo-new-template-submitted"
+  ]
+}

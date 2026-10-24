@@ -1,0 +1,7 @@
+{
+  "key": "chargekeep-create-invoice",
+  "name": "Create Invoice",
+  "description": "Create a new invoice in Chargekeep. [See the documentation](https://crm.chargekeep.com/app/api/swagger)",
+  "type": "action",
+  "version": "0.0.1"
+}

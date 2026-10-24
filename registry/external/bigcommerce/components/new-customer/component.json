@@ -1,0 +1,7 @@
+{
+  "key": "bigcommerce-new-customer",
+  "name": "New Customer",
+  "description": "Emit new created customer",
+  "type": "source",
+  "version": "0.0.2"
+}

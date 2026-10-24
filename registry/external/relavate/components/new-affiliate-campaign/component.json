@@ -1,0 +1,7 @@
+{
+  "key": "relavate-new-affiliate-campaign",
+  "name": "New Affiliate Campaign",
+  "description": "Emit new event when a new affiliate campaign is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

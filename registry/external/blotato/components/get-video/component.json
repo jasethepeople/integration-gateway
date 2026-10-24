@@ -1,0 +1,7 @@
+{
+  "key": "blotato-get-video",
+  "name": "Get Video",
+  "description": "Get a video, carousel, or graphic. [See documentation](https://help.blotato.com/api/api-reference/find-video)",
+  "type": "action",
+  "version": "0.0.1"
+}

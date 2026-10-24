@@ -1,0 +1,35 @@
+{
+  "app": "outreach",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "mailboxId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "prospectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sequenceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sharingTeamId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "outreach-add-prospect-sequence",
+    "outreach-create-account",
+    "outreach-create-prospect",
+    "outreach-new-call-instant",
+    "outreach-new-email-instant",
+    "outreach-new-task-instant"
+  ]
+}

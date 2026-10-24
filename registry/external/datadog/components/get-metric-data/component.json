@@ -1,0 +1,7 @@
+{
+  "key": "datadog-get-metric-data",
+  "name": "Get Metric Data",
+  "description": "Query time-series metric data for analyzing trends",
+  "type": "action",
+  "version": "1.0.2"
+}

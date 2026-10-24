@@ -1,0 +1,7 @@
+{
+  "key": "cloudpress-document-export-succeeded",
+  "name": "Document Export Succeeded",
+  "description": "Emit new event when a document export succeeds in Cloudpress.",
+  "type": "source",
+  "version": "0.0.1"
+}

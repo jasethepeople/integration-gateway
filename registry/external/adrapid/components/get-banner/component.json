@@ -1,0 +1,7 @@
+{
+  "key": "adrapid-get-banner",
+  "name": "Get Banner",
+  "description": "Retrieves a specified banner. This action should be used after a 'create-banner' action to ensure that the banner is fully processed and ready for use. [See the documentation](https://docs.adrapid.com/api/overview)",
+  "type": "action",
+  "version": "0.0.3"
+}

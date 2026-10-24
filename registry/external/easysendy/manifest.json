@@ -1,0 +1,19 @@
+{
+  "app": "easysendy",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "listId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "easysendy-add-subscriber",
+    "easysendy-list-list-id-options"
+  ]
+}

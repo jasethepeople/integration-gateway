@@ -1,0 +1,7 @@
+{
+  "key": "brex-invite-user",
+  "name": "Invite User",
+  "description": "Invites a person to the Brex account as an employee, emailing them to finish onboarding. Returns the new Brex user ID, which **Create Card**, **Set Limit for User**, and **Get User** take. [See the documentation](https://developer.brex.com/openapi/team_api/users/createuser)",
+  "type": "action",
+  "version": "0.1.3"
+}

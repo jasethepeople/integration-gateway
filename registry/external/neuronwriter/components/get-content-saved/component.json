@@ -1,0 +1,7 @@
+{
+  "key": "neuronwriter-get-content-saved",
+  "name": "Get Content Saved",
+  "description": "Pulls the most recent revision of the content saved for a specific query. [See the documentation](https://contadu.crisp.help/en/article/neuronwriter-api-how-to-use-2ds6hx/#3-get-content)",
+  "type": "action",
+  "version": "0.0.2"
+}

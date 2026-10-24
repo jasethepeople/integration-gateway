@@ -1,0 +1,7 @@
+{
+  "key": "robopost-generate-video",
+  "name": "Generate Video",
+  "description": "Create a new video generation task from a video series. [See the documentation](https://robopost.app/docs/robopost-api/#videogenerationtasks)",
+  "type": "action",
+  "version": "0.0.1"
+}

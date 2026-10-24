@@ -1,0 +1,7 @@
+{
+  "key": "clickup-list-workspaces-options",
+  "name": "List Workspace Options",
+  "description": "Retrieves available options for the Workspace field.",
+  "type": "action",
+  "version": "0.0.1"
+}

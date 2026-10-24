@@ -1,0 +1,7 @@
+{
+  "key": "add_to_calendar_pro-update-rsvp-template",
+  "name": "Update RSVP Template",
+  "description": "Update an RSVP template. [See the documentation](https://docs.add-to-calendar-pro.com/api/rsvp#update-an-rsvp-template)",
+  "type": "action",
+  "version": "0.0.3"
+}

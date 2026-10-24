@@ -1,0 +1,7 @@
+{
+  "key": "unleashed_software-list-tax-code-options",
+  "name": "List Tax Code Options",
+  "description": "Retrieves available options for the Tax Code field.",
+  "type": "action",
+  "version": "0.0.1"
+}

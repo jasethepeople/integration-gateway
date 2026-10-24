@@ -1,0 +1,7 @@
+{
+  "key": "coincatch-get-position-tier",
+  "name": "Get Position Tier",
+  "description": "Gets position tier. [See the documentation](https://coincatch.github.io/github.io/en/mix/#get-position-tier)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "paigo-list-dimension-id-options",
+  "name": "List Dimension ID Options",
+  "description": "Retrieves available options for the Dimension ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

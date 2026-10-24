@@ -1,0 +1,7 @@
+{
+  "key": "google_cloud-run-query",
+  "name": "Run Query",
+  "description": "Runs a query in BigQuery. [See the documentation](https://cloud.google.com/bigquery/docs/running-queries#node.js) for more information.",
+  "type": "action",
+  "version": "0.0.4"
+}

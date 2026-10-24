@@ -1,0 +1,7 @@
+{
+  "key": "exhibitday-new-task-assigned",
+  "name": "New Task Assigned",
+  "description": "Emit new event when a task is assigned to a user in ExhibitDay.",
+  "type": "source",
+  "version": "0.0.1"
+}

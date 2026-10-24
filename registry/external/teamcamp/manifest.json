@@ -1,0 +1,48 @@
+{
+  "app": "teamcamp",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dueDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "priority": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "estimateTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "teamcamp-create-project",
+    "teamcamp-create-task",
+    "teamcamp-list-project-id-options"
+  ]
+}

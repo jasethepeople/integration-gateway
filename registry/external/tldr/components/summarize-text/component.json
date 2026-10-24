@@ -1,0 +1,7 @@
+{
+  "key": "tldr-summarize-text",
+  "name": "Summarize Text",
+  "description": "Reads in a piece of text and distills the main points. [See the documentation](https://runtldr.com/documentation)",
+  "type": "action",
+  "version": "0.0.2"
+}

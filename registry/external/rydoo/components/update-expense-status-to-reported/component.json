@@ -1,0 +1,7 @@
+{
+  "key": "rydoo-update-expense-status-to-reported",
+  "name": "Update Expense Status to Reported",
+  "description": "Marks an individual expense as included in a report. [See the documentation](https://developers.rydoo.com/reference/v3expensesreport)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "google_classroom-new-announcement",
+  "name": "New Announcement",
+  "description": "Emit new event when an announcement is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

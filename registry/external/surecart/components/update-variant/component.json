@@ -1,0 +1,7 @@
+{
+  "key": "surecart-update-variant",
+  "name": "Update Variant",
+  "description": "Update an existing variant. [See the documentation](https://developer.surecart.com/api-reference/variants/update)",
+  "type": "action",
+  "version": "0.0.1"
+}

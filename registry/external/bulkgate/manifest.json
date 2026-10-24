@@ -1,0 +1,50 @@
+{
+  "app": "bulkgate",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "appId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "appToken": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "number": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "text": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "unicode": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "senderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "senderIdValue": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "app_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "app_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "bulkgate-send-sms"
+  ]
+}

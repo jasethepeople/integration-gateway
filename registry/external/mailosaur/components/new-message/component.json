@@ -1,0 +1,7 @@
+{
+  "key": "mailosaur-new-message",
+  "name": "New Message Received",
+  "description": "Emit new event when a message is received in a specified Mailosaur inbox. [See the documentation](https://mailosaur.com/docs/api#list-all-messages)",
+  "type": "source",
+  "version": "0.0.1"
+}

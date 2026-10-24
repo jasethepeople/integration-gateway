@@ -1,0 +1,7 @@
+{
+  "key": "gitlab-list-group-path-options",
+  "name": "List Group Path Options",
+  "description": "Retrieves available options for the Group Path field.",
+  "type": "action",
+  "version": "0.0.2"
+}

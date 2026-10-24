@@ -1,0 +1,82 @@
+{
+  "app": "reddit",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "thingId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sort": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subredditPost": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "after": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "before": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "count": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "subreddit": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "username": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timeFilter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "includeSubredditDetails": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "numberOfParents": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "depth": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "reddit-list-comments-in-a-post",
+    "reddit-list-subreddits-by-query",
+    "reddit-search-post",
+    "reddit-submit-a-comment",
+    "reddit-submit-a-post",
+    "reddit-new-comments-by-user",
+    "reddit-new-comments-on-a-post",
+    "reddit-new-hot-posts-on-a-subreddit",
+    "reddit-new-links-by-user",
+    "reddit-new-links-on-a-subreddit",
+    "reddit-new-private-message",
+    "reddit-new-saved-post-by-user"
+  ],
+  "npmImports": [
+    "async-retry",
+    "lodash",
+    "qs"
+  ]
+}

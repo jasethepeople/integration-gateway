@@ -1,0 +1,7 @@
+{
+  "key": "twilio-list-incoming-phone-number-options",
+  "name": "List Incoming Phone Number Options",
+  "description": "Retrieves available options for the Incoming Phone Number field.",
+  "type": "action",
+  "version": "0.0.1"
+}

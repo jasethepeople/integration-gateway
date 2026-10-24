@@ -1,0 +1,7 @@
+{
+  "key": "testmonitor-new-issue",
+  "name": "New Issue",
+  "description": "Emit new event when a new issue is created.",
+  "type": "source",
+  "version": "0.0.4"
+}

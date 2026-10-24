@@ -1,0 +1,7 @@
+{
+  "key": "twitch-streams-by-streamer",
+  "name": "New Streams By Streamer",
+  "description": "Emit new event when a live stream starts from the streamers you specify.",
+  "type": "source",
+  "version": "0.1.4"
+}

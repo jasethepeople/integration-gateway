@@ -1,0 +1,7 @@
+{
+  "key": "tinyurl-update-link-metadata",
+  "name": "Update Link Metadata",
+  "description": "Updates the metadata of an existing TinyURL. [See the documentation]()",
+  "type": "action",
+  "version": "0.0.2"
+}

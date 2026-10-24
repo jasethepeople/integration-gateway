@@ -1,0 +1,7 @@
+{
+  "key": "companyhub-create-contact",
+  "name": "Create Contact",
+  "description": "Creates a new contact. [See the documentation](https://companyhub.com/docs/api-documentation)",
+  "type": "action",
+  "version": "0.0.2"
+}

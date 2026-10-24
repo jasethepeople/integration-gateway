@@ -1,0 +1,42 @@
+{
+  "app": "bonusly",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "startDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "search": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pageSize": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "cursor": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "bonusly-get-company-participation-report",
+    "bonusly-give-bonus",
+    "bonusly-list-departments",
+    "bonusly-list-locations",
+    "bonusly-list-reward-redemptions",
+    "bonusly-list-top-level-users",
+    "bonusly-list-users-in-department",
+    "bonusly-list-users-in-location",
+    "bonusly-search-users"
+  ]
+}

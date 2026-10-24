@@ -1,0 +1,7 @@
+{
+  "key": "evernote-get-note",
+  "name": "Get Note",
+  "description": "Get a note by ID. [See the documentation](https://dev.evernote.com/doc/reference/NoteStore.html#Fn_NoteStore_getNoteWithResultSpec)",
+  "type": "action",
+  "version": "0.0.2"
+}

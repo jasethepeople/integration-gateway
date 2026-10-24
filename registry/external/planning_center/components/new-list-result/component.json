@@ -1,0 +1,7 @@
+{
+  "key": "planning_center-new-list-result",
+  "name": "New Person Added to List",
+  "description": "Emit new event when a person is added to the specified list. [See the documentation](https://developer.planning.center/docs/#/apps/people/2025-03-20/vertices/list_result)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "stormboard-list-storm-id-options",
+  "name": "List Storm Id Options",
+  "description": "Retrieves available options for the Storm Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

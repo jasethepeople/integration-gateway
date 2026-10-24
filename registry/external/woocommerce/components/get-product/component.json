@@ -1,0 +1,7 @@
+{
+  "key": "woocommerce-get-product",
+  "name": "Get Product",
+  "description": "Retrieve a specific product. [See the docs](https://woocommerce.github.io/woocommerce-rest-api-docs/#retrieve-a-product)",
+  "type": "action",
+  "version": "0.0.1"
+}

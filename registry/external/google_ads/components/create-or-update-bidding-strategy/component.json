@@ -1,0 +1,7 @@
+{
+  "key": "google_ads-create-or-update-bidding-strategy",
+  "name": "Create or Update Bidding Strategy",
+  "description": "Whether to create, update, or remove a bidding strategy.",
+  "type": "action",
+  "version": "1.0.3"
+}

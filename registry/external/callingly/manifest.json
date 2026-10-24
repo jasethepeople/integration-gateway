@@ -1,0 +1,23 @@
+{
+  "app": "callingly",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "leadId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "callingly-create-client",
+    "callingly-update-lead",
+    "callingly-call-completed",
+    "callingly-lead-tag-updated-instant",
+    "callingly-lead-updated-instant",
+    "callingly-new-lead-created-instant"
+  ]
+}

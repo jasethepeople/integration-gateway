@@ -1,0 +1,15 @@
+{
+  "app": "stripe",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "commit": "d5872355ef27b4efa769f05352f2820c299a456e",
+  "upstreamPaths": {
+    "stripe-create-customer": "components/stripe/actions/create-customer/create-customer.mjs",
+    "stripe-list-customers": "components/stripe/actions/list-customers/list-customers.mjs",
+    "stripe-new-customer": "components/stripe/sources/new-customer/new-customer.mjs"
+  },
+  "components": [
+    "stripe-create-customer",
+    "stripe-list-customers",
+    "stripe-new-customer"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "akeneo-submit-product-for-approval",
+  "name": "Submit Product For Approval",
+  "description": "Submit a product for approval. [See the documentation](https://api.akeneo.com/api-reference.html#post_proposal)",
+  "type": "action",
+  "version": "0.0.3"
+}

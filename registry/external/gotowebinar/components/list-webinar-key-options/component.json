@@ -1,0 +1,7 @@
+{
+  "key": "gotowebinar-list-webinar-key-options",
+  "name": "List Webinar Key Options",
+  "description": "Retrieves available options for the Webinar Key field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,20 @@
+{
+  "app": "taskade",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "taskade-create-task",
+    "taskade-list-project-id-options",
+    "taskade-new-task-created"
+  ]
+}

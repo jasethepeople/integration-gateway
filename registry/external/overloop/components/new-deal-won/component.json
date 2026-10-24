@@ -1,0 +1,7 @@
+{
+  "key": "overloop-new-deal-won",
+  "name": "New Deal Won",
+  "description": "Emit new event each time a deal is won. [See the docs](https://apidoc.overloop.com/#list-deals)",
+  "type": "source",
+  "version": "0.0.1"
+}

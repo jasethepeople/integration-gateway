@@ -1,0 +1,7 @@
+{
+  "key": "brainbase_labs-create-flow",
+  "name": "Create Flow",
+  "description": "Create a new flow for a worker. [See the documentation](https://docs.usebrainbase.com/api-reference/flows/create-a-new-flow)",
+  "type": "action",
+  "version": "0.0.1"
+}

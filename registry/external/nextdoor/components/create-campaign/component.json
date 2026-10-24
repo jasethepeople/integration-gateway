@@ -1,0 +1,7 @@
+{
+  "key": "nextdoor-create-campaign",
+  "name": "Create Campaign",
+  "description": "Creates a campaign. [See the documentation](https://developer.nextdoor.com/reference/campaign-create).",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "tapfiliate-new-conversion",
+  "name": "New Conversion",
+  "description": "Emit new event when a new conversion is created. Conversion details are supplied by the application. [See the documentation](https://tapfiliate.com/docs/rest/#conversions-conversions-collection-get)",
+  "type": "source",
+  "version": "0.0.1"
+}

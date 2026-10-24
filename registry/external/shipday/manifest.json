@@ -1,0 +1,98 @@
+{
+  "app": "shipday",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "orderNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerAddress": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerPhoneNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "restaurantName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "restaurantAddress": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "expectedDeliveryDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "expectedPickupTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "expectedDeliveryTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pickupLatitude": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pickupLongitude": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "deliveryLatitude": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "deliveryLongitude": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tips": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tax": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "discountAmount": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "deliveryFee": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "totalOrderCost": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pickupInstruction": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "deliveryInstruction": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "shipday-create-order"
+  ]
+}

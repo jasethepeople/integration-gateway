@@ -1,0 +1,7 @@
+{
+  "key": "intuiface-list-experience-i-ds-options",
+  "name": "List Experience IDs Options",
+  "description": "Retrieves available options for the Experience IDs field.",
+  "type": "action",
+  "version": "0.0.1"
+}

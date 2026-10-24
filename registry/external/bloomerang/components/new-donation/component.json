@@ -1,0 +1,7 @@
+{
+  "key": "bloomerang-new-donation",
+  "name": "New Donation",
+  "description": "Emit new event when a donation is received in Bloomerang.",
+  "type": "source",
+  "version": "0.0.1"
+}

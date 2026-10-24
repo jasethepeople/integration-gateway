@@ -1,0 +1,7 @@
+{
+  "key": "pipedrive-search-leads",
+  "name": "Search Leads",
+  "description": "Search for leads by name or email. [See the documentation](https://developers.pipedrive.com/docs/api/v1/Leads#searchLeads)",
+  "type": "action",
+  "version": "0.0.11"
+}

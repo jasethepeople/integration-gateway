@@ -1,0 +1,7 @@
+{
+  "key": "outreach-add-prospect-sequence",
+  "name": "Add Prospect to Sequence",
+  "description": "Adds an existing prospect to a specific sequence in Outreach. [See the documentation](https://developers.outreach.io/api/reference/tag/prospect/)",
+  "type": "action",
+  "version": "0.0.2"
+}

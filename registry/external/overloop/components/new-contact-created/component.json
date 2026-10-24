@@ -1,0 +1,7 @@
+{
+  "key": "overloop-new-contact-created",
+  "name": "New Contact Created",
+  "description": "Emit new event each time a contact is created. [See the docs](https://apidoc.overloop.com/#list-contacts)",
+  "type": "source",
+  "version": "0.0.1"
+}

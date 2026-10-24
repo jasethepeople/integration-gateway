@@ -1,0 +1,7 @@
+{
+  "key": "mural-search-murals",
+  "name": "Search Murals",
+  "description": "Search murals in a workspace. [See the documentation](https://developers.mural.co/public/reference/searchmurals)",
+  "type": "action",
+  "version": "0.0.1"
+}

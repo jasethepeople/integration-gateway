@@ -1,0 +1,7 @@
+{
+  "key": "zoho_desk-list-ticket-comments",
+  "name": "List All Ticket Comments",
+  "description": "Retrieves all comments for a specified ticket. [See the documentation](https://desk.zoho.com/DeskAPIDocument#TicketsComments_Listallticketcomments)",
+  "type": "action",
+  "version": "0.0.3"
+}

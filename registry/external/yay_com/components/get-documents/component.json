@@ -1,0 +1,7 @@
+{
+  "key": "yay_com-get-documents",
+  "name": "Get Documents",
+  "description": "Retrieves all documents available. [See the documentation](https://www.yay.com/voip/api-docs/account/document/)",
+  "type": "action",
+  "version": "0.0.2"
+}

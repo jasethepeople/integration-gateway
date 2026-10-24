@@ -1,0 +1,7 @@
+{
+  "key": "pivotal_tracker-create-story",
+  "name": "Create Story",
+  "description": "Create a new story in a project. [See the docs here](https://www.pivotaltracker.com/help/api/rest/v5#projects_project_id_stories_post)",
+  "type": "action",
+  "version": "0.0.2"
+}

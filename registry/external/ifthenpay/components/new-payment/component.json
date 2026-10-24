@@ -1,0 +1,7 @@
+{
+  "key": "ifthenpay-new-payment",
+  "name": "New Payment Completed",
+  "description": "Emit new event when a payment is successfully completed through Ifthenpay. [See the documentation](https://ifthenpay.com/docs/en/)",
+  "type": "source",
+  "version": "0.0.1"
+}

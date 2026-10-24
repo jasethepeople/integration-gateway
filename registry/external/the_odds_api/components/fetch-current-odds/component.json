@@ -1,0 +1,7 @@
+{
+  "key": "the_odds_api-fetch-current-odds",
+  "name": "Fetch Current Odds",
+  "description": "Retrieve the current odds for a specific sport or match. [See the documentation](https://the-odds-api.com/liveapi/guides/v4/#get-event-odds)",
+  "type": "action",
+  "version": "0.0.2"
+}

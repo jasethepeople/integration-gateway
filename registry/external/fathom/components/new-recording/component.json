@@ -1,0 +1,7 @@
+{
+  "key": "fathom-new-recording",
+  "name": "New Recording (Instant)",
+  "description": "Emit new event when a new recording is created. [See the documentation](https://developers.fathom.ai/api-reference/webhooks/create-a-webhook)",
+  "type": "source",
+  "version": "0.0.2"
+}

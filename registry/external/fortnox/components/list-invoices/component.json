@@ -1,0 +1,7 @@
+{
+  "key": "fortnox-list-invoices",
+  "name": "List Invoices",
+  "description": "Retrieve a list of invoices in Fortnox. [See the documentation](https://api.fortnox.se/apidocs#tag/fortnox_Invoices/operation/list_20)",
+  "type": "action",
+  "version": "0.0.1"
+}

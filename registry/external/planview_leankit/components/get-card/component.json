@@ -1,0 +1,7 @@
+{
+  "key": "planview_leankit-get-card",
+  "name": "Get Card",
+  "description": "Get card details by card id. [See the docs here](https://success.planview.com/Planview_AgilePlace/AgilePlace_API/01_v2/card/get)",
+  "type": "action",
+  "version": "0.0.3"
+}

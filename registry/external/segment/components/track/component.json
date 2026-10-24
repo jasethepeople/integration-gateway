@@ -1,0 +1,7 @@
+{
+  "key": "segment-track",
+  "name": "Track actions your users perform",
+  "description": "Track lets you record the actions your users perform (note requires userId or anonymousId). See the docs [here](https://segment.com/docs/connections/sources/catalog/libraries/server/http-api/#track)",
+  "type": "action",
+  "version": "0.3.6"
+}

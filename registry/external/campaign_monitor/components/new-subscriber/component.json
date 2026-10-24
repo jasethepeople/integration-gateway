@@ -1,0 +1,7 @@
+{
+  "key": "campaign_monitor-new-subscriber",
+  "name": "New Subscriber Added",
+  "description": "Emit new event when a new subscriber is added to a specific list",
+  "type": "source",
+  "version": "0.0.1"
+}

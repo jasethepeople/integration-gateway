@@ -1,0 +1,7 @@
+{
+  "key": "zerotier-get-status",
+  "name": "Get Account Status",
+  "description": "Get the overall account status. Returns the overall status of the account tied to the API token in use. [See docs here](https://docs.zerotier.com/central/v1/#operation/getStatus)",
+  "type": "action",
+  "version": "0.0.4"
+}

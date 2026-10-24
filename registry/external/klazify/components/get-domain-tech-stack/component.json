@@ -1,0 +1,7 @@
+{
+  "key": "klazify-get-domain-tech-stack",
+  "name": "Get Domain Tech Stack",
+  "description": "Get the technology stack of a domain. [See the documentation](https://www.klazify.com/category#docs).",
+  "type": "action",
+  "version": "0.0.2"
+}

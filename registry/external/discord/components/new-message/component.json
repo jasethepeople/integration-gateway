@@ -1,0 +1,7 @@
+{
+  "key": "discord-new-message",
+  "name": "New Message (Instant)",
+  "description": "Emit new event for each message posted to one or more channels in a Discord server",
+  "type": "source",
+  "version": "1.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "formsite-list-form-dir-options",
+  "name": "List Form Options",
+  "description": "Retrieves available options for the Form field.",
+  "type": "action",
+  "version": "0.0.1"
+}

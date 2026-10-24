@@ -1,0 +1,7 @@
+{
+  "key": "curated-new-issue-published",
+  "name": "New Issue Published",
+  "description": "Emit new event when a issue is published.",
+  "type": "source",
+  "version": "0.0.2"
+}

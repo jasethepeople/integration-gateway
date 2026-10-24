@@ -1,0 +1,7 @@
+{
+  "key": "yespo-send-email",
+  "name": "Send Email",
+  "description": "Generates and sends an email using the assigned template. [See the documentation](https://docs.yespo.io/reference/sendemail-1)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "bugbug-list-suite-options",
+  "name": "List Suite Options",
+  "description": "Retrieves available options for the Suite field.",
+  "type": "action",
+  "version": "0.0.1"
+}

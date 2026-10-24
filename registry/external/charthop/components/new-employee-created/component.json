@@ -1,0 +1,7 @@
+{
+  "key": "charthop-new-employee-created",
+  "name": "New Employee Created",
+  "description": "Emit new event when a new employee is added to the organization. [See the documentation](https://api.charthop.com/swagger#/person/findPersons)",
+  "type": "source",
+  "version": "0.0.1"
+}

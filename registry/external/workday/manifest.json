@@ -1,0 +1,44 @@
+{
+  "app": "workday",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "workerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "supervisoryOrganizationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobChangeReasonId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "rest_api_endpoint": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "workday-change-business-title",
+    "workday-create-job-change",
+    "workday-get-worker",
+    "workday-list-job-change-reason-id-options",
+    "workday-list-organization-types",
+    "workday-list-supervisory-organization-id-options",
+    "workday-list-supervisory-organizations",
+    "workday-list-worker-id-options",
+    "workday-list-worker-payslips",
+    "workday-search-workers",
+    "workday-new-worker-created"
+  ]
+}

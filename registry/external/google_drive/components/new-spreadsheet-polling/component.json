@@ -1,0 +1,7 @@
+{
+  "key": "google_drive-new-spreadsheet-polling",
+  "name": "New Spreadsheet (Polling)",
+  "description": "Emit new event when a new spreadsheet is created in a drive.",
+  "type": "source",
+  "version": "0.1.0"
+}

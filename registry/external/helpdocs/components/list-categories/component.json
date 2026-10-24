@@ -1,0 +1,7 @@
+{
+  "key": "helpdocs-list-categories",
+  "name": "List Categories",
+  "description": "Retrieve a list of all categories in your HelpDocs knowledge base. [See the documentation](https://apidocs.helpdocs.io/article/hKlKgQuQgs-getting-categories)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,19 @@
+{
+  "app": "upstash_redis",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "databaseId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "uptash_redis_rest_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "upstash_redis-list-databases",
+    "upstash_redis-post-command"
+  ]
+}

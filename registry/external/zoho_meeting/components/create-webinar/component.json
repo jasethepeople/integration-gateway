@@ -1,0 +1,7 @@
+{
+  "key": "zoho_meeting-create-webinar",
+  "name": "Create Webinar",
+  "description": "Creates a webinar. [See the documentation](https://www.zoho.com/meeting/api-integration/webinar-api/create-a-webinar.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

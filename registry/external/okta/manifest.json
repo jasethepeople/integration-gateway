@@ -1,0 +1,54 @@
+{
+  "app": "okta",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "typeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "groupIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "login": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mobilePhone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "okta-create-user",
+    "okta-get-user",
+    "okta-list-type-id-options",
+    "okta-update-user",
+    "okta-watch-new-events"
+  ]
+}

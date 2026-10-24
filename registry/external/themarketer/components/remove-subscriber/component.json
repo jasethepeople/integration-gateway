@@ -1,0 +1,7 @@
+{
+  "key": "themarketer-remove-subscriber",
+  "name": "Remove Subscriber",
+  "description": "Removes a subscriber. [See the documentation](https://developers.themarketer.com/reference/post_api-v1-remove-subscriber)",
+  "type": "action",
+  "version": "0.0.1"
+}

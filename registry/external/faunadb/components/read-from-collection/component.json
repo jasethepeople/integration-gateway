@@ -1,0 +1,7 @@
+{
+  "key": "faunadb-read-from-collection",
+  "name": "Read From Fauna Collection",
+  "description": "Reads all documents from a given Fauna collection. [See docs here](https://docs.fauna.com/fauna/current/api/fql/functions/documents)",
+  "type": "action",
+  "version": "0.4.5"
+}

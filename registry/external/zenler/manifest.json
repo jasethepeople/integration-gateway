@@ -1,0 +1,49 @@
+{
+  "app": "zenler",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "courseId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "liveClassId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "webinarId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "funnelId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "account_name": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zenler-create-user",
+    "zenler-enroll-user",
+    "zenler-register-live-class",
+    "zenler-register-live-webinar",
+    "zenler-subscribe-funnel",
+    "zenler-unenroll-user",
+    "zenler-course-complete",
+    "zenler-lesson-complete",
+    "zenler-new-funnel-subscription",
+    "zenler-new-live-class-registration",
+    "zenler-new-live-interactive-webinar-registration",
+    "zenler-new-user"
+  ]
+}

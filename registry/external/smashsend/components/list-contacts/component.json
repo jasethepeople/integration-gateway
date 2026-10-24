@@ -1,0 +1,7 @@
+{
+  "key": "smashsend-list-contacts",
+  "name": "List Contacts",
+  "description": "List all contacts. [See the documentation](https://smashsend.com/docs/api/contacts)",
+  "type": "action",
+  "version": "0.0.2"
+}

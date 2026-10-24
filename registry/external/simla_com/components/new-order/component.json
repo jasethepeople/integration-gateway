@@ -1,0 +1,7 @@
+{
+  "key": "simla_com-new-order",
+  "name": "New Order",
+  "description": "Emit new event when an order is created. [See the documentation](https://docs.simla.com/Developers/API/APIVersions/APIv5#get--api-v5-orders).",
+  "type": "source",
+  "version": "0.0.1"
+}

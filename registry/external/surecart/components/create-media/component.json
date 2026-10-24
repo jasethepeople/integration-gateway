@@ -1,0 +1,7 @@
+{
+  "key": "surecart-create-media",
+  "name": "Create Media",
+  "description": "Create a new media object from a direct upload. [See the documentation](https://developer.surecart.com/api-reference/medias/create)",
+  "type": "action",
+  "version": "0.0.3"
+}

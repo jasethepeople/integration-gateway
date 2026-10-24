@@ -1,0 +1,121 @@
+{
+  "app": "token_metrics",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "tokenId": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "symbol": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "tokenName": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "category": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "exchange": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "startDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "marketCap": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "volume": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fdv": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "signal": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "blockchainAddress": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "slug": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "expand": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "topK": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sortBy": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "indicesType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "id": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "token_metrics-get-ai-reports",
+    "token_metrics-get-correlation",
+    "token_metrics-get-crypto-investors",
+    "token_metrics-get-daily-ohlcv",
+    "token_metrics-get-fundamental-grades-historical",
+    "token_metrics-get-fundamental-grades",
+    "token_metrics-get-hourly-ohlcv",
+    "token_metrics-get-hourly-trading-signals",
+    "token_metrics-get-indices-holdings",
+    "token_metrics-get-indices-performance",
+    "token_metrics-get-indices",
+    "token_metrics-get-market-metrics",
+    "token_metrics-get-moonshot-tokens",
+    "token_metrics-get-price-prediction",
+    "token_metrics-get-price",
+    "token_metrics-get-quantmetrics",
+    "token_metrics-get-resistance-support",
+    "token_metrics-get-technology-grades-historical",
+    "token_metrics-get-technology-grades",
+    "token_metrics-get-tm-grades-historical",
+    "token_metrics-get-tm-grades",
+    "token_metrics-get-tokens",
+    "token_metrics-get-top-market-cap-tokens",
+    "token_metrics-get-trading-signals"
+  ]
+}

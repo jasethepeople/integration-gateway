@@ -1,0 +1,20 @@
+{
+  "app": "dext",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "client": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dext-get-client-activity-stats",
+    "dext-get-client",
+    "dext-new-client-added"
+  ]
+}

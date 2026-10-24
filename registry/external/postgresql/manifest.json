@@ -1,0 +1,58 @@
+{
+  "app": "postgresql",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "schema": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "table": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "column": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "values": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "value": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "rowValues": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "pd_schema_explorer_retrieve_all": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "postgresql-delete-rows",
+    "postgresql-execute-custom-query",
+    "postgresql-find-row-custom-query",
+    "postgresql-find-row",
+    "postgresql-insert-row",
+    "postgresql-list-schema-options",
+    "postgresql-update-row",
+    "postgresql-upsert-row",
+    "postgresql-new-column",
+    "postgresql-new-or-updated-row",
+    "postgresql-new-row-custom-query",
+    "postgresql-new-row",
+    "postgresql-new-table"
+  ],
+  "npmImports": [
+    "pg",
+    "pg-format"
+  ]
+}

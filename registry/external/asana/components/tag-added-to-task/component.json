@@ -1,0 +1,7 @@
+{
+  "key": "asana-tag-added-to-task",
+  "name": "New Tag Added To Task (Instant)",
+  "description": "Emit new event for each new tag added to a task.",
+  "type": "source",
+  "version": "0.1.15"
+}

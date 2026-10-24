@@ -1,0 +1,7 @@
+{
+  "key": "hippo_video-send-personalization-request",
+  "name": "Send Personalization Request",
+  "description": "Sends a personalization request for a specified video. [See the documentation](https://help.hippovideo.io/support/solutions/articles/19000099793-bulk-video-personalization-and-tracking-api)",
+  "type": "action",
+  "version": "1.0.4"
+}

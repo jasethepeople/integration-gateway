@@ -1,0 +1,7 @@
+{
+  "key": "bluesnap-create-vaulted-shopper",
+  "name": "Create Vaulted Shopper",
+  "description": "Create a vaulted shopper (stored customer) record in BlueSnap. Returns a vaultedShopperId usable in **Create Transaction**, **Get Vaulted Shopper**, and **Update Vaulted Shopper**. [See the documentation](https://developers.bluesnap.com/v8976-JSON/reference/create-vaulted-shopper)",
+  "type": "action",
+  "version": "0.0.1"
+}

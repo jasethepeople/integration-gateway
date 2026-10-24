@@ -1,0 +1,7 @@
+{
+  "key": "simplesat-new-answer",
+  "name": "New Answer",
+  "description": "Emit new event when a new answer is created",
+  "type": "source",
+  "version": "0.0.3"
+}

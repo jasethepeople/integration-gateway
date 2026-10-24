@@ -1,0 +1,31 @@
+{
+  "app": "robly",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "listId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "robly-add-contact-to-list",
+    "robly-create-contact",
+    "robly-list-list-id-options",
+    "robly-remove-contact-from-list",
+    "robly-new-contact",
+    "robly-new-list"
+  ]
+}

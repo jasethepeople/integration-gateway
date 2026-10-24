@@ -1,0 +1,7 @@
+{
+  "key": "connectwise_psa-create-company",
+  "name": "Create Company",
+  "description": "Creates a new company in Connectwise. [See the documentation](https://developer.connectwise.com/Products/ConnectWise_PSA/REST#/Companies/postCompanyCompanies)",
+  "type": "action",
+  "version": "0.0.4"
+}

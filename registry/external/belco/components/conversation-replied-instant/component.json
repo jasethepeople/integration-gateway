@@ -1,0 +1,7 @@
+{
+  "key": "belco-conversation-replied-instant",
+  "name": "Conversation Replied (Instant)",
+  "description": "Emit new event for each new conversation replied event",
+  "type": "source",
+  "version": "0.0.3"
+}

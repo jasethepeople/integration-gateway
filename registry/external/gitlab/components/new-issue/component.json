@@ -1,0 +1,7 @@
+{
+  "key": "gitlab-new-issue",
+  "name": "New Issue (Instant)",
+  "description": "Emit new event when an issue is created in a project",
+  "type": "source",
+  "version": "0.1.3"
+}

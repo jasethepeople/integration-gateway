@@ -1,0 +1,7 @@
+{
+  "key": "pipedream_utils-compare-arrays",
+  "name": "Helper Functions - Compare Arrays",
+  "description": "Get the difference, intersection, union, or symetric difference of two arrays/sets.",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "billbee-list-carrier-id-options",
+  "name": "List Carrier ID Options",
+  "description": "Retrieves available options for the Carrier ID field.",
+  "type": "action",
+  "version": "0.0.2"
+}

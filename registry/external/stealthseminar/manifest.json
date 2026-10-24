@@ -1,0 +1,19 @@
+{
+  "app": "stealthseminar",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "shortId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "stealthseminar-get-registration-information",
+    "stealthseminar-register-for-webinar"
+  ]
+}

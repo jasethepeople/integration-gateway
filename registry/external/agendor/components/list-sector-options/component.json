@@ -1,0 +1,7 @@
+{
+  "key": "agendor-list-sector-options",
+  "name": "List Sector Options",
+  "description": "Retrieves available options for the Sector field.",
+  "type": "action",
+  "version": "0.0.1"
+}

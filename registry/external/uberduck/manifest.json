@@ -1,0 +1,45 @@
+{
+  "app": "uberduck",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "voicemodelUuid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "language": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "isPrivate": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "owner": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "secret_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "uberduck-generate-lyrics",
+    "uberduck-get-voice-samples",
+    "uberduck-get-voices",
+    "uberduck-list-voicemodel-uuid-options"
+  ]
+}

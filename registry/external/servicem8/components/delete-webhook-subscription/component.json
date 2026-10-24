@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-delete-webhook-subscription",
+  "name": "Delete Webhook Subscription",
+  "description": "Delete a webhook subscription by object type. [See the documentation](https://developer.servicem8.com/reference/delete_webhook_subscriptions)",
+  "type": "action",
+  "version": "0.0.1"
+}

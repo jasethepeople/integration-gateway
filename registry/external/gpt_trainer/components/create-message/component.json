@@ -1,0 +1,7 @@
+{
+  "key": "gpt_trainer-create-message",
+  "name": "Create Message",
+  "description": "Create a session message for a chatbot session specified by session UUID. [See the documentation](https://guide.gpt-trainer.com/api-reference/messages/create)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "speak_ai-new-media-created-instant",
+  "name": "New Media Created (Instant)",
+  "description": "Emit new event when a new media file is created. Useful for initiating workflows based on new media intake. [See the documentation](https://docs.speakai.co/api/webhooks/#post-webhook).",
+  "type": "source",
+  "version": "0.0.2"
+}

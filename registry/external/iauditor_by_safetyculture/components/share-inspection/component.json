@@ -1,0 +1,7 @@
+{
+  "key": "iauditor_by_safetyculture-share-inspection",
+  "name": "Share Inspection",
+  "description": "Share an inspection with one or more users in iAuditor by SafetyCulture. [See the documentation](https://developer.safetyculture.com/reference/thepubservice_shareinspection)",
+  "type": "action",
+  "version": "0.0.2"
+}

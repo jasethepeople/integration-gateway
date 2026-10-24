@@ -1,0 +1,7 @@
+{
+  "key": "billbee-list-shipment-type-options",
+  "name": "List Shipment Type Options",
+  "description": "Retrieves available options for the Shipment Type field.",
+  "type": "action",
+  "version": "0.0.2"
+}

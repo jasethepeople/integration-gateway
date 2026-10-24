@@ -1,0 +1,33 @@
+{
+  "app": "kiyoh",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "locationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "reviewId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tenantId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "kiyoh-get-all-reviews",
+    "kiyoh-list-location-id-options",
+    "kiyoh-review-change-request",
+    "kiyoh-review-response"
+  ]
+}

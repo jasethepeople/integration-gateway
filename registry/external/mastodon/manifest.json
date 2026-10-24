@@ -1,0 +1,89 @@
+{
+  "app": "mastodon",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "list": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "statusId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userStatusId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "bookmarkedStatusId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "favoriteStatusId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "local": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "remote": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "onlyMedia": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sensitive": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "spoilerText": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "max": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "site_domain": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mastodon-bookmark-status",
+    "mastodon-boost-status",
+    "mastodon-delete-status",
+    "mastodon-edit-status",
+    "mastodon-favorite-status",
+    "mastodon-get-accounts-following",
+    "mastodon-mute-conversation",
+    "mastodon-perform-search",
+    "mastodon-pin-status",
+    "mastodon-post-multiple-statuses",
+    "mastodon-post-status",
+    "mastodon-unbookmark-status",
+    "mastodon-unboost-status",
+    "mastodon-unfavorite-status",
+    "mastodon-unmute-conversation",
+    "mastodon-unpin-status",
+    "mastodon-view-hashtag-timeline",
+    "mastodon-view-home-timeline",
+    "mastodon-view-list-timeline",
+    "mastodon-view-public-timeline",
+    "mastodon-view-single-status",
+    "mastodon-new-bookmark",
+    "mastodon-new-status-boosted",
+    "mastodon-new-status-favorited",
+    "mastodon-new-status"
+  ],
+  "npmImports": [
+    "axios"
+  ]
+}

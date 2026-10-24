@@ -1,0 +1,40 @@
+{
+  "app": "roamresearch",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "resourceType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pageOrBlock": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "content": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "nestUnder": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "roamresearch-add-content-to-daily-note-page",
+    "roamresearch-add-content-to-page",
+    "roamresearch-add-content-underneath-block",
+    "roamresearch-append-blocks",
+    "roamresearch-get-page-or-block-data",
+    "roamresearch-pull-many",
+    "roamresearch-pull",
+    "roamresearch-query",
+    "roamresearch-search-title",
+    "roamresearch-write",
+    "roamresearch-new-modified-linked-reference"
+  ]
+}

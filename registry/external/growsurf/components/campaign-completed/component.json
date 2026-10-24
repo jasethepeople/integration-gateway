@@ -1,0 +1,7 @@
+{
+  "key": "growsurf-campaign-completed",
+  "name": "Campaign Completed",
+  "description": "Emit new event when a campaign is completed. [See the documentation](https://docs.growsurf.com/developer-tools/rest-api/api-reference#get-campaigns)",
+  "type": "source",
+  "version": "0.0.1"
+}

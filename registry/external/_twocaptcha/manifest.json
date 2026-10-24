@@ -1,0 +1,26 @@
+{
+  "app": "_twocaptcha",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "clientKey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "task": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "_twocaptcha-check-account-balance",
+    "_twocaptcha-retrieve-solution",
+    "_twocaptcha-submit-captcha",
+    "_twocaptcha-balance-updated",
+    "_twocaptcha-captcha-solved"
+  ]
+}

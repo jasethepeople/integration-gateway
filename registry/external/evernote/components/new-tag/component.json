@@ -1,0 +1,7 @@
+{
+  "key": "evernote-new-tag",
+  "name": "New Tag Created",
+  "description": "Emit new event when a new tag is created in Evernote. Useful for tracking new organizational labels.",
+  "type": "source",
+  "version": "0.0.3"
+}

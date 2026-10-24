@@ -1,0 +1,7 @@
+{
+  "key": "connectwise_psa-list-market-options",
+  "name": "List Market Options",
+  "description": "Retrieves available options for the Market field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "twilio-get-transcripts",
+  "name": "Get Transcripts",
+  "description": "Retrieves full transcripts for the specified transcript SIDs. [See the documentation](https://www.twilio.com/docs/voice/intelligence/api/transcript-sentence-resource#get-transcript-sentences)",
+  "type": "action",
+  "version": "0.0.3"
+}

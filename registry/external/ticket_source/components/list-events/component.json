@@ -1,0 +1,7 @@
+{
+  "key": "ticket_source-list-events",
+  "name": "List Events",
+  "description": "Retrieves a list of all events. [See the documentation](https://reference.ticketsource.io/#/operations/get-events/)",
+  "type": "action",
+  "version": "0.0.1"
+}

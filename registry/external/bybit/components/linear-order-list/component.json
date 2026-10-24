@@ -1,0 +1,7 @@
+{
+  "key": "bybit-linear-order-list",
+  "name": "ByBit Linear Order List",
+  "description": "List of active orders.",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,19 @@
+{
+  "app": "zerobounce",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zerobounce-ai-scoring",
+    "zerobounce-get-validation-results-file",
+    "zerobounce-validate-email"
+  ],
+  "npmImports": [
+    "fs"
+  ]
+}

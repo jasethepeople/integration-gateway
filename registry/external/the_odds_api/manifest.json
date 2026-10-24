@@ -1,0 +1,29 @@
+{
+  "app": "the_odds_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "sport": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "event": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "the_odds_api-fetch-current-odds",
+    "the_odds_api-get-upcoming-events",
+    "the_odds_api-list-sport-options",
+    "the_odds_api-new-odd-updated",
+    "the_odds_api-new-sport-event"
+  ],
+  "npmImports": [
+    "dayjs"
+  ]
+}

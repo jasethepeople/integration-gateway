@@ -1,0 +1,7 @@
+{
+  "key": "telnyx-get-messaging-profiles",
+  "name": "Get Messaging Profiles",
+  "description": "Get a list of messaging profiles. [See the documentation](https://developers.telnyx.com/api/messaging/list-messaging-profiles)",
+  "type": "action",
+  "version": "0.0.6"
+}

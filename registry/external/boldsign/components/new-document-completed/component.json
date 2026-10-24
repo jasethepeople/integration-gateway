@@ -1,0 +1,7 @@
+{
+  "key": "boldsign-new-document-completed",
+  "name": "New Document Completed",
+  "description": "Emit new event when a document is completed by all the signers.",
+  "type": "source",
+  "version": "0.0.1"
+}

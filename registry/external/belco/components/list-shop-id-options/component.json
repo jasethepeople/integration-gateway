@@ -1,0 +1,7 @@
+{
+  "key": "belco-list-shop-id-options",
+  "name": "List Shop ID Options",
+  "description": "Retrieves available options for the Shop ID field.",
+  "type": "action",
+  "version": "0.0.3"
+}

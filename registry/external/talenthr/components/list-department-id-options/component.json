@@ -1,0 +1,7 @@
+{
+  "key": "talenthr-list-department-id-options",
+  "name": "List Department ID Options",
+  "description": "Retrieves available options for the Department ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

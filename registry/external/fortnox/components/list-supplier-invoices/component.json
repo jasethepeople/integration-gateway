@@ -1,0 +1,7 @@
+{
+  "key": "fortnox-list-supplier-invoices",
+  "name": "List Supplier Invoices",
+  "description": "List all invoices for a supplier. [See the documentation](https://api.fortnox.se/apidocs#tag/fortnox_SupplierInvoices/operation/list_39)",
+  "type": "action",
+  "version": "0.0.1"
+}

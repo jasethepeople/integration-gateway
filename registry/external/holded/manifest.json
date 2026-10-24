@@ -1,0 +1,27 @@
+{
+  "app": "holded",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "documentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "paymentMethod": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "holded-create-contact",
+    "holded-list-payment-method-options",
+    "holded-send-email",
+    "holded-update-invoice",
+    "holded-contact-created",
+    "holded-invoice-created"
+  ]
+}

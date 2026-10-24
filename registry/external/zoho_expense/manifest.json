@@ -1,0 +1,40 @@
+{
+  "app": "zoho_expense",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "organizationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "currencyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tripId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "expenseReportId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zoho_expense-create-expense",
+    "zoho_expense-list-organization-id-options",
+    "zoho_expense-reject-travel-request",
+    "zoho_expense-update-expense-report",
+    "zoho_expense-expense-report-approved",
+    "zoho_expense-expense-report-submitted",
+    "zoho_expense-travel-request-approved"
+  ]
+}

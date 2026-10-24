@@ -1,0 +1,7 @@
+{
+  "key": "crove_app-get-document-details",
+  "name": "Get Document Details",
+  "description": "Get details of a document. Example: Name, Current Status, etc.",
+  "type": "action",
+  "version": "1.0.3"
+}

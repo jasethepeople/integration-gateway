@@ -1,0 +1,7 @@
+{
+  "key": "everhour-create-task",
+  "name": "Create Task",
+  "description": "Creates a new task in Everhour. [See the documentation](https://everhour.docs.apiary.io/)",
+  "type": "action",
+  "version": "0.0.2"
+}

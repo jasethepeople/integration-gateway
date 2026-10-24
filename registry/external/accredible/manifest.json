@@ -1,0 +1,44 @@
+{
+  "app": "accredible",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "credentialId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recipientEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recipientName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "credentialData": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "accredible-create-credential",
+    "accredible-delete-credential",
+    "accredible-list-credential-id-options",
+    "accredible-list-group-id-options",
+    "accredible-update-credential",
+    "accredible-issued-credential",
+    "accredible-updated-credential"
+  ]
+}

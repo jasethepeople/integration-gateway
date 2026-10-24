@@ -1,0 +1,7 @@
+{
+  "key": "jira_service_desk-get-current-user",
+  "name": "Get Current User",
+  "description": "Returns the authenticated user's `account_id`, `display_name`, and `email` from Atlassian.",
+  "type": "action",
+  "version": "0.0.9"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "coupontools-list-directory-id-options",
+  "name": "List Directory ID Options",
+  "description": "Retrieves available options for the Directory ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

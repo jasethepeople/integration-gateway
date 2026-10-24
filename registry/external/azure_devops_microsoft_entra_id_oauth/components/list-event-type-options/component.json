@@ -1,0 +1,7 @@
+{
+  "key": "azure_devops_microsoft_entra_id_oauth-list-event-type-options",
+  "name": "List Event Type Options",
+  "description": "Retrieves available options for the Event Type field.",
+  "type": "action",
+  "version": "0.0.1"
+}

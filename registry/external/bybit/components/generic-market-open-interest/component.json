@@ -1,0 +1,7 @@
+{
+  "key": "bybit-generic-market-open-interest",
+  "name": "ByBit Generic Market Open Interest",
+  "description": "Gets the total amount of unsettled contracts. In other words, the total number of contracts held ",
+  "type": "action",
+  "version": "0.0.2"
+}

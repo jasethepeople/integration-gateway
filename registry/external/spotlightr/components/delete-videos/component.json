@@ -1,0 +1,7 @@
+{
+  "key": "spotlightr-delete-videos",
+  "name": "Delete Videos",
+  "description": "Delete videos from your account. [See the documentation](https://app.spotlightr.com/docs/api/#deleteVideo)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "greenhouse-new-scheduled-interview",
+  "name": "New Scheduled Interview",
+  "description": "Emit new event when a new interview is scheduled within a specific time period.",
+  "type": "source",
+  "version": "0.0.1"
+}

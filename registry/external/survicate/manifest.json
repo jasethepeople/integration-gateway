@@ -1,0 +1,46 @@
+{
+  "app": "survicate",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "surveyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "responseId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "respondentUuid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "itemsPerPage": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "start": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "end": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "survicate-delete-personal-data",
+    "survicate-get-personal-data-counters",
+    "survicate-get-response",
+    "survicate-get-survey",
+    "survicate-list-questions",
+    "survicate-list-respondent-attributes",
+    "survicate-list-respondent-responses",
+    "survicate-list-responses",
+    "survicate-list-surveys"
+  ]
+}

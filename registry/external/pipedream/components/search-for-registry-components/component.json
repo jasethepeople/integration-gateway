@@ -1,0 +1,7 @@
+{
+  "key": "pipedream-search-for-registry-components",
+  "name": "Search For Registry Components",
+  "description": "Search for components in the Pipedream global registry using a query string. [See the documentation](https://pipedream.com/docs/rest-api/api-reference/components/search-for-registry-components)",
+  "type": "action",
+  "version": "0.0.1"
+}

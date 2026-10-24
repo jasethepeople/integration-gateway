@@ -1,0 +1,7 @@
+{
+  "key": "trakt-new-show-or-movie-watched",
+  "name": "New Show Or Movie Watched",
+  "description": "Emit new event on each new watched show or movie.",
+  "type": "source",
+  "version": "0.0.3"
+}

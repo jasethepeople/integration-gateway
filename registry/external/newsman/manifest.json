@@ -1,0 +1,45 @@
+{
+  "app": "newsman",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "listId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subscriberId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "segmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "user_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "newsman-add-subscriber-to-segment",
+    "newsman-create-subscriber",
+    "newsman-list-list-id-options",
+    "newsman-update-subscriber"
+  ]
+}

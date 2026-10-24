@@ -1,0 +1,7 @@
+{
+  "key": "wisepops-new-phone-collected",
+  "name": "New Phone Collected (Instant)",
+  "description": "Emit new event when a new phone is received",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "surecart-update-return-request",
+  "name": "Update Return Request",
+  "description": "Update an existing return request. [See the documentation](https://developer.surecart.com/api-reference/return-requests/update)",
+  "type": "action",
+  "version": "0.0.3"
+}

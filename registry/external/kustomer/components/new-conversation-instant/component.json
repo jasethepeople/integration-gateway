@@ -1,0 +1,7 @@
+{
+  "key": "kustomer-new-conversation-instant",
+  "name": "New Conversation Created (Instant)",
+  "description": "Emit new event when a conversation is created in Kustomer.",
+  "type": "source",
+  "version": "0.0.2"
+}

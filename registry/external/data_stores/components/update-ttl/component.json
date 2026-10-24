@@ -1,0 +1,7 @@
+{
+  "key": "data_stores-update-ttl",
+  "name": "Update Record Expiration",
+  "description": "Update the expiration time for a record in your [Pipedream Data Store](https://pipedream.com/data-stores/).",
+  "type": "action",
+  "version": "0.0.3"
+}

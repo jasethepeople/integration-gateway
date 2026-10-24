@@ -1,0 +1,7 @@
+{
+  "key": "smartsheet-update-row",
+  "name": "Update Row",
+  "description": "Update one or more rows in a sheet by row ID, addressing cells by column NAME rather than column ID.",
+  "type": "action",
+  "version": "1.1.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "leaddyno-list-lead-email-options",
+  "name": "List Lead Email Options",
+  "description": "Retrieves available options for the Lead Email field.",
+  "type": "action",
+  "version": "0.0.1"
+}

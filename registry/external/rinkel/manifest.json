@@ -1,0 +1,38 @@
+{
+  "app": "rinkel",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "callId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recordingId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "voicemailId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "noteId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "rinkel-add-note",
+    "rinkel-get-call-details",
+    "rinkel-get-call-recording",
+    "rinkel-get-voicemail",
+    "rinkel-list-call-id-options",
+    "rinkel-list-recording-id-options",
+    "rinkel-list-voicemail-id-options",
+    "rinkel-update-note",
+    "rinkel-call-ended"
+  ]
+}

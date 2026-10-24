@@ -1,0 +1,7 @@
+{
+  "key": "recreation_gov-list-rec-area-id-options",
+  "name": "List Recreation Area Id Options",
+  "description": "Retrieves available options for the Recreation Area Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

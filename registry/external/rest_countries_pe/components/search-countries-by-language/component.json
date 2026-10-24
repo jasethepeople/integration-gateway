@@ -1,0 +1,7 @@
+{
+  "key": "rest_countries_pe-search-countries-by-language",
+  "name": "Search Countries By Language",
+  "description": "Search for a country or countries by language. [See the docs](https://restcountries.com/#endpoints-language)",
+  "type": "action",
+  "version": "0.0.2"
+}

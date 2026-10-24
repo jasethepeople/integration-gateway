@@ -1,0 +1,7 @@
+{
+  "key": "transform-submit-form",
+  "name": "Submit Form",
+  "description": "Form Data in JSON format",
+  "type": "action",
+  "version": "0.0.2"
+}

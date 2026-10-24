@@ -1,0 +1,7 @@
+{
+  "key": "veedea-new-product-purchase-created",
+  "name": "New Product Purchase Created",
+  "description": "Emit new event when a new product purchase is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

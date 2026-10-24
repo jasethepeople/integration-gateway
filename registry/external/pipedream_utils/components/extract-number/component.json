@@ -1,0 +1,7 @@
+{
+  "key": "pipedream_utils-extract-number",
+  "name": "Formatting - [Text] Extract Number",
+  "description": "Find a number out of a text field. Finds the first number only.",
+  "type": "action",
+  "version": "0.0.6"
+}

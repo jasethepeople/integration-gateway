@@ -1,0 +1,7 @@
+{
+  "key": "zoom_admin-user-activated",
+  "name": "New User Activated",
+  "description": "Emit new event each time a user is activated in your Zoom account",
+  "type": "source",
+  "version": "0.1.9"
+}

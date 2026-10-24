@@ -1,0 +1,29 @@
+{
+  "app": "sendbird_ai_chabot",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "botId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "channelUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "application_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sendbird_ai_chabot-list-bot-id-options",
+    "sendbird_ai_chabot-list-channel-url-options",
+    "sendbird_ai_chabot-send-bot-message",
+    "sendbird_ai_chabot-new-event-received"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "xero_accounting_api-get-tenant-connections",
+  "name": "Get Tenant Connections",
+  "description": "Gets the tenants connections the user is authorized to access",
+  "type": "action",
+  "version": "0.1.4"
+}

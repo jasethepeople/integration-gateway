@@ -1,0 +1,7 @@
+{
+  "key": "apollo_io-account-updated",
+  "name": "Account Updated",
+  "description": "Emit new event when an account is updated. [See the documentation](https://apolloio.github.io/apollo-api-docs/?shell#search-for-contacts)",
+  "type": "source",
+  "version": "0.0.7"
+}

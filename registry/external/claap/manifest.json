@@ -1,0 +1,27 @@
+{
+  "app": "claap",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "recordingId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "channelId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "claap-create-recording",
+    "claap-delete-recording",
+    "claap-get-recording-details",
+    "claap-get-recording-transcript",
+    "claap-list-recordings",
+    "claap-new-recording"
+  ]
+}

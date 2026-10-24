@@ -1,0 +1,39 @@
+{
+  "app": "knorish",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "courseId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "bundleId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "app_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "knorish-add-user-in-course",
+    "knorish-create-user",
+    "knorish-list-bundle-id-options",
+    "knorish-list-course-id-options",
+    "knorish-list-user-id-options",
+    "knorish-bundle-purchased",
+    "knorish-new-signup"
+  ],
+  "npmImports": [
+    "moment"
+  ]
+}

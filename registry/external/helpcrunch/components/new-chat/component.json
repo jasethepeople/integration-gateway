@@ -1,0 +1,7 @@
+{
+  "key": "helpcrunch-new-chat",
+  "name": "New Chat",
+  "description": "Emit new event when a new chat is created. [See the documentation](https://docs.helpcrunch.com/en/rest-api-v1/search-chats-v1)",
+  "type": "source",
+  "version": "0.0.1"
+}

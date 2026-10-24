@@ -1,0 +1,49 @@
+{
+  "app": "gladia",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "audio": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "audioUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "languageBehaviour": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "toggleNoiseReduction": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "transcriptionHint": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "toggleDiarization": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "targetTranslationLanguage": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "toggleDirectTranslate": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "gladia-send-audio-for-transcription"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

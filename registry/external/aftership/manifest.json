@@ -1,0 +1,157 @@
+{
+  "app": "aftership",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "trackingId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "trackingNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "slug": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderIdPath": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customFields": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "language": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "smses": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "emails": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "customerName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderPromisedDeliveryDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "deliveryType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pickupLocation": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pickupNote": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "trackingAccountNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "trackingKey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "trackingShipDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "originCountryIso3": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "originState": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "originCity": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "originPostalCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "originRawLocation": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "destinationCountryIso3": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "destinationState": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "destinationCity": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "destinationPostalCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "destinationRawLocation": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "note": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "slugGroup": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shipmentType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shipmentTags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "aftership-create-tracking",
+    "aftership-get-tracking",
+    "aftership-list-tracking-id-options",
+    "aftership-update-tracking",
+    "aftership-shipment-status-updated"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

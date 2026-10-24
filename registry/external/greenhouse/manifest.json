@@ -1,0 +1,91 @@
+{
+  "app": "greenhouse",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "company": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phoneNumbers": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "addressses": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "emailAddresses": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "websiteAddresses": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "socialMediaAddresses": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "customFields": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "recruiterEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "coordinatorEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "educations": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "candidateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "greenhouse-add-attachment-to-candidate",
+    "greenhouse-create-candidate",
+    "greenhouse-create-prospect",
+    "greenhouse-list-candidate-id-options",
+    "greenhouse-list-educations-options",
+    "greenhouse-list-job-ids-options",
+    "greenhouse-list-user-id-options",
+    "greenhouse-new-candidate-application",
+    "greenhouse-new-scheduled-interview",
+    "greenhouse-watch-candidates"
+  ]
+}

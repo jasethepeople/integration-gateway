@@ -1,0 +1,65 @@
+{
+  "app": "raindrop",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "collectionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "raindropId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "expanded": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sort": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "public": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "view": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cover": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "raindrop-create-collection",
+    "raindrop-delete-bookmark",
+    "raindrop-delete-collection",
+    "raindrop-get-bookmark",
+    "raindrop-get-collection",
+    "raindrop-list-collections",
+    "raindrop-parse-bookmark-file",
+    "raindrop-retrieve-bookmarks",
+    "raindrop-save",
+    "raindrop-update-bookmark",
+    "raindrop-update-collection",
+    "raindrop-new-bookmark",
+    "raindrop-new-tag-added-to-bookmark"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

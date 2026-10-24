@@ -1,0 +1,7 @@
+{
+  "key": "encharge-archive-person",
+  "name": "Archive Person",
+  "description": "Archive a person in Encharge. [See the documentation](https://app-encharge-resources.s3.amazonaws.com/redoc.html#/people/archivepeople)",
+  "type": "action",
+  "version": "0.0.1"
+}

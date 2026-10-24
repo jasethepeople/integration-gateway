@@ -1,0 +1,7 @@
+{
+  "key": "freshservice-create-ticket",
+  "name": "Create Ticket",
+  "description": "Create a new ticket. [See the documentation](https://api.freshservice.com/#create_ticket)",
+  "type": "action",
+  "version": "0.0.2"
+}

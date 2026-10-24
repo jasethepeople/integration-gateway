@@ -1,0 +1,7 @@
+{
+  "key": "monkeylearn-upload-training-data",
+  "name": "Upload Training Data",
+  "description": "Uploads data to a classifier. This component can be used to upload new data to a classifier, to update the tags of texts that have already been uploaded, or both. [See the docs here](https://monkeylearn.com/api/v3/#upload-classifier-data)",
+  "type": "action",
+  "version": "0.0.2"
+}

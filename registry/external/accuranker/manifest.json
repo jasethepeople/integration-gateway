@@ -1,0 +1,37 @@
+{
+  "app": "accuranker",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "domainId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "keywordId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "periodFrom": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "periodTo": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "max": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "accuranker-list-brands",
+    "accuranker-list-domain-id-options",
+    "accuranker-list-domains",
+    "accuranker-list-keywords"
+  ]
+}

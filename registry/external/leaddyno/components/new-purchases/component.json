@@ -1,0 +1,7 @@
+{
+  "key": "leaddyno-new-purchases",
+  "name": "New Purchases",
+  "description": "Emit new event when a new purchase is created in LeadDyno. [See the documentation](https://app.theneo.io/leaddyno/leaddyno-rest-api/purchases/get-purchases)",
+  "type": "source",
+  "version": "0.0.1"
+}

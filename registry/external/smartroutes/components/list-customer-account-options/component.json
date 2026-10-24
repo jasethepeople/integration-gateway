@@ -1,0 +1,7 @@
+{
+  "key": "smartroutes-list-customer-account-options",
+  "name": "List Customer Account Number Options",
+  "description": "Retrieves available options for the Customer Account Number field.",
+  "type": "action",
+  "version": "0.0.1"
+}

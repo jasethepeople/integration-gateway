@@ -1,0 +1,20 @@
+{
+  "app": "easy_peasy_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "language": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "easy_peasy_ai-create-transcription",
+    "easy_peasy_ai-generate-image",
+    "easy_peasy_ai-generate-text"
+  ]
+}

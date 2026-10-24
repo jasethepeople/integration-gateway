@@ -1,0 +1,7 @@
+{
+  "key": "timebuzzer-update-activity",
+  "name": "Update Activity",
+  "description": "Modifies an existing activity in Timebuzzer. [See the documentation](https://my.timebuzzer.com/doc/#api-Activities-EditActivity)",
+  "type": "action",
+  "version": "0.0.2"
+}

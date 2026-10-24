@@ -1,0 +1,20 @@
+{
+  "app": "publisherkit",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "publisherkit-create-image",
+    "publisherkit-list-template-id-options",
+    "publisherkit-new-template"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "mews-add-reservation-product",
+  "name": "Add Reservation Product",
+  "description": "Add a product to a reservation. [See the documentation](https://mews-systems.gitbook.io/connector-api/operations/reservations#add-reservation-product)",
+  "type": "action",
+  "version": "0.0.3"
+}

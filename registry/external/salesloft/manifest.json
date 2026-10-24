@@ -1,0 +1,41 @@
+{
+  "app": "salesloft",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "personId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recordId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cadenceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "salesloft-add-person-to-cadence",
+    "salesloft-create-note",
+    "salesloft-create-person",
+    "salesloft-list-cadence-id-options",
+    "salesloft-list-person-id-options",
+    "salesloft-list-user-id-options",
+    "salesloft-cadence-updated-instant",
+    "salesloft-new-email-activity-instant",
+    "salesloft-new-person-instant"
+  ],
+  "npmImports": [
+    "uuid"
+  ]
+}

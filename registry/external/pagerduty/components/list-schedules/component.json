@@ -1,0 +1,7 @@
+{
+  "key": "pagerduty-list-schedules",
+  "name": "List Schedules",
+  "description": "List on-call schedules in the PagerDuty account, optionally filtered by name.",
+  "type": "action",
+  "version": "0.0.2"
+}

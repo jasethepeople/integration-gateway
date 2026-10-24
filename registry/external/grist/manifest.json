@@ -1,0 +1,34 @@
+{
+  "app": "grist",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "docId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tableId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "noParse": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "records": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "grist-add-records",
+    "grist-add-update-records",
+    "grist-find-records",
+    "grist-new-or-updated-record-instant",
+    "grist-new-record-instant"
+  ]
+}

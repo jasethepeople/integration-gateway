@@ -1,0 +1,46 @@
+{
+  "app": "eppo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "flagId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "entityId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "withCalculatedMetrics": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "withFullCupedData": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "offset": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "eppo-create-experiment",
+    "eppo-create-feature-flag",
+    "eppo-get-experiment-results",
+    "eppo-get-feature-flag",
+    "eppo-list-experiments",
+    "eppo-list-feature-flags",
+    "eppo-list-metrics",
+    "eppo-toggle-feature-flag",
+    "eppo-upsert-metric"
+  ]
+}

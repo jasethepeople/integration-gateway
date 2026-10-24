@@ -1,0 +1,7 @@
+{
+  "key": "coda-copy-doc",
+  "name": "Copy Doc",
+  "description": "Creates a copy of the specified doc. [See docs](https://coda.io/developers/apis/v1#operation/createDoc)",
+  "type": "action",
+  "version": "0.0.6"
+}

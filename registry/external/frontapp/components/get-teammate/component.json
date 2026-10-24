@@ -1,0 +1,7 @@
+{
+  "key": "frontapp-get-teammate",
+  "name": "Get Teammate",
+  "description": "Retrieve a teammate by ID. [See the documentation](https://dev.frontapp.com/reference/get-teammate)",
+  "type": "action",
+  "version": "0.0.7"
+}

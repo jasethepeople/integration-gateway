@@ -1,0 +1,7 @@
+{
+  "key": "clerk-get-user",
+  "name": "Get User",
+  "description": "Retrieve the details of a specific user. [See the documentation](https://clerk.com/docs/reference/backend-api/tag/Users#operation/GetUser)",
+  "type": "action",
+  "version": "0.0.2"
+}

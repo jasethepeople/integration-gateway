@@ -1,0 +1,7 @@
+{
+  "key": "teamgate-list-lead-status-id-options",
+  "name": "List Lead Status Id Options",
+  "description": "Retrieves available options for the Lead Status Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

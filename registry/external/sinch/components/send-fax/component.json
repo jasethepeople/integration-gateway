@@ -1,0 +1,7 @@
+{
+  "key": "sinch-send-fax",
+  "name": "Send Fax",
+  "description": "Send a fax to a contact. [See the documentation](https://developers.sinch.com/docs/fax/api-reference/fax/tag/Faxes/#tag/Faxes/operation/sendFax)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_power_bi-add-rows-to-push-dataset",
+  "name": "Add Rows To Push Dataset",
+  "description": "Append rows to a table in a Power BI Push Dataset (streaming / realtime data).",
+  "type": "action",
+  "version": "0.0.3"
+}

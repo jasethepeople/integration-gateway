@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-convert-soap-xml-to-json",
+  "name": "Convert SOAP XML Object to JSON",
+  "description": "Convert a SOAP XML payload received from Salesforce into JSON.",
+  "type": "action",
+  "version": "0.0.13"
+}

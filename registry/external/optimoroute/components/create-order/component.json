@@ -1,0 +1,7 @@
+{
+  "key": "optimoroute-create-order",
+  "name": "Create Order",
+  "description": "Create a new order. [See the documentation](https://optimoroute.com/api/#create-order)",
+  "type": "action",
+  "version": "0.0.1"
+}

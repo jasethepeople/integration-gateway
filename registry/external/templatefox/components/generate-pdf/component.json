@@ -1,0 +1,7 @@
+{
+  "key": "templatefox-generate-pdf",
+  "name": "Generate PDF",
+  "description": "Generate a PDF document from a template with dynamic data. The PDF is saved to `/tmp` for use in downstream steps (Google Drive, Gmail, Slack, etc.). [See the documentation](https://pdftemplateapi.com/docs/api/generate-pdf)",
+  "type": "action",
+  "version": "0.0.1"
+}

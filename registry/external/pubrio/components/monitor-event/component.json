@@ -1,0 +1,7 @@
+{
+  "key": "pubrio-monitor-event",
+  "name": "New Monitor Event (Webhook)",
+  "description": "Emit new event when a Pubrio monitor fires. Copy the webhook URL into your Pubrio monitor configuration.",
+  "type": "source",
+  "version": "0.0.1"
+}

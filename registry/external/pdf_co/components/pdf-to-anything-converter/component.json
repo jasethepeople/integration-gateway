@@ -1,0 +1,7 @@
+{
+  "key": "pdf_co-pdf-to-anything-converter",
+  "name": "PDF to Anything Converter",
+  "description": "Convert PDF to CSV, JSON, Text, XLS, XLSX [See docs here](https://apidocs.pdf.co/12-pdf-to-csv)",
+  "type": "action",
+  "version": "0.0.2"
+}

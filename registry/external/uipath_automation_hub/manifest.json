@@ -1,0 +1,63 @@
+{
+  "app": "uipath_automation_hub",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "categoryId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "documentation": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "automationId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "inputQuality": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "inputType": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "processDescription": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "processName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "rules": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "stability": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "tenant_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "app_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "uipath_automation_hub-create-idea",
+    "uipath_automation_hub-list-automation-id-options",
+    "uipath_automation_hub-list-category-id-options",
+    "uipath_automation_hub-update-category-idea",
+    "uipath_automation_hub-update-idea",
+    "uipath_automation_hub-automation-published"
+  ]
+}

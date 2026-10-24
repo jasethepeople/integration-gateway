@@ -1,0 +1,7 @@
+{
+  "key": "nudgify-create-purchase-nudge",
+  "name": "Create Purchase Nudge",
+  "description": "Creates a purchase nudge. [See docs here](https://www.nudgify.com/docs/knowledge-base/api-purchase-nudges/)",
+  "type": "action",
+  "version": "0.0.2"
+}

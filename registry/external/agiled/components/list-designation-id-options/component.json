@@ -1,0 +1,7 @@
+{
+  "key": "agiled-list-designation-id-options",
+  "name": "List Designation ID Options",
+  "description": "Retrieves available options for the Designation ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

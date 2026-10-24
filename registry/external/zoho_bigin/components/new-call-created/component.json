@@ -1,0 +1,7 @@
+{
+  "key": "zoho_bigin-new-call-created",
+  "name": "New Call Created (Instant)",
+  "description": "Emit new event on each created call.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,42 @@
+{
+  "app": "lessonspace",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "spaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "allowGuests": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "recordContent": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "transcribe": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "recordAv": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "userName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "lessonspace-launch-space"
+  ]
+}

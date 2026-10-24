@@ -1,0 +1,7 @@
+{
+  "key": "splitwise-list-group-options",
+  "name": "List Group Options",
+  "description": "Retrieves available options for the Group field.",
+  "type": "action",
+  "version": "0.0.1"
+}

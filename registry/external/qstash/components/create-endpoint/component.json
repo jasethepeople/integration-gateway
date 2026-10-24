@@ -1,0 +1,7 @@
+{
+  "key": "qstash-create-endpoint",
+  "name": "Create Endpoint",
+  "description": "Create a new HTTP endpoint on a QStash topic.",
+  "type": "action",
+  "version": "0.0.2"
+}

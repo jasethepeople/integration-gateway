@@ -1,0 +1,7 @@
+{
+  "key": "databox-send-custom-data",
+  "name": "Send Custom Data",
+  "description": "Sends custom data. [See docs here](https://developers.databox.com/send-data/)",
+  "type": "action",
+  "version": "0.0.2"
+}

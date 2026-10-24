@@ -1,0 +1,7 @@
+{
+  "key": "ipgeolocation-convert-timezone",
+  "name": "Convert Timezone",
+  "description": "Convert a time between two timezones using timezone names, coordinates, city, IATA, ICAO, or UN/LOCODE. [See the documentation](https://ipgeolocation.io/documentation/timezone-api.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

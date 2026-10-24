@@ -1,0 +1,73 @@
+{
+  "app": "netsuite",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "salesOrderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "invoiceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subsidiaryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "searchQuery": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "expandSubResources": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "simpleEnumFormat": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "fields": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "items": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "propertyNameValidation": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "propertyValueValidation": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "replace": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "account_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "netsuite-get-invoice",
+    "netsuite-get-sales-order",
+    "netsuite-list-customer-id-options",
+    "netsuite-list-invoice-id-options",
+    "netsuite-list-invoices",
+    "netsuite-list-sales-order-id-options",
+    "netsuite-list-sales-orders",
+    "netsuite-list-subsidiary-id-options"
+  ]
+}

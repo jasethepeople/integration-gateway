@@ -1,0 +1,19 @@
+{
+  "app": "snappy",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "snappy-create-wall-post",
+    "snappy-list-account-id-options",
+    "snappy-new-ticket-assigned-to-me",
+    "snappy-new-ticket-created",
+    "snappy-new-waiting-ticket-created",
+    "snappy-new-wall-post-created"
+  ]
+}

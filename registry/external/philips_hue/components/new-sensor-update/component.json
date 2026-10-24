@@ -1,0 +1,7 @@
+{
+  "key": "philips_hue-new-sensor-update",
+  "name": "New Sensor Update",
+  "description": "Emit new event when a linked Hue sensor (e.g., motion, temperature, or ambient light) sends an update. [See the documentation](https://developers.meethue.com/develop/hue-api-v2/api-reference/#resource_light__id__put)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,17 @@
+{
+  "app": "precisefp",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "precisefp-create-account",
+    "precisefp-new-account-created",
+    "precisefp-new-form-engagement-completed",
+    "precisefp-new-pdf-engagement"
+  ]
+}

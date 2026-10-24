@@ -1,0 +1,7 @@
+{
+  "key": "token_metrics-get-price",
+  "name": "Get Price",
+  "description": "Select Token IDs to get prices for. Example: `3375,3306`",
+  "type": "action",
+  "version": "0.1.1"
+}

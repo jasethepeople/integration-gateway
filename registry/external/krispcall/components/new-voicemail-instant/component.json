@@ -1,0 +1,7 @@
+{
+  "key": "krispcall-new-voicemail-instant",
+  "name": "New Voicemail (Instant)",
+  "description": "Emit new event when a new voicemail is sent.",
+  "type": "source",
+  "version": "0.0.6"
+}

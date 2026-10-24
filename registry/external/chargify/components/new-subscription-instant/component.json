@@ -1,0 +1,7 @@
+{
+  "key": "chargify-new-subscription-instant",
+  "name": "New Subscription (Instant)",
+  "description": "Emit new event when a new subscription is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

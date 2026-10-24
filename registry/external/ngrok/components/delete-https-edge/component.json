@@ -1,0 +1,7 @@
+{
+  "key": "ngrok-delete-https-edge",
+  "name": "Delete HTTPS Edge",
+  "description": "Delete an HTTPS Edge. [See the documentation](https://ngrok.com/docs/api/resources/edges-https/#delete-https-edge).",
+  "type": "action",
+  "version": "0.0.2"
+}

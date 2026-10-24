@@ -1,0 +1,9 @@
+{
+  "app": "database",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "database-query-sql-database"
+  ]
+}

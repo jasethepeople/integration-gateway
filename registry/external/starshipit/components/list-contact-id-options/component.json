@@ -1,0 +1,7 @@
+{
+  "key": "starshipit-list-contact-id-options",
+  "name": "List Destination Options",
+  "description": "Retrieves available options for the Destination field.",
+  "type": "action",
+  "version": "0.0.1"
+}

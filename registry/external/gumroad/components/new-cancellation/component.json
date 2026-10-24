@@ -1,0 +1,7 @@
+{
+  "key": "gumroad-new-cancellation",
+  "name": "New Cancellation",
+  "description": "Emit new event on a sale is cancelled.",
+  "type": "source",
+  "version": "0.0.4"
+}

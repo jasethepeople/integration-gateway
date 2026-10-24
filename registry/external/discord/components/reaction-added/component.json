@@ -1,0 +1,7 @@
+{
+  "key": "discord-reaction-added",
+  "name": "Reaction Added (Instant)",
+  "description": "Emit new event for each reaction added to a message",
+  "type": "source",
+  "version": "0.0.3"
+}

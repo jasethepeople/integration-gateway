@@ -1,0 +1,7 @@
+{
+  "key": "rendex-extract-content",
+  "name": "Extract Content",
+  "description": "Extract the readable content of a page as Markdown, JSON, or HTML. [See the documentation](https://rendex.dev/docs/api-reference#post-extract).",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "rentcast-get-rent-estimate",
+  "name": "Get Rent Estimate",
+  "description": "Get a property rent estimate and comparable properties. [See the documentation](https://developers.rentcast.io/reference/rent-estimate-long-term)",
+  "type": "action",
+  "version": "0.0.2"
+}

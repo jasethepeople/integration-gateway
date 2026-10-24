@@ -1,0 +1,23 @@
+{
+  "app": "a123formbuilder",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "form": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "region": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "a123formbuilder-form-created",
+    "a123formbuilder-form-response-submitted"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "gorgias_oauth-set-ticket-tags",
+  "name": "Set Ticket Tags",
+  "description": "Set tags on a ticket. [See the documentation](https://developers.gorgias.com/reference/update-ticket-tags)",
+  "type": "action",
+  "version": "0.0.5"
+}

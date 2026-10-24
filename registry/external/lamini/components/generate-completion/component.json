@@ -1,0 +1,7 @@
+{
+  "key": "lamini-generate-completion",
+  "name": "Generate Completion",
+  "description": "Generate completions using a Lamini model. [See the documentation](https://docs.lamini.ai/api/).",
+  "type": "action",
+  "version": "0.0.3"
+}

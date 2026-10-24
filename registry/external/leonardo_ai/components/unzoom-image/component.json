@@ -1,0 +1,7 @@
+{
+  "key": "leonardo_ai-unzoom-image",
+  "name": "Unzoom Image",
+  "description": "Creates an unzoom variation for a generated or variation image using Leonardo AI's unzoom API. [See the documentation](https://docs.leonardo.ai/reference/createvariationunzoom)",
+  "type": "action",
+  "version": "0.0.2"
+}

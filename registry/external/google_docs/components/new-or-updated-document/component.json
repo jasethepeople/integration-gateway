@@ -1,0 +1,7 @@
+{
+  "key": "google_docs-new-or-updated-document",
+  "name": "New or Updated Document (Instant)",
+  "description": "Emit new event when a document is created or updated in Google Docs. [See the documentation](https://developers.google.com/drive/api/reference/rest/v3/changes/watch)",
+  "type": "source",
+  "version": "0.0.16"
+}

@@ -1,0 +1,25 @@
+{
+  "app": "timekit",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "graph": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "state": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "timekit-booking-with-state"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

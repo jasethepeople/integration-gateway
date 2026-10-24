@@ -1,0 +1,7 @@
+{
+  "key": "harvest-update-user",
+  "name": "Update User",
+  "description": "Update an existing user. Use **List Users** to find a valid ID. Example: call with userId set to a user's ID and lastName set to a new value to update their name. [See the documentation](https://help.getharvest.com/api-v2/users-api/users/users/#update-a-user).",
+  "type": "action",
+  "version": "0.0.1"
+}

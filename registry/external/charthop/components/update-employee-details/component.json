@@ -1,0 +1,7 @@
+{
+  "key": "charthop-update-employee-details",
+  "name": "Update Employee Details",
+  "description": "Updates an existing employee's details. [See the documentation](https://api.charthop.com/swagger#/user/updateUser)",
+  "type": "action",
+  "version": "0.0.2"
+}

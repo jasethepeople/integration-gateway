@@ -1,0 +1,106 @@
+{
+  "app": "toggl",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "clientName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "notes": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "reportDatePreset": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "reportStartDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "reportEndDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "reportTimezone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "reportUserIds": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "reportUserName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "reportProjectIds": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "reportClientIds": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "reportTaskIds": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "reportTagIds": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "reportDescription": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "reportBillable": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "reportOrderBy": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "reportOrderDirection": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "toggl-create-client",
+    "toggl-create-project",
+    "toggl-export-detailed-time-entries",
+    "toggl-get-current-time-entry",
+    "toggl-get-time-entries",
+    "toggl-get-time-entry-summary",
+    "toggl-get-time-entry",
+    "toggl-list-time-entry-id-options",
+    "toggl-list-workspace-id-options",
+    "toggl-list-workspace-users",
+    "toggl-search-detailed-time-entries",
+    "toggl-update-client",
+    "toggl-update-project",
+    "toggl-new-start-time-entry",
+    "toggl-new-time-entry",
+    "toggl-new-update-time-entry",
+    "toggl-new-webhook-event"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "invoiced-list-tax-id-options",
+  "name": "List Tax ID Options",
+  "description": "Retrieves available options for the Tax ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

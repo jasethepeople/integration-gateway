@@ -1,0 +1,7 @@
+{
+  "key": "ipinfo_io-lookup-ip",
+  "name": "Lookup Ip",
+  "description": "Lookup an IP. [See docs here](https://ipinfo.io/developers#ip-address-parameter)",
+  "type": "action",
+  "version": "0.0.2"
+}

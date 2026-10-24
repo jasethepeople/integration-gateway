@@ -1,0 +1,43 @@
+{
+  "app": "little_green_light",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "appealId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "constituentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fundId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "giftCategoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "giftTypeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "little_green_light-add-gift",
+    "little_green_light-create-constituent",
+    "little_green_light-list-appeal-id-options",
+    "little_green_light-list-constituent-id-options",
+    "little_green_light-list-fund-id-options",
+    "little_green_light-list-gift-category-id-options",
+    "little_green_light-list-gift-type-id-options",
+    "little_green_light-update-constituent",
+    "little_green_light-new-constituent-created",
+    "little_green_light-new-gift-recorded"
+  ]
+}

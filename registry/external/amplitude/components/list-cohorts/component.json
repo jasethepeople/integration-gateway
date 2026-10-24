@@ -1,0 +1,7 @@
+{
+  "key": "amplitude-list-cohorts",
+  "name": "List Cohorts",
+  "description": "When `true`, include cohort sync metadata in the response (the `includeSyncInfo` param) — each cohort's `syncMetadata` field is then always kept regardless of `fields`.",
+  "type": "action",
+  "version": "0.0.2"
+}

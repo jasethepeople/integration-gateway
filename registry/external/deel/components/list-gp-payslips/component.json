@@ -1,0 +1,7 @@
+{
+  "key": "deel-list-gp-payslips",
+  "name": "List GP Payslips",
+  "description": "List payslips for a specific GP (Global Payroll) employee in Deel.",
+  "type": "action",
+  "version": "0.0.2"
+}

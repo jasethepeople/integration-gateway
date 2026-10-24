@@ -1,0 +1,7 @@
+{
+  "key": "palatine_speech-mark-task-done",
+  "name": "Mark Task Done",
+  "description": "Marks a transcription task as completed and removes it from the list of active tasks. Use this to clean up resources after retrieving results. [See the documentation](https://docs.speech.palatine.ru/api-reference/transcribe/transcribe-polling-api/task-done)",
+  "type": "action",
+  "version": "0.0.1"
+}

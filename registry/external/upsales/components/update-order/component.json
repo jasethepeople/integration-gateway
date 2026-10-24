@@ -1,0 +1,7 @@
+{
+  "key": "upsales-update-order",
+  "name": "Update Order",
+  "description": "Updates an existing order in Upsales. [See the documentation](https://api.upsales.com/#eec6ead8-d121-40e6-9910-185ca06ac323)",
+  "type": "action",
+  "version": "0.0.1"
+}

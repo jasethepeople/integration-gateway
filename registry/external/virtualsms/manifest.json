@@ -1,0 +1,37 @@
+{
+  "app": "virtualsms",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "service": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "virtualsms-cancel-rental",
+    "virtualsms-check-messages",
+    "virtualsms-get-balance",
+    "virtualsms-list-countries",
+    "virtualsms-list-country-options",
+    "virtualsms-list-order-id-options",
+    "virtualsms-list-services",
+    "virtualsms-rent-number",
+    "virtualsms-new-sms-received"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

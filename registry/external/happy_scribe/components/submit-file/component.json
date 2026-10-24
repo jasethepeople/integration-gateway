@@ -1,0 +1,7 @@
+{
+  "key": "happy_scribe-submit-file",
+  "name": "Submit File",
+  "description": "Submit a file. [See the documentation](https://dev.happyscribe.com/sections/product/#uploads-2-upload-your-file-with-the-signed-url)",
+  "type": "action",
+  "version": "0.1.3"
+}

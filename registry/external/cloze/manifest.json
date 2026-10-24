@@ -1,0 +1,19 @@
+{
+  "app": "cloze",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "cloze-create-note",
+    "cloze-create-update-company",
+    "cloze-create-update-project",
+    "cloze-company-change-instant",
+    "cloze-person-change-instant",
+    "cloze-project-change-instant"
+  ]
+}

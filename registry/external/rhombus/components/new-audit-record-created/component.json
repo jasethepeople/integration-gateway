@@ -1,0 +1,7 @@
+{
+  "key": "rhombus-new-audit-record-created",
+  "name": "New Audit Record Created",
+  "description": "Emit new event when a new audit record for a specified event is created. [See the documentation](https://apidocs.rhombus.com/reference/getauditfeed)",
+  "type": "source",
+  "version": "0.0.1"
+}

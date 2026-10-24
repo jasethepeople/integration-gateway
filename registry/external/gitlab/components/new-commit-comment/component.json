@@ -1,0 +1,7 @@
+{
+  "key": "gitlab-new-commit-comment",
+  "name": "New Commit Comment (Instant)",
+  "description": "Emit new event when a commit receives a comment",
+  "type": "source",
+  "version": "0.1.3"
+}

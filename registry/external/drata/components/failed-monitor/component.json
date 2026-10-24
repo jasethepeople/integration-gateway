@@ -1,0 +1,7 @@
+{
+  "key": "drata-failed-monitor",
+  "name": "Failed Monitor",
+  "description": "Filter monitors by check type (associated monitor instances)",
+  "type": "source",
+  "version": "0.0.2"
+}

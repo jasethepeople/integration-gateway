@@ -1,0 +1,7 @@
+{
+  "key": "dopplerai-list-chat-uuid-options",
+  "name": "List Chat UUID Options",
+  "description": "Retrieves available options for the Chat UUID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

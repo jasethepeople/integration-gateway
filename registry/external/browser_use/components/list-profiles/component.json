@@ -1,0 +1,7 @@
+{
+  "key": "browser_use-list-profiles",
+  "name": "List Profiles",
+  "description": "List Browser Use profiles, optionally searching by profile name or user ID. [See the documentation](https://docs.browser-use.com/cloud/api-v3/profiles/list-profiles)",
+  "type": "action",
+  "version": "0.0.1"
+}

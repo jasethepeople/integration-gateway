@@ -1,0 +1,34 @@
+{
+  "app": "zamzar",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "sourceFile": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "targetFormat": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zamzar-create-content-file",
+    "zamzar-retrieve-job",
+    "zamzar-start-job-from-file",
+    "zamzar-new-conversion-job",
+    "zamzar-new-file",
+    "zamzar-watch-completed-conversion-jobs"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

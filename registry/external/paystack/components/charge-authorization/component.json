@@ -1,0 +1,7 @@
+{
+  "key": "paystack-charge-authorization",
+  "name": "Charge Authorization",
+  "description": "Charge a reusable authorization. [See the documentation](https://paystack.com/docs/api/transaction/#charge-authorization)",
+  "type": "action",
+  "version": "0.0.6"
+}

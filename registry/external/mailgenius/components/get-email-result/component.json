@@ -1,0 +1,7 @@
+{
+  "key": "mailgenius-get-email-result",
+  "name": "Get Email Results",
+  "description": "Returns the results of the test. [See the documentation](https://app.mailgenius.com/api-docs/index.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

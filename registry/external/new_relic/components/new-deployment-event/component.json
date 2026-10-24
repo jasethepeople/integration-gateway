@@ -1,0 +1,7 @@
+{
+  "key": "new_relic-new-deployment-event",
+  "name": "New Deployment",
+  "description": "Emit new event when a new deployment is created.",
+  "type": "source",
+  "version": "0.0.2"
+}

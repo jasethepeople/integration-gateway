@@ -1,0 +1,7 @@
+{
+  "key": "cerebras-create-chat-completion",
+  "name": "Create Chat Completion",
+  "description": "Create a chat completion with Cerebras AI. [See the documentation](https://inference-docs.cerebras.ai/api-reference/chat-completions)",
+  "type": "action",
+  "version": "0.0.2"
+}

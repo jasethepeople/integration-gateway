@@ -1,0 +1,7 @@
+{
+  "key": "blocknative-get-gas-prices",
+  "name": "Get Gas Prices",
+  "description": "Get gas price estimations with confidence levels. [See the documentation](https://docs.blocknative.com/gas-prediction/gas-platform)",
+  "type": "action",
+  "version": "0.0.1"
+}

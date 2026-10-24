@@ -1,0 +1,7 @@
+{
+  "key": "richpanel-new-ticket",
+  "name": "New Support Ticket Created",
+  "description": "Emit new event when a support ticket is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

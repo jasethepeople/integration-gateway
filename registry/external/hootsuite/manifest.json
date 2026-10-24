@@ -1,0 +1,25 @@
+{
+  "app": "hootsuite",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "socialProfileIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "hootsuite-create-media-upload-job",
+    "hootsuite-get-media-upload-status",
+    "hootsuite-list-social-profiles",
+    "hootsuite-schedule-message",
+    "hootsuite-new-post-created"
+  ],
+  "npmImports": [
+    "dayjs"
+  ]
+}

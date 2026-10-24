@@ -1,0 +1,7 @@
+{
+  "key": "easyship-tracking-status-updated",
+  "name": "Tracking Status Updated (Instant)",
+  "description": "Emit new event when a tracking status is updated",
+  "type": "source",
+  "version": "0.0.1"
+}

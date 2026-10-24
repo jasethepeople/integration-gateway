@@ -1,0 +1,7 @@
+{
+  "key": "splynx-create-customer",
+  "name": "Create Customer",
+  "description": "Creates a new customer with the provided details. [See the documentation](https://splynx.docs.apiary.io/#reference/customers/customers-collection/create-a-customer)",
+  "type": "action",
+  "version": "0.0.2"
+}

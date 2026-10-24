@@ -1,0 +1,7 @@
+{
+  "key": "emailable-verify-batch-of-emails",
+  "name": "Verify Batch of Emails",
+  "description": "Verifies a batch of emails, up to 50,000 per batch. [See the documentation](https://emailable.com/docs/api/#verify-a-batch-of-emails)",
+  "type": "action",
+  "version": "0.0.2"
+}

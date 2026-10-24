@@ -1,0 +1,7 @@
+{
+  "key": "trunkrs-get-shipment",
+  "name": "Get Shipment",
+  "description": "Get a shipment by its Trunkrs number. [See the documentation](https://docs.trunkrs.nl/docs/v2-api-documentation/34c6f57bded33-get-a-specific-shipment)",
+  "type": "action",
+  "version": "0.0.2"
+}

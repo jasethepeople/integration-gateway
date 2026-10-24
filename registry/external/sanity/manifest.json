@@ -1,0 +1,29 @@
+{
+  "app": "sanity",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "dataset": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "documentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "project_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sanity-create-document",
+    "sanity-get-document",
+    "sanity-query-dataset",
+    "sanity-new-document-event"
+  ]
+}

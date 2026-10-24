@@ -1,0 +1,7 @@
+{
+  "key": "godaddy-list-domains",
+  "name": "List Domains",
+  "description": "List domains in GoDaddy. [See the documentation](https://developer.godaddy.com/doc/endpoint/domains#/v1/list)",
+  "type": "action",
+  "version": "0.0.2"
+}

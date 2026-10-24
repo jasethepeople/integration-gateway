@@ -1,0 +1,7 @@
+{
+  "key": "sellercloud-inventory-updated",
+  "name": "Inventory Updated",
+  "description": "Emit new event when an item's inventory level changes. [See the documentation](https://developer.sellercloud.com/dev-article/get-all-orders/)",
+  "type": "source",
+  "version": "0.0.1"
+}

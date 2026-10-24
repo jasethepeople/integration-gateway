@@ -1,0 +1,37 @@
+{
+  "app": "flodesk",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "subscriberId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "segmentIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "customFields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "flodesk-add-subscriber-to-segments",
+    "flodesk-create-or-update-subscriber",
+    "flodesk-find-subscriber",
+    "flodesk-list-custom-fields-options",
+    "flodesk-list-segment-ids-options",
+    "flodesk-list-subscriber-id-options",
+    "flodesk-subscriber-added-to-segment",
+    "flodesk-subscriber-created",
+    "flodesk-subscriber-unsubscribed"
+  ],
+  "npmImports": [
+    "lodash"
+  ]
+}

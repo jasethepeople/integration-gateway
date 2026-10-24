@@ -1,0 +1,7 @@
+{
+  "key": "templated-create-render",
+  "name": "Create Render",
+  "description": "Creates a render on a template in Templated. [See the documentation](https://app.templated.io/docs#create-render)",
+  "type": "action",
+  "version": "0.0.2"
+}

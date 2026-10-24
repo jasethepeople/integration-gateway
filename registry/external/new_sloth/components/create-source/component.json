@@ -1,0 +1,7 @@
+{
+  "key": "new_sloth-create-source",
+  "name": "Create Source",
+  "description": "Create a new source in New Sloth. [See the documentation](https://app.newsloth.com/api-reference#createsource)",
+  "type": "action",
+  "version": "0.0.1"
+}

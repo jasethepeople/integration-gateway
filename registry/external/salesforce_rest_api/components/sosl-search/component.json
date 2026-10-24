@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-sosl-search",
+  "name": "SOSL Search (Object Search)",
+  "description": "Run a SOSL text search with guided prompts.",
+  "type": "action",
+  "version": "0.2.15"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "control_d-create-device",
+  "name": "Create Device",
+  "description": "Create a new device. [See the documentation](https://docs.controld.com/reference/post_devices)",
+  "type": "action",
+  "version": "0.0.2"
+}

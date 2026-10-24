@@ -1,0 +1,37 @@
+{
+  "app": "google_dialogflow",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "key_json": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "google_dialogflow-create-context",
+    "google_dialogflow-create-entities",
+    "google_dialogflow-create-entity-type",
+    "google_dialogflow-create-intent",
+    "google_dialogflow-create-update-agent",
+    "google_dialogflow-delete-agent",
+    "google_dialogflow-delete-context",
+    "google_dialogflow-delete-entities",
+    "google_dialogflow-delete-entity-type",
+    "google_dialogflow-delete-intent",
+    "google_dialogflow-detect-intent",
+    "google_dialogflow-get-agent",
+    "google_dialogflow-get-context",
+    "google_dialogflow-get-entity-type",
+    "google_dialogflow-get-intent",
+    "google_dialogflow-list-contexts",
+    "google_dialogflow-list-entity-types",
+    "google_dialogflow-list-intents",
+    "google_dialogflow-update-context",
+    "google_dialogflow-update-entity-type"
+  ],
+  "npmImports": [
+    "@google-cloud/dialogflow",
+    "uuid"
+  ]
+}

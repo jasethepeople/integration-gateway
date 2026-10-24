@@ -1,0 +1,7 @@
+{
+  "key": "flowla-flow-updated",
+  "name": "Flow Updated",
+  "description": "Emit new event when a flow is updated in Flowla. [See the documentation](https://api.flowla.com/docs#/default/ApiV1Controller_flows)",
+  "type": "source",
+  "version": "0.0.1"
+}

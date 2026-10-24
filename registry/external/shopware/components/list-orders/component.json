@@ -1,0 +1,7 @@
+{
+  "key": "shopware-list-orders",
+  "name": "List Orders",
+  "description": "List all orders. [See the documentation](https://shopware.stoplight.io/docs/admin-api/f95b395c5ae73-list-with-basic-information-of-order-resources)",
+  "type": "action",
+  "version": "0.0.1"
+}

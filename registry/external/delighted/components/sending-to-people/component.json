@@ -1,0 +1,7 @@
+{
+  "key": "delighted-sending-to-people",
+  "name": "Sending to People",
+  "description": "Create or update a person and send a survey email. [See the docs here](https://app.delighted.com/docs/api/sending-to-people)",
+  "type": "action",
+  "version": "0.0.2"
+}

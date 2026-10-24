@@ -1,0 +1,7 @@
+{
+  "key": "acuity_scheduling-get-availability-times",
+  "name": "Get Availability Times",
+  "description": "Return available times for a date and appointment type. [See the documentation](https://developers.acuityscheduling.com/reference/get-availability-times)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "gloww-create-live-session",
+  "name": "Create Live Session",
+  "description": "Create a new Live Session [See the documentation](https://gloww.com/faq/)",
+  "type": "action",
+  "version": "0.0.2"
+}

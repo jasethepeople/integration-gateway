@@ -1,0 +1,7 @@
+{
+  "key": "sevdesk-list-payment-method-id-options",
+  "name": "List Payment Method Id Options",
+  "description": "Retrieves available options for the Payment Method Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

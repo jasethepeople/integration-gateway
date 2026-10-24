@@ -1,0 +1,7 @@
+{
+  "key": "algolia-list-index-name-options",
+  "name": "List Index Name Options",
+  "description": "Retrieves available options for the Index Name field.",
+  "type": "action",
+  "version": "0.0.1"
+}

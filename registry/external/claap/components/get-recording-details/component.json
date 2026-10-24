@@ -1,0 +1,7 @@
+{
+  "key": "claap-get-recording-details",
+  "name": "Get Recording Details",
+  "description": "Get the details for a specific recording in Claap. [See the documentation](https://docs.claap.io/api-reference/endpoint/get_recording).",
+  "type": "action",
+  "version": "0.0.1"
+}

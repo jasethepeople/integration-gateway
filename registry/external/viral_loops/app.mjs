@@ -1,0 +1,50 @@
+import { axios } from "../_platform-shim.mjs";
+
+const __pdApp = {
+  type: "app",
+  app: "viral_loops",
+  propDefinitions: {},
+  methods: {
+    _apiToken() {
+      return this.$auth.api_token;
+    },
+    _apiUrl() {
+      return "https://app.viral-loops.com/api/v3";
+    },
+    async _makeRequest({
+      $ = this, path, ...args
+    }) {
+      return axios($, {
+        url: `${this._apiUrl()}${path}`,
+        headers: {
+          apiToken: this._apiToken(),
+        },
+        ...args,
+      });
+    },
+    async createParticipant({ ...args }) {
+      return this._makeRequest({
+        path: "/campaign/participant",
+        method: "post",
+        ...args,
+      });
+    },
+    async getParticipant({ ...args }) {
+      return this._makeRequest({
+        path: "/campaign/participant/query",
+        method: "post",
+        ...args,
+      });
+    },
+    async getCampaign({ ...args }) {
+      return this._makeRequest({
+        path: "/campaign",
+        ...args,
+      });
+    },
+  },
+};
+
+export default __pdApp;
+import { __pdBindAuth as __pdBind } from "../_platform-shim.mjs";
+__pdBind(__pdApp, "viral_loops");

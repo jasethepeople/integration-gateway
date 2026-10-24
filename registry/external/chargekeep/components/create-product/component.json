@@ -1,0 +1,7 @@
+{
+  "key": "chargekeep-create-product",
+  "name": "Create Product",
+  "description": "Create a new product in Chargekeep. [See the documentation](https://crm.chargekeep.com/app/api/swagger)",
+  "type": "action",
+  "version": "0.0.1"
+}

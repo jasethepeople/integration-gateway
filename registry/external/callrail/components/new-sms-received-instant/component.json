@@ -1,0 +1,7 @@
+{
+  "key": "callrail-new-sms-received-instant",
+  "name": "New SMS Received (Instant)",
+  "description": "Emit new event when a text message is received.",
+  "type": "source",
+  "version": "0.0.1"
+}

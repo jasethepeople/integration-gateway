@@ -1,0 +1,28 @@
+{
+  "app": "esendex",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "accountReference": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_password": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "esendex-list-account-reference-options",
+    "esendex-send-sms-message",
+    "esendex-send-voice-message",
+    "esendex-new-message-received"
+  ],
+  "npmImports": [
+    "simple-xml2json"
+  ]
+}

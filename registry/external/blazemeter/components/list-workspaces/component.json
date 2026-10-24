@@ -1,0 +1,7 @@
+{
+  "key": "blazemeter-list-workspaces",
+  "name": "List Workspaces",
+  "description": "List all workspaces associated with the specified account. [See the documentation](https://api.blazemeter.com/functional/#workspaces-list)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "sonix-list-media-id-options",
+  "name": "List Media ID Options",
+  "description": "Retrieves available options for the Media ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

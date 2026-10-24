@@ -1,0 +1,7 @@
+{
+  "key": "dart-list-doc-id-options",
+  "name": "List Doc ID Options",
+  "description": "Retrieves available options for the Doc ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

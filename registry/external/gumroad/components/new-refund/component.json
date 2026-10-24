@@ -1,0 +1,7 @@
+{
+  "key": "gumroad-new-refund",
+  "name": "New Refund",
+  "description": "Emit new event on a sale is refunded.",
+  "type": "source",
+  "version": "0.0.4"
+}

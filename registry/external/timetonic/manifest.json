@@ -1,0 +1,50 @@
+{
+  "app": "timetonic",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "bookCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tableId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "rowId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fieldId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "viewId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "user_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "timetonic-create-row",
+    "timetonic-delete-row",
+    "timetonic-list-book-code-options",
+    "timetonic-search-rows",
+    "timetonic-update-row",
+    "timetonic-new-table-row-in-view",
+    "timetonic-new-table-row",
+    "timetonic-row-deleted",
+    "timetonic-row-updated"
+  ],
+  "npmImports": [
+    "form-data",
+    "md5"
+  ]
+}

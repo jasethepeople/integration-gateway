@@ -1,0 +1,7 @@
+{
+  "key": "timetonic-search-rows",
+  "name": "Search Rows",
+  "description": "Perform a search across table rows based on given criteria. [See the documentation](https://timetonic.com/live/apidoc/#api-Smart_table_operations-listTableRowsById)",
+  "type": "action",
+  "version": "0.0.2"
+}

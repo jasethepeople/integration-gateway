@@ -1,0 +1,28 @@
+{
+  "app": "nasdaq_data_link_time_series_and_table_data_",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "publisher": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "table": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "columns": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "nasdaq_data_link_time_series_and_table_data_-export-table",
+    "nasdaq_data_link_time_series_and_table_data_-get-table-data",
+    "nasdaq_data_link_time_series_and_table_data_-get-table-metadata"
+  ]
+}

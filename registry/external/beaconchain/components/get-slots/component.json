@@ -1,0 +1,7 @@
+{
+  "key": "beaconchain-get-slots",
+  "name": "Get Slots",
+  "description": "Returns all slots for a specified epoch. [See the documentation](https://beaconcha.in/api/v1/docs/index.html#/Epoch/get_api_v1_epoch__epoch__slots)",
+  "type": "action",
+  "version": "0.0.2"
+}

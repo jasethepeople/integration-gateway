@@ -1,0 +1,7 @@
+{
+  "key": "curated-new-email-subscribed",
+  "name": "New Email Subscribed",
+  "description": "Emit new event when an email is subscribed.",
+  "type": "source",
+  "version": "0.0.2"
+}

@@ -1,0 +1,57 @@
+{
+  "app": "beanstalkapp",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "login": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "password": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "admin": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "timezone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "repositoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "branch": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "beanstalkapp-create-code-review",
+    "beanstalkapp-create-repository",
+    "beanstalkapp-create-user",
+    "beanstalkapp-list-repository-id-options",
+    "beanstalkapp-list-user-id-options",
+    "beanstalkapp-new-changeset-created",
+    "beanstalkapp-new-repository-created",
+    "beanstalkapp-webhook-integration-triggered"
+  ]
+}

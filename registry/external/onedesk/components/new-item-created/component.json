@@ -1,0 +1,7 @@
+{
+  "key": "onedesk-new-item-created",
+  "name": "New Item Created",
+  "description": "Emit new event when a new item is created. [See the documentation](https://www.onedesk.com/dev/).",
+  "type": "source",
+  "version": "0.0.2"
+}

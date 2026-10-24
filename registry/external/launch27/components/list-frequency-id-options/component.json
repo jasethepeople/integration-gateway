@@ -1,0 +1,7 @@
+{
+  "key": "launch27-list-frequency-id-options",
+  "name": "List Frequency ID Options",
+  "description": "Retrieves available options for the Frequency ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

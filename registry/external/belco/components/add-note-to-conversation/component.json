@@ -1,0 +1,7 @@
+{
+  "key": "belco-add-note-to-conversation",
+  "name": "Add Note to Conversation",
+  "description": "Add a note to a conversation specified by ID. [See the documentation](https://developers.belco.io/reference/put_conversations-conversationid-addnote)",
+  "type": "action",
+  "version": "0.0.6"
+}

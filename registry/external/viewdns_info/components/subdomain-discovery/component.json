@@ -1,0 +1,7 @@
+{
+  "key": "viewdns_info-subdomain-discovery",
+  "name": "Subdomain Discovery",
+  "description": "Discovers subdomains associated with a given domain. [See the documentation](https://viewdns.info/api/subdomain-discovery/)",
+  "type": "action",
+  "version": "0.0.2"
+}

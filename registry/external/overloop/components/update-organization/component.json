@@ -1,0 +1,7 @@
+{
+  "key": "overloop-update-organization",
+  "name": "Update Organization",
+  "description": "Updates an organization. [See the docs](https://apidoc.overloop.com/#update-an-organization)",
+  "type": "action",
+  "version": "0.0.2"
+}

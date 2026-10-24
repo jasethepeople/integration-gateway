@@ -1,0 +1,33 @@
+{
+  "app": "nextcloud",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "shareId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "path": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "password": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "nextcloud-create-share",
+    "nextcloud-delete-share",
+    "nextcloud-get-shares",
+    "nextcloud-new-share-created"
+  ]
+}

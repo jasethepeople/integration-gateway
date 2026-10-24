@@ -1,0 +1,57 @@
+{
+  "app": "bigcommerce",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "channel": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "productId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "categoryId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "imageUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "imageFile": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "store_hash": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "bigcommerce-create-product-image",
+    "bigcommerce-create-product",
+    "bigcommerce-delete-product",
+    "bigcommerce-get-all-products-sort-order",
+    "bigcommerce-get-all-products",
+    "bigcommerce-get-product-variants",
+    "bigcommerce-get-product",
+    "bigcommerce-list-category-id-options",
+    "bigcommerce-update-product",
+    "bigcommerce-custom-events",
+    "bigcommerce-new-customer",
+    "bigcommerce-new-order"
+  ],
+  "npmImports": [
+    "form-data",
+    "fs"
+  ]
+}

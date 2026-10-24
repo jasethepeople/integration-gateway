@@ -1,0 +1,7 @@
+{
+  "key": "zoho_recruit-update-record",
+  "name": "Update Record",
+  "description": "Updates existing record. [See the documentation](https://www.zoho.com/recruit/developer-guide/apiv2/update-records.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

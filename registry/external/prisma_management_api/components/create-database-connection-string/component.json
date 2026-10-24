@@ -1,0 +1,7 @@
+{
+  "key": "prisma_management_api-create-database-connection-string",
+  "name": "Create Database Connection String",
+  "description": "Creates a new connection string for an existing database via Prisma Management API. [See docs here](https://www.prisma.io/docs/postgres/introduction/management-api)",
+  "type": "action",
+  "version": "1.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "databricks-list-sql-warehouses",
+  "name": "List SQL Warehouses",
+  "description": "Lists all SQL Warehouses available in the Databricks workspace. [See the documentation](https://docs.databricks.com/api/workspace/warehouses/list)",
+  "type": "action",
+  "version": "0.0.6"
+}

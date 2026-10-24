@@ -1,0 +1,7 @@
+{
+  "key": "parma-list-relationship-id-options",
+  "name": "List Relationship ID Options",
+  "description": "Retrieves available options for the Relationship ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

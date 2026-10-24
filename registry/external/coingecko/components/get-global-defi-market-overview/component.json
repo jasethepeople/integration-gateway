@@ -1,0 +1,7 @@
+{
+  "key": "coingecko-get-global-defi-market-overview",
+  "name": "Get Global DeFi Market Overview",
+  "description": "Get the current DeFi market data from the top 100 cryptocurrencies, including DeFi market cap, trading volume, and top coin dominance. [See the documentation](https://docs.coingecko.com/v3.0.1/reference/global-defi)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "sidetracker-list-sessions-for-domain",
+  "name": "List Sessions for Domain",
+  "description": "Retrieve a list of all sessions for a domain tracker. [See the documentation](https://app.sidetracker.io/api/schema/redoc#tag/Tracking/operation/TrackerSessionRetrieval)",
+  "type": "action",
+  "version": "0.0.1"
+}

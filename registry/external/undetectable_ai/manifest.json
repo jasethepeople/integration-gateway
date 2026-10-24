@@ -1,0 +1,40 @@
+{
+  "app": "undetectable_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "content": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "readability": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "purpose": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "strength": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "id": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "page": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "undetectable_ai-list-documents",
+    "undetectable_ai-retrieve-document",
+    "undetectable_ai-submit-document"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "bybit-linear-position-switch-isolated",
+  "name": "ByBit Linear Position Switch Isolated",
+  "description": "Switch Cross/Isolated; must set leverage value when switching from Cross to Isolated.",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,40 @@
+{
+  "app": "transifex",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "file": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "organizationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "resourceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "asyncDownloadId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "transifex-download-file",
+    "transifex-upload-file",
+    "transifex-new-localization-activity-completed-instant",
+    "transifex-new-task-for-set-of-strings-instant"
+  ],
+  "npmImports": [
+    "fs"
+  ]
+}

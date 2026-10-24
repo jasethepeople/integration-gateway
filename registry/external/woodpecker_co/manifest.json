@@ -1,0 +1,101 @@
+{
+  "app": "woodpecker_co",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "campaignProspectId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "sort": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "company": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "industry": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "website": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "address": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "city": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "state": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "snippet": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "woodpecker_co-create-update-prospect-in-campaign",
+    "woodpecker_co-create-update-prospect",
+    "woodpecker_co-find-prospect-email",
+    "woodpecker_co-list-campaign-id-options",
+    "woodpecker_co-stop-follow-ups",
+    "woodpecker_co-email-opened",
+    "woodpecker_co-email-sent",
+    "woodpecker_co-followup-after-autoreply",
+    "woodpecker_co-link-clicked",
+    "woodpecker_co-prospect-autoreplied",
+    "woodpecker_co-prospect-blacklisted",
+    "woodpecker_co-prospect-bounced",
+    "woodpecker_co-prospect-interested",
+    "woodpecker_co-prospect-invalid",
+    "woodpecker_co-prospect-maybe-later",
+    "woodpecker_co-prospect-not-interested",
+    "woodpecker_co-prospect-replied"
+  ],
+  "npmImports": [
+    "woodpecker-api"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "gmail-list-thread-messages",
+  "name": "Get Thread",
+  "description": "Fetch an entire Gmail thread (conversation) by thread ID — returns every message in order with headers, decoded body text, and attachment metadata.",
+  "type": "action",
+  "version": "0.3.1"
+}

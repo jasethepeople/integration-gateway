@@ -1,0 +1,47 @@
+{
+  "app": "themarketer",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstname": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastname": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "city": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "birthday": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "channels": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "addTags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    }
+  },
+  "categories": [],
+  "components": [
+    "themarketer-add-subscriber",
+    "themarketer-remove-subscriber"
+  ]
+}

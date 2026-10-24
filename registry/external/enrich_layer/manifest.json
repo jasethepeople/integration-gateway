@@ -1,0 +1,98 @@
+{
+  "app": "enrich_layer",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "profileUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "twitterProfileUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "facebookProfileUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyProfileUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyDomain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "useCache": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fallbackToCache": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "liveFetch": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "includeExclude": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "enrichProfiles": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "enrichProfile": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pageSize": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "employmentStatus": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "enrich_layer-check-disposable-email",
+    "enrich_layer-get-company-id-lookup",
+    "enrich_layer-get-company-lookup",
+    "enrich_layer-get-company-profile-picture",
+    "enrich_layer-get-company-profile",
+    "enrich_layer-get-credit-balance",
+    "enrich_layer-get-employee-count",
+    "enrich_layer-get-employee-listing",
+    "enrich_layer-get-employee-search",
+    "enrich_layer-get-job-listing-count",
+    "enrich_layer-get-job-profile",
+    "enrich_layer-get-job-search",
+    "enrich_layer-get-person-lookup",
+    "enrich_layer-get-person-profile-picture",
+    "enrich_layer-get-person-profile",
+    "enrich_layer-get-personal-contact-number",
+    "enrich_layer-get-personal-email",
+    "enrich_layer-get-reverse-contact-number-lookup",
+    "enrich_layer-get-reverse-email-lookup",
+    "enrich_layer-get-role-lookup",
+    "enrich_layer-get-school-profile",
+    "enrich_layer-get-student-listing",
+    "enrich_layer-get-work-email-lookup",
+    "enrich_layer-search-companies",
+    "enrich_layer-search-people"
+  ]
+}

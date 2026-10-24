@@ -1,0 +1,7 @@
+{
+  "key": "formcarry-new-form-submission",
+  "name": "New Form Submission",
+  "description": "Emit new event when the specified form receives a new submission. [See the documentation](https://formcarry.com/docs/formcarry-api/submissions-api#cc7f3010897b4c938c8829db46b18656)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "clickfunnels-update-create-contact",
+  "name": "Update or Create Contact",
+  "description": "Searches for a contact by email and updates it, or creates a new one if not found. [See the documentation](https://developers.myclickfunnels.com/reference/upsertcontact)",
+  "type": "action",
+  "version": "0.0.2"
+}

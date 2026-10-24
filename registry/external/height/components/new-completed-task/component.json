@@ -1,0 +1,7 @@
+{
+  "key": "height-new-completed-task",
+  "name": "New Completed Task",
+  "description": "Emit new event when a task is marked as complete.",
+  "type": "source",
+  "version": "0.0.1"
+}

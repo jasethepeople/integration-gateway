@@ -1,0 +1,19 @@
+{
+  "app": "amqp",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "queueName": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "amqp-send-message",
+    "amqp-receive-message"
+  ],
+  "npmImports": [
+    "rhea-promise",
+    "uuid"
+  ]
+}

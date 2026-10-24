@@ -1,0 +1,43 @@
+{
+  "app": "zoho_survey",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "portalId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "surveyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "collectorId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "distributionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "base_api_uri": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zoho_survey-list-portal-id-options",
+    "zoho_survey-send-email-invitation",
+    "zoho_survey-new-survey-response"
+  ],
+  "npmImports": [
+    "html-entities-decoder"
+  ]
+}

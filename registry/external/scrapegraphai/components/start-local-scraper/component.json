@@ -1,0 +1,7 @@
+{
+  "key": "scrapegraphai-start-local-scraper",
+  "name": "Start Local Scraper",
+  "description": "Extract content from HTML content using AI by providing a natural language prompt and the HTML content. [See the documentation](https://docs.scrapegraphai.com/api-reference/endpoint/localscraper/start)",
+  "type": "action",
+  "version": "0.0.2"
+}

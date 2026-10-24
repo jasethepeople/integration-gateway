@@ -1,0 +1,7 @@
+{
+  "key": "peakon_employee_voice-update-employee",
+  "name": "Update Employee",
+  "description": "Partially updates an existing employee's attributes using their internal ID. ",
+  "type": "action",
+  "version": "0.0.2"
+}

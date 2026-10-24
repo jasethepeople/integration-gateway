@@ -1,0 +1,7 @@
+{
+  "key": "gtmetrix-run-performance-test",
+  "name": "Run Performance Test",
+  "description": "Run a performance test on a specified URL using GTmetrix. [See the documentation](https://gtmetrix.com/api/docs/2.0/#api-test-start)",
+  "type": "action",
+  "version": "0.0.2"
+}

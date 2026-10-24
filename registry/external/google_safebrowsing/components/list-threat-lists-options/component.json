@@ -1,0 +1,7 @@
+{
+  "key": "google_safebrowsing-list-threat-lists-options",
+  "name": "List Threat Lists Options",
+  "description": "Retrieves available options for the Threat Lists field.",
+  "type": "action",
+  "version": "0.0.1"
+}

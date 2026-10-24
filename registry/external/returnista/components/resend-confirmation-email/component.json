@@ -1,0 +1,7 @@
+{
+  "key": "returnista-resend-confirmation-email",
+  "name": "Resend Confirmation Email",
+  "description": "Resends the return confirmation email to the consumer for an existing return order.",
+  "type": "action",
+  "version": "0.0.2"
+}

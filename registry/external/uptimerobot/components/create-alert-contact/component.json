@@ -1,0 +1,7 @@
+{
+  "key": "uptimerobot-create-alert-contact",
+  "name": "Create Alert Contact",
+  "description": "Create a new alert contact. [See the documentation](https://uptimerobot.com/api/).",
+  "type": "action",
+  "version": "0.0.2"
+}

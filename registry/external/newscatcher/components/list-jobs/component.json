@@ -1,0 +1,7 @@
+{
+  "key": "newscatcher-list-jobs",
+  "name": "List Jobs",
+  "description": "List all jobs in Newscatcher. [See the documentation](https://www.newscatcherapi.com/docs/web-search-api/api-reference/jobs/list-user-jobs)",
+  "type": "action",
+  "version": "0.0.1"
+}

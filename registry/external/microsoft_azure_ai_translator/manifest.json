@@ -1,0 +1,46 @@
+{
+  "app": "microsoft_azure_ai_translator",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "text": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "to": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "from": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "profanityAction": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "includeAlignment": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "endpoint": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "location": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "microsoft_azure_ai_translator-break-sentence",
+    "microsoft_azure_ai_translator-detect-language",
+    "microsoft_azure_ai_translator-list-from-options",
+    "microsoft_azure_ai_translator-list-to-options",
+    "microsoft_azure_ai_translator-translate-text"
+  ]
+}

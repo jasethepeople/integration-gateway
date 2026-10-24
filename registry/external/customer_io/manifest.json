@@ -1,0 +1,25 @@
+{
+  "app": "customer_io",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "site_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "customer_io-add-customers-to-segment",
+    "customer_io-create-or-update-customer",
+    "customer_io-send-event-to-customer-io",
+    "customer_io-send-event-to"
+  ]
+}

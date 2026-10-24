@@ -1,0 +1,7 @@
+{
+  "key": "bol_com-list-products",
+  "name": "List Products",
+  "description": "List products. [See the documentation](https://api.bol.com/retailer/public/redoc/v10/retailer.html#tag/Products/operation/get-product-list)",
+  "type": "action",
+  "version": "0.0.1"
+}

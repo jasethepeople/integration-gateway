@@ -1,0 +1,7 @@
+{
+  "key": "elastic_security-run-detection-rule",
+  "name": "Run Detection Rule",
+  "description": "Manually run one or more Elastic Security detection rules over a time range via POST /api/detection_engine/rules/_bulk_action (bulk action `run`).",
+  "type": "action",
+  "version": "0.0.1"
+}

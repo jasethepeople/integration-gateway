@@ -1,0 +1,91 @@
+{
+  "app": "invision_community",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "password": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "validated": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "memberId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "forumId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "postContent": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "authorId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "openTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "closeTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "hidden": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "pinned": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "featured": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "invision_community-create-forum-topic",
+    "invision_community-create-member",
+    "invision_community-list-author-id-options",
+    "invision_community-list-forum-id-options",
+    "invision_community-list-group-id-options",
+    "invision_community-list-member-id-options",
+    "invision_community-update-member",
+    "invision_community-new-forum-topic-instant",
+    "invision_community-new-member-instant",
+    "invision_community-new-topic-post-instant"
+  ]
+}

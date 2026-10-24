@@ -1,0 +1,7 @@
+{
+  "key": "leadboxer-new-lead-added",
+  "name": "New Lead Added",
+  "description": "Emit new event when a new lead is added to the Leadboxer dataset. [See the documentation](https://developers.leadboxer.com/reference/users)",
+  "type": "source",
+  "version": "0.0.1"
+}

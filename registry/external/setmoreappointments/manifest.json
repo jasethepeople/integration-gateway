@@ -1,0 +1,25 @@
+{
+  "app": "setmoreappointments",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "staffKey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "serviceKey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "setmoreappointments-create-appointment",
+    "setmoreappointments-create-customer",
+    "setmoreappointments-list-service-key-options",
+    "setmoreappointments-new-appointment-created"
+  ]
+}

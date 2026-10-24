@@ -1,0 +1,67 @@
+{
+  "app": "orderspace",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "paymentTermId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerGroupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "priceListId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productSku": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "categoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "orderspace-create-customer",
+    "orderspace-create-dispatch",
+    "orderspace-create-order",
+    "orderspace-list-customer-group-id-options",
+    "orderspace-list-customers",
+    "orderspace-list-orders",
+    "orderspace-list-payment-term-id-options",
+    "orderspace-list-price-list-id-options",
+    "orderspace-list-products",
+    "orderspace-update-inventory-level",
+    "orderspace-customer-updated",
+    "orderspace-inventory-level-updated",
+    "orderspace-new-customer-created",
+    "orderspace-new-dispatch-created",
+    "orderspace-new-invoice-created",
+    "orderspace-new-order-created",
+    "orderspace-new-payment-created",
+    "orderspace-new-product-created"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "app": "viral_loops",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "viral_loops-create-participant",
+    "viral_loops-get-campaign",
+    "viral_loops-get-participant"
+  ]
+}

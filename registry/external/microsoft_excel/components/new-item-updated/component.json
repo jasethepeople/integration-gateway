@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_excel-new-item-updated",
+  "name": "New Spreadsheet Updated (Instant)",
+  "description": "Emit new event when an Excel spreadsheet is updated.",
+  "type": "source",
+  "version": "0.0.8"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zoom_admin-list-users",
+  "name": "List users",
+  "description": "List all users. [See the documentation](https://developers.zoom.us/docs/api/users/#tag/users/GET/users)",
+  "type": "action",
+  "version": "0.0.3"
+}

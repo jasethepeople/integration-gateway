@@ -1,0 +1,24 @@
+{
+  "app": "gloww",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "sessionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "gloww-create-live-session",
+    "gloww-list-session-id-options",
+    "gloww-list-template-id-options"
+  ]
+}

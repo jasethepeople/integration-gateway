@@ -1,0 +1,7 @@
+{
+  "key": "trustpilot-new-service-reviews",
+  "name": "New Service Reviews",
+  "description": "Emit new event when a customer posts a new service review on Trustpilot. This source periodically polls the Trustpilot API to detect new service reviews using the private reviews API for comprehensive coverage.",
+  "type": "source",
+  "version": "0.1.0"
+}

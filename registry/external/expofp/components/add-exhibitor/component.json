@@ -1,0 +1,7 @@
+{
+  "key": "expofp-add-exhibitor",
+  "name": "Add Exhibitor",
+  "description": "Adds an exhibitor. [See the documentation](https://expofp.docs.apiary.io/#reference/0/add-exhibitor/add-exhibitor)",
+  "type": "action",
+  "version": "0.0.3"
+}

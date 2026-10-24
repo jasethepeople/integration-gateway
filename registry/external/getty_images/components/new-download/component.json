@@ -1,0 +1,7 @@
+{
+  "key": "getty_images-new-download",
+  "name": "New Download",
+  "description": "Emit new event each time an image is downloaded from the Getty Images account. Polls the download history on a schedule. [See the documentation](https://developers.gettyimages.com/docs/)",
+  "type": "source",
+  "version": "0.0.1"
+}

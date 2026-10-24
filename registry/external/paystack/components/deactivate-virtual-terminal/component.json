@@ -1,0 +1,7 @@
+{
+  "key": "paystack-deactivate-virtual-terminal",
+  "name": "Deactivate Virtual Terminal",
+  "description": "Deactivate a Virtual Terminal on your integration. [See the documentation](https://paystack.com/docs/api/virtual-terminal/#deactivate)",
+  "type": "action",
+  "version": "0.0.2"
+}

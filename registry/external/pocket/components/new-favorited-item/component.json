@@ -1,0 +1,7 @@
+{
+  "key": "pocket-new-favorited-item",
+  "name": "New Favorited item",
+  "description": "Emit new event for each favorited item.",
+  "type": "source",
+  "version": "0.0.2"
+}

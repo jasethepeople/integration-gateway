@@ -1,0 +1,19 @@
+{
+  "app": "postgrid_verify",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "address": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "postgrid_verify-parse-address",
+    "postgrid_verify-verify-address"
+  ]
+}

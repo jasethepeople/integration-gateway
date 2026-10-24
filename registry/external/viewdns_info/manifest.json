@@ -1,0 +1,19 @@
+{
+  "app": "viewdns_info",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "viewdns_info-dns-record-lookup",
+    "viewdns_info-ip-history",
+    "viewdns_info-reverse-ip-lookup",
+    "viewdns_info-reverse-whois-lookup",
+    "viewdns_info-subdomain-discovery",
+    "viewdns_info-whois-lookup"
+  ]
+}

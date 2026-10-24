@@ -1,0 +1,7 @@
+{
+  "key": "parsio_io-create-mailbox",
+  "name": "Create Mailbox",
+  "description": "Create a new mailbox in Parsio. [See the documentation](https://help.parsio.io/public-api/parsio-public-api#create-a-mailbox)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "flodesk-subscriber-created",
+  "name": "Subscriber Created",
+  "description": "Emit new event when a subscriber is created in Flodesk. [See the documentation](https://developers.flodesk.com/#tag/webhook-event/operation/subscriber.created)",
+  "type": "source",
+  "version": "0.0.1"
+}

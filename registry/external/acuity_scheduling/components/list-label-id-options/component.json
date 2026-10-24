@@ -1,0 +1,7 @@
+{
+  "key": "acuity_scheduling-list-label-id-options",
+  "name": "List Label ID Options",
+  "description": "Retrieves available options for the Label ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

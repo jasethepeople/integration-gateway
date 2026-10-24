@@ -1,0 +1,7 @@
+{
+  "key": "vend-inventory-update",
+  "name": "New Inventory Update",
+  "description": "Emit new event for each update on inventory. [See docs here](https://docs.vendhq.com/reference/post-webhooks)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,27 @@
+{
+  "app": "dealmachine",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "leadId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tagIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dealmachine-add-lead",
+    "dealmachine-add-tag-to-lead",
+    "dealmachine-create-note",
+    "dealmachine-list-lead-id-options",
+    "dealmachine-list-tag-ids-options",
+    "dealmachine-new-lead"
+  ]
+}

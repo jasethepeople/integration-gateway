@@ -1,0 +1,7 @@
+{
+  "key": "transloadit-list-assembly-id-options",
+  "name": "List Assembly ID Options",
+  "description": "Retrieves available options for the Assembly ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

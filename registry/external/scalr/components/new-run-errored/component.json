@@ -1,0 +1,7 @@
+{
+  "key": "scalr-new-run-errored",
+  "name": "New Run Errored (Instant)",
+  "description": "Emit new event when a new run encountered an error. [See the documentation](https://docs.scalr.io/reference/create_webhook_integration)",
+  "type": "source",
+  "version": "0.0.1"
+}

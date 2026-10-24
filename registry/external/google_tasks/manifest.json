@@ -1,0 +1,63 @@
+{
+  "app": "google_tasks",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "notes": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "taskListId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "completed": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "due": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "keyword": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "alert": {
+      "kind": "propDefinition",
+      "type": "alert"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "google_tasks-complete-task",
+    "google_tasks-create-subtask",
+    "google_tasks-create-task-list",
+    "google_tasks-create-task",
+    "google_tasks-delete-task-list",
+    "google_tasks-delete-task",
+    "google_tasks-list-task-lists",
+    "google_tasks-list-tasks",
+    "google_tasks-move-task",
+    "google_tasks-search-tasks",
+    "google_tasks-update-task-list",
+    "google_tasks-update-task",
+    "google_tasks-new-task-added",
+    "google_tasks-new-task-updated"
+  ]
+}

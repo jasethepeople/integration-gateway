@@ -1,0 +1,7 @@
+{
+  "key": "motion-update-task",
+  "name": "Update Task",
+  "description": "Update a specific task. [See the documentation](https://docs.usemotion.com/docs/motion-rest-api/a2b2ce881ce26-update-a-task)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "float-create-task",
+  "name": "Create Task",
+  "description": "Create a new task (allocation). [See the documentation](https://developer.float.com/api_reference.html#!/Project_Tasks/addProjectTask)",
+  "type": "action",
+  "version": "0.0.1"
+}

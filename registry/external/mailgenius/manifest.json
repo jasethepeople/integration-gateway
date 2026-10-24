@@ -1,0 +1,21 @@
+{
+  "app": "mailgenius",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "slug": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mailgenius-get-daily-limit",
+    "mailgenius-get-email-audit",
+    "mailgenius-get-email-result",
+    "mailgenius-list-slug-options"
+  ]
+}

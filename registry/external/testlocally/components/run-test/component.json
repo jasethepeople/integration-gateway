@@ -1,0 +1,7 @@
+{
+  "key": "testlocally-run-test",
+  "name": "Run Test",
+  "description": "Create and run a new test in TestLocally. [See the documentation](https://testlocally.readme.io/reference/api_v0_request_test)",
+  "type": "action",
+  "version": "0.0.2"
+}

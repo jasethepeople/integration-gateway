@@ -1,0 +1,7 @@
+{
+  "key": "snipe_it-create-hardware",
+  "name": "Create Hardware Asset",
+  "description": "Creates a new hardware asset in Snipe-IT. [See the documentation](https://snipe-it.readme.io/reference/hardware-create)",
+  "type": "action",
+  "version": "0.0.2"
+}

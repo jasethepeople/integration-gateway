@@ -1,0 +1,7 @@
+{
+  "key": "sms_alert-schedule-sms",
+  "name": "Schedule SMS",
+  "description": "Schedules a text message to be sent at a specified time. [See the documentation](https://kb.smsalert.co.in/developers-api/#Schedule-a-SMS)",
+  "type": "action",
+  "version": "0.0.2"
+}

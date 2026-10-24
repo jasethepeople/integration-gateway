@@ -1,0 +1,7 @@
+{
+  "key": "mode-get-query",
+  "name": "Get Query",
+  "description": "Retrieve a single query within a report. [See the documentation](https://mode.com/developer/api-reference/analytics/queries/#getQueryInReport)",
+  "type": "action",
+  "version": "0.0.1"
+}

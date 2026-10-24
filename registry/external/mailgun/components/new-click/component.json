@@ -1,0 +1,7 @@
+{
+  "key": "mailgun-new-click",
+  "name": "New Click (Instant)",
+  "description": "Emit new event when the email recipient clicked on a link in the email. ",
+  "type": "source",
+  "version": "0.0.3"
+}

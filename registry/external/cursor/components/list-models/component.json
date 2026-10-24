@@ -1,0 +1,7 @@
+{
+  "key": "cursor-list-models",
+  "name": "List Models",
+  "description": "List all available Cursor models. [See the documentation](https://cursor.com/docs/cloud-agent/api/endpoints#list-models)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "nationbuilder-create-donation",
+  "name": "Create Donation",
+  "description": "Create a new donation with the provided data. [See the documentation](https://nationbuilder.com/donations_api)",
+  "type": "action",
+  "version": "0.0.2"
+}

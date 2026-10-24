@@ -1,0 +1,7 @@
+{
+  "key": "buildkite-list-organization-slug-options",
+  "name": "List Organization Slug Options",
+  "description": "Retrieves available options for the Organization Slug field.",
+  "type": "action",
+  "version": "0.0.1"
+}

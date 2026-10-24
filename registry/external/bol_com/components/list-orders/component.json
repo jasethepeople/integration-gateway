@@ -1,0 +1,7 @@
+{
+  "key": "bol_com-list-orders",
+  "name": "List Orders",
+  "description": "List orders. [See the documentation](https://api.bol.com/retailer/public/redoc/v10/retailer.html#tag/Orders/operation/get-orders)",
+  "type": "action",
+  "version": "0.0.2"
+}

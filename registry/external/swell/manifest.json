@@ -1,0 +1,65 @@
+{
+  "app": "swell",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "notes": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "price": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "active": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "discontinued": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "store_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "secret_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "swell-create-account",
+    "swell-create-product",
+    "swell-list-account-id-options",
+    "swell-update-account"
+  ]
+}

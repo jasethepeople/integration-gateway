@@ -1,0 +1,7 @@
+{
+  "key": "workamajig-updated-opportunity",
+  "name": "Updated Opportunity",
+  "description": "Emit new event when an opportunity is updated.",
+  "type": "source",
+  "version": "0.0.1"
+}

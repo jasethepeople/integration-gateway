@@ -1,0 +1,7 @@
+{
+  "key": "endorsal-list-testimonials",
+  "name": "List Testimonials",
+  "description": "Retrieves a list of testimonials received. [See the documentation](https://developers.endorsal.io/docs/endorsal/b3a6mtcynteyoa-retrieve-all-testimonials)",
+  "type": "action",
+  "version": "0.0.2"
+}

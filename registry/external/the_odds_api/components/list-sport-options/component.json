@@ -1,0 +1,7 @@
+{
+  "key": "the_odds_api-list-sport-options",
+  "name": "List Sport Options",
+  "description": "Retrieves available options for the Sport field.",
+  "type": "action",
+  "version": "0.0.1"
+}

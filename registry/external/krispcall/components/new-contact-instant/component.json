@@ -1,0 +1,7 @@
+{
+  "key": "krispcall-new-contact-instant",
+  "name": "New Contact (Instant)",
+  "description": "Emit new event when a new contact is created.",
+  "type": "source",
+  "version": "0.0.6"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "grabpenny-create-campaign",
+  "name": "Create Campaign",
+  "description": "Creates a new campaign in GrabPenny. [See the documentation](https://grabpenny.com/api-docs/)",
+  "type": "action",
+  "version": "0.0.1"
+}

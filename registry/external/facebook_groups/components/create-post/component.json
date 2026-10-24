@@ -1,0 +1,7 @@
+{
+  "key": "facebook_groups-create-post",
+  "name": "Create Post",
+  "description": "Create a new post in a group. [See the documentation](https://developers.facebook.com/docs/graph-api/reference/v17.0/group/feed)",
+  "type": "action",
+  "version": "0.0.3"
+}

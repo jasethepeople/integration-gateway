@@ -1,0 +1,7 @@
+{
+  "key": "reddit-list-comments-in-a-post",
+  "name": "List Comments in a Post",
+  "description": "List comments for a specific post. [See the docs here](https://www.reddit.com/dev/api/#GET_comments_{article})",
+  "type": "action",
+  "version": "0.1.4"
+}

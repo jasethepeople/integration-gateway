@@ -1,0 +1,7 @@
+{
+  "key": "scrapecreators-search-creators",
+  "name": "Search Creators",
+  "description": "Search for creators based on platform and query. [See the documentation](https://docs.scrapecreators.com/api-reference/introduction)",
+  "type": "action",
+  "version": "0.0.2"
+}

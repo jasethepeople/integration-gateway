@@ -1,0 +1,30 @@
+{
+  "app": "fullstory",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "eventType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eventSubcategory": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "fullstory-list-event-type-options",
+    "fullstory-custom-event",
+    "fullstory-native-mobile-crash",
+    "fullstory-new-event",
+    "fullstory-note-created",
+    "fullstory-segment-treshold-alert"
+  ],
+  "npmImports": [
+    "crypto-js"
+  ]
+}

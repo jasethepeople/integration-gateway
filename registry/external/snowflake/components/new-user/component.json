@@ -1,0 +1,7 @@
+{
+  "key": "snowflake-new-user",
+  "name": "New User",
+  "description": "Emit new event when a user is created",
+  "type": "source",
+  "version": "0.1.5"
+}

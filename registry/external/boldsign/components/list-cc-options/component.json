@@ -1,0 +1,7 @@
+{
+  "key": "boldsign-list-cc-options",
+  "name": "List CC Options",
+  "description": "Retrieves available options for the CC field.",
+  "type": "action",
+  "version": "0.0.1"
+}

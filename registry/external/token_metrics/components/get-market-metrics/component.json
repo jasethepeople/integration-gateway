@@ -1,0 +1,7 @@
+{
+  "key": "token_metrics-get-market-metrics",
+  "name": "Get Market Metrics",
+  "description": "Start Date accepts date as a string - `YYYY-MM-DD` format. Example: `2023-10-01`",
+  "type": "action",
+  "version": "0.1.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pocket-new-archived-item",
+  "name": "New Archived item",
+  "description": "Emit new event for each archived item.",
+  "type": "source",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "diffchecker-compare-image",
+  "name": "Compare Image",
+  "description": "Compares two images and returns the result.",
+  "type": "action",
+  "version": "1.0.3"
+}

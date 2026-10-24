@@ -1,0 +1,78 @@
+{
+  "app": "reply_io",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "stepId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "company": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "city": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "state": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "reply_io-create-and-push-to-campaign",
+    "reply_io-create-or-update-contact",
+    "reply_io-list-campaign-id-options",
+    "reply_io-mark-finished",
+    "reply_io-mark-replied",
+    "reply_io-remove-from-campaign",
+    "reply_io-new-contact-added",
+    "reply_io-new-contact-opted-out",
+    "reply_io-new-email-opened",
+    "reply_io-new-email-replied",
+    "reply_io-new-email-sent",
+    "reply_io-new-link-clicked",
+    "reply_io-new-prospect-finished",
+    "reply_io-new-reply-categorized"
+  ],
+  "npmImports": [
+    "lodash-es"
+  ]
+}

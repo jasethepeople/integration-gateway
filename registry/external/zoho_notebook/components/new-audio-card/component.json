@@ -1,0 +1,7 @@
+{
+  "key": "zoho_notebook-new-audio-card",
+  "name": "New Audio Card",
+  "description": "Emit new event when a new audio card is created in Zoho Notebook",
+  "type": "source",
+  "version": "0.0.1"
+}

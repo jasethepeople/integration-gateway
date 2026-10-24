@@ -1,0 +1,7 @@
+{
+  "key": "helpwise-apply-tag",
+  "name": "Apply Tag",
+  "description": "Applies tags on conversations. [See the documentation](https://documenter.getpostman.com/view/29744652/2s9YC5yYKf#88c4b377-8f55-4523-b296-201399920dbb)",
+  "type": "action",
+  "version": "0.0.1"
+}

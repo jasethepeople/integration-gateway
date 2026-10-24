@@ -1,0 +1,7 @@
+{
+  "key": "slack_v2-search",
+  "name": "Search",
+  "description": "Search Slack messages, files, channels, and users using the Real-Time Search API.",
+  "type": "action",
+  "version": "0.2.3"
+}

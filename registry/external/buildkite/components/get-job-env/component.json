@@ -1,0 +1,7 @@
+{
+  "key": "buildkite-get-job-env",
+  "name": "Get Job Environment Variables",
+  "description": "Returns the environment variables for a specific job in a build. [See the documentation](https://buildkite.com/docs/apis/rest-api/jobs#get-a-jobs-environment-variables)",
+  "type": "action",
+  "version": "0.0.1"
+}

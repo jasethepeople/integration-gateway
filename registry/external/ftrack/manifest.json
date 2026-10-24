@@ -1,0 +1,31 @@
+{
+  "app": "ftrack",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ftrack-get-task-info",
+    "ftrack-list-schemas",
+    "ftrack-update-task",
+    "ftrack-new-project-added",
+    "ftrack-new-task-added",
+    "ftrack-status-changed"
+  ]
+}

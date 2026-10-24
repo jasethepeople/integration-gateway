@@ -1,0 +1,7 @@
+{
+  "key": "attio-new-object-attribute-instant",
+  "name": "New Object Attribute (Instant)",
+  "description": "Emit new event when an object attribute is created (e.g. when defining a new attribute \"Rating\" on the company object)",
+  "type": "source",
+  "version": "0.0.5"
+}

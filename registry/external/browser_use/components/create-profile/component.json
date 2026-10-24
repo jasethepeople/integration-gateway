@@ -1,0 +1,7 @@
+{
+  "key": "browser_use-create-profile",
+  "name": "Create Profile",
+  "description": "Create a Browser Use profile to preserve cookies, local storage, and login state across sessions. [See the documentation](https://docs.browser-use.com/cloud/api-v3/profiles/create-profile)",
+  "type": "action",
+  "version": "0.0.2"
+}

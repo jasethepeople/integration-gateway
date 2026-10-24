@@ -1,0 +1,7 @@
+{
+  "key": "memberful-new-webhook-event",
+  "name": "New Webhook Event",
+  "description": "Emit new event in Pipedream when a subscribed event is triggered in memberful.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,35 @@
+{
+  "app": "intuiface",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "experienceNames": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "experienceIDs": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "playerDeviceNames": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "playerIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "intuiface-available-experiences",
+    "intuiface-list-experience-i-ds-options",
+    "intuiface-list-experience-names-options",
+    "intuiface-list-player-device-names-options",
+    "intuiface-list-player-ids-options",
+    "intuiface-send-message"
+  ]
+}

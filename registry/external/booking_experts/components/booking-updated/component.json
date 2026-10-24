@@ -1,0 +1,7 @@
+{
+  "key": "booking_experts-booking-updated",
+  "name": "Booking Updated",
+  "description": "Emit new event for each booking updated. [See the documentation](https://developers.bookingexperts.com/reference/administration-bookings-index)",
+  "type": "source",
+  "version": "0.0.9"
+}

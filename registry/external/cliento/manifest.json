@@ -1,0 +1,34 @@
+{
+  "app": "cliento",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "fromDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "toDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "resourceIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "serviceIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "account_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "cliento-get-ref-data",
+    "cliento-get-settings",
+    "cliento-get-slots",
+    "cliento-list-resource-ids-options",
+    "cliento-list-service-ids-options"
+  ]
+}

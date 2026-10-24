@@ -1,0 +1,7 @@
+{
+  "key": "google_ads-create-or-update-keywords",
+  "name": "Create, Update, or Remove Keywords",
+  "description": "Whether to create, update, or remove a keyword.",
+  "type": "action",
+  "version": "0.0.5"
+}

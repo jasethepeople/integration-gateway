@@ -1,0 +1,7 @@
+{
+  "key": "puppeteer-get-html",
+  "name": "Get HTML",
+  "description": "Get the HTML of a webpage using Puppeteer. [See the documentation](https://pptr.dev/api/puppeteer.page.content) for details.",
+  "type": "action",
+  "version": "1.0.4"
+}

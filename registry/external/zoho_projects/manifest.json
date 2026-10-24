@@ -1,0 +1,46 @@
+{
+  "app": "zoho_projects",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "portalId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectUserId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "folderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zoho_projects-add-log-time",
+    "zoho_projects-create-bug",
+    "zoho_projects-create-milestone",
+    "zoho_projects-create-project",
+    "zoho_projects-create-task-list",
+    "zoho_projects-create-task",
+    "zoho_projects-find-project",
+    "zoho_projects-list-portal-id-options",
+    "zoho_projects-update-project",
+    "zoho_projects-upload-file",
+    "zoho_projects-new-bug",
+    "zoho_projects-new-log-time",
+    "zoho_projects-new-milestone",
+    "zoho_projects-new-project",
+    "zoho_projects-new-task-list",
+    "zoho_projects-new-task"
+  ],
+  "npmImports": [
+    "async-retry",
+    "form-data",
+    "fs"
+  ]
+}

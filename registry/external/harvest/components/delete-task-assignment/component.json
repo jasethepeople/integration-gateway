@@ -1,0 +1,7 @@
+{
+  "key": "harvest-delete-task-assignment",
+  "name": "Delete Task Assignment",
+  "description": "Delete a task assignment from a project (only possible if it has no time entries). Use **List Task Assignments** to find IDs. Example: call with projectId and taskAssignmentId to remove that task from the project. [See the documentation](https://help.getharvest.com/api-v2/projects-api/projects/task-assignments/#delete-a-task-assignment).",
+  "type": "action",
+  "version": "0.0.1"
+}

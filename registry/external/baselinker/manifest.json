@@ -1,0 +1,42 @@
+{
+  "app": "baselinker",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "inventoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderStatusId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "currency": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "baselinker-create-or-update-inventory-product",
+    "baselinker-create-order",
+    "baselinker-delete-inventory-product",
+    "baselinker-list-inventory-id-options",
+    "baselinker-list-order-id-options",
+    "baselinker-list-order-status-id-options",
+    "baselinker-update-order-status",
+    "baselinker-new-order-created",
+    "baselinker-order-status-updated"
+  ]
+}

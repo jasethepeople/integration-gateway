@@ -1,0 +1,7 @@
+{
+  "key": "parsehub-get-projects",
+  "name": "Get Projects",
+  "description": "Lists all projects in your account [See the documentation](https://www.parsehub.com/docs/ref/api/v2/#list-all-projects)",
+  "type": "action",
+  "version": "0.0.2"
+}

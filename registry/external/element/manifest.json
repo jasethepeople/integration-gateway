@@ -1,0 +1,41 @@
+{
+  "app": "element",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "roomId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "reason": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "homeserver": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "element-ban-user",
+    "element-create-room",
+    "element-invite-user",
+    "element-kick-user",
+    "element-leave-room",
+    "element-list-rooms",
+    "element-resolve-room-alias",
+    "element-send-message",
+    "element-unban-user"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "storyscale-new-tour-created",
+  "name": "New Tour Created",
+  "description": "Emit new event when a new tour is created. [See the documentation](https://prodapi.storyscale.com/api/documentation)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "youtube_analytics_api-get-channel-report-metrics",
+  "name": "Get Channel Report Metrics",
+  "description": "Retrieve the supported metrics for a specified channel report type. [See the documentation](https://developers.google.com/youtube/analytics/channel_reports)",
+  "type": "action",
+  "version": "0.0.1"
+}

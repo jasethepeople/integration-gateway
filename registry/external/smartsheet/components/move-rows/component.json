@@ -1,0 +1,7 @@
+{
+  "key": "smartsheet-move-rows",
+  "name": "Move Rows",
+  "description": "Move rows from one sheet to another. WARNING: the rows are permanently removed from the source sheet. Cell values and formatting always come across; attachments and comments only if you ask for them via Include. Columns the destination sheet is missing are created automatically, so it does not have to match the source first. Returns `rowMappings` pairing each source row ID with its new ID in the destination. To keep the originals, use **Copy Rows**.",
+  "type": "action",
+  "version": "0.1.2"
+}

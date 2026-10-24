@@ -1,0 +1,7 @@
+{
+  "key": "gosquared-create-update-profile",
+  "name": "Create/Update Profile",
+  "description": "Create or update a user profile in GoSquared People CRM. [See the documentation](https://www.gosquared.com/docs/tracking/identify/)",
+  "type": "action",
+  "version": "0.0.1"
+}

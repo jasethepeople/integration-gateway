@@ -1,0 +1,7 @@
+{
+  "key": "helpdocs-get-article-versions",
+  "name": "Get Article Versions",
+  "description": "Retrieve version history and details for a specific article in your knowledge base. [See the documentation](https://apidocs.helpdocs.io/article/c3svl5hvb2-getting-article-versions)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "keycloak-update-user",
+  "name": "Update User",
+  "description": "Updates a user in Keycloak. [See the documentation](https://www.keycloak.org/docs-api/latest/rest-api/index.html#_users)",
+  "type": "action",
+  "version": "0.0.2"
+}

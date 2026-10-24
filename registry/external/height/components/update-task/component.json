@@ -1,0 +1,7 @@
+{
+  "key": "height-update-task",
+  "name": "Update Task",
+  "description": "Updates a specified task within your workspace. [See the documentation](https://height.notion.site/Update-tasks-53d72cb0059a4e0e81cc2fcbfcbf9d0a)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "salesflare-add-contact-to-account",
+  "name": "Add Contact To Account",
+  "description": "Adds a contact to an account [See the docs here](https://api.salesflare.com/docs#operation/postAccountsAccount_idContacts)",
+  "type": "action",
+  "version": "0.0.2"
+}

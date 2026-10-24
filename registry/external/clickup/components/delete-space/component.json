@@ -1,0 +1,7 @@
+{
+  "key": "clickup-delete-space",
+  "name": "Delete Space",
+  "description": "Delete a space. [See the documentation](https://clickup.com/api) in **Spaces / Delete Space** section.",
+  "type": "action",
+  "version": "0.0.12"
+}

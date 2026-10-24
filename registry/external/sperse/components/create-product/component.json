@@ -1,0 +1,7 @@
+{
+  "key": "sperse-create-product",
+  "name": "Create Product",
+  "description": "Creates a new product. [See the documentation](https://app.sperse.com/app/api/swagger)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "jigsawstack-sentiment-analysis",
+  "name": "Sentiment Analysis",
+  "description": "Assess sentiment of a provided text. Vibes can be positive, negative, or neutral. [See the documentation](https://docs.jigsawstack.com/api-reference/ai/sentiment)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,63 @@
+{
+  "app": "bannerbear",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "videoUid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "templateUid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "videoTemplateUid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "templateSetUid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "transcription": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "approved": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "modifications": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "frames": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "webhookUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "metadata": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "inputMediaUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "bannerbear-approve-video",
+    "bannerbear-create-animated-gif",
+    "bannerbear-create-collection",
+    "bannerbear-create-image",
+    "bannerbear-create-video",
+    "bannerbear-edit-video"
+  ]
+}

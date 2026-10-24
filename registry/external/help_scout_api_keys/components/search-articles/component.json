@@ -1,0 +1,7 @@
+{
+  "key": "help_scout_api_keys-search-articles",
+  "name": "Search Articles",
+  "description": "Search for articles by keyword. [See the documentation](https://developer.helpscout.com/docs-api/articles/search/)",
+  "type": "action",
+  "version": "0.0.1"
+}

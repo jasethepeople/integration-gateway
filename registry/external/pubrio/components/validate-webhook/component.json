@@ -1,0 +1,7 @@
+{
+  "key": "pubrio-validate-webhook",
+  "name": "Validate Webhook",
+  "description": "Validate a webhook URL for use with monitors. [See the documentation](https://docs.pubrio.com/en/api-reference/endpoint/monitors/webhook_validate)",
+  "type": "action",
+  "version": "0.0.1"
+}

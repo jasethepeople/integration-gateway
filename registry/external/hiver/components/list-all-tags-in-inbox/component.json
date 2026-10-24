@@ -1,0 +1,7 @@
+{
+  "key": "hiver-list-all-tags-in-inbox",
+  "name": "List All Tags In Inbox",
+  "description": "Get all tags associated with a Hiver inbox. [See the documentation](https://developer.hiverhq.com/hiver-api/inbox/get-all-tags-in-the-inbox)",
+  "type": "action",
+  "version": "0.0.2"
+}

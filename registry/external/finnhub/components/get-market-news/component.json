@@ -1,0 +1,7 @@
+{
+  "key": "finnhub-get-market-news",
+  "name": "Get Market News",
+  "description": "Get a list of the latest market news. [See the documentation](https://finnhub.io/docs/api/market-news)",
+  "type": "action",
+  "version": "0.0.1"
+}

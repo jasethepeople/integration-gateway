@@ -1,0 +1,7 @@
+{
+  "key": "hubspot-new-custom-object-property-change",
+  "name": "New Custom Object Property Change",
+  "description": "Emit new event when a specified property is provided or updated on a custom object.",
+  "type": "source",
+  "version": "0.0.32"
+}

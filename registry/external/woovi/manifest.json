@@ -1,0 +1,27 @@
+{
+  "app": "woovi",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "chargeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customer": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "app_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "woovi-create-charge-refund",
+    "woovi-create-charge",
+    "woovi-delete-charge",
+    "woovi-list-charge-id-options",
+    "woovi-list-customer-options",
+    "woovi-new-webhook-event"
+  ]
+}

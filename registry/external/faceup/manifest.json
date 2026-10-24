@@ -1,0 +1,11 @@
+{
+  "app": "faceup",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "faceup-new-internal-comment-instant",
+    "faceup-new-message-instant",
+    "faceup-new-report-instant"
+  ]
+}

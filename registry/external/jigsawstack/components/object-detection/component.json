@@ -1,0 +1,7 @@
+{
+  "key": "jigsawstack-object-detection",
+  "name": "Object Detection",
+  "description": "Recognize objects within a provided image and retrieve it with great accuracy. [See the documentation](https://docs.jigsawstack.com/api-reference/ai/object-detection)",
+  "type": "action",
+  "version": "1.0.4"
+}

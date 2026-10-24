@@ -1,0 +1,7 @@
+{
+  "key": "zoho_forms-get-form-fields",
+  "name": "Get Form Fields",
+  "description": "Get the fields of a particular form",
+  "type": "action",
+  "version": "0.0.2"
+}

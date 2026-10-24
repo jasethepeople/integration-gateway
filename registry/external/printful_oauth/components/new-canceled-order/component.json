@@ -1,0 +1,7 @@
+{
+  "key": "printful_oauth-new-canceled-order",
+  "name": "New Canceled Order (Instant)",
+  "description": "Emit new event on each canceled order.",
+  "type": "source",
+  "version": "0.0.1"
+}

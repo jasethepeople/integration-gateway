@@ -1,0 +1,7 @@
+{
+  "key": "zoho_commerce-create-product",
+  "name": "Create Product with Variant",
+  "description": "Create a new product with variants. [See the documentation](https://www.zoho.com/commerce/api/create-a-product-with-variant.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "teachable-update-student",
+  "name": "Update Student",
+  "description": "Updates an existing student. [See the documentation](https://docs.teachable.com/reference/updateuser)",
+  "type": "action",
+  "version": "0.0.2"
+}

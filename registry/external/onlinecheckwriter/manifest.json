@@ -1,0 +1,110 @@
+{
+  "app": "onlinecheckwriter",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "bankAccountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "payeeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "categoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "issueDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "amount": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "memo": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "note": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "invoiceNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "noSign": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "noAmount": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "noDate": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "noPayee": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "customFromAddressId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customToAddressId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shippingTypeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "checkId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "paperTypeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "informTypeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "enableSmsInform": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "payeeEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "payeePhone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "onlinecheckwriter-create-check",
+    "onlinecheckwriter-create-email-check",
+    "onlinecheckwriter-create-mail-check",
+    "onlinecheckwriter-create-payee",
+    "onlinecheckwriter-list-bank-account-id-options",
+    "onlinecheckwriter-list-category-id-options",
+    "onlinecheckwriter-list-custom-from-address-id-options",
+    "onlinecheckwriter-list-custom-to-address-id-options",
+    "onlinecheckwriter-list-payee-id-options",
+    "onlinecheckwriter-mail-pdf-document"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

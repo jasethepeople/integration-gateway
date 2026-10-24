@@ -1,0 +1,7 @@
+{
+  "key": "pixelbin-create-folder",
+  "name": "Create Folder",
+  "description": "Creates a new folder in Pixelbin. [See the documentation](https://www.pixelbin.io/docs/api-docs/)",
+  "type": "action",
+  "version": "0.0.2"
+}

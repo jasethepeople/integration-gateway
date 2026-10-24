@@ -1,0 +1,7 @@
+{
+  "key": "wildapricot-new-payments-received",
+  "name": "New Payments Received",
+  "description": "Emit new event each time a new payment is received in WildApricot",
+  "type": "source",
+  "version": "0.0.1"
+}

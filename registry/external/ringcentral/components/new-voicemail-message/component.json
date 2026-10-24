@@ -1,0 +1,7 @@
+{
+  "key": "ringcentral-new-voicemail-message",
+  "name": "New Voicemail Message (Instant)",
+  "description": "Emit new event when a new voicemail message is received",
+  "type": "source",
+  "version": "0.1.5"
+}

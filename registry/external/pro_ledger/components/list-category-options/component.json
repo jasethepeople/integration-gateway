@@ -1,0 +1,7 @@
+{
+  "key": "pro_ledger-list-category-options",
+  "name": "List category Options",
+  "description": "Retrieves available options for the category field.",
+  "type": "action",
+  "version": "0.0.1"
+}

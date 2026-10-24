@@ -1,0 +1,7 @@
+{
+  "key": "scrapecreators-fetch-creator-profile",
+  "name": "Fetch Creator Profile",
+  "description": "Fetch a creator profile based on platform and handle or unique ID. [See the documentation](https://docs.scrapecreators.com/introduction)",
+  "type": "action",
+  "version": "0.0.2"
+}

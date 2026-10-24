@@ -1,0 +1,7 @@
+{
+  "key": "dolibarr-create-thirdparty",
+  "name": "Create Third Party",
+  "description": "Create a new third party in Dolibarr.",
+  "type": "action",
+  "version": "0.0.3"
+}

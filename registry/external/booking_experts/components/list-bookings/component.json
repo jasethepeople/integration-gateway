@@ -1,0 +1,7 @@
+{
+  "key": "booking_experts-list-bookings",
+  "name": "List Bookings",
+  "description": "Returns a list of bookings for an administration. [See the documentation](https://developers.bookingexperts.com/reference/administration-bookings-index)",
+  "type": "action",
+  "version": "1.0.1"
+}

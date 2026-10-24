@@ -1,0 +1,7 @@
+{
+  "key": "pubrio-reveal-contact",
+  "name": "Reveal Contact",
+  "description": "Reveal email or phone number for a person (uses credits). [See the documentation](https://docs.pubrio.com/en/api-reference/endpoint/redeem/people)",
+  "type": "action",
+  "version": "0.0.2"
+}

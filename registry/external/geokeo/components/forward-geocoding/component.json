@@ -1,0 +1,7 @@
+{
+  "key": "geokeo-forward-geocoding",
+  "name": "Forward Geocoding",
+  "description": "Convert address data into geographic coordinates. [See the documentation](https://geokeo.com/documentation.php#request-forward-geocoding)",
+  "type": "action",
+  "version": "0.0.2"
+}

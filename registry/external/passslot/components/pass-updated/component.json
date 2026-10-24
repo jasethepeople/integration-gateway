@@ -1,0 +1,7 @@
+{
+  "key": "passslot-pass-updated",
+  "name": "Pass Updated",
+  "description": "Emit new event when an existing pass is updated in PassSlot. [See the documentation](https://www.passslot.com/developer/api/resources/showPassValues)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "splunk-new-search-event",
+  "name": "New Search Event",
+  "description": "Emit new event when a new search event is created. [See the documentation](https://docs.splunk.com/Documentation/Splunk/9.4.1/RESTREF/RESTsearch#search.2Fv2.2Fjobs.2F.7Bsearch_id.7D.2Fevents)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,35 @@
+{
+  "app": "announcekit",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "labels": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "locale": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "password": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "announcekit-create-post",
+    "announcekit-list-locale-options",
+    "announcekit-list-project-id-options",
+    "announcekit-new-comment",
+    "announcekit-new-post",
+    "announcekit-new-reaction"
+  ]
+}

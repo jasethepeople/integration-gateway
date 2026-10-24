@@ -1,0 +1,7 @@
+{
+  "key": "clickup-create-threaded-comment",
+  "name": "Create Threaded Comment",
+  "description": "Creates a threaded comment. [See the documentation](https://clickup.com/api) in **Comments / Create Threaded Comment** section.",
+  "type": "action",
+  "version": "0.0.12"
+}

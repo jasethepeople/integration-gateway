@@ -1,0 +1,165 @@
+{
+  "app": "upsales",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "stageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "stageName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "stageProbability": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "companyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyPhone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyWebpage": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyCustom": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactFirstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactLastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactPhone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactCellPhone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactTitle": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactActive": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "contactClientId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "activityId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "npsId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "activityTypeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "opportunityId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "offset": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "upsales-create-appointment",
+    "upsales-create-company",
+    "upsales-create-contact",
+    "upsales-create-opportunity",
+    "upsales-create-order",
+    "upsales-create-stage",
+    "upsales-create-user",
+    "upsales-deactivate-user",
+    "upsales-get-activity-list",
+    "upsales-get-activity",
+    "upsales-get-appointment-list",
+    "upsales-get-company-list",
+    "upsales-get-company",
+    "upsales-get-contact-list",
+    "upsales-get-contact",
+    "upsales-get-nps-list",
+    "upsales-get-nps",
+    "upsales-get-opportunity-list",
+    "upsales-get-opportunity",
+    "upsales-get-order-list",
+    "upsales-get-order",
+    "upsales-get-phone-call-list",
+    "upsales-get-product-list",
+    "upsales-get-product",
+    "upsales-get-stage-list",
+    "upsales-get-stage",
+    "upsales-get-user-list",
+    "upsales-get-user",
+    "upsales-list-activity-id-options",
+    "upsales-list-activity-type-id-options",
+    "upsales-list-company-id-options",
+    "upsales-list-contact-id-options",
+    "upsales-list-nps-id-options",
+    "upsales-list-opportunity-id-options",
+    "upsales-list-order-id-options",
+    "upsales-list-product-id-options",
+    "upsales-list-stage-id-options",
+    "upsales-list-user-id-options",
+    "upsales-update-appointment",
+    "upsales-update-company",
+    "upsales-update-contact",
+    "upsales-update-opportunity",
+    "upsales-update-order",
+    "upsales-update-stage",
+    "upsales-upload-document"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

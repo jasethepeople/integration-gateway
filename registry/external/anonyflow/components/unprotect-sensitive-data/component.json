@@ -1,0 +1,7 @@
+{
+  "key": "anonyflow-unprotect-sensitive-data",
+  "name": "Unprotect Sensitive Data",
+  "description": "Decrypts protected data using AnonyFlow decryption service with a unique private key, managed by AnonyFlow. [See the documentation](https://anonyflow.com/api)",
+  "type": "action",
+  "version": "0.0.2"
+}

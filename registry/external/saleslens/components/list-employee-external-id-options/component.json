@@ -1,0 +1,7 @@
+{
+  "key": "saleslens-list-employee-external-id-options",
+  "name": "List Employee External ID Options",
+  "description": "Retrieves available options for the Employee External ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "adrapid-new-banner-ready",
+  "name": "New Banner Ready",
+  "description": "Emit new event when a new banner is ready.",
+  "type": "source",
+  "version": "0.0.1"
+}

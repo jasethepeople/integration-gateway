@@ -1,0 +1,26 @@
+{
+  "app": "caspio",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "table": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "caspio-create-record",
+    "caspio-list-table-options",
+    "caspio-new-record-created",
+    "caspio-record-deleted",
+    "caspio-record-updated"
+  ]
+}

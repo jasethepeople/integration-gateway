@@ -1,0 +1,7 @@
+{
+  "key": "getaccept-document-signed",
+  "name": "New Document Signed (Instant)",
+  "description": "Emit new event when a document is signed.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "voice_monkey-display-video",
+  "name": "Display Video",
+  "description": "This action will display a video on your device with a screen e.g. Echo Show. [See docs here](https://voicemonkey.io/docs)",
+  "type": "action",
+  "version": "0.0.2"
+}

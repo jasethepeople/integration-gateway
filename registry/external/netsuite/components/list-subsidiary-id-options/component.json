@@ -1,0 +1,7 @@
+{
+  "key": "netsuite-list-subsidiary-id-options",
+  "name": "List Subsidiary ID Options",
+  "description": "Retrieves available options for the Subsidiary ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

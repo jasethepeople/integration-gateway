@@ -1,0 +1,7 @@
+{
+  "key": "infinity-item-updated",
+  "name": "New Item Updated",
+  "description": "Emit new event when an item is updated.",
+  "type": "source",
+  "version": "0.0.1"
+}

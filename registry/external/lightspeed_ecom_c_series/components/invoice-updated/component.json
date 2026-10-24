@@ -1,0 +1,7 @@
+{
+  "key": "lightspeed_ecom_c_series-invoice-updated",
+  "name": "Invoice Updated (Instant)",
+  "description": "Emit new event when an invoice is updated.",
+  "type": "source",
+  "version": "0.0.1"
+}

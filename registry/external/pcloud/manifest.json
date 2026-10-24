@@ -1,0 +1,64 @@
+{
+  "app": "pcloud",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "fileId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "folderId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "overwrite": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "showDeleted": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "modifiedTime": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "createdTime": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "locationid": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pcloud-copy-file",
+    "pcloud-copy-folder",
+    "pcloud-create-folder",
+    "pcloud-download-files",
+    "pcloud-list-contents",
+    "pcloud-list-file-id-options",
+    "pcloud-list-folder-id-options",
+    "pcloud-move-file",
+    "pcloud-move-folder",
+    "pcloud-rename-file",
+    "pcloud-rename-folder",
+    "pcloud-upload-file",
+    "pcloud-watch-folder"
+  ],
+  "npmImports": [
+    "async-retry",
+    "fs",
+    "lodash",
+    "pcloud-sdk-js"
+  ]
+}

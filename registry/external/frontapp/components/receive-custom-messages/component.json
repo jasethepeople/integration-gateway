@@ -1,0 +1,7 @@
+{
+  "key": "frontapp-receive-custom-messages",
+  "name": "Receive Custom Messages",
+  "description": "Receive a custom message in Front. [See the documentation](https://dev.frontapp.com/reference/post_channels-channel-id-incoming-messages).",
+  "type": "action",
+  "version": "0.0.10"
+}

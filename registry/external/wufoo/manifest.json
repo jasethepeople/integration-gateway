@@ -1,0 +1,27 @@
+{
+  "app": "wufoo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "formHash": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "wufoo-list-form-hash-options",
+    "wufoo-submit-form-entry",
+    "wufoo-new-form-entry"
+  ],
+  "npmImports": [
+    "qs"
+  ]
+}

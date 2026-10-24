@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-delete-record",
+  "name": "Delete Record",
+  "description": "Delete a Salesforce record of any object type.",
+  "type": "action",
+  "version": "0.2.7"
+}

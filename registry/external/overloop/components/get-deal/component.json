@@ -1,0 +1,7 @@
+{
+  "key": "overloop-get-deal",
+  "name": "Get Deal",
+  "description": "Retrieves a deal by id. [See the docs](https://apidoc.overloop.com/#retrieve-a-deal)",
+  "type": "action",
+  "version": "0.0.2"
+}

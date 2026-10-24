@@ -1,0 +1,57 @@
+{
+  "app": "smoove",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cellPhone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "address": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "company": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "position": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "canReceiveEmails": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "canReceiveSmsMessages": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "smoove-add-or-update-subscriber",
+    "smoove-create-list",
+    "smoove-find-or-create-subscriber",
+    "smoove-find-subscriber",
+    "smoove-unsubscribe-contact",
+    "smoove-new-form-created",
+    "smoove-new-list-created",
+    "smoove-new-subscriber-created"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "waitlist-new-list",
+  "name": "New List Created",
+  "description": "Emit new event each time a waitlist is created. [See the documentation](https://getwaitlist.com/docs/api-docs/waitlist)",
+  "type": "source",
+  "version": "0.0.1"
+}

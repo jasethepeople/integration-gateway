@@ -1,0 +1,7 @@
+{
+  "key": "discord-send-message-advanced",
+  "name": "Send Message (Advanced)",
+  "description": "Send a simple or structured message (using embeds) to a Discord channel",
+  "type": "action",
+  "version": "1.0.3"
+}

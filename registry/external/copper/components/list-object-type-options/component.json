@@ -1,0 +1,7 @@
+{
+  "key": "copper-list-object-type-options",
+  "name": "List Object Type Options",
+  "description": "Retrieves available options for the Object Type field.",
+  "type": "action",
+  "version": "0.0.2"
+}

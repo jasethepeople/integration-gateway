@@ -1,0 +1,7 @@
+{
+  "key": "api4ai-car-image-background-removal",
+  "name": "Car Image Background Removal",
+  "description": "Remove Background for car images. Powered by API4AI.",
+  "type": "action",
+  "version": "0.0.6"
+}

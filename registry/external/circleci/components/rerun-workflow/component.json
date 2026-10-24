@@ -1,0 +1,7 @@
+{
+  "key": "circleci-rerun-workflow",
+  "name": "Rerun Workflow",
+  "description": "Reruns the specified workflow. [See the documentation](https://circleci.com/docs/api/v2/index.html#tag/Workflow/operation/rerunWorkflow)",
+  "type": "action",
+  "version": "0.0.2"
+}

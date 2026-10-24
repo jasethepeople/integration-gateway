@@ -1,0 +1,7 @@
+{
+  "key": "crowdin-file-approved-instant",
+  "name": "New File Approved (Instant)",
+  "description": "Emit new event when a file is fully translated and approved.",
+  "type": "source",
+  "version": "0.0.1"
+}

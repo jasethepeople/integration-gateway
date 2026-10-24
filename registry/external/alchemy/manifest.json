@@ -1,0 +1,22 @@
+{
+  "app": "alchemy",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "network": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "auth_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "alchemy-new-graphql-query-instant"
+  ]
+}

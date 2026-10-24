@@ -1,0 +1,7 @@
+{
+  "key": "frontapp-get-comment",
+  "name": "Get Comment",
+  "description": "Retrieve a comment from a conversation. [See the documentation](https://dev.frontapp.com/reference/get-comment)",
+  "type": "action",
+  "version": "0.0.7"
+}

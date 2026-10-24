@@ -1,0 +1,7 @@
+{
+  "key": "bamboohr-list-changed-employees",
+  "name": "List Changed Employees",
+  "description": "List employee IDs that changed since a given time. Returns employeeId, change type, and last-changed timestamp per entry. [See the documentation](https://documentation.bamboohr.com/reference/get-changed-employee-ids)",
+  "type": "action",
+  "version": "0.0.1"
+}

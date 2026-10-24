@@ -1,0 +1,7 @@
+{
+  "key": "trengo-remove-label",
+  "name": "Remove Label",
+  "description": "Remove a label from a ticket. [See the documentation](https://developers.trengo.com/reference/detach-a-label)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+import common from "../../shared/sources/common/highlight.mjs";
+import sampleEmit from "../../shared/sources/new-highlight-instant/test-event.mjs";
+
+export default {
+  ...common,
+  key: "grain-new-highlight-instant",
+  name: "New Highlight (Instant)",
+  description: "Emit new event when a highlight is added. [See the documentation](https://developers.grain.com/#create-hook)",
+  version: "1.0.1",
+  type: "source",
+  dedupe: "unique",
+  methods: {
+    ...common.methods,
+    getHookType() {
+      return "highlight_added";
+    },
+    getSummary({ data }) {
+      return `New highlight added: ${data.id}`;
+    },
+  },
+  sampleEmit,
+};

@@ -1,0 +1,7 @@
+{
+  "key": "quentn-find-or-create-contact",
+  "name": "Find or Create Contact",
+  "description": "Finds or creates a contact. [See the docs](https://help.quentn.com/hc/en-150/articles/4517835330961-Contact-API).",
+  "type": "action",
+  "version": "0.0.2"
+}

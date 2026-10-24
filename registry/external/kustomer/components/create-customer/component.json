@@ -1,0 +1,7 @@
+{
+  "key": "kustomer-create-customer",
+  "name": "Create Customer",
+  "description": "Creates a new customer in Kustomer. [See the documentation](https://developer.kustomer.com/kustomer-api-docs/reference/createacustomer)",
+  "type": "action",
+  "version": "0.0.3"
+}

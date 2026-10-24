@@ -1,0 +1,7 @@
+{
+  "key": "wordpress_org-create-user",
+  "name": "Create User",
+  "description": "Creates a user. [See the documentation](https://developer.wordpress.org/rest-api/reference/users/#create-a-user)",
+  "type": "action",
+  "version": "0.0.6"
+}

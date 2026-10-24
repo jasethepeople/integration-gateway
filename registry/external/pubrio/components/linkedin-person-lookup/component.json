@@ -1,0 +1,7 @@
+{
+  "key": "pubrio-linkedin-person-lookup",
+  "name": "People LinkedIn Lookup",
+  "description": "Real-time LinkedIn person lookup. [See the documentation](https://docs.pubrio.com/en/api-reference/endpoint/people/linkedin_lookup)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "nordigen-new-transaction",
+  "name": "New Transaction",
+  "description": "Emit new event when a transaction occurs",
+  "type": "source",
+  "version": "1.0.1"
+}

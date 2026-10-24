@@ -1,0 +1,72 @@
+{
+  "app": "hedy",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "sessionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "topicId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "highlightId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "todoId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contextId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "after": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "content": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "isDefault": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "hedy-create-session-context",
+    "hedy-create-topic",
+    "hedy-delete-session-context",
+    "hedy-delete-topic",
+    "hedy-get-highlight",
+    "hedy-get-highlights-by-session",
+    "hedy-get-many-highlights",
+    "hedy-get-many-session-contexts",
+    "hedy-get-many-sessions",
+    "hedy-get-many-todos",
+    "hedy-get-many-topics",
+    "hedy-get-session-context",
+    "hedy-get-session",
+    "hedy-get-todo",
+    "hedy-get-todos-by-session",
+    "hedy-get-topic-sessions",
+    "hedy-get-topic",
+    "hedy-update-session-context",
+    "hedy-update-topic"
+  ]
+}

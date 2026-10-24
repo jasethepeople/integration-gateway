@@ -1,0 +1,7 @@
+{
+  "key": "alttextify-new-alttext-generated",
+  "name": "New Alt Text Generated",
+  "description": "Emit new event when new alt text is generated for an image. [See the documentation](https://apidoc.alttextify.net/#api-Image-GetImages)",
+  "type": "source",
+  "version": "0.0.1"
+}

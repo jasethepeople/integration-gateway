@@ -1,0 +1,23 @@
+{
+  "app": "csvbox",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "sheetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "secret_api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "csvbox-list-sheet-id-options",
+    "csvbox-new-row-instant"
+  ]
+}

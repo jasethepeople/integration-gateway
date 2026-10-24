@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-make-api-request",
+  "name": "Make API Request",
+  "description": "HTTP method",
+  "type": "action",
+  "version": "0.0.2"
+}

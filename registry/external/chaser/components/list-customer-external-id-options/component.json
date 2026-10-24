@@ -1,0 +1,7 @@
+{
+  "key": "chaser-list-customer-external-id-options",
+  "name": "List Customer External ID Options",
+  "description": "Retrieves available options for the Customer External ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

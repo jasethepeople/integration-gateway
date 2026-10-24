@@ -1,0 +1,7 @@
+{
+  "key": "pagerduty-list-services",
+  "name": "List Services",
+  "description": "List services, optionally filtered by team or searched by name.",
+  "type": "action",
+  "version": "0.0.2"
+}

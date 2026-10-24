@@ -1,0 +1,7 @@
+{
+  "key": "clickup-update-list",
+  "name": "Update List",
+  "description": "Update a list. [See the documentation](https://clickup.com/api) in **Lists / Update List** section.",
+  "type": "action",
+  "version": "0.0.12"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "apiary-list-api-subdomain-options",
+  "name": "List API Subdomain Options",
+  "description": "Retrieves available options for the API Subdomain field.",
+  "type": "action",
+  "version": "0.0.1"
+}

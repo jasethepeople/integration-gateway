@@ -1,0 +1,7 @@
+{
+  "key": "suitedash-create-contact",
+  "name": "Create Contact",
+  "description": "Creates a new contact in SuiteDash. [See the documentation](https://app.suitedash.com/secure-api/swagger)",
+  "type": "action",
+  "version": "0.0.2"
+}

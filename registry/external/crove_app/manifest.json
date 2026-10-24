@@ -1,0 +1,39 @@
+{
+  "app": "crove_app",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "document_id": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "template_id": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "crove_app-complete-document",
+    "crove_app-create-document",
+    "crove_app-create-invitation-link",
+    "crove_app-generate-pdf-from-document",
+    "crove_app-generate-template-pdf",
+    "crove_app-get-document-details",
+    "crove_app-list-document-id-options",
+    "crove_app-list-template-id-options",
+    "crove_app-send-document",
+    "crove_app-submit-document",
+    "crove_app-update-document-details",
+    "crove_app-update-document",
+    "crove_app-document-completed",
+    "crove_app-document-created",
+    "crove_app-document-submitted"
+  ],
+  "npmImports": [
+    "uuid"
+  ]
+}

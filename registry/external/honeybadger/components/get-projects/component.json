@@ -1,0 +1,7 @@
+{
+  "key": "honeybadger-get-projects",
+  "name": "Get projects",
+  "description": "Get a project list",
+  "type": "action",
+  "version": "0.1.2"
+}

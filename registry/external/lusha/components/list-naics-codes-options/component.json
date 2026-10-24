@@ -1,0 +1,7 @@
+{
+  "key": "lusha-list-naics-codes-options",
+  "name": "List Company NAICS Codes Options",
+  "description": "Retrieves available options for the Company NAICS Codes field.",
+  "type": "action",
+  "version": "0.0.1"
+}

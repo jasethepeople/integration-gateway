@@ -1,0 +1,7 @@
+{
+  "key": "white_swan-get-referred-clients-info",
+  "name": "Get Referred Clients Info",
+  "description": "Retrieves information about clients referred from the user's White Swan account. [See the documentation](https://docs.whiteswan.io/partner-knowledge-base/api-documentation/information-calls/referred-client-s)",
+  "type": "action",
+  "version": "0.0.2"
+}

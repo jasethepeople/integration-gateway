@@ -1,0 +1,53 @@
+{
+  "app": "fireberry",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "accountName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emailAddress1": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "websiteUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "articleName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "articleSubject": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "articleBody": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "fireberry-create-account",
+    "fireberry-create-article",
+    "fireberry-list-accounts",
+    "fireberry-list-articles"
+  ]
+}

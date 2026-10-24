@@ -1,0 +1,7 @@
+{
+  "key": "pipefy-create-pipe",
+  "name": "Create Pipe",
+  "description": "Creates a pipe. [See the docs here](https://api-docs.pipefy.com/reference/mutations/createPipe/)",
+  "type": "action",
+  "version": "0.3.3"
+}

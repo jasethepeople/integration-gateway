@@ -1,0 +1,7 @@
+{
+  "key": "booking_experts-get-reservation",
+  "name": "Get Reservation",
+  "description": "Fetches a reservation by ID from Booking Experts. [See the documentation](https://developers.bookingexperts.com/reference/reservations-show)",
+  "type": "action",
+  "version": "0.0.7"
+}

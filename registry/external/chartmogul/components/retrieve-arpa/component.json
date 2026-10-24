@@ -1,0 +1,7 @@
+{
+  "key": "chartmogul-retrieve-arpa",
+  "name": "Retrieve Average Revenue Per Account (ARPA)",
+  "description": "Retrieves the Average Revenue Per Account (ARPA), for the specified time period. [See the docs here](https://dev.chartmogul.com/reference/retrieve-arpa)",
+  "type": "action",
+  "version": "0.0.2"
+}

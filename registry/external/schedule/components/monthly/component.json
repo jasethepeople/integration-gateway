@@ -1,0 +1,7 @@
+{
+  "key": "schedule-monthly",
+  "name": "Monthly Schedule",
+  "description": "Trigger your workflow on one or more days each month at a specific time (with timezone support).",
+  "type": "source",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "ashby-create-candidate",
+  "name": "Create Candidate",
+  "description": "Creates a new candidate in Ashby. [See the documentation](https://developers.ashbyhq.com/reference/candidatecreate)",
+  "type": "action",
+  "version": "0.0.4"
+}

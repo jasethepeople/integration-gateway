@@ -1,0 +1,7 @@
+{
+  "key": "chargify-list-coupon-code-options",
+  "name": "List Coupon Code Options",
+  "description": "Retrieves available options for the Coupon Code field.",
+  "type": "action",
+  "version": "0.0.1"
+}

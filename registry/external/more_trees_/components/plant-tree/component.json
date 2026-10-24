@@ -1,0 +1,7 @@
+{
+  "key": "more_trees_-plant-tree",
+  "name": "Plant Tree",
+  "description": "Plant a tree for self or for others. [See the documentation](https://moretrees.eco/user-guide/api/#KB32)",
+  "type": "action",
+  "version": "0.0.2"
+}

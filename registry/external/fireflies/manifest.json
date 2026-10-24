@@ -1,0 +1,62 @@
+{
+  "app": "fireflies",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "meetingId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "channelId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "askfredThreadId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "question": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "responseLanguage": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "formatMode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "fireflies-ask-question-about-meeting",
+    "fireflies-continue-askfred-conversation",
+    "fireflies-create-live-meeting-soundbite",
+    "fireflies-create-meeting-clip",
+    "fireflies-find-clip-by-id",
+    "fireflies-find-meeting-by-id",
+    "fireflies-find-recent-meeting",
+    "fireflies-list-askfred-thread-id-options",
+    "fireflies-list-channel-id-options",
+    "fireflies-list-clips",
+    "fireflies-list-meeting-id-options",
+    "fireflies-list-user-id-options",
+    "fireflies-revoke-meeting-access",
+    "fireflies-set-user-role",
+    "fireflies-share-meeting",
+    "fireflies-update-meeting",
+    "fireflies-new-meeting-created"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pipedream_utils-random-integer",
+  "name": "Helper Functions - Random Integer",
+  "description": "Generate a random integer (whole number). Useful for random delays.",
+  "type": "action",
+  "version": "0.0.2"
+}

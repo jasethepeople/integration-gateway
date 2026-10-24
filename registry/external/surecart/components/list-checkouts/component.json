@@ -1,0 +1,7 @@
+{
+  "key": "surecart-list-checkouts",
+  "name": "List Checkouts",
+  "description": "Return a list of checkouts. [See the documentation](https://developer.surecart.com/api-reference/checkouts/list)",
+  "type": "action",
+  "version": "1.0.0"
+}

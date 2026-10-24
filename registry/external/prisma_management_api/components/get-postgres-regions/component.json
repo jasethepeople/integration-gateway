@@ -1,0 +1,7 @@
+{
+  "key": "prisma_management_api-get-postgres-regions",
+  "name": "Get Prisma Postgres Regions",
+  "description": "Retrieves a list of all available regions where Prisma Postgres databases can be deployed. [See docs here](https://www.prisma.io/docs/postgres/introduction/management-api)",
+  "type": "action",
+  "version": "1.0.2"
+}

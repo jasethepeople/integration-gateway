@@ -1,0 +1,7 @@
+{
+  "key": "alegra-create-contact",
+  "name": "Create Contact",
+  "description": "Adds a new contact to Alegra. [See the documentation](https://developer.alegra.com/reference/post_contacts).",
+  "type": "action",
+  "version": "0.0.2"
+}

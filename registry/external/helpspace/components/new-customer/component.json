@@ -1,0 +1,7 @@
+{
+  "key": "helpspace-new-customer",
+  "name": "New Customer (Instant)",
+  "description": "Emit new event when a new customer signs up on Helpspace. Note: Users may only have one active Helpspace webhook at a time. [See the documentation](https://documentation.helpspace.com/article/340/webhook)",
+  "type": "source",
+  "version": "0.0.1"
+}

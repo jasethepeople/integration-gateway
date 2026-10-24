@@ -1,0 +1,7 @@
+{
+  "key": "statuspage-create-maintenance",
+  "name": "Create Maintenance",
+  "description": "Creates a scheduled maintenance incident in Statuspage. [See the documentation](https://developer.statuspage.io/#operation/postPagesPageIdIncidents)",
+  "type": "action",
+  "version": "0.0.1"
+}

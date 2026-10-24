@@ -1,0 +1,7 @@
+{
+  "key": "bigcommerce-new-order",
+  "name": "New Order",
+  "description": "Emit new created order",
+  "type": "source",
+  "version": "0.0.2"
+}

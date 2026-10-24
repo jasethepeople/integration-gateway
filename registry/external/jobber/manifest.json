@@ -1,0 +1,30 @@
+{
+  "app": "jobber",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "clientId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "propertyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "jobber-create-client",
+    "jobber-create-quote",
+    "jobber-create-request",
+    "jobber-filter-quotes",
+    "jobber-list-client-id-options",
+    "jobber-search-quotes"
+  ],
+  "npmImports": [
+    "moment-timezone"
+  ]
+}

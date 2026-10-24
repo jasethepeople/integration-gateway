@@ -1,0 +1,7 @@
+{
+  "key": "xero_accounting_api-xero-create-purchase-bill",
+  "name": "Create Purchase Bill",
+  "description": "Creates a new purchase bill.",
+  "type": "action",
+  "version": "0.1.4"
+}

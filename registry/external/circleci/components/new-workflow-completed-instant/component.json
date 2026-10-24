@@ -1,0 +1,7 @@
+{
+  "key": "circleci-new-workflow-completed-instant",
+  "name": "New Workflow Completed (Instant)",
+  "description": "Emit new event when a workflow is completed in CircleCI.",
+  "type": "source",
+  "version": "0.0.1"
+}

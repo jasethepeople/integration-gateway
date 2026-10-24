@@ -1,0 +1,7 @@
+{
+  "key": "freshchat-get-user",
+  "name": "Get User",
+  "description": "Retrieves a single Freshchat user (the customer in a chat) by ID, including `first_name`, `last_name`, `email`, `phone`, and custom `properties` (an array of `{name, value}` objects). Use this to resolve who a conversation belongs to. The user ID is returned as `user_id` (or `actor_id` when `actor_type` is `user`) by **List Messages**, and as `user_id` on conversations. Returns a 404 error if no user exists with the given ID. [See the documentation](https://developers.freshchat.com/api/#retrieve_user_information)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "processplan-complete-task",
+  "name": "Complete Task",
+  "description": "Completes a pending task in an active process, advancing it to the next stage. [See the documentation](https://techdocs.processplan.com/)",
+  "type": "action",
+  "version": "0.0.1"
+}

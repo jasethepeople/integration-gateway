@@ -1,0 +1,7 @@
+{
+  "key": "polygon-new-market-news",
+  "name": "New Market News",
+  "description": "Emit new events when a news article related to the stock market is published.",
+  "type": "source",
+  "version": "0.0.1"
+}

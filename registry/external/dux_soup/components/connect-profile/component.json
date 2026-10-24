@@ -1,0 +1,7 @@
+{
+  "key": "dux_soup-connect-profile",
+  "name": "Connect Profile",
+  "description": "Queues a connection request to actively connect with a targeted LinkedIn profile. [See the documentation](https://support.dux-soup.com/article/115-remote-control-by-example)",
+  "type": "action",
+  "version": "0.0.3"
+}

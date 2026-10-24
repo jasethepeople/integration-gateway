@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_outlook-list-contacts",
+  "name": "List Contacts",
+  "description": "Get a contact collection from the default contacts folder. Returns `{ count, contacts }` where `count` is the true total number of contacts in the collection as reported by Microsoft Graph (`@odata.count`), and `contacts` is the array of retrieved contact records (up to `maxResults`). [See the documentation](https://docs.microsoft.com/en-us/graph/api/user-list-contacts)",
+  "type": "action",
+  "version": "1.0.2"
+}

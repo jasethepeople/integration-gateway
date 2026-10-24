@@ -1,0 +1,35 @@
+{
+  "app": "listmonk",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "listIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "password": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "listmonk-create-campaign",
+    "listmonk-create-list",
+    "listmonk-create-subscriber",
+    "listmonk-list-list-ids-options",
+    "listmonk-list-template-id-options",
+    "listmonk-new-subscriber-added"
+  ]
+}

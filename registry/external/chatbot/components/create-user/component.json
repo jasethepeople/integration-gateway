@@ -1,0 +1,7 @@
+{
+  "key": "chatbot-create-user",
+  "name": "Create User",
+  "description": "Creates new user. [See docs here](https://www.chatbot.com/docs/users/#create-user)",
+  "type": "action",
+  "version": "0.0.2"
+}

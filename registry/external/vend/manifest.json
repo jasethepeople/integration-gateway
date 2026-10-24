@@ -1,0 +1,18 @@
+{
+  "app": "vend",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "domain_prefix": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "vend-inventory-update"
+  ]
+}

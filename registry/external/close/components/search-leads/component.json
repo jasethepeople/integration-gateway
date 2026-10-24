@@ -1,0 +1,7 @@
+{
+  "key": "close-search-leads",
+  "name": "Search Leads",
+  "description": "Search leads with a given field and word. [See the documentation](https://developer.close.com/resources/advanced-filtering/)",
+  "type": "action",
+  "version": "0.1.3"
+}

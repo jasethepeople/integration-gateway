@@ -1,0 +1,14 @@
+{
+  "app": "triggercmd",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "triggercmd-trigger-command"
+  ]
+}

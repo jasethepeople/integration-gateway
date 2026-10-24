@@ -1,0 +1,66 @@
+{
+  "app": "hookdeck",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "sourceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "destinationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "requestId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eventId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderBy": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderByDir": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "attempts": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "additionalProperties": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "createdAtInitalRange": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "createdAtFinalRange": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "hookdeck-create-connection",
+    "hookdeck-retrieve-all-events",
+    "hookdeck-retrieve-all-requests",
+    "hookdeck-retrieve-request-events",
+    "hookdeck-new-event-received"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "webvizio-create-project",
+  "name": "Create Project",
+  "description": "Creates a project in Webvizio. [See the documentation](https://webvizio.com/help-center/incoming-webhooks/)",
+  "type": "action",
+  "version": "0.0.2"
+}

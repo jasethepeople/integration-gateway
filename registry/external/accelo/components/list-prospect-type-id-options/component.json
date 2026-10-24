@@ -1,0 +1,7 @@
+{
+  "key": "accelo-list-prospect-type-id-options",
+  "name": "List Prospect Type ID Options",
+  "description": "Retrieves available options for the Prospect Type ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "onlinecheckwriter-list-bank-account-id-options",
+  "name": "List Bank Account ID Options",
+  "description": "Retrieves available options for the Bank Account ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

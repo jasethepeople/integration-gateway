@@ -1,0 +1,7 @@
+{
+  "key": "browser_use-get-profile",
+  "name": "Get Profile",
+  "description": "Get a Browser Use profile by ID. [See the documentation](https://docs.browser-use.com/cloud/api-v3/profiles/get-profile)",
+  "type": "action",
+  "version": "0.0.1"
+}

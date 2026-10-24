@@ -1,0 +1,71 @@
+{
+  "app": "cloudflare_api_key",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "accountIdentifier": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "zoneIdentifier": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dnsRecordIdentifier": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "certificateIdentifier": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "namespace": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dnsRecordType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dnsName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dnsRecordContent": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dnsRecordProxied": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "dnsRecordTtl": {
+      "kind": "propDefinition",
+      "type": "integer"
+    }
+  },
+  "categories": [],
+  "components": [
+    "cloudflare_api_key-change-ssl-setting",
+    "cloudflare_api_key-change-zone-development-mode",
+    "cloudflare_api_key-create-certificate",
+    "cloudflare_api_key-create-dns-record",
+    "cloudflare_api_key-create-ip-access-rule",
+    "cloudflare_api_key-create-key-value-pairs",
+    "cloudflare_api_key-create-namespace",
+    "cloudflare_api_key-create-zone",
+    "cloudflare_api_key-delete-dns-record",
+    "cloudflare_api_key-export-dns-records",
+    "cloudflare_api_key-import-dns-records",
+    "cloudflare_api_key-list-account-identifier-options",
+    "cloudflare_api_key-list-certificates",
+    "cloudflare_api_key-list-dns-records",
+    "cloudflare_api_key-patch-dns-record",
+    "cloudflare_api_key-purge-all-files",
+    "cloudflare_api_key-purge-files-by-url",
+    "cloudflare_api_key-revoke-certificate",
+    "cloudflare_api_key-update-zone-security-level"
+  ],
+  "npmImports": [
+    "cloudflare"
+  ]
+}

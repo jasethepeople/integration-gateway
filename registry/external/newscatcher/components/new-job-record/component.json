@@ -1,0 +1,7 @@
+{
+  "key": "newscatcher-new-job-record",
+  "name": "New Job Record (Instant)",
+  "description": "Emit new event when a new job record is retrieved from a monitor job. [See the documentation](https://www.newscatcherapi.com/docs/web-search-api/api-reference/jobs/get-job-results)",
+  "type": "source",
+  "version": "0.0.1"
+}

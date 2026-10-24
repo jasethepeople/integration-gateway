@@ -1,0 +1,7 @@
+{
+  "key": "qr_api-create-googlemaps-qrcode",
+  "name": "Create Google Maps QR Code",
+  "description": "Create a Google Maps QR Code. [See the documentation](https://qrapi.io/api-documentation/#/qrcode/create_googlemaps_qr_code)",
+  "type": "action",
+  "version": "0.0.2"
+}

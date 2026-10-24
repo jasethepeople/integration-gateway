@@ -1,0 +1,7 @@
+{
+  "key": "sentry-list-issue-events",
+  "name": "List Issue Events",
+  "description": "Return a list of events bound to an issue. [See the docs here](https://docs.sentry.io/api/events/list-an-issues-events/)",
+  "type": "action",
+  "version": "0.1.4"
+}

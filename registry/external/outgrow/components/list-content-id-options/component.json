@@ -1,0 +1,7 @@
+{
+  "key": "outgrow-list-content-id-options",
+  "name": "List Content ID Options",
+  "description": "Retrieves available options for the Content ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

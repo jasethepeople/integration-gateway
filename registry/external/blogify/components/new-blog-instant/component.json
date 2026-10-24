@@ -1,0 +1,7 @@
+{
+  "key": "blogify-new-blog-instant",
+  "name": "New Blog (Instant)",
+  "description": "Emit new events when a blog is created. [See the documentation](https://blogify.ai/developer/docs)",
+  "type": "source",
+  "version": "0.0.1"
+}

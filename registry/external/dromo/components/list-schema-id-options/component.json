@@ -1,0 +1,7 @@
+{
+  "key": "dromo-list-schema-id-options",
+  "name": "List Schema Options",
+  "description": "Retrieves available options for the Schema field.",
+  "type": "action",
+  "version": "0.0.1"
+}

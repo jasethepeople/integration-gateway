@@ -1,0 +1,7 @@
+{
+  "key": "onepagecrm-list-lead-source-id-options",
+  "name": "List Lead Source ID Options",
+  "description": "Retrieves available options for the Lead Source ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "afosto-create-cart",
+  "name": "Create Cart",
+  "description": "Create a new cart. [See the documentation](https://afosto.com/docs/developers/storefront-js-client/integration/create-a-cart/)",
+  "type": "action",
+  "version": "0.0.2"
+}

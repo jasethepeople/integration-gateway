@@ -1,0 +1,32 @@
+{
+  "app": "ahrefs",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "mode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "target": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "select": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ahrefs-get-backlinks-one-per-domain",
+    "ahrefs-get-backlinks",
+    "ahrefs-get-referring-domains"
+  ]
+}

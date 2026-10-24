@@ -1,0 +1,21 @@
+{
+  "app": "rkvst",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "assetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "rkvst-create-asset",
+    "rkvst-create-event",
+    "rkvst-asset-created",
+    "rkvst-new-event-detected"
+  ]
+}

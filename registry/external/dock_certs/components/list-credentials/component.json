@@ -1,0 +1,7 @@
+{
+  "key": "dock_certs-list-credentials",
+  "name": "List Credentials",
+  "description": "List existing credentials. [See the documentation](https://docs.api.dock.io/?json-doc#get-credentials-metadata)",
+  "type": "action",
+  "version": "0.0.2"
+}

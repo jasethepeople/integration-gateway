@@ -1,0 +1,7 @@
+{
+  "key": "qualiobee-get-learner",
+  "name": "Get Learner",
+  "description": "Get a learner by UUID in Qualiobee. [See the documentation](https://app.qualiobee.fr/api/doc/#/Learner/PublicLearnerController_getOne)",
+  "type": "action",
+  "version": "0.0.1"
+}

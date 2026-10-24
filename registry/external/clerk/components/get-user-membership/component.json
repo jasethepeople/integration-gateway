@@ -1,0 +1,7 @@
+{
+  "key": "clerk-get-user-membership",
+  "name": "Get User Memberships",
+  "description": "Retrieve a list of the user's organization memberships. [See the documentation](https://clerk.com/docs/reference/backend-api/tag/Users#operation/GetOAuthAccessToken)",
+  "type": "action",
+  "version": "0.0.2"
+}

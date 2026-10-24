@@ -1,0 +1,7 @@
+{
+  "key": "airtable_oauth-new-modified-or-deleted-records-instant",
+  "name": "New Record Created, Updated or Deleted (Instant)",
+  "description": "Emit new event when a record is added, updated, or deleted in a table or selected view.",
+  "type": "source",
+  "version": "0.1.6"
+}

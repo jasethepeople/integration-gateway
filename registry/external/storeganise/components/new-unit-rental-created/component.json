@@ -1,0 +1,7 @@
+{
+  "key": "storeganise-new-unit-rental-created",
+  "name": "New Unit Rental Created",
+  "description": "Emit new event when a unit rental is created in Storeganise",
+  "type": "source",
+  "version": "0.0.1"
+}

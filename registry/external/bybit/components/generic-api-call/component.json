@@ -1,0 +1,7 @@
+{
+  "key": "bybit-generic-api-call",
+  "name": "ByBit Generic API Call",
+  "description": "Make any API call as per the documentation.",
+  "type": "action",
+  "version": "0.0.2"
+}

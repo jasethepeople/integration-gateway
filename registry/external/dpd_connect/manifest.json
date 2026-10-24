@@ -1,0 +1,14 @@
+{
+  "app": "dpd_connect",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dpd_connect-get-parcel-status"
+  ]
+}

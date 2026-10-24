@@ -1,0 +1,7 @@
+{
+  "key": "dixa-list-agent-id-options",
+  "name": "List Agent Id Options",
+  "description": "Retrieves available options for the Agent Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pipefy-update-table",
+  "name": "Update Table",
+  "description": "Updates a table. [See the docs here](https://api-docs.pipefy.com/reference/mutations/updateTableRecord/)",
+  "type": "action",
+  "version": "0.1.3"
+}

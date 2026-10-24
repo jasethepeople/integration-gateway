@@ -1,0 +1,7 @@
+{
+  "key": "teamgantt-update-task",
+  "name": "Update Task",
+  "description": "Updates a specific task. [See the documentation](https://api.teamgantt.com)",
+  "type": "action",
+  "version": "0.0.2"
+}

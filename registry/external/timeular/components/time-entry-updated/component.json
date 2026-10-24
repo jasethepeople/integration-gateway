@@ -1,0 +1,7 @@
+{
+  "key": "timeular-time-entry-updated",
+  "name": "New Time Entry Updated (Instant)",
+  "description": "Emit new event when a time entry is updated.",
+  "type": "source",
+  "version": "0.0.1"
+}

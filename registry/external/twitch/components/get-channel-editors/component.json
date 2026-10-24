@@ -1,0 +1,7 @@
+{
+  "key": "twitch-get-channel-editors",
+  "name": "Get Channel Editors",
+  "description": "Gets a list of users who are editors for your channel",
+  "type": "action",
+  "version": "0.1.5"
+}

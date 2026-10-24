@@ -1,0 +1,31 @@
+{
+  "app": "y_gy",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "destinationUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "suffix": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "password": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "y_gy-create-short-link",
+    "y_gy-get-links"
+  ]
+}

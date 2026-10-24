@@ -1,0 +1,7 @@
+{
+  "key": "openphone-create-contact",
+  "name": "Create Contact",
+  "description": "Create a new contact in OpenPhone. Example: call with firstName=\"Jane\", lastName=\"Doe\", phoneNumbers=`[{\"name\": \"Mobile\", \"value\": \"+15551234567\"}]` → returns the created contact record, including its `id`. [See the documentation](https://www.openphone.com/docs/api-reference/contacts/create-a-contact)",
+  "type": "action",
+  "version": "0.0.6"
+}

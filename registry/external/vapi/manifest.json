@@ -1,0 +1,35 @@
+{
+  "app": "vapi",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "assistantId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "squadId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phoneNumberId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "vapi-create-call",
+    "vapi-list-assistant-id-options",
+    "vapi-list-phone-number-id-options",
+    "vapi-list-squad-id-options",
+    "vapi-update-assistant-settings",
+    "vapi-upload-file",
+    "vapi-new-conversation"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

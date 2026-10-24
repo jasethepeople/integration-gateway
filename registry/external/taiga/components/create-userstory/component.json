@@ -1,0 +1,7 @@
+{
+  "key": "taiga-create-userstory",
+  "name": "Create User Story",
+  "description": "Create a new user story in a Taiga project. [See the documentation](https://docs.taiga.io/api.html#user-stories-create)",
+  "type": "action",
+  "version": "0.0.2"
+}

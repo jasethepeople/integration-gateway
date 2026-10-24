@@ -1,0 +1,7 @@
+{
+  "key": "monday-list-workspace-ids-options",
+  "name": "List Workspace IDs Options",
+  "description": "List the account's workspaces as `{ value, label }` option pairs, to discover the `Workspace IDs` to pass to actions that filter across several workspaces, such as **List Boards**. Use when you know workspaces by name but need their IDs. Example: call with Page `1`; returns e.g. `[{ \"value\": 12345, \"label\": \"Marketing\" }]`. Returns at most `Limit` workspaces per page (25 by default), so if exactly `Limit` come back there are probably more — call again with `Page` incremented by 1. [See the documentation](https://developer.monday.com/api-reference/reference/workspaces)",
+  "type": "action",
+  "version": "0.0.4"
+}

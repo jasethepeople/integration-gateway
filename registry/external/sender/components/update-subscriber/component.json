@@ -1,0 +1,7 @@
+{
+  "key": "sender-update-subscriber",
+  "name": "Update Subscriber",
+  "description": "Updates an existing subscriber's information. [See the documentation](https://api.sender.net/subscribers/update-subscriber/)",
+  "type": "action",
+  "version": "0.0.1"
+}

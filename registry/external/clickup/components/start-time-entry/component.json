@@ -1,0 +1,7 @@
+{
+  "key": "clickup-start-time-entry",
+  "name": "Start Time Entry",
+  "description": "Start time entry. [See the documentation](https://clickup.com/api/clickupreference/operation/StartatimeEntry)",
+  "type": "action",
+  "version": "0.0.6"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zendesk-new-side-conversation-reply",
+  "name": "New Side Conversation Reply",
+  "description": "Emit new event when a reply is added to an existing side conversation on a ticket. [See the documentation](https://developer.zendesk.com/api-reference/ticketing/side_conversation/side_conversation_event/)",
+  "type": "source",
+  "version": "0.0.7"
+}

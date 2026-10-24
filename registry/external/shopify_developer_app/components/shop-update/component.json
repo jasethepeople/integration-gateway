@@ -1,0 +1,7 @@
+{
+  "key": "shopify_developer_app-shop-update",
+  "name": "Shop Updated (Instant)",
+  "description": "Emit new event when a shop is updated.",
+  "type": "source",
+  "version": "0.0.9"
+}

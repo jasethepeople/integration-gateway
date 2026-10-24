@@ -1,0 +1,7 @@
+{
+  "key": "leexi-new-call-created",
+  "name": "New Call Created",
+  "description": "Emit new event when a new call is created. [See the documentation](https://developer.leexi.ai/)",
+  "type": "source",
+  "version": "0.0.1"
+}

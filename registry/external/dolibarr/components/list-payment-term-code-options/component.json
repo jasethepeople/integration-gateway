@@ -1,0 +1,7 @@
+{
+  "key": "dolibarr-list-payment-term-code-options",
+  "name": "List Payment Term Code Options",
+  "description": "Retrieves available options for the Payment Term Code field.",
+  "type": "action",
+  "version": "0.0.1"
+}

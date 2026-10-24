@@ -1,0 +1,7 @@
+{
+  "key": "frame-new-webhook-event-instant",
+  "name": "New Webhook Event (Instant)",
+  "description": "Emit new event when a new project is created. [See the documentation](https://developer.frame.io/api/reference/operation/createWebhookForTeam/)",
+  "type": "source",
+  "version": "0.0.2"
+}

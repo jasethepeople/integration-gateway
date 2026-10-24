@@ -1,0 +1,7 @@
+{
+  "key": "agiliron-list-contact-name-options",
+  "name": "List Contact Name Options",
+  "description": "Retrieves available options for the Contact Name field.",
+  "type": "action",
+  "version": "0.0.1"
+}

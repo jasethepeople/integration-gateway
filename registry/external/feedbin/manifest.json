@@ -1,0 +1,18 @@
+{
+  "app": "feedbin",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "feedId": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "feedbin-get-subscriptions",
+    "feedbin-list-feed-id-options",
+    "feedbin-liked-item",
+    "feedbin-new-search",
+    "feedbin-saved-item"
+  ]
+}

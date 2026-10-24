@@ -1,0 +1,7 @@
+{
+  "key": "shipstation-list-customer-email-options",
+  "name": "List Customer Email Options",
+  "description": "Retrieves available options for the Customer Email field. [See the documentation](https://docs.shipstation.com/apis/shipstation-v1/openapi/customers/list_customers)",
+  "type": "action",
+  "version": "0.0.2"
+}

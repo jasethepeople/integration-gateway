@@ -1,0 +1,7 @@
+{
+  "key": "jobber-create-client",
+  "name": "Create Client",
+  "description": "Generates a new client within Jobber. [See the documentation](https://developer.getjobber.com/docs)",
+  "type": "action",
+  "version": "0.0.4"
+}

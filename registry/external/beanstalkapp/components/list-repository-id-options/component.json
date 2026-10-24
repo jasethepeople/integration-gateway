@@ -1,0 +1,7 @@
+{
+  "key": "beanstalkapp-list-repository-id-options",
+  "name": "List Repository ID Options",
+  "description": "Retrieves available options for the Repository ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

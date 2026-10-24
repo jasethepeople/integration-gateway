@@ -1,0 +1,7 @@
+{
+  "key": "aircall-new-note-added",
+  "name": "New Note Added",
+  "description": "Emit new event when a new note is added to a call",
+  "type": "source",
+  "version": "0.0.5"
+}

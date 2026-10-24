@@ -1,0 +1,50 @@
+{
+  "app": "aivoov",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "voiceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "transcribeText": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "engine": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "transcribeSsmlStyle": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "transcribeSsmlSpkRate": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "transcribeSsmlVolume": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "transcribeSsmlPitchRate": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "provider": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "aivoov-convert-text-to-speech"
+  ],
+  "npmImports": [
+    "axios",
+    "form-data"
+  ]
+}

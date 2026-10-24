@@ -1,0 +1,7 @@
+{
+  "key": "chartmogul-create-customer",
+  "name": "Create Customer",
+  "description": "Creates a `customer` object in ChartMogul under the specified `data_source` [See the docs here](https://dev.chartmogul.com/reference/create-customer)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "magnetic-list-user-options",
+  "name": "List Task Owner Options",
+  "description": "Retrieves available options for the Task Owner field.",
+  "type": "action",
+  "version": "0.0.1"
+}

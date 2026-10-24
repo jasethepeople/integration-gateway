@@ -1,0 +1,7 @@
+{
+  "key": "processplan-list-process-template-header-id-options",
+  "name": "List Process Options",
+  "description": "Retrieves available options for the Process field.",
+  "type": "action",
+  "version": "0.0.1"
+}

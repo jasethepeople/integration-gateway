@@ -1,0 +1,7 @@
+{
+  "key": "google_tasks-create-subtask",
+  "name": "Create Subtask",
+  "description": "Creates a new subtask under an existing parent task. Use this action when you want to organize related work into a task hierarchy while keeping the parent task unchanged. To create a top-level task instead, use the **Create Task** action. [See the documentation](https://developers.google.com/workspace/tasks/reference/rest/v1/tasks/insert)",
+  "type": "action",
+  "version": "0.0.2"
+}

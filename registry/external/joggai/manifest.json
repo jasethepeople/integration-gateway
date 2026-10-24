@@ -1,0 +1,43 @@
+{
+  "app": "joggai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "avatarId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "voiceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "targetAudience": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mediaQuantity": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "joggai-create-ai-avatar-photo",
+    "joggai-create-avatar-video",
+    "joggai-create-product-from-product-info",
+    "joggai-create-product-from-url",
+    "joggai-update-product-info",
+    "joggai-video-status-changed"
+  ]
+}

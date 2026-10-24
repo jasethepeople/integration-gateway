@@ -1,0 +1,7 @@
+{
+  "key": "one_ai-list-collection-options",
+  "name": "List Collection Options",
+  "description": "Retrieves available options for the Collection field.",
+  "type": "action",
+  "version": "0.0.1"
+}

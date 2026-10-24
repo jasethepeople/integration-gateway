@@ -1,0 +1,7 @@
+{
+  "key": "confluence-watch-pages",
+  "name": "Watch Pages",
+  "description": "Emit new event when a page is created or updated in Confluence",
+  "type": "source",
+  "version": "0.0.7"
+}

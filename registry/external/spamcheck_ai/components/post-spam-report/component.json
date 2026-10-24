@@ -1,0 +1,7 @@
+{
+  "key": "spamcheck_ai-post-spam-report",
+  "name": "Spam Report",
+  "description": "Create a new spam report. [See the documentation](https://app.spamcheck.ai/api_docs/index.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

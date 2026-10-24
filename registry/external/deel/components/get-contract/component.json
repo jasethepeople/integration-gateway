@@ -1,0 +1,7 @@
+{
+  "key": "deel-get-contract",
+  "name": "Get Contract",
+  "description": "Retrieve full details for a specific Deel contract by ID, including worker info, compensation,",
+  "type": "action",
+  "version": "0.0.2"
+}

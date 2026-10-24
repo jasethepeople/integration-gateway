@@ -1,0 +1,19 @@
+{
+  "app": "big_cartel",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_uid": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "big_cartel-new-order",
+    "big_cartel-new-product"
+  ]
+}

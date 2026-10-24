@@ -1,0 +1,7 @@
+{
+  "key": "overloop-new-stage-created",
+  "name": "New Stage Created",
+  "description": "Emit new event each time a stage is created. [See the docs](https://apidoc.overloop.com/#list-stages)",
+  "type": "source",
+  "version": "0.0.1"
+}

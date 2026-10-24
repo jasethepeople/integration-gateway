@@ -1,0 +1,7 @@
+{
+  "key": "sms_everyone-send-sms",
+  "name": "Send SMS",
+  "description": "Send an SMS message or a bulk SMS campaign. [See the documentation](https://www.smseveryone.com.au/restapi)",
+  "type": "action",
+  "version": "0.0.2"
+}

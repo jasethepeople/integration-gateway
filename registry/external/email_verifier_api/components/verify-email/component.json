@@ -1,0 +1,7 @@
+{
+  "key": "email_verifier_api-verify-email",
+  "name": "Verify Email",
+  "description": "Verify an email address with Email Verifier API. [See the documentation](https://www.emailverifierapi.com/app/v2-api-documentation/)",
+  "type": "action",
+  "version": "0.0.2"
+}

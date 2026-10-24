@@ -1,0 +1,7 @@
+{
+  "key": "zoho_expense-expense-report-submitted",
+  "name": "Expense Report Submitted",
+  "description": "Activate when an expense report submission takes place. [See the Documentation](https://www.zoho.com/expense/api/v1/expense-reports/#list-of-all-expense-reports).",
+  "type": "source",
+  "version": "0.0.1"
+}

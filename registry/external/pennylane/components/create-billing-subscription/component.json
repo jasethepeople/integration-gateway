@@ -1,0 +1,7 @@
+{
+  "key": "pennylane-create-billing-subscription",
+  "name": "Create Billing Subscription",
+  "description": "Creates a billing subscription for a customer. [See the documentation](https://pennylane.readme.io/reference/billing_subscriptions-post-1).",
+  "type": "action",
+  "version": "0.0.3"
+}

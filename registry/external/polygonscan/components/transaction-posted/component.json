@@ -1,0 +1,7 @@
+{
+  "key": "polygonscan-transaction-posted",
+  "name": "New Transaction Posted",
+  "description": "Emit new event when a new transaction is posted on the PolygonScan network for a specific address.",
+  "type": "source",
+  "version": "0.0.1"
+}

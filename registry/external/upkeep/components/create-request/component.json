@@ -1,0 +1,7 @@
+{
+  "key": "upkeep-create-request",
+  "name": "Create Request",
+  "description": "Create a Request, [See the docs](https://developers.onupkeep.com/#create-a-request)",
+  "type": "action",
+  "version": "0.0.3"
+}

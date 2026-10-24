@@ -1,0 +1,356 @@
+{
+  "app": "hubspot",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "lists": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "dealPipeline": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "stages": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "objectType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "objectSchema": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "objectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "objectIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "forms": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "channel": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "propertyGroups": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "contactEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactProperties": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "companyProperties": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "dealProperties": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "ticketProperties": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "productProperties": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "lineItemProperties": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "workflow": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fileUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fileId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "associationType": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "ticketPipeline": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ticketStage": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "leadId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customObjectType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timeframe": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mostRecent": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "meetingId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "formId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "landingPageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "templatePath": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pageName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "landingFolderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emailId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "blogPostId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "inboxId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "channelId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "threadId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "channelAccountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "senderActorId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ownerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "blogId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "blogAuthorId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "actions": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "organizerUserId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "meetingLinkSlug": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "meetingTimezone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_uid": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "hubspot-add-comment",
+    "hubspot-add-contact-to-list",
+    "hubspot-add-note-to-contact",
+    "hubspot-archive-thread",
+    "hubspot-batch-create-companies",
+    "hubspot-batch-create-or-update-contact",
+    "hubspot-batch-update-companies",
+    "hubspot-batch-upsert-companies",
+    "hubspot-book-meeting-link",
+    "hubspot-clone-email",
+    "hubspot-clone-site-page",
+    "hubspot-create-association",
+    "hubspot-create-associations",
+    "hubspot-create-blog-post",
+    "hubspot-create-communication",
+    "hubspot-create-company",
+    "hubspot-create-contact-workflow",
+    "hubspot-create-crm-object",
+    "hubspot-create-custom-object",
+    "hubspot-create-deal",
+    "hubspot-create-email",
+    "hubspot-create-engagement",
+    "hubspot-create-form",
+    "hubspot-create-landing-page",
+    "hubspot-create-lead",
+    "hubspot-create-meeting",
+    "hubspot-create-note",
+    "hubspot-create-or-update-contact",
+    "hubspot-create-page",
+    "hubspot-create-task",
+    "hubspot-create-ticket",
+    "hubspot-create-workflow",
+    "hubspot-delete-workflow",
+    "hubspot-enroll-contact-in-sequence",
+    "hubspot-enroll-contact-into-workflow",
+    "hubspot-get-actor",
+    "hubspot-get-associated-emails",
+    "hubspot-get-associated-meetings",
+    "hubspot-get-blog-post-draft",
+    "hubspot-get-channel",
+    "hubspot-get-company",
+    "hubspot-get-contact",
+    "hubspot-get-crm-objects",
+    "hubspot-get-custom-object",
+    "hubspot-get-deal",
+    "hubspot-get-engagements",
+    "hubspot-get-file-public-url",
+    "hubspot-get-inbox",
+    "hubspot-get-meeting-link-availability",
+    "hubspot-get-meeting-link-booking-info",
+    "hubspot-get-meeting",
+    "hubspot-get-owner",
+    "hubspot-get-properties",
+    "hubspot-get-sequence-enrollment",
+    "hubspot-get-subscription-preferences",
+    "hubspot-get-thread",
+    "hubspot-get-user-details",
+    "hubspot-list-associated-engagements",
+    "hubspot-list-association-labels",
+    "hubspot-list-blog-posts",
+    "hubspot-list-campaigns",
+    "hubspot-list-channels",
+    "hubspot-list-crm-associations",
+    "hubspot-list-custom-object-properties",
+    "hubspot-list-custom-object-schemas",
+    "hubspot-list-custom-object-type-options",
+    "hubspot-list-custom-objects",
+    "hubspot-list-deal-pipeline-options",
+    "hubspot-list-file-url-options",
+    "hubspot-list-forms-options",
+    "hubspot-list-forms",
+    "hubspot-list-inboxes",
+    "hubspot-list-marketing-emails",
+    "hubspot-list-marketing-events",
+    "hubspot-list-meeting-links",
+    "hubspot-list-messages",
+    "hubspot-list-object-schema-options",
+    "hubspot-list-owners",
+    "hubspot-list-pages",
+    "hubspot-list-pipelines-and-stages",
+    "hubspot-list-template-path-options",
+    "hubspot-list-templates",
+    "hubspot-list-threads",
+    "hubspot-list-ticket-pipeline-options",
+    "hubspot-push-blog-post-draft-live",
+    "hubspot-retrieve-migrated-workflow-mappings",
+    "hubspot-retrieve-quotes",
+    "hubspot-retrieve-workflow-details",
+    "hubspot-retrieve-workflow-emails",
+    "hubspot-retrieve-workflows",
+    "hubspot-schedule-blog-post",
+    "hubspot-search-crm-objects",
+    "hubspot-search-crm",
+    "hubspot-search-properties",
+    "hubspot-send-message",
+    "hubspot-unarchive-thread",
+    "hubspot-update-blog-post-draft",
+    "hubspot-update-blog-post",
+    "hubspot-update-company",
+    "hubspot-update-contact",
+    "hubspot-update-crm-object",
+    "hubspot-update-custom-object",
+    "hubspot-update-deal",
+    "hubspot-update-fields-on-the-form",
+    "hubspot-update-landing-page",
+    "hubspot-update-lead",
+    "hubspot-update-page",
+    "hubspot-update-thread",
+    "hubspot-delete-blog-article",
+    "hubspot-new-company-property-change",
+    "hubspot-new-contact-added-to-list",
+    "hubspot-new-contact-property-change",
+    "hubspot-new-custom-object-property-change",
+    "hubspot-new-deal-in-stage",
+    "hubspot-new-deal-property-change",
+    "hubspot-new-email-event",
+    "hubspot-new-email-subscriptions-timeline",
+    "hubspot-new-engagement",
+    "hubspot-new-event",
+    "hubspot-new-form-submission",
+    "hubspot-new-message-in-thread",
+    "hubspot-new-note",
+    "hubspot-new-or-updated-blog-article",
+    "hubspot-new-or-updated-company",
+    "hubspot-new-or-updated-contact",
+    "hubspot-new-or-updated-crm-object",
+    "hubspot-new-or-updated-custom-object",
+    "hubspot-new-or-updated-deal",
+    "hubspot-new-or-updated-line-item",
+    "hubspot-new-or-updated-product",
+    "hubspot-new-social-media-message",
+    "hubspot-new-task",
+    "hubspot-new-thread-created",
+    "hubspot-new-ticket-property-change",
+    "hubspot-new-ticket"
+  ],
+  "npmImports": [
+    "bottleneck",
+    "timezones-list"
+  ]
+}

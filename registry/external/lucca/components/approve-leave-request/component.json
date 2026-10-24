@@ -1,0 +1,7 @@
+{
+  "key": "lucca-approve-leave-request",
+  "name": "Approve Or Deny Leave Request",
+  "description": "Approve or Deny a pending leave request. [See the documentation](https://developers.lucca.fr/api-reference/legacy/timmi-absences/leave-requests/approve-or-deny-a-leave-request)",
+  "type": "action",
+  "version": "0.0.2"
+}

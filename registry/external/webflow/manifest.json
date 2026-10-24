@@ -1,0 +1,43 @@
+{
+  "app": "webflow",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "webflow-create-collection-item",
+    "webflow-delete-collection-item",
+    "webflow-fulfill-order",
+    "webflow-get-collection-item",
+    "webflow-get-collection",
+    "webflow-get-item-inventory",
+    "webflow-get-order",
+    "webflow-get-site",
+    "webflow-list-collection-items",
+    "webflow-list-collections",
+    "webflow-list-orders",
+    "webflow-list-sites",
+    "webflow-publish-site",
+    "webflow-refund-order",
+    "webflow-unfulfill-order",
+    "webflow-update-collection-item",
+    "webflow-update-item-inventory",
+    "webflow-update-order",
+    "webflow-changed-collection-item",
+    "webflow-changed-ecommerce-inventory",
+    "webflow-changed-ecommerce-order",
+    "webflow-new-collection-item",
+    "webflow-new-deleted-collection-item",
+    "webflow-new-ecommerce-order",
+    "webflow-new-form-submission",
+    "webflow-new-site-published"
+  ],
+  "npmImports": [
+    "uuid",
+    "webflow-api"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "symbl_ai-list-conversation-id-options",
+  "name": "List Conversation Id Options",
+  "description": "Retrieves available options for the Conversation Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

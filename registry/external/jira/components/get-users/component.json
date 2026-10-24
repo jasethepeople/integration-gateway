@@ -1,0 +1,7 @@
+{
+  "key": "jira-get-users",
+  "name": "Get Users",
+  "description": "Gets the details for a list of users. [See the documentation](https://developer.atlassian.com/cloud/jira/platform/rest/v3/api-group-user-search/#api-rest-api-3-user-search-get)",
+  "type": "action",
+  "version": "0.0.21"
+}

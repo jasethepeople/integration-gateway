@@ -1,0 +1,7 @@
+{
+  "key": "jumpseller-create-product-variant",
+  "name": "Create Product Variant",
+  "description": "Create a new product variant in Jumpseller. [See the documentation](https://jumpseller.com/support/api/#tag/Product-Variants/paths/~1products~1%7Bid%7D~1variants.json/post)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "kaleido-create-membership",
+  "name": "Create Membership",
+  "description": "Create a membership for a consortia in Kaleido. [See the documentation](https://api.kaleido.io/platform.html#tag/Memberships/paths/~1consortia~1{consortia_id}~1memberships/post)",
+  "type": "action",
+  "version": "0.0.2"
+}

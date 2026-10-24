@@ -1,0 +1,7 @@
+{
+  "key": "dynamic_content_snippet-create-or-update-website-content",
+  "name": "Create or Update Website Content",
+  "description": "Create or update website content. [See the documentation](https://contentsnip.com/documentation.htm)",
+  "type": "action",
+  "version": "0.0.1"
+}

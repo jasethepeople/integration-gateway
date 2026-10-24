@@ -1,0 +1,7 @@
+{
+  "key": "wise-list-transfer-id-options",
+  "name": "List Transfer ID Options",
+  "description": "Retrieves available options for the Transfer ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

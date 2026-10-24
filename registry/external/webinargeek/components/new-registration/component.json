@@ -1,0 +1,7 @@
+{
+  "key": "webinargeek-new-registration",
+  "name": "New Registration",
+  "description": "Emit new event on each new registration.",
+  "type": "source",
+  "version": "0.0.3"
+}

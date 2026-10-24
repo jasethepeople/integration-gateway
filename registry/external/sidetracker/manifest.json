@@ -1,0 +1,23 @@
+{
+  "app": "sidetracker",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "listId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sidetracker-add-row-to-list",
+    "sidetracker-get-list",
+    "sidetracker-get-row-from-list",
+    "sidetracker-list-list-id-options",
+    "sidetracker-list-sessions-for-domain",
+    "sidetracker-new-list-created"
+  ]
+}

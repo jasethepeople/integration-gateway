@@ -1,0 +1,7 @@
+{
+  "key": "universal_api-get-distributor-product",
+  "name": "Get Distributor Product",
+  "description": "Retrieve a single distributor product by ID from Universal API. Run **List Distributor Products** first to discover valid IDs. [See the documentation](https://docs.universalapi.io/reference/get-product).",
+  "type": "action",
+  "version": "0.0.2"
+}

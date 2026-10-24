@@ -1,0 +1,7 @@
+{
+  "key": "signalwire-new-text-message",
+  "name": "New Text Message",
+  "description": "Emit new event when a new text message arrives",
+  "type": "source",
+  "version": "0.0.1"
+}

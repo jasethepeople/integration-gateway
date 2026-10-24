@@ -1,0 +1,7 @@
+{
+  "key": "posthog-update-project-insight",
+  "name": "Update Project Insight",
+  "description": "Update an existing insight in a project. [See the documentation](https://posthog.com/docs/api/insights#patch-api-projects-project_id-insights-id)",
+  "type": "action",
+  "version": "0.0.1"
+}

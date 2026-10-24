@@ -1,0 +1,7 @@
+{
+  "key": "tawk_to-chat-ended-instant",
+  "name": "Chat Ended (Instant)",
+  "description": "Emit new event when a chat ends, usually after 90-150 seconds of inactivity",
+  "type": "source",
+  "version": "0.0.1"
+}

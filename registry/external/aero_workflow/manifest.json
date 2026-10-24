@@ -1,0 +1,94 @@
+{
+  "app": "aero_workflow",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "assignedTo": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "aeroType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contact": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "company": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "project": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "hat": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "scheduledStartDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "scheduledTotalHours": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "scheduledHours": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "scheduledMinutes": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "subject": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "priority": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dueDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "billable": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "fixedFee": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "account_number": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "aero_workflow-create-appointment",
+    "aero_workflow-create-company",
+    "aero_workflow-create-contact",
+    "aero_workflow-create-email-aero",
+    "aero_workflow-create-task",
+    "aero_workflow-create-vault-entry",
+    "aero_workflow-find-company",
+    "aero_workflow-list-aero-type-options",
+    "aero_workflow-list-assigned-to-options",
+    "aero_workflow-list-contact-options",
+    "aero_workflow-list-hat-options",
+    "aero_workflow-list-project-options",
+    "aero_workflow-new-company-created"
+  ]
+}

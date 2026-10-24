@@ -1,0 +1,7 @@
+{
+  "key": "opsgenie-delete-alert",
+  "name": "Delete Alert",
+  "description": "Removes an existing alert from Opsgenie. [See the documentation](https://docs.opsgenie.com/docs/alert-api#delete-alert)",
+  "type": "action",
+  "version": "0.0.2"
+}

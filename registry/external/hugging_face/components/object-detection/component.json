@@ -1,0 +1,7 @@
+{
+  "key": "hugging_face-object-detection",
+  "name": "Object Detection",
+  "description": "This task reads some image input and outputs the likelihood of classes and bounding boxes of detected objects. [See the docs](https://huggingface.co/docs/huggingface.js/inference/classes/HfInference#objectdetection).",
+  "type": "action",
+  "version": "0.0.2"
+}

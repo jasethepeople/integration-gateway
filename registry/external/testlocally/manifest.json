@@ -1,0 +1,51 @@
+{
+  "app": "testlocally",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "servers": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "testId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "owners": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "locations": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "target": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "scheduled": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "browser": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "viewport": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "testlocally-get-test",
+    "testlocally-list-servers-options",
+    "testlocally-list-test-id-options",
+    "testlocally-list-tests",
+    "testlocally-run-test",
+    "testlocally-new-test-run"
+  ]
+}

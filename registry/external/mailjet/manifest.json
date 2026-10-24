@@ -1,0 +1,37 @@
+{
+  "app": "mailjet",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "isExcludedFromCampaigns": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "public_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "secret_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mailjet-create-contact",
+    "mailjet-list-contacts",
+    "mailjet-send-message",
+    "mailjet-update-contact",
+    "mailjet-contact-created"
+  ],
+  "npmImports": [
+    "node-mailjet"
+  ]
+}

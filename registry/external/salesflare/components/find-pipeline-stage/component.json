@@ -1,0 +1,7 @@
+{
+  "key": "salesflare-find-pipeline-stage",
+  "name": "Find Pipeline Stage",
+  "description": "Finds pipeline stages according to props configured, if no prop configured returns all stages [See the docs here](https://api.salesflare.com/docs#operation/getStages)",
+  "type": "action",
+  "version": "0.0.2"
+}

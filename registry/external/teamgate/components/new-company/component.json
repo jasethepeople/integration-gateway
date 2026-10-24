@@ -1,0 +1,7 @@
+{
+  "key": "teamgate-new-company",
+  "name": "New Company",
+  "description": "Emit new event when a new company is created. [See docs here](https://developers.teamgate.com/#cd8d915d-8ba3-4fbc-9932-7e6a3c4dcc08)",
+  "type": "source",
+  "version": "0.0.1"
+}

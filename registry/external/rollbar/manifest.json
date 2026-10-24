@@ -1,0 +1,24 @@
+{
+  "app": "rollbar",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "rollbar-create-a-project",
+    "rollbar-delete-a-project",
+    "rollbar-list-projects"
+  ]
+}

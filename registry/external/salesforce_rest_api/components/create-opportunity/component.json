@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-create-opportunity",
+  "name": "Create Opportunity",
+  "description": "Create a Salesforce opportunity (a potential deal with an amount and close date).",
+  "type": "action",
+  "version": "0.4.1"
+}

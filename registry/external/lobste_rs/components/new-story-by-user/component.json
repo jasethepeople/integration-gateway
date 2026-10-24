@@ -1,0 +1,7 @@
+{
+  "key": "lobste_rs-new-story-by-user",
+  "name": "New Story by User",
+  "description": "Emit new event when a new story is posted by the specified user.",
+  "type": "source",
+  "version": "0.0.1"
+}

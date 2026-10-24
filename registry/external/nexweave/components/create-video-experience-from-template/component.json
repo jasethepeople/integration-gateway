@@ -1,0 +1,7 @@
+{
+  "key": "nexweave-create-video-experience-from-template",
+  "name": "Create Video Experience from Template",
+  "description": "Creates a video experience from a template. [See the documentation](https://documentation.nexweave.com/nexweave-api#4OZFt)",
+  "type": "action",
+  "version": "0.0.2"
+}

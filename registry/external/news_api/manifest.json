@@ -1,0 +1,40 @@
+{
+  "app": "news_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "sourceIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "searchin": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "q": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "language": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sortBy": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "news_api-list-source-ids-options",
+    "news_api-search-everything",
+    "news_api-search-top-headlines"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "grist-new-record-instant",
+  "name": "New Record (Instant)",
+  "description": "Emit new event when a record is just created. [See the documentation](https://support.getgrist.com/api/#tag/webhooks)",
+  "type": "source",
+  "version": "0.0.1"
+}

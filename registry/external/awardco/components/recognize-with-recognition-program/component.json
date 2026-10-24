@@ -1,0 +1,7 @@
+{
+  "key": "awardco-recognize-with-recognition-program",
+  "name": "Recognize With Recognition Program",
+  "description": "Submit recognition in Awardco, with a recognition program. [See the documentation](https://api.awardco.com/api#tag/recognition/POST/recognize).",
+  "type": "action",
+  "version": "0.0.2"
+}

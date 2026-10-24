@@ -1,0 +1,47 @@
+{
+  "app": "everstox",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "warehouseIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "orderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "returnId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "shop_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "everstox-create-fulfillment-update-request",
+    "everstox-get-order",
+    "everstox-get-return",
+    "everstox-list-order-id-options",
+    "everstox-list-order-number-options",
+    "everstox-list-products",
+    "everstox-list-return-id-options",
+    "everstox-list-returns",
+    "everstox-list-warehouse-ids-options",
+    "everstox-search-orders"
+  ]
+}

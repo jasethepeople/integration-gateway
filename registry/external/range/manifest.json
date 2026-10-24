@@ -1,0 +1,25 @@
+{
+  "app": "range",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_client_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "range-find-user",
+    "range-new-check-in-by-teammate-created",
+    "range-new-check-in-created",
+    "range-new-joined-team"
+  ]
+}

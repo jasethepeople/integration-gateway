@@ -1,0 +1,7 @@
+{
+  "key": "python-run-python-code",
+  "name": "Run Python Code",
+  "description": "Write Python and use any of the 350k+ PyPi packages available. Refer to the [Pipedream Python docs](https://pipedream.com/docs/code/python) to learn more.",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,29 @@
+{
+  "app": "nile_database",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "workspace": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "database": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "nile_database-create-user",
+    "nile_database-execute-query",
+    "nile_database-list-workspace-options",
+    "nile_database-new-tenant-created",
+    "nile_database-new-user-created"
+  ],
+  "npmImports": [
+    "pg"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "fitbit-get-daily-steps",
+  "name": "Get Daily Step Count",
+  "description": "Gets the daily step count for a specific date. [See the docs](https://dev.fitbit.com/build/reference/web-api/activity/get-activity-time-series/)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "ascora-search-customers",
+  "name": "Search Customers",
+  "description": "Search for customers. [See the documentation](https://www.ascora.com.au/Assets/Guides/AscoraApiGuide.pdf)",
+  "type": "action",
+  "version": "0.0.1"
+}

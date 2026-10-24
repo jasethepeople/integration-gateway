@@ -1,0 +1,7 @@
+{
+  "key": "google_drive-share-file",
+  "name": "Share File",
+  "description": "Share a file or folder in Google Drive by creating a sharing permission.",
+  "type": "action",
+  "version": "0.0.9"
+}

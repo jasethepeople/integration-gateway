@@ -1,0 +1,20 @@
+{
+  "app": "dev_to",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dev_to-fresh-stories-by-tag",
+    "dev_to-fresh-stories",
+    "dev_to-my-articles",
+    "dev_to-new-reading-list-item"
+  ],
+  "npmImports": [
+    "moment"
+  ]
+}

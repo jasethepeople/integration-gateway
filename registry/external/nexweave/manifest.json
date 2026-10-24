@@ -1,0 +1,31 @@
+{
+  "app": "nexweave",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "imageTemplateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "videoTemplateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "nexweave-create-campaign-experience",
+    "nexweave-create-image-experience-from-template",
+    "nexweave-create-video-experience-from-template",
+    "nexweave-list-campaign-id-options",
+    "nexweave-list-image-template-id-options",
+    "nexweave-list-video-template-id-options"
+  ]
+}

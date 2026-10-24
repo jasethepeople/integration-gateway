@@ -1,0 +1,7 @@
+{
+  "key": "teamioo-create-calendar-event",
+  "name": "Create Calendar Event",
+  "description": "Creates a new calendar event. [See the documentation](https://demo.teamioo.com/teamiooapi)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "you_need_a_budget-category-overspent",
+  "name": "Category Overspent",
+  "description": "Emit new event when a category budget is overspent",
+  "type": "source",
+  "version": "0.0.4"
+}

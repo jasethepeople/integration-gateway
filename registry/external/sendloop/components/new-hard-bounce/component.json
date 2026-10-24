@@ -1,0 +1,7 @@
+{
+  "key": "sendloop-new-hard-bounce",
+  "name": "New Hard Bounce",
+  "description": "Emit new event when a subscriber's status changes to 'hard bounce'.",
+  "type": "source",
+  "version": "0.0.1"
+}

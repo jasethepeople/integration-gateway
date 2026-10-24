@@ -1,0 +1,7 @@
+{
+  "key": "bybit-linear-stop-order-cancel",
+  "name": "ByBit Linear Stop Order Cancel",
+  "description": "Cancel Conditional Order.",
+  "type": "action",
+  "version": "0.0.2"
+}

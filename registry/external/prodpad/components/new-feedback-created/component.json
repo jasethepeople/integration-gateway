@@ -1,0 +1,7 @@
+{
+  "key": "prodpad-new-feedback-created",
+  "name": "New Feedback Created",
+  "description": "Emit new event when a new feedback is created. [See the docs](https://app.swaggerhub.com/apis-docs/ProdPad/prodpad/1.0#/Feedback/GetFeedbacks).",
+  "type": "source",
+  "version": "0.0.1"
+}

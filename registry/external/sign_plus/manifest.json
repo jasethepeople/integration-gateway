@@ -1,0 +1,27 @@
+{
+  "app": "sign_plus",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "envelopeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sign_plus-create-envelope-from-template",
+    "sign_plus-send-envelope",
+    "sign_plus-new-document-completed",
+    "sign_plus-new-document-declined",
+    "sign_plus-new-document-expired",
+    "sign_plus-new-document-voided"
+  ]
+}

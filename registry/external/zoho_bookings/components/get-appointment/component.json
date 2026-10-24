@@ -1,0 +1,7 @@
+{
+  "key": "zoho_bookings-get-appointment",
+  "name": "Get Appointment Details",
+  "description": "Get details of an appointment [See the documentation](https://www.zoho.com/bookings/help/api/v1/get-appointment.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

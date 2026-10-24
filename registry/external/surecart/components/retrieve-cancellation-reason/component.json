@@ -1,0 +1,7 @@
+{
+  "key": "surecart-retrieve-cancellation-reason",
+  "name": "Retrieve Cancellation Reason",
+  "description": "Retrieve a cancellation reason by ID. [See the documentation](https://developer.surecart.com/api-reference/cancellation-reasons/retrieve)",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "onedesk-new-timesheet-created",
+  "name": "New Timesheet Created",
+  "description": "Emit new event when a new timesheet is created. [See the documentation](https://www.onedesk.com/dev/).",
+  "type": "source",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "asana-new-subtask",
+  "name": "New Subtask (Instant)",
+  "description": "Emit new event for each subtask added to a project.",
+  "type": "source",
+  "version": "1.0.15"
+}

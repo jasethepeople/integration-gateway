@@ -1,0 +1,7 @@
+{
+  "key": "clickhelp-topic-updated",
+  "name": "Topic Updated",
+  "description": "Emit new event when a topic is updated. [See the documentation](https://clickhelp.com/software-documentation-tool/user-manual/api-get-all-topics-from-project.html)",
+  "type": "source",
+  "version": "0.0.1"
+}

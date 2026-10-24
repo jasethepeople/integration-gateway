@@ -1,0 +1,7 @@
+{
+  "key": "bugherd-new-task-instant",
+  "name": "New Task (Instant)",
+  "description": "Emit new event when a new task is created. [See the documentation](https://www.bugherd.com/api_v2#api_webhook_create)",
+  "type": "source",
+  "version": "0.0.1"
+}

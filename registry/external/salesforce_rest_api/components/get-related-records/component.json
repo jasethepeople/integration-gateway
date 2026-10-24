@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-get-related-records",
+  "name": "Get Related Records",
+  "description": "Get child records related to a parent Salesforce record via a relationship.",
+  "type": "action",
+  "version": "0.0.4"
+}

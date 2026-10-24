@@ -1,0 +1,7 @@
+{
+  "key": "hyros-create-call",
+  "name": "Create Call",
+  "description": "Create a new call. [See the documentation](https://hyros.docs.apiary.io/#reference/0/calls/create)",
+  "type": "action",
+  "version": "0.0.3"
+}

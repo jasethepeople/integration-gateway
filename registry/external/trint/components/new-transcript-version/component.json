@@ -1,0 +1,7 @@
+{
+  "key": "trint-new-transcript-version",
+  "name": "New Transcript Version (Instant)",
+  "description": "Emit new event when a new transcript version is created. [See the documentation](https://dev.trint.com/reference/register-webhook-endpoint)",
+  "type": "source",
+  "version": "0.0.1"
+}

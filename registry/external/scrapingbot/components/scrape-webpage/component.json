@@ -1,0 +1,7 @@
+{
+  "key": "scrapingbot-scrape-webpage",
+  "name": "Scrape Webpage",
+  "description": "Use ScrapingBot API to extract specific data from a webpage. [See the documentation](https://www.scraping-bot.io/web-scraping-documentation/)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,34 @@
+{
+  "app": "ramp_sandbox",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ramp_sandbox-create-department",
+    "ramp_sandbox-create-location",
+    "ramp_sandbox-create-user-invite",
+    "ramp_sandbox-get-limit",
+    "ramp_sandbox-get-transaction",
+    "ramp_sandbox-get-user",
+    "ramp_sandbox-issue-virtual-card",
+    "ramp_sandbox-list-departments",
+    "ramp_sandbox-list-limits",
+    "ramp_sandbox-list-locations",
+    "ramp_sandbox-list-spend-programs",
+    "ramp_sandbox-list-transactions",
+    "ramp_sandbox-list-transfers",
+    "ramp_sandbox-list-users",
+    "ramp_sandbox-terminate-limit",
+    "ramp_sandbox-update-limit",
+    "ramp_sandbox-update-user",
+    "ramp_sandbox-upload-receipt",
+    "ramp_sandbox-new-transaction-created",
+    "ramp_sandbox-transaction-status-updated",
+    "ramp_sandbox-transfer-payment-updated"
+  ]
+}

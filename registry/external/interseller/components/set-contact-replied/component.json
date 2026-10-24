@@ -1,0 +1,7 @@
+{
+  "key": "interseller-set-contact-replied",
+  "name": "Set Contact Replied",
+  "description": "Update an existing contact to indicate as contacted. [See the documentation](https://interseller.readme.io/reference/set-contact-replied)",
+  "type": "action",
+  "version": "0.0.2"
+}

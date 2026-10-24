@@ -1,0 +1,7 @@
+{
+  "key": "world_news_api-extract-news",
+  "name": "Extract News",
+  "description": "Extract a news article from a website to a well structure JSON object. [See the docs here](https://worldnewsapi.com/docs/#Extract-News). **Calling this endpoint requires 1 point, plus 2 points if analyze is true.**",
+  "type": "action",
+  "version": "0.0.3"
+}

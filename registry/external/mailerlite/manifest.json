@@ -1,0 +1,53 @@
+{
+  "app": "mailerlite",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subscriber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "group": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mailerlite-create-subscriber",
+    "mailerlite-list-fields-options",
+    "mailerlite-list-subscribers",
+    "mailerlite-remove-subscriber-from-group",
+    "mailerlite-subscribe-to-group",
+    "mailerlite-update-subscriber",
+    "mailerlite-subscriber-added-to-group",
+    "mailerlite-subscriber-created",
+    "mailerlite-subscriber-unsubscribed"
+  ],
+  "npmImports": [
+    "lodash.pickby"
+  ]
+}

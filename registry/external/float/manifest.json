@@ -1,0 +1,70 @@
+{
+  "app": "float",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "clientId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "stageId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "phaseId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "peopleId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "taskName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "billable": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "budget": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "float-create-project",
+    "float-create-task",
+    "float-list-account-id-options",
+    "float-list-client-id-options",
+    "float-list-people-id-options",
+    "float-list-project-id-options",
+    "float-list-stage-id-options",
+    "float-list-tags-options",
+    "float-list-task-id-options",
+    "float-update-task",
+    "float-new-client",
+    "float-new-logged-time",
+    "float-new-project"
+  ]
+}

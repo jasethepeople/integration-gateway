@@ -1,0 +1,7 @@
+{
+  "key": "clockify-stop-timer",
+  "name": "Stop Timer",
+  "description": "Stops the currently running timer for a workspace member in Clockify, setting its end time. [See the documentation](https://docs.clockify.me/#tag/Time-entry/operation/stopRunningTimeEntry)",
+  "type": "action",
+  "version": "0.0.2"
+}

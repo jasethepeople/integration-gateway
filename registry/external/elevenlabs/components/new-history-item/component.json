@@ -1,0 +1,7 @@
+{
+  "key": "elevenlabs-new-history-item",
+  "name": "New History Item Created",
+  "description": "Emit new event when a new history item is created.",
+  "type": "source",
+  "version": "0.0.4"
+}

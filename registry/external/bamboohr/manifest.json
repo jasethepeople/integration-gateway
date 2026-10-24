@@ -1,0 +1,136 @@
+{
+  "app": "bamboohr",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "applicationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "statusId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "employeeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timeOffTypeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "requestId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "reportId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fileId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timesheetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "clockEntryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "hourEntryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recordId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "clockDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timezone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "company_domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "bamboohr-add-application-comment",
+    "bamboohr-adjust-time-off-balance",
+    "bamboohr-approve-time-off-request",
+    "bamboohr-approve-timesheet",
+    "bamboohr-cancel-time-off-request",
+    "bamboohr-change-time-off-request-status",
+    "bamboohr-clock-in",
+    "bamboohr-clock-out",
+    "bamboohr-create-clock-entry",
+    "bamboohr-create-employee",
+    "bamboohr-create-hour-entry",
+    "bamboohr-create-hour-record",
+    "bamboohr-create-or-update-hour-records",
+    "bamboohr-create-time-off-request-comment",
+    "bamboohr-create-time-off-request",
+    "bamboohr-delete-clock-entry",
+    "bamboohr-delete-employee",
+    "bamboohr-delete-hour-entry",
+    "bamboohr-delete-hour-record",
+    "bamboohr-deny-time-off-request",
+    "bamboohr-download-resume",
+    "bamboohr-get-application",
+    "bamboohr-get-clock-entry",
+    "bamboohr-get-company-report",
+    "bamboohr-get-employee-file",
+    "bamboohr-get-employee",
+    "bamboohr-get-employees-directory",
+    "bamboohr-get-time-off-balance",
+    "bamboohr-get-time-tracking-record",
+    "bamboohr-get-timesheet",
+    "bamboohr-list-application-id-options",
+    "bamboohr-list-applications",
+    "bamboohr-list-changed-employees",
+    "bamboohr-list-clock-entries",
+    "bamboohr-list-company-holidays",
+    "bamboohr-list-employee-files",
+    "bamboohr-list-employees",
+    "bamboohr-list-hour-entries",
+    "bamboohr-list-job-id-options",
+    "bamboohr-list-status-id-options",
+    "bamboohr-list-time-off-policies",
+    "bamboohr-list-time-off-request-comments",
+    "bamboohr-list-time-off-requests",
+    "bamboohr-list-time-off-types",
+    "bamboohr-list-timesheet-entries",
+    "bamboohr-list-timesheets",
+    "bamboohr-list-whos-out",
+    "bamboohr-update-application-status",
+    "bamboohr-update-employee",
+    "bamboohr-update-hour-record",
+    "bamboohr-update-time-off-request"
+  ],
+  "npmImports": [
+    "fs",
+    "path"
+  ]
+}

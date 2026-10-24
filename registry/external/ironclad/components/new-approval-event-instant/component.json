@@ -1,0 +1,7 @@
+{
+  "key": "ironclad-new-approval-event-instant",
+  "name": "New Approval Event Instant",
+  "description": "Emit new event when a fresh approval event is generated.",
+  "type": "source",
+  "version": "0.0.2"
+}

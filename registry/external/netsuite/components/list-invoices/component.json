@@ -1,0 +1,7 @@
+{
+  "key": "netsuite-list-invoices",
+  "name": "List Invoices",
+  "description": "Retrieves a list of invoices from NetSuite. [See the documentation](https://system.netsuite.com/help/helpcenter/en_US/APIs/REST_API_Browser/record/v1/2025.2/index.html#tag-invoice)",
+  "type": "action",
+  "version": "0.0.1"
+}

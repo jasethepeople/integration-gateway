@@ -1,0 +1,7 @@
+{
+  "key": "dropbox-download-file-preview",
+  "name": "Download File Preview",
+  "description": "Download a file preview from Dropbox. [See the documentation](https://dropbox.github.io/dropbox-sdk-js/Dropbox.html#filesGetPreview__anchor)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "clickup-create-space",
+  "name": "Create Space",
+  "description": "Creates a new space. [See the documentation](https://clickup.com/api) in **Spaces / Create Space** section.",
+  "type": "action",
+  "version": "0.0.12"
+}

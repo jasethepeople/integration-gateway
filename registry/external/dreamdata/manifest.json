@@ -1,0 +1,46 @@
+{
+  "app": "dreamdata",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "anonymousId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "messageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timestamp": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "context": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "integrations": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dreamdata-alias-user",
+    "dreamdata-identify-company",
+    "dreamdata-identify-user",
+    "dreamdata-send-batch",
+    "dreamdata-track-event",
+    "dreamdata-track-page-view"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

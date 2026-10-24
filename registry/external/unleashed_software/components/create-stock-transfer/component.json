@@ -1,0 +1,7 @@
+{
+  "key": "unleashed_software-create-stock-transfer",
+  "name": "Create Stock Transfer",
+  "description": "Create a stock transfer. [See the documentation](https://apidocs.unleashedsoftware.com/WarehouseStockTransfers)",
+  "type": "action",
+  "version": "0.0.1"
+}

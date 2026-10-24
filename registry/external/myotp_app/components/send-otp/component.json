@@ -1,0 +1,7 @@
+{
+  "key": "myotp_app-send-otp",
+  "name": "Send OTP",
+  "description": "Generate a One Time Password (OTP) and send it to the specified phone number. [See the documentation](https://api.myotp.app/swagger-ui/#/default/generate_otp_endpoint)",
+  "type": "action",
+  "version": "0.0.2"
+}

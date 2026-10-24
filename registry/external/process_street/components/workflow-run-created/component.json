@@ -1,0 +1,7 @@
+{
+  "key": "process_street-workflow-run-created",
+  "name": "New Workflow Run Created",
+  "description": "Emit new event for every created workflow run",
+  "type": "source",
+  "version": "0.0.1"
+}

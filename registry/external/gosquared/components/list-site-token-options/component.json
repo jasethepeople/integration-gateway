@@ -1,0 +1,7 @@
+{
+  "key": "gosquared-list-site-token-options",
+  "name": "List Site Token Options",
+  "description": "Retrieves available options for the Site Token field.",
+  "type": "action",
+  "version": "0.0.1"
+}

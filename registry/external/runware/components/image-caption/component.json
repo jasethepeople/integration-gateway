@@ -1,0 +1,7 @@
+{
+  "key": "runware-image-caption",
+  "name": "Image Caption",
+  "description": "Request an image caption task to be processed by the Runware API. [See the documentation](https://docs.runware.ai/en/utilities/image-to-text).",
+  "type": "action",
+  "version": "0.0.2"
+}

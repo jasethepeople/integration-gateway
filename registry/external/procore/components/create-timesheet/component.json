@@ -1,0 +1,7 @@
+{
+  "key": "procore-create-timesheet",
+  "name": "Create Timesheet",
+  "description": "Create a new timesheet. [See the documentation](https://developers.procore.com/reference/rest/timesheets?version=latest#create-timesheet).",
+  "type": "action",
+  "version": "0.0.2"
+}

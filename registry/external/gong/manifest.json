@@ -1,0 +1,39 @@
+{
+  "app": "gong",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workspaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fromDateTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "toDateTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "callIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "gong-add-new-call",
+    "gong-get-extensive-data",
+    "gong-list-calls",
+    "gong-list-workspace-id-options",
+    "gong-retrieve-transcripts-of-calls",
+    "gong-new-call"
+  ]
+}

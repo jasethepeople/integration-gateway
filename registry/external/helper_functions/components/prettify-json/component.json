@@ -1,0 +1,7 @@
+{
+  "key": "helper_functions-prettify-json",
+  "name": "Pretty Print JSON",
+  "description": "Pretty print a JavaScript object or value",
+  "type": "action",
+  "version": "0.1.2"
+}

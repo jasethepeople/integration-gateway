@@ -1,0 +1,7 @@
+{
+  "key": "hunter-create-lead",
+  "name": "Create Lead",
+  "description": "Create a new lead in your Hunter account. [See the documentation](https://hunter.io/api-documentation/v2#create-lead).",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-list-jobs",
+  "name": "List Jobs",
+  "description": "List jobs with optional filters. [See the documentation](https://developer.servicem8.com/reference/listjobs)",
+  "type": "action",
+  "version": "0.0.1"
+}

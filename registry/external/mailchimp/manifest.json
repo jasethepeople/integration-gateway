@@ -1,0 +1,105 @@
+{
+  "app": "mailchimp",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "listId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "includeTransactional": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "storeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "linkId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "segmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "excludeFields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "count": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "subscriberHash": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "dc": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mailchimp-add-note-to-subscriber",
+    "mailchimp-add-or-update-subscriber",
+    "mailchimp-add-remove-member-tags",
+    "mailchimp-add-segment-member",
+    "mailchimp-add-subscriber-to-tag",
+    "mailchimp-create-campaign",
+    "mailchimp-create-list",
+    "mailchimp-delete-campaign",
+    "mailchimp-delete-list-member",
+    "mailchimp-delete-list",
+    "mailchimp-edit-campaign-template-content",
+    "mailchimp-get-campaign-report",
+    "mailchimp-get-campaign",
+    "mailchimp-get-list-activities",
+    "mailchimp-get-list-member-activity",
+    "mailchimp-get-list-member-tags",
+    "mailchimp-get-list",
+    "mailchimp-list-campaign-id-options",
+    "mailchimp-list-list-id-options",
+    "mailchimp-list-segment-member",
+    "mailchimp-list-store-id-options",
+    "mailchimp-remove-segment-member",
+    "mailchimp-search-campaign",
+    "mailchimp-search-lists",
+    "mailchimp-search-member",
+    "mailchimp-send-campaign",
+    "mailchimp-unsubscribe-email",
+    "mailchimp-update-campaign",
+    "mailchimp-update-list",
+    "mailchimp-link-clicked",
+    "mailchimp-new-audience",
+    "mailchimp-new-campaign",
+    "mailchimp-new-customer",
+    "mailchimp-new-file",
+    "mailchimp-new-list-event",
+    "mailchimp-new-open",
+    "mailchimp-new-or-updated-list-segment",
+    "mailchimp-new-or-updated-subscriber",
+    "mailchimp-new-order",
+    "mailchimp-new-segment-tag-subscriber",
+    "mailchimp-new-subscriber",
+    "mailchimp-new-unsubscriber"
+  ],
+  "npmImports": [
+    "@mailchimp/mailchimp_marketing",
+    "async-retry",
+    "crypto",
+    "uuid"
+  ]
+}

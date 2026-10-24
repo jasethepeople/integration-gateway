@@ -1,0 +1,133 @@
+{
+  "app": "pipeline",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "companyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dealId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "personId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dealStageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "noteCategoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eventCategoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dealStatusId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "allDay": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "website": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "address1": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "address2": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "city": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "state": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "postalCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "summary": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pipeline-create-activity",
+    "pipeline-create-company",
+    "pipeline-create-deal",
+    "pipeline-create-event",
+    "pipeline-create-person",
+    "pipeline-create-task",
+    "pipeline-find-company",
+    "pipeline-find-deal",
+    "pipeline-find-person",
+    "pipeline-find-user",
+    "pipeline-list-company-id-options",
+    "pipeline-list-deal-id-options",
+    "pipeline-list-deal-stage-id-options",
+    "pipeline-list-deal-status-id-options",
+    "pipeline-list-event-category-id-options",
+    "pipeline-list-note-category-id-options",
+    "pipeline-list-person-id-options",
+    "pipeline-list-user-id-options",
+    "pipeline-move-deal-stage",
+    "pipeline-update-company",
+    "pipeline-update-deal",
+    "pipeline-update-person",
+    "pipeline-new-company-created",
+    "pipeline-new-deal-created",
+    "pipeline-new-person-created"
+  ],
+  "npmImports": [
+    "query-string"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "caspio-record-updated",
+  "name": "Record Updated (Instant)",
+  "description": "Emit new event when a record in specified table is updated",
+  "type": "source",
+  "version": "0.0.1"
+}

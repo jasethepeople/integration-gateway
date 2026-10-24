@@ -1,0 +1,77 @@
+{
+  "app": "hive",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "assignees": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "customFields": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "deadline": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "labels": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "parentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phaseId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phaseName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "processId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "scheduledDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workspaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "user_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "hive-create-action-for-project",
+    "hive-create-action-for-workspace",
+    "hive-list-workspace-id-options",
+    "hive-new-action-created",
+    "hive-new-action-updated"
+  ],
+  "npmImports": [
+    "moment"
+  ]
+}

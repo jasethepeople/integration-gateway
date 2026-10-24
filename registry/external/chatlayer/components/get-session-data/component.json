@@ -1,0 +1,7 @@
+{
+  "key": "chatlayer-get-session-data",
+  "name": "Get Session Data",
+  "description": "Gets data for the specified session. [See the documentation](https://api.chatlayer.ai/v1/docs#operation/getConversationSessionData)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "help_scout-get-conversation-threads",
+  "name": "Get Conversation Threads",
+  "description": "Retrieves the threads of a specific conversation. [See the documentation](https://developer.helpscout.com/mailbox-api/endpoints/conversations/threads/list/)",
+  "type": "action",
+  "version": "0.0.4"
+}

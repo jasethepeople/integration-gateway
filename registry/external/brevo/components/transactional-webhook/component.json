@@ -1,0 +1,7 @@
+{
+  "key": "brevo-transactional-webhook",
+  "name": "New Transactional Webhook (Instant)",
+  "description": "Emit new event when triggered by a transactional event",
+  "type": "source",
+  "version": "0.0.2"
+}

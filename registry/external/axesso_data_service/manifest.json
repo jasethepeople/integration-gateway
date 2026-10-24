@@ -1,0 +1,35 @@
+{
+  "app": "axesso_data_service",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domainCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sortBy": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "axesso_data_service-get-product-details",
+    "axesso_data_service-list-reviews",
+    "axesso_data_service-search-products"
+  ],
+  "npmImports": [
+    "bottleneck"
+  ]
+}

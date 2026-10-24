@@ -1,0 +1,7 @@
+{
+  "key": "fynk-move-contract-stage",
+  "name": "Move Contract Stage",
+  "description": "Move a contract forward in Fynk's lifecycle. See documentation pages [move document to review stage](https://app.fynk.com/v1/docs#/operations/v1.documents.stage-transitions.review) and [move document to signing stage](https://app.fynk.com/v1/docs#/operations/v1.documents.stage-transitions.signing).",
+  "type": "action",
+  "version": "0.0.1"
+}

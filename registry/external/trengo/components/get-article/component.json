@@ -1,0 +1,7 @@
+{
+  "key": "trengo-get-article",
+  "name": "Get Article",
+  "description": "Get a specific article. [See the documentation](https://developers.trengo.com/reference/get-an-article)",
+  "type": "action",
+  "version": "0.0.5"
+}

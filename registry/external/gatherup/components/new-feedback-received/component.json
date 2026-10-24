@@ -1,0 +1,7 @@
+{
+  "key": "gatherup-new-feedback-received",
+  "name": "New Feedback Received",
+  "description": "Emit new event on each new feedback received.",
+  "type": "source",
+  "version": "0.0.2"
+}

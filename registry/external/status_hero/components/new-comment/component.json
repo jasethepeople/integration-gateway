@@ -1,0 +1,7 @@
+{
+  "key": "status_hero-new-comment",
+  "name": "New Comment Event",
+  "description": "Emit new events when new comments are created on statuses. [See the docs here](https://api.statushero.com/#comments)",
+  "type": "source",
+  "version": "0.0.1"
+}

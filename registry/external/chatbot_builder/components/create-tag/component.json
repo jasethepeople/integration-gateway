@@ -1,0 +1,7 @@
+{
+  "key": "chatbot_builder-create-tag",
+  "name": "Create Tag",
+  "description": "Creates a new tag in Chatbot Builder. [See the documentation](https://app.chatgptbuilder.io/api/swagger/#/accounts/createtag)",
+  "type": "action",
+  "version": "0.0.3"
+}

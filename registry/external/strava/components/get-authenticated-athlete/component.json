@@ -1,0 +1,7 @@
+{
+  "key": "strava-get-authenticated-athlete",
+  "name": "Get Authenticated Athlete",
+  "description": "Identity tool for Strava — returns the currently authenticated athlete (summary representation including `id`, `firstname`, `lastname`, profile photo).",
+  "type": "action",
+  "version": "0.0.2"
+}

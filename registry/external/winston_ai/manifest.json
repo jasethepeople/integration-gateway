@@ -1,0 +1,31 @@
+{
+  "app": "winston_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "text": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "language": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sentences": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "version": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "winston_ai-detect-ai-content",
+    "winston_ai-detect-plagiarism"
+  ]
+}

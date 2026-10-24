@@ -1,0 +1,7 @@
+{
+  "key": "teamioo-new-group-bookmark-url",
+  "name": "New Group Bookmark URL",
+  "description": "Emit new event when a new URL is bookmarked in a group.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zoho_campaigns-new-campaign",
+  "name": "New Campaign",
+  "description": "Emit new event when a new campaign is created.",
+  "type": "source",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "aws-lambda-invoke-function",
+  "name": "Lambda - Invoke Function",
+  "description": "",
+  "type": "action",
+  "version": "0.2.3"
+}

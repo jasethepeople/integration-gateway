@@ -1,0 +1,7 @@
+{
+  "key": "everhour-new-task-instant",
+  "name": "New Task Created (Instant)",
+  "description": "Emit new event when a task is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

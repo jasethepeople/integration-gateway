@@ -1,0 +1,7 @@
+{
+  "key": "twilio-list-message-media",
+  "name": "List Message Media",
+  "description": "Return a list of media associated with your message. [See the documentation](https://www.twilio.com/docs/sms/api/media-resource#read-multiple-media-resources)",
+  "type": "action",
+  "version": "0.1.6"
+}

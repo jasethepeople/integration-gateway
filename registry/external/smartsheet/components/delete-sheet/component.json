@@ -1,0 +1,7 @@
+{
+  "key": "smartsheet-delete-sheet",
+  "name": "Delete Sheet",
+  "description": "Permanently delete a sheet. This is irreversible - all data, rows, and columns are destroyed.",
+  "type": "action",
+  "version": "0.1.2"
+}

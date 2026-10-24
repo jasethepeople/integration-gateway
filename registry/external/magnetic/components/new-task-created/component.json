@@ -1,0 +1,7 @@
+{
+  "key": "magnetic-new-task-created",
+  "name": "New Task Created",
+  "description": "Emit new event when a new task is created [See docs here](https://app.magnetichq.com/Magnetic/API.do#ta-taskobject)",
+  "type": "source",
+  "version": "0.0.1"
+}

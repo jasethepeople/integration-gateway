@@ -1,0 +1,7 @@
+{
+  "key": "pandadoc-download-protected-document",
+  "name": "Download Protected Document",
+  "description": "Download a completed document as a verifiable PDF. [See documentation here](https://developers.pandadoc.com/reference/download-protected-document)",
+  "type": "action",
+  "version": "0.0.4"
+}

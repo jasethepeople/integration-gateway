@@ -1,0 +1,7 @@
+{
+  "key": "timing-new-timer-started-running",
+  "name": "New Timer Started Running",
+  "description": "Emit new event each time a new timer is started",
+  "type": "source",
+  "version": "0.0.1"
+}

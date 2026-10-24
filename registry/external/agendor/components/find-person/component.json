@@ -1,0 +1,7 @@
+{
+  "key": "agendor-find-person",
+  "name": "Find Person",
+  "description": "Find Person [See the documentation](https://api.agendor.com.br/docs/#operation/Get%20person).",
+  "type": "action",
+  "version": "0.0.2"
+}

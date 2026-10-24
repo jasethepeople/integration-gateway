@@ -1,0 +1,7 @@
+{
+  "key": "google_search_console-submit-sitemap",
+  "name": "Submit Sitemap",
+  "description": "Submits a sitemap (or resubmits one already listed) to Google Search Console for a ",
+  "type": "action",
+  "version": "0.0.1"
+}

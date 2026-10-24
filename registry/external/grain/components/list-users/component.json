@@ -1,0 +1,7 @@
+{
+  "key": "grain-list-users",
+  "name": "List Users",
+  "description": "Lists the users in your Grain workspace (id, name, email).",
+  "type": "action",
+  "version": "0.0.1"
+}

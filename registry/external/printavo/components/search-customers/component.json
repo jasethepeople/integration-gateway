@@ -1,0 +1,7 @@
+{
+  "key": "printavo-search-customers",
+  "name": "Search Customers",
+  "description": "Search customers. [See the docs here](https://printavo.docs.apiary.io/#reference/customers/customers-collection/customers-search)",
+  "type": "action",
+  "version": "0.0.2"
+}

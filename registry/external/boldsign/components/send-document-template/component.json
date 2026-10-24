@@ -1,0 +1,7 @@
+{
+  "key": "boldsign-send-document-template",
+  "name": "Send Document Using Template",
+  "description": "Send documents for e-signature using a BoldSign template. [See the documentation](https://developers.boldsign.com/documents/send-document-from-template/?region=us)",
+  "type": "action",
+  "version": "0.1.3"
+}

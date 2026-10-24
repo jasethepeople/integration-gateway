@@ -1,0 +1,7 @@
+{
+  "key": "qr_api-create-sms-qrcode",
+  "name": "Create SMS QR Code",
+  "description": "Create a SMS QR Code. [See the documentation](https://qrapi.io/api-documentation/#/qrcode/create_sms_qr_code)",
+  "type": "action",
+  "version": "0.0.2"
+}

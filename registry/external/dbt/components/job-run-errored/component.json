@@ -1,0 +1,7 @@
+{
+  "key": "dbt-job-run-errored",
+  "name": "Job Run Errored (Instant)",
+  "description": "Emit new event when a job run has errored.",
+  "type": "source",
+  "version": "0.0.2"
+}

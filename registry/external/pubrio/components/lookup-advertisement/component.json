@@ -1,0 +1,7 @@
+{
+  "key": "pubrio-lookup-advertisement",
+  "name": "Lookup Advertisement",
+  "description": "Look up detailed advertisement information by advertisement search ID. [See the documentation](https://docs.pubrio.com/en/api-reference/endpoint/companies/advertisements_lookup)",
+  "type": "action",
+  "version": "0.0.1"
+}

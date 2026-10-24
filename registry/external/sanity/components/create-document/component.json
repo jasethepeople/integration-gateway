@@ -1,0 +1,7 @@
+{
+  "key": "sanity-create-document",
+  "name": "Create Document",
+  "description": "Create a document in a dataset in Sanity. [See the documentation](https://www.sanity.io/docs/http-reference/actions)",
+  "type": "action",
+  "version": "0.0.1"
+}

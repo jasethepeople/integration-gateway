@@ -1,0 +1,7 @@
+{
+  "key": "openphone-new-call-recording-completed-instant",
+  "name": "New Call Recording Completed (Instant)",
+  "description": "Emit new event when a call recording has finished.",
+  "type": "source",
+  "version": "0.0.4"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "teamgate-update-lead",
+  "name": "Update Lead",
+  "description": "Update a specific lead. [See the docs here](https://developers.teamgate.com/#8921df2b-3158-4b16-b81c-c37c6414c20f)",
+  "type": "action",
+  "version": "0.0.3"
+}

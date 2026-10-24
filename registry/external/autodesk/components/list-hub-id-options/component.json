@@ -1,0 +1,7 @@
+{
+  "key": "autodesk-list-hub-id-options",
+  "name": "List Hub ID Options",
+  "description": "Retrieves available options for the Hub ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

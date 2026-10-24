@@ -1,0 +1,7 @@
+{
+  "key": "gupshup-update-subscription",
+  "name": "Update Subscription",
+  "description": "Update a subscription. Requires a paid Gupshup account. [See the documentation](https://docs.gupshup.io/reference/updateanexisitngsubscription)",
+  "type": "action",
+  "version": "0.0.1"
+}

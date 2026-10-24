@@ -1,0 +1,7 @@
+{
+  "key": "eventbrite-create-event",
+  "name": "Create Event",
+  "description": "Create a new Eventbrite event. [See the documentation](https://www.eventbrite.com/platform/api#/reference/event/create/create-an-event)",
+  "type": "action",
+  "version": "0.0.6"
+}

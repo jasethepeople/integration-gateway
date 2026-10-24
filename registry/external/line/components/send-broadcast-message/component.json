@@ -1,0 +1,7 @@
+{
+  "key": "line-send-broadcast-message",
+  "name": "Send Broadcast Message",
+  "description": "Sends a broadcast message to multiple users at any time. [See docs](https://developers.line.biz/en/reference/messaging-api/#send-broadcast-message)",
+  "type": "action",
+  "version": "0.0.4"
+}

@@ -1,0 +1,29 @@
+{
+  "app": "_1crm",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "recordId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "password": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "_1crm-create-contact",
+    "_1crm-create-lead",
+    "_1crm-update-contact",
+    "_1crm-update-lead"
+  ]
+}

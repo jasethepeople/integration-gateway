@@ -1,0 +1,7 @@
+{
+  "key": "sendit-cancel-scheduled-post",
+  "name": "Cancel Scheduled Post",
+  "description": "Cancel a scheduled post before it is published. [See the documentation](https://sendit.infiniteappsai.com/docs/api)",
+  "type": "action",
+  "version": "0.0.1"
+}

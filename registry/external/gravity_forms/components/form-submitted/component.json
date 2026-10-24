@@ -1,0 +1,7 @@
+{
+  "key": "gravity_forms-form-submitted",
+  "name": "New Form Submission",
+  "description": "Emit new event when a new form submission is received.",
+  "type": "source",
+  "version": "0.0.1"
+}

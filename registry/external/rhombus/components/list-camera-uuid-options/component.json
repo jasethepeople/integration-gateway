@@ -1,0 +1,7 @@
+{
+  "key": "rhombus-list-camera-uuid-options",
+  "name": "List Camera ID Options",
+  "description": "Retrieves available options for the Camera ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

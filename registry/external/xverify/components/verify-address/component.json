@@ -1,0 +1,7 @@
+{
+  "key": "xverify-verify-address",
+  "name": "Verify Address",
+  "description": "Sends an address verification request. [See the documentation](https://apidocs.xverify.com/#address-verification-api-endpoint).",
+  "type": "action",
+  "version": "0.0.2"
+}

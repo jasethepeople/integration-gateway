@@ -1,0 +1,7 @@
+{
+  "key": "consulta_unica-get-afore-details",
+  "name": "Get Afore Details",
+  "description": "Retrieves pension fund (Afore) account details using a Mexican citizen's CURP identification number. Returns Afore provider, contact information, and account status. [See the documentation](https://consultaunica-docs.vercel.app/services/afore/get_only_details.html)",
+  "type": "action",
+  "version": "0.0.1"
+}

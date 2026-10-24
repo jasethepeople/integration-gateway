@@ -1,0 +1,7 @@
+{
+  "key": "moodle-log-course-viewed",
+  "name": "Log a Course Viewed",
+  "description": "Logs that a specific course has been viewed by the current user. [See the documentation](https://moodledev.io/docs/5.2)",
+  "type": "action",
+  "version": "0.0.1"
+}

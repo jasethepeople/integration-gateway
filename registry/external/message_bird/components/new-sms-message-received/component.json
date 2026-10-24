@@ -1,0 +1,7 @@
+{
+  "key": "message_bird-new-sms-message-received",
+  "name": "New SMS Message Received",
+  "description": "Emit new event when a new SMS message is received. [See the documentation](https://developers.messagebird.com/api/sms-messaging/#list-messages)",
+  "type": "source",
+  "version": "0.0.1"
+}

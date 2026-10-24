@@ -1,0 +1,7 @@
+{
+  "key": "kintone-create-record",
+  "name": "Create Record",
+  "description": "Adds a new record to a Kintone App. [See the documentation](https://kintone.dev/en/docs/kintone/rest-api/records/add-record/)",
+  "type": "action",
+  "version": "0.0.1"
+}

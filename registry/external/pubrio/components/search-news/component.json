@@ -1,0 +1,7 @@
+{
+  "key": "pubrio-search-news",
+  "name": "Search News",
+  "description": "Search company news and press releases. [See the documentation](https://docs.pubrio.com/en/api-reference/endpoint/companies/news_search)",
+  "type": "action",
+  "version": "0.0.1"
+}

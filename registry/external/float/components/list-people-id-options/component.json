@@ -1,0 +1,7 @@
+{
+  "key": "float-list-people-id-options",
+  "name": "List Person Options",
+  "description": "Retrieves available options for the Person field.",
+  "type": "action",
+  "version": "0.0.1"
+}

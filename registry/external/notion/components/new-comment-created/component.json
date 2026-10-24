@@ -1,0 +1,7 @@
+{
+  "key": "notion-new-comment-created",
+  "name": "New Comment Created",
+  "description": "Emit new event when a new comment is created in a page or block. [See the documentation](https://developers.notion.com/reference/retrieve-a-comment)",
+  "type": "source",
+  "version": "0.0.10"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "paystack-update-customer",
+  "name": "Update Customer",
+  "description": "Update a customer's details on your integration. [See the documentation](https://paystack.com/docs/api/customer/#update)",
+  "type": "action",
+  "version": "0.0.1"
+}

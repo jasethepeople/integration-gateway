@@ -1,0 +1,7 @@
+{
+  "key": "kintone-new-record",
+  "name": "New Record",
+  "description": "Emit new event when a new record is added to a Kintone App. [See the documentation](https://kintone.dev/en/docs/kintone/rest-api/records/get-records/)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pdforge-generate-pdf-from-html",
+  "name": "Generate PDF from HTML",
+  "description": "Generate a PDF document from HTML content. [See the documentation](https://docs.pdforge.com/html-to-pdf-conversion/synchronous-request)",
+  "type": "action",
+  "version": "0.0.2"
+}

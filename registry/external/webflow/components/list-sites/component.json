@@ -1,0 +1,7 @@
+{
+  "key": "webflow-list-sites",
+  "name": "List Sites",
+  "description": "List sites. [See the documentation](https://developers.webflow.com/data/reference/sites/list)",
+  "type": "action",
+  "version": "2.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "quickbooks-search-invoices",
+  "name": "Search Invoices",
+  "description": "Searches for invoices. [See the documentation](https://developer.intuit.com/app/developer/qbo/docs/api/accounting/all-entities/invoice#query-an-invoice)",
+  "type": "action",
+  "version": "0.0.7"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "picqer-get-order-tags",
+  "name": "Get Order Tags",
+  "description": "Retrieves all tags associated with an order. [See the documentation](https://picqer.com/en/api/orders)",
+  "type": "action",
+  "version": "0.0.1"
+}

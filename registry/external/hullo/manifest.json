@@ -1,0 +1,24 @@
+{
+  "app": "hullo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "attributes": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "phoneNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "hullo-add-update-member",
+    "hullo-list-attributes-options",
+    "hullo-send-message"
+  ]
+}

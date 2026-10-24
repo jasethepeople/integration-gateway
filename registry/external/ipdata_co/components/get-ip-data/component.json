@@ -1,0 +1,7 @@
+{
+  "key": "ipdata_co-get-ip-data",
+  "name": "GET /{ip_address}",
+  "description": "Lookup a specific IP Address",
+  "type": "action",
+  "version": "0.2.2"
+}

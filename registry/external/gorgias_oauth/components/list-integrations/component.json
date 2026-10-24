@@ -1,0 +1,7 @@
+{
+  "key": "gorgias_oauth-list-integrations",
+  "name": "List Integrations",
+  "description": "List the integrations (email addresses, chat widgets, Facebook/Instagram pages, WhatsApp numbers, etc.) connected to the account. Use the `id` as the Integration ID in **Create Ticket Message** or **Send Public Reply**. [See the documentation](https://developers.gorgias.com/reference/list-integrations)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pumble-new-message-in-channel",
+  "name": "New Message in Channel",
+  "description": "Emit new event when a message is posted in the specified channel in Pumble",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "planview_leankit-add-tags-to-card",
+  "name": "Add Tags To Card (Or Task)",
+  "description": "Add tags in a card or task. [See the docs here](https://success.planview.com/Planview_AgilePlace/AgilePlace_API/01_v2/card/update)",
+  "type": "action",
+  "version": "0.0.3"
+}

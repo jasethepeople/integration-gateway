@@ -1,0 +1,51 @@
+{
+  "app": "discourse",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "categories": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "eventTypes": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "postEvents": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "topicEvents": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "discourse-create-post",
+    "discourse-create-topic",
+    "discourse-list-categories-options",
+    "discourse-list-topic-id-options",
+    "discourse-new-posts-added",
+    "discourse-new-topics-added",
+    "discourse-new-users-added"
+  ],
+  "npmImports": [
+    "crypto",
+    "lodash.get",
+    "lodash.isempty",
+    "lodash.sortby",
+    "nanoid"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "reform-extract-data-from-document",
+  "name": "Extract Data From Document",
+  "description": "Extract structured data from a document. [See the documentation](https://docs.reformhq.com/synchronous-data-processing/extract)",
+  "type": "action",
+  "version": "0.1.3"
+}

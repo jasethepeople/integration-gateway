@@ -1,0 +1,7 @@
+{
+  "key": "getprospect-new-company-created",
+  "name": "New Company Created",
+  "description": "Emit new event when a new company is added to the GetProspect companies database. [See the documentation](https://getprospect.readme.io/reference/publicapiinsightscontroller_publicsearchcompanies)",
+  "type": "source",
+  "version": "0.0.1"
+}

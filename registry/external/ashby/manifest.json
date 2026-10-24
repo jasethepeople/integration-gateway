@@ -1,0 +1,64 @@
+{
+  "app": "ashby",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "candidateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "applicationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "interviewPlanId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "interviewStageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sourceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "offerProcessId": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ashby-create-application",
+    "ashby-create-candidate",
+    "ashby-create-interview-schedule",
+    "ashby-create-offer",
+    "ashby-get-candidate-resume-file",
+    "ashby-get-candidate",
+    "ashby-get-file-url",
+    "ashby-list-applications",
+    "ashby-search-candidates",
+    "ashby-start-offer-process",
+    "ashby-start-offer"
+  ]
+}

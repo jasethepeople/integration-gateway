@@ -1,0 +1,7 @@
+{
+  "key": "offorte-create-proposal",
+  "name": "Create Proposal",
+  "description": "Create a new proposal in Offorte. [See the documentation](https://www.offorte.com/api-docs/api#tag/Proposals/operation/createProposal)",
+  "type": "action",
+  "version": "0.0.2"
+}

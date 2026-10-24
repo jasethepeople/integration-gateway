@@ -1,0 +1,7 @@
+{
+  "key": "smsapi-list-sender-name-options",
+  "name": "List Sender Name Options",
+  "description": "Retrieves available options for the Sender Name field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "airtable_oauth-list-records-in-view",
+  "name": "List Records in View",
+  "description": "Retrieve records from a view, optionally sorting and filtering results. Use **List Tables** to look up a table's view IDs. [See the documentation](https://airtable.com/developers/web/api/list-views)",
+  "type": "action",
+  "version": "0.0.15"
+}

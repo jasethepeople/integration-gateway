@@ -1,0 +1,7 @@
+{
+  "key": "gorgias_oauth-create-macro",
+  "name": "Create Macro",
+  "description": "Create a macro. [See the documentation](https://developers.gorgias.com/reference/create-macro)",
+  "type": "action",
+  "version": "0.0.8"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "dataforseo-get-bulk-spam-score",
+  "name": "Get Bulk Spam Score",
+  "description": "Get spam scores of the specified domains, subdomains, and pages. [See the documentation](https://docs.dataforseo.com/v3/backlinks/bulk_spam_score/live/)",
+  "type": "action",
+  "version": "0.0.3"
+}

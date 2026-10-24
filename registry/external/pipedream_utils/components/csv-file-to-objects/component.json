@@ -1,0 +1,7 @@
+{
+  "key": "pipedream_utils-csv-file-to-objects",
+  "name": "Helper Functions - CSV File To Objects",
+  "description": "Convert a CSV file to an array of objects.",
+  "type": "action",
+  "version": "0.0.4"
+}

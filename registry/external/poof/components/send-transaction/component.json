@@ -1,0 +1,7 @@
+{
+  "key": "poof-send-transaction",
+  "name": "Send Transaction",
+  "description": "Sends a transaction in Poof. [See the documentation](https://docs.poof.io/reference/sendtransaction)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "openai-retrieve-file",
+  "name": "Retrieve File",
+  "description": "Retrieves a specific file from OpenAI. [See the documentation](https://platform.openai.com/docs/api-reference/files/retrieve)",
+  "type": "action",
+  "version": "0.0.19"
+}

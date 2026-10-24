@@ -1,0 +1,7 @@
+{
+  "key": "google_tag_manager-create-tag",
+  "name": "Create Tag",
+  "description": "Create a tag in a workspace. [See the documentation](https://developers.google.com/tag-platform/tag-manager/api/v2/reference/accounts/containers/workspaces/tags/create)",
+  "type": "action",
+  "version": "0.0.3"
+}

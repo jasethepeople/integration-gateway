@@ -1,0 +1,32 @@
+{
+  "app": "turbot_pipes",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "handle": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orgHandle": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "displayName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "turbot_pipes-create-organization",
+    "turbot_pipes-delete-organization",
+    "turbot_pipes-update-organization"
+  ]
+}

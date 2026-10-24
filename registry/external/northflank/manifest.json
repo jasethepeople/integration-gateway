@@ -1,0 +1,37 @@
+{
+  "app": "northflank",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "color": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "region": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "northflank-create-domain",
+    "northflank-create-project",
+    "northflank-get-domains",
+    "northflank-get-projects"
+  ]
+}

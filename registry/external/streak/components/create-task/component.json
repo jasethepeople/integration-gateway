@@ -1,0 +1,7 @@
+{
+  "key": "streak-create-task",
+  "name": "Create Task",
+  "description": "Task description",
+  "type": "action",
+  "version": "0.0.2"
+}

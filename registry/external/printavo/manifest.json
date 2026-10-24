@@ -1,0 +1,58 @@
+{
+  "app": "printavo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "company": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "extraNotes": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taxExempt": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "taxResaleNum": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "salesTax": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "printavo-create-customer",
+    "printavo-delete-customer",
+    "printavo-list-customer-id-options",
+    "printavo-search-customers",
+    "printavo-update-customer"
+  ]
+}

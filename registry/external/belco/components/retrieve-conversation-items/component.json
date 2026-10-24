@@ -1,0 +1,7 @@
+{
+  "key": "belco-retrieve-conversation-items",
+  "name": "Retrieve Conversation Items",
+  "description": "Retrieve the list of items belonging to a conversation, such as messages, notes, assignments, tags, calls and status changes.",
+  "type": "action",
+  "version": "0.0.2"
+}

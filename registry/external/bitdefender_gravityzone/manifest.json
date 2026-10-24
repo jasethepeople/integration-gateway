@@ -1,0 +1,48 @@
+{
+  "app": "bitdefender_gravityzone",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "endpointId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "policyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "bitdefender_gravityzone-get-policy-details",
+    "bitdefender_gravityzone-get-scan-task-status",
+    "bitdefender_gravityzone-list-endpoint-id-options",
+    "bitdefender_gravityzone-list-group-id-options",
+    "bitdefender_gravityzone-list-policy-id-options",
+    "bitdefender_gravityzone-list-task-id-options",
+    "bitdefender_gravityzone-move-endpoint-to-group",
+    "bitdefender_gravityzone-scan-endpoint",
+    "bitdefender_gravityzone-new-endpoint-added-instant",
+    "bitdefender_gravityzone-new-incident-instant",
+    "bitdefender_gravityzone-new-threat-detected-instant"
+  ]
+}

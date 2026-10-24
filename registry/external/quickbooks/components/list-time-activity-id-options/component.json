@@ -1,0 +1,7 @@
+{
+  "key": "quickbooks-list-time-activity-id-options",
+  "name": "List Time Activity ID Options",
+  "description": "Retrieves available options for the Time Activity ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "cloudflare_api_key-list-account-identifier-options",
+  "name": "List Account ID Options",
+  "description": "Retrieves available options for the Account ID field.",
+  "type": "action",
+  "version": "0.0.2"
+}

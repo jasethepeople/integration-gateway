@@ -1,0 +1,7 @@
+{
+  "key": "rhombus-unlock-access-controlled-door",
+  "name": "Unlock Access Controlled Door",
+  "description": "Unlock an access controlled door. [See the documentation](https://apidocs.rhombus.com/reference/unlockaccesscontrolleddoor)",
+  "type": "action",
+  "version": "0.0.2"
+}

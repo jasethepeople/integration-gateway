@@ -1,0 +1,7 @@
+{
+  "key": "centralstationcrm-new-person-created",
+  "name": "New Person Created",
+  "description": "Emit new event when a new person is created in CentralStationCRM.",
+  "type": "source",
+  "version": "0.0.1"
+}

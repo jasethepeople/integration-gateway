@@ -1,0 +1,7 @@
+{
+  "key": "rewiser-new-transaction-created",
+  "name": "New Transaction Created",
+  "description": "Emit new event when a new transaction is created in Rewiser. [See the documentation](https://rewiser.io/api)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,53 @@
+{
+  "app": "kite_suite",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "workspace": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sprintId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "messageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "issueType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "summary": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "kite_suite-create-task",
+    "kite_suite-send-message",
+    "kite_suite-update-task",
+    "kite_suite-new-task-created"
+  ]
+}

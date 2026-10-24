@@ -1,0 +1,59 @@
+{
+  "app": "opsgenie",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "alertId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "user": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "message": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "note": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "priority": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "requestId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "instance_region": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "team_api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "opsgenie-add-note-alert",
+    "opsgenie-create-alert",
+    "opsgenie-delete-alert",
+    "opsgenie-get-alert-status",
+    "opsgenie-list-alert-id-options",
+    "opsgenie-list-user-options"
+  ]
+}

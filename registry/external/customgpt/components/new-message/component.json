@@ -1,0 +1,7 @@
+{
+  "key": "customgpt-new-message",
+  "name": "New Message",
+  "description": "Emit new event when a new message is created in a conversation. [See the documentation](https://docs.customgpt.ai/reference/get_api-v1-projects-projectid-conversations-sessionid-messages)",
+  "type": "source",
+  "version": "0.0.1"
+}

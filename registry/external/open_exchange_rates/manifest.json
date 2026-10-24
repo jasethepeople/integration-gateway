@@ -1,0 +1,22 @@
+{
+  "app": "open_exchange_rates",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "currencyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "app_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "open_exchange_rates-convert-currency",
+    "open_exchange_rates-list-currency-id-options",
+    "open_exchange_rates-retrieve-current-rates",
+    "open_exchange_rates-currency-fluctuation",
+    "open_exchange_rates-rate-update-detected"
+  ]
+}

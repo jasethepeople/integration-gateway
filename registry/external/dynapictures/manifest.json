@@ -1,0 +1,20 @@
+{
+  "app": "dynapictures",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dynapictures-create-image",
+    "dynapictures-list-template-id-options",
+    "dynapictures-new-image-instant"
+  ]
+}

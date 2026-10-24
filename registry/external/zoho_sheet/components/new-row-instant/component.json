@@ -1,0 +1,7 @@
+{
+  "key": "zoho_sheet-new-row-instant",
+  "name": "New Row Created (Instant)",
+  "description": "Emit new event each time a new row is created in a Zoho Sheet worksheet.",
+  "type": "source",
+  "version": "0.0.1"
+}

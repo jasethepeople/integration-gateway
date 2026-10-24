@@ -1,0 +1,7 @@
+{
+  "key": "elastic_security-find-cases",
+  "name": "Find Cases",
+  "description": "Find and list Elastic Security cases via GET /api/cases/_find, or fetch a single case directly via GET /api/cases/{caseId} when `caseId` is provided.",
+  "type": "action",
+  "version": "0.0.1"
+}

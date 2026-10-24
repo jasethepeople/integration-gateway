@@ -1,0 +1,7 @@
+{
+  "key": "gitlab-get-repo-branch",
+  "name": "Get Repo Branch",
+  "description": "Get a single project repository branch. [See the documentation](https://docs.gitlab.com/ee/api/branches.html#get-single-repository-branch)",
+  "type": "action",
+  "version": "0.2.4"
+}

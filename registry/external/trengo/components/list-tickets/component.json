@@ -1,0 +1,7 @@
+{
+  "key": "trengo-list-tickets",
+  "name": "List Tickets",
+  "description": "List tickets according to the specified criteria. [See the documentation](https://developers.trengo.com/reference/list-all-tickets)",
+  "type": "action",
+  "version": "0.0.10"
+}

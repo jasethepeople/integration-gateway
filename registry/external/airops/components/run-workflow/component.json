@@ -1,0 +1,7 @@
+{
+  "key": "airops-run-workflow",
+  "name": "Run Workflow",
+  "description": "Run a workflow of an app. See the [sync documentation](https://docs.airops.com/reference/create-execution) or [async documentation](https://docs.airops.com/reference/create-async-execution)",
+  "type": "action",
+  "version": "0.0.2"
+}

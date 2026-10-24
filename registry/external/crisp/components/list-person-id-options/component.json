@@ -1,0 +1,7 @@
+{
+  "key": "crisp-list-person-id-options",
+  "name": "List Person ID Options",
+  "description": "Retrieves available options for the Person ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

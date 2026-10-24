@@ -1,0 +1,7 @@
+{
+  "key": "craftboxx-list-appointment-id-options",
+  "name": "List Appointment ID Options",
+  "description": "Retrieves available options for the Appointment ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

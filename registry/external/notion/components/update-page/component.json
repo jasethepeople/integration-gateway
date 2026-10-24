@@ -1,0 +1,7 @@
+{
+  "key": "notion-update-page",
+  "name": "Update Page",
+  "description": "Update a Notion page's property values, and/or archive (delete) it. Properties you don't include are left unchanged.",
+  "type": "action",
+  "version": "3.0.2"
+}

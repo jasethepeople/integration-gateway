@@ -1,0 +1,43 @@
+{
+  "app": "chattermill",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "responseId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dataType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dataSource": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userMeta": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "segments": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "chattermill-create-response",
+    "chattermill-get-response",
+    "chattermill-list-project-id-options",
+    "chattermill-search-responses",
+    "chattermill-update-response",
+    "chattermill-new-response-created"
+  ]
+}

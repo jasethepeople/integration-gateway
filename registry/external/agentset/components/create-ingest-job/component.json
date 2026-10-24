@@ -1,0 +1,7 @@
+{
+  "key": "agentset-create-ingest-job",
+  "name": "Create Ingest Job",
+  "description": "Create an ingest job for the authenticated organization. [See the documentation](https://docs.agentset.ai/api-reference/endpoint/ingest-jobs/create)",
+  "type": "action",
+  "version": "0.0.2"
+}

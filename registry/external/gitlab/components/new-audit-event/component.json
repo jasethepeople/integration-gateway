@@ -1,0 +1,7 @@
+{
+  "key": "gitlab-new-audit-event",
+  "name": "New Audit Event (Instant)",
+  "description": "Emit new event when a new audit event is created",
+  "type": "source",
+  "version": "0.1.4"
+}

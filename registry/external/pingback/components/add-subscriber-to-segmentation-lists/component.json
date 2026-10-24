@@ -1,0 +1,7 @@
+{
+  "key": "pingback-add-subscriber-to-segmentation-lists",
+  "name": "Add Subscriber To Segmentation Lists",
+  "description": "Add a subscriber to segmentation lists by email [See the documentation](https://developer.pingback.com/docs/api/add-subscriber-to-segment)",
+  "type": "action",
+  "version": "0.0.2"
+}

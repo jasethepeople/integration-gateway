@@ -1,0 +1,7 @@
+{
+  "key": "teamgate-new-lead",
+  "name": "New Lead",
+  "description": "Emit new event when a new lead is created. [See docs here](https://developers.teamgate.com/#4a60be88-9991-41d2-8949-7a0f47319c80)",
+  "type": "source",
+  "version": "0.0.1"
+}

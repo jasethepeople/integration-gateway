@@ -1,0 +1,307 @@
+{
+  "app": "zoho_books",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactPersons": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "currencyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "expenseId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "invoiceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "itemId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recurringInvoiceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "salesorderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taxAuthorityId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taxExemptionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taxId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timeEntryIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "date": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shipmentDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customFields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "placeOfSupply": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "salespersonId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "merchantId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "gstTreatment": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "gstNo": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "isInclusiveTax": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "lineItems": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "notes": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "terms": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "billingAddressId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shippingAddressId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "crmOwnerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "crmCustomReferenceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "vatTreatment": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taxTreatment": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "salesorderNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "referenceNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "isUpdateCustomer": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "discount": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "exchangeRate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "salespersonName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "notesDefault": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "termsDefault": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taxAuthorityName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taxExemptionCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "avataxExemptNo": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "avataxUseCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shippingCharge": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "adjustment": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "deliveryMethod": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "isDiscountBeforeTax": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "discountType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "adjustmentDescription": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pricebookId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pdfTemplateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "documents": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "zcrmPotentialId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "zcrmPotentialName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ignoreAutoNumberGeneration": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "canSendInMail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "totalFiles": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "doc": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customBody": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customSubject": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "send": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "paymentTerms": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "paymentTermsLabel": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "organization_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zoho_books-create-customer-payment",
+    "zoho_books-create-customer",
+    "zoho_books-create-employee",
+    "zoho_books-create-estimate",
+    "zoho_books-create-invoice",
+    "zoho_books-create-item",
+    "zoho_books-create-salesorder",
+    "zoho_books-delete-contact",
+    "zoho_books-get-invoice",
+    "zoho_books-get-item",
+    "zoho_books-list-account-id-options",
+    "zoho_books-list-contacts",
+    "zoho_books-list-currency-id-options",
+    "zoho_books-list-customer-id-options",
+    "zoho_books-list-expense-id-options",
+    "zoho_books-list-expenses",
+    "zoho_books-list-invoices",
+    "zoho_books-list-item-id-options",
+    "zoho_books-list-salesorder-id-options",
+    "zoho_books-list-tax-authority-id-options",
+    "zoho_books-list-tax-exemption-id-options",
+    "zoho_books-list-tax-id-options",
+    "zoho_books-list-template-id-options",
+    "zoho_books-list-time-entry-ids-options",
+    "zoho_books-make-api-call",
+    "zoho_books-update-salesorder",
+    "zoho_books-new-customer",
+    "zoho_books-new-expense",
+    "zoho_books-new-or-updated-invoice",
+    "zoho_books-new-sales-order"
+  ]
+}

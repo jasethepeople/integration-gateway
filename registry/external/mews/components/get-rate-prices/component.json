@@ -1,0 +1,7 @@
+{
+  "key": "mews-get-rate-prices",
+  "name": "Get Rate Prices",
+  "description": "Get rate pricing information for a specific rate and time period. [See the documentation](https://mews-systems.gitbook.io/connector-api/operations/rates#get-rate-pricing)",
+  "type": "action",
+  "version": "0.0.3"
+}

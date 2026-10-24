@@ -1,0 +1,7 @@
+{
+  "key": "utopian_labs-initiate-copywriting-run",
+  "name": "Initiate Copywriting Run",
+  "description": "Initiate a copywriting run of the R1-Copywriting agent. [See the documentation](https://docs.utopianlabs.ai/copywriting#initiate-a-copywriting-run)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "miro_custom_app-get-items",
+  "name": "Get Items",
+  "description": "Returns items on a Miro board. [See the docs](https://developers.miro.com/reference/get-items).",
+  "type": "action",
+  "version": "0.0.3"
+}

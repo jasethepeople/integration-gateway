@@ -1,0 +1,120 @@
+{
+  "app": "offorte",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "organisationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "proposalTemplateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "designTemplateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "textTemplateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "proposalId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emailTemplateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "street": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "zipcode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "city": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "state": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "internet": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "linkedin": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "facebook": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "twitter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "instagram": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "account_name": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "offorte-create-contact-organisation",
+    "offorte-create-contact-person",
+    "offorte-create-proposal",
+    "offorte-get-contact-details",
+    "offorte-list-design-template-id-options",
+    "offorte-list-email-template-id-options",
+    "offorte-list-proposal-templates",
+    "offorte-list-proposals",
+    "offorte-list-tags-options",
+    "offorte-list-text-template-id-options",
+    "offorte-list-users",
+    "offorte-search-contact-organisation",
+    "offorte-search-contact-people",
+    "offorte-send-proposal",
+    "offorte-new-event-instant"
+  ]
+}

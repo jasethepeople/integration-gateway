@@ -1,0 +1,20 @@
+{
+  "app": "modeck",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "deck": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "modeck-create-render",
+    "modeck-list-deck-options",
+    "modeck-render-complete"
+  ]
+}

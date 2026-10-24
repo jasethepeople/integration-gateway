@@ -1,0 +1,7 @@
+{
+  "key": "e_conomic-list-vat-zone-number-options",
+  "name": "List VAT Zone Number Options",
+  "description": "Retrieves available options for the VAT Zone Number field.",
+  "type": "action",
+  "version": "0.0.1"
+}

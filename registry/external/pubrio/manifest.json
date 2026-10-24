@@ -1,0 +1,119 @@
+{
+  "app": "pubrio",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "companyName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domains": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "locations": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "managementLevels": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "departments": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "departmentFunctions": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "companySizes": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "searchTerm": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lookupTypeDomain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lookupTypePerson": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lookupValue": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "perPage": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pubrio-batch-redeem-contacts",
+    "pubrio-create-monitor",
+    "pubrio-delete-monitor",
+    "pubrio-duplicate-monitor",
+    "pubrio-enrich-company",
+    "pubrio-enrich-person",
+    "pubrio-find-similar-companies",
+    "pubrio-get-company-sizes",
+    "pubrio-get-department-functions",
+    "pubrio-get-departments",
+    "pubrio-get-locations",
+    "pubrio-get-management-levels",
+    "pubrio-get-monitor-chart",
+    "pubrio-get-monitor-log-detail",
+    "pubrio-get-monitor-logs",
+    "pubrio-get-monitor-stats",
+    "pubrio-get-monitor",
+    "pubrio-get-news-categories",
+    "pubrio-get-news-galleries",
+    "pubrio-get-news-languages",
+    "pubrio-get-profile",
+    "pubrio-get-timezones",
+    "pubrio-get-usage",
+    "pubrio-linkedin-company-lookup",
+    "pubrio-linkedin-person-lookup",
+    "pubrio-list-monitors",
+    "pubrio-lookup-advertisement",
+    "pubrio-lookup-company",
+    "pubrio-lookup-job",
+    "pubrio-lookup-lookalike",
+    "pubrio-lookup-news",
+    "pubrio-lookup-person",
+    "pubrio-lookup-technology",
+    "pubrio-query-batch-redeem",
+    "pubrio-retry-monitor",
+    "pubrio-reveal-contact",
+    "pubrio-reveal-monitor-signature",
+    "pubrio-search-ads",
+    "pubrio-search-companies",
+    "pubrio-search-jobs",
+    "pubrio-search-news",
+    "pubrio-search-people",
+    "pubrio-search-technologies",
+    "pubrio-search-technology-categories",
+    "pubrio-search-vertical-categories",
+    "pubrio-search-vertical-sub-categories",
+    "pubrio-search-verticals",
+    "pubrio-test-run-monitor",
+    "pubrio-update-monitor",
+    "pubrio-validate-webhook",
+    "pubrio-monitor-event"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "goody-retrieve-orders-for-order-batch",
+  "name": "Retrieve Orders For Order Batch",
+  "description": "Retrieves orders for an order batch in Goody. [See the documentation](https://developer.ongoody.com/api-reference/order-batches/retrieve-orders-for-an-order-batch)",
+  "type": "action",
+  "version": "0.0.2"
+}

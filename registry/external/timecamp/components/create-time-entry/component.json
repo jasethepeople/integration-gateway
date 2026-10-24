@@ -1,0 +1,7 @@
+{
+  "key": "timecamp-create-time-entry",
+  "name": "Create Time Entry",
+  "description": "Creates a time entry. [See docs here](https://developer.timecamp.com/docs/timecamp-api/b3A6NTY2NDIyOQ-create-time-entry)",
+  "type": "action",
+  "version": "0.1.4"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "bingx-generic-api-call",
+  "name": "BingX Generic API Call",
+  "description": "Make any API call for Bingx Futures as per the documentation. [See the documentation](https://bingx-api.github.io/docs/#/swapV2/account-api.html)",
+  "type": "action",
+  "version": "0.0.4"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "browser_use-list-workspace-files",
+  "name": "List Workspace Files",
+  "description": "List files and folders in a Browser Use workspace, optionally returning presigned download URLs. [See the documentation](https://docs.browser-use.com/cloud/api-v3/workspaces/list-workspace-files)",
+  "type": "action",
+  "version": "0.0.1"
+}

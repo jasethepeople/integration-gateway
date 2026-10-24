@@ -1,0 +1,7 @@
+{
+  "key": "activecampaign-tag-contact",
+  "name": "Tag Contact",
+  "description": "Tags a contact. See the docs [here](https://developers.activecampaign.com/reference/create-contact-tag).",
+  "type": "action",
+  "version": "0.3.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zendesk-list-active-macros",
+  "name": "List Active Macros",
+  "description": "Lists all active shared and personal macros available to the current user. [See the documentation](https://developer.zendesk.com/api-reference/ticketing/business-rules/macros/#list-active-macros).",
+  "type": "action",
+  "version": "0.0.11"
+}

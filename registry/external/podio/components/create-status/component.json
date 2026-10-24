@@ -1,0 +1,7 @@
+{
+  "key": "podio-create-status",
+  "name": "Create Status",
+  "description": "Creates a status to the given workspace. [See the documentation](https://developers.podio.com/doc/status/add-new-status-message-22336)",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "toggl-get-time-entries",
+  "name": "Get Time Entries",
+  "description": "Get the last thousand time entries. [See docs here](https://developers.track.toggl.com/docs/api/time_entries#get-timeentries)",
+  "type": "action",
+  "version": "0.0.10"
+}

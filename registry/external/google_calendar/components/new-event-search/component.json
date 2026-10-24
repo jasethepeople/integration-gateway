@@ -1,0 +1,7 @@
+{
+  "key": "google_calendar-new-event-search",
+  "name": "New Event Matching a Search",
+  "description": "Emit new event when a Google Calendar event is created that matches a search",
+  "type": "source",
+  "version": "0.1.17"
+}

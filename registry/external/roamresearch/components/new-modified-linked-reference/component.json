@@ -1,0 +1,7 @@
+{
+  "key": "roamresearch-new-modified-linked-reference",
+  "name": "New Modified Linked Reference",
+  "description": "Emit new event for each new or modified linked reference in Roam Research.",
+  "type": "source",
+  "version": "0.0.1"
+}

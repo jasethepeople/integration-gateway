@@ -1,0 +1,7 @@
+{
+  "key": "sendpulse-retrieve-info-for-email-address",
+  "name": "Retrieve General Information About a Specific Email Address",
+  "description": "Make a GET request to https://api.sendpulse.com/emails/{email}",
+  "type": "action",
+  "version": "0.1.2"
+}

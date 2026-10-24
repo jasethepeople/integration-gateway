@@ -1,0 +1,7 @@
+{
+  "key": "nango-delete-connection",
+  "name": "Delete Connection",
+  "description": "Deletes a Connection. [See the Documentation](https://docs.nango.dev/api-reference/connection/delete)",
+  "type": "action",
+  "version": "0.0.2"
+}

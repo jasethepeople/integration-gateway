@@ -1,0 +1,66 @@
+{
+  "app": "vision6",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "list": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "contact": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mobile": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emailSubscribed": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "mobileSubscribed": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "isActive": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "doubleOptIn": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "region": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "vision6-create-contact",
+    "vision6-deactivate-contact",
+    "vision6-delete-contact",
+    "vision6-list-list-options",
+    "vision6-reactivate-contact",
+    "vision6-subscribe-contact",
+    "vision6-unsubscribe-contact",
+    "vision6-update-contact",
+    "vision6-contact-activated",
+    "vision6-contact-deactivated",
+    "vision6-contact-subscribed",
+    "vision6-contact-unsubscribed",
+    "vision6-contact-updated",
+    "vision6-new-contact"
+  ],
+  "npmImports": [
+    "lodash.pickby"
+  ]
+}

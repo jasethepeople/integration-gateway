@@ -1,0 +1,7 @@
+{
+  "key": "interseller-update-contact",
+  "name": "Update Contact",
+  "description": "Update an existing contact. [See the documentation](https://interseller.readme.io/reference/update-contact)",
+  "type": "action",
+  "version": "0.0.2"
+}

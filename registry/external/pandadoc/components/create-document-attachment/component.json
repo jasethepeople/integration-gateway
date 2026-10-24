@@ -1,0 +1,7 @@
+{
+  "key": "pandadoc-create-document-attachment",
+  "name": "Create Document Attachment",
+  "description": "Adds an attachment to a document. [See the documentation here](https://developers.pandadoc.com/reference/create-document-attachment)",
+  "type": "action",
+  "version": "0.1.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "slack_v2-new-channel-created",
+  "name": "New Channel Created (Instant)",
+  "description": "Emit new event when a new channel is created.",
+  "type": "source",
+  "version": "0.0.26"
+}

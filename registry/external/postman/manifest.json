@@ -1,0 +1,35 @@
+{
+  "app": "postman",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "environmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "monitorId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "variable": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workspaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "postman-create-environment",
+    "postman-list-monitor-id-options",
+    "postman-list-workspace-id-options",
+    "postman-run-monitor",
+    "postman-update-variable",
+    "postman-monitor-run-completed"
+  ]
+}

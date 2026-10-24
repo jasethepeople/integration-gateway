@@ -1,0 +1,7 @@
+{
+  "key": "flippingbook-new-lead-instant",
+  "name": "New Lead (Instant)",
+  "description": "Emit new event when a new lead is created via a lead capture form.",
+  "type": "source",
+  "version": "0.0.2"
+}

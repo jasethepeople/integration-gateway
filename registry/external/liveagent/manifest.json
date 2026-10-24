@@ -1,0 +1,56 @@
+{
+  "app": "liveagent",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "ticketId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tagId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "perPage": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "sortDir": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sortField": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "filters": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "liveagent-add-tag-to-ticket",
+    "liveagent-create-customer",
+    "liveagent-get-agent",
+    "liveagent-get-ticket",
+    "liveagent-list-agent-id-options",
+    "liveagent-list-group-id-options",
+    "liveagent-list-tags",
+    "liveagent-list-ticket-messages",
+    "liveagent-list-tickets",
+    "liveagent-update-ticket-status",
+    "liveagent-new-customer"
+  ]
+}

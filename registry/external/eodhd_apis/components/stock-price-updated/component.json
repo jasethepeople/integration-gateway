@@ -1,0 +1,7 @@
+{
+  "key": "eodhd_apis-stock-price-updated",
+  "name": "New Stock Price Updated",
+  "description": "Emit new event when historical stock prices for a specific symbol are updated.",
+  "type": "source",
+  "version": "0.0.1"
+}

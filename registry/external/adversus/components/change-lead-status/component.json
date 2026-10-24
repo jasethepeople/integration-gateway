@@ -1,0 +1,7 @@
+{
+  "key": "adversus-change-lead-status",
+  "name": "Change Lead Status",
+  "description": "Change the status of a lead in Adversus. [See the API documentation](https://solutions.adversus.io/api).",
+  "type": "action",
+  "version": "0.0.1"
+}

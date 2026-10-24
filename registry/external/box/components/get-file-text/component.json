@@ -1,0 +1,7 @@
+{
+  "key": "box-get-file-text",
+  "name": "Get File Text",
+  "description": "Extracts the text content of a Box file using its `extracted_text` representation. Works for office documents, presentations, spreadsheets, PDFs, and plain-text or code files. Box does not generate this representation for images (they have no text layer) or for files larger than 500 MB, and the action fails with an error when the file has no text representation. Use **Download File** to fetch the raw file instead. [See the documentation](https://developer.box.com/guides/representations/text)",
+  "type": "action",
+  "version": "0.0.3"
+}

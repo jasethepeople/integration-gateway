@@ -1,0 +1,26 @@
+{
+  "app": "adrapid",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "bannerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "adrapid-create-banner",
+    "adrapid-get-banner",
+    "adrapid-list-banner-id-options",
+    "adrapid-list-template-id-options",
+    "adrapid-new-banner-ready"
+  ]
+}

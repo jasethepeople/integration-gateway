@@ -1,0 +1,7 @@
+{
+  "key": "pdf_munk-convert-html-to-pdf",
+  "name": "Convert HTML to PDF",
+  "description": "Converts HTML/CSS content to a PDF file with customizable options. [See documentation](https://pdfmunk.com/api-docs#:~:text=Operations%20related%20to%20PDF)",
+  "type": "action",
+  "version": "0.0.2"
+}

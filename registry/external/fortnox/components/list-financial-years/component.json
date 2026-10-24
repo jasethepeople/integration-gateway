@@ -1,0 +1,7 @@
+{
+  "key": "fortnox-list-financial-years",
+  "name": "List Financial Years",
+  "description": "Retrieve a list of financial years. [See the documentation](https://api.fortnox.se/apidocs#tag/fortnox_FinancialYears/operation/getByDate)",
+  "type": "action",
+  "version": "0.0.1"
+}

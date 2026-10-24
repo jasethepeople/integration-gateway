@@ -1,0 +1,7 @@
+{
+  "key": "sendoso-get-campaign",
+  "name": "Get Campaign",
+  "description": "Retrieve details about a specific campaign. [See the documentation](https://developer.sendoso.com/rest-api/reference/campaigns/get-campaign)",
+  "type": "action",
+  "version": "0.0.1"
+}

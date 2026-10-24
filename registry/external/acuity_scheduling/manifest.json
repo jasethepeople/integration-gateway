@@ -1,0 +1,59 @@
+{
+  "app": "acuity_scheduling",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "startTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "appointmentTypeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "calendarId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "certificate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "labelId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "formId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timezone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "acuity_scheduling-add-blocked-off-time",
+    "acuity_scheduling-book-appointment",
+    "acuity_scheduling-check-availability-times",
+    "acuity_scheduling-find-appointments-by-client-info",
+    "acuity_scheduling-get-appointment-types",
+    "acuity_scheduling-get-appointments",
+    "acuity_scheduling-get-availability-times",
+    "acuity_scheduling-get-products",
+    "acuity_scheduling-list-calendar-id-options",
+    "acuity_scheduling-list-form-id-options",
+    "acuity_scheduling-list-label-id-options",
+    "acuity_scheduling-appointment-canceled-instant",
+    "acuity_scheduling-appointment-rescheduled-instant",
+    "acuity_scheduling-new-appointment-instant"
+  ]
+}

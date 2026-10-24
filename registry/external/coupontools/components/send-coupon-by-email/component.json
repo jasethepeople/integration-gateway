@@ -1,0 +1,7 @@
+{
+  "key": "coupontools-send-coupon-by-email",
+  "name": "Send Coupon by Email",
+  "description": "Send a coupon by email. [See the documentation](https://docs.coupontools.com/api/coupon#send-by-email)",
+  "type": "action",
+  "version": "0.0.1"
+}

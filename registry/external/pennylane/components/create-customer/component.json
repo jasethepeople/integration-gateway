@@ -1,0 +1,7 @@
+{
+  "key": "pennylane-create-customer",
+  "name": "Create Customer",
+  "description": "Creates a new customer in Pennylane. [See the documentation](https://pennylane.readme.io/reference/customers-post-1)",
+  "type": "action",
+  "version": "0.0.3"
+}

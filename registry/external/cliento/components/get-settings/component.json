@@ -1,0 +1,7 @@
+{
+  "key": "cliento-get-settings",
+  "name": "Fetch Settings",
+  "description": "Fetch settings and features for the booking widget. [See the documentation](https://developers.cliento.com/docs/rest-api#fetch-settings)",
+  "type": "action",
+  "version": "0.0.2"
+}

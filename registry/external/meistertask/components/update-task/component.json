@@ -1,0 +1,7 @@
+{
+  "key": "meistertask-update-task",
+  "name": "Update Task",
+  "description": "Updaets an existing task in a project section. [See the docs](https://developers.meistertask.com/reference/put-task)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,15 @@
+{
+  "app": "leadoku",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "analytics_code": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "leadoku-new-connection",
+    "leadoku-new-responder"
+  ]
+}

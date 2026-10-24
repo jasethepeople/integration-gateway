@@ -1,0 +1,53 @@
+{
+  "app": "attractwell",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "tag": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "vaultId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "followUpPlanId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "automationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "classId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lessonId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "attractwell-create-update-contact",
+    "attractwell-lesson-approval",
+    "attractwell-list-automation-id-options",
+    "attractwell-list-campaign-id-options",
+    "attractwell-list-class-id-options",
+    "attractwell-list-follow-up-plan-id-options",
+    "attractwell-list-lesson-id-options",
+    "attractwell-list-tag-options",
+    "attractwell-list-vault-id-options",
+    "attractwell-contact-joins-vault-instant",
+    "attractwell-new-event-registration-instant",
+    "attractwell-new-lead-from-landing-page-instant"
+  ]
+}

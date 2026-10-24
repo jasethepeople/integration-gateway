@@ -1,0 +1,7 @@
+{
+  "key": "pixiebrix-add-group-memberships",
+  "name": "Add Group Memberships",
+  "description": "Adds user memberships to a group in PixieBrix. [See the documentation](https://docs.pixiebrix.com/developer-api/team-management-apis#add-group-memberships)",
+  "type": "action",
+  "version": "0.0.2"
+}

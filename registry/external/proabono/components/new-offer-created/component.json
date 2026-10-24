@@ -1,0 +1,7 @@
+{
+  "key": "proabono-new-offer-created",
+  "name": "New Offer Created",
+  "description": "Emit new event when a new offer is created. [See the documentation](https://docs.proabono.com/api/#retrieve-offers)",
+  "type": "source",
+  "version": "0.0.1"
+}

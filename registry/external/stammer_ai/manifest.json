@@ -1,0 +1,26 @@
+{
+  "app": "stammer_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "chatbotUuid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userKey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "stammer_ai-message-chatbot"
+  ]
+}

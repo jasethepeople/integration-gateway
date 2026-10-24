@@ -1,0 +1,7 @@
+{
+  "key": "asknicely-get-responses",
+  "name": "Get Responses",
+  "description": "Get the details of a particular contact. [See the documentation](https://demo.asknice.ly/help/apidocs/getcontact)",
+  "type": "action",
+  "version": "0.0.2"
+}

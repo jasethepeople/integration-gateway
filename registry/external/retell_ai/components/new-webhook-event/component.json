@@ -1,0 +1,7 @@
+{
+  "key": "retell_ai-new-webhook-event",
+  "name": "New Webhook Event (Instant)",
+  "description": "Emit new event when a new webhook event is received for a specific agent. [See the documentation](https://docs.retellai.com/features/webhook-overview)",
+  "type": "source",
+  "version": "0.0.1"
+}

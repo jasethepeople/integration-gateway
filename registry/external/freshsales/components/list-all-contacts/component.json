@@ -1,0 +1,7 @@
+{
+  "key": "freshsales-list-all-contacts",
+  "name": "List All Contacts",
+  "description": "Fetch all contacts from your Freshsales account. [See the documentation](https://developer.freshsales.io/api/#list_all_contacts)",
+  "type": "action",
+  "version": "0.0.2"
+}

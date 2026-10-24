@@ -1,0 +1,36 @@
+{
+  "app": "geoapify",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "locationType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "format": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "routeOptimizationType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "units": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "geoapify-get-ip-location",
+    "geoapify-get-route",
+    "geoapify-search-address"
+  ]
+}

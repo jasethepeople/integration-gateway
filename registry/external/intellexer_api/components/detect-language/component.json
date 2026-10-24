@@ -1,0 +1,7 @@
+{
+  "key": "intellexer_api-detect-language",
+  "name": "Detect Language",
+  "description": "Recognize language and encoding of an input text stream. [See the documentation](http://esapi.intellexer.com/Home/Help)",
+  "type": "action",
+  "version": "0.0.2"
+}

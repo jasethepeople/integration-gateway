@@ -1,0 +1,67 @@
+{
+  "app": "microsoft_teams",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "team": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "channel": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "chat": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "messageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "channelDisplayName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "channelDescription": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "message": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contentType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "microsoft_teams-create-channel",
+    "microsoft_teams-get-chat-message",
+    "microsoft_teams-get-current-user",
+    "microsoft_teams-list-channel-messages",
+    "microsoft_teams-list-channels",
+    "microsoft_teams-list-chats",
+    "microsoft_teams-list-messages-in-chat",
+    "microsoft_teams-list-shifts",
+    "microsoft_teams-list-teams",
+    "microsoft_teams-search-messages",
+    "microsoft_teams-send-channel-message",
+    "microsoft_teams-send-chat-message",
+    "microsoft_teams-new-channel-message",
+    "microsoft_teams-new-channel",
+    "microsoft_teams-new-chat-message",
+    "microsoft_teams-new-chat",
+    "microsoft_teams-new-team-member",
+    "microsoft_teams-new-team"
+  ],
+  "npmImports": [
+    "@microsoft/microsoft-graph-client",
+    "isomorphic-fetch"
+  ]
+}

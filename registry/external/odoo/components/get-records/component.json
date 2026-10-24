@@ -1,0 +1,7 @@
+{
+  "key": "odoo-get-records",
+  "name": "Get Records",
+  "description": "Get records by ID from Odoo. [See the documentation](https://www.odoo.com/documentation/18.0/developer/reference/external_api.html#read-records)",
+  "type": "action",
+  "version": "0.0.1"
+}

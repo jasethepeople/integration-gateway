@@ -1,0 +1,7 @@
+{
+  "key": "mojo_helpdesk-create-ticket",
+  "name": "Create Ticket",
+  "description": "Create a new ticket. [See the docs here](https://github.com/mojohelpdesk/mojohelpdesk-api-doc#create-ticket)",
+  "type": "action",
+  "version": "0.0.2"
+}

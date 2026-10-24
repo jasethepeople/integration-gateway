@@ -1,0 +1,76 @@
+{
+  "app": "etrusted",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "channelId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "reviewId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "submittedAfter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "submittedBefore": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "rating": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "hasReply": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "ignoreStatements": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sku": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderBy": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "etrusted-create-veto-for-review",
+    "etrusted-delete-review-reply",
+    "etrusted-get-list-of-reviews-with-fewer-properties",
+    "etrusted-get-list-of-reviews",
+    "etrusted-get-review-by-id",
+    "etrusted-get-review-veto-by-review-id",
+    "etrusted-get-service-review-rating",
+    "etrusted-get-total-reviews",
+    "etrusted-list-channel-id-options",
+    "etrusted-save-review-reply",
+    "etrusted-new-review"
+  ]
+}

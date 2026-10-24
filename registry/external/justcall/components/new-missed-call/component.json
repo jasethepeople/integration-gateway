@@ -1,0 +1,7 @@
+{
+  "key": "justcall-new-missed-call",
+  "name": "New Missed Call (Instant)",
+  "description": "Emit new event when a call is missed.",
+  "type": "source",
+  "version": "0.1.0"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "spider-scrape-new-page",
+  "name": "Scrape New Page",
+  "description": "Initiates a new page scrape (crawl). [See the documentation](https://spider.cloud/docs/api#crawl-website)",
+  "type": "action",
+  "version": "0.0.3"
+}

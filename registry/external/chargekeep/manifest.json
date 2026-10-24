@@ -1,0 +1,37 @@
+{
+  "app": "chargekeep",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "contactGroupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "currencyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productCodes": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "chargekeep-create-invoice",
+    "chargekeep-create-or-update-contact",
+    "chargekeep-create-product",
+    "chargekeep-get-contact-info",
+    "chargekeep-list-contact-group-id-options",
+    "chargekeep-list-currency-id-options",
+    "chargekeep-new-contact-created",
+    "chargekeep-new-product-created"
+  ]
+}

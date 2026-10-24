@@ -1,0 +1,7 @@
+{
+  "key": "slicktext-list-list-ids-options",
+  "name": "List List IDs Options",
+  "description": "Retrieves available options for the List IDs field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "app": "shoprocket",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "environment": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "shoprocket-create-customer",
+    "shoprocket-new-customer-instant",
+    "shoprocket-new-order-instant",
+    "shoprocket-new-product-instant"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "helper_functions-random-item-from-list",
+  "name": "Random Item(s) from List",
+  "description": "Returns a randomly selected value(s) from a user-defined list of options.",
+  "type": "action",
+  "version": "0.0.4"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "veremark-list-criteria",
+  "name": "List Criteria",
+  "description": "Returns all background check criteria packages configured for your Veremark account.",
+  "type": "action",
+  "version": "0.0.2"
+}

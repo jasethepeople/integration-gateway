@@ -1,0 +1,27 @@
+{
+  "app": "customer_fields",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "formId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "customer_fields-create-customer",
+    "customer_fields-list-customer-id-options",
+    "customer_fields-list-form-id-options",
+    "customer_fields-update-customer",
+    "customer_fields-customer-created",
+    "customer_fields-customer-updated"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "printavo-update-customer",
+  "name": "Update Customer",
+  "description": "Update a new customer. [See the docs here](https://printavo.docs.apiary.io/#reference/customers/customer/customer-update)",
+  "type": "action",
+  "version": "0.0.2"
+}

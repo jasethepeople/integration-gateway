@@ -1,0 +1,7 @@
+{
+  "key": "brex-search-expenses",
+  "name": "Search Expenses",
+  "description": "Searches expenses across card, bill pay, and reimbursement spend by merchant, amount, date, person, type, or status. Covers every payment method and carries receipt and approval state; use **Search Card Transactions** for settled card postings only. [See the documentation](https://developer.brex.com/openapi/expenses_api/expenses/listexpenses)",
+  "type": "action",
+  "version": "0.0.1"
+}

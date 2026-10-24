@@ -1,0 +1,7 @@
+{
+  "key": "keycloak-list-realm-options",
+  "name": "List Realm Options",
+  "description": "Retrieves available options for the Realm field.",
+  "type": "action",
+  "version": "0.0.1"
+}

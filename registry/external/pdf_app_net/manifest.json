@@ -1,0 +1,20 @@
+{
+  "app": "pdf_app_net",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "fileName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pdf_app_net-compress-pdf",
+    "pdf_app_net-image-to-pdf",
+    "pdf_app_net-split-pdf"
+  ]
+}

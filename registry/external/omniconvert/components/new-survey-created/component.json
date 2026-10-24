@@ -1,0 +1,7 @@
+{
+  "key": "omniconvert-new-survey-created",
+  "name": "New Survey Created",
+  "description": "Emit new event when a new survey is created. [See the documentation](https://api.omniconvert.com/docs#get--v1-experiments)",
+  "type": "source",
+  "version": "0.0.1"
+}

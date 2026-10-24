@@ -1,0 +1,7 @@
+{
+  "key": "help_scout-new-customer-instant",
+  "name": "New Customer Added (Instant)",
+  "description": "Emit new event when a new customer is added.",
+  "type": "source",
+  "version": "0.0.5"
+}

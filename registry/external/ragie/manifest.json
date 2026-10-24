@@ -1,0 +1,36 @@
+{
+  "app": "ragie",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "documentFile": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "documentMode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "partition": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "documentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ragie-create-document",
+    "ragie-update-document-file",
+    "ragie-new-connection",
+    "ragie-new-document"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

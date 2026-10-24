@@ -1,0 +1,7 @@
+{
+  "key": "langfuse-add-feedback",
+  "name": "Add Feedback",
+  "description": "Attach user feedback to an existing trace in Langfuse. [See the documentation](https://api.reference.langfuse.com/#tag/comments/POST/api/public/comments).",
+  "type": "action",
+  "version": "0.0.3"
+}

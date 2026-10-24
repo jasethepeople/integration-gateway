@@ -1,0 +1,7 @@
+{
+  "key": "awardco-recognize-without-recognition-program",
+  "name": "Recognize Without Recognition Program",
+  "description": "Submit recognition in Awardco, without a recognition program. [See the documentation](https://api.awardco.com/api#tag/recognition/POST/recognize/no-program).",
+  "type": "action",
+  "version": "0.0.2"
+}

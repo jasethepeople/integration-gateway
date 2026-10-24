@@ -1,0 +1,7 @@
+{
+  "key": "spotlightr-list-video-group-options",
+  "name": "List Video Group Options",
+  "description": "Retrieves available options for the Video Group field.",
+  "type": "action",
+  "version": "0.0.1"
+}

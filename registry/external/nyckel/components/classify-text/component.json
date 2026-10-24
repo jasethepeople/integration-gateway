@@ -1,0 +1,7 @@
+{
+  "key": "nyckel-classify-text",
+  "name": "Classify Text",
+  "description": "Classifies text data based on pre-trained classifiers in Nyckel.  [See the documentation](https://www.nyckel.com/docs#invoke-text)",
+  "type": "action",
+  "version": "0.0.2"
+}

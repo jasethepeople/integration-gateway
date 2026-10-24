@@ -1,0 +1,7 @@
+{
+  "key": "prisma_management_api-create-new-database-in-existing-project",
+  "name": "Create New Database in Existing Project",
+  "description": "Create a new database in an existing Prisma project. Requires Project ID. [See docs here](https://www.prisma.io/docs/postgres/introduction/management-api)",
+  "type": "action",
+  "version": "1.0.2"
+}

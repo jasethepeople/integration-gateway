@@ -1,0 +1,7 @@
+{
+  "key": "infinity-item-finalized",
+  "name": "New Item Finalized",
+  "description": "Emit new event when an item is finalized.",
+  "type": "source",
+  "version": "0.0.1"
+}

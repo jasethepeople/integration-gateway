@@ -1,0 +1,7 @@
+{
+  "key": "connecteam-list-assigned-user-id-options",
+  "name": "List Assigned User ID Options",
+  "description": "Retrieves available options for the Assigned User ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

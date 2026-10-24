@@ -1,0 +1,7 @@
+{
+  "key": "mastodon-view-public-timeline",
+  "name": "View Public Timeline",
+  "description": "View public statuses. [See the docs here](https://docs.joinmastodon.org/methods/timelines/#public)",
+  "type": "action",
+  "version": "0.0.3"
+}

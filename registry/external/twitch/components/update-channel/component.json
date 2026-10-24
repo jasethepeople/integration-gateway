@@ -1,0 +1,7 @@
+{
+  "key": "twitch-update-channel",
+  "name": "Update Channel",
+  "description": "The title of the stream. Value must not be an empty string",
+  "type": "action",
+  "version": "0.1.6"
+}

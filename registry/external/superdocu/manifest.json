@@ -1,0 +1,45 @@
+{
+  "app": "superdocu",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactWorkflowId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workflowId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "after": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "superdocu-create-contact",
+    "superdocu-create-dossier",
+    "superdocu-delete-dossier",
+    "superdocu-get-dossier",
+    "superdocu-invite-contact",
+    "superdocu-list-contacts",
+    "superdocu-list-dossiers",
+    "superdocu-list-templates",
+    "superdocu-new-event"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

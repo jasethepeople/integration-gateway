@@ -1,0 +1,105 @@
+{
+  "app": "tomba",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "domain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "linkedinUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "blogUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phoneNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "filters": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "limitDomainSearch": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "department": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "searchType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "tomba-enrich-email",
+    "tomba-find-author",
+    "tomba-find-email",
+    "tomba-find-linkedin-email",
+    "tomba-find-phone",
+    "tomba-find-similar-domains",
+    "tomba-get-account",
+    "tomba-get-domain-status",
+    "tomba-get-domain-suggestions",
+    "tomba-get-email-count",
+    "tomba-get-email-format",
+    "tomba-get-email-sources",
+    "tomba-get-location",
+    "tomba-get-logs",
+    "tomba-get-technology",
+    "tomba-get-usage",
+    "tomba-search-companies",
+    "tomba-search-domain",
+    "tomba-validate-phone",
+    "tomba-verify-email"
+  ]
+}

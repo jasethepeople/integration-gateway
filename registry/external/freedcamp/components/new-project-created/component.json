@@ -1,0 +1,7 @@
+{
+  "key": "freedcamp-new-project-created",
+  "name": "New Project Created",
+  "description": "Emit new event when a new project is created in Freedcamp. [See the documentation](https://freedcamp.com/help_/tutorials/wiki/wiki_public/view/DFaab#get_fcu_3)",
+  "type": "source",
+  "version": "0.0.1"
+}

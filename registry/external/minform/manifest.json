@@ -1,0 +1,20 @@
+{
+  "app": "minform",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "formId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "minform-get-form-submissions",
+    "minform-list-forms",
+    "minform-new-submission-received"
+  ]
+}

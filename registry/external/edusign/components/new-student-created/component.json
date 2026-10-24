@@ -1,0 +1,7 @@
+{
+  "key": "edusign-new-student-created",
+  "name": "New Student Created",
+  "description": "Emit new event when a new student is created. [See the documentation](https://developers.edusign.com/reference/getv1student)",
+  "type": "source",
+  "version": "0.0.1"
+}

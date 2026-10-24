@@ -1,0 +1,7 @@
+{
+  "key": "plaid-sync-updates-available-instant",
+  "name": "Sync Updates Available (Instant)",
+  "description": "Emit new event when there are new updates available for a connected account. [See the documentation](https://plaid.com/docs/api/webhooks/).",
+  "type": "source",
+  "version": "0.0.1"
+}

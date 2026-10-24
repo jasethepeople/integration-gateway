@@ -1,0 +1,7 @@
+{
+  "key": "omnisend-list-campaign-id-options",
+  "name": "List Campaign ID Options",
+  "description": "Retrieves available options for the Campaign ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "raisely-donation-refunded",
+  "name": "Donation Refunded",
+  "description": "Emit new event when a donation has been refunded.",
+  "type": "source",
+  "version": "0.0.1"
+}

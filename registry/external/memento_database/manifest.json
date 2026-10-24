@@ -1,0 +1,31 @@
+{
+  "app": "memento_database",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "libraryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "entryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "memento_database-create-entry",
+    "memento_database-get-library",
+    "memento_database-list-entries",
+    "memento_database-update-entry",
+    "memento_database-entry-updated",
+    "memento_database-new-entry-created"
+  ]
+}

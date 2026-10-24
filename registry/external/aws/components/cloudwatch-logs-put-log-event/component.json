@@ -1,0 +1,7 @@
+{
+  "key": "aws-cloudwatch-logs-put-log-event",
+  "name": "CloudWatch Logs - Put Log Event",
+  "description": "The event message",
+  "type": "action",
+  "version": "0.1.3"
+}

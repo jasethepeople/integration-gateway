@@ -1,0 +1,7 @@
+{
+  "key": "papertrail-new-system",
+  "name": "New System",
+  "description": "Emit new event when a log sender (system) appears in your account. [See the documentation](https://www.papertrail.com/help/settings-api/#list-systems)",
+  "type": "source",
+  "version": "0.0.1"
+}

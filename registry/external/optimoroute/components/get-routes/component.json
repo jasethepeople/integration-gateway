@@ -1,0 +1,7 @@
+{
+  "key": "optimoroute-get-routes",
+  "name": "Get Routes",
+  "description": "Get routes from Optimoroute. [See the documentation](https://optimoroute.com/api/#get-routes)",
+  "type": "action",
+  "version": "0.0.1"
+}

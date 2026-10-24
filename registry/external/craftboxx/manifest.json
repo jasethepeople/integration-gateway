@@ -1,0 +1,33 @@
+{
+  "app": "craftboxx",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "appointmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "craftboxx-create-article",
+    "craftboxx-create-customer-and-mailing-address",
+    "craftboxx-list-appointment-id-options",
+    "craftboxx-list-project-id-options",
+    "craftboxx-update-project-and-appointment",
+    "craftboxx-new-appointment",
+    "craftboxx-new-customer",
+    "craftboxx-new-project"
+  ]
+}

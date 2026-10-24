@@ -1,0 +1,7 @@
+{
+  "key": "slack_v2-delete-file",
+  "name": "Delete File",
+  "description": "Delete a file. [See the documentation](https://api.slack.com/methods/files.delete)",
+  "type": "action",
+  "version": "0.0.42"
+}

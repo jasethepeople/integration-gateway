@@ -1,0 +1,7 @@
+{
+  "key": "upkeep-new-purchase-order",
+  "name": "New Purchase Order Event",
+  "description": "Emit new event when a purchase order is created.",
+  "type": "source",
+  "version": "0.0.2"
+}

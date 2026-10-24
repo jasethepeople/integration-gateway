@@ -1,0 +1,7 @@
+{
+  "key": "smartsheet-list-workspace-id-options",
+  "name": "List Workspace Options",
+  "description": "Retrieves `{ label, value }` pairs for populating a Workspace dropdown, following token-based pagination to the end.",
+  "type": "action",
+  "version": "0.1.2"
+}

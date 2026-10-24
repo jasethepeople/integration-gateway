@@ -1,0 +1,7 @@
+{
+  "key": "vapi-list-squad-id-options",
+  "name": "List Squad ID Options",
+  "description": "Retrieves available options for the Squad ID field. [See the documentation](https://docs.vapi.ai/api-reference/squads/list)",
+  "type": "action",
+  "version": "0.0.3"
+}

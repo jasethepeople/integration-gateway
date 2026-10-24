@@ -1,0 +1,7 @@
+{
+  "key": "hunter-domain-search",
+  "name": "Domain Search",
+  "description": "Search all the email addresses corresponding to one website or company. [See the documentation](https://hunter.io/api-documentation/v2#domain-search).",
+  "type": "action",
+  "version": "0.0.2"
+}

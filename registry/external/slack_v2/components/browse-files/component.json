@@ -1,0 +1,7 @@
+{
+  "key": "slack_v2-browse-files",
+  "name": "Browse Files",
+  "description": "List files shared in a channel or across the workspace.",
+  "type": "action",
+  "version": "0.0.15"
+}

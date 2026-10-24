@@ -1,0 +1,7 @@
+{
+  "key": "mobygames-list-genres",
+  "name": "List Genres",
+  "description": "Provides a list of genres which may be used for filtering games via the MobyGames API. [See the documentation](https://www.mobygames.com/info/api/#genres)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "whautomate-assign-tags-contact",
+  "name": "Assign Tags to Contact",
+  "description": "Assign one or more tags to an existing contact. [See the documentation](https://help.whautomate.com/product-guides/whautomate-rest-api/contacts#/v1-contacts-contactid-1)",
+  "type": "action",
+  "version": "0.0.2"
+}

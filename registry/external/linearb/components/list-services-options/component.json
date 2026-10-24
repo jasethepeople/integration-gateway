@@ -1,0 +1,7 @@
+{
+  "key": "linearb-list-services-options",
+  "name": "List Services Options",
+  "description": "Retrieves available options for the Services field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "hotmart-get-sales-history",
+  "name": "Get Sales History",
+  "description": "Retrieve sales history from the Hotmart account. [See the documentation](https://developers.hotmart.com/docs/pt-BR/v1/sales/sales-history/)",
+  "type": "action",
+  "version": "0.0.2"
+}

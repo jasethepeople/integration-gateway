@@ -1,0 +1,7 @@
+{
+  "key": "slack_bot-new-message-in-channel",
+  "name": "New Message In Channel",
+  "description": "Emit new event when a new message is posted to a public, private or group channel (Bot)",
+  "type": "source",
+  "version": "0.0.6"
+}

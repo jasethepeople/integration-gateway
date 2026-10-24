@@ -1,0 +1,7 @@
+{
+  "key": "google_ads-list-campaigns",
+  "name": "List Campaigns",
+  "description": "List campaigns for a customer account. [See the documentation](https://developers.google.com/google-ads/api/reference/rpc/v25/GoogleAdsService/Search?transport=rest)",
+  "type": "action",
+  "version": "1.0.3"
+}

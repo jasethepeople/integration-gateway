@@ -1,0 +1,7 @@
+{
+  "key": "teamwork_desk-list-ticket-id-options",
+  "name": "List Ticket Id Options",
+  "description": "Retrieves available options for the Ticket Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

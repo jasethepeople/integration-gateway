@@ -1,0 +1,7 @@
+{
+  "key": "whatsapp_business-send-text-using-template",
+  "name": "Send Text Using Template",
+  "description": "Array of header variables for programmatic/AI-agent use. Takes precedence over individual header props if provided.",
+  "type": "action",
+  "version": "0.0.7"
+}

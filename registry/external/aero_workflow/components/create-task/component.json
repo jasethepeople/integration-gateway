@@ -1,0 +1,7 @@
+{
+  "key": "aero_workflow-create-task",
+  "name": "Create Task",
+  "description": "Creates a task [See the docs here](https://api.aeroworkflow.com/swagger/index.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

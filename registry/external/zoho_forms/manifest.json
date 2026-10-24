@@ -1,0 +1,25 @@
+{
+  "app": "zoho_forms",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "formId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "formLinkName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zoho_forms-get-form-fields",
+    "zoho_forms-list-form-link-name-options",
+    "zoho_forms-list-forms",
+    "zoho_forms-new-response-received-instant"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "flodesk-create-or-update-subscriber",
+  "name": "Create or Update Subscriber",
+  "description": "Creates or updates a subscriber in Flodesk. [See the documentation](https://developers.flodesk.com/#tag/subscriber/operation/createOrUpdateSubscriber)",
+  "type": "action",
+  "version": "0.0.2"
+}

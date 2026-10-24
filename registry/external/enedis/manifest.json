@@ -1,0 +1,22 @@
+{
+  "app": "enedis",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "enedis-get-address",
+    "enedis-get-consumption-load-curve",
+    "enedis-get-contact",
+    "enedis-get-contracts",
+    "enedis-get-daily-consumption-max-power",
+    "enedis-get-daily-consumption",
+    "enedis-get-daily-production",
+    "enedis-get-identity",
+    "enedis-get-production-load-curve"
+  ]
+}

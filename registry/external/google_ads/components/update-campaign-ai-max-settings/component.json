@@ -1,0 +1,7 @@
+{
+  "key": "google_ads-update-campaign-ai-max-settings",
+  "name": "Update Campaign AI Max Settings",
+  "description": "Whether to enable AI Max for Search on this campaign (`aiMaxSetting.enableAiMax`).",
+  "type": "action",
+  "version": "0.0.6"
+}

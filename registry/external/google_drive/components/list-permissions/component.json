@@ -1,0 +1,7 @@
+{
+  "key": "google_drive-list-permissions",
+  "name": "List Permissions",
+  "description": "List sharing permissions on a file or folder in Google Drive.",
+  "type": "action",
+  "version": "0.0.9"
+}

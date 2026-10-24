@@ -1,0 +1,7 @@
+{
+  "key": "flippingbook-new-flipbook-instant",
+  "name": "New Flipbook (Instant)",
+  "description": "Emit new event when a new flipbook is created.",
+  "type": "source",
+  "version": "0.0.2"
+}

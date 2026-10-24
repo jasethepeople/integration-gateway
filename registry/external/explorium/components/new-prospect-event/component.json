@@ -1,0 +1,7 @@
+{
+  "key": "explorium-new-prospect-event",
+  "name": "New Prospect Event (Instant)",
+  "description": "Emit new event when a prospect update occurs. [See the documentation](https://developers.explorium.ai/reference/webhooks)",
+  "type": "source",
+  "version": "0.0.1"
+}

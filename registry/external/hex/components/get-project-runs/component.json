@@ -1,0 +1,7 @@
+{
+  "key": "hex-get-project-runs",
+  "name": "Get Project Runs",
+  "description": "Get the status of the API-triggered runs of a project. [See the documentation](https://learn.hex.tech/docs/api/api-reference#operation/GetProjectRuns)",
+  "type": "action",
+  "version": "0.0.1"
+}

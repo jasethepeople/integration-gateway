@@ -1,0 +1,7 @@
+{
+  "key": "asana-new-team",
+  "name": "New Team",
+  "description": "Emit new event for each team added to an organization.",
+  "type": "source",
+  "version": "0.1.16"
+}

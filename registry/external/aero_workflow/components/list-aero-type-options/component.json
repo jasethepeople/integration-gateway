@@ -1,0 +1,7 @@
+{
+  "key": "aero_workflow-list-aero-type-options",
+  "name": "List Aero Type Options",
+  "description": "Retrieves available options for the Aero Type field.",
+  "type": "action",
+  "version": "0.0.1"
+}

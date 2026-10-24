@@ -1,0 +1,51 @@
+{
+  "app": "yay_com",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "sipUser": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "huntGroups": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "phoneBookId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "destination": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "displayName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_hostname": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "reseller": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "user": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "password": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "yay_com-create-outbound-call",
+    "yay_com-get-documents",
+    "yay_com-get-phone-books",
+    "yay_com-list-hunt-groups-options",
+    "yay_com-list-sip-user-options",
+    "yay_com-new-contact-added"
+  ]
+}

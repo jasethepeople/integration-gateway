@@ -1,0 +1,7 @@
+{
+  "key": "jira-list-boards",
+  "name": "List Boards",
+  "description": "Returns all boards. [See the documentation](https://developer.atlassian.com/cloud/jira/software/rest/api-group-board/#api-rest-agile-1-0-board-get)",
+  "type": "action",
+  "version": "0.0.9"
+}

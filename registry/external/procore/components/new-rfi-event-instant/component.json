@@ -1,0 +1,7 @@
+{
+  "key": "procore-new-rfi-event-instant",
+  "name": "New RFI Event (Instant)",
+  "description": "Emit new event when a new RFI event is created. [See the documentation](https://developers.procore.com/reference/rest/hooks?version=latest).",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,61 @@
+{
+  "app": "crisp",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "personId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "nickname": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "address": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "website": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "company": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "website_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "identifier": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "crisp-add-user-event",
+    "crisp-create-contact",
+    "crisp-create-conversation",
+    "crisp-list-person-id-options",
+    "crisp-update-contact",
+    "crisp-conversation-resolved",
+    "crisp-new-contact-created",
+    "crisp-new-conversation-created"
+  ]
+}

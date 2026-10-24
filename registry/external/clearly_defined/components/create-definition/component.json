@@ -1,0 +1,7 @@
+{
+  "key": "clearly_defined-create-definition",
+  "name": "Create Definition",
+  "description": "Request the creation of a resource. [See the documentation](https://api.clearlydefined.io/api-docs/#/definitions/post_definitions).",
+  "type": "action",
+  "version": "0.0.2"
+}

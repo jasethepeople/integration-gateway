@@ -1,0 +1,7 @@
+{
+  "key": "grain-update-recording",
+  "name": "Update Recording",
+  "description": "Renames a recording and/or adds and removes tags on it. All fields are optional — pass only what you want to change.",
+  "type": "action",
+  "version": "0.0.1"
+}

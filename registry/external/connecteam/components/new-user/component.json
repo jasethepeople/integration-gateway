@@ -1,0 +1,7 @@
+{
+  "key": "connecteam-new-user",
+  "name": "New User Added",
+  "description": "Emit new event when a new user is added.",
+  "type": "source",
+  "version": "0.0.1"
+}

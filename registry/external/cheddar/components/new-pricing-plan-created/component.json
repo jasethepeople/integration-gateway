@@ -1,0 +1,7 @@
+{
+  "key": "cheddar-new-pricing-plan-created",
+  "name": "New Pricing Plan Created",
+  "description": "Emit new event when a new pricing plan is created. [See the documentation](https://docs.getcheddar.com/#pricing-plans)",
+  "type": "source",
+  "version": "0.0.1"
+}

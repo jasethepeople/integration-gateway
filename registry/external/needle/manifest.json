@@ -1,0 +1,18 @@
+{
+  "app": "needle",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "collectionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "needle-search-collection"
+  ]
+}

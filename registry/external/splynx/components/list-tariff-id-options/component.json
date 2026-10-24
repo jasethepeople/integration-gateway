@@ -1,0 +1,7 @@
+{
+  "key": "splynx-list-tariff-id-options",
+  "name": "List Tariff ID Options",
+  "description": "Retrieves available options for the Tariff ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

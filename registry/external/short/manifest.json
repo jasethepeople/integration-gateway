@@ -1,0 +1,129 @@
+{
+  "app": "short",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "domain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domainId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "folderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "originalURL": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "link": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "path": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "allowDuplicates": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "expiresAt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "expiredURL": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "iphoneURL": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "androidURL": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "password": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "utmSource": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "utmMedium": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "utmCampaign": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "utmTerm": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "utmContent": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cloaking": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "redirectType": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "period": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "clicksChartInterval": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tzOffset": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "startDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "secret_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "short-create-a-link",
+    "short-delete-a-link",
+    "short-domain-statistics",
+    "short-expire-a-link",
+    "short-list-domain-id-options",
+    "short-list-domain-options",
+    "short-list-link-options",
+    "short-update-a-link",
+    "short-new-link-created"
+  ],
+  "npmImports": [
+    "lodash"
+  ]
+}

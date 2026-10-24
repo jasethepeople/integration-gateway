@@ -1,0 +1,7 @@
+{
+  "key": "ipgeolocation-get-astronomy",
+  "name": "Get Astronomy Data",
+  "description": "Retrieve sunrise, sunset, moonrise, moonset, moon phase, and sun/moon position data for a location by IP address, coordinates, or location string. [See the documentation](https://ipgeolocation.io/documentation/astronomy-api.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

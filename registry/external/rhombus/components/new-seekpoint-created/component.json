@@ -1,0 +1,7 @@
+{
+  "key": "rhombus-new-seekpoint-created",
+  "name": "New Seekpoint Created",
+  "description": "Emit new event when a new seekpoint is created. [See the documentation](https://apidocs.rhombus.com/reference/getauditfeed)",
+  "type": "source",
+  "version": "0.0.1"
+}

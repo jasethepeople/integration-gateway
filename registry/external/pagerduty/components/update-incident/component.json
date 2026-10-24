@@ -1,0 +1,7 @@
+{
+  "key": "pagerduty-update-incident",
+  "name": "Update Incident",
+  "description": "Update an incident's status, title, urgency, priority, escalation policy, or assignments.",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "gtmetrix-list-browser-id-options",
+  "name": "List Browser Options",
+  "description": "Retrieves available options for the Browser field.",
+  "type": "action",
+  "version": "0.0.1"
+}

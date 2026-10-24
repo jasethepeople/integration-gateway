@@ -1,0 +1,7 @@
+{
+  "key": "dropbox-all-updates",
+  "name": "New or Modified File or Folder",
+  "description": "Emit new event when a file or folder is added or modified. Make sure the number of files/folders in the watched folder does not exceed 4000.",
+  "type": "source",
+  "version": "0.0.20"
+}

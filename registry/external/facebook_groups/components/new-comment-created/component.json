@@ -1,0 +1,7 @@
+{
+  "key": "facebook_groups-new-comment-created",
+  "name": "New Comment Created",
+  "description": "Emit new event when a new comment is created on a group post",
+  "type": "source",
+  "version": "0.0.2"
+}

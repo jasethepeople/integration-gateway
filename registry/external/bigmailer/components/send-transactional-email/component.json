@@ -1,0 +1,7 @@
+{
+  "key": "bigmailer-send-transactional-email",
+  "name": "Send Transactional Email",
+  "description": "Sends an email as part of a transactional campaign. [See the documentation](https://docs.bigmailer.io/reference/sendtransactionalcampaign)",
+  "type": "action",
+  "version": "0.0.2"
+}

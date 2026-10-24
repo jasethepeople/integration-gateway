@@ -1,0 +1,7 @@
+{
+  "key": "beekeeper-new-comment-created-instant",
+  "name": "New Comment Created (Instant)",
+  "description": "Emit new event when a new comment is created. [See the documentation](https://beekeeper.stoplight.io/docs/beekeeper-api/1ba495ce70084-register-a-new-webhook)",
+  "type": "source",
+  "version": "0.0.1"
+}

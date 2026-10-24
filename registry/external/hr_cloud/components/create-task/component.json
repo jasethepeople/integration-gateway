@@ -1,0 +1,7 @@
+{
+  "key": "hr_cloud-create-task",
+  "name": "Create Task",
+  "description": "Creates a new task. [See the documentation](https://help.hrcloud.com/api/#/task#POST_tasks)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "companyhub-create-company",
+  "name": "Create Company",
+  "description": "Creates a new company. [See the documentation](https://companyhub.com/docs/api-documentation)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "optimoroute-new-mobile-event",
+  "name": "New Mobile Event",
+  "description": "Emit new event when a new mobile event is received. [See the documentation](https://optimoroute.com/api/#get-mobile-events)",
+  "type": "source",
+  "version": "0.0.1"
+}

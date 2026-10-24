@@ -1,0 +1,7 @@
+{
+  "key": "zenrows-scrape-url-css-selectors",
+  "name": "Scrape URL CSS Selectors",
+  "description": "Scrape HTML of the URL with CSS Selectors. [See the documentation](https://www.zenrows.com/docs#css-selectors-curl)",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "_0codekit-compress-pdf",
+  "name": "Compress PDF",
+  "description": "Compresses a PDF using the specified URL or file reference. [See the documentation](https://documenter.getpostman.com/view/18297710/UVkntwBv#fdcb09dc-c316-4b80-b523-5a1f3afac1e6)",
+  "type": "action",
+  "version": "0.1.1"
+}

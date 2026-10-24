@@ -1,0 +1,7 @@
+{
+  "key": "constant_contact-list-list-memberships-options",
+  "name": "List List Membership Options",
+  "description": "Retrieves available options for the List Membership field.",
+  "type": "action",
+  "version": "0.0.1"
+}

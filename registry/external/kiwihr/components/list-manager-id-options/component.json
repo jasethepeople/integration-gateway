@@ -1,0 +1,7 @@
+{
+  "key": "kiwihr-list-manager-id-options",
+  "name": "List Manager ID Options",
+  "description": "Retrieves available options for the Manager ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

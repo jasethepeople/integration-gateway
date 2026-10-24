@@ -1,0 +1,7 @@
+{
+  "key": "convenia-list-absence-type-id-options",
+  "name": "List Absence Type ID Options",
+  "description": "Retrieves available options for the Absence Type ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

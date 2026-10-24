@@ -1,0 +1,38 @@
+{
+  "app": "acelle_mail",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "subscriberId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "planId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_endpoint": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "acelle_mail-create-customer",
+    "acelle_mail-list-customer-id-options",
+    "acelle_mail-list-plan-id-options",
+    "acelle_mail-list-subscriber-id-options",
+    "acelle_mail-subscribe-customer-to-plan"
+  ]
+}

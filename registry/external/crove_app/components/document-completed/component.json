@@ -1,0 +1,7 @@
+{
+  "key": "crove_app-document-completed",
+  "name": "Document Completed",
+  "description": "Triggers when a document is completed.",
+  "type": "source",
+  "version": "1.0.2"
+}

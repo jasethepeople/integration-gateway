@@ -1,0 +1,7 @@
+{
+  "key": "tidy-new-job-created",
+  "name": "New Job Created",
+  "description": "Emit new event when a new job is created in Tidy",
+  "type": "source",
+  "version": "0.0.1"
+}

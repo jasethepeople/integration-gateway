@@ -1,0 +1,7 @@
+{
+  "key": "slicktext-add-contact-to-lists",
+  "name": "Add Contact To Lists",
+  "description": "Add a contact to lists. [See the documentation](https://api.slicktext.com/docs/v2/lists#scroll-to-add-contacts-to-lists)",
+  "type": "action",
+  "version": "0.0.2"
+}

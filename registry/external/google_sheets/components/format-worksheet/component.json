@@ -1,0 +1,7 @@
+{
+  "key": "google_sheets-format-worksheet",
+  "name": "Format Worksheet",
+  "description": "Change worksheet-level layout in Google Sheets: freeze header rows or",
+  "type": "action",
+  "version": "0.0.1"
+}

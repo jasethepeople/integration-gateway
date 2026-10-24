@@ -1,0 +1,7 @@
+{
+  "key": "guru-announcement-read-instant",
+  "name": "New Announcement Read (Instant)",
+  "description": "Emit new event when a user clicks on the \"I read it\" button in an Announcement. [See the documentation](https://developer.getguru.com/docs/creating-a-webhook)",
+  "type": "source",
+  "version": "0.0.1"
+}

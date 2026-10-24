@@ -1,0 +1,7 @@
+{
+  "key": "constant_contact-create-email-campaign",
+  "name": "Create Email Campaign",
+  "description": "Create a new email campaign. [See the documentation](https://developer.constantcontact.com/api_reference/index.html#tag/Email-Campaigns/operation/createEmailCampaignUsingPOST)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,18 @@
+{
+  "app": "woxo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "team": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "woxo-new-video"
+  ]
+}

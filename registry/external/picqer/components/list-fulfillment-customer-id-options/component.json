@@ -1,0 +1,7 @@
+{
+  "key": "picqer-list-fulfillment-customer-id-options",
+  "name": "List Fulfillment Customer ID Options",
+  "description": "Retrieves available options for the Fulfillment Customer ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

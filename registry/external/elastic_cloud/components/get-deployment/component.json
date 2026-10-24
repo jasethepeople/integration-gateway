@@ -1,0 +1,7 @@
+{
+  "key": "elastic_cloud-get-deployment",
+  "name": "Get Deployment",
+  "description": "Retrieve a single Elastic Cloud deployment by ID. Run **List Deployments** first to find a valid deployment ID. [See the documentation](https://www.elastic.co/docs/api/doc/cloud/operation/operation-get-deployment)",
+  "type": "action",
+  "version": "0.0.2"
+}

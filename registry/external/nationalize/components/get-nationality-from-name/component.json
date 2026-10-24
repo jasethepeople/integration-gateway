@@ -1,0 +1,7 @@
+{
+  "key": "nationalize-get-nationality-from-name",
+  "name": "Get Nationality From Name",
+  "description": "Estimate the nationality of a name. [See the documentation](https://nationalize.io/documentation)",
+  "type": "action",
+  "version": "0.0.1"
+}

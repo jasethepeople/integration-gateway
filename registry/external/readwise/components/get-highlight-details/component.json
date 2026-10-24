@@ -1,0 +1,7 @@
+{
+  "key": "readwise-get-highlight-details",
+  "name": "Get Highlight Details",
+  "description": "Get Highlight´s Details [See the docs here](https://readwise.io/api_deets)",
+  "type": "action",
+  "version": "0.0.4"
+}

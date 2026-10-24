@@ -1,0 +1,7 @@
+{
+  "key": "allocadence-create-purchase-order",
+  "name": "Create Purchase Order",
+  "description": "Generates a new purchase order. [See the documentation](https://docs.allocadence.com/)",
+  "type": "action",
+  "version": "0.0.3"
+}

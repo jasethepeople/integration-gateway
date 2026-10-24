@@ -1,0 +1,7 @@
+{
+  "key": "helpdocs-list-articles",
+  "name": "List Articles",
+  "description": "Retrieve a list of articles from your HelpDocs knowledge base. [See the documentation](https://apidocs.helpdocs.io/article/OqvaxRMHgN-getting-articles)",
+  "type": "action",
+  "version": "0.0.3"
+}

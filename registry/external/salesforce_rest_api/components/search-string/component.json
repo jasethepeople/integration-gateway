@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-search-string",
+  "name": "Search Object Records",
+  "description": "Search for records of one object type using a parameterized SOSL search.",
+  "type": "action",
+  "version": "0.0.11"
+}

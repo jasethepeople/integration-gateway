@@ -1,0 +1,7 @@
+{
+  "key": "surecart-subscription-updated",
+  "name": "Subscription Updated (Instant)",
+  "description": "Emit new event when a subscription is updated. [See the documentation](https://developer.surecart.com/api-reference/webhook-endpoints/create)",
+  "type": "source",
+  "version": "0.0.3"
+}

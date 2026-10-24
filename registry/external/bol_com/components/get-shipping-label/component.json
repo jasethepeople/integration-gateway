@@ -1,0 +1,7 @@
+{
+  "key": "bol_com-get-shipping-label",
+  "name": "Get Shipping Label",
+  "description": "Get a shipping label. [See the documentation](https://api.bol.com/retailer/public/redoc/v10/retailer.html#tag/Shipping-Labels/operation/get-shipping-label)",
+  "type": "action",
+  "version": "0.0.1"
+}

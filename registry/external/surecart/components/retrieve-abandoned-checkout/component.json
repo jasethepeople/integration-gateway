@@ -1,0 +1,7 @@
+{
+  "key": "surecart-retrieve-abandoned-checkout",
+  "name": "Retrieve Abandoned Checkout",
+  "description": "Retrieve an abandoned checkout by ID. [See the documentation](https://developer.surecart.com/api-reference/abandoned-checkouts/retrieve)",
+  "type": "action",
+  "version": "0.0.3"
+}

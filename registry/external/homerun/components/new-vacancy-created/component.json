@@ -1,0 +1,7 @@
+{
+  "key": "homerun-new-vacancy-created",
+  "name": "New Vacancy Created",
+  "description": "Emit new event when a new vacancy is created. [See the documentation](https://developers.homerun.co/#tag/Vacancies/operation/vacancies.get).",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,61 @@
+{
+  "app": "ninjaone",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "clientId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ticketFormId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "locationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "deviceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "assignedAppUserId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "nodeRoleId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "policyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "organizationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ninjaone-create-ticket",
+    "ninjaone-list-assigned-app-user-id-options",
+    "ninjaone-list-node-role-id-options",
+    "ninjaone-list-policy-id-options",
+    "ninjaone-list-status-options",
+    "ninjaone-list-ticket-form-id-options",
+    "ninjaone-update-device",
+    "ninjaone-new-device-online"
+  ]
+}

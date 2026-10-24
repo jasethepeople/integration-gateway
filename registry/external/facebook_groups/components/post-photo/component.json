@@ -1,0 +1,7 @@
+{
+  "key": "facebook_groups-post-photo",
+  "name": "Post Photo",
+  "description": "Post a photo in a group. [See the documentation](https://developers.facebook.com/docs/graph-api/reference/group/photos)",
+  "type": "action",
+  "version": "0.0.3"
+}

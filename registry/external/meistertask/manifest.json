@@ -1,0 +1,65 @@
+{
+  "app": "meistertask",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sectionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "attachmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "labelId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "personId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "labelColor": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskStatus": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "meistertask-add-label-to-task",
+    "meistertask-create-attachment",
+    "meistertask-create-label",
+    "meistertask-create-task",
+    "meistertask-get-attachment",
+    "meistertask-get-label",
+    "meistertask-get-person",
+    "meistertask-get-task",
+    "meistertask-list-project-id-options",
+    "meistertask-list-projects",
+    "meistertask-list-sections",
+    "meistertask-list-tasks",
+    "meistertask-update-task",
+    "meistertask-new-comment-created",
+    "meistertask-new-project-created",
+    "meistertask-new-section-created",
+    "meistertask-new-task-created"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

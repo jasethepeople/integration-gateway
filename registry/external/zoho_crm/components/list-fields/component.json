@@ -1,0 +1,7 @@
+{
+  "key": "zoho_crm-list-fields",
+  "name": "List Fields",
+  "description": "Gets the field metadata for the specified module",
+  "type": "action",
+  "version": "0.2.3"
+}

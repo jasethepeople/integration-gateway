@@ -1,0 +1,7 @@
+{
+  "key": "plainly-list-templates",
+  "name": "List Templates",
+  "description": "Fetches a list of available video templates in a project in the user's Plainly account. [See the documentation](https://www.plainlyvideos.com/documentation/api-reference)",
+  "type": "action",
+  "version": "0.0.2"
+}

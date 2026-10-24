@@ -1,0 +1,7 @@
+{
+  "key": "domain_group-create-commercial-listing",
+  "name": "Create Commercial Listing",
+  "description": "Creates a new commercial listing. [See the documentation](https://developer.domain.com.au/docs/latest/apis/pkg_listing_management/references/listings_upsertcommerciallisting/).",
+  "type": "action",
+  "version": "0.0.2"
+}

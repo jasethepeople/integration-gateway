@@ -1,0 +1,17 @@
+{
+  "app": "puppeteer",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "puppeteer-get-html",
+    "puppeteer-get-page-title",
+    "puppeteer-get-pdf",
+    "puppeteer-screenshot-page"
+  ],
+  "npmImports": [
+    "@sparticuz/chromium",
+    "fs",
+    "puppeteer-core"
+  ]
+}

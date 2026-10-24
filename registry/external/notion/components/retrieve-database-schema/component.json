@@ -1,0 +1,7 @@
+{
+  "key": "notion-retrieve-database-schema",
+  "name": "Retrieve Database Schema",
+  "description": "Get the column (property) schema of a Notion database (data source): each property's name, type, and — for `select`/`multi_select`/`status` columns — its allowed option values.",
+  "type": "action",
+  "version": "1.1.2"
+}

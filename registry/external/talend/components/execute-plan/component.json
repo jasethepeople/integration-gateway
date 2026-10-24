@@ -1,0 +1,7 @@
+{
+  "key": "talend-execute-plan",
+  "name": "Execute Plan",
+  "description": "Allows to run a Plan. [See the documentation](https://api.talend.com/apis/processing/2021-03/#operation_execute-plan).",
+  "type": "action",
+  "version": "0.0.2"
+}

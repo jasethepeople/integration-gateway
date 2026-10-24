@@ -1,0 +1,7 @@
+{
+  "key": "arcgis_online-search-by-column",
+  "name": "Search by Column",
+  "description": "Search for features in a layer where a field matches a value. Builds a `WHERE field = 'value'` query with SQL-escaped single quotes. Returns matching features as a flat array of attribute objects (no geometries). [See the documentation](https://developers.arcgis.com/rest/services-reference/enterprise/query-feature-service-layer-.htm)",
+  "type": "action",
+  "version": "0.1.2"
+}

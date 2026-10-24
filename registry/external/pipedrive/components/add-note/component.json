@@ -1,0 +1,7 @@
+{
+  "key": "pipedrive-add-note",
+  "name": "Add Note",
+  "description": "Adds a new note. For info on [adding an note in Pipedrive](https://developers.pipedrive.com/docs/api/v1/Notes#addNote)",
+  "type": "action",
+  "version": "0.0.21"
+}

@@ -1,0 +1,31 @@
+{
+  "app": "signpath",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "signingPolicySlug": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "organization_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "signpath-get-signing-request-data",
+    "signpath-resubmit-signing-request",
+    "signpath-submit-signing-request"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "social_fetch-search-twitter-content",
+  "name": "Search Twitter Content",
+  "description": "Searches Twitter for posts/tweets matching a query. [See the documentation](https://app.socialfetch.dev/playground?path=/v1/twitter/search&method=GET)",
+  "type": "action",
+  "version": "0.0.1"
+}

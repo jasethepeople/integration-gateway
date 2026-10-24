@@ -1,0 +1,7 @@
+{
+  "key": "proxy_spider-ping-server",
+  "name": "Ping Server",
+  "description": "Ping Proxy Spider. [See the documentation](https://proxy-spider.com/docs/api/public-proxies)",
+  "type": "action",
+  "version": "0.0.1"
+}

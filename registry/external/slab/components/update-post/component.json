@@ -1,0 +1,7 @@
+{
+  "key": "slab-update-post",
+  "name": "Update Post",
+  "description": "Update a post's metadata and access settings via the `updatePost` GraphQL mutation, returning the updated post object. Manages link access (sharing), owner, archived/published state, and banner. NOTE: this mutation does NOT change title or content; use **Update Post Content** for the body (there is no title-update field in the schema). Run **Search Posts** first to obtain the post ID. Example: postId `abc123`, archived `true` returns `{\"id\":\"abc123\",\"title\":\"Q3 Onboarding Guide\",\"archivedAt\":\"2026-01-01T00:00:00Z\",\"linkAccess\":\"INTERNAL\"}`. [See the documentation](https://studio.apollographql.com/public/Slab/variant/current/schema/reference/objects/RootMutationType#updatePost).",
+  "type": "action",
+  "version": "0.0.1"
+}

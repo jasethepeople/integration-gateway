@@ -1,0 +1,7 @@
+{
+  "key": "bamboohr-download-resume",
+  "name": "Download Resume",
+  "description": "Download a resume from an application. [See the documentation](https://documentation.bamboohr.com/reference/get-company-file)",
+  "type": "action",
+  "version": "0.0.3"
+}

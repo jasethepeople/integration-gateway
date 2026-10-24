@@ -1,0 +1,7 @@
+{
+  "key": "customer_io-send-event-to-customer-io",
+  "name": "Send Event To Customer io",
+  "description": "Sends, tracks a customer event to Customer io. [See the docs here](https://customer.io/docs/api/#operation/track)",
+  "type": "action",
+  "version": "0.3.1"
+}

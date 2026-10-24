@@ -1,0 +1,7 @@
+{
+  "key": "breathe-create-employee",
+  "name": "Create Employee",
+  "description": "Creates a new employee in Breathe. [See the documentation](https://developer.breathehr.com/examples#!/employees/POST_version_employees_json)",
+  "type": "action",
+  "version": "0.0.2"
+}

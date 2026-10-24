@@ -1,0 +1,7 @@
+{
+  "key": "sellercloud-create-product",
+  "name": "Create Product",
+  "description": "Creates a new product. [See the documentation](https://developer.sellercloud.com/dev-article/create-product/)",
+  "type": "action",
+  "version": "0.0.2"
+}

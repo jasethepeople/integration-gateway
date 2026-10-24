@@ -1,0 +1,7 @@
+{
+  "key": "mindbody-get-site-info",
+  "name": "Get Site Info",
+  "description": "Returns identity and configuration details for the connected Mindbody site, including name, site ID, timezone, phone, and address.",
+  "type": "action",
+  "version": "0.0.3"
+}

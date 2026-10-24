@@ -1,0 +1,7 @@
+{
+  "key": "ghost_org_admin_api-update-member",
+  "name": "Update Member",
+  "description": "Update a member in Ghost. [See the documentation](https://ghost.org/docs/admin-api/#updating-a-member)",
+  "type": "action",
+  "version": "0.0.5"
+}

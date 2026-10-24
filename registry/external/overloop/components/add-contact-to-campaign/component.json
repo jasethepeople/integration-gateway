@@ -1,0 +1,7 @@
+{
+  "key": "overloop-add-contact-to-campaign",
+  "name": "Add Contact to Campaign",
+  "description": "Adds a contact to a campaign. [See the docs](https://apidoc.overloop.com/#enrollments)",
+  "type": "action",
+  "version": "0.0.2"
+}

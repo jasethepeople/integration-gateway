@@ -1,0 +1,7 @@
+{
+  "key": "lightspeed_vt-new-user-added",
+  "name": "New User Added",
+  "description": "Emit new event every time there is a new user in the system",
+  "type": "source",
+  "version": "0.0.1"
+}

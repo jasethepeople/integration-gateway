@@ -1,0 +1,7 @@
+{
+  "key": "moodle-search-courses",
+  "name": "Search Courses",
+  "description": "Searches Moodle courses by name, module, block, or tag. [See the documentation](https://moodledev.io/docs/5.2)",
+  "type": "action",
+  "version": "0.0.1"
+}

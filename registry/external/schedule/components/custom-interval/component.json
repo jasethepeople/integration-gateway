@@ -1,0 +1,7 @@
+{
+  "key": "schedule-custom-interval",
+  "name": "Custom Interval",
+  "description": "Trigger your workflow every N hours, minutes or seconds.",
+  "type": "source",
+  "version": "0.0.2"
+}

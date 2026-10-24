@@ -1,0 +1,7 @@
+{
+  "key": "kintone-update-record",
+  "name": "Update Record",
+  "description": "Updates an existing record in a Kintone App. [See the documentation](https://kintone.dev/en/docs/kintone/rest-api/records/update-record/)",
+  "type": "action",
+  "version": "0.0.1"
+}

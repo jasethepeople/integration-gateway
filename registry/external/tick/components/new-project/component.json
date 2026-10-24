@@ -1,0 +1,7 @@
+{
+  "key": "tick-new-project",
+  "name": "New Project",
+  "description": "Emit new event on each created project.",
+  "type": "source",
+  "version": "0.0.2"
+}

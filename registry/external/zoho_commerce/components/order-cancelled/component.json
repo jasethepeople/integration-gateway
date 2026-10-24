@@ -1,0 +1,7 @@
+{
+  "key": "zoho_commerce-order-cancelled",
+  "name": "New Order Cancelled (Instant)",
+  "description": "Emit new event when an existing order is cancelled.",
+  "type": "source",
+  "version": "0.0.1"
+}

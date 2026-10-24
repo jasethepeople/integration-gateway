@@ -1,0 +1,7 @@
+{
+  "key": "frame-new-asset-instant",
+  "name": "New Asset (Instant)",
+  "description": "Emit new event when an asset is uploaded. [See the documentation](https://developer.frame.io/api/reference/operation/createWebhookForTeam/)",
+  "type": "source",
+  "version": "0.1.0"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "trello-get-card-checklists",
+  "name": "Get Card Checklists",
+  "description": "Gets the checklists on a card, including checklist items. [See the documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-cards/#api-cards-id-checklists-get).",
+  "type": "action",
+  "version": "0.0.2"
+}

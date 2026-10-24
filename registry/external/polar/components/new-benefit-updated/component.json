@@ -1,0 +1,7 @@
+{
+  "key": "polar-new-benefit-updated",
+  "name": "New Benefit Updated",
+  "description": "Emit new event when a benefit is updated. [See the API docs](https://polar.sh/docs/api-reference/webhooks/endpoints/create)",
+  "type": "source",
+  "version": "0.0.2"
+}

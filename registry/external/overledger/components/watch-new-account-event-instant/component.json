@@ -1,0 +1,7 @@
+{
+  "key": "overledger-watch-new-account-event-instant",
+  "name": "New Account Event (Instant)",
+  "description": "Emit new event for transactions to/from a specific account.",
+  "type": "source",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "sperse-add-or-update-contact",
+  "name": "Add or Update Contact",
+  "description": "Creates or updates a contact. [See the documentation](https://app.sperse.com/app/api/swagger)",
+  "type": "action",
+  "version": "0.0.2"
+}

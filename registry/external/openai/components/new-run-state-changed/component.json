@@ -1,0 +1,7 @@
+{
+  "key": "openai-new-run-state-changed",
+  "name": "New Run State Changed",
+  "description": "Emit new event every time a run changes its status. [See the documentation](https://platform.openai.com/docs/api-reference/runs/listRuns)",
+  "type": "source",
+  "version": "0.0.13"
+}

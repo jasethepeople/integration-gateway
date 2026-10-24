@@ -1,0 +1,7 @@
+{
+  "key": "cliniko-new-appointment-updated",
+  "name": "New Appointment Updated",
+  "description": "Emit new event when an appointment is updated in Cliniko.",
+  "type": "source",
+  "version": "0.0.1"
+}

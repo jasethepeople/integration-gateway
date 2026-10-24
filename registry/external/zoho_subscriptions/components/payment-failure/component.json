@@ -1,0 +1,7 @@
+{
+  "key": "zoho_subscriptions-payment-failure",
+  "name": "New Payment Failure",
+  "description": "Emit new event when a payment fails to process.",
+  "type": "source",
+  "version": "0.0.2"
+}

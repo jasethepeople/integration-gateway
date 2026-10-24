@@ -1,0 +1,7 @@
+{
+  "key": "hedy-get-session",
+  "name": "Get Session",
+  "description": "Retrieves full details for a single Hedy meeting session by ID, including the complete transcript, meeting minutes, recap, session notes, highlights array, and action items (todos).",
+  "type": "action",
+  "version": "0.0.2"
+}

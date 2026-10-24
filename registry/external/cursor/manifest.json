@@ -1,0 +1,40 @@
+{
+  "app": "cursor",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "model": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "agentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sourceRepository": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "images": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "cursor-add-followup-to-agent",
+    "cursor-get-agent-conversation",
+    "cursor-get-agent-status",
+    "cursor-launch-agent",
+    "cursor-list-agents",
+    "cursor-list-models",
+    "cursor-list-source-repository-options",
+    "cursor-stop-agent"
+  ],
+  "npmImports": [
+    "image-size"
+  ]
+}

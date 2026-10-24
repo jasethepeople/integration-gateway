@@ -1,0 +1,7 @@
+{
+  "key": "sperse-new-subscription",
+  "name": "New Subscription",
+  "description": "Emit new event when a new subscription is created. [See the documentation](https://app.sperse.com/app/api/swagger)",
+  "type": "source",
+  "version": "0.0.1"
+}

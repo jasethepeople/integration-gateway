@@ -1,0 +1,7 @@
+{
+  "key": "qualiobee-learner-updated",
+  "name": "Learner Updated",
+  "description": "Emit new event when a learner is updated in Qualiobee. [See the documentation](https://app.qualiobee.fr/api/doc/#/Learner/PublicLearnerController_getMany)",
+  "type": "source",
+  "version": "0.0.1"
+}

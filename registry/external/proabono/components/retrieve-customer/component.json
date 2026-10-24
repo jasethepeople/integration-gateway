@@ -1,0 +1,7 @@
+{
+  "key": "proabono-retrieve-customer",
+  "name": "Retrieve Customer",
+  "description": "Fetches an existing customer from the proabono system. [See the documentation](https://docs.proabono.com/api/#retrieve-a-customer)",
+  "type": "action",
+  "version": "0.0.2"
+}

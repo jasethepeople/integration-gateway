@@ -1,0 +1,7 @@
+{
+  "key": "offorte-list-email-template-id-options",
+  "name": "List Email Template ID Options",
+  "description": "Retrieves available options for the Email Template ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

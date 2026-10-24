@@ -1,0 +1,7 @@
+{
+  "key": "chatbotkit-list-bot-id-options",
+  "name": "List Bot ID Options",
+  "description": "Retrieves available options for the Bot ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

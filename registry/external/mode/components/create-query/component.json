@@ -1,0 +1,7 @@
+{
+  "key": "mode-create-query",
+  "name": "Create Query",
+  "description": "Create a new query in a report. [See the documentation](https://mode.com/developer/api-reference/analytics/queries/#createQueryInReport)",
+  "type": "action",
+  "version": "0.0.1"
+}

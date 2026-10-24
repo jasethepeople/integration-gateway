@@ -1,0 +1,22 @@
+{
+  "app": "ringover",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "number": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "server": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ringover-create-contact"
+  ]
+}

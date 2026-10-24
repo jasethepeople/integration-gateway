@@ -1,0 +1,7 @@
+{
+  "key": "workiom-update-record",
+  "name": "Update Record",
+  "description": "Updates an existing record in a Workiom list. This is a partial update, so you only need to send the fields you want to change. [See the documentation](https://help.workiom.com/article/workiom-api-guide)",
+  "type": "action",
+  "version": "0.0.1"
+}

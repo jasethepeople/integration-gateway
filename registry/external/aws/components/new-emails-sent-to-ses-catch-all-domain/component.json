@@ -1,0 +1,7 @@
+{
+  "key": "aws-new-emails-sent-to-ses-catch-all-domain",
+  "name": "New Inbound SES Emails",
+  "description": "The domain you'd like to configure a catch-all handler for",
+  "type": "source",
+  "version": "1.2.6"
+}

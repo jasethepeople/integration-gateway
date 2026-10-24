@@ -1,0 +1,7 @@
+{
+  "key": "samsara-new-document-submitted-instant",
+  "name": "New Document Submitted (Instant)",
+  "description": "Emit new event when a document is submitted.",
+  "type": "source",
+  "version": "0.0.1"
+}

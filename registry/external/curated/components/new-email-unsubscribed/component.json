@@ -1,0 +1,7 @@
+{
+  "key": "curated-new-email-unsubscribed",
+  "name": "New Email Unsubscribed",
+  "description": "Emit new event when an email is unsubscribed.",
+  "type": "source",
+  "version": "0.0.2"
+}

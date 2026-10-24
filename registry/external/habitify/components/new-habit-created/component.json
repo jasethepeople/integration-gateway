@@ -1,0 +1,7 @@
+{
+  "key": "habitify-new-habit-created",
+  "name": "New Habit Created",
+  "description": "Emit new event on each created habit. [See the documentation](https://docs.habitify.me/core-resources/habits#list-habits)",
+  "type": "source",
+  "version": "0.0.2"
+}

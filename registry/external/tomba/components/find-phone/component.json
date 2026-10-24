@@ -1,0 +1,7 @@
+{
+  "key": "tomba-find-phone",
+  "name": "Find Phone",
+  "description": "Search for phone numbers based on an email, domain, or LinkedIn URL. [See the documentation](https://docs.tomba.io/api/phone#phone-finder)",
+  "type": "action",
+  "version": "0.0.1"
+}

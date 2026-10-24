@@ -1,0 +1,24 @@
+{
+  "app": "braintree",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "environment": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "public_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "private_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "braintree-create-customer",
+    "braintree-new-customer-created",
+    "braintree-new-transaction-created"
+  ]
+}

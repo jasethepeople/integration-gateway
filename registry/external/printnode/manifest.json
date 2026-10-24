@@ -1,0 +1,25 @@
+{
+  "app": "printnode",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "printerId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "contentType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "printnode-get-printer",
+    "printnode-list-print-jobs",
+    "printnode-send-print-job",
+    "printnode-new-event-instant"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "business_edge-order-inquiry",
+  "name": "Order Inquiry",
+  "description": "Query orders from Business Edge via `POST /documentinq/orderinquiry/export.json`. [See the documentation](https://hangerbolt.ci-inc.com/apilist/export)",
+  "type": "action",
+  "version": "0.0.3"
+}

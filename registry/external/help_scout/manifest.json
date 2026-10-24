@@ -1,0 +1,63 @@
+{
+  "app": "help_scout",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "agentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "conversationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tagId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "text": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "help_scout-add-note",
+    "help_scout-create-customer",
+    "help_scout-get-conversation-details",
+    "help_scout-get-conversation-threads",
+    "help_scout-get-tag-by-id",
+    "help_scout-list-conversation-id-options",
+    "help_scout-list-customer-id-options",
+    "help_scout-list-tag-id-options",
+    "help_scout-list-tags",
+    "help_scout-list-user-id-options",
+    "help_scout-send-reply",
+    "help_scout-update-conversation",
+    "help_scout-conversation-status-updated-instant",
+    "help_scout-new-agent-reply-instant",
+    "help_scout-new-conversation-assigned-instant",
+    "help_scout-new-conversation-created-instant",
+    "help_scout-new-customer-instant",
+    "help_scout-new-customer-reply-instant",
+    "help_scout-new-note-created-instant"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

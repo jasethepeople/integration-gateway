@@ -1,0 +1,18 @@
+{
+  "app": "verdict_as_a_service",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "file": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "verdict_as_a_service-request-verdict-for-file"
+  ],
+  "npmImports": [
+    "fs",
+    "gdata-vaas"
+  ]
+}

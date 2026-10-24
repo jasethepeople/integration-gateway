@@ -1,0 +1,7 @@
+{
+  "key": "linearb-search-incidents",
+  "name": "Search Incidents",
+  "description": "Search for incidents within the LinearB platform. [See the documentation](https://docs.linearb.io/api-incidents/#search-incidents)",
+  "type": "action",
+  "version": "0.0.1"
+}

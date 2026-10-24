@@ -1,0 +1,27 @@
+{
+  "app": "pdfmonkey",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "documentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pdfmonkey-delete-document",
+    "pdfmonkey-find-document",
+    "pdfmonkey-generate-document",
+    "pdfmonkey-list-document-id-options",
+    "pdfmonkey-list-template-id-options",
+    "pdfmonkey-new-document-generated"
+  ]
+}

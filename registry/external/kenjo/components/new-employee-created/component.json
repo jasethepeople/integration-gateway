@@ -1,0 +1,7 @@
+{
+  "key": "kenjo-new-employee-created",
+  "name": "New Employee Created",
+  "description": "Emit new event when a new employee is added in Kenjo. [See the documentation](https://kenjo.readme.io/reference/get_employees)",
+  "type": "source",
+  "version": "0.0.1"
+}

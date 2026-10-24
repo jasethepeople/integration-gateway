@@ -1,0 +1,7 @@
+{
+  "key": "pexels-download-photo",
+  "name": "Download Photo",
+  "description": "Download a specific photo by providing its photo ID and optionally choosing the desired size. [See the documentation](https://www.pexels.com/api/documentation/)",
+  "type": "action",
+  "version": "0.0.3"
+}

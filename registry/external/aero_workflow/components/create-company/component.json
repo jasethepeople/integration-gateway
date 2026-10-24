@@ -1,0 +1,7 @@
+{
+  "key": "aero_workflow-create-company",
+  "name": "Create Company",
+  "description": "Creates a company [See the docs here](https://api.aeroworkflow.com/swagger/index.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

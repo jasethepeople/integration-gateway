@@ -1,0 +1,7 @@
+{
+  "key": "fixer_io-convert-currency",
+  "name": "Convert Currency",
+  "description": "Convert amount from one currency to another using real-time exchange rates. [See the documentation](https://fixer.io/documentation)",
+  "type": "action",
+  "version": "0.0.2"
+}

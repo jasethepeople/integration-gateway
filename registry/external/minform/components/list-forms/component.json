@@ -1,0 +1,7 @@
+{
+  "key": "minform-list-forms",
+  "name": "List Forms",
+  "description": "List forms the authenticated user can access across their workspaces. [See the documentation](https://minform-pipedream-api-docs.solutionportal.workers.dev/forms/)",
+  "type": "action",
+  "version": "0.0.1"
+}

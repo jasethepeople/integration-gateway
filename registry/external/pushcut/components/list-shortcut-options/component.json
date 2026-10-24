@@ -1,0 +1,7 @@
+{
+  "key": "pushcut-list-shortcut-options",
+  "name": "List Shortcut Options",
+  "description": "Retrieves available options for the Shortcut field.",
+  "type": "action",
+  "version": "0.0.1"
+}

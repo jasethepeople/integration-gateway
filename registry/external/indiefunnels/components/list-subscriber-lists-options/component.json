@@ -1,0 +1,7 @@
+{
+  "key": "indiefunnels-list-subscriber-lists-options",
+  "name": "List Subscriber Lists Options",
+  "description": "Retrieves available options for the Subscriber Lists field.",
+  "type": "action",
+  "version": "0.0.1"
+}

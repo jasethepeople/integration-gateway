@@ -1,0 +1,18 @@
+{
+  "app": "webinargeek",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "webinargeek-new-payment",
+    "webinargeek-new-registration",
+    "webinargeek-new-replay-watched",
+    "webinargeek-new-unsubscribed",
+    "webinargeek-new-webinar-watched"
+  ]
+}

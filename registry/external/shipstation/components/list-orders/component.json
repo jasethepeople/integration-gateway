@@ -1,0 +1,7 @@
+{
+  "key": "shipstation-list-orders",
+  "name": "List Orders",
+  "description": "List orders optionally filtered by various criteria. [See the documentation](https://docs.shipstation.com/apis/shipstation-v1/openapi/orders/list_orders)",
+  "type": "action",
+  "version": "0.0.2"
+}

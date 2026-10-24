@@ -1,0 +1,7 @@
+{
+  "key": "melo-search-properties",
+  "name": "Search Properties",
+  "description": "Searches properties in Melo. [See the documentation](https://docs.melo.io/api-reference/endpoint/properties/get_collection)",
+  "type": "action",
+  "version": "0.0.2"
+}

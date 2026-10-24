@@ -1,0 +1,7 @@
+{
+  "key": "easybroker-list-property-types",
+  "name": "List Property Types",
+  "description": "Returns a list of all available property types. [See the documentation](https://dev.easybroker.com/reference/get_property-types)",
+  "type": "action",
+  "version": "0.0.1"
+}

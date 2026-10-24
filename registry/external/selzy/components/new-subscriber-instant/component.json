@@ -1,0 +1,7 @@
+{
+  "key": "selzy-new-subscriber-instant",
+  "name": "New Subscriber (Instant)",
+  "description": "Emit new event when a new contact subscribes to a specified list.",
+  "type": "source",
+  "version": "0.0.1"
+}

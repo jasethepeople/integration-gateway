@@ -1,0 +1,7 @@
+{
+  "key": "google_photos-upload-item",
+  "name": "Upload Item",
+  "description": "Uploads an item to Google Photos. [See the documentation](https://developers.google.com/photos/library/guides/upload-media)",
+  "type": "action",
+  "version": "1.0.3"
+}

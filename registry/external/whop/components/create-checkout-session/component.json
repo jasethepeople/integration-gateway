@@ -1,0 +1,7 @@
+{
+  "key": "whop-create-checkout-session",
+  "name": "Create Checkout Session",
+  "description": "Creates a new checkout session in Whop. [See the documentation](https://dev.whop.com/api-reference/v2/checkout-sessions/create-a-checkout-session)",
+  "type": "action",
+  "version": "0.0.2"
+}

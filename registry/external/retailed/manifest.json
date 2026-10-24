@@ -1,0 +1,14 @@
+{
+  "app": "retailed",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "apiKey": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "retailed-get-usage"
+  ]
+}

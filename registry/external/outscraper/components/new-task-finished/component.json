@@ -1,0 +1,7 @@
+{
+  "key": "outscraper-new-task-finished",
+  "name": "New Task Finished",
+  "description": "Emit new event when a task is finished on Outscraper.",
+  "type": "source",
+  "version": "0.0.1"
+}

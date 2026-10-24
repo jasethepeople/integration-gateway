@@ -1,0 +1,7 @@
+{
+  "key": "roblox-generate-user-thumbnail",
+  "name": "Generate User Thumbnail",
+  "description": "Generate a thumbnail image for a Roblox user's avatar. [See the documentation](https://create.roblox.com/docs/cloud/reference/User#Cloud_GenerateUserThumbnail)",
+  "type": "action",
+  "version": "0.0.1"
+}

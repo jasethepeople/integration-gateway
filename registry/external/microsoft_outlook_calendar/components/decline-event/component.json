@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_outlook_calendar-decline-event",
+  "name": "Decline Event",
+  "description": "Decline a calendar event invitation and optionally propose an alternate time.",
+  "type": "action",
+  "version": "0.0.2"
+}

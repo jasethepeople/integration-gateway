@@ -1,0 +1,26 @@
+{
+  "app": "nocrm_io",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "nocrm_io-create-lead",
+    "nocrm_io-get-lead",
+    "nocrm_io-list-lead-id-options",
+    "nocrm_io-list-step-id-options",
+    "nocrm_io-list-user-id-options",
+    "nocrm_io-update-lead-status",
+    "nocrm_io-new-lead-status-changed",
+    "nocrm_io-new-lead",
+    "nocrm_io-new-prospect"
+  ]
+}

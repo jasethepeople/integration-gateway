@@ -1,0 +1,7 @@
+{
+  "key": "zoho_sign-document-completed",
+  "name": "New Document Completed",
+  "description": "Emit new event when a document is completed.",
+  "type": "source",
+  "version": "0.0.1"
+}

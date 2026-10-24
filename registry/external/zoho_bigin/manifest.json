@@ -1,0 +1,25 @@
+{
+  "app": "zoho_bigin",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zoho_bigin-create-call",
+    "zoho_bigin-create-contact",
+    "zoho_bigin-create-event",
+    "zoho_bigin-list-contact-id-options",
+    "zoho_bigin-update-contact",
+    "zoho_bigin-new-call-created",
+    "zoho_bigin-new-contact-created",
+    "zoho_bigin-new-deal-created"
+  ]
+}

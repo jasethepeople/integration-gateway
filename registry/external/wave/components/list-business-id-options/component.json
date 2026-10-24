@@ -1,0 +1,7 @@
+{
+  "key": "wave-list-business-id-options",
+  "name": "List Business Options",
+  "description": "Retrieves available options for the Business field.",
+  "type": "action",
+  "version": "0.0.1"
+}

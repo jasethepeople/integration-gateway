@@ -1,0 +1,7 @@
+{
+  "key": "generated_photos-generate-similar-faces-by-upload",
+  "name": "Generate Similar Faces to Uploaded Image",
+  "description": "Generates faces similar to an uploaded image with the Generated Photos API. [See the documentation](https://generated.photos/account#apikey)",
+  "type": "action",
+  "version": "1.0.3"
+}

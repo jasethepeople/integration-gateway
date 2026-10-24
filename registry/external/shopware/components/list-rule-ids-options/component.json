@@ -1,0 +1,7 @@
+{
+  "key": "shopware-list-rule-ids-options",
+  "name": "List Rule IDs Options",
+  "description": "Retrieves available options for the Rule IDs field.",
+  "type": "action",
+  "version": "0.0.1"
+}

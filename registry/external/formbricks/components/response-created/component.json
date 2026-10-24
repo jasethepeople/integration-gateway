@@ -1,0 +1,7 @@
+{
+  "key": "formbricks-response-created",
+  "name": "Response Created",
+  "description": "Emit new event when a response is created for a survey. [See the documentation](https://formbricks.com/docs/api/management/webhooks)",
+  "type": "source",
+  "version": "0.0.1"
+}

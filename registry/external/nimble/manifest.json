@@ -1,0 +1,34 @@
+{
+  "app": "nimble",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "nimble-create-contact",
+    "nimble-create-task",
+    "nimble-list-contact-id-options",
+    "nimble-update-contact",
+    "nimble-new-contact-created"
+  ]
+}

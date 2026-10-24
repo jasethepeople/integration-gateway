@@ -1,0 +1,7 @@
+{
+  "key": "brillium-list-questions",
+  "name": "List Questions",
+  "description": "Retrieve all Questions for an Assessment. [See the documentation](https://support.brillium.com/en-us/knowledgebase/article/KA-01071)",
+  "type": "action",
+  "version": "0.0.3"
+}

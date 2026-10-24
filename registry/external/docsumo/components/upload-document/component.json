@@ -1,0 +1,7 @@
+{
+  "key": "docsumo-upload-document",
+  "name": "Upload Document",
+  "description": "Upload file using URL or base64 [See the documentation](https://support.docsumo.com/reference/post_api-v1-eevee-apikey-upload-custom).",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,165 @@
+{
+  "app": "polydoc",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "sourceType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "html": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "templateData": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "filename": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tag": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timeout": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "deliveryMode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "presignedUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "webhookUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "webhookOptions": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "advanced": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "format": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "landscape": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "printBackground": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "pageRanges": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "outline": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "tagged": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "scale": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "marginTop": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "marginRight": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "marginBottom": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "marginLeft": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "imageType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fullPage": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "quality": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "viewportWidth": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "viewportHeight": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "devicePixelRatio": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "outputEncoding": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eInvoiceStandard": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eInvoiceProfile": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "invoice": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "eInvoiceVerify": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "sandbox": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "polydoc-convert-pdf",
+    "polydoc-convert-screenshot",
+    "polydoc-generate-einvoice",
+    "polydoc-test-connection"
+  ],
+  "npmImports": [
+    "fs",
+    "path"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "aircall-new-call-ended",
+  "name": "New Call Ended",
+  "description": "Emit new event when a call ends",
+  "type": "source",
+  "version": "0.0.5"
+}

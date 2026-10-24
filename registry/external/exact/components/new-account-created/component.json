@@ -1,0 +1,7 @@
+{
+  "key": "exact-new-account-created",
+  "name": "New Account Created",
+  "description": "Emit new event each time a new account is created. [See the docs](https://start.exactonline.nl/docs/HlpRestAPIResourcesDetails.aspx?name=CRMAccounts)",
+  "type": "source",
+  "version": "0.0.1"
+}

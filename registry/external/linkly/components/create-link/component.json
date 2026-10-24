@@ -1,0 +1,7 @@
+{
+  "key": "linkly-create-link",
+  "name": "Create Link",
+  "description": "Create a new short link via `POST /api/v1/link`. [See the documentation](https://app.linklyhq.com/swaggerui#/Links/createOrUpdateLink).",
+  "type": "action",
+  "version": "0.1.0"
+}

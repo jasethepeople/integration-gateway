@@ -1,0 +1,7 @@
+{
+  "key": "height-create-task",
+  "name": "Create Task",
+  "description": "Creates a new task within your workspace. [See the documentation](https://height.notion.site/Create-a-task-b50565736830422684b28ae570a53a9e)",
+  "type": "action",
+  "version": "0.0.2"
+}

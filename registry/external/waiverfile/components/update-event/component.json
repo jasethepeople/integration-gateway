@@ -1,0 +1,7 @@
+{
+  "key": "waiverfile-update-event",
+  "name": "Update Event",
+  "description": "Updates the details of an existing event in WaiverFile. [See the documentation](https://api.waiverfile.com/swagger/ui/index#!/WaiverEvent/WaiverEvent_UpdateEvent)",
+  "type": "action",
+  "version": "0.0.2"
+}

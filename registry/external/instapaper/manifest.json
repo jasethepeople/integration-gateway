@@ -1,0 +1,9 @@
+{
+  "app": "instapaper",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "instapaper-add-url"
+  ]
+}

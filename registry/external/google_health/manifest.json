@@ -1,0 +1,37 @@
+{
+  "app": "google_health",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "startDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dataSourceFamily": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "google_health-get-body-measurements",
+    "google_health-get-daily-activity-summary",
+    "google_health-get-daily-steps",
+    "google_health-get-heart-rate",
+    "google_health-get-identity",
+    "google_health-get-nutrition-and-hydration",
+    "google_health-get-sleep-data",
+    "google_health-list-data-points"
+  ]
+}

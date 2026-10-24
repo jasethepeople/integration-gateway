@@ -1,0 +1,7 @@
+{
+  "key": "leadoku-new-responder",
+  "name": "New Responder",
+  "description": "Emit new event when there is a new responder in Leadoku. [See the documentation](https://help.leadoku.io/en/articles/8261580-leadoku-api-for-custom-integrations)",
+  "type": "source",
+  "version": "0.0.1"
+}

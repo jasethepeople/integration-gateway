@@ -1,0 +1,7 @@
+{
+  "key": "are_na-search",
+  "name": "Perform a Search",
+  "description": "Search across all of Are.na (returns channels, blocks and users that match the query)",
+  "type": "action",
+  "version": "0.0.3"
+}

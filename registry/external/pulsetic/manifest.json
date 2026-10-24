@@ -1,0 +1,19 @@
+{
+  "app": "pulsetic",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "monitorId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pulsetic-list-monitor-id-options",
+    "pulsetic-new-monitor-event"
+  ]
+}

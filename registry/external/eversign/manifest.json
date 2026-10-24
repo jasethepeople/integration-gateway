@@ -1,0 +1,12 @@
+{
+  "app": "eversign",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "eversign-new-event"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

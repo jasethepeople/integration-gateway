@@ -1,0 +1,7 @@
+{
+  "key": "redmine-update-project",
+  "name": "Update Project",
+  "description": "Updates an existing project in Redmine. [See the documentation](https://www.redmine.org/projects/redmine/wiki/rest_projects#updating-a-project)",
+  "type": "action",
+  "version": "0.0.2"
+}

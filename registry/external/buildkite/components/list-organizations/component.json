@@ -1,0 +1,7 @@
+{
+  "key": "buildkite-list-organizations",
+  "name": "List Organizations",
+  "description": "Returns a list of organizations accessible by the API token. [See the documentation](https://buildkite.com/docs/apis/rest-api/organizations#list-organizations)",
+  "type": "action",
+  "version": "0.0.1"
+}

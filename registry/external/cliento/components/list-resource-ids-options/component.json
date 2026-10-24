@@ -1,0 +1,7 @@
+{
+  "key": "cliento-list-resource-ids-options",
+  "name": "List Resource IDs Options",
+  "description": "Retrieves available options for the Resource IDs field.",
+  "type": "action",
+  "version": "0.0.1"
+}

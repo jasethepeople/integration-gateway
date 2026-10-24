@@ -1,0 +1,7 @@
+{
+  "key": "woocommerce-get-order-note",
+  "name": "Get Order Note",
+  "description": "Retrieve a specific order note. [See the docs](https://woocommerce.github.io/woocommerce-rest-api-docs/#retrieve-an-order-note)",
+  "type": "action",
+  "version": "0.0.1"
+}

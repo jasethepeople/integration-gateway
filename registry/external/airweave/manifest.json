@@ -1,0 +1,47 @@
+{
+  "app": "airweave",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "collectionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sourceConnectionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "searchQuery": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "searchLimit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "responseType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "base_url": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "airweave-create-collection",
+    "airweave-delete-collection",
+    "airweave-get-collection",
+    "airweave-list-collections",
+    "airweave-list-sources",
+    "airweave-search-collection",
+    "airweave-trigger-sync"
+  ],
+  "npmImports": [
+    "@airweave/sdk"
+  ]
+}

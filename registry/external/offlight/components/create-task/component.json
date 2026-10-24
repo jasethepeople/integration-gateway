@@ -1,0 +1,7 @@
+{
+  "key": "offlight-create-task",
+  "name": "Create Task",
+  "description": "Initiates the creation of a new task in Offlight. [See the documentation](https://www.offlight.work/docs/zapeir-api)",
+  "type": "action",
+  "version": "0.0.2"
+}

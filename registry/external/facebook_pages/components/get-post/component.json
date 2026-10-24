@@ -1,0 +1,7 @@
+{
+  "key": "facebook_pages-get-post",
+  "name": "Get Post",
+  "description": "Retrieves a post on a Facebook Page. [See the documentation](https://developers.facebook.com/docs/graph-api/reference/pagepost)",
+  "type": "action",
+  "version": "0.0.4"
+}

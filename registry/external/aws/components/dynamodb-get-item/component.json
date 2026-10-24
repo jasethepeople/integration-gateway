@@ -1,0 +1,7 @@
+{
+  "key": "aws-dynamodb-get-item",
+  "name": "DynamoDB - Get Item",
+  "description": "Value for the primary key",
+  "type": "action",
+  "version": "0.2.3"
+}

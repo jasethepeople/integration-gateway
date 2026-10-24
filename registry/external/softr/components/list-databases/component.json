@@ -1,0 +1,7 @@
+{
+  "key": "softr-list-databases",
+  "name": "List Databases",
+  "description": "Retrieve a list of all databases accessible to the authenticated user. [See the documentation](https://docs.softr.io/softr-api/softr-database-api/databases/get-databases)",
+  "type": "action",
+  "version": "0.0.1"
+}

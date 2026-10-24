@@ -1,0 +1,7 @@
+{
+  "key": "hullo-send-message",
+  "name": "Send Message",
+  "description": "Sends a personalized message to a Hullo member. [See the documentation](https://app.hullo.me/docs/index.html#?route=post-/endpoints/messages)",
+  "type": "action",
+  "version": "0.0.2"
+}

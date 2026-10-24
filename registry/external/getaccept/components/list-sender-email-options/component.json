@@ -1,0 +1,7 @@
+{
+  "key": "getaccept-list-sender-email-options",
+  "name": "List Sender Email Options",
+  "description": "Retrieves available options for the Sender Email field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "heroku-new-webhook-event-instant",
+  "name": "New Webhook Event (Instant)",
+  "description": "Emit new event on each webhook event. [See the documentation](https://devcenter.heroku.com/articles/app-webhooks-schema#webhook-create)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "shopify_developer_app-new-order-created",
+  "name": "New Order Created (Instant)",
+  "description": "Emit new event for each new order submitted to a store.",
+  "type": "source",
+  "version": "0.0.21"
+}

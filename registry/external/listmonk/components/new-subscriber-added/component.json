@@ -1,0 +1,7 @@
+{
+  "key": "listmonk-new-subscriber-added",
+  "name": "New Subscriber Added",
+  "description": "Emit new event when a new subscriber is added. [See the documentation](https://listmonk.app/docs/apis/subscribers/#get-apisubscribers_2)",
+  "type": "source",
+  "version": "0.0.1"
+}

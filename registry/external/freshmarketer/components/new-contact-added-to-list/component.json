@@ -1,0 +1,7 @@
+{
+  "key": "freshmarketer-new-contact-added-to-list",
+  "name": "New Contact Added to List",
+  "description": "Emit new event when a contact is added to a specific list.",
+  "type": "source",
+  "version": "0.0.1"
+}

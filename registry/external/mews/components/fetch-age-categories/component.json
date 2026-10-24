@@ -1,0 +1,7 @@
+{
+  "key": "mews-fetch-age-categories",
+  "name": "Fetch Age Categories",
+  "description": "Retrieve all age categories filtered by service. [See the documentation](https://mews-systems.gitbook.io/connector-api/operations/agecategories#get-all-age-categories)",
+  "type": "action",
+  "version": "0.1.0"
+}

@@ -1,0 +1,27 @@
+{
+  "app": "payhip",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "productLink": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "payhip-disable-license-key",
+    "payhip-enable-license-key",
+    "payhip-verify-license-key",
+    "payhip-customer-charged",
+    "payhip-new-subscription-created",
+    "payhip-payment-refunded",
+    "payhip-subscription-canceled"
+  ],
+  "npmImports": [
+    "qs"
+  ]
+}

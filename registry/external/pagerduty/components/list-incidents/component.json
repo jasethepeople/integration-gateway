@@ -1,0 +1,7 @@
+{
+  "key": "pagerduty-list-incidents",
+  "name": "List Incidents",
+  "description": "List and filter incidents by status, urgency, service, or team.",
+  "type": "action",
+  "version": "0.0.2"
+}

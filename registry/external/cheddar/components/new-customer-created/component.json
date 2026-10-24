@@ -1,0 +1,7 @@
+{
+  "key": "cheddar-new-customer-created",
+  "name": "New Customer Created",
+  "description": "Emit new event when a new customer is created. [See the documentation](https://docs.getcheddar.com/#customers)",
+  "type": "source",
+  "version": "0.0.1"
+}

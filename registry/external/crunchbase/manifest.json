@@ -1,0 +1,19 @@
+{
+  "app": "crunchbase",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "entityId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "user_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "crunchbase-get-organization",
+    "crunchbase-search-organizations"
+  ]
+}

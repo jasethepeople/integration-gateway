@@ -1,0 +1,18 @@
+{
+  "app": "auth0_management_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "auth0_management_api-new-event-stream-event"
+  ]
+}

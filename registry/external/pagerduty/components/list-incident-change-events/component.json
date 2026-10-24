@@ -1,0 +1,7 @@
+{
+  "key": "pagerduty-list-incident-change-events",
+  "name": "List Incident Change Events",
+  "description": "List change events (deployments, config changes) correlated to an incident.",
+  "type": "action",
+  "version": "0.0.2"
+}

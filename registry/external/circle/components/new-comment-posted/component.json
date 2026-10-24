@@ -1,0 +1,7 @@
+{
+  "key": "circle-new-comment-posted",
+  "name": "New Comment Posted",
+  "description": "Emit new event each time a new comment is posted in the selected community space.",
+  "type": "source",
+  "version": "0.0.3"
+}

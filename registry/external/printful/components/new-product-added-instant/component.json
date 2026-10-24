@@ -1,0 +1,7 @@
+{
+  "key": "printful-new-product-added-instant",
+  "name": "New Product Added (Instant)",
+  "description": "Emit new event when a new product is added to your Printful store catalog.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "uipath_automation_hub-automation-published",
+  "name": "New Automation Published",
+  "description": "Emit new event when a new automation is published.",
+  "type": "source",
+  "version": "0.0.1"
+}

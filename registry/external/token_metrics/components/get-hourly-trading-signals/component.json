@@ -1,0 +1,7 @@
+{
+  "key": "token_metrics-get-hourly-trading-signals",
+  "name": "Get Hourly Trading Signals",
+  "description": "Select Token IDs to filter results",
+  "type": "action",
+  "version": "0.1.1"
+}

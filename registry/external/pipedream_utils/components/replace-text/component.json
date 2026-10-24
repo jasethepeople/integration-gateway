@@ -1,0 +1,7 @@
+{
+  "key": "pipedream_utils-replace-text",
+  "name": "Formatting - [Text] Replace Text",
+  "description": "Replace all instances of any character, word or phrase in the text with another character, word or phrase.",
+  "type": "action",
+  "version": "0.0.6"
+}

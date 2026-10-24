@@ -1,0 +1,7 @@
+{
+  "key": "documint-create-document",
+  "name": "Create Document",
+  "description": "Create a document. [See the documentation](https://documenter.getpostman.com/view/11741160/TVK5cLxQ#032798a4-6eb6-43cd-9c1b-9ba313f7d39c)",
+  "type": "action",
+  "version": "0.0.3"
+}

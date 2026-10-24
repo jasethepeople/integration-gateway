@@ -1,0 +1,7 @@
+{
+  "key": "activecampaign-contact-added-to-list",
+  "name": "New Contact Added to List (Instant)",
+  "description": "Emit new event each time a new contact is added to a list.",
+  "type": "source",
+  "version": "0.0.8"
+}

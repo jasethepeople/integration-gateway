@@ -1,0 +1,7 @@
+{
+  "key": "taiga-delete-task",
+  "name": "Delete Task",
+  "description": "Delete an existing task from a Taiga project. [See the documentation](https://docs.taiga.io/api.html#tasks-delete)",
+  "type": "action",
+  "version": "0.0.2"
+}

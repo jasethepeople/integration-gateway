@@ -1,0 +1,7 @@
+{
+  "key": "slack_v2-get-file",
+  "name": "Get File",
+  "description": "Return information about a file. [See the documentation](https://api.slack.com/methods/files.info)",
+  "type": "action",
+  "version": "0.1.18"
+}

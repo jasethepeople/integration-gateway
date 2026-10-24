@@ -1,0 +1,7 @@
+{
+  "key": "ftrack-get-task-info",
+  "name": "Get Task Info",
+  "description": "Get information about a task. [See the documentation](https://help.ftrack.com/en/articles/1040498-operations#query)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "knack-get-record",
+  "name": "Get Record(s)",
+  "description": "Get one or more Records for a Knack object [(See docs here)](https://docs.knack.com/docs/retrieving-records)",
+  "type": "action",
+  "version": "0.0.3"
+}

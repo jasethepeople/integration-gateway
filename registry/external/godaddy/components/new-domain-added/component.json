@@ -1,0 +1,7 @@
+{
+  "key": "godaddy-new-domain-added",
+  "name": "New Domain Added",
+  "description": "Emit new event when a new domain is added. [See the documentation](https://developer.godaddy.com/doc/endpoint/domains#/v1/list)",
+  "type": "source",
+  "version": "0.0.1"
+}

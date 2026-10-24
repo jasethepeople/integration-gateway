@@ -1,0 +1,26 @@
+{
+  "app": "templatedocs",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "templatedocs-delete-template",
+    "templatedocs-generate-document",
+    "templatedocs-get-template",
+    "templatedocs-list-template-id-options",
+    "templatedocs-list-templates"
+  ],
+  "npmImports": [
+    "fs",
+    "path"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "kenjo-create-employee",
+  "name": "Create Employee",
+  "description": "Creates a new employee in Kenjo. [See the documentation](https://kenjo.readme.io/reference/post_employees)",
+  "type": "action",
+  "version": "0.0.2"
+}

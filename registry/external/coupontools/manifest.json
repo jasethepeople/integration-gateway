@@ -1,0 +1,33 @@
+{
+  "app": "coupontools",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "couponId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "directoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "client_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "client_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "coupontools-create-single-use-url",
+    "coupontools-create-subaccount",
+    "coupontools-list-coupon-id-options",
+    "coupontools-list-directory-id-options",
+    "coupontools-send-coupon-by-email",
+    "coupontools-new-coupon-claim",
+    "coupontools-new-coupon-validation",
+    "coupontools-new-directory-registration"
+  ]
+}

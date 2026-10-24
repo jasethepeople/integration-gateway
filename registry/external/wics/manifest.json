@@ -1,0 +1,44 @@
+{
+  "app": "wics",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "orderReference": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "additionalReference": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lineNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "environment": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "wics-delete-order-line",
+    "wics-get-order-by-additional-reference",
+    "wics-list-additional-reference-options",
+    "wics-list-order-number-options",
+    "wics-list-order-reference-options",
+    "wics-list-order-shipments",
+    "wics-update-order"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "lexoffice-upload-a-file",
+  "name": "Upload A File",
+  "description": "Uploads a file to Lexware using the files endpoint. [See the documentation](https://developers.lexware.io/docs/#files-endpoint-upload-a-file).",
+  "type": "action",
+  "version": "0.0.2"
+}

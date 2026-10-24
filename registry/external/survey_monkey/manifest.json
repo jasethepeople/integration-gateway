@@ -1,0 +1,55 @@
+{
+  "app": "survey_monkey",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "survey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "responseId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "collectorId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "messageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "objectType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eventType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "survey_monkey-add-message-recipients",
+    "survey_monkey-create-collector",
+    "survey_monkey-create-invite-message",
+    "survey_monkey-find-survey",
+    "survey_monkey-get-collector",
+    "survey_monkey-get-my-info",
+    "survey_monkey-get-response",
+    "survey_monkey-list-collectors",
+    "survey_monkey-list-invite-messages",
+    "survey_monkey-list-responses",
+    "survey_monkey-list-surveys",
+    "survey_monkey-send-invite-message",
+    "survey_monkey-custom-webhook-events",
+    "survey_monkey-new-survey-response",
+    "survey_monkey-new-survey"
+  ],
+  "npmImports": [
+    "uuid"
+  ]
+}

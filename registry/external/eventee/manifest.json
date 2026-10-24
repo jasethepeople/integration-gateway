@@ -1,0 +1,16 @@
+{
+  "app": "eventee",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "eventee-invite-attendees",
+    "eventee-new-participant-created",
+    "eventee-new-registration-created"
+  ]
+}

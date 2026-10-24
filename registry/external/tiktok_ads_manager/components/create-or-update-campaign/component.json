@@ -1,0 +1,7 @@
+{
+  "key": "tiktok_ads_manager-create-or-update-campaign",
+  "name": "Create or Update Campaign",
+  "description": "Create a new TikTok campaign or update an existing one.",
+  "type": "action",
+  "version": "0.0.2"
+}

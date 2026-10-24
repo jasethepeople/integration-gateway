@@ -1,0 +1,7 @@
+{
+  "key": "fitbit-get-nutrition-water",
+  "name": "Get Nutrition and Water Logs",
+  "description": "Get nutrition and water logs for a date, including food entries, meals, water intake, and daily summaries. [See the Fitbit Web API documentation](https://dev.fitbit.com/build/reference/web-api/)",
+  "type": "action",
+  "version": "0.0.1"
+}

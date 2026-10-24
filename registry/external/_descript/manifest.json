@@ -1,0 +1,19 @@
+{
+  "app": "_descript",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "published_project_slug": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "_descript-create-import-url",
+    "_descript-get-published-project-metadata"
+  ]
+}

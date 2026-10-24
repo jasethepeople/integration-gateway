@@ -1,0 +1,7 @@
+{
+  "key": "openperplex-query-from-url",
+  "name": "Query From URL",
+  "description": "Queries content from a specific URL using Openperplex. [See the documentation](https://docs.openperplex.com/api-reference/endpoint/query-from-url)",
+  "type": "action",
+  "version": "0.0.2"
+}

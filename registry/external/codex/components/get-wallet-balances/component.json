@@ -1,0 +1,7 @@
+{
+  "key": "codex-get-wallet-balances",
+  "name": "Get Wallet Balances",
+  "description": "Returns all token holdings and USD values for a wallet address on a specific blockchain network.",
+  "type": "action",
+  "version": "0.0.2"
+}

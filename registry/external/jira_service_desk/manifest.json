@@ -1,0 +1,74 @@
+{
+  "app": "jira_service_desk",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "cloudId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "serviceDeskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "requestId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "requestTypeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "issueIdOrKey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "expand": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "jira_service_desk-create-comment-on-request",
+    "jira_service_desk-create-request",
+    "jira_service_desk-download-issue-attachment",
+    "jira_service_desk-find-service-desk-customers",
+    "jira_service_desk-find-users",
+    "jira_service_desk-get-current-user",
+    "jira_service_desk-get-request-status",
+    "jira_service_desk-get-request-type-form",
+    "jira_service_desk-get-request",
+    "jira_service_desk-list-cloud-id-options",
+    "jira_service_desk-list-issue-attachments",
+    "jira_service_desk-list-my-requests",
+    "jira_service_desk-list-request-transitions",
+    "jira_service_desk-list-request-type-fields",
+    "jira_service_desk-list-request-types",
+    "jira_service_desk-list-service-desks",
+    "jira_service_desk-list-sites",
+    "jira_service_desk-manage-request-attachment",
+    "jira_service_desk-transition-request",
+    "jira_service_desk-update-issue-fields",
+    "jira_service_desk-new-request-created",
+    "jira_service_desk-request-status-updated"
+  ],
+  "npmImports": [
+    "form-data",
+    "fs",
+    "path",
+    "stream",
+    "util"
+  ]
+}

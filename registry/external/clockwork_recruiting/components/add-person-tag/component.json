@@ -1,0 +1,7 @@
+{
+  "key": "clockwork_recruiting-add-person-tag",
+  "name": "Add Person Tag",
+  "description": "Add a tag to a specific person. [See the documentation](https://app.swaggerhub.com/apis-docs/clockwork-recruiting/cw-public-api/3.0.0#/Person%20Tags)",
+  "type": "action",
+  "version": "0.0.2"
+}

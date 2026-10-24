@@ -1,0 +1,7 @@
+{
+  "key": "lusha-list-sizes-options",
+  "name": "List Company Sizes Options",
+  "description": "Retrieves available options for the Company Sizes field.",
+  "type": "action",
+  "version": "0.0.1"
+}

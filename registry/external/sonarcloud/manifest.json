@@ -1,0 +1,23 @@
+{
+  "app": "sonarcloud",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "organization": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "project": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sonarcloud-list-organization-options",
+    "sonarcloud-new-analysis-completed-instant"
+  ]
+}

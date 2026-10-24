@@ -1,0 +1,7 @@
+{
+  "key": "mapulus-create-location",
+  "name": "Create Location",
+  "description": "Create a new location in Mapulus. [See the documentation](https://developer.mapulus.com/index.html)",
+  "type": "action",
+  "version": "0.0.3"
+}

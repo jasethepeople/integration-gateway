@@ -1,0 +1,7 @@
+{
+  "key": "americommerce-list-store-id-options",
+  "name": "List Store ID Options",
+  "description": "Retrieves available options for the Store ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "elastic_email-list-segment-names-options",
+  "name": "List Segment Names Options",
+  "description": "Retrieves available options for the Segment Names field.",
+  "type": "action",
+  "version": "0.0.1"
+}

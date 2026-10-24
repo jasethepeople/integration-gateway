@@ -1,0 +1,7 @@
+{
+  "key": "edusign-list-classroom-id-options",
+  "name": "List Classroom ID Options",
+  "description": "Retrieves available options for the Classroom ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zoho_analytics-update-row",
+  "name": "Update Row",
+  "description": "Update rows in the specified table. [See the documentation](https://www.zoho.com/analytics/api/v2/#update-row)",
+  "type": "action",
+  "version": "0.0.2"
+}

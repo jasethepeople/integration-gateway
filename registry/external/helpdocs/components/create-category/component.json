@@ -1,0 +1,7 @@
+{
+  "key": "helpdocs-create-category",
+  "name": "Create Category",
+  "description": "Create a new category in your HelpDocs knowledge base to organize articles. [See the documentation](https://apidocs.helpdocs.io/article/i5gdcZ7b9s-creating-a-category)",
+  "type": "action",
+  "version": "0.0.2"
+}

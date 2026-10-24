@@ -1,0 +1,7 @@
+{
+  "key": "procore-new-change-order-package-event-instant",
+  "name": "New Change Order Package Event (Instant)",
+  "description": "Emit new event when a new change order package event is created. [See the documentation](https://developers.procore.com/reference/rest/hooks?version=latest).",
+  "type": "source",
+  "version": "0.0.1"
+}

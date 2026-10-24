@@ -1,0 +1,7 @@
+{
+  "key": "nutshell-update-lead",
+  "name": "Update Lead",
+  "description": "Update an existing lead in Nutshell. Use `leads/0/manualValue` for value updates. [See the documentation](https://developers.nutshell.com/reference/5a47a634e21ffbad6a5c268af67a63ae)",
+  "type": "action",
+  "version": "1.0.1"
+}

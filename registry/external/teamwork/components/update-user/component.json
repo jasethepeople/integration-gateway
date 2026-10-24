@@ -1,0 +1,7 @@
+{
+  "key": "teamwork-update-user",
+  "name": "Update User",
+  "description": "Update a user in Teamwork. [See the documentation](https://apidocs.teamwork.com/docs/teamwork/v1/people/put-people-id-json)",
+  "type": "action",
+  "version": "0.0.3"
+}

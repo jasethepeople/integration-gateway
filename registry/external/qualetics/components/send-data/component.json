@@ -1,0 +1,7 @@
+{
+  "key": "qualetics-send-data",
+  "name": "Send Data",
+  "description": "Send an event with data to the system. [See the documentation](https://docs.qualetics.com/rest-api-integration-to-send-data)",
+  "type": "action",
+  "version": "0.0.3"
+}

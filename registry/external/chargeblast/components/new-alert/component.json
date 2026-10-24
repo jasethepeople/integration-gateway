@@ -1,0 +1,7 @@
+{
+  "key": "chargeblast-new-alert",
+  "name": "New Alert in Chargeblast",
+  "description": "Emit new event for each alert in Chargeblast. [See the documentation](https://docs.chargeblast.io/reference/getembedalerts)",
+  "type": "source",
+  "version": "0.0.1"
+}

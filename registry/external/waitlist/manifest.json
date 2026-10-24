@@ -1,0 +1,20 @@
+{
+  "app": "waitlist",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "waitlistId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "waitlist-list-waitlist-id-options",
+    "waitlist-new-list",
+    "waitlist-new-subscriber"
+  ]
+}

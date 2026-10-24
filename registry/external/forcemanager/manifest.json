@@ -1,0 +1,44 @@
+{
+  "app": "forcemanager",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "salesRepId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "branchId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "statusId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "currencyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "forcemanager-create-opportunity",
+    "forcemanager-find-contact",
+    "forcemanager-list-account-id-options",
+    "forcemanager-list-branch-id-options",
+    "forcemanager-list-currency-id-options",
+    "forcemanager-list-sales-rep-id-options",
+    "forcemanager-list-status-id-options",
+    "forcemanager-list-users",
+    "forcemanager-new-activity",
+    "forcemanager-new-contact",
+    "forcemanager-new-opportunity"
+  ]
+}

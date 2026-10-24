@@ -1,0 +1,32 @@
+{
+  "app": "tubular",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "note": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lead": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "tubular-create-lead",
+    "tubular-get-deals-by-date",
+    "tubular-get-leads"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-delete-job",
+  "name": "Delete Job",
+  "description": "Delete a job by UUID. [See the documentation](https://developer.servicem8.com/reference/deletejobs)",
+  "type": "action",
+  "version": "0.0.1"
+}

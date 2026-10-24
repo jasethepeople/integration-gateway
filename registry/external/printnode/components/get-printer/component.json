@@ -1,0 +1,7 @@
+{
+  "key": "printnode-get-printer",
+  "name": "Get Printer",
+  "description": "Retrieves data about a specific printer. [See the documentation](https://www.printnode.com/en/docs/api/curl#printers)",
+  "type": "action",
+  "version": "0.0.2"
+}

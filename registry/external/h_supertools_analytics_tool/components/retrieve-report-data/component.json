@@ -1,0 +1,7 @@
+{
+  "key": "h_supertools_analytics_tool-retrieve-report-data",
+  "name": "Retrieve Report Data",
+  "description": "Fetch the analytics report data for a specified website. [See the documentation](https://analytics.h-supertools.com/developers/stats)",
+  "type": "action",
+  "version": "0.0.2"
+}

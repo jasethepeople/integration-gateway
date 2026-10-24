@@ -1,0 +1,7 @@
+{
+  "key": "paddle-create-customer",
+  "name": "Create Customer",
+  "description": "Create a new customer in Paddle. [See the documentation](https://developer.paddle.com/api-reference/customers/create-customer)",
+  "type": "action",
+  "version": "0.0.1"
+}

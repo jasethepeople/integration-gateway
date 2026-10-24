@@ -1,0 +1,7 @@
+{
+  "key": "help_scout-list-conversation-id-options",
+  "name": "List Conversation ID Options",
+  "description": "Retrieves available options for the Conversation ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

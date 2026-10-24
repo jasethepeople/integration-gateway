@@ -1,0 +1,25 @@
+{
+  "app": "leexi",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "extension": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "callId": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "leexi-create-call",
+    "leexi-create-presign-recording-url",
+    "leexi-get-call",
+    "leexi-list-call-id-options",
+    "leexi-new-call-created"
+  ],
+  "npmImports": [
+    "fs"
+  ]
+}

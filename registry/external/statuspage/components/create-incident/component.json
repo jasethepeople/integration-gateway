@@ -1,0 +1,7 @@
+{
+  "key": "statuspage-create-incident",
+  "name": "Create Incident",
+  "description": "Creates an incident. [See docs here](https://developer.statuspage.io/#create-an-incident)",
+  "type": "action",
+  "version": "0.0.4"
+}

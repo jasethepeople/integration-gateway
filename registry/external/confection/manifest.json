@@ -1,0 +1,38 @@
+{
+  "app": "confection",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "uuid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "likeness": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "triggerField": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eventName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "account_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "secret_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "confection-get-related-uuids",
+    "confection-get-uuid-details",
+    "confection-new-event",
+    "confection-new-field-value",
+    "confection-new-updated-leads"
+  ]
+}

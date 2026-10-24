@@ -1,0 +1,7 @@
+{
+  "key": "teamleader_focus-list-messages",
+  "name": "List Messages",
+  "description": "List messages for a single ticket. [See the documentation](https://developer.focus.teamleader.eu/docs/api/tickets-list-messages)",
+  "type": "action",
+  "version": "0.0.1"
+}

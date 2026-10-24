@@ -1,0 +1,7 @@
+{
+  "key": "knowfirst-start-tracking-business",
+  "name": "Start Tracking Business",
+  "description": "Start tracking a business to receive notifications when changes occur. [See the documentation](https://www.knowfirst.ai/docs/api/#/Tracking/TrackingPut)",
+  "type": "action",
+  "version": "0.0.2"
+}

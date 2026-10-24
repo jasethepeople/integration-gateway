@@ -1,0 +1,7 @@
+{
+  "key": "teamwork-list-people-id-options",
+  "name": "List People Id Options",
+  "description": "Retrieves available options for the People Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

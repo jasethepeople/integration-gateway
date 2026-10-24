@@ -1,0 +1,7 @@
+{
+  "key": "brex_staging-set-limit-for-user",
+  "name": "Set Limit for User",
+  "description": "Sets the monthly limit for a user. [See the docs here](https://developer.brex.com/openapi/team_api/#operation/setUserLimit).",
+  "type": "action",
+  "version": "0.0.3"
+}

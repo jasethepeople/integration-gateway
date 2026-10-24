@@ -1,0 +1,7 @@
+{
+  "key": "maestra-new-file-added",
+  "name": "New File Added",
+  "description": "Emit new event when a new file is added to a project in Maestra. [See the documentation](https://maestra.ai/docs#getFiles)",
+  "type": "source",
+  "version": "0.0.1"
+}

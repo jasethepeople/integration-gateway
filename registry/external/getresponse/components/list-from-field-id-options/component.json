@@ -1,0 +1,7 @@
+{
+  "key": "getresponse-list-from-field-id-options",
+  "name": "List From Field ID Options",
+  "description": "Retrieves available options for the From Field ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

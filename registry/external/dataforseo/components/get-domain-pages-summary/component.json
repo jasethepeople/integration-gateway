@@ -1,0 +1,7 @@
+{
+  "key": "dataforseo-get-domain-pages-summary",
+  "name": "Get Domain Pages Summary",
+  "description": "Get detailed summary data on all backlinks and related metrics for each page of the specified domain or subdomain. [See the documentation](https://docs.dataforseo.com/v3/backlinks/domain_pages_summary/live/)",
+  "type": "action",
+  "version": "0.0.3"
+}

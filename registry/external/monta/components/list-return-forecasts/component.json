@@ -1,0 +1,7 @@
+{
+  "key": "monta-list-return-forecasts",
+  "name": "List Return Forecasts",
+  "description": "List the expected (forecasted) returns for an order, as opposed to the actual return records from **List Order Returns**. Use this to anticipate inbound returns before they physically arrive. [See the documentation](https://api-v6.monta.nl/index.html#tag/Order/paths/~1order~1%7Bwebshoporderid%7D~1returnforecasts/get)",
+  "type": "action",
+  "version": "0.0.2"
+}

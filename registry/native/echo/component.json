@@ -1,0 +1,7 @@
+{
+  "key": "native_echo",
+  "name": "Native Echo",
+  "description": "Passthrough action that echoes the incoming event back (smoke-test target).",
+  "type": "action",
+  "version": "1.0.0"
+}

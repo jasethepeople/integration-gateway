@@ -1,0 +1,7 @@
+{
+  "key": "aws-s3-download-file-to-tmp",
+  "name": "S3 - Download File to /tmp",
+  "description": "The path to the file you'd like to download eg. `/tmp/file.txt`",
+  "type": "action",
+  "version": "0.0.6"
+}

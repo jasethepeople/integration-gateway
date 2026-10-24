@@ -1,0 +1,7 @@
+{
+  "key": "bybit-linear-position-update-margin",
+  "name": "ByBit Linear Position Update Margin",
+  "description": "Add Reduce Margin.",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "spotify-new-track-by-artist",
+  "name": "New Track by Artist",
+  "description": "Emit new event for each new Spotify track related with an artist. [See the documentation](https://developer.spotify.com/documentation/web-api/reference/#/operations/get-multiple-albums)",
+  "type": "source",
+  "version": "0.1.7"
+}

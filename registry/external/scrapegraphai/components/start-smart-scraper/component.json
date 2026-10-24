@@ -1,0 +1,7 @@
+{
+  "key": "scrapegraphai-start-smart-scraper",
+  "name": "Start Smart Scraper",
+  "description": "Extract content from a webpage using AI by providing a natural language prompt and a URL. [See the documentation](https://docs.scrapegraphai.com/api-reference/endpoint/smartscraper/start).",
+  "type": "action",
+  "version": "0.0.2"
+}

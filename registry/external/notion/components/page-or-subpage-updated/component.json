@@ -1,0 +1,7 @@
+{
+  "key": "notion-page-or-subpage-updated",
+  "name": "Page or Subpage Updated",
+  "description": "Emit new event when the selected page or one of its sub-pages is updated. [See the documentation](https://developers.notion.com/reference/page)",
+  "type": "source",
+  "version": "0.0.15"
+}

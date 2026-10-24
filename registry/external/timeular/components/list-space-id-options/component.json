@@ -1,0 +1,7 @@
+{
+  "key": "timeular-list-space-id-options",
+  "name": "List Space Id Options",
+  "description": "Retrieves available options for the Space Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

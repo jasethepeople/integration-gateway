@@ -1,0 +1,7 @@
+{
+  "key": "short-list-domain-id-options",
+  "name": "List Domain ID Options",
+  "description": "Retrieves available options for the Domain ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

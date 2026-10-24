@@ -1,0 +1,7 @@
+{
+  "key": "dbt-get-run",
+  "name": "Get Run",
+  "description": "Retrieve information about a run. [See the documentation](https://docs.getdbt.com/dbt-cloud/api-v2#/operations/Retrieve%20Run)",
+  "type": "action",
+  "version": "0.0.5"
+}

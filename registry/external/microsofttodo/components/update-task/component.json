@@ -1,0 +1,7 @@
+{
+  "key": "microsofttodo-update-task",
+  "name": "Update Task",
+  "description": "Updates an existing task in Microsoft To Do. [See the documentation](https://learn.microsoft.com/en-us/graph/api/todotask-update).",
+  "type": "action",
+  "version": "0.0.2"
+}

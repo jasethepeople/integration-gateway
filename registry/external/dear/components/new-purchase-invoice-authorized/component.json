@@ -1,0 +1,7 @@
+{
+  "key": "dear-new-purchase-invoice-authorized",
+  "name": "New Purchase Invoice Authorized",
+  "description": "Emit new event when a purchase invoiced is authorized",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "venly-list-contract-id-options",
+  "name": "List Contract ID Options",
+  "description": "Retrieves available options for the Contract ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

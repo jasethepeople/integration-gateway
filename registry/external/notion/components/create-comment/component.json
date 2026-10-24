@@ -1,0 +1,7 @@
+{
+  "key": "notion-create-comment",
+  "name": "Create Comment",
+  "description": "Add a comment to a Notion page, or reply to an existing discussion thread.",
+  "type": "action",
+  "version": "0.1.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "bugbug-new-suite-run-failed",
+  "name": "New Suite Run Failed",
+  "description": "Emit new event when any suite fails when running in BugBug",
+  "type": "source",
+  "version": "0.0.1"
+}

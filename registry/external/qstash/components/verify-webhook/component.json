@@ -1,0 +1,7 @@
+{
+  "key": "qstash-verify-webhook",
+  "name": "Verify Webhook",
+  "description": "Verify an incoming QStash webhook to an endpoint. Only to be used with the **Publish Endpoint** action.",
+  "type": "action",
+  "version": "0.0.3"
+}

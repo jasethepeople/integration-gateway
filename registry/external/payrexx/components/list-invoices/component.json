@@ -1,0 +1,7 @@
+{
+  "key": "payrexx-list-invoices",
+  "name": "List Invoices",
+  "description": "List all invoices for a merchant. [See the documentation](https://payrexxserviceapi.readme.io/reference/list-all-invoices)",
+  "type": "action",
+  "version": "0.0.1"
+}

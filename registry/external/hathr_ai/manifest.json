@@ -1,0 +1,21 @@
+{
+  "app": "hathr_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "documents": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "hathr_ai-chat",
+    "hathr_ai-list-documents",
+    "hathr_ai-upload-document",
+    "hathr_ai-new-document-created"
+  ]
+}

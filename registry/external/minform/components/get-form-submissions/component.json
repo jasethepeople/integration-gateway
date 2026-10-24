@@ -1,0 +1,7 @@
+{
+  "key": "minform-get-form-submissions",
+  "name": "Get Form Submissions",
+  "description": "Returns the 10 most recent submissions for a form. [See the documentation](https://minform-pipedream-api-docs.solutionportal.workers.dev/submissions/)",
+  "type": "action",
+  "version": "0.0.1"
+}

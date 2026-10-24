@@ -1,0 +1,7 @@
+{
+  "key": "rollbar-create-a-project",
+  "name": "Create a Project",
+  "description": "Creates a new project in Rollbar. [See the documentation](https://docs.rollbar.com/reference/create-a-project)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "typeflo-create-post",
+  "name": "Create Post",
+  "description": "Creates and publish posts in yout blog. [See the documentation](https://typeflo.io/knowledge-base/headless-cms-admin-api-documentation#1-posts)",
+  "type": "action",
+  "version": "0.0.2"
+}

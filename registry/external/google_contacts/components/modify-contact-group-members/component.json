@@ -1,0 +1,7 @@
+{
+  "key": "google_contacts-modify-contact-group-members",
+  "name": "Modify Contact Group Members",
+  "description": "Adds contacts to or removes contacts from a contact group. [See the documentation](https://developers.google.com/people/api/rest/v1/contactGroups.members/modify)",
+  "type": "action",
+  "version": "0.0.2"
+}

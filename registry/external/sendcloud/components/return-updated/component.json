@@ -1,0 +1,7 @@
+{
+  "key": "sendcloud-return-updated",
+  "name": "Return Updated",
+  "description": "Emit new event each time a return is updated.",
+  "type": "source",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "airtop-create-session",
+  "name": "Create Session",
+  "description": "Create a new cloud browser session. [See the documentation](https://docs.airtop.ai/api-reference/airtop-api/sessions/create)",
+  "type": "action",
+  "version": "0.0.2"
+}

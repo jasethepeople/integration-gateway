@@ -1,0 +1,7 @@
+{
+  "key": "unthread-create-customer",
+  "name": "Create Customer",
+  "description": "Create a new Customer. [See the documentation](https://docs.unthread.io/api-introduction/using-api#create-customer)",
+  "type": "action",
+  "version": "0.0.3"
+}

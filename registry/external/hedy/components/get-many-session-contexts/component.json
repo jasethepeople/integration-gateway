@@ -1,0 +1,7 @@
+{
+  "key": "hedy-get-many-session-contexts",
+  "name": "Get Many Session Contexts",
+  "description": "Retrieves all reusable Hedy session contexts, including title, content, and which one is set as the default.",
+  "type": "action",
+  "version": "0.0.2"
+}

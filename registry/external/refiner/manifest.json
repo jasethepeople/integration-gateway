@@ -1,0 +1,31 @@
+{
+  "app": "refiner",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "segmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "refiner-identify-user",
+    "refiner-list-segment-id-options",
+    "refiner-list-user-id-options",
+    "refiner-track-event",
+    "refiner-new-segment-entry",
+    "refiner-new-survey-completion"
+  ]
+}

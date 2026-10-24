@@ -1,0 +1,7 @@
+{
+  "key": "accelo-list-affiliation-id-options",
+  "name": "List Affiliation ID Options",
+  "description": "Retrieves available options for the Affiliation ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

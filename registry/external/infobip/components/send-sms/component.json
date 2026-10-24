@@ -1,0 +1,7 @@
+{
+  "key": "infobip-send-sms",
+  "name": "Send SMS",
+  "description": "Sends an SMS message to a specified number. [See the documentation](https://www.infobip.com/docs/api)",
+  "type": "action",
+  "version": "0.0.3"
+}

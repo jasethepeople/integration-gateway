@@ -1,0 +1,7 @@
+{
+  "key": "ticket_source-get-event",
+  "name": "Get Event",
+  "description": "Retrieves details of a specific event. [See the documentation](https://reference.ticketsource.io/)",
+  "type": "action",
+  "version": "0.0.1"
+}

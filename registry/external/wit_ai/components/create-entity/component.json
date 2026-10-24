@@ -1,0 +1,7 @@
+{
+  "key": "wit_ai-create-entity",
+  "name": "Create Entity",
+  "description": "Creates a new entity with the given attributes. [See the documentation](https://wit.ai/docs/http/20240304/#post__entities_link)",
+  "type": "action",
+  "version": "0.0.2"
+}

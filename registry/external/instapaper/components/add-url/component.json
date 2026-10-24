@@ -1,0 +1,7 @@
+{
+  "key": "instapaper-add-url",
+  "name": "Add URL",
+  "description": "Adds a URL to an Instapaper account. [See the documentation](https://www.instapaper.com/api/simple)",
+  "type": "action",
+  "version": "0.1.3"
+}

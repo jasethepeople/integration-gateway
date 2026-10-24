@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-delete-dboattachment",
+  "name": "Delete Attachment",
+  "description": "Delete an attachment by UUID. [See the documentation](https://developer.servicem8.com/reference/deleteattachments)",
+  "type": "action",
+  "version": "0.0.1"
+}

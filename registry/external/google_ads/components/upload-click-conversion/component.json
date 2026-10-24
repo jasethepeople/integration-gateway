@@ -1,0 +1,7 @@
+{
+  "key": "google_ads-upload-click-conversion",
+  "name": "Upload Click Conversion",
+  "description": "The Google click ID from the ad click that led to this conversion. Provide this, **GBRAID**, or **WBRAID**.",
+  "type": "action",
+  "version": "0.0.4"
+}

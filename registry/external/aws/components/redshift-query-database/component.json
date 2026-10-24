@@ -1,0 +1,7 @@
+{
+  "key": "aws-redshift-query-database",
+  "name": "Redshift - Query Database",
+  "description": "Run a SELECT query on a database. [See the documentation](https://docs.aws.amazon.com/redshift/latest/APIReference/API_ExecuteStatement.html)",
+  "type": "action",
+  "version": "0.0.4"
+}

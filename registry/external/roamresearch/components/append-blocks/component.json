@@ -1,0 +1,7 @@
+{
+  "key": "roamresearch-append-blocks",
+  "name": "Append Blocks",
+  "description": "Generic append blocks for Roam Research pages. [See the documentation](https://roamresearch.com/#/app/developer-documentation/page/kjnAseQ-K).",
+  "type": "action",
+  "version": "0.0.2"
+}

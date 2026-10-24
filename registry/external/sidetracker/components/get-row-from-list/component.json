@@ -1,0 +1,7 @@
+{
+  "key": "sidetracker-get-row-from-list",
+  "name": "Get Row from List",
+  "description": "Get a row from a list. [See the documentation](https://app.sidetracker.io/api/schema/redoc#tag/Lists/operation/ListGetRow)",
+  "type": "action",
+  "version": "0.0.1"
+}

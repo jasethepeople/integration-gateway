@@ -1,0 +1,46 @@
+{
+  "app": "flexmail",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "language": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "source": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "interest": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "account_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "personal_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "flexmail-create-update-contact",
+    "flexmail-list-contact-id-options",
+    "flexmail-list-interest-options",
+    "flexmail-list-language-options",
+    "flexmail-list-source-options",
+    "flexmail-subscribe-contact-interest",
+    "flexmail-unsubscribe-contact",
+    "flexmail-new-contact-updated",
+    "flexmail-new-contact",
+    "flexmail-new-unsubscribe"
+  ],
+  "npmImports": [
+    "md5"
+  ]
+}

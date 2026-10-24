@@ -1,0 +1,7 @@
+{
+  "key": "kustomer-create-conversation",
+  "name": "Create Conversation",
+  "description": "Creates a new conversation in Kustomer. [See the documentation](https://developer.kustomer.com/kustomer-api-docs/reference/createaconversation)",
+  "type": "action",
+  "version": "0.0.3"
+}

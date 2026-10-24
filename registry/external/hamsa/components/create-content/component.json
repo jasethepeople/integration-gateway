@@ -1,0 +1,7 @@
+{
+  "key": "hamsa-create-content",
+  "name": "Create AI Content",
+  "description": "Transform transcribed content into various formats for content marketing. [See the documentation](https://docs.tryhamsa.com/api-reference/endpoint/post-ai-content)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,29 @@
+{
+  "app": "motive",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "driverId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "safetyCategory": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "driverCompanyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "motive-find-user-details",
+    "motive-list-driver-company-id-options",
+    "motive-new-hours-of-service-violation",
+    "motive-new-safety-event"
+  ]
+}

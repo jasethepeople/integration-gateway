@@ -1,0 +1,7 @@
+{
+  "key": "pipedream_utils-export-variables",
+  "name": "Helper Functions - Export Variables",
+  "description": "Export variables for use in your workflow",
+  "type": "action",
+  "version": "0.0.2"
+}

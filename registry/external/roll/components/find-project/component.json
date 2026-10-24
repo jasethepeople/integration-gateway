@@ -1,0 +1,7 @@
+{
+  "key": "roll-find-project",
+  "name": "Find Project",
+  "description": "Find a project [See the docs here](https://docs.rollhq.com/docs/roll-api#api-url)",
+  "type": "action",
+  "version": "0.0.2"
+}

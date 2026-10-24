@@ -1,0 +1,7 @@
+{
+  "key": "nuclino-new-item-or-collection-created",
+  "name": "New Item or Collection Created",
+  "description": "Emit new event when a new item or collection is created in Nuclino.",
+  "type": "source",
+  "version": "0.0.1"
+}

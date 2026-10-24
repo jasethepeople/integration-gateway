@@ -1,0 +1,7 @@
+{
+  "key": "pitchlane-create-campaign-video",
+  "name": "Create Campaign Video",
+  "description": "Creates a new video for a campaign. [See the documentation](https://docs.pitchlane.com/reference#tag/videos/POST/campaigns/{campaignId}/videos)",
+  "type": "action",
+  "version": "0.0.1"
+}

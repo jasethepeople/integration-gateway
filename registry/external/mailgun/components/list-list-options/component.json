@@ -1,0 +1,7 @@
+{
+  "key": "mailgun-list-list-options",
+  "name": "List Mailing List Options",
+  "description": "Retrieves available options for the Mailing List field.",
+  "type": "action",
+  "version": "0.0.1"
+}

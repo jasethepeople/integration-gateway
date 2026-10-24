@@ -1,0 +1,7 @@
+{
+  "key": "contactout-linkedin-profile-enrich",
+  "name": "Enrich LinkedIn Profile",
+  "description": "Get profile details for a LinkedIn profile using either a LinkedIn URL or email address. [See the documentation](https://api.contactout.com/#from-linkedin-url).",
+  "type": "action",
+  "version": "0.0.2"
+}

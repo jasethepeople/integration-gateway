@@ -1,0 +1,7 @@
+{
+  "key": "shopify_developer_app-new-cancelled-order",
+  "name": "New Cancelled Order (Instant)",
+  "description": "Emit new event each time a new order is cancelled.",
+  "type": "source",
+  "version": "0.0.21"
+}

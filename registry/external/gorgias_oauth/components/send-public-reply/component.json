@@ -1,0 +1,7 @@
+{
+  "key": "gorgias_oauth-send-public-reply",
+  "name": "Send Public Reply",
+  "description": "Post a customer-facing reply to a ticket on behalf of an agent. [See the documentation](https://developers.gorgias.com/reference/create-ticket-message)",
+  "type": "action",
+  "version": "0.1.0"
+}

@@ -1,0 +1,41 @@
+{
+  "app": "liveswitch",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "message": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "liveswitch-create-contact",
+    "liveswitch-create-conversation",
+    "liveswitch-list-contact-id-options",
+    "liveswitch-update-contact"
+  ]
+}

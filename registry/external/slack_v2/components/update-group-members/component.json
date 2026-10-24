@@ -1,0 +1,7 @@
+{
+  "key": "slack_v2-update-group-members",
+  "name": "Update Group Members",
+  "description": "Update the list of users for a User Group. [See the documentation](https://api.slack.com/methods/usergroups.users.update)",
+  "type": "action",
+  "version": "0.0.27"
+}

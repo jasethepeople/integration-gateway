@@ -1,0 +1,7 @@
+{
+  "key": "aws-dynamodb-update-table",
+  "name": "DynamoDB - Update Table",
+  "description": "The maximum number of strongly consistent reads consumed per second before DynamoDB returns a `ThrottlingException`",
+  "type": "action",
+  "version": "0.2.3"
+}

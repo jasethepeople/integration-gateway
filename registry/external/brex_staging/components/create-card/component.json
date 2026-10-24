@@ -1,0 +1,7 @@
+{
+  "key": "brex_staging-create-card",
+  "name": "Create Card",
+  "description": "Creates a new card. [See the docs here](https://developer.brex.com/openapi/team_api/#operation/createCard).",
+  "type": "action",
+  "version": "0.0.3"
+}

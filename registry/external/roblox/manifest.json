@@ -1,0 +1,76 @@
+{
+  "app": "roblox",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "universeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "placeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dataStoreId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "entryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "filter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "prefix": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "users": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "attributes": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "roblox-delete-data-store-entry",
+    "roblox-generate-user-thumbnail",
+    "roblox-get-data-store-entry",
+    "roblox-get-group",
+    "roblox-get-place",
+    "roblox-get-universe",
+    "roblox-get-user",
+    "roblox-increment-data-store-entry",
+    "roblox-list-data-store-entries",
+    "roblox-list-data-stores",
+    "roblox-list-group-memberships",
+    "roblox-list-group-roles",
+    "roblox-list-inventory-items",
+    "roblox-publish-message",
+    "roblox-restart-servers",
+    "roblox-send-user-notification",
+    "roblox-set-data-store-entry",
+    "roblox-update-place",
+    "roblox-update-universe"
+  ]
+}

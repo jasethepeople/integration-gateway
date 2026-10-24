@@ -1,0 +1,7 @@
+{
+  "key": "dext-new-client-added",
+  "name": "New Client Added",
+  "description": "Emit new event when a new client is added.",
+  "type": "source",
+  "version": "0.0.1"
+}

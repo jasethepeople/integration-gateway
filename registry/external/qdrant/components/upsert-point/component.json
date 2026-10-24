@@ -1,0 +1,7 @@
+{
+  "key": "qdrant-upsert-point",
+  "name": "Upsert Point",
+  "description": "Adds a point to the Qdrant collection.",
+  "type": "action",
+  "version": "0.0.2"
+}

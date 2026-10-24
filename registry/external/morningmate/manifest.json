@@ -1,0 +1,31 @@
+{
+  "app": "morningmate",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "botId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "morningmate-create-notification",
+    "morningmate-create-schedule",
+    "morningmate-create-task",
+    "morningmate-list-bot-id-options",
+    "morningmate-list-project-id-options",
+    "morningmate-list-user-id-options"
+  ]
+}

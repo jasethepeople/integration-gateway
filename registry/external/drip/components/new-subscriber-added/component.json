@@ -1,0 +1,7 @@
+{
+  "key": "drip-new-subscriber-added",
+  "name": "New Subscriber Added (Instant)",
+  "description": "Emit new event when a new subscriber is created",
+  "type": "source",
+  "version": "0.0.4"
+}

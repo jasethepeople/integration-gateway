@@ -1,0 +1,7 @@
+{
+  "key": "browse_ai-execute-task",
+  "name": "Execute Task",
+  "description": "Runs a robot on-demand with custom input parameters. [See the documentation](https://www.browse.ai/docs/api/v2#tag/tasks/operation/newRobotTask)",
+  "type": "action",
+  "version": "0.0.2"
+}

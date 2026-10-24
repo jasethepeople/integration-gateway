@@ -1,0 +1,7 @@
+{
+  "key": "selzy-new-campaign",
+  "name": "New Campaign Created",
+  "description": "Emit new event when a new email campaign is created. Useful for monitoring campaign creation activity.",
+  "type": "source",
+  "version": "0.0.1"
+}

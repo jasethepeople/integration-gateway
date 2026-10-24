@@ -1,0 +1,7 @@
+{
+  "key": "teamgate-find-lead",
+  "name": "Find Lead",
+  "description": "Find a lead [See the docs here](https://developers.teamgate.com/#1b80ca61-833a-472a-b127-e3b6d5e18902)",
+  "type": "action",
+  "version": "0.0.2"
+}

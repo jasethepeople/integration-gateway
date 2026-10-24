@@ -1,0 +1,7 @@
+{
+  "key": "elastic_security-list-tags",
+  "name": "List Tags",
+  "description": "List all unique tags currently in use across Elastic Security cases via GET /api/cases/tags, or detection rules via GET /api/detection_engine/tags.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "google_drive-download-file",
+  "name": "Download File",
+  "description": "Download one or more files from Google Drive to the `/tmp` directory or return their contents as buffers.",
+  "type": "action",
+  "version": "0.2.7"
+}

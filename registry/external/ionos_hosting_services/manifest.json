@@ -1,0 +1,33 @@
+{
+  "app": "ionos_hosting_services",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "zoneId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recordId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "public_prefix": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ionos_hosting_services-create-dns-records",
+    "ionos_hosting_services-delete-dns-record",
+    "ionos_hosting_services-get-dns-record",
+    "ionos_hosting_services-get-dns-zone",
+    "ionos_hosting_services-list-dns-zones",
+    "ionos_hosting_services-patch-dns-zone",
+    "ionos_hosting_services-update-dns-record",
+    "ionos_hosting_services-update-dns-zone"
+  ]
+}

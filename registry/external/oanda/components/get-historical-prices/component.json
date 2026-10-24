@@ -1,0 +1,7 @@
+{
+  "key": "oanda-get-historical-prices",
+  "name": "Get Historical Prices",
+  "description": "Retrieve historical price data for a specified currency pair or instrument within a given time range. [See the documentation](https://developer.oanda.com/rest-live-v20/pricing-ep/)",
+  "type": "action",
+  "version": "0.0.4"
+}

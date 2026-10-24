@@ -1,0 +1,7 @@
+{
+  "key": "godial-new-updated-contact",
+  "name": "New Updated Contact",
+  "description": "Emit new event on a contact is updated.",
+  "type": "source",
+  "version": "0.0.4"
+}

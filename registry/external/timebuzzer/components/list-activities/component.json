@@ -1,0 +1,7 @@
+{
+  "key": "timebuzzer-list-activities",
+  "name": "List Activities",
+  "description": "Retrieves a list of all activities in Timebuzzer. [See the documentation](https://my.timebuzzer.com/doc/#api-Activities-GetFilteredActivities)",
+  "type": "action",
+  "version": "0.0.3"
+}

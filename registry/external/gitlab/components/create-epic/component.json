@@ -1,0 +1,7 @@
+{
+  "key": "gitlab-create-epic",
+  "name": "Create Epic",
+  "description": "Creates a new epic. [See the documentation](https://docs.gitlab.com/ee/api/epics.html#new-epic)",
+  "type": "action",
+  "version": "0.0.6"
+}

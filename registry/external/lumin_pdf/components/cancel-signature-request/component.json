@@ -1,0 +1,7 @@
+{
+  "key": "lumin_pdf-cancel-signature-request",
+  "name": "Cancel Signature Request",
+  "description": "Cancel a signature request. [See the documentation](https://developers.luminpdf.com/api/cancel-signature-request/)",
+  "type": "action",
+  "version": "0.0.2"
+}

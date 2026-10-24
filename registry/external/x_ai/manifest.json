@@ -1,0 +1,94 @@
+{
+  "app": "x_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "model": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "embeddingModel": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "prompt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "message": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "echo": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "frequencyPenalty": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "logprobs": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "maxTokens": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "n": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "presencePenalty": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "seed": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "stream": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "suffix": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "temperature": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "topP": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "user": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dimensions": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "encodingFormat": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "input": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "x_ai-create-embeddings",
+    "x_ai-get-model",
+    "x_ai-list-embedding-model-options",
+    "x_ai-post-chat-completion",
+    "x_ai-post-completion"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "overloop-update-contact",
+  "name": "Update Contact",
+  "description": "Creates a new contact. [See the docs](https://apidoc.overloop.com/#update-a-contact)",
+  "type": "action",
+  "version": "0.0.2"
+}

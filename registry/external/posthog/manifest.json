@@ -1,0 +1,52 @@
+{
+  "app": "posthog",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "organizationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "event": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "insightId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "query": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "instance_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "posthog-capture-event",
+    "posthog-create-project-insight",
+    "posthog-create-query",
+    "posthog-get-cohorts",
+    "posthog-get-persons",
+    "posthog-get-project-insight",
+    "posthog-get-surveys",
+    "posthog-list-organization-id-options",
+    "posthog-list-project-insights",
+    "posthog-update-project-insight",
+    "posthog-new-action-performed"
+  ]
+}

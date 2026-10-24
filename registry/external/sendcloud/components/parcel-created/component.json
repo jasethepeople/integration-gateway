@@ -1,0 +1,7 @@
+{
+  "key": "sendcloud-parcel-created",
+  "name": "New Parcel Created",
+  "description": "Emit new event each time a parcel is created.",
+  "type": "source",
+  "version": "0.0.2"
+}

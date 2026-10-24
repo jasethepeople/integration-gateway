@@ -1,0 +1,7 @@
+{
+  "key": "typeflowai-new-response-finished",
+  "name": "New Response Finished (Instant)",
+  "description": "Emit new event when a response is marked as finished. [See the documentation](https://typeflowai.com/docs/api/management/webhooks)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "xquik-get-tweet",
+  "name": "Get Tweet",
+  "description": "Get a public X/Twitter post by ID with Xquik. [See the documentation](https://docs.xquik.com/api-reference/x/get-tweet)",
+  "type": "action",
+  "version": "0.0.2"
+}

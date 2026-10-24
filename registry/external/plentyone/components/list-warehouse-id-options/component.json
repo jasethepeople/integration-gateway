@@ -1,0 +1,7 @@
+{
+  "key": "plentyone-list-warehouse-id-options",
+  "name": "List Warehouse ID Options",
+  "description": "Retrieves available options for the Warehouse ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

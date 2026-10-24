@@ -1,0 +1,7 @@
+{
+  "key": "splynx-list-customers",
+  "name": "List Customers",
+  "description": "Get a list of your customers. [See the documentation](https://splynx.docs.apiary.io/#reference/customers/customers-collection/list-all-customers)",
+  "type": "action",
+  "version": "0.0.2"
+}

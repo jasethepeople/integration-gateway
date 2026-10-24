@@ -1,0 +1,7 @@
+{
+  "key": "rippling-new-worker-created",
+  "name": "New Worker Created",
+  "description": "Emit new event when a new worker is created in Rippling. [See the documentation](https://developer.rippling.com/documentation/rest-api/reference/list-workers)",
+  "type": "source",
+  "version": "0.0.1"
+}

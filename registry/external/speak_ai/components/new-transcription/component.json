@@ -1,0 +1,7 @@
+{
+  "key": "speak_ai-new-transcription",
+  "name": "New Automated Transcription (Instant)",
+  "description": "Emit new event when Speak AI finishes transcribing a media file (`media.analyzed`, `media.reanalyzed`). [See the documentation](https://docs.speakai.co/api/media/#get-media-transcript-media-id).",
+  "type": "source",
+  "version": "0.0.1"
+}

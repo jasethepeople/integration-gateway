@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-new-record-instant",
+  "name": "New Record (Instant, of Selectable Type)",
+  "description": "Emit new event when a record of the selected object type is created. [See the documentation](https://sforce.co/3yPSJZy)",
+  "type": "source",
+  "version": "0.2.13"
+}

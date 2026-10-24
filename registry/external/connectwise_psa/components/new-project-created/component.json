@@ -1,0 +1,7 @@
+{
+  "key": "connectwise_psa-new-project-created",
+  "name": "New Project Created",
+  "description": "Emit new event when a new project is created in Connectwise.",
+  "type": "source",
+  "version": "0.0.4"
+}

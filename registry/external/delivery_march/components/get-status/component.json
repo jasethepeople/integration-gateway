@@ -1,0 +1,7 @@
+{
+  "key": "delivery_march-get-status",
+  "name": "Get Status",
+  "description": "Return all status event details of a shipment. [See the documentation](https://engine.deliverymatch.eu/documentation#/operations/post-getStatus)",
+  "type": "action",
+  "version": "0.0.1"
+}

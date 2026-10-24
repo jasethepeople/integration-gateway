@@ -1,0 +1,7 @@
+{
+  "key": "harvest-create-invoice",
+  "name": "Create Invoice",
+  "description": "Create a new free-form invoice for a client. Provide Line Items as a JSON array to itemize the invoice. Example: call with clientId set to InGen Corp's client ID, subject=\"Consulting Services\", lineItems=`[{\"kind\":\"Service\",\"description\":\"Genetics consulting\",\"unit_price\":2000,\"quantity\":1}]`. [See the documentation](https://help.getharvest.com/api-v2/invoices-api/invoices/invoices/#create-a-free-form-invoice).",
+  "type": "action",
+  "version": "0.0.1"
+}

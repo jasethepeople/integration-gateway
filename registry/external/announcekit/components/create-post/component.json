@@ -1,0 +1,7 @@
+{
+  "key": "announcekit-create-post",
+  "name": "Create Post",
+  "description": "Create a new post in AnnounceKit. [See the documentation](https://announcekit.app/docs/graphql-api)",
+  "type": "action",
+  "version": "0.0.1"
+}

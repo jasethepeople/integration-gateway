@@ -1,0 +1,7 @@
+{
+  "key": "chatbotkit-create-conversation",
+  "name": "Create Conversation",
+  "description": "Creates a new conversation in the bot. [See the documentation](https://chatbotkit.com/docs/api/v1/spec)",
+  "type": "action",
+  "version": "0.0.2"
+}

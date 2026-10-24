@@ -1,0 +1,7 @@
+{
+  "key": "teamleader_focus-new-ticket-created",
+  "name": "New Ticket Created (Instant)",
+  "description": "Emit new event for each ticket created. [See the documentation](https://developer.focus.teamleader.eu/docs/api/webhooks-register)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "tapfiliate-list-program-id-options",
+  "name": "List Program ID Options",
+  "description": "Retrieves available options for the Program ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

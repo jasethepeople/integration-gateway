@@ -1,0 +1,38 @@
+{
+  "app": "ragic",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "tab": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sheet": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recordId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "record": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "database": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ragic-create-record",
+    "ragic-list-tab-options",
+    "ragic-update-record",
+    "ragic-record-created-instant",
+    "ragic-record-updated-instant"
+  ]
+}

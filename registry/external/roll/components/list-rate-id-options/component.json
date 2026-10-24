@@ -1,0 +1,7 @@
+{
+  "key": "roll-list-rate-id-options",
+  "name": "List Rate Id Options",
+  "description": "Retrieves available options for the Rate Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

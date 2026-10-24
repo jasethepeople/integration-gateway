@@ -1,0 +1,31 @@
+{
+  "app": "newscatcher",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "jobId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "pageSize": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "newscatcher-continue-job",
+    "newscatcher-create-job",
+    "newscatcher-get-job-results",
+    "newscatcher-list-job-id-options",
+    "newscatcher-list-jobs",
+    "newscatcher-new-job-record"
+  ]
+}

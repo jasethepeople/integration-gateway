@@ -1,0 +1,7 @@
+{
+  "key": "qualaroo-survey-created",
+  "name": "New Survey Created",
+  "description": "Emit new event when a survey is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

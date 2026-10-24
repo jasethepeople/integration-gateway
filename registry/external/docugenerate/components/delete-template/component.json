@@ -1,0 +1,7 @@
+{
+  "key": "docugenerate-delete-template",
+  "name": "Delete Template",
+  "description": "Deletes a specific template. [See the documentation](https://api.docugenerate.com/#/Template/deleteTemplate)",
+  "type": "action",
+  "version": "0.0.3"
+}

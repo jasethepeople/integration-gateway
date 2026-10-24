@@ -1,0 +1,34 @@
+{
+  "app": "whautomate",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactTags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "locationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "whautomate-assign-tags-contact",
+    "whautomate-create-contact",
+    "whautomate-list-contact-id-options",
+    "whautomate-list-contact-tags-options",
+    "whautomate-list-location-id-options",
+    "whautomate-send-whatsapp-template-message",
+    "whautomate-new-appointment-cancelled-instant",
+    "whautomate-new-appointment-scheduled-instant",
+    "whautomate-new-client-created-instant"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pdf_co-pdf-search-text",
+  "name": "Search Text in PDF",
+  "description": "Search text in PDF and get coordinates. Supports regular expressions. [See docs here](https://apidocs.pdf.co/07-pdf-search-text)",
+  "type": "action",
+  "version": "0.0.2"
+}

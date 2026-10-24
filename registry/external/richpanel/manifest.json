@@ -1,0 +1,44 @@
+{
+  "app": "richpanel",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "createId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "commentBody": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "commentSenderType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "conversationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "richpanel-add-ticket-message",
+    "richpanel-create-ticket",
+    "richpanel-list-conversation-id-options",
+    "richpanel-list-tags-options",
+    "richpanel-update-ticket-status",
+    "richpanel-new-message",
+    "richpanel-new-ticket"
+  ]
+}

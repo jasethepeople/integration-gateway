@@ -1,0 +1,7 @@
+{
+  "key": "sinch-new-fax-received",
+  "name": "New Fax Received (Instant)",
+  "description": "Emit new event when a new fax is received. [See the documentation](https://developers.sinch.com/docs/fax/api-reference/fax/tag/Services/#tag/Services/operation/createService)",
+  "type": "source",
+  "version": "0.0.1"
+}

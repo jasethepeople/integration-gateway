@@ -1,0 +1,7 @@
+{
+  "key": "dub-delete-link",
+  "name": "Delete Link",
+  "description": "Deletes a link. [See the documentation](https://dub.co/docs/api-reference/endpoint/delete-a-link)",
+  "type": "action",
+  "version": "0.0.5"
+}

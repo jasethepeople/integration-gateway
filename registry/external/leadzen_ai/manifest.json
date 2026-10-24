@@ -1,0 +1,19 @@
+{
+  "app": "leadzen_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "leadzen_ai-simple-search",
+    "leadzen_ai-unlock-email-details"
+  ]
+}

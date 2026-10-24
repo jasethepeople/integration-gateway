@@ -1,0 +1,7 @@
+{
+  "key": "maestra-upload-file",
+  "name": "Upload File",
+  "description": "Initiates a new file upload to Maestra. [See the documentation](https://maestra.ai/docs#uploadFile)",
+  "type": "action",
+  "version": "0.0.2"
+}

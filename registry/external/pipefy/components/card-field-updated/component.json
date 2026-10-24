@@ -1,0 +1,7 @@
+{
+  "key": "pipefy-card-field-updated",
+  "name": "Card Field Updated (Instant)",
+  "description": "Emits an event each time a card field is updated in a Pipe.",
+  "type": "source",
+  "version": "0.0.3"
+}

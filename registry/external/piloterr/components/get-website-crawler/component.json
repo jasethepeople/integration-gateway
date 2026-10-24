@@ -1,0 +1,7 @@
+{
+  "key": "piloterr-get-website-crawler",
+  "name": "Get Website Crawler",
+  "description": "Obtains HTML from a given website through web scraping for high performance access and interpretation. [See the documentation](https://docs.piloterr.com/v2/api-reference/website/crawler)",
+  "type": "action",
+  "version": "0.0.2"
+}

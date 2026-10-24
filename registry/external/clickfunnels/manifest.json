@@ -1,0 +1,43 @@
+{
+  "app": "clickfunnels",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "tagId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "teamId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workspaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "clickfunnels-apply-tag-contact",
+    "clickfunnels-remove-tag-contact",
+    "clickfunnels-update-create-contact",
+    "clickfunnels-new-contact-identified-instant",
+    "clickfunnels-new-one-time-order-paid-instant",
+    "clickfunnels-new-subscription-invoice-paid-instant"
+  ]
+}

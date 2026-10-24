@@ -1,0 +1,7 @@
+{
+  "key": "cloudflare_browser_rendering-scrape",
+  "name": "Scrape",
+  "description": "Get meta attributes like height, width, text and others of selected elements. [See the documentation](https://developers.cloudflare.com/api/resources/browser_rendering/subresources/scrape/methods/create/)",
+  "type": "action",
+  "version": "0.0.3"
+}

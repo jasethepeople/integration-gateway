@@ -1,0 +1,7 @@
+{
+  "key": "dribbble-new-shot-created",
+  "name": "New Shot Created",
+  "description": "Emit new events when new shots are created",
+  "type": "source",
+  "version": "0.0.1"
+}

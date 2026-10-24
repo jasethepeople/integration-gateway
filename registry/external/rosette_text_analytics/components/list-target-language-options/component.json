@@ -1,0 +1,7 @@
+{
+  "key": "rosette_text_analytics-list-target-language-options",
+  "name": "List Target Language Options",
+  "description": "Retrieves available options for the Target Language field.",
+  "type": "action",
+  "version": "0.0.1"
+}

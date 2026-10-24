@@ -1,0 +1,7 @@
+{
+  "key": "certifier-create-group",
+  "name": "Create Group",
+  "description": "Create a group. [See the documentation](https://developers.certifier.io/reference/create-a-group)",
+  "type": "action",
+  "version": "0.0.2"
+}

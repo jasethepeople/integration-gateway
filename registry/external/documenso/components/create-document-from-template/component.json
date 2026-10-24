@@ -1,0 +1,7 @@
+{
+  "key": "documenso-create-document-from-template",
+  "name": "Create Document From Template",
+  "description": "Create a new document in Documenso from a pre-existing template. [See the documentation](https://app.documenso.com/api/v1/openapi)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "laposta-update-relation",
+  "name": "Update Relation",
+  "description": "Updates a relation. [See docs here (Go to `Change relationship`)](http://api.laposta.nl/doc/)",
+  "type": "action",
+  "version": "0.0.2"
+}

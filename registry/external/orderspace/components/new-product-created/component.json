@@ -1,0 +1,7 @@
+{
+  "key": "orderspace-new-product-created",
+  "name": "New Product Created (Instant)",
+  "description": "Emit new event when a product is created",
+  "type": "source",
+  "version": "0.0.1"
+}

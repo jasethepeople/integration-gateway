@@ -1,0 +1,7 @@
+{
+  "key": "supabase-new-row-added",
+  "name": "New Row Added",
+  "description": "Emit new event for every new row added in a table. [See documentation here](https://supabase.com/docs/reference/javascript/select)",
+  "type": "source",
+  "version": "0.0.7"
+}

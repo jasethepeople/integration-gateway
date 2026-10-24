@@ -1,0 +1,7 @@
+{
+  "key": "postalytics-new-campaign-event-instant",
+  "name": "New Campaign Event (Instant)",
+  "description": "Emit new event when a new campaign event occurs.",
+  "type": "source",
+  "version": "0.0.1"
+}

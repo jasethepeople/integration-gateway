@@ -1,0 +1,41 @@
+{
+  "app": "egnyte",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "filename": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "folderPath": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "egnyte-create-folder",
+    "egnyte-download-file",
+    "egnyte-list-documents",
+    "egnyte-list-folders",
+    "egnyte-search",
+    "egnyte-upload-file",
+    "egnyte-new-file-in-folder",
+    "egnyte-new-folder-added"
+  ],
+  "npmImports": [
+    "bottleneck",
+    "file-type",
+    "form-data",
+    "fs",
+    "path",
+    "stream"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "ninjaone-list-ticket-form-id-options",
+  "name": "List Ticket Form ID Options",
+  "description": "Retrieves available options for the Ticket Form ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

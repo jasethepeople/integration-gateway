@@ -1,0 +1,7 @@
+{
+  "key": "attio-new-note-instant",
+  "name": "New Note (Instant)",
+  "description": "Emit new event when a new note is created.",
+  "type": "source",
+  "version": "0.0.5"
+}

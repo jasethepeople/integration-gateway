@@ -1,0 +1,7 @@
+{
+  "key": "reddit-search-post",
+  "name": "Search Post",
+  "description": "Search posts by title. [See the docs here](https://www.reddit.com/dev/api/#GET_search)",
+  "type": "action",
+  "version": "0.1.4"
+}

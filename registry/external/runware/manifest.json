@@ -1,0 +1,50 @@
+{
+  "app": "runware",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "taskType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "outputType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "outputFormat": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "includeCost": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "height": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "width": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "inputImage": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "runware-image-background-removal",
+    "runware-image-caption",
+    "runware-image-control-net-preprocess",
+    "runware-image-inference",
+    "runware-image-upscale",
+    "runware-prompt-enhance"
+  ],
+  "npmImports": [
+    "uuid"
+  ]
+}

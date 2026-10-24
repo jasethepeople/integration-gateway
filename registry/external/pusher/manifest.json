@@ -1,0 +1,12 @@
+{
+  "app": "pusher",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "pusher-send-event-to-channel"
+  ],
+  "npmImports": [
+    "pusher"
+  ]
+}

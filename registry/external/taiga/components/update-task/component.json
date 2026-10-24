@@ -1,0 +1,7 @@
+{
+  "key": "taiga-update-task",
+  "name": "Update Task",
+  "description": "Update an existing task in a Taiga project. [See the documentation](https://docs.taiga.io/api.html#tasks-edit)",
+  "type": "action",
+  "version": "0.0.2"
+}

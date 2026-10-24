@@ -1,0 +1,7 @@
+{
+  "key": "sevdesk-list-tax-set-id-options",
+  "name": "List Tax Set Id Options",
+  "description": "Retrieves available options for the Tax Set Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

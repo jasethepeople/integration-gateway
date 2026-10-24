@@ -1,0 +1,7 @@
+{
+  "key": "dotsimple-new-file-uploaded",
+  "name": "New File Uploaded",
+  "description": "Emit new event when a new file is uploaded. [See the documentation](https://help.dotsimple.io/en/articles/67-media-files).",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,14 @@
+{
+  "app": "ip2proxy",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ip2proxy-query-ip-info"
+  ]
+}

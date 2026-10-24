@@ -1,0 +1,7 @@
+{
+  "key": "getaccept-create-contact",
+  "name": "Create Contact",
+  "description": "Create a new contact in the database for the current entity [See the documentation](https://app.getaccept.com/api/#createcontact)",
+  "type": "action",
+  "version": "0.0.2"
+}

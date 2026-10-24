@@ -1,0 +1,7 @@
+{
+  "key": "lusha-list-revenues-options",
+  "name": "List Company Revenues Options",
+  "description": "Retrieves available options for the Company Revenues field.",
+  "type": "action",
+  "version": "0.0.1"
+}

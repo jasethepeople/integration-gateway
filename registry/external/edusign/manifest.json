@@ -1,0 +1,45 @@
+{
+  "app": "edusign",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "courseId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "studentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "professorId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "classroomId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "edusign-add-student-to-course",
+    "edusign-create-course",
+    "edusign-create-group",
+    "edusign-create-student",
+    "edusign-list-classroom-id-options",
+    "edusign-list-course-id-options",
+    "edusign-list-group-id-options",
+    "edusign-list-professor-id-options",
+    "edusign-list-student-id-options",
+    "edusign-new-document-created",
+    "edusign-new-group-created",
+    "edusign-new-student-created"
+  ]
+}

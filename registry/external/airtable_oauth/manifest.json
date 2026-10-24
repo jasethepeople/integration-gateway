@@ -1,0 +1,107 @@
+{
+  "app": "airtable_oauth",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "baseId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tableId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "viewId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sortFieldId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fieldName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recordId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "commentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "returnFieldsByFieldId": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "sortDirection": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxRecords": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "filterByFormula": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "records": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "typecast": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "record": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "customExpressionInfo": {
+      "kind": "propDefinition",
+      "type": "alert"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "airtable_oauth-create-comment",
+    "airtable_oauth-create-field",
+    "airtable_oauth-create-multiple-records",
+    "airtable_oauth-create-or-update-record",
+    "airtable_oauth-create-single-record",
+    "airtable_oauth-create-table",
+    "airtable_oauth-delete-record",
+    "airtable_oauth-get-record-or-create",
+    "airtable_oauth-get-record",
+    "airtable_oauth-list-bases",
+    "airtable_oauth-list-comments",
+    "airtable_oauth-list-records-in-view",
+    "airtable_oauth-list-records",
+    "airtable_oauth-list-tables",
+    "airtable_oauth-search-records",
+    "airtable_oauth-update-comment",
+    "airtable_oauth-update-field",
+    "airtable_oauth-update-record",
+    "airtable_oauth-update-table",
+    "airtable_oauth-new-field",
+    "airtable_oauth-new-modified-or-deleted-records-instant",
+    "airtable_oauth-new-modified-or-deleted-records",
+    "airtable_oauth-new-or-modified-field",
+    "airtable_oauth-new-or-modified-records-in-view",
+    "airtable_oauth-new-or-modified-records",
+    "airtable_oauth-new-records-in-view",
+    "airtable_oauth-new-records"
+  ],
+  "npmImports": [
+    "airtable",
+    "bottleneck",
+    "lodash.chunk",
+    "lodash.isempty",
+    "moment"
+  ]
+}

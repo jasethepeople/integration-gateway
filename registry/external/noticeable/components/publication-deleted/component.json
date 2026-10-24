@@ -1,0 +1,7 @@
+{
+  "key": "noticeable-publication-deleted",
+  "name": "New Publication Deleted Event",
+  "description": "Emit new events when a new publication deleted. [See the docs](https://graphdoc.noticeable.io/publication.doc.html)",
+  "type": "source",
+  "version": "0.0.1"
+}

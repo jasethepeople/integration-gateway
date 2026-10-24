@@ -1,0 +1,7 @@
+{
+  "key": "team_sms-new-sms-received",
+  "name": "New SMS Received",
+  "description": "Emit new event for each new SMS received. [See the documentation](https://teamsms.io/api-doc)",
+  "type": "source",
+  "version": "0.0.1"
+}

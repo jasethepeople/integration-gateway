@@ -1,0 +1,7 @@
+{
+  "key": "bitport-list-folder-code-options",
+  "name": "List Folder Code Options",
+  "description": "Retrieves available options for the Folder Code field.",
+  "type": "action",
+  "version": "0.0.1"
+}

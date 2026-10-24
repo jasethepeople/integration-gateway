@@ -1,0 +1,83 @@
+{
+  "app": "confluence",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "postId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "spaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "body": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "parentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pageSort": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pageStatus": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pageTitle": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "bodyFormat": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cursor": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "confluence-create-page",
+    "confluence-create-post",
+    "confluence-delete-post",
+    "confluence-get-current-user",
+    "confluence-get-page-by-id",
+    "confluence-get-pages-in-space",
+    "confluence-get-pages",
+    "confluence-list-post-id-options",
+    "confluence-list-spaces",
+    "confluence-search-content",
+    "confluence-update-post",
+    "confluence-new-page-or-blog-post",
+    "confluence-watch-blog-posts",
+    "confluence-watch-pages"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "orderspace-new-customer-created",
+  "name": "New Customer Created (Instant)",
+  "description": "Emit new event when a customer is created",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "proofly-new-notification-data-created",
+  "name": "New Notification Data Created",
+  "description": "Emit new event when notification data is received. [See the documentation](https://proofly.io/developers)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "snowflake-new-database",
+  "name": "New Database",
+  "description": "Emit new event when a database is created",
+  "type": "source",
+  "version": "0.1.5"
+}

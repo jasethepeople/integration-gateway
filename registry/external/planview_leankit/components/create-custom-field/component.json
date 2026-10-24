@@ -1,0 +1,7 @@
+{
+  "key": "planview_leankit-create-custom-field",
+  "name": "Create Custom Field",
+  "description": "Create a new custom field. [See the docs here](https://success.planview.com/Planview_AgilePlace/AgilePlace_API/01_v2/custom-field)",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pagerduty-list-escalation-policy-id-options",
+  "name": "List Escalation Policy ID Options",
+  "description": "Retrieves available options for the Escalation Policy ID field.",
+  "type": "action",
+  "version": "0.0.2"
+}

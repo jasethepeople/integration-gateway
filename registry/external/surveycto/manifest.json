@@ -1,0 +1,30 @@
+{
+  "app": "surveycto",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "formId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "servername": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "email": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "password": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "surveycto-list-form-id-options",
+    "surveycto-new-submission"
+  ],
+  "npmImports": [
+    "xml-js"
+  ]
+}

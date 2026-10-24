@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-create-company",
+  "name": "Create Company",
+  "description": "Create a company (client). [See the documentation](https://developer.servicem8.com/reference/createclients)",
+  "type": "action",
+  "version": "0.0.1"
+}

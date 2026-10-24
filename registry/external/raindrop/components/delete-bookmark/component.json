@@ -1,0 +1,7 @@
+{
+  "key": "raindrop-delete-bookmark",
+  "name": "Delete Bookmark",
+  "description": "Delete a bookmark. [See the docs here](https://developer.raindrop.io/v1/raindrops/single#remove-raindrop)",
+  "type": "action",
+  "version": "0.0.6"
+}

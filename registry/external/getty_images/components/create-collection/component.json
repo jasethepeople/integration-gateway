@@ -1,0 +1,7 @@
+{
+  "key": "getty_images-create-collection",
+  "name": "Create Collection",
+  "description": "Create a new image collection (board) in Getty Images. Provide a name and an optional description. Returns the created collection's ID and metadata. [See the documentation](https://developers.gettyimages.com/docs/)",
+  "type": "action",
+  "version": "0.0.1"
+}

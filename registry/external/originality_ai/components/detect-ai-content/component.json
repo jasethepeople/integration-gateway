@@ -1,0 +1,7 @@
+{
+  "key": "originality_ai-detect-ai-content",
+  "name": "Detect AI Content",
+  "description": "Scans a string for AI content. [See the documentation](https://docs.originality.ai/api-v1-0-reference/scan/ai-scan)",
+  "type": "action",
+  "version": "0.0.2"
+}

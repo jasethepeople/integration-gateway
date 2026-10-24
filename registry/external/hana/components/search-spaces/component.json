@@ -1,0 +1,7 @@
+{
+  "key": "hana-search-spaces",
+  "name": "Search Spaces",
+  "description": "Get the Google Chat spaces Hana is integrated in. [See the documentation](https://docs.hanabot.ai/docs/tutorial-connectors/hana-api#get-spaces-hana-is-integrated-in)",
+  "type": "action",
+  "version": "0.0.1"
+}

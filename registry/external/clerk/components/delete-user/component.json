@@ -1,0 +1,7 @@
+{
+  "key": "clerk-delete-user",
+  "name": "Delete User",
+  "description": "Delete the specified user. [See the documentation](https://clerk.com/docs/reference/backend-api/tag/Users#operation/DeleteUser)",
+  "type": "action",
+  "version": "0.0.2"
+}

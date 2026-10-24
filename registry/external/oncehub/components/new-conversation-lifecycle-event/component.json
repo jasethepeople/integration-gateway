@@ -1,0 +1,7 @@
+{
+  "key": "oncehub-new-conversation-lifecycle-event",
+  "name": "New Conversation Lifecycle Event (Instant)",
+  "description": "Emit new event when the status of a conversation is changed. [See the docs](https://developers.oncehub.com/reference/create-a-webhook)",
+  "type": "source",
+  "version": "0.0.1"
+}

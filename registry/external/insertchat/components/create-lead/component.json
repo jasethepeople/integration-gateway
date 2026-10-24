@@ -1,0 +1,7 @@
+{
+  "key": "insertchat-create-lead",
+  "name": "Create Lead",
+  "description": "Creates a new lead within Insertchat. [See the documentation](https://www.postman.com/gold-star-239225/insertchat/request/uiugp1c/create-a-lead)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "filestack-upload-image",
+  "name": "Upload Image",
+  "description": "Upload an image from a file or URL to FileStack. [See the documentation](https://www.filestack.com/docs/uploads/uploading/#upload-file)",
+  "type": "action",
+  "version": "1.0.3"
+}

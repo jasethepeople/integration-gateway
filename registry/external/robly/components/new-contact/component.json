@@ -1,0 +1,7 @@
+{
+  "key": "robly-new-contact",
+  "name": "New Contact",
+  "description": "Emit new event when a new contact is created. [See the documentation](https://docs.robly.com/docs/api-v1/9d6711cb3dc75-get-contacts)",
+  "type": "source",
+  "version": "0.0.1"
+}

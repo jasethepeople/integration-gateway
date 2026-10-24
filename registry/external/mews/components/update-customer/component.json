@@ -1,0 +1,7 @@
+{
+  "key": "mews-update-customer",
+  "name": "Update Customer",
+  "description": "Update an existing customer in Mews. [See the documentation](https://mews-systems.gitbook.io/connector-api/operations/customers#update-customer)",
+  "type": "action",
+  "version": "0.0.3"
+}

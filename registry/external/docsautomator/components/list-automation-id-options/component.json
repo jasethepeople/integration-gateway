@@ -1,0 +1,7 @@
+{
+  "key": "docsautomator-list-automation-id-options",
+  "name": "List Automation ID Options",
+  "description": "Retrieves available options for the Automation ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

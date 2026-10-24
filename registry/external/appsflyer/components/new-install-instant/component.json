@@ -1,0 +1,7 @@
+{
+  "key": "appsflyer-new-install-instant",
+  "name": "New Install (Instant)",
+  "description": "Emit new event when a user installs an app tracked by AppsFlyer. [See docs here](https://dev.appsflyer.com/hc/reference/push-api-v2)",
+  "type": "source",
+  "version": "0.0.1"
+}

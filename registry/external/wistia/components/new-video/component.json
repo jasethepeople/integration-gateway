@@ -1,0 +1,7 @@
+{
+  "key": "wistia-new-video",
+  "name": "New Video",
+  "description": "Emit new event for each created video.",
+  "type": "source",
+  "version": "0.0.3"
+}

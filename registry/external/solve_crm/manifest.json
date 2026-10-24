@@ -1,0 +1,27 @@
+{
+  "app": "solve_crm",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "category": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "solve_crm-create-contact",
+    "solve_crm-list-category-options",
+    "solve_crm-new-company-created",
+    "solve_crm-new-contact-created",
+    "solve_crm-new-contact-tagged",
+    "solve_crm-new-user-created"
+  ]
+}

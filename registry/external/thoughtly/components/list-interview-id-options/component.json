@@ -1,0 +1,7 @@
+{
+  "key": "thoughtly-list-interview-id-options",
+  "name": "List Interview ID Options",
+  "description": "Retrieves available options for the Interview ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

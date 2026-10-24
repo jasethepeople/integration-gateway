@@ -1,0 +1,7 @@
+{
+  "key": "riskadvisor-create-client",
+  "name": "Create Client",
+  "description": "Create a new client in RiskAdvisor. [See the documentation](https://api.riskadvisor.insure/clients#create-a-client)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "kanban_tool-new-comment",
+  "name": "New Comment Created Event",
+  "description": "Emit new events when a new comment is created on selected board. [See the docs](https://kanbantool.com/developer/api-v3#listing-boards-changelogs)",
+  "type": "source",
+  "version": "0.0.1"
+}

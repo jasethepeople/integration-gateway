@@ -1,0 +1,7 @@
+{
+  "key": "writer-list-knowledge-graphs",
+  "name": "List Knowledge Graphs",
+  "description": "List the Knowledge Graphs in your Writer workspace. Knowledge Graphs are the retrieval (RAG) sources you can query. ",
+  "type": "action",
+  "version": "0.0.2"
+}

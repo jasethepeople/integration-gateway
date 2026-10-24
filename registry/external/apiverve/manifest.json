@@ -1,0 +1,27 @@
+{
+  "app": "apiverve",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "domain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "apiverve-dns-lookup",
+    "apiverve-get-dictionary-definition",
+    "apiverve-get-weather",
+    "apiverve-ip-blacklist-lookup",
+    "apiverve-moon-phases",
+    "apiverve-number-to-words",
+    "apiverve-phone-number-validator",
+    "apiverve-routing-number-lookup",
+    "apiverve-street-address-parser",
+    "apiverve-whois-lookup"
+  ]
+}

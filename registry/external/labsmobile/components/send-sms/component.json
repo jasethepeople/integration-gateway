@@ -1,0 +1,7 @@
+{
+  "key": "labsmobile-send-sms",
+  "name": "Send SMS",
+  "description": "Sends a new SMS message. [See the documentation](https://apidocs.labsmobile.com/)",
+  "type": "action",
+  "version": "0.0.3"
+}

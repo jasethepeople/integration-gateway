@@ -1,0 +1,7 @@
+{
+  "key": "nango-list-provider-config-key-options",
+  "name": "List Provider Config Key Options",
+  "description": "Retrieves available options for the Provider Config Key field.",
+  "type": "action",
+  "version": "0.0.1"
+}

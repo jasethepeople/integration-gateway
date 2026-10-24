@@ -1,0 +1,7 @@
+{
+  "key": "mautic-new-contact",
+  "name": "New Contact",
+  "description": "Emit new event when a contact is created. [See the docs](https://developer.mautic.org/#webhooks)",
+  "type": "source",
+  "version": "0.0.1"
+}

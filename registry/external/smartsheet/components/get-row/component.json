@@ -1,0 +1,7 @@
+{
+  "key": "smartsheet-get-row",
+  "name": "Get Row",
+  "description": "Retrieve a single row from a sheet by row ID, with cell values keyed by column name instead of column ID.",
+  "type": "action",
+  "version": "0.1.2"
+}

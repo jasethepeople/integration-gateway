@@ -1,0 +1,7 @@
+{
+  "key": "callrail-phone-call-completed-instant",
+  "name": "Phone Call Completed (Instant)",
+  "description": "Emit new event when an inbound phone call has completed and its recording and transcription have completed and attached. It contains the full data about the call.",
+  "type": "source",
+  "version": "0.0.1"
+}

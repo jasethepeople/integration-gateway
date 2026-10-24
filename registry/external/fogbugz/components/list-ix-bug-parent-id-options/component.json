@@ -1,0 +1,7 @@
+{
+  "key": "fogbugz-list-ix-bug-parent-id-options",
+  "name": "List Ix Bug Parent Id Options",
+  "description": "Retrieves available options for the Ix Bug Parent Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

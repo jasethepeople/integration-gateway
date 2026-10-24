@@ -1,0 +1,7 @@
+{
+  "key": "emaillistverify-find-email",
+  "name": "Find Email",
+  "description": "Generate a series of potential email addresses by synthesizing first names, last names, and company domains. [See the documentation](https://emaillistverify.com/docs/#tag/Email-Validation-API/operation/find-contact)",
+  "type": "action",
+  "version": "0.0.2"
+}

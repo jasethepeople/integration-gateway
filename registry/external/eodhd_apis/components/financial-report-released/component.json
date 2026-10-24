@@ -1,0 +1,7 @@
+{
+  "key": "eodhd_apis-financial-report-released",
+  "name": "New Financial Report Released",
+  "description": "Emit new event when historical stock prices for a specific symbol are updated.",
+  "type": "source",
+  "version": "0.0.1"
+}

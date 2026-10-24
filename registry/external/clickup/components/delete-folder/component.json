@@ -1,0 +1,7 @@
+{
+  "key": "clickup-delete-folder",
+  "name": "Delete Folder",
+  "description": "Delete a folder. [See the documentation](https://clickup.com/api) in **Folders / Delete Folder** section.",
+  "type": "action",
+  "version": "0.0.12"
+}

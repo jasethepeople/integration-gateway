@@ -1,0 +1,7 @@
+{
+  "key": "trello-find-labels",
+  "name": "Find a Label",
+  "description": "Finds a label on a specific board by name. [See the documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-boards/#api-boards-id-labels-get)",
+  "type": "action",
+  "version": "0.2.7"
+}

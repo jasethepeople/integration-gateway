@@ -1,0 +1,24 @@
+{
+  "app": "zest",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zest-send-gift",
+    "zest-new-gift-accepted-instant",
+    "zest-new-gift-delivered-instant",
+    "zest-new-gift-response-received-instant"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "clockify-list-time-entries",
+  "name": "List Time Entries",
+  "description": "List all time entries in a Clockify workspace. [See the documentation](https://docs.clockify.me/#tag/Time-entry/operation/getTimeEntries)",
+  "type": "action",
+  "version": "0.0.3"
+}

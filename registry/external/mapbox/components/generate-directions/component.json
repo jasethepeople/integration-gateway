@@ -1,0 +1,7 @@
+{
+  "key": "mapbox-generate-directions",
+  "name": "Generate Directions",
+  "description": "Generates directions between two or more locations using Mapbox API. [See the documentation](https://docs.mapbox.com/api/navigation/directions/).",
+  "type": "action",
+  "version": "0.0.3"
+}

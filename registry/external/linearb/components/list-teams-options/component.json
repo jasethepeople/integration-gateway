@@ -1,0 +1,7 @@
+{
+  "key": "linearb-list-teams-options",
+  "name": "List Teams Options",
+  "description": "Retrieves available options for the Teams field.",
+  "type": "action",
+  "version": "0.0.1"
+}

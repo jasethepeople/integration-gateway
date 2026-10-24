@@ -1,0 +1,7 @@
+{
+  "key": "mailwizz-update-subscriber",
+  "name": "Updaste Subscriber",
+  "description": "Update a specific subscriber. [See the docs here](https://api-docs.mailwizz.com/?python#update-a-subscriber)",
+  "type": "action",
+  "version": "0.0.2"
+}

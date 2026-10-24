@@ -1,0 +1,7 @@
+{
+  "key": "okta-watch-new-events",
+  "name": "New Okta Event",
+  "description": "Emit new event when the system observes a new event.",
+  "type": "source",
+  "version": "0.0.1"
+}

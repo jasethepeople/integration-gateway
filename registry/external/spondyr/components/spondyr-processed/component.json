@@ -1,0 +1,7 @@
+{
+  "key": "spondyr-spondyr-processed",
+  "name": "New Spondyr Processed",
+  "description": "Emit new event when a spondyr is processed. [See docs here](https://client.spondyr.io/#/Public/Public/Documentation?Section=status-api)",
+  "type": "source",
+  "version": "0.0.2"
+}

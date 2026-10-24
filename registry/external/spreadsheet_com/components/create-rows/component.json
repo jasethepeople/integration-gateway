@@ -1,0 +1,7 @@
+{
+  "key": "spreadsheet_com-create-rows",
+  "name": "Create Rows",
+  "description": "Adds new row(s) after last row that has data. Empty data sets are ignored. Provide data for at least 1 column. [See the documentation](https://developer.spreadsheet.com/#tag/Rows/operation/createRows)",
+  "type": "action",
+  "version": "0.0.3"
+}

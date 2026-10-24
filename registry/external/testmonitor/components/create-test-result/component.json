@@ -1,0 +1,7 @@
+{
+  "key": "testmonitor-create-test-result",
+  "name": "Create Test Result",
+  "description": "Create a new test result. [See the documentation](https://docs.testmonitor.com/#tag/Test-Results/operation/PostTestResult)",
+  "type": "action",
+  "version": "0.0.5"
+}

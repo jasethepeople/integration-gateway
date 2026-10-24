@@ -1,0 +1,7 @@
+{
+  "key": "gotowebinar-webinar-created",
+  "name": "New Webinar Created (Instant)",
+  "description": "Emit new event when a webinar is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "yespo-list-segment-id-options",
+  "name": "List Segment Id Options",
+  "description": "Retrieves available options for the Segment Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

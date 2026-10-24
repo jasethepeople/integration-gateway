@@ -1,0 +1,7 @@
+{
+  "key": "widgetform-new-submission-instant",
+  "name": "New Form Submission (Instant)",
+  "description": "Emit new event when a form submission is received. [See the documentation](https://usewidgetform.notion.site/Zapier-API-185312164ccf808eb902f411608aa35d)",
+  "type": "source",
+  "version": "0.0.1"
+}

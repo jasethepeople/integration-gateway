@@ -1,0 +1,7 @@
+{
+  "key": "mindbody-get-client-details",
+  "name": "Get Client Details",
+  "description": "Returns the complete profile for a client (member), including contact info, active memberships, purchased services, account balance, and visit history.",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,154 @@
+{
+  "app": "visualping",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "active": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "adCampaign": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "advancedScheduleActive": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "business": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "contentType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "disableJS": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "enableEmailAlert": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "enableSmsAlert": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "fixedProxyAlias": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "interval": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "locale": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "multicheckEnabled": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "origin": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "organisationId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "pageHeight": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "preactionsActive": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "preactionsObjects": {
+      "kind": "propDefinition",
+      "type": "any"
+    },
+    "proxyId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "renderer": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "siteReferer": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "targetDevice": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "trigger": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "useDiscordNotification": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "useSlackAppNotification": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "useSlackNotification": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "useTeamsNotification": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "useWebhookNotification": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "waitTime": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "xpath": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "visualping-create-job",
+    "visualping-delete-job",
+    "visualping-find-jobs",
+    "visualping-get-job",
+    "visualping-list-workspace-id-options",
+    "visualping-update-job",
+    "visualping-new-alert-received",
+    "visualping-new-job-created",
+    "visualping-new-job-event"
+  ]
+}

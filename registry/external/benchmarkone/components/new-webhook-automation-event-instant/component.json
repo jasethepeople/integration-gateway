@@ -1,0 +1,7 @@
+{
+  "key": "benchmarkone-new-webhook-automation-event-instant",
+  "name": "New Webhook Automation Event (Instant)",
+  "description": "Emit new event when a webhook automation step is triggered in BenchmarkONE.",
+  "type": "source",
+  "version": "0.0.1"
+}

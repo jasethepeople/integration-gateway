@@ -1,0 +1,31 @@
+{
+  "app": "cardly",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "listId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "artId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "cardly-create-contact",
+    "cardly-generate-preview",
+    "cardly-list-art-id-options",
+    "cardly-list-list-id-options",
+    "cardly-list-template-id-options",
+    "cardly-send-card"
+  ]
+}

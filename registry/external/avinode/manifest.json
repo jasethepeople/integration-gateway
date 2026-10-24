@@ -1,0 +1,35 @@
+{
+  "app": "avinode",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "airportId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "base_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "product_name": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "act_as_account": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "avinode-create-trip",
+    "avinode-get-airport"
+  ]
+}

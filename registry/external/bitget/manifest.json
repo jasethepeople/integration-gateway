@@ -1,0 +1,122 @@
+{
+  "app": "bitget",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "coin": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "symbol": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ticker": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "precision": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "granularity": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "kLineParticleSize": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tradeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tpslType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "requestTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "receiveWindow": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "clientOid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "batchMode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productType": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "bitget-future-market-get-all-symbols-contracts",
+    "bitget-future-market-get-candle-data",
+    "bitget-future-market-get-contracts-oi",
+    "bitget-future-market-get-current-funding-rate",
+    "bitget-future-market-get-discount-rate",
+    "bitget-future-market-get-exchange-rate",
+    "bitget-future-market-get-fills-history",
+    "bitget-future-market-get-history-candle-data",
+    "bitget-future-market-get-history-funding-rate",
+    "bitget-future-market-get-history-index-candle-data",
+    "bitget-future-market-get-history-mark-candle-data",
+    "bitget-future-market-get-interest-rate",
+    "bitget-future-market-get-merge-depth",
+    "bitget-future-market-get-open-interest",
+    "bitget-future-market-get-recent-fills",
+    "bitget-future-market-get-symbol-next-funding-time",
+    "bitget-future-market-get-symbol-price",
+    "bitget-future-market-get-ticker",
+    "bitget-future-market-get-tickers",
+    "bitget-future-market-get-vip-fee-rate",
+    "bitget-spot-market-get-auction",
+    "bitget-spot-market-get-candle-data",
+    "bitget-spot-market-get-coin-list",
+    "bitget-spot-market-get-history-candle-data",
+    "bitget-spot-market-get-market-trades",
+    "bitget-spot-market-get-merge-depth",
+    "bitget-spot-market-get-orderbook",
+    "bitget-spot-market-get-recent-trades",
+    "bitget-spot-market-get-symbols",
+    "bitget-spot-market-get-tickers",
+    "bitget-spot-market-get-vip-fee-rate",
+    "bitget-spot-trade-batch-cancel-orders",
+    "bitget-spot-trade-batch-cancel-replace-order",
+    "bitget-spot-trade-batch-place-orders",
+    "bitget-spot-trade-cancel-order",
+    "bitget-spot-trade-cancel-replace-order",
+    "bitget-spot-trade-cancel-symbol-orders",
+    "bitget-spot-trade-get-fills",
+    "bitget-spot-trade-get-history-orders",
+    "bitget-spot-trade-get-order-info",
+    "bitget-spot-trade-get-unfilled-orders",
+    "bitget-spot-trade-place-order"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "printful-create-order",
+  "name": "Create Order",
+  "description": "Creates a new order in your Printful account. [See the documentation](https://developers.printful.com/docs/#operation/createOrder)",
+  "type": "action",
+  "version": "0.0.3"
+}

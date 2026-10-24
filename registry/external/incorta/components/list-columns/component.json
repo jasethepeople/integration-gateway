@@ -1,0 +1,7 @@
+{
+  "key": "incorta-list-columns",
+  "name": "List Columns",
+  "description": "Lists the columns (name, label, data type, function) of a specific table or view in an Incorta tenant, via the REST API.",
+  "type": "action",
+  "version": "0.0.1"
+}

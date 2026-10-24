@@ -1,0 +1,7 @@
+{
+  "key": "plainly-new-render-failed",
+  "name": "New Render Failed",
+  "description": "Emit new event when a video render fails.",
+  "type": "source",
+  "version": "0.0.1"
+}

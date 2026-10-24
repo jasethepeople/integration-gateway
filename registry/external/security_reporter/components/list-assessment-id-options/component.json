@@ -1,0 +1,7 @@
+{
+  "key": "security_reporter-list-assessment-id-options",
+  "name": "List Assessment ID Options",
+  "description": "Retrieves available options for the Assessment ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

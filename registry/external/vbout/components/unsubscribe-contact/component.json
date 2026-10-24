@@ -1,0 +1,7 @@
+{
+  "key": "vbout-unsubscribe-contact",
+  "name": "Unsubscribe Contact",
+  "description": "This action unsubscribes a specific contact from a list. [See the docs here](https://developers.vbout.com/docs#emailmarketing_editcontact)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,39 @@
+{
+  "app": "nuclino",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "workspaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "itemId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "object": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "content": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "nuclino-create-item-or-collection",
+    "nuclino-list-object-options",
+    "nuclino-search-items-or-collections",
+    "nuclino-update-item-or-collection",
+    "nuclino-new-item-or-collection-created",
+    "nuclino-new-item-or-collection-updated"
+  ]
+}

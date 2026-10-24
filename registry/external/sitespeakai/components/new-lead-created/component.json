@@ -1,0 +1,7 @@
+{
+  "key": "sitespeakai-new-lead-created",
+  "name": "New Lead Created",
+  "description": "Emit new event when a new lead is created in SiteSpeakAI. [See the documentation](https://api-docs.sitespeak.ai/reference/api-reference/leads)",
+  "type": "source",
+  "version": "0.0.1"
+}

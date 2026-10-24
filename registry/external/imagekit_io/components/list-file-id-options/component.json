@@ -1,0 +1,7 @@
+{
+  "key": "imagekit_io-list-file-id-options",
+  "name": "List File Id Options",
+  "description": "Retrieves available options for the File Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

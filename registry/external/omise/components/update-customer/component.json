@@ -1,0 +1,7 @@
+{
+  "key": "omise-update-customer",
+  "name": "Update Customer",
+  "description": "Update a customer's information and payment details in the OPN system. [See the documentation](https://docs.opn.ooo/customers-api)",
+  "type": "action",
+  "version": "0.0.2"
+}

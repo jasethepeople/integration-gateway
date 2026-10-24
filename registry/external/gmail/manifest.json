@@ -1,0 +1,145 @@
+{
+  "app": "gmail",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "message": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "messageWithAttachments": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "label": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "messageLabels": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "signature": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "delegate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "attachmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "threadId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "q": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "to": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "cc": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "bcc": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "fromName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fromEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "replyTo": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subject": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "body": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "bodyType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "attachmentFilenames": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "attachments": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "inReplyToMessageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "replyAll": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "mimeType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "gmail-create-draft",
+    "gmail-create-filter",
+    "gmail-create-label",
+    "gmail-delete-filter",
+    "gmail-delete-label",
+    "gmail-download-attachment",
+    "gmail-find-email",
+    "gmail-get-current-user",
+    "gmail-get-send-as-alias",
+    "gmail-list-delegate-options",
+    "gmail-list-filters",
+    "gmail-list-labels",
+    "gmail-list-send-as-aliases",
+    "gmail-list-signature-options",
+    "gmail-list-thread-messages",
+    "gmail-modify-labels",
+    "gmail-send-email",
+    "gmail-update-org-signature",
+    "gmail-update-primary-signature",
+    "gmail-new-attachment-received",
+    "gmail-new-email-matching-search",
+    "gmail-new-email-received",
+    "gmail-new-labeled-email",
+    "gmail-new-sent-email"
+  ],
+  "npmImports": [
+    "@google-cloud/pubsub",
+    "@googleapis/gmail",
+    "@sparticuz/chromium",
+    "fs",
+    "google-auth-library",
+    "html-to-text",
+    "mammoth",
+    "mime",
+    "nodemailer",
+    "path",
+    "pdfkit",
+    "puppeteer-core",
+    "stream",
+    "uuid"
+  ]
+}

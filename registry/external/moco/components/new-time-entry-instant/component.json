@@ -1,0 +1,7 @@
+{
+  "key": "moco-new-time-entry-instant",
+  "name": "New Time Entry (Instant)",
+  "description": "Emit new event when a new time entry is created. [See the documentation](https://everii-group.github.io/mocoapp-api-docs/sections/web_hooks.html#post-accountweb_hooks)",
+  "type": "source",
+  "version": "0.0.1"
+}

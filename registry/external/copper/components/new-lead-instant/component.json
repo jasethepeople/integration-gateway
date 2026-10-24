@@ -1,0 +1,7 @@
+{
+  "key": "copper-new-lead-instant",
+  "name": "New Lead (Instant)",
+  "description": "Emit new event when a new lead is created in Copper",
+  "type": "source",
+  "version": "0.0.2"
+}

@@ -1,0 +1,129 @@
+{
+  "app": "sharepoint",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "siteId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "listId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "columnNames": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "itemId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "listItemFields": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "siteIdInput": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "listIdInput": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "itemIdInput": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "driveId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "folderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fileId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fileIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "excelFileId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tableName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "excludeFolders": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "select": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "honorNonIndexedQueries": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "fileOrFolderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sharepoint-create-folder",
+    "sharepoint-create-item",
+    "sharepoint-create-link",
+    "sharepoint-create-list",
+    "sharepoint-download-file",
+    "sharepoint-download-files",
+    "sharepoint-find-file-by-name",
+    "sharepoint-find-files-with-metadata",
+    "sharepoint-get-current-user",
+    "sharepoint-get-excel-table",
+    "sharepoint-get-file-by-id",
+    "sharepoint-get-file-contents",
+    "sharepoint-get-site",
+    "sharepoint-list-drives",
+    "sharepoint-list-files-in-folder",
+    "sharepoint-list-items",
+    "sharepoint-list-lists",
+    "sharepoint-list-sites",
+    "sharepoint-retrieve-file-metadata",
+    "sharepoint-search-and-filter-files",
+    "sharepoint-search-files",
+    "sharepoint-search-sites",
+    "sharepoint-update-item",
+    "sharepoint-upload-file",
+    "sharepoint-new-file-created",
+    "sharepoint-new-folder-created",
+    "sharepoint-new-list-item",
+    "sharepoint-updated-file-instant",
+    "sharepoint-updated-list-item"
+  ],
+  "npmImports": [
+    "@microsoft/microsoft-graph-client",
+    "crypto",
+    "fs",
+    "isomorphic-fetch",
+    "lodash.pickby",
+    "mammoth",
+    "path",
+    "pdf-parse",
+    "turndown"
+  ]
+}

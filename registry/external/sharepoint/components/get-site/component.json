@@ -1,0 +1,7 @@
+{
+  "key": "sharepoint-get-site",
+  "name": "Get Site",
+  "description": "Retrieve a site by its identifier.",
+  "type": "action",
+  "version": "0.0.10"
+}

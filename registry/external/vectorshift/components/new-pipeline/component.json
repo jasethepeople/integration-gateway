@@ -1,0 +1,7 @@
+{
+  "key": "vectorshift-new-pipeline",
+  "name": "New Pipeline Created",
+  "description": "Emit new event when a new pipeline is created in VectorShift.",
+  "type": "source",
+  "version": "0.0.1"
+}

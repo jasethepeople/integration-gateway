@@ -1,0 +1,7 @@
+{
+  "key": "sendblue-send-message",
+  "name": "Send Message",
+  "description": "Send an iMessage or SMS to a specific phone number. [See the documentation](https://docs.sendblue.com/api/resources/messages/methods/send)",
+  "type": "action",
+  "version": "0.0.1"
+}

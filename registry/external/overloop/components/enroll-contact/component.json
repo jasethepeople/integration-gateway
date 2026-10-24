@@ -1,0 +1,7 @@
+{
+  "key": "overloop-enroll-contact",
+  "name": "Enroll Contact",
+  "description": "Enroll a contact in a workflow. [See the docs](https://apidoc.overloop.com/#enrollments)",
+  "type": "action",
+  "version": "0.0.2"
+}

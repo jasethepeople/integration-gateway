@@ -1,0 +1,7 @@
+{
+  "key": "bol_com-list-shipments",
+  "name": "List Shipments",
+  "description": "List shipments. [See the documentation](https://api.bol.com/retailer/public/redoc/v10/retailer.html#tag/Shipments/operation/get-shipments)",
+  "type": "action",
+  "version": "0.0.1"
+}

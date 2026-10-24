@@ -1,0 +1,7 @@
+{
+  "key": "algolia-delete-records",
+  "name": "Delete Records",
+  "description": "Delete records from the given index. [See the documentation](https://www.algolia.com/doc/libraries/javascript/v5/helpers/#delete-records)",
+  "type": "action",
+  "version": "0.0.3"
+}

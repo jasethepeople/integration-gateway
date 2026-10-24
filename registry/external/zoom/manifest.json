@@ -1,0 +1,164 @@
+{
+  "app": "zoom",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "webinarId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "meetingId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recordingFileId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "occurrenceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "meetingUserId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "includeAudioRecordings": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "includeChatTranscripts": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "occurrenceIds": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "address": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "city": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "zip": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "state": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "industry": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "org": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobTitle": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "purchasingTimeFrame": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "roleInPurchaseProcess": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "noOfEmployees": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "comments": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customQuestions": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "nextPageToken": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "max": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zoom-add-meeting-registrant",
+    "zoom-add-webinar-registrant",
+    "zoom-create-meeting",
+    "zoom-create-user",
+    "zoom-delete-meeting",
+    "zoom-delete-user",
+    "zoom-get-current-user",
+    "zoom-get-meeting-details",
+    "zoom-get-meeting-recordings",
+    "zoom-get-meeting-summary",
+    "zoom-get-meeting-transcript",
+    "zoom-get-recording-download-link",
+    "zoom-get-webinar-details",
+    "zoom-list-all-recordings",
+    "zoom-list-call-recordings",
+    "zoom-list-channels",
+    "zoom-list-meetings",
+    "zoom-list-past-meeting-participants",
+    "zoom-list-past-webinar-qa",
+    "zoom-list-user-call-logs",
+    "zoom-list-webinar-participants-report",
+    "zoom-send-chat-message",
+    "zoom-update-meeting",
+    "zoom-update-webinar",
+    "zoom-view-user",
+    "zoom-custom-event",
+    "zoom-meeting-created",
+    "zoom-meeting-deleted",
+    "zoom-meeting-ended",
+    "zoom-meeting-started",
+    "zoom-meeting-updated",
+    "zoom-new-recording-transcript-completed",
+    "zoom-phone-event",
+    "zoom-recording-completed",
+    "zoom-webinar-created",
+    "zoom-webinar-deleted",
+    "zoom-webinar-ended",
+    "zoom-webinar-started",
+    "zoom-webinar-updated"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "app": "acumbamail",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "listId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "auth_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "acumbamail-add-or-update-subscriber",
+    "acumbamail-get-campaigns",
+    "acumbamail-list-list-id-options",
+    "acumbamail-send-sms",
+    "acumbamail-new-campaign-opened",
+    "acumbamail-new-subscriber-added",
+    "acumbamail-new-unsubscribe"
+  ]
+}

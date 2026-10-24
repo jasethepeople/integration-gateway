@@ -1,0 +1,7 @@
+{
+  "key": "cloudpresenter-list-custom-field-ids-options",
+  "name": "List Custom Field IDs Options",
+  "description": "Retrieves available options for the Custom Field IDs field.",
+  "type": "action",
+  "version": "0.0.1"
+}

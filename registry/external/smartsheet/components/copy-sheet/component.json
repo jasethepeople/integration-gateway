@@ -1,0 +1,7 @@
+{
+  "key": "smartsheet-copy-sheet",
+  "name": "Copy Sheet",
+  "description": "Copy an existing sheet to a new location. Creates a complete duplicate including all rows, columns, formatting, and attachments.",
+  "type": "action",
+  "version": "0.1.2"
+}

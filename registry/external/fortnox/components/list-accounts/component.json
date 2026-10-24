@@ -1,0 +1,7 @@
+{
+  "key": "fortnox-list-accounts",
+  "name": "List Accounts",
+  "description": "List all accounts in Fortnox. [See the documentation](https://api.fortnox.se/apidocs#tag/fortnox_Accounts/operation/list_2)",
+  "type": "action",
+  "version": "0.0.1"
+}

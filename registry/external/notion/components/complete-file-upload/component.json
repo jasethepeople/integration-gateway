@@ -1,0 +1,7 @@
+{
+  "key": "notion-complete-file-upload",
+  "name": "Complete File Upload",
+  "description": "Use this action to finalize a `mode=multi_part` file upload after all of the parts have been sent successfully. [See the documentation](https://developers.notion.com/reference/complete-a-file-upload)",
+  "type": "action",
+  "version": "0.0.12"
+}

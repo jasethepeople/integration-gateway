@@ -1,0 +1,7 @@
+{
+  "key": "sumup-list-transactions",
+  "name": "List Transactions",
+  "description": "Lists detailed history of all transactions associated with the merchant profile. [See the documentation](https://developer.sumup.com/api/transactions/list-detailed)",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "bitmex-create-order",
+  "name": "Create Order",
+  "description": "Submit a new trading order in your BitMEX account. [See the documentation](https://www.bitmex.com/api/explorer/#!/Order/Order_new)",
+  "type": "action",
+  "version": "0.0.2"
+}

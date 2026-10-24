@@ -1,0 +1,20 @@
+{
+  "app": "kadoa",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "workflowId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "kadoa-list-workflow-id-options",
+    "kadoa-start-workflow",
+    "kadoa-new-workflow-finished-instant"
+  ]
+}

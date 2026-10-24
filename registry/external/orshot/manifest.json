@@ -1,0 +1,38 @@
+{
+  "app": "orshot",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "studioTemplateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "responseType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "responseFormat": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "modifications": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "orshot-generate-image-library-template",
+    "orshot-generate-image-studio-template",
+    "orshot-get-studio-template-modifications",
+    "orshot-get-template-modifications",
+    "orshot-list-templates"
+  ]
+}

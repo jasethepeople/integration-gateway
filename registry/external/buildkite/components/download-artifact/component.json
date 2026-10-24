@@ -1,0 +1,7 @@
+{
+  "key": "buildkite-download-artifact",
+  "name": "Download Artifact",
+  "description": "Returns a download URL for a specific artifact. [See the documentation](https://buildkite.com/docs/apis/rest-api/artifacts#download-an-artifact)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "richpanel-add-ticket-message",
+  "name": "Add Ticket Message",
+  "description": "Adds a message to an existing ticket. [See the documentation](https://developer.richpanel.com/reference/update-a-conversation)",
+  "type": "action",
+  "version": "0.0.2"
+}

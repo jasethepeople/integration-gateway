@@ -1,0 +1,7 @@
+{
+  "key": "bingx-account-get-positions",
+  "name": "BingX Account Get Positions",
+  "description": "Perpetual Swap Positions [See the documentation](https://bingx-api.github.io/docs/#/swapV2/account-api.html#Perpetual%20Swap%20Positions).",
+  "type": "action",
+  "version": "0.0.5"
+}

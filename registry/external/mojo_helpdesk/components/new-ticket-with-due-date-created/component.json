@@ -1,0 +1,7 @@
+{
+  "key": "mojo_helpdesk-new-ticket-with-due-date-created",
+  "name": "New Ticket With Due Date Created",
+  "description": "Emit new event when a new unassigned ticket with a due date is created. [See the docs](https://github.com/mojohelpdesk/mojohelpdesk-api-doc#all-tickets-with-due-date)",
+  "type": "source",
+  "version": "0.0.1"
+}

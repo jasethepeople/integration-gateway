@@ -1,0 +1,7 @@
+{
+  "key": "elastic_security-find-assignable-users",
+  "name": "Find Assignable Users",
+  "description": "List users who have created or reported Elastic Security cases, via GET /api/cases/reporters, to discover valid `profile_uid` values for the `assignees` parameter on **Create or Update Case**.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "nexweave-list-image-template-id-options",
+  "name": "List Image Template ID Options",
+  "description": "Retrieves available options for the Image Template ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

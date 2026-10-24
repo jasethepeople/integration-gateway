@@ -1,0 +1,7 @@
+{
+  "key": "kanban_tool-new-subtask",
+  "name": "New Subtask(Checklist Item) Created Event",
+  "description": "Emit new events when a new subtask is created on selected task. [See the docs](https://kanbantool.com/developer/api-v3#fetching-tasks-details)",
+  "type": "source",
+  "version": "0.0.1"
+}

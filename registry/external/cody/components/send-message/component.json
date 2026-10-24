@@ -1,0 +1,7 @@
+{
+  "key": "cody-send-message",
+  "name": "Send Message",
+  "description": "Send your message and receive the AI-generated response. [See the documentation](https://developers.meetcody.ai/operation/operation-send-message)",
+  "type": "action",
+  "version": "0.0.2"
+}

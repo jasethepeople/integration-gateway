@@ -1,0 +1,63 @@
+{
+  "app": "recruiterflow",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "candidateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "locationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "departmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "employmentTypeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customFields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "recruiterflow-add-candidate-to-job",
+    "recruiterflow-create-candidate",
+    "recruiterflow-create-job",
+    "recruiterflow-create-placement",
+    "recruiterflow-list-candidate-id-options",
+    "recruiterflow-list-company-id-options",
+    "recruiterflow-list-contact-id-options",
+    "recruiterflow-list-department-id-options",
+    "recruiterflow-list-employment-type-id-options",
+    "recruiterflow-list-job-id-options",
+    "recruiterflow-list-location-id-options",
+    "recruiterflow-list-user-id-options",
+    "recruiterflow-move-candidate-to-stage",
+    "recruiterflow-search-candidates"
+  ]
+}

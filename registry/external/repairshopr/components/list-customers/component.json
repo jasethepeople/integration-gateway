@@ -1,0 +1,7 @@
+{
+  "key": "repairshopr-list-customers",
+  "name": "List Customers",
+  "description": "List Customers. [See the docs here](https://api-docs.repairshopr.com/#/Customer/get_customers)",
+  "type": "action",
+  "version": "0.0.2"
+}

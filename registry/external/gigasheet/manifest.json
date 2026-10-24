@@ -1,0 +1,25 @@
+{
+  "app": "gigasheet",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "handle": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "folderHandle": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "gigasheet-create-export",
+    "gigasheet-download-export",
+    "gigasheet-list-handle-options",
+    "gigasheet-upload-data-from-url"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "app": "ghost_org_admin_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "note": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "labels": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "member": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "admin_api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ghost_org_admin_api-create-member",
+    "ghost_org_admin_api-create-post",
+    "ghost_org_admin_api-list-member-options",
+    "ghost_org_admin_api-update-member",
+    "ghost_org_admin_api-member-created",
+    "ghost_org_admin_api-member-deleted",
+    "ghost_org_admin_api-member-updated",
+    "ghost_org_admin_api-new-tag",
+    "ghost_org_admin_api-page-published",
+    "ghost_org_admin_api-post-published"
+  ],
+  "npmImports": [
+    "jsonwebtoken"
+  ]
+}

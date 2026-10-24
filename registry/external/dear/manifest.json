@@ -1,0 +1,32 @@
+{
+  "app": "dear",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "dear-available-stock-level-change",
+    "dear-customer-updated",
+    "dear-new-authorized-purchase-order",
+    "dear-new-authorized-sale-order",
+    "dear-new-authorized-sale-quote",
+    "dear-new-product",
+    "dear-new-purchase-credit-note-authorized",
+    "dear-new-purchase-invoice-authorized",
+    "dear-new-purchase-stock-received-authorized",
+    "dear-new-sale-backordered",
+    "dear-new-sale-credit-note-authorized",
+    "dear-new-sale-full-payment-received",
+    "dear-new-sale-invoice-authorized",
+    "dear-new-sale-pack-authorized",
+    "dear-new-sale-partial-payment-received",
+    "dear-new-sale-pick-authorized",
+    "dear-new-sale-shipment-authorized",
+    "dear-new-sale-undo",
+    "dear-sale-shipment-tracking-number-change",
+    "dear-supplier-updated"
+  ],
+  "npmImports": [
+    "lodash-es",
+    "uuid"
+  ]
+}

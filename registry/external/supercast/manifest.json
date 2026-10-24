@@ -1,0 +1,17 @@
+{
+  "app": "supercast",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "supercast-create-creator",
+    "supercast-create-episode",
+    "supercast-new-episode-created",
+    "supercast-new-question-created"
+  ]
+}

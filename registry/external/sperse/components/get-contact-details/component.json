@@ -1,0 +1,7 @@
+{
+  "key": "sperse-get-contact-details",
+  "name": "Get Contact Details",
+  "description": "Retrieves detailed information about a contact. [See the documentation](https://app.sperse.com/app/api/swagger)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,44 @@
+{
+  "app": "textcortex",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "maxTokens": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "model": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "n": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "sourceLang": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "targetLang": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "text": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "temperature": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "textcortex-create-social-media-post",
+    "textcortex-summarize-text",
+    "textcortex-translate-text"
+  ]
+}

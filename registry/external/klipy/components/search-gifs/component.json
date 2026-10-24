@@ -1,0 +1,7 @@
+{
+  "key": "klipy-search-gifs",
+  "name": "Search GIFs",
+  "description": "Search and retrieve GIFs from Klipy's database. [See the documentation](https://docs.klipy.com/gifs-api/gifs-search-api)",
+  "type": "action",
+  "version": "0.0.2"
+}

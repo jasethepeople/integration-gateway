@@ -1,0 +1,7 @@
+{
+  "key": "gmail-create-label",
+  "name": "Create Label",
+  "description": "Create a new user label in the authenticated Gmail mailbox and return its ID.",
+  "type": "action",
+  "version": "0.1.4"
+}

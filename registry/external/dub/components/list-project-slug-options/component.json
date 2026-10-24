@@ -1,0 +1,7 @@
+{
+  "key": "dub-list-project-slug-options",
+  "name": "List Project Slug Options",
+  "description": "Retrieves available options for the Project Slug field.",
+  "type": "action",
+  "version": "0.0.1"
+}

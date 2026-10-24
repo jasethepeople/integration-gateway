@@ -1,0 +1,51 @@
+{
+  "app": "keycloak",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "realm": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emailVerified": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "enabled": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "keycloak-create-user",
+    "keycloak-delete-user",
+    "keycloak-get-user",
+    "keycloak-list-realm-options",
+    "keycloak-update-user",
+    "keycloak-new-event-created"
+  ]
+}

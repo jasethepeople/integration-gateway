@@ -1,0 +1,23 @@
+{
+  "app": "changes_page",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "postId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "changes_page-get-latest-post",
+    "changes_page-get-pinned-post",
+    "changes_page-get-post",
+    "changes_page-list-post-id-options",
+    "changes_page-list-posts",
+    "changes_page-new-post-created"
+  ]
+}

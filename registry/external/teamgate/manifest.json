@@ -1,0 +1,274 @@
+{
+  "app": "teamgate",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "activityId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "actualClosureDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "address": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "cartDiscountType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cartDiscountValue": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cartItems": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "companies": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "companyName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "costCurrency": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "costValue": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "createdDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerStatusId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customFields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "deals": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "emails": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "estimatedClosureDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "filters": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "globalOperator": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "industry": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "industryDescription": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "industryId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "jobTitle": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "leads": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "leadStatus": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "leadStatusDescription": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "leadStatusId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "order": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "ownerId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "ownerRandom": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ownerUsername": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "personId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "phones": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "pipeline": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "priceCurrency": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "prices": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "priceValue": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productCategory": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productDescription": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "isActive": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "products": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "prospectStatusId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sku": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "source": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sourceId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "sourceDescription": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "stage": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "starred": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "urls": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "app_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "auth_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "teamgate-create-activity",
+    "teamgate-create-company",
+    "teamgate-create-deal",
+    "teamgate-create-lead",
+    "teamgate-create-person",
+    "teamgate-create-product",
+    "teamgate-find-company",
+    "teamgate-find-lead",
+    "teamgate-find-person",
+    "teamgate-find-product",
+    "teamgate-list-activity-id-options",
+    "teamgate-list-companies-options",
+    "teamgate-list-deals-options",
+    "teamgate-list-industry-id-options",
+    "teamgate-list-lead-status-id-options",
+    "teamgate-list-leads-options",
+    "teamgate-list-owner-id-options",
+    "teamgate-list-person-id-options",
+    "teamgate-list-pipeline-options",
+    "teamgate-list-product-category-options",
+    "teamgate-list-product-id-options",
+    "teamgate-list-products-options",
+    "teamgate-list-source-id-options",
+    "teamgate-update-cart-products-status",
+    "teamgate-update-deal",
+    "teamgate-update-lead",
+    "teamgate-update-product",
+    "teamgate-activity-status-changed",
+    "teamgate-deal-stage-changed",
+    "teamgate-lead-converted-to-person",
+    "teamgate-new-company",
+    "teamgate-new-deal",
+    "teamgate-new-lead",
+    "teamgate-new-lost-deal",
+    "teamgate-new-person",
+    "teamgate-new-product",
+    "teamgate-new-unqualified-lead",
+    "teamgate-new-won-deal"
+  ],
+  "npmImports": [
+    "moment"
+  ]
+}

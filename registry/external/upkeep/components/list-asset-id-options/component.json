@@ -1,0 +1,7 @@
+{
+  "key": "upkeep-list-asset-id-options",
+  "name": "List Asset Options",
+  "description": "Retrieves available options for the Asset field.",
+  "type": "action",
+  "version": "0.0.1"
+}

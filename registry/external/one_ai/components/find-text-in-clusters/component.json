@@ -1,0 +1,7 @@
+{
+  "key": "one_ai-find-text-in-clusters",
+  "name": "Find Text in Clusters",
+  "description": "Find clusters with a similar meaning of a given text.  [See the documentation](https://docs.oneai.com/docs/find-text).",
+  "type": "action",
+  "version": "0.0.2"
+}

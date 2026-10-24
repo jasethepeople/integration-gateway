@@ -1,0 +1,7 @@
+{
+  "key": "pubrio-batch-redeem-contacts",
+  "name": "Batch Redeem Contacts",
+  "description": "Batch reveal contact information for multiple people (uses credits). [See the documentation](https://docs.pubrio.com/en/api-reference/endpoint/redeem/people/batch)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "monkeylearn-classify-text",
+  "name": "Classify Text",
+  "description": "Classifies texts with a given classifier. [See the docs here](https://monkeylearn.com/api/v3/#classify)",
+  "type": "action",
+  "version": "0.0.2"
+}

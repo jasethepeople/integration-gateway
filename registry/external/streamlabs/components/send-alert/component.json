@@ -1,0 +1,7 @@
+{
+  "key": "streamlabs-send-alert",
+  "name": "Send Alert",
+  "description": "Sends an alert to the stream overlay with a custom message, image, and sound. [See the documentation](https://dev.streamlabs.com/reference/alerts)",
+  "type": "action",
+  "version": "0.0.2"
+}

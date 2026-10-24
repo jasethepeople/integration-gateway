@@ -1,0 +1,7 @@
+{
+  "key": "questionpro-send-survey",
+  "name": "Send Survey",
+  "description": "Send a survey invitation to a list of contacts. [See the documentation](https://www.questionpro.com/api/send-batch.html)",
+  "type": "action",
+  "version": "0.0.1"
+}

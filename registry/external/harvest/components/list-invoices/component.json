@@ -1,0 +1,7 @@
+{
+  "key": "harvest-list-invoices",
+  "name": "List Invoices",
+  "description": "Only return invoices with an issue_date on or after this date, `YYYY-MM-DD`, e.g. `2026-09-01`.",
+  "type": "action",
+  "version": "0.0.1"
+}

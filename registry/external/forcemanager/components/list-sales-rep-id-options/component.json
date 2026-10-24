@@ -1,0 +1,7 @@
+{
+  "key": "forcemanager-list-sales-rep-id-options",
+  "name": "List Sales Rep ID Options",
+  "description": "Retrieves available options for the Sales Rep ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

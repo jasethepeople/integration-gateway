@@ -1,0 +1,7 @@
+{
+  "key": "upkeep-list-parts-options",
+  "name": "List Parts Options",
+  "description": "Retrieves available options for the Parts field.",
+  "type": "action",
+  "version": "0.0.1"
+}

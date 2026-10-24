@@ -1,0 +1,7 @@
+{
+  "key": "imagekit_io-get-file-details",
+  "name": "Get File Details",
+  "description": "Get details from a specific file. [See the documentation](https://docs.imagekit.io/api-reference/media-api/get-file-details)",
+  "type": "action",
+  "version": "0.0.3"
+}

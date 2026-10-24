@@ -1,0 +1,7 @@
+{
+  "key": "drip-list-email-options",
+  "name": "List Email Options",
+  "description": "Retrieves available options for the Email field.",
+  "type": "action",
+  "version": "0.0.1"
+}

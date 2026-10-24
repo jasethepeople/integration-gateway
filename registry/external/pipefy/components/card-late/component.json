@@ -1,0 +1,7 @@
+{
+  "key": "pipefy-card-late",
+  "name": "Card Late",
+  "description": "Emits an event each time a card becomes late in a Pipe.",
+  "type": "source",
+  "version": "0.0.3"
+}

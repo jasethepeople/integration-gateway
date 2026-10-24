@@ -1,0 +1,7 @@
+{
+  "key": "token_metrics-get-technology-grades",
+  "name": "Get Technology Grades",
+  "description": "Crypto Asset Names (e.g., Bitcoin, Ethereum) to filter results. Select token names.",
+  "type": "action",
+  "version": "0.1.1"
+}

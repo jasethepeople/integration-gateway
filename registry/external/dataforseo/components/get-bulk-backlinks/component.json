@@ -1,0 +1,7 @@
+{
+  "key": "dataforseo-get-bulk-backlinks",
+  "name": "Get Bulk Backlinks",
+  "description": "Get the number of backlinks pointing to specified domains, subdomains, and pages. [See the documentation](https://docs.dataforseo.com/v3/backlinks/bulk_backlinks/live/)",
+  "type": "action",
+  "version": "0.0.3"
+}

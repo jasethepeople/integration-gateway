@@ -1,0 +1,7 @@
+{
+  "key": "adyntel-meta-ad-search",
+  "name": "Meta Ad Search",
+  "description": "Searches the Meta ad library. [See the documentation](https://docs.adyntel.com/ad-libraries/meta-ad-search)",
+  "type": "action",
+  "version": "0.0.2"
+}

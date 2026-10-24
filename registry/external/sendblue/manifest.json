@@ -1,0 +1,82 @@
+{
+  "app": "sendblue",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "fromNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "toNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "content": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mediaUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sendStyle": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "statusCallback": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "accountEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fromNumberFilter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "toNumberFilter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "groupIdFilter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "messageTypeFilter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "serviceFilter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "statusFilter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderBy": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderDirection": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sendblue-get-contact-list",
+    "sendblue-send-group-message",
+    "sendblue-send-message",
+    "sendblue-new-message-received-instant",
+    "sendblue-new-message-received"
+  ]
+}

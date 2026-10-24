@@ -1,0 +1,7 @@
+{
+  "key": "niceboard-new-job-seeker",
+  "name": "New Job Seeker",
+  "description": "Emit new event when a new job seeker account is registered",
+  "type": "source",
+  "version": "0.0.1"
+}

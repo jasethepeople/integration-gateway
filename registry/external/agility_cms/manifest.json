@@ -1,0 +1,36 @@
+{
+  "app": "agility_cms",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "locale": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "itemId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "guid": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_type": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "agility_cms-get-content-items",
+    "agility_cms-get-content-models",
+    "agility_cms-get-item"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "easyship-new-shipping-label-created",
+  "name": "New Shipping Label Created (Instant)",
+  "description": "Emit new event when a new shipping label is created",
+  "type": "source",
+  "version": "0.0.1"
+}

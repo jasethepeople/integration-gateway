@@ -1,0 +1,7 @@
+{
+  "key": "helpspot-list-email-staff-options",
+  "name": "List Email Staff Options",
+  "description": "Retrieves available options for the Email Staff field.",
+  "type": "action",
+  "version": "0.0.2"
+}

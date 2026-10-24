@@ -1,0 +1,7 @@
+{
+  "key": "gigasheet-upload-data-from-url",
+  "name": "Upload Data From URL",
+  "description": "Uploads data from a URL to Gigasheet. [See the documentation](https://gigasheet.readme.io/reference/post_upload-url)",
+  "type": "action",
+  "version": "0.0.2"
+}

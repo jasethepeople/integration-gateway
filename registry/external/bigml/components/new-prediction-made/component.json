@@ -1,0 +1,7 @@
+{
+  "key": "bigml-new-prediction-made",
+  "name": "New Prediction Made",
+  "description": "Emit new event for every made prediction. [See docs here.](https://bigml.com/api/predictions?id=listing-predictions)",
+  "type": "source",
+  "version": "0.0.1"
+}

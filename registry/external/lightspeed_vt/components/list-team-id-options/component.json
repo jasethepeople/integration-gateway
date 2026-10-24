@@ -1,0 +1,7 @@
+{
+  "key": "lightspeed_vt-list-team-id-options",
+  "name": "List Team Id Options",
+  "description": "Retrieves available options for the Team Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

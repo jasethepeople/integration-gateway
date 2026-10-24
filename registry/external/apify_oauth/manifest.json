@@ -1,0 +1,15 @@
+{
+  "app": "apify_oauth",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [],
+  "npmImports": [
+    "apify-client"
+  ]
+}

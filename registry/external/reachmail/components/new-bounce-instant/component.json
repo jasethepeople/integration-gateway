@@ -1,0 +1,7 @@
+{
+  "key": "reachmail-new-bounce-instant",
+  "name": "New Bounce Instant",
+  "description": "Emit new event when a recipient's email address bounces.",
+  "type": "source",
+  "version": "0.0.1"
+}

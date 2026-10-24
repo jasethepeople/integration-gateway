@@ -1,0 +1,22 @@
+{
+  "app": "afosto",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "cartId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "auth_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "afosto-add-information-to-cart",
+    "afosto-add-item-to-cart",
+    "afosto-add-note-to-cart",
+    "afosto-confirm-cart",
+    "afosto-create-cart"
+  ]
+}

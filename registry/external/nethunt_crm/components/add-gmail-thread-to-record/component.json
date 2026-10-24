@@ -1,0 +1,7 @@
+{
+  "key": "nethunt_crm-add-gmail-thread-to-record",
+  "name": "Add Gmail Thread to Record",
+  "description": "Links a Gmail thread to a record. [See docs here](https://nethunt.com/integration-api#link-gmail-thread)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,62 @@
+{
+  "app": "alegra",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "seller": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "priceList": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "term": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "debtToPay": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "client": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "warehouse": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "costCenter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "user_email": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "alegra-create-contact",
+    "alegra-create-invoice",
+    "alegra-find-contact",
+    "alegra-list-client-options",
+    "alegra-list-cost-center-options",
+    "alegra-list-debt-to-pay-options",
+    "alegra-list-price-list-options",
+    "alegra-list-seller-options",
+    "alegra-list-term-options",
+    "alegra-list-warehouse-options",
+    "alegra-new-client-instant",
+    "alegra-new-invoice-instant",
+    "alegra-new-item-instant"
+  ]
+}

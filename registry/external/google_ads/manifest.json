@@ -1,0 +1,120 @@
+{
+  "app": "google_ads",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerClientId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "reportResourceFilter": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "reportOrderBy": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "campaignSharedSetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sharedCriterionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sharedSetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "adGroupCriterionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "adGroupAdId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "adGroupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "campaignBudgetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "campaignCriterionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "biddingStrategyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "conversionActionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "leadFormId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "google_ads-add-contact-to-list-by-email",
+    "google_ads-create-ad-group-report",
+    "google_ads-create-ad-report",
+    "google_ads-create-campaign-report",
+    "google_ads-create-customer-list",
+    "google_ads-create-customer-report",
+    "google_ads-create-or-remove-campaign-criteria",
+    "google_ads-create-or-remove-campaign-shared-set",
+    "google_ads-create-or-remove-shared-criteria",
+    "google_ads-create-or-update-ad-group-ad",
+    "google_ads-create-or-update-ad-group",
+    "google_ads-create-or-update-bidding-strategy",
+    "google_ads-create-or-update-campaign-budget",
+    "google_ads-create-or-update-campaign",
+    "google_ads-create-or-update-keywords",
+    "google_ads-create-or-update-shared-sets",
+    "google_ads-create-report",
+    "google_ads-create-responsive-search-ad",
+    "google_ads-generate-keyword-ideas",
+    "google_ads-get-keyword-quality-scores",
+    "google_ads-list-account-id-options",
+    "google_ads-list-ad-group-ads",
+    "google_ads-list-ad-group-criteria",
+    "google_ads-list-ad-groups",
+    "google_ads-list-bidding-strategies",
+    "google_ads-list-campaign-budgets",
+    "google_ads-list-campaign-criteria",
+    "google_ads-list-campaign-shared-sets",
+    "google_ads-list-campaigns",
+    "google_ads-list-customer-clients",
+    "google_ads-list-keywords",
+    "google_ads-list-shared-criteria",
+    "google_ads-list-shared-sets",
+    "google_ads-list-user-lists",
+    "google_ads-send-offline-conversion",
+    "google_ads-update-campaign-ai-max-settings",
+    "google_ads-upload-call-conversion",
+    "google_ads-upload-click-conversion",
+    "google_ads-new-campaign-created",
+    "google_ads-new-lead-form-entry"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

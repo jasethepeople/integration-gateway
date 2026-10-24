@@ -1,0 +1,7 @@
+{
+  "key": "zoho_forms-list-form-link-name-options",
+  "name": "List Form Link Name Options",
+  "description": "Retrieves available options for the Form Link Name field.",
+  "type": "action",
+  "version": "0.0.1"
+}

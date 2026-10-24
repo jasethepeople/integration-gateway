@@ -1,0 +1,7 @@
+{
+  "key": "buildkite-list-build-annotations",
+  "name": "List Build Annotations",
+  "description": "Returns a list of annotations for a build. [See the documentation](https://buildkite.com/docs/apis/rest-api/annotations#list-annotations-for-a-build)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "callingly-create-client",
+  "name": "Create Client",
+  "description": "Creates a new client in Callingly. [See the documentation](https://help.callingly.com/article/38-callingly-api-documentation#create-client)",
+  "type": "action",
+  "version": "0.0.1"
+}

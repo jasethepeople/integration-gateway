@@ -1,0 +1,40 @@
+{
+  "app": "dpd2",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "storefrontId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subscriberId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_password": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dpd2-list-customer-id-options",
+    "dpd2-list-storefront-id-options",
+    "dpd2-new-purchase-created"
+  ]
+}

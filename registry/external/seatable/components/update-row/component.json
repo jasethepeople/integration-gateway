@@ -1,0 +1,7 @@
+{
+  "key": "seatable-update-row",
+  "name": "Update Row",
+  "description": "Updates an existing row in a specified table. [See the documentation](https://api.seatable.io/reference/update-row)",
+  "type": "action",
+  "version": "0.0.2"
+}

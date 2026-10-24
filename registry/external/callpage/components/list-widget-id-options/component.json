@@ -1,0 +1,7 @@
+{
+  "key": "callpage-list-widget-id-options",
+  "name": "List Widget Options",
+  "description": "Retrieves available options for the Widget field.",
+  "type": "action",
+  "version": "0.0.1"
+}

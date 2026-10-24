@@ -1,0 +1,7 @@
+{
+  "key": "mastodon-view-home-timeline",
+  "name": "View Home Timeline",
+  "description": "View statuses from followed users. [See the docs here](https://docs.joinmastodon.org/methods/timelines/#home)",
+  "type": "action",
+  "version": "0.0.3"
+}

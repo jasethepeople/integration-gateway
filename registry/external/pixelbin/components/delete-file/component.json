@@ -1,0 +1,7 @@
+{
+  "key": "pixelbin-delete-file",
+  "name": "Delete File",
+  "description": "Deletes a file from Pixelbin. [See the documentation](https://www.pixelbin.io/docs/api-docs/)",
+  "type": "action",
+  "version": "0.0.2"
+}

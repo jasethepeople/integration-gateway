@@ -1,0 +1,7 @@
+{
+  "key": "woovi-new-webhook-event",
+  "name": "New Webhook Event (Instant)",
+  "description": "Emit new event when a webhook is called. [See the documentation](https://developers.woovi.com/en/api#tag/webhook/paths/~1api~1v1~1webhook/post)",
+  "type": "source",
+  "version": "0.0.1"
+}

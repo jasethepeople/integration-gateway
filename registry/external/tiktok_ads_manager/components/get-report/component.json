@@ -1,0 +1,7 @@
+{
+  "key": "tiktok_ads_manager-get-report",
+  "name": "Get Report",
+  "description": "Run a synchronous report to retrieve performance metrics for campaigns, ad groups, or ads.",
+  "type": "action",
+  "version": "0.0.2"
+}

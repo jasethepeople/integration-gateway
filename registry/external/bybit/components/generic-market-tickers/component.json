@@ -1,0 +1,7 @@
+{
+  "key": "bybit-generic-market-tickers",
+  "name": "ByBit Generic Market Tickers",
+  "description": "Get the latest information for symbol. [reference](https://bybit-exchange.github.io/docs/futuresV2/inverse/#t-latestsymbolinfo)",
+  "type": "action",
+  "version": "0.0.2"
+}

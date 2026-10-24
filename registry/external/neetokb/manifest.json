@@ -1,0 +1,18 @@
+{
+  "app": "neetokb",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "organization_name": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "neetokb-new-published-article"
+  ]
+}

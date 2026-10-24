@@ -1,0 +1,7 @@
+{
+  "key": "fullenrich-check-if-api-key-is-valid",
+  "name": "Check If API Key Is Valid",
+  "description": "Check if the FullEnrich API key is valid. [See the documentation](https://docs.fullenrich.com/checkkey).",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "google_forms-get-form",
+  "name": "Get Form",
+  "description": "Get information about a Google Form. [See the documentation](https://developers.google.com/forms/api/reference/rest/v1/forms/get)",
+  "type": "action",
+  "version": "0.0.2"
+}

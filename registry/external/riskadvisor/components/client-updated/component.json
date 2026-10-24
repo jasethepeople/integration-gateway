@@ -1,0 +1,7 @@
+{
+  "key": "riskadvisor-client-updated",
+  "name": "Client Updated",
+  "description": "Emit new event each time a client is updated in RiskAdvisor. [See the documentation](https://api.riskadvisor.insure/clients#list-all-clients)",
+  "type": "source",
+  "version": "0.0.1"
+}

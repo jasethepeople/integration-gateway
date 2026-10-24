@@ -1,0 +1,7 @@
+{
+  "key": "findymail-verify-email",
+  "name": "Verify Email",
+  "description": "Verifies the deliverability of a specified email. [See the documentation](https://app.findymail.com/docs/#verifier-POSTapi-verify)",
+  "type": "action",
+  "version": "0.0.2"
+}

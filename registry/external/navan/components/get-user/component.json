@@ -1,0 +1,7 @@
+{
+  "key": "navan-get-user",
+  "name": "Get User",
+  "description": "Retrieves a specific user by their unique identifier. [See the documentation](https://u.pcloud.link/publink/show?code=XZ7Bww5ZoKb93VNf7ISOdR5UzVo6JzBLs7AX)",
+  "type": "action",
+  "version": "0.0.1"
+}

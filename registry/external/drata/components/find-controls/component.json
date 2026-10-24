@@ -1,0 +1,7 @@
+{
+  "key": "drata-find-controls",
+  "name": "Find Controls",
+  "description": "Query to search for",
+  "type": "action",
+  "version": "0.0.4"
+}

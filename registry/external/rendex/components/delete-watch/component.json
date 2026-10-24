@@ -1,0 +1,7 @@
+{
+  "key": "rendex-delete-watch",
+  "name": "Delete Watch",
+  "description": "Delete a watch and its run history. [See the documentation](https://rendex.dev/docs/watch#endpoints).",
+  "type": "action",
+  "version": "0.0.1"
+}

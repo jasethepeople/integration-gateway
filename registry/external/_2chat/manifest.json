@@ -1,0 +1,24 @@
+{
+  "app": "_2chat",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "fromNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "_2chat-check-phone-number-whatsapp",
+    "_2chat-create-contact",
+    "_2chat-list-from-number-options",
+    "_2chat-send-whatsapp-text-message",
+    "_2chat-new-conversation-instant",
+    "_2chat-new-message-instant",
+    "_2chat-new-whatsapp-order-instant"
+  ]
+}

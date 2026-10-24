@@ -1,0 +1,37 @@
+{
+  "app": "adyen",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "merchantAccount": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "amountCurrency": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "amountValue": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "paymentMethodType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "paymentPspReference": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "adyen-cancel-payment",
+    "adyen-capture-payment",
+    "adyen-create-payment",
+    "adyen-refund-payment",
+    "adyen-submit-details"
+  ],
+  "npmImports": [
+    "@adyen/api-library"
+  ]
+}

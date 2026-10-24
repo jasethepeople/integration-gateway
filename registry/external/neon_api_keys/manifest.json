@@ -1,0 +1,29 @@
+{
+  "app": "neon_api_keys",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "branchId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "roleName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "neon_api_keys-create-branch",
+    "neon_api_keys-create-database",
+    "neon_api_keys-create-project",
+    "neon_api_keys-list-project-id-options"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "app": "eventbrite",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "organization": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eventId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "event": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timezone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "eventbrite-create-event",
+    "eventbrite-get-event-attendees",
+    "eventbrite-get-event-details",
+    "eventbrite-get-event-summary",
+    "eventbrite-get-my-orders",
+    "eventbrite-list-timezone-options",
+    "eventbrite-new-attendee-checkin",
+    "eventbrite-new-attendee-registered",
+    "eventbrite-new-event-ended",
+    "eventbrite-new-event-updated",
+    "eventbrite-new-event",
+    "eventbrite-new-order-placed-by-me",
+    "eventbrite-new-order"
+  ],
+  "npmImports": [
+    "lodash",
+    "timezones-list"
+  ]
+}

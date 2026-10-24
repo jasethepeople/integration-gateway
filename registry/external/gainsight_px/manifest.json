@@ -1,0 +1,65 @@
+{
+  "app": "gainsight_px",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "id": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "propertyKeys": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "countryName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "stateName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "city": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "identifyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "base_endpoint": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "gainsight_px-create-account",
+    "gainsight_px-create-user",
+    "gainsight_px-delete-user",
+    "gainsight_px-list-identify-id-options"
+  ]
+}

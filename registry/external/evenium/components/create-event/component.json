@@ -1,0 +1,7 @@
+{
+  "key": "evenium-create-event",
+  "name": "Create Event",
+  "description": "Creates a new event. [See the documentation](https://static.evenium.com/api-docs/organizer/index-json.html#_create_events)",
+  "type": "action",
+  "version": "0.0.1"
+}

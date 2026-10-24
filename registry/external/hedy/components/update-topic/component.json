@@ -1,0 +1,7 @@
+{
+  "key": "hedy-update-topic",
+  "name": "Update Topic",
+  "description": "Updates properties of an existing Hedy topic. All fields are optional — only the fields you provide will be changed.",
+  "type": "action",
+  "version": "0.0.2"
+}

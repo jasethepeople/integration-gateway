@@ -1,0 +1,7 @@
+{
+  "key": "pingdom-create-http-check",
+  "name": "Create HTTP Check",
+  "description": "Creates a new HTTP check in Pingdom. [See the documentation](https://docs.pingdom.com/api/#tag/Checks/operation/post.checks)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zendesk-get-user-info",
+  "name": "Get User Info",
+  "description": "Retrieves information about a specific user. [See the documentation](https://developer.zendesk.com/api-reference/ticketing/users/users/#show-user).",
+  "type": "action",
+  "version": "0.0.15"
+}

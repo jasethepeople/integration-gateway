@@ -1,0 +1,7 @@
+{
+  "key": "the_odds_api-new-sport-event",
+  "name": "New Sport Event",
+  "description": "Emit new event when a new sports event is listed on The Odds API.",
+  "type": "source",
+  "version": "0.0.1"
+}

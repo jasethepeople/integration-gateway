@@ -1,0 +1,7 @@
+{
+  "key": "woocommerce-create-customer",
+  "name": "Create Customer",
+  "description": "Creates a new customer. [See the docs](https://woocommerce.github.io/woocommerce-rest-api-docs/?javascript#create-a-customer)",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "getaccept-create-document",
+  "name": "Create Document",
+  "description": "Create a document to be able to send it to a recipient. [See the documentation](https://app.getaccept.com/api/#createdocument)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,24 @@
+{
+  "app": "moneybird",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "administration_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "moneybird-create-contact",
+    "moneybird-create-quote",
+    "moneybird-create-sale-invoice",
+    "moneybird-list-contact-id-options",
+    "moneybird-list-product-id-options",
+    "moneybird-list-project-id-options",
+    "moneybird-new-webhook-event"
+  ]
+}

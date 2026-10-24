@@ -1,0 +1,7 @@
+{
+  "key": "terraform-create-run",
+  "name": "Create Run",
+  "description": "Creates a new run in Terraform. [See the documentation](https://developer.hashicorp.com/terraform/cloud-docs/api-docs/run#create-a-run)",
+  "type": "action",
+  "version": "0.0.2"
+}

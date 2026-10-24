@@ -1,0 +1,7 @@
+{
+  "key": "printnode-new-event-instant",
+  "name": "New Event Instant",
+  "description": "Emit new event when a new printnode event is created. [See the documentation](https://www.printnode.com/en/docs/api/curl)",
+  "type": "source",
+  "version": "0.0.1"
+}

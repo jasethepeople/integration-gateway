@@ -1,0 +1,68 @@
+{
+  "app": "getty_images",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "phrase": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "imageType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orientation": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "licenseModel": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sortOrder": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pageSize": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "imageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "collectionName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "collectionDescription": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "boardId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_client_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "getty_images-create-collection",
+    "getty_images-download-image",
+    "getty_images-list-product-type-options",
+    "getty_images-search-images",
+    "getty_images-new-download",
+    "getty_images-new-image",
+    "getty_images-new-search-result"
+  ]
+}

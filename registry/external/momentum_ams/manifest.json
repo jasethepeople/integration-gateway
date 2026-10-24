@@ -1,0 +1,40 @@
+{
+  "app": "momentum_ams",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "subject": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "creatorName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "isStickyNote": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "hide": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "id": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "momentum_ams-get-client",
+    "momentum_ams-insert-note",
+    "momentum_ams-list-id-options"
+  ]
+}

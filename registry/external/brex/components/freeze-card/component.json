@@ -1,0 +1,7 @@
+{
+  "key": "brex-freeze-card",
+  "name": "Freeze Card",
+  "description": "Freezes (locks) a card so it declines new purchases. Reversible with **Unfreeze Card**. [See the documentation](https://developer.brex.com/openapi/team_api/cards/lockcard)",
+  "type": "action",
+  "version": "0.0.1"
+}

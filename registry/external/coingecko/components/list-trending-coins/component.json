@@ -1,0 +1,7 @@
+{
+  "key": "coingecko-list-trending-coins",
+  "name": "List Trending Coins",
+  "description": "List the top-7 trending coins on CoinGecko based on search volume in the last 24 hours. [See the documentation](https://docs.coingecko.com/v3.0.1/reference/trending-search)",
+  "type": "action",
+  "version": "0.0.1"
+}

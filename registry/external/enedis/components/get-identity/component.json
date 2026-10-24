@@ -1,0 +1,7 @@
+{
+  "key": "enedis-get-identity",
+  "name": "Get Identity",
+  "description": "Returns the identity of a client. [See the docs here](https://datahub-enedis.fr/data-connect/documentation/customers-v5-identite/)",
+  "type": "action",
+  "version": "0.0.3"
+}

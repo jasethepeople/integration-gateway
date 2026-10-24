@@ -1,0 +1,7 @@
+{
+  "key": "smartroutes-list-capacities-options",
+  "name": "List Capacities Options",
+  "description": "Retrieves available options for the Capacities field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "app": "kanbanize",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "kanbanize-create-new-task",
+    "kanbanize-edit-task",
+    "kanbanize-list-all-tasks",
+    "kanbanize-list-board-id-options"
+  ]
+}

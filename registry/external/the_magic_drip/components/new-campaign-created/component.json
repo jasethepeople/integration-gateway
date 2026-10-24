@@ -1,0 +1,7 @@
+{
+  "key": "the_magic_drip-new-campaign-created",
+  "name": "New Campaign Created",
+  "description": "Emit new event when a campaign is created. [See the documentation](https://docs.themagicdrip.com/api-reference/endpoint/get-v1campaign)",
+  "type": "source",
+  "version": "0.0.1"
+}

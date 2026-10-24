@@ -1,0 +1,7 @@
+{
+  "key": "guru-list-folder-ids-options",
+  "name": "List Folder Ids Options",
+  "description": "Retrieves available options for the Folder Ids field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "surecart-create-promotion",
+  "name": "Create Promotion",
+  "description": "Create a new promotion. [See the documentation](https://developer.surecart.com/api-reference/promotions/create)",
+  "type": "action",
+  "version": "0.0.1"
+}

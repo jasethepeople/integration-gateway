@@ -1,0 +1,7 @@
+{
+  "key": "wise-create-transfer",
+  "name": "Create Transfer",
+  "description": "Creates a transfer. [See docs here](https://api-docs.wise.com/api-reference/transfer#create)",
+  "type": "action",
+  "version": "0.0.7"
+}

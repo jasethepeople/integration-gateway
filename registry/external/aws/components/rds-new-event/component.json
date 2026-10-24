@@ -1,0 +1,7 @@
+{
+  "key": "aws-rds-new-event",
+  "name": "New Update to AWS RDS Database (Instant)",
+  "description": "Emit new event when there is an update to an AWS RDS Database.",
+  "type": "source",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "unleashed_software-create-stock-adjustment",
+  "name": "Create Stock Adjustment",
+  "description": "Create a stock adjustment. [See the documentation](https://apidocs.unleashedsoftware.com/StockAdjustments)",
+  "type": "action",
+  "version": "0.0.1"
+}

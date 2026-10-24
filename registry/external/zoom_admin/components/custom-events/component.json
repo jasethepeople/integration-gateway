@@ -1,0 +1,7 @@
+{
+  "key": "zoom_admin-custom-events",
+  "name": "Custom Events",
+  "description": "Listen for any events tied to your Zoom account",
+  "type": "source",
+  "version": "0.1.9"
+}

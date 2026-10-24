@@ -1,0 +1,7 @@
+{
+  "key": "seven-lookup-cnam",
+  "name": "Lookup CNAM",
+  "description": "Look up caller name information via Seven. [See the documentation](https://docs.seven.io/en/rest-api/endpoints/lookup#cnam)",
+  "type": "action",
+  "version": "0.0.3"
+}

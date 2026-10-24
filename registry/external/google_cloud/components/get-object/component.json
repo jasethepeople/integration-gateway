@@ -1,0 +1,7 @@
+{
+  "key": "google_cloud-get-object",
+  "name": "Get Object",
+  "description": "Downloads an object from a Google Cloud Storage bucket, [See the docs](https://googleapis.dev/nodejs/storage/latest/File.html#get)",
+  "type": "action",
+  "version": "0.0.6"
+}

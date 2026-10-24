@@ -1,0 +1,7 @@
+{
+  "key": "billbee-list-shipping-provider-id-options",
+  "name": "List Shipping Provider ID Options",
+  "description": "Retrieves available options for the Shipping Provider ID field.",
+  "type": "action",
+  "version": "0.0.2"
+}

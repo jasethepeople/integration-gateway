@@ -1,0 +1,7 @@
+{
+  "key": "gupshup-send-template-message",
+  "name": "Send Template Message",
+  "description": "Send a template message. Requires a paid Gupshup account. [See the documentation](https://docs.gupshup.io/reference/sending-text-template)",
+  "type": "action",
+  "version": "0.0.1"
+}

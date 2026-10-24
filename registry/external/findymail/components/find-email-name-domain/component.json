@@ -1,0 +1,7 @@
+{
+  "key": "findymail-find-email-name-domain",
+  "name": "Find Email by company domain",
+  "description": "Locates an email using a company's website. [See the documentation](https://app.findymail.com/docs/)",
+  "type": "action",
+  "version": "0.0.2"
+}

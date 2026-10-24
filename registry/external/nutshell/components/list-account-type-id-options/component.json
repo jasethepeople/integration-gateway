@@ -1,0 +1,7 @@
+{
+  "key": "nutshell-list-account-type-id-options",
+  "name": "List Account Type Id Options",
+  "description": "Retrieves available options for the Account Type Id field.",
+  "type": "action",
+  "version": "1.0.0"
+}

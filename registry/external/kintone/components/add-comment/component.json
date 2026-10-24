@@ -1,0 +1,7 @@
+{
+  "key": "kintone-add-comment",
+  "name": "Add Comment",
+  "description": "Adds a comment to a record in a Kintone App. [See the documentation](https://kintone.dev/en/docs/kintone/rest-api/records/add-comment/)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "drip-activate-workflow",
+  "name": "Activate Workflow",
+  "description": "Activate a workflow. [See the docs here](https://developer.drip.com/#activate-a-workflow)",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zoho_books-list-invoices",
+  "name": "List Invoices",
+  "description": "Lists all invoices. [See the documentation](https://www.zoho.com/books/api/v3/contacts/#list-contacts)",
+  "type": "action",
+  "version": "0.3.1"
+}

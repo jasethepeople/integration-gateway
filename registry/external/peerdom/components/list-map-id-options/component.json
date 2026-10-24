@@ -1,0 +1,7 @@
+{
+  "key": "peerdom-list-map-id-options",
+  "name": "List Map ID Options",
+  "description": "Retrieves available options for the Map ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

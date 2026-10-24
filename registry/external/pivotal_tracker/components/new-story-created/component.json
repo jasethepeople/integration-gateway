@@ -1,0 +1,7 @@
+{
+  "key": "pivotal_tracker-new-story-created",
+  "name": "New Story Created (Instant)",
+  "description": "Emit new event when a new story is created in a project.",
+  "type": "source",
+  "version": "0.0.1"
+}

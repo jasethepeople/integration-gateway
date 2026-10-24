@@ -1,0 +1,7 @@
+{
+  "key": "upsales-get-opportunity",
+  "name": "Get Opportunity",
+  "description": "Retrieves a specific opportunity from Upsales. [See the documentation](https://api.upsales.com/#b8dfce4a-4627-427d-8aa4-50ce2487f0d1)",
+  "type": "action",
+  "version": "0.0.1"
+}

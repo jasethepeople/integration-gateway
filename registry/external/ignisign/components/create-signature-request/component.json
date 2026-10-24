@@ -1,0 +1,7 @@
+{
+  "key": "ignisign-create-signature-request",
+  "name": "Create Signature Request",
+  "description": "Creates a document signature request through IgniSign. [See the documentation](https://ignisign.io/docs/ignisign-api/init-signature-request)",
+  "type": "action",
+  "version": "1.0.3"
+}

@@ -1,0 +1,20 @@
+{
+  "app": "peaka",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "peaka-list-project-id-options",
+    "peaka-run-query",
+    "peaka-search-query"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "claap-list-recordings",
+  "name": "List Recordings",
+  "description": "List recordings in Claap. [See the documentation](https://docs.claap.io/api-reference/endpoint/list_recordings).",
+  "type": "action",
+  "version": "0.0.1"
+}

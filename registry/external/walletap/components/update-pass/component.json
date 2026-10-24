@@ -1,0 +1,7 @@
+{
+  "key": "walletap-update-pass",
+  "name": "Update Pass",
+  "description": "Updates an existing Walletap pass and pushes the updated pass to the user. [See the documentation](https://walletap.io/docs/api#tag/Pass/operation/updatePass)",
+  "type": "action",
+  "version": "0.0.2"
+}

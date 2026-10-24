@@ -1,0 +1,7 @@
+{
+  "key": "clickup-remove-task-custom-field",
+  "name": "Remove Task Custom Field",
+  "description": "Remove custom field from a task. [See the documentation](https://clickup.com/api) in **Custom Fields / Remove Custom Field Value** section.",
+  "type": "action",
+  "version": "0.0.12"
+}

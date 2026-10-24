@@ -1,0 +1,28 @@
+{
+  "app": "encharge",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "encharge-add-or-update-person",
+    "encharge-archive-person",
+    "encharge-list-user-id-options",
+    "encharge-remove-tags",
+    "encharge-new-person-instant",
+    "encharge-tag-removed-from-person-instant",
+    "encharge-updated-person-instant"
+  ]
+}

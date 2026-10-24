@@ -1,0 +1,7 @@
+{
+  "key": "booking_experts-get-amenity",
+  "name": "Get Amenity",
+  "description": "Retrieve a single amenity by ID. [See the documentation](https://developers.bookingexperts.com/reference/amenities-show)",
+  "type": "action",
+  "version": "1.0.1"
+}

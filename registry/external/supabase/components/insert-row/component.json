@@ -1,0 +1,7 @@
+{
+  "key": "supabase-insert-row",
+  "name": "Insert Row",
+  "description": "Inserts a new row into a database. [See the docs here](https://supabase.com/docs/reference/javascript/insert)",
+  "type": "action",
+  "version": "0.1.6"
+}

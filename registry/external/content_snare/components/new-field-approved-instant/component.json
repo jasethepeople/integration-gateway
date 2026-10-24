@@ -1,0 +1,7 @@
+{
+  "key": "content_snare-new-field-approved-instant",
+  "name": "New Field Approved (Instant)",
+  "description": "Emit new event when a field is approved in Content Snare. [See the documentation](https://contentsnare.com/help/knowledge-base/content-snare-webhooks/#field-webhooks)",
+  "type": "source",
+  "version": "0.0.1"
+}

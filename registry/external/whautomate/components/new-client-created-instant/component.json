@@ -1,0 +1,7 @@
+{
+  "key": "whautomate-new-client-created-instant",
+  "name": "New Client Created (Instant)",
+  "description": "Emit new event when a new client is created in Whautomate.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,24 @@
+{
+  "app": "placid",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "layers": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "placid-generate-image",
+    "placid-generate-pdf",
+    "placid-list-template-id-options"
+  ]
+}

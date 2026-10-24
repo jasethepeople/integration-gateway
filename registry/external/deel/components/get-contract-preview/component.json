@@ -1,0 +1,7 @@
+{
+  "key": "deel-get-contract-preview",
+  "name": "Get Contract Preview",
+  "description": "Retrieve the full contract agreement text as HTML for a specific Deel contract.",
+  "type": "action",
+  "version": "0.0.2"
+}

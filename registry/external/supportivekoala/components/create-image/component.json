@@ -1,0 +1,7 @@
+{
+  "key": "supportivekoala-create-image",
+  "name": "Create an Image",
+  "description": "Creates an image based on a template. [See the docs here](https://developers.supportivekoala.com/#create_image)",
+  "type": "action",
+  "version": "0.0.4"
+}

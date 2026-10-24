@@ -1,0 +1,7 @@
+{
+  "key": "griptape-list-structure-id-options",
+  "name": "List Structure ID Options",
+  "description": "Retrieves available options for the Structure ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

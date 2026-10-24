@@ -1,0 +1,7 @@
+{
+  "key": "jumpseller-order-updated",
+  "name": "Order Updated",
+  "description": "Emit new event when an order is updated in Jumpseller. [See the documentation](https://jumpseller.com/support/api/#tag/Hooks/paths/~1hooks.json/post)",
+  "type": "source",
+  "version": "0.0.2"
+}

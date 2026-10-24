@@ -1,0 +1,7 @@
+{
+  "key": "roundtable-consult-council",
+  "name": "Consult Council",
+  "description": "Run a multi-model AI debate on any question. Multiple AI models discuss your prompt, then a moderator synthesizes all perspectives. [See the documentation](https://roundtable.now)",
+  "type": "action",
+  "version": "0.0.1"
+}

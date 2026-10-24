@@ -1,0 +1,165 @@
+{
+  "app": "agile_crm",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "filter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contact": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "deal": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dealNote": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxRequests": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "group": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "company": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subject": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskPriority": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ticketPriority": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskStatus": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ticketStatus": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "milestone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "message": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customFields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "score": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "noteSubject": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "noteDescription": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dealName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "expectedValue": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "probability": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "agile_crm-add-score-to-contact",
+    "agile_crm-add-tags-to-contact",
+    "agile_crm-create-company",
+    "agile_crm-create-contact-note",
+    "agile_crm-create-contact",
+    "agile_crm-create-deal-note",
+    "agile_crm-create-deal",
+    "agile_crm-create-task",
+    "agile_crm-create-ticket",
+    "agile_crm-list-filter-options",
+    "agile_crm-update-company",
+    "agile_crm-update-contact",
+    "agile_crm-update-deal-note",
+    "agile_crm-update-deal",
+    "agile_crm-new-contact",
+    "agile_crm-new-task",
+    "agile_crm-new-ticket"
+  ],
+  "npmImports": [
+    "lodash.pickby"
+  ]
+}

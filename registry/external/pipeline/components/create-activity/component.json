@@ -1,0 +1,7 @@
+{
+  "key": "pipeline-create-activity",
+  "name": "Create Activity",
+  "description": "Creates a new activity associated with an existing person, company, or deal. [See the docs here](https://app.pipelinecrm.com/api/docs#tag/Activities-(Notes)/paths/~1notes/post)",
+  "type": "action",
+  "version": "0.0.2"
+}

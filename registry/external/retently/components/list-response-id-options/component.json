@@ -1,0 +1,7 @@
+{
+  "key": "retently-list-response-id-options",
+  "name": "List Response Options",
+  "description": "Retrieves available options for the Response field.",
+  "type": "action",
+  "version": "0.0.1"
+}

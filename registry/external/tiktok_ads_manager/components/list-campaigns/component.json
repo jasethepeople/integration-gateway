@@ -1,0 +1,7 @@
+{
+  "key": "tiktok_ads_manager-list-campaigns",
+  "name": "List Campaigns",
+  "description": "List campaigns in a TikTok Ads account with optional filters.",
+  "type": "action",
+  "version": "0.0.2"
+}

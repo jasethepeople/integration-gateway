@@ -1,0 +1,7 @@
+{
+  "key": "sharepoint-find-file-by-name",
+  "name": "Find File by Name",
+  "description": "Search the site's default drive for files or folders matching a query.",
+  "type": "action",
+  "version": "0.1.11"
+}

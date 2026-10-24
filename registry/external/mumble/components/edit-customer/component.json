@@ -1,0 +1,7 @@
+{
+  "key": "mumble-edit-customer",
+  "name": "Edit Customer",
+  "description": "Edits the customer with the specified phone number. [See the documentation](https://app.mumble.co.il/mumbleapi/docs)",
+  "type": "action",
+  "version": "0.0.2"
+}

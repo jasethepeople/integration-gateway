@@ -1,0 +1,7 @@
+{
+  "key": "universal_api-list-consumers",
+  "name": "List Consumers",
+  "description": "List consumers from the Platform API on Universal API. Returns an array (paginated internally, up to `maxResults`); use the returned IDs with **Delete Consumer**. [See the documentation](https://docs.universalapi.io/reference/get-consumer).",
+  "type": "action",
+  "version": "0.0.2"
+}

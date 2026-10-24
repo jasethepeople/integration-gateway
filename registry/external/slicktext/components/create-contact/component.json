@@ -1,0 +1,7 @@
+{
+  "key": "slicktext-create-contact",
+  "name": "Create Contact",
+  "description": "Add a new contact to your messaging list. [See the documentation](https://api.slicktext.com/docs/v1/contacts)",
+  "type": "action",
+  "version": "0.0.2"
+}

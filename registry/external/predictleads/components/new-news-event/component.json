@@ -1,0 +1,7 @@
+{
+  "key": "predictleads-new-news-event",
+  "name": "New News Event Added",
+  "description": "Emit new event for each new news event for a specific company. [See the documentation](https://docs.predictleads.com/v3/api_endpoints/news_events_dataset/retrieve_company_s_news_events)",
+  "type": "source",
+  "version": "0.0.1"
+}

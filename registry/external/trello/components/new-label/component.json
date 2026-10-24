@@ -1,0 +1,7 @@
+{
+  "key": "trello-new-label",
+  "name": "New Label Created (Instant)",
+  "description": "Emit new event for each new label added to a board.",
+  "type": "source",
+  "version": "0.1.6"
+}

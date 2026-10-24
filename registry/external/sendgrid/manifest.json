@@ -1,0 +1,184 @@
+{
+  "app": "sendgrid",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "listIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "segmentIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "designId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "categoryIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "senderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "globalSuppressionEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fromEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "deleteAll": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "blockedEmails": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "bouncedEmails": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startTime": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "endTime": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "fromName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "replyToEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "replyToName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subject": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "content": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "numberOfAttachments": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "headers": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "categories": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "customArgs": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sendAt": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "asm": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "asmGroupId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "asmGroupsToDisplay": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "ipPoolName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mailSettings": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "trackingSettings": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sendgrid-add-email-to-global-suppression",
+    "sendgrid-add-or-update-contact",
+    "sendgrid-create-contact-list",
+    "sendgrid-create-send",
+    "sendgrid-delete-blocks",
+    "sendgrid-delete-bounces",
+    "sendgrid-delete-contacts",
+    "sendgrid-delete-global-suppression",
+    "sendgrid-delete-list",
+    "sendgrid-get-a-block",
+    "sendgrid-get-a-global-suppression",
+    "sendgrid-get-all-bounces",
+    "sendgrid-get-contact-lists",
+    "sendgrid-list-asm-group-id-options",
+    "sendgrid-list-asm-groups-to-display-options",
+    "sendgrid-list-blocked-emails-options",
+    "sendgrid-list-blocks",
+    "sendgrid-list-bounced-emails-options",
+    "sendgrid-list-category-ids-options",
+    "sendgrid-list-contact-email-options",
+    "sendgrid-list-design-id-options",
+    "sendgrid-list-from-email-options",
+    "sendgrid-list-global-suppression-email-options",
+    "sendgrid-list-global-suppressions",
+    "sendgrid-list-segment-ids-options",
+    "sendgrid-list-sender-id-options",
+    "sendgrid-list-template-id-options",
+    "sendgrid-remove-contact-from-list",
+    "sendgrid-search-contacts",
+    "sendgrid-send-email-multiple-recipients",
+    "sendgrid-send-email-single-recipient",
+    "sendgrid-validate-email",
+    "sendgrid-events",
+    "sendgrid-new-contact"
+  ],
+  "npmImports": [
+    "@sendgrid/client",
+    "@sendgrid/eventwebhook",
+    "async-retry",
+    "lodash",
+    "mime",
+    "uuid",
+    "validate.js"
+  ]
+}

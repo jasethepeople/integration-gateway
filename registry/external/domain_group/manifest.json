@@ -1,0 +1,96 @@
+{
+  "app": "domain_group",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "agencyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "providerAdId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "listingAction": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "propertyType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "underOfferOrContract": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "nabers": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fromPrice": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "toPrice": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "features": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "streetNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "unitNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "street": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "state": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "suburb": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "postcode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "receiveEmailsToDefaultAddress": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "isRural": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "domain_group-create-business-listing",
+    "domain_group-create-commercial-listing",
+    "domain_group-create-residential-listing",
+    "domain_group-list-agency-id-options",
+    "domain_group-agency-listing-updated",
+    "domain_group-new-agency-created",
+    "domain_group-new-agency-listing-created"
+  ]
+}

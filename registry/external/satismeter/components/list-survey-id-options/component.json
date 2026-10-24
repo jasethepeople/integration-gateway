@@ -1,0 +1,7 @@
+{
+  "key": "satismeter-list-survey-id-options",
+  "name": "List Survey ID Options",
+  "description": "Retrieves available options for the Survey ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

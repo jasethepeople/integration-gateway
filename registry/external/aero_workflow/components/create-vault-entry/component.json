@@ -1,0 +1,7 @@
+{
+  "key": "aero_workflow-create-vault-entry",
+  "name": "Create Vault Entry",
+  "description": "Creates a vault entry for selected company [See the docs here](https://api.aeroworkflow.com/swagger/index.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

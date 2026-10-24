@@ -1,0 +1,7 @@
+{
+  "key": "trustpilot-reply-to-service-review",
+  "name": "Reply to Service Review",
+  "description": "Reply to a service review on Trustpilot.",
+  "type": "action",
+  "version": "0.1.1"
+}

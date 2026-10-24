@@ -1,0 +1,21 @@
+{
+  "app": "timecamp",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "timecamp-create-task",
+    "timecamp-create-time-entry",
+    "timecamp-list-task-id-options",
+    "timecamp-new-task",
+    "timecamp-new-time-entry"
+  ],
+  "npmImports": [
+    "dayjs"
+  ]
+}

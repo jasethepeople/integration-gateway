@@ -1,0 +1,22 @@
+{
+  "app": "albus",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "prompt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "waitForCompletion": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "albus-ask-question"
+  ]
+}

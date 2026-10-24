@@ -1,0 +1,56 @@
+{
+  "app": "fynk",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "templateUuid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "documentUuid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "partyUuid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "metadataValueUuid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tagUuids": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "documentType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "entityType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "scope": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "targetStage": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "fynk-create-contract-from-template",
+    "fynk-list-document-uuid-options",
+    "fynk-list-tag-uuids-options",
+    "fynk-list-template-uuid-options",
+    "fynk-move-contract-stage",
+    "fynk-update-contract-metadata",
+    "fynk-update-contract-party"
+  ]
+}

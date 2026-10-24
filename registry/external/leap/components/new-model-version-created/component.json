@@ -1,0 +1,7 @@
+{
+  "key": "leap-new-model-version-created",
+  "name": "New Model Version Created",
+  "description": "Emit new event when a new model version is created/queued for training. [See the documentation](https://docs.tryleap.ai/reference/versionscontroller_findall-1)",
+  "type": "source",
+  "version": "0.0.1"
+}

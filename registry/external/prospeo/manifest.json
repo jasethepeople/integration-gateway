@@ -1,0 +1,18 @@
+{
+  "app": "prospeo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "prospeo-extract-data",
+    "prospeo-find-email",
+    "prospeo-find-mobile-number",
+    "prospeo-search-domain",
+    "prospeo-verify-email"
+  ]
+}

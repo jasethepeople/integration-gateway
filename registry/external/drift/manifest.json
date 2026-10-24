@@ -1,0 +1,14 @@
+{
+  "app": "drift",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "drift-create-contact",
+    "drift-delete-contact",
+    "drift-get-contact",
+    "drift-update-contact",
+    "drift-new-conversation",
+    "drift-new-message"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "app": "templatefox",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "data": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "expiration": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "filename": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "templatefox-generate-pdf",
+    "templatefox-list-templates"
+  ],
+  "npmImports": [
+    "fs",
+    "stream"
+  ]
+}

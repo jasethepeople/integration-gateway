@@ -1,0 +1,7 @@
+{
+  "key": "wise-new-transfer-completed",
+  "name": "New Transfer Completed (Instant)",
+  "description": "Emit new event for a transfer completed.",
+  "type": "source",
+  "version": "0.0.5"
+}

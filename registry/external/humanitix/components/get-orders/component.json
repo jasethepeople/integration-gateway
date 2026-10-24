@@ -1,0 +1,7 @@
+{
+  "key": "humanitix-get-orders",
+  "name": "Get Orders",
+  "description": "Retrieves a list of orders from Humanitix. [See the documentation](https://humanitix.stoplight.io/docs/humanitix-public-api/468f50b741494-get-orders)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "clearout-verify-email",
+  "name": "Verify Email",
+  "description": "Verify an email. [See the documentation](https://docs.clearout.io/api.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,41 @@
+{
+  "app": "proabono",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "offerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "metadata": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "api_endpoint": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "agent_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "proabono-create-customer",
+    "proabono-create-subscription",
+    "proabono-list-customer-id-options",
+    "proabono-list-offer-id-options",
+    "proabono-retrieve-customer",
+    "proabono-new-customer-created",
+    "proabono-new-offer-created",
+    "proabono-new-subscription-created"
+  ]
+}

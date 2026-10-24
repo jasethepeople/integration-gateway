@@ -1,0 +1,7 @@
+{
+  "key": "fortnox-update-customer",
+  "name": "Update Customer",
+  "description": "Updates an existing customer in the Fortnox API. [See the documentation](https://api.fortnox.se/apidocs#tag/fortnox_Customers/operation/update_14).",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "mboum-get-revenue",
+  "name": "Get Revenue Data",
+  "description": "Get detailed revenue breakdown and analysis for a company including revenue trends and segments. [See the documentation](https://docs.mboum.com/#stocks-options-small-stylecolor-f8f2f2background-fa256fpadding-1px-4pxborder-radius-3pxhotsmall-GETapi-v2-markets-stock-revenue)",
+  "type": "action",
+  "version": "0.0.2"
+}

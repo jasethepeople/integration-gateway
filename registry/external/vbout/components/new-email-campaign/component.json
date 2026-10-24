@@ -1,0 +1,7 @@
+{
+  "key": "vbout-new-email-campaign",
+  "name": "New Email Campaign",
+  "description": "Emit new event for each new email campaign. [See docs here](https://developers.vbout.com/docs#emailmarketing_campaigns)",
+  "type": "source",
+  "version": "0.0.4"
+}

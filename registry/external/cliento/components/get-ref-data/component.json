@@ -1,0 +1,7 @@
+{
+  "key": "cliento-get-ref-data",
+  "name": "Get Reference Data",
+  "description": "Fetch services, resources and mappings for the booking widget. [See the documentation](https://developers.cliento.com/docs/rest-api#fetch-ref-data)",
+  "type": "action",
+  "version": "0.0.2"
+}

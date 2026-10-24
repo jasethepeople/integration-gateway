@@ -1,0 +1,7 @@
+{
+  "key": "heartbeat-create-event",
+  "name": "Create Event",
+  "description": "Create a new Event in a Heartbeat community. [See the documentation](https://heartbeat.readme.io/reference/createevent)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "docugenerate-delete-document",
+  "name": "Delete Document",
+  "description": "Deletes a specific document. [See the documentation](https://api.docugenerate.com/#/Document/deleteDocument)",
+  "type": "action",
+  "version": "0.0.3"
+}

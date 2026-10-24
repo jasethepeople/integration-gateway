@@ -1,0 +1,7 @@
+{
+  "key": "loop_returns-label-updated-instant",
+  "name": "Label Updated (Instant)",
+  "description": "Emit new event when a label is updated. [See the documentation](https://docs.loopreturns.com/reference/post_webhooks)",
+  "type": "source",
+  "version": "0.0.1"
+}

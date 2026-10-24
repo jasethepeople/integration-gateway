@@ -1,0 +1,7 @@
+{
+  "key": "pipedream_utils-extract-url",
+  "name": "Formatting - [Text] Extract URL",
+  "description": "Find a web URL out of a text field. Finds the first URL only.",
+  "type": "action",
+  "version": "0.0.6"
+}

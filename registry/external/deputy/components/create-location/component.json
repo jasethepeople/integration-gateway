@@ -1,0 +1,7 @@
+{
+  "key": "deputy-create-location",
+  "name": "Create Location",
+  "description": "Creates a new location in Deputy. [See the documentation](https://developer.deputy.com/deputy-docs/reference/addalocation)",
+  "type": "action",
+  "version": "0.0.2"
+}

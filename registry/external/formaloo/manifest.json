@@ -1,0 +1,28 @@
+{
+  "app": "formaloo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "formSlug": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "formaloo-list-form-slug-options",
+    "formaloo-form-payment-completed-instant",
+    "formaloo-form-submitted-instant",
+    "formaloo-row-updated-instant"
+  ],
+  "npmImports": [
+    "uuid"
+  ]
+}

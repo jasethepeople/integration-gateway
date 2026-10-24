@@ -1,0 +1,7 @@
+{
+  "key": "databox-list-metric-key-options",
+  "name": "List Metric Key Options",
+  "description": "Retrieves available options for the Metric Key field.",
+  "type": "action",
+  "version": "0.0.1"
+}

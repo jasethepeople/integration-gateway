@@ -1,0 +1,7 @@
+{
+  "key": "threads-delete-thread",
+  "name": "Delete a Thread",
+  "description": "Delete a thread. [See the Documentation](https://github.com/ThreadsHQ/api-documentation#delete-thread)",
+  "type": "action",
+  "version": "0.1.5"
+}

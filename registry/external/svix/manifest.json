@@ -1,0 +1,31 @@
+{
+  "app": "svix",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "appId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eventTypes": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "messageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "svix-create-message",
+    "svix-delete-message",
+    "svix-list-app-id-options",
+    "svix-list-event-types-options",
+    "svix-list-messages",
+    "svix-new-event-received"
+  ]
+}

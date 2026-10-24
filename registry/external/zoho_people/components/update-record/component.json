@@ -1,0 +1,7 @@
+{
+  "key": "zoho_people-update-record",
+  "name": "Update Record",
+  "description": "Update a record to a Zoho People module. [See the documentation](https://www.zoho.com/people/api/update-records.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

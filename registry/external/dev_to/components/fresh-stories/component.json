@@ -1,0 +1,7 @@
+{
+  "key": "dev_to-fresh-stories",
+  "name": "New Stories",
+  "description": "Emit new Dev.to story",
+  "type": "source",
+  "version": "0.0.4"
+}

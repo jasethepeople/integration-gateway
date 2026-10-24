@@ -1,0 +1,7 @@
+{
+  "key": "buddee-list-cost-center-id-options",
+  "name": "List Cost Center ID Options",
+  "description": "Retrieves available options for the Cost Center ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

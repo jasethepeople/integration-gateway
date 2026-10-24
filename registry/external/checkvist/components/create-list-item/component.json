@@ -1,0 +1,7 @@
+{
+  "key": "checkvist-create-list-item",
+  "name": "Create List Item",
+  "description": "Creates a new list item within a specified list. [See the documentation](https://checkvist.com/auth/api)",
+  "type": "action",
+  "version": "0.0.2"
+}

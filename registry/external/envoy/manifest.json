@@ -1,0 +1,50 @@
+{
+  "app": "envoy",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "expectedArrivalAt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "locationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "visitorName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "visitorEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "expectedDepartureAt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "employeeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "notes": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sendEmailToInvitee": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "envoy-create-an-invite",
+    "envoy-list-employee-id-options",
+    "envoy-list-location-id-options",
+    "envoy-visitor-invited",
+    "envoy-visitor-signed-status-changed"
+  ]
+}

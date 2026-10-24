@@ -1,0 +1,7 @@
+{
+  "key": "google_tag_manager-update-variable",
+  "name": "Update Tag",
+  "description": "Update a variable in a workspace. [See the documentation](https://developers.google.com/tag-platform/tag-manager/api/v2/reference/accounts/containers/workspaces/variables/update)",
+  "type": "action",
+  "version": "0.0.2"
+}

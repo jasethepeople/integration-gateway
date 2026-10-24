@@ -1,0 +1,7 @@
+{
+  "key": "supercast-new-episode-created",
+  "name": "New Episode Created",
+  "description": "Emit new event when a new episode is created in Supercast. [See the documentation](https://supercast.readme.io/reference/postepisodes)",
+  "type": "source",
+  "version": "0.0.1"
+}

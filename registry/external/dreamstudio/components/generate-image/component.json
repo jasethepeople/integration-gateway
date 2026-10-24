@@ -1,0 +1,7 @@
+{
+  "key": "dreamstudio-generate-image",
+  "name": "Generate Image",
+  "description": "Generate a new image from a text prompt. [See the documentation](https://platform.stability.ai/docs/api-reference#tag/v1generation/operation/textToImage)",
+  "type": "action",
+  "version": "0.0.4"
+}

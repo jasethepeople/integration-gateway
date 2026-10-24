@@ -1,0 +1,7 @@
+{
+  "key": "specific-create-conversation",
+  "name": "Create Conversation",
+  "description": "Create a new conversation. [See the documentation](https://public-api.specific.app/docs/mutations/createConversation)",
+  "type": "action",
+  "version": "0.0.2"
+}

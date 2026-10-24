@@ -1,0 +1,7 @@
+{
+  "key": "miestro-enroll-user-to-course",
+  "name": "Enroll User To Course",
+  "description": "Enrolls user to a course. [See the documentation](https://support.miestro.com/article/279-api-documentation)",
+  "type": "action",
+  "version": "0.0.2"
+}

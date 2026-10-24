@@ -1,0 +1,7 @@
+{
+  "key": "laposta-new-relation-updated",
+  "name": "New Relation Updated (Instant)",
+  "description": "Emit new event on each updated relation. [See docs here (Go to `Add webhook`)](http://api.laposta.nl/doc/)",
+  "type": "source",
+  "version": "0.0.1"
+}

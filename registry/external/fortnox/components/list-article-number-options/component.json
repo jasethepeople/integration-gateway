@@ -1,0 +1,7 @@
+{
+  "key": "fortnox-list-article-number-options",
+  "name": "List Article Number Options",
+  "description": "Retrieves available options for the Article Number field.",
+  "type": "action",
+  "version": "0.0.1"
+}

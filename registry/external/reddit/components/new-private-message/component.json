@@ -1,0 +1,7 @@
+{
+  "key": "reddit-new-private-message",
+  "name": "New Private Message",
+  "description": "Emit new event each time you receive a new private message.",
+  "type": "source",
+  "version": "0.0.2"
+}

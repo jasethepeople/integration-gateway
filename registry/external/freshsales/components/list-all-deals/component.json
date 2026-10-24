@@ -1,0 +1,7 @@
+{
+  "key": "freshsales-list-all-deals",
+  "name": "List All Deals",
+  "description": "Fetch all deals from your Freshsales account. [See the documentation](https://developer.freshsales.io/api/#list_all_deals)",
+  "type": "action",
+  "version": "0.0.2"
+}

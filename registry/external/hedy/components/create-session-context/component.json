@@ -1,0 +1,7 @@
+{
+  "key": "hedy-create-session-context",
+  "name": "Create Session Context",
+  "description": "Creates a new reusable Hedy session context — a named set of custom AI instructions that can be applied to meeting recordings to guide analysis.",
+  "type": "action",
+  "version": "0.0.2"
+}

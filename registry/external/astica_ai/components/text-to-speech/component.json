@@ -1,0 +1,7 @@
+{
+  "key": "astica_ai-text-to-speech",
+  "name": "Text To Speech",
+  "description": "Convert text to voice audio with Astica AI [See the documentation](https://astica.ai/voice/documentation/)",
+  "type": "action",
+  "version": "0.0.3"
+}

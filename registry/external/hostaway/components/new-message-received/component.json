@@ -1,0 +1,7 @@
+{
+  "key": "hostaway-new-message-received",
+  "name": "New Message Received",
+  "description": "Emit new event when a new message is received in Hostaway.",
+  "type": "source",
+  "version": "0.0.3"
+}

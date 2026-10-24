@@ -1,0 +1,14 @@
+{
+  "app": "trawlingweb",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "trawlingweb-search-news"
+  ]
+}

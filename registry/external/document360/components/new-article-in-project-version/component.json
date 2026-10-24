@@ -1,0 +1,7 @@
+{
+  "key": "document360-new-article-in-project-version",
+  "name": "New Article in Project Version",
+  "description": "Emit new event when a new article is created within a project version. [See the documentation](https://apidocs.document360.com/apidocs/project-version-articles)",
+  "type": "source",
+  "version": "0.0.2"
+}

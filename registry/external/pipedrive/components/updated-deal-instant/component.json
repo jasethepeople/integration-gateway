@@ -1,0 +1,7 @@
+{
+  "key": "pipedrive-updated-deal-instant",
+  "name": "Deal Updated (Instant)",
+  "description": "Emit new event when a deal is updated.",
+  "type": "source",
+  "version": "0.1.14"
+}

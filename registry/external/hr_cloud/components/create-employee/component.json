@@ -1,0 +1,7 @@
+{
+  "key": "hr_cloud-create-employee",
+  "name": "Create Employee",
+  "description": "Create a new employee record in the system. [See the documentation](https://help.hrcloud.com/api/#/employee#POST_employee)",
+  "type": "action",
+  "version": "0.0.2"
+}

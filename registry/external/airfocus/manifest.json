@@ -1,0 +1,52 @@
+{
+  "app": "airfocus",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "workspaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "itemId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "statusId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fields": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "color": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "archived": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "airfocus-create-item",
+    "airfocus-delete-item",
+    "airfocus-search-item",
+    "airfocus-update-item",
+    "airfocus-new-item-created-or-updated",
+    "airfocus-new-item-created",
+    "airfocus-new-item-updated"
+  ]
+}

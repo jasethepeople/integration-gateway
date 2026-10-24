@@ -1,0 +1,7 @@
+{
+  "key": "productboard-list-features",
+  "name": "List Features",
+  "description": "List all features. [See the docs here](https://developer.productboard.com/#operation/getFeatures)",
+  "type": "action",
+  "version": "0.0.2"
+}

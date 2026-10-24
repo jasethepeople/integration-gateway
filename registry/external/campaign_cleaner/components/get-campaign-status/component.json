@@ -1,0 +1,7 @@
+{
+  "key": "campaign_cleaner-get-campaign-status",
+  "name": "Get Campaign Status",
+  "description": "Check the status of your campaign. [See the documentation](https://api-docs.campaigncleaner.com/#6f4578f7-60f9-4fb6-9b61-08b176f66d82)",
+  "type": "action",
+  "version": "0.0.2"
+}

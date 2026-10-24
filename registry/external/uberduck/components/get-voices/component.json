@@ -1,0 +1,7 @@
+{
+  "key": "uberduck-get-voices",
+  "name": "Get Voices",
+  "description": "List voices available in Uberduck. [See the documentation](https://docs.uberduck.ai/reference/list-voices)",
+  "type": "action",
+  "version": "0.0.2"
+}

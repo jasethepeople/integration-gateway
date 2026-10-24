@@ -1,0 +1,7 @@
+{
+  "key": "zoho_forms-new-response-received-instant",
+  "name": "New Response Received (Instant)",
+  "description": "Emit new event when a specific form receive a new response.",
+  "type": "source",
+  "version": "0.0.1"
+}

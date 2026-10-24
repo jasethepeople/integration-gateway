@@ -1,0 +1,31 @@
+{
+  "app": "klaviyo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "list": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "profileIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "listName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "klaviyo-add-member-to-list",
+    "klaviyo-create-new-list",
+    "klaviyo-get-lists"
+  ],
+  "npmImports": [
+    "klaviyo-api"
+  ]
+}

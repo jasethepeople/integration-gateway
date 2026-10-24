@@ -1,0 +1,7 @@
+{
+  "key": "amplitude-get-user-activity",
+  "name": "Get User Activity",
+  "description": "The numeric Amplitude ID of the user (the `user` param). Example: `12345678`. Use **Search Users** to resolve this from an email or User ID.",
+  "type": "action",
+  "version": "0.0.2"
+}

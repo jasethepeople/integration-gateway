@@ -1,0 +1,283 @@
+{
+  "app": "azure_devops",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "organizationName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eventType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "project": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "teamId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "iterationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "repositoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pullRequestId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "pullRequestTitle": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pullRequestDescription": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pullRequestStatus": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "targetRefName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workItemId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "workItemType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workItemTitle": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workItemDescription": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "assignedTo": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "areaPath": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "iterationPath": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "additionalFields": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "workItemExpand": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workItemFields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "asOf": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "bypassRules": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "suppressNotifications": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "validateOnly": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "commentText": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "wikiComment": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "branchName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "content": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "includeLinks": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "isDraft": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "reviewerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "commitId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "filePath": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "gitVersion": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "gitVersionType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "buildId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "buildDefinitionId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "pipelineId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "releaseDefinitionId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "releaseId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "wikiIdentifier": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "wikiPagePath": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "skip": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_uid": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "personal_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "azure_devops-add-pull-request-reviewer",
+    "azure_devops-add-work-item-comment",
+    "azure_devops-cancel-build",
+    "azure_devops-create-branch",
+    "azure_devops-create-or-update-file",
+    "azure_devops-create-or-update-wiki-page",
+    "azure_devops-create-pipeline",
+    "azure_devops-create-project",
+    "azure_devops-create-pull-request-comment",
+    "azure_devops-create-pull-request",
+    "azure_devops-create-release",
+    "azure_devops-create-repository",
+    "azure_devops-create-wiki",
+    "azure_devops-create-work-item",
+    "azure_devops-delete-repository",
+    "azure_devops-delete-wiki-page",
+    "azure_devops-delete-work-item",
+    "azure_devops-get-build-definition",
+    "azure_devops-get-build",
+    "azure_devops-get-commit",
+    "azure_devops-get-file-content",
+    "azure_devops-get-pipeline-run",
+    "azure_devops-get-pipeline",
+    "azure_devops-get-project",
+    "azure_devops-get-pull-request",
+    "azure_devops-get-release",
+    "azure_devops-get-repository",
+    "azure_devops-get-team-iteration",
+    "azure_devops-get-team-settings",
+    "azure_devops-get-team",
+    "azure_devops-get-user",
+    "azure_devops-get-velocity",
+    "azure_devops-get-wiki-page",
+    "azure_devops-get-work-item",
+    "azure_devops-list-branches",
+    "azure_devops-list-build-artifacts",
+    "azure_devops-list-build-definitions",
+    "azure_devops-list-build-logs",
+    "azure_devops-list-builds",
+    "azure_devops-list-classification-nodes",
+    "azure_devops-list-commits",
+    "azure_devops-list-groups",
+    "azure_devops-list-iteration-work-items",
+    "azure_devops-list-organization-name-options",
+    "azure_devops-list-pipeline-runs",
+    "azure_devops-list-pipelines",
+    "azure_devops-list-processes",
+    "azure_devops-list-projects",
+    "azure_devops-list-pull-request-threads",
+    "azure_devops-list-pull-requests",
+    "azure_devops-list-release-definitions",
+    "azure_devops-list-releases",
+    "azure_devops-list-repositories",
+    "azure_devops-list-repository-items",
+    "azure_devops-list-service-endpoints",
+    "azure_devops-list-team-capacity",
+    "azure_devops-list-team-days-off",
+    "azure_devops-list-team-iterations",
+    "azure_devops-list-team-members",
+    "azure_devops-list-teams",
+    "azure_devops-list-users",
+    "azure_devops-list-wikis",
+    "azure_devops-list-work-item-comments",
+    "azure_devops-list-work-item-fields",
+    "azure_devops-list-work-item-revisions",
+    "azure_devops-list-work-item-types",
+    "azure_devops-list-work-items",
+    "azure_devops-query-analytics",
+    "azure_devops-query-work-items",
+    "azure_devops-queue-build",
+    "azure_devops-run-pipeline",
+    "azure_devops-update-pull-request",
+    "azure_devops-update-work-item",
+    "azure_devops-new-event"
+  ]
+}

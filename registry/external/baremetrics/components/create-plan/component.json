@@ -1,0 +1,7 @@
+{
+  "key": "baremetrics-create-plan",
+  "name": "Create Plan",
+  "description": "Create a plan. [See the documentation](https://developers.baremetrics.com/reference/create-plan)",
+  "type": "action",
+  "version": "0.0.2"
+}

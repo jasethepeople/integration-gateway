@@ -1,0 +1,7 @@
+{
+  "key": "facebook_pages-get-page",
+  "name": "Get Page",
+  "description": "Retrieves a Facebook Page. [See the documentation](https://developers.facebook.com/docs/graph-api/reference/page)",
+  "type": "action",
+  "version": "0.0.4"
+}

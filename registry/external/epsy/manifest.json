@@ -1,0 +1,25 @@
+{
+  "app": "epsy",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "value": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "searchId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "epsy-email-lookup",
+    "epsy-get-lookup-results",
+    "epsy-list-search-id-options",
+    "epsy-name-lookup"
+  ]
+}

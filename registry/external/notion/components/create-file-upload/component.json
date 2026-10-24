@@ -1,0 +1,7 @@
+{
+  "key": "notion-create-file-upload",
+  "name": "Create File Upload",
+  "description": "Create a file upload. [See the documentation](https://developers.notion.com/reference/create-a-file-upload)",
+  "type": "action",
+  "version": "0.0.12"
+}

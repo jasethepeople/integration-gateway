@@ -1,0 +1,47 @@
+{
+  "app": "bingx",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "secret_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "bingx-account-get-balance",
+    "bingx-account-get-positions",
+    "bingx-custom-bracket-order",
+    "bingx-custom-calculate-leveraged-position",
+    "bingx-generic-api-call",
+    "bingx-list-currency-options",
+    "bingx-list-symbol-options",
+    "bingx-market-get-all-contracts",
+    "bingx-market-get-historical-funding",
+    "bingx-market-get-kline-history",
+    "bingx-market-get-kline",
+    "bingx-market-get-latest-funding",
+    "bingx-market-get-latest-price",
+    "bingx-market-get-market-depth",
+    "bingx-market-get-market-trades",
+    "bingx-market-get-open-positions",
+    "bingx-market-get-ticker",
+    "bingx-trade-batch-cancel-orders",
+    "bingx-trade-cancel-all-orders",
+    "bingx-trade-cancel-order",
+    "bingx-trade-new-order",
+    "bingx-trade-oneclick-close-all-positions",
+    "bingx-trade-pending-orders",
+    "bingx-trade-query-order",
+    "bingx-trade-set-leverage",
+    "bingx-trade-set-margin-mode"
+  ],
+  "npmImports": [
+    "crypto",
+    "lodash"
+  ]
+}

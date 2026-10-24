@@ -1,0 +1,7 @@
+{
+  "key": "kanban_tool-move-task",
+  "name": "Move Task",
+  "description": "Moves a task [See the docs here](https://kanbantool.com/developer/api-v3#updating-tasks)",
+  "type": "action",
+  "version": "0.0.3"
+}

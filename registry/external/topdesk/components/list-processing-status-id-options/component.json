@@ -1,0 +1,7 @@
+{
+  "key": "topdesk-list-processing-status-id-options",
+  "name": "List Processing Status ID Options",
+  "description": "Retrieves available options for the Processing Status ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

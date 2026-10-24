@@ -1,0 +1,7 @@
+{
+  "key": "netlify-new-deploy-failure",
+  "name": "New Deploy Failure (Instant)",
+  "description": "Emit new event when a new deployment fails",
+  "type": "source",
+  "version": "0.1.1"
+}

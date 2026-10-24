@@ -1,0 +1,38 @@
+{
+  "app": "helpdocs",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "categoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "articleId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "helpdocs-create-article",
+    "helpdocs-create-category",
+    "helpdocs-delete-article",
+    "helpdocs-delete-category",
+    "helpdocs-generate-chatbot-source-page",
+    "helpdocs-get-article-versions",
+    "helpdocs-get-article",
+    "helpdocs-get-category",
+    "helpdocs-list-article-id-options",
+    "helpdocs-list-articles",
+    "helpdocs-list-categories",
+    "helpdocs-list-group-id-options",
+    "helpdocs-search-articles"
+  ]
+}

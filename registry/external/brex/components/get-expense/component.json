@@ -1,0 +1,7 @@
+{
+  "key": "brex-get-expense",
+  "name": "Get Expense",
+  "description": "Retrieves one expense and its receipts. Receipt download links expire 15 minutes after the response, so download rather than store them. Use **Search Expenses** to find an expense ID. [See the documentation](https://developer.brex.com/openapi/expenses_api/expenses/getexpense)",
+  "type": "action",
+  "version": "0.0.1"
+}

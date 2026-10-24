@@ -1,0 +1,7 @@
+{
+  "key": "zendesk-list-locales",
+  "name": "List Locales",
+  "description": "Retrieves all locales. [See the documentation](https://developer.zendesk.com/api-reference/ticketing/account-configuration/locales/).",
+  "type": "action",
+  "version": "0.0.15"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "fortnox-list-articles",
+  "name": "List Articles",
+  "description": "List all articles in Fortnox. [See the documentation](https://api.fortnox.se/apidocs#tag/fortnox_Articles/operation/list_4)",
+  "type": "action",
+  "version": "0.0.1"
+}

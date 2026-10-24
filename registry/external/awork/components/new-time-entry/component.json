@@ -1,0 +1,7 @@
+{
+  "key": "awork-new-time-entry",
+  "name": "New Time Entry (Instant)",
+  "description": "Emit new event on each created time entry.",
+  "type": "source",
+  "version": "0.0.2"
+}

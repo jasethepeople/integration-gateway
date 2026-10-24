@@ -1,0 +1,7 @@
+{
+  "key": "jira_service_desk-transition-request",
+  "name": "Transition Request",
+  "description": "Transitions a Jira Service Desk request to a new workflow status.",
+  "type": "action",
+  "version": "0.1.6"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "helpspot-new-request",
+  "name": "New Request Created",
+  "description": "Emit new event when a new request is created.",
+  "type": "source",
+  "version": "0.0.2"
+}

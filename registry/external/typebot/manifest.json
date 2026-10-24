@@ -1,0 +1,27 @@
+{
+  "app": "typebot",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "workspaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "typebotId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "blockId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "typebot-list-workspace-id-options",
+    "typebot-zapier-step-triggered"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "slack_v2-post-message",
+  "name": "Post Message",
+  "description": "Send a message to a channel, user, or group.",
+  "type": "action",
+  "version": "0.1.6"
+}

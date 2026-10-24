@@ -1,0 +1,7 @@
+{
+  "key": "mailmodo-trigger-journey",
+  "name": "Trigger Journey",
+  "description": "Adds a new user to the journey. [See the docs here](https://www.mailmodo.com/developers/YXBpOjQ3MzIwNjUx-user-journeys/7de134cb5967c-add-a-new-user-to-the-journey)",
+  "type": "action",
+  "version": "0.0.3"
+}

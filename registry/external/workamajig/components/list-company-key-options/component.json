@@ -1,0 +1,7 @@
+{
+  "key": "workamajig-list-company-key-options",
+  "name": "List Company Key Options",
+  "description": "Retrieves available options for the Company Key field.",
+  "type": "action",
+  "version": "0.0.1"
+}

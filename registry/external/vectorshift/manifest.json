@@ -1,0 +1,29 @@
+{
+  "app": "vectorshift",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "knowledgeBaseId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pipelineId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "vectorshift-add-data-to-knowledge-base",
+    "vectorshift-create-pipeline",
+    "vectorshift-list-knowledge-base-id-options",
+    "vectorshift-list-pipeline-id-options",
+    "vectorshift-run-pipeline",
+    "vectorshift-new-chatbot",
+    "vectorshift-new-knowledge-base",
+    "vectorshift-new-pipeline"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "app": "hansei",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "botId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "hansei-get-bot-conversations",
+    "hansei-get-bots",
+    "hansei-get-collections"
+  ]
+}

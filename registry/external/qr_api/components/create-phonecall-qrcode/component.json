@@ -1,0 +1,7 @@
+{
+  "key": "qr_api-create-phonecall-qrcode",
+  "name": "Create Phone Call QR Code",
+  "description": "Create a Phone Call QR Code. [See the documentation](https://qrapi.io/api-documentation/#/qrcode/create_phonecall_qr_code)",
+  "type": "action",
+  "version": "0.0.2"
+}

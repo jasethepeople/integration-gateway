@@ -1,0 +1,7 @@
+{
+  "key": "quickbooks-list-class-ids-options",
+  "name": "List Class IDs Options",
+  "description": "Retrieves available options for the Class IDs field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "constant_contact-delete-contact",
+  "name": "Remove Contact",
+  "description": "Delete a specific contact identified by contact_id. [See the documentation](https://developer.constantcontact.com/api_reference/index.html#!/Contacts/deleteContact)",
+  "type": "action",
+  "version": "0.0.4"
+}

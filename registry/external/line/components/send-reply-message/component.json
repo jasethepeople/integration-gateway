@@ -1,0 +1,7 @@
+{
+  "key": "line-send-reply-message",
+  "name": "Send Reply Message",
+  "description": "Sends a reply message in response to an event from a user, group, or room. [See docs](https://developers.line.biz/en/reference/messaging-api/#send-reply-message)",
+  "type": "action",
+  "version": "0.0.4"
+}

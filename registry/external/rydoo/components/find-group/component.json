@@ -1,0 +1,7 @@
+{
+  "key": "rydoo-find-group",
+  "name": "Find Group",
+  "description": "Searches for organizational groups by name to find their UUIDs. [See the documentation](https://developers.rydoo.com/reference/v2groupsgetgroups)",
+  "type": "action",
+  "version": "0.0.2"
+}

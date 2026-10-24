@@ -1,0 +1,7 @@
+{
+  "key": "peakon_employee_voice-list-segments",
+  "name": "List Segments",
+  "description": "Lists all demographic and organizational segments configured in Peakon. ",
+  "type": "action",
+  "version": "0.0.2"
+}

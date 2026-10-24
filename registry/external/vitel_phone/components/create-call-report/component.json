@@ -1,0 +1,7 @@
+{
+  "key": "vitel_phone-create-call-report",
+  "name": "Create Call Report",
+  "description": "Create a call report. [See the documentation](https://www.vitelglobal.com)",
+  "type": "action",
+  "version": "0.0.2"
+}

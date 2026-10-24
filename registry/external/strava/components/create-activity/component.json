@@ -1,0 +1,7 @@
+{
+  "key": "strava-create-activity",
+  "name": "Create Activity",
+  "description": "Create a manual activity on Strava (logging a workout you did without a tracking device).",
+  "type": "action",
+  "version": "1.0.1"
+}

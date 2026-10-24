@@ -1,0 +1,16 @@
+{
+  "app": "monkeylearn",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "monkeylearn-classify-text",
+    "monkeylearn-extract-text",
+    "monkeylearn-upload-training-data"
+  ]
+}

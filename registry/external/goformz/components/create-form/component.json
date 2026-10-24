@@ -1,0 +1,7 @@
+{
+  "key": "goformz-create-form",
+  "name": "Create Form",
+  "description": "Create a new form in GoFormz. [See the documentation](https://developers.goformz.com/reference/create-a-form)",
+  "type": "action",
+  "version": "0.0.2"
+}

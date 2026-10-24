@@ -1,0 +1,7 @@
+{
+  "key": "sharepoint-new-file-created",
+  "name": "New File Created",
+  "description": "Emit new event when a new file is created in Microsoft Sharepoint.",
+  "type": "source",
+  "version": "0.0.11"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "justcall-create-contact",
+  "name": "Create Contact",
+  "description": "Add a contact to your existing JustCall Sales Dialer campaign. [See the documentation](https://justcall.io/developer-docs/#add_contacts)",
+  "type": "action",
+  "version": "0.1.0"
+}

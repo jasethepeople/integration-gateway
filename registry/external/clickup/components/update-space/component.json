@@ -1,0 +1,7 @@
+{
+  "key": "clickup-update-space",
+  "name": "Update Space",
+  "description": "Update a space. [See the documentation](https://clickup.com/api) in **Spaces / Update Space** section.",
+  "type": "action",
+  "version": "0.0.12"
+}

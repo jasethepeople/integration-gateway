@@ -1,0 +1,7 @@
+{
+  "key": "coincatch-get-history-orders",
+  "name": "Get History Orders",
+  "description": "Gets history orders. [See the documentation](https://coincatch.github.io/github.io/en/mix/#get-history-orders)",
+  "type": "action",
+  "version": "0.0.1"
+}

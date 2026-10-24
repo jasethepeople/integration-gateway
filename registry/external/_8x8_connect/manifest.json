@@ -1,0 +1,44 @@
+{
+  "app": "_8x8_connect",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "destination": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "text": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "from": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "to": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "base_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "subaccount_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "_8x8_connect-get-log-result",
+    "_8x8_connect-request-log",
+    "_8x8_connect-send-sms"
+  ]
+}

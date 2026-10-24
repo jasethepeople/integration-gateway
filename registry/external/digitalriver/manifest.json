@@ -1,0 +1,58 @@
+{
+  "app": "digitalriver",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fileId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "metadata": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "orderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "skuGroupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "webhookAddress": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "webhookTypes": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "productId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productData": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "customerData": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "digitalriver-cancel-order",
+    "digitalriver-create-product",
+    "digitalriver-update-customer-information",
+    "digitalriver-new-order-completed",
+    "digitalriver-new-payment-status-updated"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "seven-get-analytics",
+  "name": "Get Analytics",
+  "description": "Retrieve account statistics (SMS, RCS, voice, HLR, usage). [See the documentation](https://docs.seven.io/en/rest-api/endpoints/account#statistics)",
+  "type": "action",
+  "version": "0.0.2"
+}

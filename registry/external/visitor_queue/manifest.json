@@ -1,0 +1,22 @@
+{
+  "app": "visitor_queue",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "dataViews": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "visitor_queue-list-data-views-options",
+    "visitor_queue-new-lead"
+  ],
+  "npmImports": [
+    "moment"
+  ]
+}

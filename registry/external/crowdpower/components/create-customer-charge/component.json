@@ -1,0 +1,7 @@
+{
+  "key": "crowdpower-create-customer-charge",
+  "name": "Create Customer Charge",
+  "description": "Create a charge for a user. [See the documentation](https://documenter.getpostman.com/view/17896162/UV5TFKbh#d89820d6-5d65-4ff7-87ba-6cddb359d8f3)",
+  "type": "action",
+  "version": "0.0.1"
+}

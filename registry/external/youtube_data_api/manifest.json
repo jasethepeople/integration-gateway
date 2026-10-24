@@ -1,0 +1,40 @@
+{
+  "app": "youtube_data_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "youtube_data_api-add-playlist-items",
+    "youtube_data_api-channel-statistics",
+    "youtube_data_api-create-comment-thread",
+    "youtube_data_api-create-playlist",
+    "youtube_data_api-delete-playlist-items",
+    "youtube_data_api-delete-playlist",
+    "youtube_data_api-list-activities",
+    "youtube_data_api-list-language-options",
+    "youtube_data_api-list-playlist-videos",
+    "youtube_data_api-list-playlists",
+    "youtube_data_api-list-videos",
+    "youtube_data_api-reply-to-comment",
+    "youtube_data_api-search-videos",
+    "youtube_data_api-update-channel",
+    "youtube_data_api-update-playlist",
+    "youtube_data_api-update-video-details",
+    "youtube_data_api-upload-channel-banner",
+    "youtube_data_api-upload-thumbnail",
+    "youtube_data_api-upload-video",
+    "youtube_data_api-new-comment-posted",
+    "youtube_data_api-new-liked-videos",
+    "youtube_data_api-new-subscriber",
+    "youtube_data_api-new-subscription",
+    "youtube_data_api-new-videos-by-handle",
+    "youtube_data_api-new-videos-by-search",
+    "youtube_data_api-new-videos-in-playlist",
+    "youtube_data_api-new-videos-in-subscribed-channels",
+    "youtube_data_api-new-videos"
+  ],
+  "npmImports": [
+    "@googleapis/youtube",
+    "util"
+  ]
+}

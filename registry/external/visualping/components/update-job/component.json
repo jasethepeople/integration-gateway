@@ -1,0 +1,7 @@
+{
+  "key": "visualping-update-job",
+  "name": "Update Job",
+  "description": "Updates one or more settings of an existing Visualping job — schedule,",
+  "type": "action",
+  "version": "1.0.0"
+}

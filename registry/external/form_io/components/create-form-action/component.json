@@ -1,0 +1,7 @@
+{
+  "key": "form_io-create-form-action",
+  "name": "Create Form Action",
+  "description": "Attach an action (e.g. email, webhook, save) to a Form.io form. Use **List Forms** to find the form ID and **List Form Actions** to review existing actions. The `settings` prop is a JSON-string object specific to the action type. Example: `actionType` `webhook`, `title` `Notify endpoint`, `handler` `[after]`, `method` `[create]`, `settings` `{\"url\":\"https://example.com/hook\",\"method\":\"post\"}` → returns the new action with its `_id`. [See the documentation](https://apidocs.form.io/#b3435953-c007-48d9-9f4c-a8e2ee717419).",
+  "type": "action",
+  "version": "0.0.1"
+}

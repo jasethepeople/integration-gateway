@@ -1,0 +1,7 @@
+{
+  "key": "lighthouse-new-ticket-created",
+  "name": "New Ticket Created",
+  "description": "Emit new event for each new ticket created.",
+  "type": "source",
+  "version": "0.0.1"
+}

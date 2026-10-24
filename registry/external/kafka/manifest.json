@@ -1,0 +1,7 @@
+{
+  "app": "kafka",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": []
+}

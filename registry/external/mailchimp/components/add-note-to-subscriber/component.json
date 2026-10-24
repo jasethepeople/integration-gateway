@@ -1,0 +1,7 @@
+{
+  "key": "mailchimp-add-note-to-subscriber",
+  "name": "Add Note to Subscriber",
+  "description": "Adds a new note to an existing subscriber. [See docs here](https://mailchimp.com/developer/marketing/api/list-member-notes/add-member-note/)",
+  "type": "action",
+  "version": "0.2.4"
+}

@@ -1,0 +1,44 @@
+{
+  "app": "loyverse",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "customerAmount": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "paymentTypeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "storeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "employeeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "itemVariantId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "loyverse-create-receipt",
+    "loyverse-generate-receipt-items",
+    "loyverse-get-customer",
+    "loyverse-update-inventory-levels",
+    "loyverse-customer-updated-instant",
+    "loyverse-item-updated-instant",
+    "loyverse-receipt-updated-instant"
+  ]
+}

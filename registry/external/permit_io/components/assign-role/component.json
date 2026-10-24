@@ -1,0 +1,7 @@
+{
+  "key": "permit_io-assign-role",
+  "name": "Assign Role",
+  "description": "Grants a specific role to a user within a tenant to enable immediate access to protected resources. [See the documentation](https://api.permit.io/v2/redoc#tag/Role-Assignments/operation/assign_role)",
+  "type": "action",
+  "version": "0.0.2"
+}

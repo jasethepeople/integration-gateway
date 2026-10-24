@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_entra_id-create-group",
+  "name": "Create Group",
+  "description": "Creates a new group in Microsoft Entra ID. [See the documentation](https://learn.microsoft.com/en-us/graph/api/group-post-groups?view=graph-rest-1.0&tabs=http)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "remove_bg-remove-background",
+  "name": "Remove background",
+  "description": "Remove the background of an image",
+  "type": "action",
+  "version": "0.1.3"
+}

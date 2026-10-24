@@ -1,0 +1,24 @@
+{
+  "app": "algolia",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "application_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "algolia-browse-records",
+    "algolia-delete-records",
+    "algolia-list-index-name-options",
+    "algolia-save-records"
+  ],
+  "npmImports": [
+    "algoliasearch"
+  ]
+}

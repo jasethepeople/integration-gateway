@@ -1,0 +1,25 @@
+{
+  "app": "refersion",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "affiliateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "public_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "secret_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "refersion-create-affiliate",
+    "refersion-get-affiliate",
+    "refersion-list-affiliate-id-options",
+    "refersion-manual-commission-credit"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "slite-update-doc",
+  "name": "Update Document",
+  "description": "Modifies a Slite document. [See the documentation](https://developers.slite.com/reference/updatenote)",
+  "type": "action",
+  "version": "0.0.2"
+}

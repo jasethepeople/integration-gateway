@@ -1,0 +1,112 @@
+{
+  "app": "zoom_admin",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "cloudRecording": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "meeting": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "panelist": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "occurrence": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "registrants": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "locationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pageSize": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "pageNumber": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "nextPageToken": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "webinar": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zoom_admin-add-meeting-registrant",
+    "zoom_admin-add-webinar-panelist",
+    "zoom_admin-add-webinar-registrant",
+    "zoom_admin-create-meeting",
+    "zoom_admin-create-webinar",
+    "zoom_admin-delete-cloud-recording",
+    "zoom_admin-delete-meeting",
+    "zoom_admin-delete-webinar-panelist",
+    "zoom_admin-delete-webinar",
+    "zoom_admin-end-meeting",
+    "zoom_admin-get-meeting-recordings",
+    "zoom_admin-get-meeting-transcript",
+    "zoom_admin-get-meeting",
+    "zoom_admin-get-webinar",
+    "zoom_admin-list-account-call-logs",
+    "zoom_admin-list-cloud-recordings",
+    "zoom_admin-list-meeting-registrants",
+    "zoom_admin-list-meetings",
+    "zoom_admin-list-past-meeting-participants",
+    "zoom_admin-list-user-cloud-recordings",
+    "zoom_admin-list-users",
+    "zoom_admin-list-webinar-participants",
+    "zoom_admin-list-webinar-registrants",
+    "zoom_admin-list-webinars",
+    "zoom_admin-update-meeting",
+    "zoom_admin-update-webinar-registrant-status",
+    "zoom_admin-update-webinar",
+    "zoom_admin-account-created",
+    "zoom_admin-account-settings-updated",
+    "zoom_admin-account-updated",
+    "zoom_admin-custom-events",
+    "zoom_admin-meeting-created",
+    "zoom_admin-meeting-deleted",
+    "zoom_admin-meeting-ended",
+    "zoom_admin-meeting-started",
+    "zoom_admin-meeting-updated",
+    "zoom_admin-new-recording-transcript-completed",
+    "zoom_admin-recording-completed",
+    "zoom_admin-user-activated",
+    "zoom_admin-user-created",
+    "zoom_admin-user-deactivated",
+    "zoom_admin-user-deleted",
+    "zoom_admin-user-invitation-accepted",
+    "zoom_admin-user-updated",
+    "zoom_admin-webinar-changes-to-panelists",
+    "zoom_admin-webinar-created",
+    "zoom_admin-webinar-deleted",
+    "zoom_admin-webinar-ended",
+    "zoom_admin-webinar-started",
+    "zoom_admin-webinar-updated"
+  ],
+  "npmImports": [
+    "crypto",
+    "lodash",
+    "uuid"
+  ]
+}

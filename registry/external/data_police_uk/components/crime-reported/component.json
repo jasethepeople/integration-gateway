@@ -1,0 +1,7 @@
+{
+  "key": "data_police_uk-crime-reported",
+  "name": "New Crime Reported",
+  "description": "Emit new event when a new crime is reported in a specific area.",
+  "type": "source",
+  "version": "0.0.1"
+}

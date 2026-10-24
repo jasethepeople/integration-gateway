@@ -1,0 +1,7 @@
+{
+  "key": "aftership-list-tracking-id-options",
+  "name": "List Tracking ID Options",
+  "description": "Retrieves available options for the Tracking ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

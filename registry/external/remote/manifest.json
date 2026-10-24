@@ -1,0 +1,32 @@
+{
+  "app": "remote",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "employmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "expenseCategorySlug": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "environment": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "remote-create-expense",
+    "remote-list-employment-id-options",
+    "remote-list-employments",
+    "remote-show-timeoff-balance",
+    "remote-new-contract-amendment-done-instant",
+    "remote-new-custom-field-value-updated-instant",
+    "remote-new-employment-onboarding-started-instant"
+  ]
+}

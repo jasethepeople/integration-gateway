@@ -1,0 +1,9 @@
+{
+  "app": "dictionary_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "dictionary_api-get-word-definition"
+  ]
+}

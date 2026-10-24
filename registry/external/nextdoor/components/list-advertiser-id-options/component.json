@@ -1,0 +1,7 @@
+{
+  "key": "nextdoor-list-advertiser-id-options",
+  "name": "List Advertiser ID Options",
+  "description": "Retrieves available options for the Advertiser ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

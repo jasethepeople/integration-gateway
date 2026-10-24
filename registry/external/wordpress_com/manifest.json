@@ -1,0 +1,33 @@
+{
+  "app": "wordpress_com",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "siteId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "postId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "wordpress_com-create-post",
+    "wordpress_com-delete-post",
+    "wordpress_com-list-site-id-options",
+    "wordpress_com-upload-media",
+    "wordpress_com-new-comment",
+    "wordpress_com-new-follower",
+    "wordpress_com-new-post"
+  ],
+  "npmImports": [
+    "form-data",
+    "https",
+    "path"
+  ]
+}

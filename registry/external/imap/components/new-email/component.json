@@ -1,0 +1,7 @@
+{
+  "key": "imap-new-email",
+  "name": "New Email",
+  "description": "Emit new event for each new email in a mailbox",
+  "type": "source",
+  "version": "0.0.6"
+}

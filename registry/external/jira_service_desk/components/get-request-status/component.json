@@ -1,0 +1,7 @@
+{
+  "key": "jira_service_desk-get-request-status",
+  "name": "Get Request Status",
+  "description": "Returns the status history of a Jira Service Desk request: the current status plus previous states with timestamps.",
+  "type": "action",
+  "version": "1.1.6"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "postgresql-new-column",
+  "name": "New Column",
+  "description": "Emit new event when a new column is added to a table. [See the documentation](https://node-postgres.com/features/queries)",
+  "type": "source",
+  "version": "2.0.8"
+}

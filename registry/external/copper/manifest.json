@@ -1,0 +1,38 @@
+{
+  "app": "copper",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "objectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "objectType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "copper-associate-to-project",
+    "copper-create-update-person",
+    "copper-create-update-project",
+    "copper-get-object",
+    "copper-list-object-type-options",
+    "copper-list-tags-options",
+    "copper-new-lead-instant",
+    "copper-new-opportunity-instant",
+    "copper-new-person-instant"
+  ]
+}

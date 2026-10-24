@@ -1,0 +1,7 @@
+{
+  "key": "papersign-copy-document",
+  "name": "Copy Document",
+  "description": "Duplicates a given document. [See the documentation](https://paperform.readme.io/reference/papersigncopydocument)",
+  "type": "action",
+  "version": "0.0.2"
+}

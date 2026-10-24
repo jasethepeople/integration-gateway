@@ -1,0 +1,7 @@
+{
+  "key": "help_scout-list-tags",
+  "name": "List Tags",
+  "description": "Lists all tags in Help Scout. [See the documentation](https://developer.helpscout.com/mailbox-api/endpoints/tags/list/)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "api4ai-image-anonymization",
+  "name": "Image Anonymization",
+  "description": "Performs actual image anonymization. Powered by API4AI.",
+  "type": "action",
+  "version": "0.0.6"
+}

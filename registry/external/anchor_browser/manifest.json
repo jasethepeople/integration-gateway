@@ -1,0 +1,39 @@
+{
+  "app": "anchor_browser",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "source": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sessionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "profileName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "anchor_browser-create-profile",
+    "anchor_browser-delete-profile",
+    "anchor_browser-list-profile-name-options",
+    "anchor_browser-list-session-id-options",
+    "anchor_browser-start-browser",
+    "anchor_browser-update-profile"
+  ]
+}

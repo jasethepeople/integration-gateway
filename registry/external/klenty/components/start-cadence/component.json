@@ -1,0 +1,7 @@
+{
+  "key": "klenty-start-cadence",
+  "name": "Start Cadence",
+  "description": "Starts a cadence in Klenty for a specific prospect. [See the documentation](https://support.klenty.com/en/articles/8193937-klenty-s-post-apis)",
+  "type": "action",
+  "version": "0.0.2"
+}

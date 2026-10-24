@@ -1,0 +1,46 @@
+{
+  "app": "tmetric",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timeEntryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "note": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "isBillable": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "isInvoiced": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "tmetric-create-time-entry",
+    "tmetric-delete-time-entry",
+    "tmetric-list-account-id-options",
+    "tmetric-modify-time-entry",
+    "tmetric-new-task-created"
+  ]
+}

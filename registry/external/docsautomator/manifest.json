@@ -1,0 +1,35 @@
+{
+  "app": "docsautomator",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "automationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "documentName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "data": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "docsautomator-create-document",
+    "docsautomator-list-automation-id-options"
+  ]
+}

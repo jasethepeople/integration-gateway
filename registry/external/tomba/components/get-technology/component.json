@@ -1,0 +1,7 @@
+{
+  "key": "tomba-get-technology",
+  "name": "Get Technology",
+  "description": "Retrieve the technologies used by a specific domain. [See the documentation](https://docs.tomba.io/api/~endpoints#technology)",
+  "type": "action",
+  "version": "0.0.1"
+}

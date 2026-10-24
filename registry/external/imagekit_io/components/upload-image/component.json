@@ -1,0 +1,7 @@
+{
+  "key": "imagekit_io-upload-image",
+  "name": "Upload Image",
+  "description": "Upload a new image to ImageKit.io. [See the documentation](https://docs.imagekit.io/api-reference/upload-file-api/server-side-file-upload)",
+  "type": "action",
+  "version": "1.0.4"
+}

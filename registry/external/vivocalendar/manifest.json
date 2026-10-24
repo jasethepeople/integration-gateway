@@ -1,0 +1,63 @@
+{
+  "app": "vivocalendar",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "customerName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerPhone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerBirthDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerHobby": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "staffUserId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "serviceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "appointmentStartTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "appointmentDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "appointmentEndTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "appointmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "vivocalendar-cancel-appointment",
+    "vivocalendar-create-appointment",
+    "vivocalendar-create-customer",
+    "vivocalendar-list-service-id-options",
+    "vivocalendar-new-appointment-instant",
+    "vivocalendar-new-staff-member-created"
+  ]
+}

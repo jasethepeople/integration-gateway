@@ -1,0 +1,7 @@
+{
+  "key": "leaddyno-create-affiliate",
+  "name": "Create Affiliate",
+  "description": "Creates a new affiliate in LeadDyno. [See the documentation](https://app.theneo.io/leaddyno/leaddyno-rest-api/affiliates/post-affiliates)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "attractwell-new-event-registration-instant",
+  "name": "New Event Registration (Instant)",
+  "description": "Emit new event when a new registration for an event takes place.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "google_cloud_vision_api-detect-text-in-image",
+  "name": "Detect Text in Image",
+  "description": "Detects text in a local image or remote image. [See the documentation](https://cloud.google.com/vision/docs/ocr#vision_text_detection_gcs-drest).",
+  "type": "action",
+  "version": "1.0.1"
+}

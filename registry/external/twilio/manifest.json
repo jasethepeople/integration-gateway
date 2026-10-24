@@ -1,0 +1,137 @@
+{
+  "app": "twilio",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "body": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "from": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "incomingPhoneNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mediaUrl": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "responseMessage": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "to": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "messageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "parentCallSid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recordingID": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "format": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "serviceSid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "includeTranscriptText": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "applicationSid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "transcriptSids": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "AuthToken": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "accountSid": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "authToken": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "Sid": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "Secret": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "AccountSid": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "twilio-check-verification-token",
+    "twilio-create-verification-service",
+    "twilio-delete-call",
+    "twilio-delete-message",
+    "twilio-download-recording-media",
+    "twilio-get-call",
+    "twilio-get-message",
+    "twilio-get-transcripts",
+    "twilio-list-application-sid-options",
+    "twilio-list-calls",
+    "twilio-list-from-options",
+    "twilio-list-incoming-phone-number-options",
+    "twilio-list-message-media",
+    "twilio-list-messages",
+    "twilio-list-parent-call-sid-options",
+    "twilio-list-recording-i-d-options",
+    "twilio-list-service-sid-options",
+    "twilio-list-sid-options",
+    "twilio-list-transcript-sids-options",
+    "twilio-list-transcripts",
+    "twilio-make-phone-call",
+    "twilio-phone-number-lookup",
+    "twilio-send-message",
+    "twilio-send-sms-verification",
+    "twilio-new-call",
+    "twilio-new-incoming-sms",
+    "twilio-new-phone-number",
+    "twilio-new-recording",
+    "twilio-new-transcript-created"
+  ],
+  "npmImports": [
+    "fs",
+    "phone",
+    "stream",
+    "twilio",
+    "util"
+  ]
+}

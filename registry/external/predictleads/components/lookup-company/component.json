@@ -1,0 +1,7 @@
+{
+  "key": "predictleads-lookup-company",
+  "name": "Lookup Company By Domain",
+  "description": "Lookup a company by their domain. [See the documentation](https://docs.predictleads.com/v3/api_endpoints/companies_dataset/retrieve_company)",
+  "type": "action",
+  "version": "0.0.2"
+}

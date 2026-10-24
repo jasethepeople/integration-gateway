@@ -1,0 +1,7 @@
+{
+  "key": "fortnox-create-invoice-payment",
+  "name": "Create Invoice Payment",
+  "description": "Creates a new invoice payment in the Fortnox API. [See the documentation](https://api.fortnox.se/apidocs#tag/fortnox_InvoicePayments/operation/create_22).",
+  "type": "action",
+  "version": "0.0.2"
+}

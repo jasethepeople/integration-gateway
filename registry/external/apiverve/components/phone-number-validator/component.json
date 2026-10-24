@@ -1,0 +1,7 @@
+{
+  "key": "apiverve-phone-number-validator",
+  "name": "Phone Number Validator",
+  "description": "Check whether a phone number is valid or not. [See the documentation](https://docs.apiverve.com/api/phonenumbervalidator)",
+  "type": "action",
+  "version": "0.0.2"
+}

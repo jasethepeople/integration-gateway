@@ -1,0 +1,7 @@
+{
+  "key": "paystack-list-transaction-id-options",
+  "name": "List Transaction ID Options",
+  "description": "Retrieves available options for the Transaction ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

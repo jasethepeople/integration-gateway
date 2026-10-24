@@ -1,0 +1,7 @@
+{
+  "key": "short-list-domain-options",
+  "name": "List Domain Options",
+  "description": "Retrieves available options for the Domain field.",
+  "type": "action",
+  "version": "0.0.1"
+}

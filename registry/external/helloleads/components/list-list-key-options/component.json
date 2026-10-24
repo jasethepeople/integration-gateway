@@ -1,0 +1,7 @@
+{
+  "key": "helloleads-list-list-key-options",
+  "name": "List List Key Options",
+  "description": "Retrieves available options for the List Key field.",
+  "type": "action",
+  "version": "0.0.1"
+}

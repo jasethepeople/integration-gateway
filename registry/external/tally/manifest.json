@@ -1,0 +1,17 @@
+{
+  "app": "tally",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "tally-get-form-fields",
+    "tally-get-forms",
+    "tally-get-responses",
+    "tally-new-response"
+  ]
+}

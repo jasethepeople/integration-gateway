@@ -1,0 +1,7 @@
+{
+  "key": "mindbody-cancel-appointment",
+  "name": "Cancel Appointment",
+  "description": "Cancels an existing appointment by setting its status to Cancelled.",
+  "type": "action",
+  "version": "0.0.3"
+}

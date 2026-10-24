@@ -1,0 +1,7 @@
+{
+  "key": "klaviyo-add-member-to-list",
+  "name": "Add Member To List",
+  "description": "Add member to a specific list. [See the documentation](https://developers.klaviyo.com/en/reference/add_profiles_to_list)",
+  "type": "action",
+  "version": "1.0.3"
+}

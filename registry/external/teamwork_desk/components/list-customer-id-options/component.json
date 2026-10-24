@@ -1,0 +1,7 @@
+{
+  "key": "teamwork_desk-list-customer-id-options",
+  "name": "List Customer Options",
+  "description": "Retrieves available options for the Customer field.",
+  "type": "action",
+  "version": "0.0.1"
+}

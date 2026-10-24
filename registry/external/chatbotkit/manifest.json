@@ -1,0 +1,48 @@
+{
+  "app": "chatbotkit",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "botId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "datasetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "skillsetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "model": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "conversationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "message": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "chatbotkit-conversation-complete",
+    "chatbotkit-create-conversation",
+    "chatbotkit-dataset-import",
+    "chatbotkit-list-bot-id-options",
+    "chatbotkit-list-conversation-id-options",
+    "chatbotkit-list-dataset-id-options",
+    "chatbotkit-list-model-options",
+    "chatbotkit-list-skillset-id-options"
+  ],
+  "npmImports": [
+    "axios"
+  ]
+}

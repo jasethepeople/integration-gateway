@@ -1,0 +1,7 @@
+{
+  "key": "nutshell-search-contacts",
+  "name": "Search Contacts",
+  "description": "Search contacts (people) in Nutshell. Returns records in the existing contact output format. [See the documentation](https://developers.nutshell.com/reference/cde301caba6b033521a71e6bed772a58)",
+  "type": "action",
+  "version": "1.0.0"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "tiktok_ads_manager-create-lookalike-audience",
+  "name": "Create Lookalike Audience",
+  "description": "Create a TikTok lookalike audience based on an existing custom audience.",
+  "type": "action",
+  "version": "0.0.2"
+}

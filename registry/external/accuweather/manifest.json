@@ -1,0 +1,22 @@
+{
+  "app": "accuweather",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "locationKey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "accuweather-get-current-conditions",
+    "accuweather-get-daily-forecast",
+    "accuweather-get-historical-weather",
+    "accuweather-get-hourly-forecast",
+    "accuweather-get-location-key"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "app": "teach_n_go",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "gender": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dateOfBirth": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emailAddress": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "courses": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "teach_n_go-create-prospect",
+    "teach_n_go-create-student",
+    "teach_n_go-list-courses-options",
+    "teach_n_go-new-class",
+    "teach_n_go-new-student"
+  ]
+}

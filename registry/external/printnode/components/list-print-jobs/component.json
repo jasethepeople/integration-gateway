@@ -1,0 +1,7 @@
+{
+  "key": "printnode-list-print-jobs",
+  "name": "List Print Jobs",
+  "description": "Returns a list of all print jobs that have been submitted. [See the documentation](https://www.printnode.com/en/docs/api/curl#printjob-viewing)",
+  "type": "action",
+  "version": "0.0.2"
+}

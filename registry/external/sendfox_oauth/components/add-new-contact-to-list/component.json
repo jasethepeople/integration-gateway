@@ -1,0 +1,7 @@
+{
+  "key": "sendfox_oauth-add-new-contact-to-list",
+  "name": "Add new contact into a specific list",
+  "description": "",
+  "type": "action",
+  "version": "0.1.2"
+}

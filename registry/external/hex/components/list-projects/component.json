@@ -1,0 +1,7 @@
+{
+  "key": "hex-list-projects",
+  "name": "List Projects",
+  "description": "List all viewable projects. [See the documentation](https://learn.hex.tech/docs/api/api-reference#operation/ListProjects)",
+  "type": "action",
+  "version": "0.0.1"
+}

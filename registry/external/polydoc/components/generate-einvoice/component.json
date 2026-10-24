@@ -1,0 +1,7 @@
+{
+  "key": "polydoc-generate-einvoice",
+  "name": "Generate E-Invoice",
+  "description": "Generate a ZUGFeRD or Factur-X hybrid PDF/A-3 e-invoice (EN 16931). [See the documentation](https://docs.polydoc.tech).",
+  "type": "action",
+  "version": "0.0.2"
+}

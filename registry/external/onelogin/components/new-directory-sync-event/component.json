@@ -1,0 +1,7 @@
+{
+  "key": "onelogin-new-directory-sync-event",
+  "name": "New Directory Sync Event",
+  "description": "Emit new event when a directory sync event is triggered in OneLogin. [See the documentation](https://developers.onelogin.com/api-docs/1/events/get-events)",
+  "type": "source",
+  "version": "0.0.1"
+}

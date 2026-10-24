@@ -1,0 +1,47 @@
+{
+  "app": "microsoft_bookings",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "businessId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "staffMemberId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "serviceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "appointmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "microsoft_bookings-cancel-appointment",
+    "microsoft_bookings-create-appointment",
+    "microsoft_bookings-create-business",
+    "microsoft_bookings-create-customer",
+    "microsoft_bookings-create-service",
+    "microsoft_bookings-create-staff-member",
+    "microsoft_bookings-list-appointments",
+    "microsoft_bookings-list-businesses",
+    "microsoft_bookings-list-services",
+    "microsoft_bookings-list-staff-members"
+  ],
+  "npmImports": [
+    "@microsoft/microsoft-graph-client",
+    "isomorphic-fetch"
+  ]
+}

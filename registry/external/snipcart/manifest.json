@@ -1,0 +1,53 @@
+{
+  "app": "snipcart",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "discountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxNumberOfUsages": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "trigger": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "code": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "totalToReach": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "amount": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "rate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "snipcart-create-discount",
+    "snipcart-delete-discount",
+    "snipcart-list-discount-id-options",
+    "snipcart-update-discount"
+  ]
+}

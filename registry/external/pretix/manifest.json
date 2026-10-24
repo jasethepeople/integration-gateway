@@ -1,0 +1,28 @@
+{
+  "app": "pretix",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "organizerSlug": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eventSlug": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pretix-get-order-details",
+    "pretix-list-organizer-slug-options",
+    "pretix-update-event"
+  ]
+}

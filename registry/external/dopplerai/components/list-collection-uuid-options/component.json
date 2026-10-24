@@ -1,0 +1,7 @@
+{
+  "key": "dopplerai-list-collection-uuid-options",
+  "name": "List Collection UUID Options",
+  "description": "Retrieves available options for the Collection UUID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

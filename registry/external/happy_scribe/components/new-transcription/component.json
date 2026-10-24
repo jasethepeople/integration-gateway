@@ -1,0 +1,7 @@
+{
+  "key": "happy_scribe-new-transcription",
+  "name": "New Transcription",
+  "description": "Emit new event on each new transcription.",
+  "type": "source",
+  "version": "0.0.1"
+}

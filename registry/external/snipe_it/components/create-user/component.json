@@ -1,0 +1,7 @@
+{
+  "key": "snipe_it-create-user",
+  "name": "Create User",
+  "description": "Creates a new user in Snipe-IT with profile information required for asset or license assignments. [See the documentation](https://snipe-it.readme.io/reference/users-2)",
+  "type": "action",
+  "version": "0.0.2"
+}

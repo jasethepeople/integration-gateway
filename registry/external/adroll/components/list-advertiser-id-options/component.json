@@ -1,0 +1,7 @@
+{
+  "key": "adroll-list-advertiser-id-options",
+  "name": "List Advertiser Id Options",
+  "description": "Retrieves available options for the Advertiser Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

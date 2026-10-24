@@ -1,0 +1,7 @@
+{
+  "key": "offorte-search-contact-people",
+  "name": "Search Contact People",
+  "description": "Search for a contact person in Offorte. [See the documentation](https://www.offorte.com/api-docs/api#tag/Contacts/operation/contactsPeopleList)",
+  "type": "action",
+  "version": "0.0.2"
+}

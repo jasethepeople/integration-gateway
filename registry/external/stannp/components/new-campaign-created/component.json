@@ -1,0 +1,7 @@
+{
+  "key": "stannp-new-campaign-created",
+  "name": "New Campaign Created",
+  "description": "Emit new event when a new campaign is created in Stannp.",
+  "type": "source",
+  "version": "0.0.1"
+}

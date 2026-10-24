@@ -1,0 +1,15 @@
+{
+  "app": "_0codekit",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "_0codekit-compress-pdf",
+    "_0codekit-read-barcode"
+  ]
+}

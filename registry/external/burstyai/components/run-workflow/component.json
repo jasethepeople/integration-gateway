@@ -1,0 +1,7 @@
+{
+  "key": "burstyai-run-workflow",
+  "name": "Run Workflow",
+  "description": "Triggers an AI workflow on BurstyAI. [See the documentation](https://burstyai.readme.io/reference)",
+  "type": "action",
+  "version": "0.0.2"
+}

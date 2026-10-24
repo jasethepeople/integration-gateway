@@ -1,0 +1,7 @@
+{
+  "key": "freshbooks-new-event-instant",
+  "name": "New Event (Instant)",
+  "description": "Emit new event when a subscribed FreshBooks event occurs (e.g. invoice created, client updated). [See the documentation](https://www.freshbooks.com/api/webhooks)",
+  "type": "source",
+  "version": "0.0.1"
+}

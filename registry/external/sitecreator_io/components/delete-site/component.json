@@ -1,0 +1,7 @@
+{
+  "key": "sitecreator_io-delete-site",
+  "name": "Delete Site",
+  "description": "Deletes an existing website. [See the docs here](http://api-doc.sitecreator.io/#tag/Site/operation/deleteSite)",
+  "type": "action",
+  "version": "0.0.2"
+}

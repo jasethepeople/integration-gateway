@@ -1,0 +1,7 @@
+{
+  "key": "zoom_admin-webinar-changes-to-panelists",
+  "name": "Changes to Webinar Panelists",
+  "description": "Emit new event every time a panelist is added or removed from a webinar, or any time their details change",
+  "type": "source",
+  "version": "0.1.9"
+}

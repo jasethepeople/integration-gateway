@@ -1,0 +1,7 @@
+{
+  "key": "prisma_management_api-delete-database",
+  "name": "Delete Database",
+  "description": "Deletes a Postgres database project via Prisma Management API. [See docs here](https://www.prisma.io/docs/postgres/introduction/management-api)",
+  "type": "action",
+  "version": "1.0.2"
+}

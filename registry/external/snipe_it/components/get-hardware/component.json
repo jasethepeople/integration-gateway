@@ -1,0 +1,7 @@
+{
+  "key": "snipe_it-get-hardware",
+  "name": "Get Hardware Asset",
+  "description": "Retrieves details of a specific hardware asset by ID. [See the documentation](https://snipe-it.readme.io/reference/hardware-by-id)",
+  "type": "action",
+  "version": "0.0.2"
+}

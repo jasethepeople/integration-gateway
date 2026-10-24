@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-find-records",
+  "name": "Find Records",
+  "description": "Retrieve selected fields for records of any Salesforce object, either specific records by ID or the most recent ones.",
+  "type": "action",
+  "version": "0.3.3"
+}

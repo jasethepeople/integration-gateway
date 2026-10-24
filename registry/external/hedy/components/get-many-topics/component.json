@@ -1,0 +1,7 @@
+{
+  "key": "hedy-get-many-topics",
+  "name": "Get Many Topics",
+  "description": "Retrieves all Hedy meeting topics with their session counts, last session date, dominant session type, and cached AI overview.",
+  "type": "action",
+  "version": "0.0.2"
+}

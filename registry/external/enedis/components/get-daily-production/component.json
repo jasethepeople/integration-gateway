@@ -1,0 +1,7 @@
+{
+  "key": "enedis-get-daily-production",
+  "name": "Get Daily Production",
+  "description": "Returns the daily production in Wh. [See the docs here](https://datahub-enedis.fr/data-connect/documentation/metering-v5-production-quotidienne/)",
+  "type": "action",
+  "version": "0.0.3"
+}

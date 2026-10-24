@@ -1,0 +1,7 @@
+{
+  "key": "aero_workflow-list-assigned-to-options",
+  "name": "List Assigned To Options",
+  "description": "Retrieves available options for the Assigned To field.",
+  "type": "action",
+  "version": "0.0.1"
+}

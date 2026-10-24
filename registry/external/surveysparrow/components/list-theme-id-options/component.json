@@ -1,0 +1,7 @@
+{
+  "key": "surveysparrow-list-theme-id-options",
+  "name": "List Theme Id Options",
+  "description": "Retrieves available options for the Theme Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

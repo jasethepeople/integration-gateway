@@ -1,0 +1,7 @@
+{
+  "key": "chaindesk-update-agent",
+  "name": "Update Agent",
+  "description": "Updates the agent to improve the accuracy of generated responses.",
+  "type": "action",
+  "version": "0.0.2"
+}

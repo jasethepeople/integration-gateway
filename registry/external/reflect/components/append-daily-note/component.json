@@ -1,0 +1,7 @@
+{
+  "key": "reflect-append-daily-note",
+  "name": "Append Daily Note",
+  "description": "Append to a daily note. [See the documentation](https://openpm.ai/apis/reflect#/graphs/{graphId}/daily-notes)",
+  "type": "action",
+  "version": "0.0.2"
+}

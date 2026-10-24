@@ -1,0 +1,7 @@
+{
+  "key": "mural-list-widgets",
+  "name": "List Widgets",
+  "description": "List widgets in a mural. [See the documentation](https://developers.mural.co/public/reference/getmuralwidgets)",
+  "type": "action",
+  "version": "0.0.1"
+}

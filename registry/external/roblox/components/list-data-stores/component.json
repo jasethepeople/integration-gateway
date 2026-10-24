@@ -1,0 +1,7 @@
+{
+  "key": "roblox-list-data-stores",
+  "name": "List Data Stores",
+  "description": "List the data stores in a Roblox universe. [See the documentation](https://create.roblox.com/docs/cloud/reference/DataStore#Cloud_ListDataStores)",
+  "type": "action",
+  "version": "0.0.1"
+}

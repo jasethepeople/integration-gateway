@@ -1,0 +1,59 @@
+{
+  "app": "payrexx",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "invoiceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "gatewayId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "paylinkId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "amount": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "purpose": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "currency": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "vatRate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sku": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "instance_name": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "payrexx-create-gateway",
+    "payrexx-create-manual-payout",
+    "payrexx-create-paylink",
+    "payrexx-delete-gateway",
+    "payrexx-delete-invoice",
+    "payrexx-list-invoices",
+    "payrexx-remove-paylink"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

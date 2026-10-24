@@ -1,0 +1,20 @@
+{
+  "app": "databricks_oauth",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "deployment_name": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": []
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pcloud-watch-folder",
+  "name": "Watch Folder",
+  "description": "Emit new event when a file is created or modified in the specified folder.",
+  "type": "source",
+  "version": "0.0.4"
+}

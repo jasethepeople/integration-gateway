@@ -1,0 +1,7 @@
+{
+  "key": "you_need_a_budget-low-account-balance",
+  "name": "Low Account Balance",
+  "description": "Emit new event when an account balance drops below a certain amount",
+  "type": "source",
+  "version": "0.0.4"
+}

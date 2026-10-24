@@ -1,0 +1,7 @@
+{
+  "key": "social_fetch-search-tiktok-content",
+  "name": "Search TikTok Content",
+  "description": "Searches TikTok for videos/content matching a query. [See the documentation](https://app.socialfetch.dev/playground?path=/v1/tiktok/search&method=GET)",
+  "type": "action",
+  "version": "0.0.1"
+}

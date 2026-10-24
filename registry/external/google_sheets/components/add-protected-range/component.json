@@ -1,0 +1,7 @@
+{
+  "key": "google_sheets-add-protected-range",
+  "name": "Add Protected Range",
+  "description": "Add edit protection to cell range with permissions. [See the documentation](https://developers.google.com/sheets/api/reference/rest/v4/spreadsheets/request#AddProtectedRangeRequest)",
+  "type": "action",
+  "version": "0.0.4"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "chargekeep-get-contact-info",
+  "name": "Get Contact Info",
+  "description": "Get contact information from Chargekeep. [See the documentation](https://crm.chargekeep.com/app/api/swagger)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "lokalise-upload-file",
+  "name": "Upload File",
+  "description": "Uploads a specified file to a Lokalise project. [See the documentation](https://developers.lokalise.com/reference/upload-a-file)",
+  "type": "action",
+  "version": "0.1.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "notion-query-database",
+  "name": "Query Data Source",
+  "description": "Filter and sort the pages (rows) inside a Notion database (data source) by their property values.",
+  "type": "action",
+  "version": "1.1.2"
+}

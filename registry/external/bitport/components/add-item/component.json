@@ -1,0 +1,7 @@
+{
+  "key": "bitport-add-item",
+  "name": "Add Item",
+  "description": "Add new torrent. [See the documentation](https://bitport.io/api/index.html?url=/v2/transfers&method=POST)",
+  "type": "action",
+  "version": "0.0.1"
+}

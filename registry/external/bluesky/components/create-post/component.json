@@ -1,0 +1,7 @@
+{
+  "key": "bluesky-create-post",
+  "name": "Create Post",
+  "description": "Creates a new post on Bluesky. [See the documentation](https://docs.bsky.app/docs/api/com-atproto-repo-create-record).",
+  "type": "action",
+  "version": "0.1.2"
+}

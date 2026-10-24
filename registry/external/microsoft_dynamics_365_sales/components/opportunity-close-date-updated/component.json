@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_dynamics_365_sales-opportunity-close-date-updated",
+  "name": "Opportunity Close Date Updated",
+  "description": "Emit new event when the estimated close date of an opportunity is updated.",
+  "type": "source",
+  "version": "0.0.6"
+}

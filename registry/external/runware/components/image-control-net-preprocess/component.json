@@ -1,0 +1,7 @@
+{
+  "key": "runware-image-control-net-preprocess",
+  "name": "Image Control Net Preprocess",
+  "description": "Request an image control net preprocess task to be processed by the Runware API. [See the documentation](https://docs.runware.ai/en/image-editing/controlnet-tools).",
+  "type": "action",
+  "version": "0.0.2"
+}

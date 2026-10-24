@@ -1,0 +1,7 @@
+{
+  "key": "you_need_a_budget-low-category-balance",
+  "name": "Low Category Balance",
+  "description": "Emit new event when a category balance drops below a certain amount",
+  "type": "source",
+  "version": "0.0.4"
+}

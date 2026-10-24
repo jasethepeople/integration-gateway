@@ -1,0 +1,49 @@
+{
+  "app": "renderio",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "inputFiles": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "inputUrls": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "outputFiles": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "metadata": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "renderio-delete-stored-file",
+    "renderio-download-and-process-video-with-ytdlp",
+    "renderio-download-video-with-ytdlp",
+    "renderio-execute-preset",
+    "renderio-get-ffmpeg-command-status",
+    "renderio-get-preset",
+    "renderio-get-stored-file",
+    "renderio-list-presets",
+    "renderio-list-stored-files",
+    "renderio-run-chained-ffmpeg-commands",
+    "renderio-run-ffmpeg-command",
+    "renderio-run-multiple-ffmpeg-commands",
+    "renderio-store-file",
+    "renderio-upload-file",
+    "renderio-new-ffmpeg-command",
+    "renderio-new-stored-file"
+  ],
+  "npmImports": [
+    "form-data",
+    "fs"
+  ]
+}

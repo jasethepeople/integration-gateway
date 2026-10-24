@@ -1,0 +1,7 @@
+{
+  "key": "roll-new-created-time-record",
+  "name": "New Created Time",
+  "description": "Emit new event when a time is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

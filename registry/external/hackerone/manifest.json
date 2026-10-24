@@ -1,0 +1,41 @@
+{
+  "app": "hackerone",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "organizationAdmin": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "permissions": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "organizationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token_identifier": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "hackerone-create-group",
+    "hackerone-create-invitation",
+    "hackerone-get-members",
+    "hackerone-list-organization-id-options"
+  ]
+}

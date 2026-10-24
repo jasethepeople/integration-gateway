@@ -1,0 +1,7 @@
+{
+  "key": "workamajig-new-company",
+  "name": "New Company",
+  "description": "Emit new event when a new company is created in Workamajig",
+  "type": "source",
+  "version": "0.0.1"
+}

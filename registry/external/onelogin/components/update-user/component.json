@@ -1,0 +1,7 @@
+{
+  "key": "onelogin-update-user",
+  "name": "Update User",
+  "description": "Update an existing user's details in OneLogin. [See the documentation](https://developers.onelogin.com/api-docs/2/users/update-user)",
+  "type": "action",
+  "version": "0.0.2"
+}

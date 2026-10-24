@@ -1,0 +1,7 @@
+{
+  "key": "jotform-new-submission",
+  "name": "New Submission (Instant)",
+  "description": "Emit new event when a form is submitted",
+  "type": "source",
+  "version": "0.1.7"
+}

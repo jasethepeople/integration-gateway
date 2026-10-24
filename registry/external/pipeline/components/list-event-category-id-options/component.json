@@ -1,0 +1,7 @@
+{
+  "key": "pipeline-list-event-category-id-options",
+  "name": "List Event Category ID Options",
+  "description": "Retrieves available options for the Event Category ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

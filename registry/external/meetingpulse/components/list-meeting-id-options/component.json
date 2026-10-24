@@ -1,0 +1,7 @@
+{
+  "key": "meetingpulse-list-meeting-id-options",
+  "name": "List Meeting ID Options",
+  "description": "Retrieves available options for the Meeting ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

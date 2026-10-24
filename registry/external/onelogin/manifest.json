@@ -1,0 +1,153 @@
+{
+  "app": "onelogin",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "roleIds": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eventType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "username": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstname": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastname": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "password": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "passwordConfirmation": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "passwordAlgorithm": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "salt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "department": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "company": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "comment": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "state": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "directoryId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "trustedIdpId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "samaccountname": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "memberOf": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userPrincipalName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "distinguishedName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "externalId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "openidName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "invalidLoginAttempts": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "preferredLocaleCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customAttributes": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "mappings": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "validatePolicy": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "onelogin-create-user",
+    "onelogin-list-event-type-options",
+    "onelogin-list-user-id-options",
+    "onelogin-revoke-user-sessions",
+    "onelogin-update-user",
+    "onelogin-new-directory-sync-event",
+    "onelogin-new-event",
+    "onelogin-new-user"
+  ]
+}

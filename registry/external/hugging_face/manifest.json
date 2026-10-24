@@ -1,0 +1,27 @@
+{
+  "app": "hugging_face",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "modelId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "imageUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "hugging_face-document-question-answering",
+    "hugging_face-image-classification",
+    "hugging_face-language-translation",
+    "hugging_face-object-detection",
+    "hugging_face-text-classification",
+    "hugging_face-text-summarization"
+  ]
+}

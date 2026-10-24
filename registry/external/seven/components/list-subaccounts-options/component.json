@@ -1,0 +1,7 @@
+{
+  "key": "seven-list-subaccounts-options",
+  "name": "List Subaccounts Options",
+  "description": "Retrieves available options for the Subaccounts field.",
+  "type": "action",
+  "version": "0.0.1"
+}

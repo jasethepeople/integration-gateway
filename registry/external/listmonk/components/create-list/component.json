@@ -1,0 +1,7 @@
+{
+  "key": "listmonk-create-list",
+  "name": "Create List",
+  "description": "Creates a new list in Listmonk. [See the documentation](https://listmonk.app/docs/apis/lists/#post-apilists)",
+  "type": "action",
+  "version": "0.0.2"
+}

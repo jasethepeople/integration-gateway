@@ -1,0 +1,7 @@
+{
+  "key": "leaddyno-list-affiliate-options",
+  "name": "List Affiliate Options",
+  "description": "Retrieves available options for the Affiliate field.",
+  "type": "action",
+  "version": "0.0.1"
+}

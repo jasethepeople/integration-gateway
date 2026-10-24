@@ -1,0 +1,7 @@
+{
+  "key": "xero_accounting_api-new-updated-invoice",
+  "name": "New or updated invoice",
+  "description": "Emit new notifications when you create a new or update existing invoice",
+  "type": "source",
+  "version": "0.0.5"
+}

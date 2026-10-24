@@ -1,0 +1,47 @@
+{
+  "app": "productive_io",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskListId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "personId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eventId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "serviceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "productive_io-create-booking",
+    "productive_io-create-contact",
+    "productive_io-create-task",
+    "productive_io-list-company-id-options",
+    "productive_io-list-event-id-options",
+    "productive_io-list-person-id-options",
+    "productive_io-list-project-id-options",
+    "productive_io-list-service-id-options",
+    "productive_io-new-booking-instant",
+    "productive_io-new-deal-instant",
+    "productive_io-new-invoice-instant"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "app": "box",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "itemType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "fields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "file": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "createdAt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "modifiedAt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fileName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "searchType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mdfilters": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "parentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "webhookTarget": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fileId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "box-add-comment",
+    "box-create-collaboration",
+    "box-create-folder",
+    "box-create-shared-link",
+    "box-create-sign-request",
+    "box-delete-collaboration",
+    "box-delete-folder",
+    "box-download-file",
+    "box-get-comments",
+    "box-get-file-metadata",
+    "box-get-file-text",
+    "box-list-collaborations",
+    "box-list-file-versions",
+    "box-list-folder-items",
+    "box-list-folders",
+    "box-move-folder",
+    "box-search-content",
+    "box-upload-file-version",
+    "box-upload-file",
+    "box-new-event",
+    "box-new-file",
+    "box-new-folder"
+  ],
+  "npmImports": [
+    "file-type",
+    "form-data",
+    "fs",
+    "stream",
+    "util"
+  ]
+}

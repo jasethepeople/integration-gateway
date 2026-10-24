@@ -1,0 +1,15 @@
+{
+  "app": "notion_api_key",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [],
+  "npmImports": [
+    "@notionhq/client"
+  ]
+}

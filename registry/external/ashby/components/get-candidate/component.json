@@ -1,0 +1,7 @@
+{
+  "key": "ashby-get-candidate",
+  "name": "Get Candidate",
+  "description": "Retrieves the details of a specific candidate by ID. [See the documentation](https://developers.ashbyhq.com/reference/candidateinfo)",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "xola-new-experience-created-instant",
+  "name": "New Experience Created (Instant)",
+  "description": "Emit new event when a new experience is created. [See the documentation](https://developers.xola.com/reference/webhook-introduction)",
+  "type": "source",
+  "version": "0.0.1"
+}

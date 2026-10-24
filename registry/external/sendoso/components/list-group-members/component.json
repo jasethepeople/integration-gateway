@@ -1,0 +1,7 @@
+{
+  "key": "sendoso-list-group-members",
+  "name": "List Group Members",
+  "description": "List all members (users) of a specific group. [See the documentation](https://developer.sendoso.com/rest-api/reference/teams/get-team-users)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "hex-deactivate-user",
+  "name": "Deactivate User",
+  "description": "Deactivate a user. [See the documentation](https://learn.hex.tech/docs/api/api-reference#operation/DeactivateUser)",
+  "type": "action",
+  "version": "0.0.1"
+}

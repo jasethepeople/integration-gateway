@@ -1,0 +1,26 @@
+{
+  "app": "project_broadcast",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "keywordId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "project_broadcast-add-keyword-to-contact",
+    "project_broadcast-broadcast-message",
+    "project_broadcast-create-contact",
+    "project_broadcast-list-contact-id-options",
+    "project_broadcast-list-keyword-id-options"
+  ]
+}

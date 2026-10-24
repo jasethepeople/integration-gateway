@@ -1,0 +1,7 @@
+{
+  "key": "onedesk-list-user-type-options",
+  "name": "List User Type Options",
+  "description": "Retrieves available options for the User Type field.",
+  "type": "action",
+  "version": "0.0.1"
+}

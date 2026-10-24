@@ -1,0 +1,7 @@
+{
+  "key": "freshbooks-send-invoice-by-email",
+  "name": "Send Invoice By Email",
+  "description": "Send an existing invoice by email to one or more recipients. [See the documentation](https://www.freshbooks.com/api/invoices)",
+  "type": "action",
+  "version": "0.0.1"
+}

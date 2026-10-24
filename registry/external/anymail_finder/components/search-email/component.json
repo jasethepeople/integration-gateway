@@ -1,0 +1,7 @@
+{
+  "key": "anymail_finder-search-email",
+  "name": "Search Email",
+  "description": "Searches for emails based on company information and, optionally, a person's name.",
+  "type": "action",
+  "version": "0.0.2"
+}

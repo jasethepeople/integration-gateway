@@ -1,0 +1,7 @@
+{
+  "key": "the_odds_api-get-upcoming-events",
+  "name": "Get Upcoming Events",
+  "description": "Get a list of upcoming sports events available on The Odds API. [See the documentation](https://the-odds-api.com/liveapi/guides/v4/#endpoint-2)",
+  "type": "action",
+  "version": "0.0.2"
+}

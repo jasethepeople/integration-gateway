@@ -1,0 +1,7 @@
+{
+  "key": "bitget-spot-trade-get-fills",
+  "name": "Spot - Trade - Get Fills",
+  "description": "Retrieve transaction details (fills) for a user. [See the documentation](https://www.bitget.com/api-doc/spot/trade/Get-Fills)",
+  "type": "action",
+  "version": "0.0.3"
+}

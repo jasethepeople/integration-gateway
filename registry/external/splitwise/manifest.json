@@ -1,0 +1,45 @@
+{
+  "app": "splitwise",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "expense": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "group": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "friend": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "datedAfter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "datedBefore": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "splitwise-create-expense",
+    "splitwise-get-expense-information",
+    "splitwise-get-expenses",
+    "splitwise-list-friend-options",
+    "splitwise-list-group-options",
+    "splitwise-expense-created",
+    "splitwise-group-created",
+    "splitwise-recently-occurred-activity"
+  ]
+}

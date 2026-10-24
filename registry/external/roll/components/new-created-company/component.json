@@ -1,0 +1,7 @@
+{
+  "key": "roll-new-created-company",
+  "name": "New Created Company",
+  "description": "Emit new event when a company is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

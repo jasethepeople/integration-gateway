@@ -1,0 +1,7 @@
+{
+  "key": "google_drive-search-files",
+  "name": "Search Files",
+  "description": "Search for files and folders in Google Drive using the Drive query language.",
+  "type": "action",
+  "version": "1.0.4"
+}

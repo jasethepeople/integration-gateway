@@ -1,0 +1,7 @@
+{
+  "key": "calendly_v2-invitee-created",
+  "name": "New Invitee Created",
+  "description": "Emit new event when a new event is scheduled.",
+  "type": "source",
+  "version": "0.0.6"
+}

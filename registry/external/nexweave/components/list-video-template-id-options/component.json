@@ -1,0 +1,7 @@
+{
+  "key": "nexweave-list-video-template-id-options",
+  "name": "List Video Template ID Options",
+  "description": "Retrieves available options for the Video Template ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

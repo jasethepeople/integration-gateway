@@ -1,0 +1,7 @@
+{
+  "key": "memento_database-new-entry-created",
+  "name": "New Entry Created",
+  "description": "Emit new event when a new entry is created in Memento Database. [See the documentation](https://mementodatabase.docs.apiary.io/#reference/0/entries/list-entries-on-a-library)",
+  "type": "source",
+  "version": "0.0.1"
+}

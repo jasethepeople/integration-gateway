@@ -1,0 +1,7 @@
+{
+  "key": "heysummit-new-attendee-registered",
+  "name": "New Attendee Registered",
+  "description": "Emit new event when an attendee is registered on a event.",
+  "type": "source",
+  "version": "0.0.3"
+}

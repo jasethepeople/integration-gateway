@@ -1,0 +1,7 @@
+{
+  "key": "templatedocs-get-template",
+  "name": "Get Template",
+  "description": "Retrieve the details of a specific template, including its name, file size, and placeholder tags. [See the documentation](https://templatedocs.io/docs/api/templates/get)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "welcome-event-created",
+  "name": "New Event Created",
+  "description": "Emit new event when a new event is created in Welcome. [See the documentation](https://app.experiencewelcome.com/api-docs/index.html)",
+  "type": "source",
+  "version": "0.0.1"
+}

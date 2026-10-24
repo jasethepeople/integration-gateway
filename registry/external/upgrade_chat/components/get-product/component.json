@@ -1,0 +1,7 @@
+{
+  "key": "upgrade_chat-get-product",
+  "name": "Get Product",
+  "description": "Get details of a product. [See the documentation](https://upgrade.chat/developers/documentation)",
+  "type": "action",
+  "version": "0.0.1"
+}

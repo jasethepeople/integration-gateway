@@ -1,0 +1,7 @@
+{
+  "key": "zoho_bookings-list-staff-id-options",
+  "name": "List Staff ID Options",
+  "description": "Retrieves available options for the Staff ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

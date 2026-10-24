@@ -1,0 +1,7 @@
+{
+  "key": "returnista-create-return-location",
+  "name": "Create Return Location",
+  "description": "Creates a new return location (warehouse or depot address) for an account.",
+  "type": "action",
+  "version": "1.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "seatable-create-row",
+  "name": "Create Row",
+  "description": "Creates a new row in the specified table. [See the documentation](https://api.seatable.io/reference/add-row)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "contentstack-new-asset-instant",
+  "name": "New Asset Created (Instant)",
+  "description": "Emit new event when a new asset is created in ContentStack.",
+  "type": "source",
+  "version": "0.0.1"
+}

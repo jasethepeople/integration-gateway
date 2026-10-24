@@ -1,0 +1,7 @@
+{
+  "key": "zenfulfillment-search-orders",
+  "name": "Search Orders",
+  "description": "Search for orders in Zenfulfillment. [See the documentation](https://partner.alaiko.com/docs#tag/Order/operation/api_partnerorder_get_collection)",
+  "type": "action",
+  "version": "0.0.3"
+}

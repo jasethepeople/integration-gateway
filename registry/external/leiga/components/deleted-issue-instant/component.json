@@ -1,0 +1,7 @@
+{
+  "key": "leiga-deleted-issue-instant",
+  "name": "New Deleted Issue (Instant)",
+  "description": "Emit new event when an issue is deleted in Leiga.",
+  "type": "source",
+  "version": "0.0.2"
+}

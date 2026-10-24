@@ -1,0 +1,7 @@
+{
+  "key": "samsara-new-route-job-completion-instant",
+  "name": "New Route Job Completion (Instant)",
+  "description": "Emit new event when a job is completed on a Samsara route.",
+  "type": "source",
+  "version": "0.0.1"
+}

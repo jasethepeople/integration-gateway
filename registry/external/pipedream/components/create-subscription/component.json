@@ -1,0 +1,7 @@
+{
+  "key": "pipedream-create-subscription",
+  "name": "Create a Subscription",
+  "description": "Create a Subscription. [See Doc](https://pipedream.com/docs/api/rest/#subscriptions)",
+  "type": "action",
+  "version": "0.1.2"
+}

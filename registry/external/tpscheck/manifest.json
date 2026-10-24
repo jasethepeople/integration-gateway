@@ -1,0 +1,18 @@
+{
+  "app": "tpscheck",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "phonenumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "tpscheck-check-number"
+  ]
+}

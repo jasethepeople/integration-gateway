@@ -1,0 +1,7 @@
+{
+  "key": "tapfiliate-list-affiliate-id-options",
+  "name": "List Affiliate ID Options",
+  "description": "Retrieves available options for the Affiliate ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

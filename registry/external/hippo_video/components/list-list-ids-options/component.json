@@ -1,0 +1,7 @@
+{
+  "key": "hippo_video-list-list-ids-options",
+  "name": "List List Ids Options",
+  "description": "Retrieves available options for the List Ids field.",
+  "type": "action",
+  "version": "0.0.2"
+}

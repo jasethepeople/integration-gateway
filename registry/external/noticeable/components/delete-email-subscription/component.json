@@ -1,0 +1,7 @@
+{
+  "key": "noticeable-delete-email-subscription",
+  "name": "Delete Email Subscription",
+  "description": "Deletes an email subscription, [See the docs](https://graphdoc.noticeable.io/emailsubscription.doc.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

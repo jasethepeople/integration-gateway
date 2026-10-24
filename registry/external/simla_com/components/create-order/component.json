@@ -1,0 +1,7 @@
+{
+  "key": "simla_com-create-order",
+  "name": "Create Order",
+  "description": "Creates a new order with customer and order details. [See the documentation](https://docs.simla.com/Developers/API/APIVersions/APIv5#post--api-v5-orders-create).",
+  "type": "action",
+  "version": "0.0.2"
+}

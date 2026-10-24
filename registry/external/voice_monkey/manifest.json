@@ -1,0 +1,65 @@
+{
+  "app": "voice_monkey",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "monkey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "announcement": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "chime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "voice": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "audioFileUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "backgroundAudioFileUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "promptYesResponsePreset": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "promptNoResponsePreset": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "imageUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "videoUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "websiteUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "secret_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "voice_monkey-display-image",
+    "voice_monkey-display-video",
+    "voice_monkey-make-announcement",
+    "voice_monkey-trigger-monkey"
+  ]
+}

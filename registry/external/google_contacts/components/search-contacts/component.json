@@ -1,0 +1,7 @@
+{
+  "key": "google_contacts-search-contacts",
+  "name": "Search Contacts",
+  "description": "Searches the authenticated user's contacts by name, email address, phone number, organization, or other contact fields. [See the documentation](https://developers.google.com/people/api/rest/v1/people/searchContacts)",
+  "type": "action",
+  "version": "0.0.2"
+}

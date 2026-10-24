@@ -1,0 +1,15 @@
+{
+  "app": "uplead",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "uplead-get-company-by-domain",
+    "uplead-get-contact-by-email"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "seqera-new-run-created",
+  "name": "New Run Created",
+  "description": "Emit new event when a new run is created in Seqera. [See the documentation](https://docs.seqera.io/platform/23.3.0/api/overview)",
+  "type": "source",
+  "version": "0.0.2"
+}

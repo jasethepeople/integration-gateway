@@ -1,0 +1,7 @@
+{
+  "key": "surecart-list-abandoned-checkouts",
+  "name": "List Abandoned Checkouts",
+  "description": "Return a list of abandoned checkouts. [See the documentation](https://developer.surecart.com/api-reference/abandonded-checkouts/list)",
+  "type": "action",
+  "version": "1.0.0"
+}

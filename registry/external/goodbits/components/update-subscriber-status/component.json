@@ -1,0 +1,7 @@
+{
+  "key": "goodbits-update-subscriber-status",
+  "name": "Update Subscriber Status",
+  "description": "Update the status of a subscriber. [See the documentation](https://support.goodbits.io/article/115-goodbit-api)",
+  "type": "action",
+  "version": "0.0.3"
+}

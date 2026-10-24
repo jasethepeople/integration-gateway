@@ -1,0 +1,7 @@
+{
+  "key": "redcircle_api-add-zipcode",
+  "name": "Add Zipcode",
+  "description": "Add a zipcode to Redcircle API. [See the documentation](https://docs.trajectdata.com/redcircleapi/zipcodes-api/add)",
+  "type": "action",
+  "version": "0.0.2"
+}

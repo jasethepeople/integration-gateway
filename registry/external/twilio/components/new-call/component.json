@@ -1,0 +1,7 @@
+{
+  "key": "twilio-new-call",
+  "name": "New Call (Instant)",
+  "description": "Emit new event each time a call to the phone number is completed. Configures a webhook in Twilio, tied to a phone number.",
+  "type": "source",
+  "version": "0.1.6"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "payrexx-delete-invoice",
+  "name": "Delete Invoice",
+  "description": "Delete an invoice. [See the documentation](https://payrexxserviceapi.readme.io/reference/delete-an-invoice)",
+  "type": "action",
+  "version": "0.0.1"
+}

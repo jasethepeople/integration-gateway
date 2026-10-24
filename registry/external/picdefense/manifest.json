@@ -1,0 +1,27 @@
+{
+  "app": "picdefense",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "user_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "picdefense-check-credits",
+    "picdefense-check-image-risk",
+    "picdefense-check-landmark",
+    "picdefense-check-logos",
+    "picdefense-find-backlinks",
+    "picdefense-safe-search"
+  ]
+}

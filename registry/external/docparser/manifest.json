@@ -1,0 +1,24 @@
+{
+  "app": "docparser",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "parserId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "docparser-fetch-document-url",
+    "docparser-list-parser-id-options",
+    "docparser-upload-document",
+    "docparser-new-document-data-available"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

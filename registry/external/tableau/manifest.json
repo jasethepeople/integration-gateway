@@ -1,0 +1,40 @@
+{
+  "app": "tableau",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "siteId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "parentProjectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workbookId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "tableau-create-project",
+    "tableau-download-pdf",
+    "tableau-list-sites",
+    "tableau-list-workbooks",
+    "tableau-query-projects",
+    "tableau-label-created-instant",
+    "tableau-workbook-created-instant"
+  ],
+  "npmImports": [
+    "fs",
+    "path"
+  ]
+}

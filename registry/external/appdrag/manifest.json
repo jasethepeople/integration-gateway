@@ -1,0 +1,29 @@
+{
+  "app": "appdrag",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "table": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "columns": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "app_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "appdrag-execute-api-function",
+    "appdrag-insert-row",
+    "appdrag-list-table-options",
+    "appdrag-update-row"
+  ],
+  "npmImports": [
+    "axios",
+    "sqlstring"
+  ]
+}

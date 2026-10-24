@@ -1,0 +1,7 @@
+{
+  "key": "mamo_business-new-failed-payment",
+  "name": "New Failed Payment (Instant)",
+  "description": "Emit new event when a payment is failed.",
+  "type": "source",
+  "version": "0.0.1"
+}

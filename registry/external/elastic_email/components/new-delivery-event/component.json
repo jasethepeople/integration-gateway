@@ -1,0 +1,7 @@
+{
+  "key": "elastic_email-new-delivery-event",
+  "name": "New Delivery Event",
+  "description": "Emit new event when a delivery event occurs. [See the documentation](https://elasticemail.com/developers/api-documentation/rest-api#operation/eventsGet).",
+  "type": "source",
+  "version": "0.0.1"
+}

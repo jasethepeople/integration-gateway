@@ -1,0 +1,7 @@
+{
+  "key": "liveagent-list-agent-id-options",
+  "name": "List Agent ID Options",
+  "description": "Retrieves available options for the Agent ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

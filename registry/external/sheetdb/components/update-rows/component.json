@@ -1,0 +1,7 @@
+{
+  "key": "sheetdb-update-rows",
+  "name": "Update Rows",
+  "description": "Updates the content for the specified row(s). [See the documentation](https://docs.sheetdb.io/sheetdb-api/update#update-with-single-query)",
+  "type": "action",
+  "version": "0.0.2"
+}

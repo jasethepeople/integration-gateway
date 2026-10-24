@@ -1,0 +1,14 @@
+{
+  "app": "async_interview",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "async_interview-new-interview-response"
+  ]
+}

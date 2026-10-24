@@ -1,0 +1,29 @@
+{
+  "app": "openweather_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "city": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "stateCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "countryCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lang": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "openweather_api-get-current-weather-by-location",
+    "openweather_api-get-current-weather-by-zip",
+    "openweather_api-get-weather-forecast-by-location",
+    "openweather_api-get-weather-forecast-by-zip"
+  ]
+}

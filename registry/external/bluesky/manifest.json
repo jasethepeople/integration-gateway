@@ -1,0 +1,35 @@
+{
+  "app": "bluesky",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "postUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "authorId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "did": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "bluesky-create-post",
+    "bluesky-like-post",
+    "bluesky-retrieve-thread",
+    "bluesky-new-follower-on-account",
+    "bluesky-new-posts-by-author",
+    "bluesky-new-timeline-posts"
+  ]
+}

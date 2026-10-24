@@ -1,0 +1,7 @@
+{
+  "key": "paystack-list-customers",
+  "name": "List Customers",
+  "description": "List customers on your integration. [See the documentation](https://paystack.com/docs/api/customer/#list)",
+  "type": "action",
+  "version": "0.0.1"
+}

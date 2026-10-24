@@ -1,0 +1,7 @@
+{
+  "key": "papyrs-create-paragraph",
+  "name": "Create Paragraph",
+  "description": "Create a new Paragraph in a page. [See the docs here](https://about.papyrs.com/@docs/API#Create-Text-box/Heading)",
+  "type": "action",
+  "version": "0.0.2"
+}

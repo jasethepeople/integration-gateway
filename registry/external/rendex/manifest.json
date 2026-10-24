@@ -1,0 +1,223 @@
+{
+  "app": "rendex",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "markdown": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "html": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "format": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "watchId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "intervalMinutes": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "diffMode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "threshold": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "webhookUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "notifyEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "paused": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "cursor": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "extractFormat": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "expiresIn": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "width": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "height": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "fullPage": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "quality": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "delay": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "darkMode": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "deviceScaleFactor": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "device": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "selector": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "hideSelectors": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "blockAds": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "blockCookieBanners": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "timeout": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "waitUntil": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "bestAttempt": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "css": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "js": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userAgent": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cookies": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "headers": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "pdfFormat": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pdfLandscape": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "pdfPrintBackground": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "pdfScale": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "geo": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "geoCity": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "geoState": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "renderFullPage": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "renderSelector": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ignoreText": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "minTextChars": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "suppressWhilePresent": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "uaMode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "rendex-create-artifact",
+    "rendex-create-render-link",
+    "rendex-create-watch",
+    "rendex-delete-watch",
+    "rendex-extract-content",
+    "rendex-get-account",
+    "rendex-get-watch",
+    "rendex-list-watch-runs",
+    "rendex-list-watches",
+    "rendex-render-markdown",
+    "rendex-render-to-image",
+    "rendex-run-watch",
+    "rendex-update-watch",
+    "rendex-new-change-detected"
+  ]
+}

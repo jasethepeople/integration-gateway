@@ -1,0 +1,7 @@
+{
+  "key": "recruiterflow-create-candidate",
+  "name": "Create Candidate",
+  "description": "Creates a new candidate in Recruiterflow. [See the documentation](https://recruiterflow.com/swagger.yml)",
+  "type": "action",
+  "version": "0.0.1"
+}

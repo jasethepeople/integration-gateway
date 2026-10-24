@@ -1,0 +1,7 @@
+{
+  "key": "sendcloud-validate-return",
+  "name": "Validate Return",
+  "description": "Validate a return. [See the documentation](https://api.sendcloud.dev/docs/sendcloud-public-api/returns/operations/create-a-return-validate)",
+  "type": "action",
+  "version": "0.0.3"
+}

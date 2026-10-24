@@ -1,0 +1,7 @@
+{
+  "key": "dropmark-get-activity",
+  "name": "Get Activity",
+  "description": "Retrieves a blended feed of newly created collections, items, comments, and reactions. [See the documentation](https://support.dropmark.com/article/96-api)",
+  "type": "action",
+  "version": "0.0.2"
+}

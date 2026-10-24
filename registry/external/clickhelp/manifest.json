@@ -1,0 +1,44 @@
+{
+  "app": "clickhelp",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "nodeIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "userName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "waitForCompletion": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "portal_domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "email": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "clickhelp-create-project-backup",
+    "clickhelp-create-publication",
+    "clickhelp-create-topic",
+    "clickhelp-list-project-id-options",
+    "clickhelp-list-user-name-options",
+    "clickhelp-new-topic-created",
+    "clickhelp-topic-updated"
+  ]
+}

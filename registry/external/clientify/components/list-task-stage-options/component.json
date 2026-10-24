@@ -1,0 +1,7 @@
+{
+  "key": "clientify-list-task-stage-options",
+  "name": "List Task Stage Options",
+  "description": "Retrieves available options for the Task Stage field.",
+  "type": "action",
+  "version": "0.0.1"
+}

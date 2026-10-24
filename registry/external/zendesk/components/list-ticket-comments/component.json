@@ -1,0 +1,7 @@
+{
+  "key": "zendesk-list-ticket-comments",
+  "name": "List Ticket Comments",
+  "description": "Retrieves all comments for a specific ticket. [See the documentation](https://developer.zendesk.com/api-reference/ticketing/tickets/ticket_comments/#list-comments).",
+  "type": "action",
+  "version": "0.0.15"
+}

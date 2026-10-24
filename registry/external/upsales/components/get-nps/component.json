@@ -1,0 +1,7 @@
+{
+  "key": "upsales-get-nps",
+  "name": "Get NPS",
+  "description": "Retrieves a single NPS record by ID from Upsales. [See the documentation](https://api.upsales.com/#176e076b-ec7b-424d-afe2-32b2a652afc5)",
+  "type": "action",
+  "version": "0.0.1"
+}

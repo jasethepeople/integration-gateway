@@ -1,0 +1,7 @@
+{
+  "key": "herobot_chatbot_marketing-create-custom-field",
+  "name": "Create Custom Field",
+  "description": "Create a new custom field in the HeroBot account. [See the documentation](https://my.herobot.app/api/swagger/#/Accounts/createCustomField)",
+  "type": "action",
+  "version": "0.0.2"
+}

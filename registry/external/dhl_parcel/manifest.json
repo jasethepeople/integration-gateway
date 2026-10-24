@@ -1,0 +1,9 @@
+{
+  "app": "dhl_parcel",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "dhl_parcel-track-and-trace-parcel"
+  ]
+}

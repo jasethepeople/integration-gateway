@@ -1,0 +1,7 @@
+{
+  "key": "amazon_selling_partner-list-marketplace-id-options",
+  "name": "List Marketplace ID Options",
+  "description": "Retrieves available options for the Marketplace ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

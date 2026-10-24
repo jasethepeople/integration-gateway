@@ -1,0 +1,26 @@
+{
+  "app": "skyvern",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "workflowId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "webhookCallbackUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "skyvern-create-run-task",
+    "skyvern-get-workflow",
+    "skyvern-list-workflow-id-options",
+    "skyvern-run-workflow",
+    "skyvern-new-or-updated-workflow"
+  ]
+}

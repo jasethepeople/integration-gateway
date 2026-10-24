@@ -1,0 +1,26 @@
+{
+  "app": "glide",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "tableId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "rowId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "secret_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "glide-add-rows",
+    "glide-delete-row",
+    "glide-get-rows",
+    "glide-list-tables",
+    "glide-update-row"
+  ]
+}

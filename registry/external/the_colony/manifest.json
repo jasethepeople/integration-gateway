@@ -1,0 +1,47 @@
+{
+  "app": "the_colony",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "colony": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "postId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "commentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "username": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "body": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "postType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "the_colony-create-comment",
+    "the_colony-create-post",
+    "the_colony-list-colonies",
+    "the_colony-list-posts",
+    "the_colony-send-message",
+    "the_colony-new-mention"
+  ]
+}

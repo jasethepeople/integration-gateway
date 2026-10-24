@@ -1,0 +1,7 @@
+{
+  "key": "rex-list-project-stage-id-options",
+  "name": "List Project Stage Options",
+  "description": "Retrieves available options for the Project Stage field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,46 @@
+{
+  "app": "dropboard",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "jobId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "clientId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "hiringManagerEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobDetails": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "clientName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "clientPlanId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dropboard-create-client",
+    "dropboard-create-job",
+    "dropboard-find-or-create-client",
+    "dropboard-list-client-id-options",
+    "dropboard-list-client-plan-id-options",
+    "dropboard-list-job-id-options",
+    "dropboard-new-candidate-instant",
+    "dropboard-new-client-member-instant",
+    "dropboard-new-job-instant"
+  ]
+}

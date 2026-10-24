@@ -1,0 +1,7 @@
+{
+  "key": "replicate-cancel-prediction",
+  "name": "Cancel Prediction",
+  "description": "Cancel a specific prediction identified by Id. [See the documentation](https://replicate.com/docs/reference/http#predictions.cancel)",
+  "type": "action",
+  "version": "0.0.2"
+}

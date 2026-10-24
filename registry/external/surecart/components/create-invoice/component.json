@@ -1,0 +1,7 @@
+{
+  "key": "surecart-create-invoice",
+  "name": "Create Invoice",
+  "description": "Create a new invoice. [See the documentation](https://developer.surecart.com/api-reference/invoices/create)",
+  "type": "action",
+  "version": "0.0.3"
+}

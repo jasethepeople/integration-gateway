@@ -1,0 +1,54 @@
+{
+  "app": "amazon_ses",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "TemplateName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ToAddresses": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "CcAddresses": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "BccAddresses": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "ReplyToAddresses": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "FromEmailAddress": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "Subject": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "Text": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "Html": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "amazon_ses-create-email-template",
+    "amazon_ses-get-email-template",
+    "amazon_ses-send-email",
+    "amazon_ses-send-templated-email",
+    "amazon_ses-update-email-template"
+  ],
+  "npmImports": [
+    "@aws-sdk/client-ses",
+    "@aws-sdk/client-sesv2"
+  ]
+}

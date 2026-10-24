@@ -1,0 +1,50 @@
+{
+  "app": "helpspot",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "xCategory": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emailFrom": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emailStaff": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "xStatus": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "xRequest": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "helpspot-create-request",
+    "helpspot-get-request",
+    "helpspot-get-requests",
+    "helpspot-list-active-staff",
+    "helpspot-list-email-from-options",
+    "helpspot-list-email-staff-options",
+    "helpspot-list-x-category-options",
+    "helpspot-list-x-request-options",
+    "helpspot-list-x-status-options",
+    "helpspot-search-requests",
+    "helpspot-update-request",
+    "helpspot-new-request",
+    "helpspot-request-update"
+  ]
+}

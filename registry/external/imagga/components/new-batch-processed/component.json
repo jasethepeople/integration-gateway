@@ -1,0 +1,7 @@
+{
+  "key": "imagga-new-batch-processed",
+  "name": "New Batch Processed",
+  "description": "Emit new event when a batch of images has been processed for categorization, tagging, or color extraction.",
+  "type": "source",
+  "version": "0.0.1"
+}

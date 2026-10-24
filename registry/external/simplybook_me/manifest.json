@@ -1,0 +1,23 @@
+{
+  "app": "simplybook_me",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "company": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "simplybook_me-booking-canceled",
+    "simplybook_me-booking-updated",
+    "simplybook_me-new-booking-created"
+  ],
+  "npmImports": [
+    "md5"
+  ]
+}

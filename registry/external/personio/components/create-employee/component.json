@@ -1,0 +1,7 @@
+{
+  "key": "personio-create-employee",
+  "name": "Create Employee",
+  "description": "Creates a new employee. [See the documentation](https://developer.personio.de/reference/post_company-employees)",
+  "type": "action",
+  "version": "0.0.2"
+}

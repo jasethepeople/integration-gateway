@@ -1,0 +1,7 @@
+{
+  "key": "telnyx-list-call-control-app-id-options",
+  "name": "List Call Control Application ID Options",
+  "description": "Retrieves available options for the Call Control Application ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

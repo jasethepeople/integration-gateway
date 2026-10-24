@@ -1,0 +1,7 @@
+{
+  "key": "appwrite-get-members",
+  "name": "Get Members",
+  "description": "Get accounts setup information. [See the documentation](https://appwrite.io/docs/references/cloud/client-rest/teams#listMemberships)",
+  "type": "action",
+  "version": "0.0.2"
+}

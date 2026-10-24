@@ -1,0 +1,7 @@
+{
+  "key": "livestorm-create-event",
+  "name": "Create Event",
+  "description": "Create a new event. [See the Documentation](https://developers.livestorm.co/reference/post_events)",
+  "type": "action",
+  "version": "0.0.2"
+}

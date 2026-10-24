@@ -1,0 +1,43 @@
+{
+  "app": "launchnotes",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "categories": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "clientMutationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eventTypes": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subscriber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "launchnotes-create-announcement",
+    "launchnotes-create-subscription",
+    "launchnotes-list-project-id-options",
+    "launchnotes-new-announcement-published",
+    "launchnotes-new-announcement-scheduled",
+    "launchnotes-new-subscription-created"
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "app": "zendesk",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "categoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ticketId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "viewId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "macroCategory": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "locale": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "articleCategoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sectionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "articleId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sideConversationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sideConversationSubject": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sideConversationBody": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sideConversationRecipients": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "macroId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ticketCommentBody": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ticketCommentBodyIsHTML": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "ticketPriority": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ticketSubject": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ticketStatus": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ticketCommentPublic": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "sortBy": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sortOrder": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "customSubdomain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "attachments": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "ticketTags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "assigneeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "assigneeEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "brandId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "topicId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "externalSourceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "labelName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zendesk-add-ticket-tags",
+    "zendesk-create-side-conversation",
+    "zendesk-create-ticket",
+    "zendesk-delete-ticket",
+    "zendesk-get-article",
+    "zendesk-get-dynamic-content-item",
+    "zendesk-get-dynamic-content-items-by-name",
+    "zendesk-get-macro",
+    "zendesk-get-side-conversation",
+    "zendesk-get-ticket-info",
+    "zendesk-get-user-info",
+    "zendesk-list-active-macros",
+    "zendesk-list-articles",
+    "zendesk-list-dynamic-content-items",
+    "zendesk-list-fields-options",
+    "zendesk-list-locales",
+    "zendesk-list-macro-category-options",
+    "zendesk-list-macros",
+    "zendesk-list-side-conversations",
+    "zendesk-list-ticket-comments",
+    "zendesk-list-tickets",
+    "zendesk-remove-ticket-tags",
+    "zendesk-reply-to-side-conversation",
+    "zendesk-search-articles",
+    "zendesk-search-community-posts",
+    "zendesk-search-help-center",
+    "zendesk-search-macros",
+    "zendesk-search-tickets",
+    "zendesk-set-custom-ticket-fields",
+    "zendesk-set-ticket-tags",
+    "zendesk-update-side-conversation",
+    "zendesk-update-ticket",
+    "zendesk-upload-ticket-attachments",
+    "zendesk-locale-updated",
+    "zendesk-new-side-conversation-reply",
+    "zendesk-new-side-conversation",
+    "zendesk-new-ticket-comment-added",
+    "zendesk-new-ticket",
+    "zendesk-ticket-added-to-view",
+    "zendesk-ticket-closed",
+    "zendesk-ticket-pended",
+    "zendesk-ticket-solved",
+    "zendesk-ticket-updated"
+  ],
+  "npmImports": [
+    "crypto",
+    "path"
+  ]
+}

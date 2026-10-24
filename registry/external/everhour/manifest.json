@@ -1,0 +1,41 @@
+{
+  "app": "everhour",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sectionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "labels": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "everhour-create-task",
+    "everhour-list-project-id-options",
+    "everhour-list-tags-options",
+    "everhour-start-timer",
+    "everhour-stop-timer",
+    "everhour-new-client-instant",
+    "everhour-new-task-instant",
+    "everhour-task-time-updated-instant"
+  ]
+}

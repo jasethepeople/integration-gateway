@@ -1,0 +1,9 @@
+{
+  "app": "python",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "python-run-python-code"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "grafana-search-dashboards",
+  "name": "Search Dashboards",
+  "description": "Search for dashboards by title, tag, or folder.",
+  "type": "action",
+  "version": "0.0.3"
+}

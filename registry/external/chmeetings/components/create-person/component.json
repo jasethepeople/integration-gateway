@@ -1,0 +1,7 @@
+{
+  "key": "chmeetings-create-person",
+  "name": "Create Person",
+  "description": "Create a new person in ChMeetings. [See the documentation](https://api.chmeetings.com/scalar/?_gl=1*xb9g3y*_gcl_au*MTI4MjM0MTM4Mi4xNzUzNzIxOTQw#tag/people/post/apiv1people)",
+  "type": "action",
+  "version": "0.0.1"
+}

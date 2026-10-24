@@ -1,0 +1,7 @@
+{
+  "key": "granola-list-notes",
+  "name": "List Notes",
+  "description": "List accessible meeting notes. [See the documentation](https://docs.granola.ai/api-reference/list-notes)",
+  "type": "action",
+  "version": "0.0.1"
+}

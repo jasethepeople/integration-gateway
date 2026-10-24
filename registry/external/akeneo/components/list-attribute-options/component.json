@@ -1,0 +1,7 @@
+{
+  "key": "akeneo-list-attribute-options",
+  "name": "List Attribute Options",
+  "description": "Retrieves available options for the Attribute field.",
+  "type": "action",
+  "version": "0.0.1"
+}

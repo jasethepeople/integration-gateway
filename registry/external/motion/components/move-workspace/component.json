@@ -1,0 +1,7 @@
+{
+  "key": "motion-move-workspace",
+  "name": "Move Workspace",
+  "description": "Move a specific task to another workspace. When moving tasks from one workspace to another, the tasks project, status, and label(s) and assignee will all be reset. [See the documentation](https://docs.usemotion.com/docs/motion-rest-api/0440c0ba81f10-move-workspace)",
+  "type": "action",
+  "version": "0.0.3"
+}

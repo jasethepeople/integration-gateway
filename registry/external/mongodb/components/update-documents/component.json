@@ -1,0 +1,7 @@
+{
+  "key": "mongodb-update-documents",
+  "name": "Update Documents",
+  "description": "Updates many documents by query filter. [See the documentation](https://www.mongodb.com/docs/drivers/node/current/usage-examples/updateMany/)",
+  "type": "action",
+  "version": "0.0.2"
+}

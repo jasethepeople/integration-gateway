@@ -1,0 +1,26 @@
+{
+  "app": "loop_returns",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "returnId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "loop_returns-cancel-return",
+    "loop_returns-flag-return",
+    "loop_returns-process-return",
+    "loop_returns-label-updated-instant",
+    "loop_returns-return-created-instant",
+    "loop_returns-return-status-updated-instant"
+  ],
+  "npmImports": [
+    "url"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "security_reporter-new-assessment-instant",
+  "name": "New Assessment Created (Instant)",
+  "description": "Emit new event when an assessment is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

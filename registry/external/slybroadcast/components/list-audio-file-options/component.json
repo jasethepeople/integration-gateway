@@ -1,0 +1,7 @@
+{
+  "key": "slybroadcast-list-audio-file-options",
+  "name": "List Audio File Options",
+  "description": "Retrieves available options for the Audio File field.",
+  "type": "action",
+  "version": "0.0.1"
+}

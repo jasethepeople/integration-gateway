@@ -1,0 +1,7 @@
+{
+  "key": "ticketsauce-get-event-details",
+  "name": "Get Event Details",
+  "description": "Get details for a specified event. [See documentation](https://speca.io/ticketsauce/ticketsauce-public-api?key=204000d6bda66da78315e721920f43aa#event-details)",
+  "type": "action",
+  "version": "0.0.1"
+}

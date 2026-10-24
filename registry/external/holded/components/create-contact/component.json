@@ -1,0 +1,7 @@
+{
+  "key": "holded-create-contact",
+  "name": "Create Contact",
+  "description": "Add a new contact to Holded. [See the docs](https://developers.holded.com/reference/create-contact-1).",
+  "type": "action",
+  "version": "0.0.2"
+}

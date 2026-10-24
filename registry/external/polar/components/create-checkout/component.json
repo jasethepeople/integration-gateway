@@ -1,0 +1,7 @@
+{
+  "key": "polar-create-checkout",
+  "name": "Create Checkout",
+  "description": "Create a checkout session for one or more products. [See the documentation](https://polar.sh/docs/api-reference/checkouts/create-session)",
+  "type": "action",
+  "version": "0.0.2"
+}

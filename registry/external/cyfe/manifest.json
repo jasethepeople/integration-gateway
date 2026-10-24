@@ -1,0 +1,9 @@
+{
+  "app": "cyfe",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "cyfe-push-value"
+  ]
+}

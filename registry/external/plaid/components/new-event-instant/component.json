@@ -1,0 +1,7 @@
+{
+  "key": "plaid-new-event-instant",
+  "name": "New Event (Instant)",
+  "description": "Emit new event when there are changes to Plaid Items or the status of asynchronous processes. [See the documentation](https://plaid.com/docs/api/webhooks/).",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "oanda-new-open-position",
+  "name": "New Open Position",
+  "description": "Emit new event when a new open position is created or updated in an Oanda account. [See the documentation](https://developer.oanda.com/rest-live-v20/position-ep/)",
+  "type": "source",
+  "version": "0.0.1"
+}

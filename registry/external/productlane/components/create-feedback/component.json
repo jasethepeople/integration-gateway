@@ -1,0 +1,7 @@
+{
+  "key": "productlane-create-feedback",
+  "name": "Create Feedback",
+  "description": "Create new feedback in Productlane. [See the documentation](https://productlane.com/docs/api-reference/portal/create-feedback)",
+  "type": "action",
+  "version": "0.0.2"
+}

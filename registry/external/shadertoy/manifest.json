@@ -1,0 +1,25 @@
+{
+  "app": "shadertoy",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shaderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "app_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "shadertoy-access-assets",
+    "shadertoy-get-shader",
+    "shadertoy-list-shaders",
+    "shadertoy-search-shaders"
+  ]
+}

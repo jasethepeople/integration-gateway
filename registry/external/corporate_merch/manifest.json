@@ -1,0 +1,32 @@
+{
+  "app": "corporate_merch",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "corporate_merch-create-contact",
+    "corporate_merch-create-order",
+    "corporate_merch-create-private-link",
+    "corporate_merch-list-orders",
+    "corporate_merch-list-private-links",
+    "corporate_merch-list-products",
+    "corporate_merch-list-redeem-pages",
+    "corporate_merch-new-contact-created",
+    "corporate_merch-new-order-created",
+    "corporate_merch-new-private-link-created",
+    "corporate_merch-new-product-created"
+  ]
+}

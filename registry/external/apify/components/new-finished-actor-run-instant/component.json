@@ -1,0 +1,7 @@
+{
+  "key": "apify-new-finished-actor-run-instant",
+  "name": "New Finished Actor Run (Instant)",
+  "description": "Emit new event when a selected Actor is run and finishes.",
+  "type": "source",
+  "version": "0.0.6"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "bigcommerce-get-all-products-sort-order",
+  "name": "Get All Products Sort Order",
+  "description": "Get all your products. [See the docs here](https://developer.bigcommerce.com/api-reference/90ab7265480e2-get-product-sort-order)",
+  "type": "action",
+  "version": "0.0.3"
+}

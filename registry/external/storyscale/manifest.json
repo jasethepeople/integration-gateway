@@ -1,0 +1,16 @@
+{
+  "app": "storyscale",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "storyscale-new-tour-created",
+    "storyscale-tour-published",
+    "storyscale-tour-viewed"
+  ]
+}

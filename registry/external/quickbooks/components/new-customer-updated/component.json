@@ -1,0 +1,7 @@
+{
+  "key": "quickbooks-new-customer-updated",
+  "name": "New Customer Updated",
+  "description": "Emit new event when a customer is updated.",
+  "type": "source",
+  "version": "0.0.9"
+}

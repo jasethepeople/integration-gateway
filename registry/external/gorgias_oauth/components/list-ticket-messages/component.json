@@ -1,0 +1,7 @@
+{
+  "key": "gorgias_oauth-list-ticket-messages",
+  "name": "List Ticket Messages",
+  "description": "List all messages for a specific ticket. [See the documentation](https://developers.gorgias.com/reference/list-ticket-messages)",
+  "type": "action",
+  "version": "0.0.6"
+}

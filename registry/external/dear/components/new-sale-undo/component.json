@@ -1,0 +1,7 @@
+{
+  "key": "dear-new-sale-undo",
+  "name": "New Sale Undo",
+  "description": "Emit new event when a sale is undone",
+  "type": "source",
+  "version": "0.0.1"
+}

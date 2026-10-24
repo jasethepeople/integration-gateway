@@ -1,0 +1,7 @@
+{
+  "key": "tiktok_ads_manager-create-audience",
+  "name": "Create Audience",
+  "description": "Create a new TikTok custom audience from hashed customer identifiers.",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "chatfly-send-message",
+  "name": "Send Message",
+  "description": "Dispatches a text message to a specified group or individual in Chatfly.",
+  "type": "action",
+  "version": "0.0.2"
+}

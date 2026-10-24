@@ -1,0 +1,7 @@
+{
+  "key": "vivocalendar-list-service-id-options",
+  "name": "List Service ID Options",
+  "description": "Retrieves available options for the Service ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

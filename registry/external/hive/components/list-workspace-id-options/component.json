@@ -1,0 +1,7 @@
+{
+  "key": "hive-list-workspace-id-options",
+  "name": "List Workspace Id Options",
+  "description": "Retrieves available options for the Workspace Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

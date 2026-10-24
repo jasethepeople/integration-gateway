@@ -1,0 +1,127 @@
+{
+  "app": "jira_data_center",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "boardId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "resolutionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sprintId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "issueId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "filterId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "worklogIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "epicId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "autoStartStop": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "goal": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "synced": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "activatedDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "completedDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "state": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jql": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "startAt": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "personal_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "jira_data_center-create-board",
+    "jira_data_center-create-filter",
+    "jira_data_center-create-future-sprint",
+    "jira_data_center-delete-sprint",
+    "jira_data_center-get-board",
+    "jira_data_center-get-issues-from-backlog",
+    "jira_data_center-get-resolution",
+    "jira_data_center-get-server-info",
+    "jira_data_center-get-sprint",
+    "jira_data_center-get-updated-work-logs",
+    "jira_data_center-get-worklogs-by-id",
+    "jira_data_center-list-board-issues",
+    "jira_data_center-list-boards",
+    "jira_data_center-list-epic-issues",
+    "jira_data_center-list-epics",
+    "jira_data_center-list-filter-id-options",
+    "jira_data_center-list-issues-without-epic",
+    "jira_data_center-list-project-id-options",
+    "jira_data_center-list-resolutions",
+    "jira_data_center-list-sprint-issues",
+    "jira_data_center-list-sprints",
+    "jira_data_center-list-worklog-ids-actions",
+    "jira_data_center-move-issues-to-backlog",
+    "jira_data_center-move-issues-to-sprint",
+    "jira_data_center-update-sprint-fully",
+    "jira_data_center-update-sprint-partially"
+  ]
+}

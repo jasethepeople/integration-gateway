@@ -1,0 +1,7 @@
+{
+  "key": "v7_go-complete-entity-instant",
+  "name": "New Complete Entity (Instant)",
+  "description": "Emit new event when all fields of an entity are completed in V7 Go.",
+  "type": "source",
+  "version": "0.0.1"
+}

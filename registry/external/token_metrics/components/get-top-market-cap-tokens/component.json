@@ -1,0 +1,7 @@
+{
+  "key": "token_metrics-get-top-market-cap-tokens",
+  "name": "Get Top Market Cap Tokens",
+  "description": "Specifies the number of top cryptocurrencies to retrieve, based on their market capitalization. Example: `100`",
+  "type": "action",
+  "version": "0.1.1"
+}

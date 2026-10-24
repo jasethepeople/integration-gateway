@@ -1,0 +1,7 @@
+{
+  "key": "speak_ai-new-sentiment",
+  "name": "New Sentiment Analysis (Instant)",
+  "description": "Emit new event when Speak AI produces sentiment analysis for a media file (`media.analyzed`, `media.reanalyzed`). [See the documentation](https://docs.speakai.co/api/media/#get-media-insight-media-id).",
+  "type": "source",
+  "version": "0.0.1"
+}

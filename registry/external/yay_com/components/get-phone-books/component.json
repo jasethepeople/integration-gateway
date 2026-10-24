@@ -1,0 +1,7 @@
+{
+  "key": "yay_com-get-phone-books",
+  "name": "Get Phone Books",
+  "description": "Retrieves all phone books available. [See the documentation](https://www.yay.com/voip/api-docs/phone-books/phone-book/)",
+  "type": "action",
+  "version": "0.0.2"
+}

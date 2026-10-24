@@ -1,0 +1,39 @@
+{
+  "app": "zoho_people",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "form": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "record": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "empId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emailId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mapId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zoho_people-add-record",
+    "zoho_people-create-attendance-entry",
+    "zoho_people-get-attendance-entries",
+    "zoho_people-list-emp-id-options",
+    "zoho_people-list-form-options",
+    "zoho_people-update-record"
+  ]
+}

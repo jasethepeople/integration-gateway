@@ -1,0 +1,37 @@
+{
+  "app": "salespype",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskTypeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "salespype-add-contact-to-campaign",
+    "salespype-create-contact",
+    "salespype-create-task",
+    "salespype-list-campaign-id-options",
+    "salespype-list-contact-id-options",
+    "salespype-list-task-type-id-options",
+    "salespype-contact-updated",
+    "salespype-new-campaign-created",
+    "salespype-new-contact-created"
+  ],
+  "npmImports": [
+    "md5"
+  ]
+}

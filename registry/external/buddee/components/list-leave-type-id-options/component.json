@@ -1,0 +1,7 @@
+{
+  "key": "buddee-list-leave-type-id-options",
+  "name": "List Leave Type ID Options",
+  "description": "Retrieves available options for the Leave Type ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

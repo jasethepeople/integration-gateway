@@ -1,0 +1,7 @@
+{
+  "key": "oracle_cloud_infrastructure-new-instance-state-change-instant",
+  "name": "New Instance State Change (Instant)",
+  "description": "Emit new event when a compute instance changes state (e.g., from stopped to running). This requires instance OCID and proper event rules set up in Oracle Cloud Infrastructure. [See the documentation](https://docs.oracle.com/en-us/iaas/api/#/en/events/20181201/Rule/CreateRule).",
+  "type": "source",
+  "version": "0.0.1"
+}

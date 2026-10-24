@@ -1,0 +1,7 @@
+{
+  "key": "referrizer-new-loyalty-reward-redeemed",
+  "name": "New Loyalty Reward Redeemed",
+  "description": "Emit new event when a new loyalty reward has been redeemed by a contact.",
+  "type": "source",
+  "version": "0.0.1"
+}

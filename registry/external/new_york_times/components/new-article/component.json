@@ -1,0 +1,7 @@
+{
+  "key": "new_york_times-new-article",
+  "name": "New Article Published",
+  "description": "Emit new event when an article is published.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "klenty-cadence-started",
+  "name": "New Cadence Started",
+  "description": "Emit new event when a new cadence is started.",
+  "type": "source",
+  "version": "0.0.1"
+}

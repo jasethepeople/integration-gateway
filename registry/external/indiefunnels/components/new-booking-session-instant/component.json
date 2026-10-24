@@ -1,0 +1,7 @@
+{
+  "key": "indiefunnels-new-booking-session-instant",
+  "name": "New Booking Session (Instant)",
+  "description": "Emit new event when a new session is booked from a client.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "resource_guru-list-booker-id-options",
+  "name": "List Booker Id Options",
+  "description": "Retrieves available options for the Booker Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "app": "dpd_shipping",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "environment": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_password": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dpd_shipping-get-tracking-data"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "squarespace-new-update-product",
+  "name": "New Update Product",
+  "description": "Emit new event for each product updated.",
+  "type": "source",
+  "version": "0.0.3"
+}

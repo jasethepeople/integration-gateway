@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_entra_id-search-groups",
+  "name": "Search Groups",
+  "description": "Searches for groups by name or description. [See the documentation](https://learn.microsoft.com/en-us/graph/api/group-list?view=graph-rest-1.0&tabs=http)",
+  "type": "action",
+  "version": "0.0.8"
+}

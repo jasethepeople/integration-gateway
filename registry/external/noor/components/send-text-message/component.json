@@ -1,0 +1,7 @@
+{
+  "key": "noor-send-text-message",
+  "name": "Send Text Message",
+  "description": "Send a message in a thread. [See the documentation](https://usenoor.notion.site/v0-e812ae5e5976420f81232fa1c0316e84)",
+  "type": "action",
+  "version": "0.0.2"
+}

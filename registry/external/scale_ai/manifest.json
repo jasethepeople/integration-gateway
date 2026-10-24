@@ -1,0 +1,45 @@
+{
+  "app": "scale_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "project": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "batch": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "instruction": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "callbackUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "attachment": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "priority": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "uniqueId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "scale_ai-create-document-transcription-task",
+    "scale_ai-create-image-annotation-task",
+    "scale_ai-create-text-annotation-task",
+    "scale_ai-list-project-options"
+  ]
+}

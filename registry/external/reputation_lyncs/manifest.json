@@ -1,0 +1,35 @@
+{
+  "app": "reputation_lyncs",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "customerName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phoneNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "whatsappEnabled": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "reputation_lyncs-add-customer",
+    "reputation_lyncs-new-customer-added"
+  ]
+}

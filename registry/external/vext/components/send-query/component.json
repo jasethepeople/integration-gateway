@@ -1,0 +1,7 @@
+{
+  "key": "vext-send-query",
+  "name": "Send Query",
+  "description": "Send a query request to your LLM pipeline. [See the documentation](https://vext.readme.io/reference/http-request-query)",
+  "type": "action",
+  "version": "0.0.2"
+}

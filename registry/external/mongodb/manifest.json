@@ -1,0 +1,37 @@
+{
+  "app": "mongodb",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "database": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "collection": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "document": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mongodb-create-new-document",
+    "mongodb-delete-document",
+    "mongodb-execute-aggregation",
+    "mongodb-find-document-by-id",
+    "mongodb-find-document",
+    "mongodb-list-database-options",
+    "mongodb-search-documents",
+    "mongodb-update-document",
+    "mongodb-update-documents",
+    "mongodb-new-collection",
+    "mongodb-new-database",
+    "mongodb-new-document",
+    "mongodb-new-field-in-document"
+  ],
+  "npmImports": [
+    "mongodb"
+  ]
+}

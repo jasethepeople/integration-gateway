@@ -1,0 +1,7 @@
+{
+  "key": "landbot-new-message-in-channel",
+  "name": "New Message in Channel (Instant)",
+  "description": "Emit new events when a new message is sent in a channel. [See the documentation](https://api.landbot.io/#api-MessageHooks-PostHttpsApiLandbotIoV1ChannelsChannel_idMessage_hooks)",
+  "type": "source",
+  "version": "0.0.1"
+}

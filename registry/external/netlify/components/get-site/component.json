@@ -1,0 +1,7 @@
+{
+  "key": "netlify-get-site",
+  "name": "Get Site",
+  "description": "Get a specified site. [See docs](https://docs.netlify.com/api/get-started/#get-sites)",
+  "type": "action",
+  "version": "0.1.2"
+}

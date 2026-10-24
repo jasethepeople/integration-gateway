@@ -1,0 +1,7 @@
+{
+  "key": "gmail-list-signature-options",
+  "name": "List Signature Options",
+  "description": "Retrieves available options for the Signature field.",
+  "type": "action",
+  "version": "0.0.5"
+}

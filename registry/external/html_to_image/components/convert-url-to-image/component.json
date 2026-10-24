@@ -1,0 +1,7 @@
+{
+  "key": "html_to_image-convert-url-to-image",
+  "name": "Convert URL to Image",
+  "description": "Capture a screenshot from a URL. [See the documentation](https://docs.htmlcsstoimg.com/html-to-image-api/screenshot-capture-api).",
+  "type": "action",
+  "version": "0.0.2"
+}

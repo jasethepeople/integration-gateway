@@ -1,0 +1,7 @@
+{
+  "key": "plivo-make-call",
+  "name": "Make A Call",
+  "description": "Makes a call. [See the docs](https://www.plivo.com/docs/voice/api/call#make-a-call).",
+  "type": "action",
+  "version": "0.0.2"
+}

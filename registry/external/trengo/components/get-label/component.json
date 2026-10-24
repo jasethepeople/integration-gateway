@@ -1,0 +1,7 @@
+{
+  "key": "trengo-get-label",
+  "name": "Get Label",
+  "description": "Get a label by ID. [See the documentation](https://developers.trengo.com/reference/get-a-label)",
+  "type": "action",
+  "version": "0.0.8"
+}

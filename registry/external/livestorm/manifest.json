@@ -1,0 +1,90 @@
+{
+  "app": "livestorm",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eventId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sessionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "slug": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recordingEnabled": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "chatEnabled": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "everyoneCanSpeak": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "detailedRegistrationPageEnabled": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "lightRegistrationPageEnabled": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "recordingPublic": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "showInCompanyPage": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "pollsEnabled": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "questionsEnabled": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "livestorm-create-event",
+    "livestorm-get-event",
+    "livestorm-list-attendees-from-event",
+    "livestorm-list-event-id-options",
+    "livestorm-list-events",
+    "livestorm-list-session-id-options",
+    "livestorm-list-sessions",
+    "livestorm-register-someone-for-session",
+    "livestorm-update-event",
+    "livestorm-new-registrant",
+    "livestorm-registrant-attended-webinar",
+    "livestorm-registrant-did-not-attend",
+    "livestorm-webinar-completed"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "app": "ringcentral",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "extensionId": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "deviceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "countryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "instancetype": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ringcentral-create-contact",
+    "ringcentral-create-meeting",
+    "ringcentral-download-recording",
+    "ringcentral-get-message",
+    "ringcentral-list-country-id-options",
+    "ringcentral-list-extension-id-options",
+    "ringcentral-make-callout",
+    "ringcentral-send-sms",
+    "ringcentral-missed-inbound-call",
+    "ringcentral-new-call-recording",
+    "ringcentral-new-event",
+    "ringcentral-new-inbound-call",
+    "ringcentral-new-inbound-fax",
+    "ringcentral-new-inbound-message",
+    "ringcentral-new-inbound-sms",
+    "ringcentral-new-outbound-call",
+    "ringcentral-new-outbound-message",
+    "ringcentral-new-voicemail-message"
+  ],
+  "npmImports": [
+    "fs",
+    "lodash.template",
+    "uuid"
+  ]
+}

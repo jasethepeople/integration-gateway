@@ -1,0 +1,7 @@
+{
+  "key": "mode-update-report",
+  "name": "Update Report",
+  "description": "Update a report's name, description, or move it to a different space. [See the documentation](https://mode.com/developer/api-reference/analytics/reports/#updateReport)",
+  "type": "action",
+  "version": "0.0.2"
+}

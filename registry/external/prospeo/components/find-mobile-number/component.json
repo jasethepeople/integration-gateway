@@ -1,0 +1,7 @@
+{
+  "key": "prospeo-find-mobile-number",
+  "name": "Find Mobile Number",
+  "description": "Discover mobile numbers associated with a LinkedIn profile URL. [See the documentation](https://prospeo.io/api/mobile-finder)",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "griptape-create-assistant",
+  "name": "Create Assistant",
+  "description": "Creates a new assistant in Griptape. [See the documentation](https://docs.griptape.ai/stable/griptape-cloud/api/api-reference/#/Assistants/CreateAssistant)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,27 @@
+{
+  "app": "satuit",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "business": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "rep": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "satuit-create-business",
+    "satuit-create-dealflow",
+    "satuit-find-contact-by-email",
+    "satuit-new-activity",
+    "satuit-new-contact",
+    "satuit-new-opportunity"
+  ]
+}

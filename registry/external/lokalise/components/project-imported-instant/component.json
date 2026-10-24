@@ -1,0 +1,7 @@
+{
+  "key": "lokalise-project-imported-instant",
+  "name": "New Project Imported (Instant)",
+  "description": "Emit new event when data is imported into a project",
+  "type": "source",
+  "version": "0.0.1"
+}

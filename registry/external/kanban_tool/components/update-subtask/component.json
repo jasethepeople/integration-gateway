@@ -1,0 +1,7 @@
+{
+  "key": "kanban_tool-update-subtask",
+  "name": "Update Subtask(Checklist Item)",
+  "description": "Updates a subtask with the given parameters [See the docs here](https://kanbantool.com/developer/api-v3#updating-subtasks)",
+  "type": "action",
+  "version": "0.0.3"
+}

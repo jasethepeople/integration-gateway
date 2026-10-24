@@ -1,0 +1,28 @@
+{
+  "app": "unbounce",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "pageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "leadId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "unbounce-get-page-lead",
+    "unbounce-list-page-id-options",
+    "unbounce-list-page-leads",
+    "unbounce-form-submission-received"
+  ],
+  "npmImports": [
+    "moment"
+  ]
+}

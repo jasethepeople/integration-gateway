@@ -1,0 +1,7 @@
+{
+  "key": "notion-retrieve-page-property-item",
+  "name": "Retrieve Page Property Item",
+  "description": "Get a Property Item object for a selected page and property. [See the documentation](https://developers.notion.com/reference/retrieve-a-page-property)",
+  "type": "action",
+  "version": "0.0.14"
+}

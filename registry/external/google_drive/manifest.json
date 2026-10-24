@@ -1,0 +1,203 @@
+{
+  "app": "google_drive",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "watchedDrive": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sharedDrive": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "themeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "folderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fileId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fileOrFolderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fileParents": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "updateTypes": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "watchForPropertiesChanges": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "changesPageSize": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "maxEmitsPerRun": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "filePath": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fileName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fileNameSearchTerm": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "searchQuery": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mimeType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "uploadType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "useDomainAdminAccess": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ocrLanguage": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "useContentAsIndexableText": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "keepRevisionForever": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "accessProposalId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "commentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "replyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "permissionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "pageToken": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "google_drive-add-comment",
+    "google_drive-add-file-sharing-preference",
+    "google_drive-copy-file",
+    "google_drive-create-file-from-template",
+    "google_drive-create-file-from-text",
+    "google_drive-create-folder",
+    "google_drive-create-shared-drive",
+    "google_drive-create-text-file",
+    "google_drive-delete-comment",
+    "google_drive-delete-file",
+    "google_drive-delete-reply",
+    "google_drive-delete-shared-drive",
+    "google_drive-download-file",
+    "google_drive-find-file",
+    "google_drive-find-folder",
+    "google_drive-find-forms",
+    "google_drive-find-spreadsheets",
+    "google_drive-get-comment",
+    "google_drive-get-current-user",
+    "google_drive-get-file-by-id",
+    "google_drive-get-file",
+    "google_drive-get-folder-id-for-path",
+    "google_drive-get-reply",
+    "google_drive-get-shared-drive",
+    "google_drive-get-user-details",
+    "google_drive-is-folder-ancestor",
+    "google_drive-list-access-proposals",
+    "google_drive-list-comments",
+    "google_drive-list-files",
+    "google_drive-list-mime-type-options",
+    "google_drive-list-permissions",
+    "google_drive-list-replies",
+    "google_drive-list-shared-drives",
+    "google_drive-list-theme-id-options",
+    "google_drive-move-file-to-trash",
+    "google_drive-move-file",
+    "google_drive-remove-file-sharing-permission",
+    "google_drive-remove-sharing",
+    "google_drive-reply-to-comment",
+    "google_drive-resolve-access-proposal",
+    "google_drive-resolve-comment",
+    "google_drive-search-files",
+    "google_drive-search-shared-drives",
+    "google_drive-share-file",
+    "google_drive-trash-file",
+    "google_drive-update-comment",
+    "google_drive-update-file",
+    "google_drive-update-reply",
+    "google_drive-update-shared-drive",
+    "google_drive-upload-file",
+    "google_drive-changes-to-files-in-drive",
+    "google_drive-changes-to-specific-files-shared-drive",
+    "google_drive-changes-to-specific-files",
+    "google_drive-new-access-proposal",
+    "google_drive-new-files-instant-polling",
+    "google_drive-new-files-instant",
+    "google_drive-new-files-shared-drive",
+    "google_drive-new-or-modified-comments-polling",
+    "google_drive-new-or-modified-comments",
+    "google_drive-new-or-modified-files-polling",
+    "google_drive-new-or-modified-files",
+    "google_drive-new-or-modified-folders-polling",
+    "google_drive-new-or-modified-folders",
+    "google_drive-new-shared-drive",
+    "google_drive-new-spreadsheet-polling",
+    "google_drive-new-spreadsheet"
+  ],
+  "npmImports": [
+    "@googleapis/drive",
+    "cron-parser",
+    "fs",
+    "google-docs-mustaches",
+    "lodash",
+    "md5",
+    "mime-db",
+    "stream",
+    "util",
+    "uuid"
+  ]
+}

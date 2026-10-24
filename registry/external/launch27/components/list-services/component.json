@@ -1,0 +1,7 @@
+{
+  "key": "launch27-list-services",
+  "name": "List Services",
+  "description": "Lists all services. [See the documentation](https://bitbucket.org/awoo23/api-2.0/wiki/Services_for_booking)",
+  "type": "action",
+  "version": "0.0.1"
+}

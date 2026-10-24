@@ -1,0 +1,7 @@
+{
+  "key": "frame-create-asset",
+  "name": "Create Asset",
+  "description": "Creates a new asset in Frame.io. [See the documentation](https://developer.frame.io/api/reference/operation/createAsset/)",
+  "type": "action",
+  "version": "0.0.3"
+}

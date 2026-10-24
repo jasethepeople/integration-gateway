@@ -1,0 +1,7 @@
+{
+  "key": "whautomate-new-appointment-cancelled-instant",
+  "name": "New Appointment Cancelled (Instant)",
+  "description": "Emit new event when an appointment is cancelled in Whautomate.",
+  "type": "source",
+  "version": "0.0.1"
+}

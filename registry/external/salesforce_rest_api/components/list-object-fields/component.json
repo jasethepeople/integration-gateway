@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-list-object-fields",
+  "name": "List Object Fields",
+  "description": "List the field names for a Salesforce object type.",
+  "type": "action",
+  "version": "0.0.5"
+}

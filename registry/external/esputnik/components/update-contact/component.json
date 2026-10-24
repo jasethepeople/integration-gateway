@@ -1,0 +1,7 @@
+{
+  "key": "esputnik-update-contact",
+  "name": "Update Contact",
+  "description": "Update an existing contact in eSputnik. [See the docs here](https://esputnik.com/api/methods.html#/v1/contact/{id}-PUT)",
+  "type": "action",
+  "version": "0.0.2"
+}

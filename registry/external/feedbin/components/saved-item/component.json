@@ -1,0 +1,7 @@
+{
+  "key": "feedbin-saved-item",
+  "name": "New Saved Item",
+  "description": "Emit new event when a new item is saved. [See the docs here](https://github.com/feedbin/feedbin-api/blob/master/content/entries.md#get-v2entriesjson)",
+  "type": "source",
+  "version": "0.0.2"
+}

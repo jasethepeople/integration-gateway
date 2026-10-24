@@ -1,0 +1,7 @@
+{
+  "key": "planview_leankit-find-first-card",
+  "name": "Find First Card",
+  "description": "Find first matching card. [See the docs here](https://success.planview.com/Planview_AgilePlace/AgilePlace_API/01_v2/card/list)",
+  "type": "action",
+  "version": "0.0.3"
+}

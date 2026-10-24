@@ -1,0 +1,7 @@
+{
+  "key": "simla_com-list-site-options",
+  "name": "List Site Options",
+  "description": "Retrieves available options for the Site field.",
+  "type": "action",
+  "version": "0.0.1"
+}

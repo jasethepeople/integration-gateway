@@ -1,0 +1,7 @@
+{
+  "key": "aws-sns-send-message",
+  "name": "SNS - Send Message",
+  "description": "The message to be sent",
+  "type": "action",
+  "version": "0.0.4"
+}

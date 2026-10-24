@@ -1,0 +1,24 @@
+{
+  "app": "lightspeed_x",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "lightspeed_x-get-customer",
+    "lightspeed_x-customer-updated",
+    "lightspeed_x-product-updated"
+  ]
+}

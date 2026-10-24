@@ -1,0 +1,7 @@
+{
+  "key": "consulta_unica-validate-rfc",
+  "name": "Validate RFC",
+  "description": "Validates a Mexican Federal Taxpayer Registry (RFC) number. Returns the RFC and its validation status. [See the documentation](https://consultaunica-docs.vercel.app/services/sat/rfc_validation.html)",
+  "type": "action",
+  "version": "0.0.1"
+}

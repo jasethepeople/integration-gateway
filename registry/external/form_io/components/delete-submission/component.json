@@ -1,0 +1,7 @@
+{
+  "key": "form_io-delete-submission",
+  "name": "Delete Submission",
+  "description": "Permanently delete a submission from a Form.io form. Use **List Submissions** to find the submission ID. This is irreversible. [See the documentation](https://apidocs.form.io/#080c6368-e029-c581-951b-a993bc02578a).",
+  "type": "action",
+  "version": "0.0.1"
+}

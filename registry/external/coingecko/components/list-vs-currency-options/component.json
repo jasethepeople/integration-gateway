@@ -1,0 +1,7 @@
+{
+  "key": "coingecko-list-vs-currency-options",
+  "name": "List vs Currency Options",
+  "description": "Retrieves available options for the vs Currency field.",
+  "type": "action",
+  "version": "0.0.1"
+}

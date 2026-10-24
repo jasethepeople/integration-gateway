@@ -1,0 +1,7 @@
+{
+  "key": "plain-upsert-customer",
+  "name": "Upsert Customer",
+  "description": "Creates or updates customer with customer details. [See the documentation](https://www.plain.com/docs/api-reference/graphql/customers/upsert)",
+  "type": "action",
+  "version": "0.0.2"
+}

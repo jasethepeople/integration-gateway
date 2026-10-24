@@ -1,0 +1,17 @@
+{
+  "app": "l3mbda",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "l3mbda-new-erc-1155-transfer-instant",
+    "l3mbda-new-erc-20-transfer-instant",
+    "l3mbda-new-erc-721-transfer-instant",
+    "l3mbda-new-eth-transfer-instant"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "wordpress_org-update-user",
+  "name": "Update User",
+  "description": "Updates the information of a user. [See the documentation](https://developer.wordpress.org/rest-api/reference/users/#update-a-user-2)",
+  "type": "action",
+  "version": "0.0.4"
+}

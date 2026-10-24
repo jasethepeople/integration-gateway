@@ -1,0 +1,7 @@
+{
+  "app": "appveyor",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": []
+}

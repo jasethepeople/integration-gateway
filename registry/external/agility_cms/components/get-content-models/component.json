@@ -1,0 +1,7 @@
+{
+  "key": "agility_cms-get-content-models",
+  "name": "Get Content Models",
+  "description": "Retrieve content models for the Agility instance. [See the documentation](https://api.aglty.io/swagger/index.html#operations-ContentModels-get__guid___apitype__contentmodels)",
+  "type": "action",
+  "version": "0.0.2"
+}

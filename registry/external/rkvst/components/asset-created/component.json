@@ -1,0 +1,7 @@
+{
+  "key": "rkvst-asset-created",
+  "name": "New Asset Created",
+  "description": "Emit new event when a new asset is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

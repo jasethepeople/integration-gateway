@@ -1,0 +1,7 @@
+{
+  "key": "wufoo-new-form-entry",
+  "name": "New Form Entry",
+  "description": "Emit new event when a new form entry received.",
+  "type": "source",
+  "version": "0.0.1"
+}

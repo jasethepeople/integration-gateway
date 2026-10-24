@@ -1,0 +1,7 @@
+{
+  "key": "infobip-new-sms-message-instant",
+  "name": "New SMS Message (Instant)",
+  "description": "Emit new event when a new SMS message is received.",
+  "type": "source",
+  "version": "0.0.2"
+}

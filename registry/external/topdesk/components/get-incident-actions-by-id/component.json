@@ -1,0 +1,7 @@
+{
+  "key": "topdesk-get-incident-actions-by-id",
+  "name": "Get Incident Actions By ID",
+  "description": "Get incident actions by incident ID. [See the documentation](https://developers.topdesk.com/explorer/?page=incident#/progress%20trail%20%2F%20actions%20%2F%20requests/getIncidentActionsById)",
+  "type": "action",
+  "version": "0.0.1"
+}

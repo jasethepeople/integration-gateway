@@ -1,0 +1,148 @@
+{
+  "app": "clickup",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "workspaces": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "spaces": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "folders": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "useCustomTaskIds": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "authorizedTeamId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "assignees": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "taskTemplates": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "priorities": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "folderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "listId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "viewId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "checklistId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "commentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "checklistItemId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customFieldId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "clickup-create-chat-view-comment",
+    "clickup-create-checklist-item",
+    "clickup-create-checklist",
+    "clickup-create-folder",
+    "clickup-create-list-comment",
+    "clickup-create-list",
+    "clickup-create-space",
+    "clickup-create-task-comment",
+    "clickup-create-task-from-template",
+    "clickup-create-task",
+    "clickup-create-threaded-comment",
+    "clickup-create-time-entry",
+    "clickup-create-view-comment",
+    "clickup-delete-checklist-item",
+    "clickup-delete-checklist",
+    "clickup-delete-comment",
+    "clickup-delete-folder",
+    "clickup-delete-list",
+    "clickup-delete-space",
+    "clickup-delete-task",
+    "clickup-get-custom-fields",
+    "clickup-get-folder-views",
+    "clickup-get-folder",
+    "clickup-get-folders",
+    "clickup-get-list-comments",
+    "clickup-get-list-views",
+    "clickup-get-list",
+    "clickup-get-lists",
+    "clickup-get-space-views",
+    "clickup-get-space",
+    "clickup-get-spaces",
+    "clickup-get-task-comments",
+    "clickup-get-task-templates",
+    "clickup-get-task",
+    "clickup-get-tasks",
+    "clickup-get-team-views",
+    "clickup-get-view-comments",
+    "clickup-get-view-tasks",
+    "clickup-get-view",
+    "clickup-list-authorized-team-id-options",
+    "clickup-list-workspaces-options",
+    "clickup-remove-task-custom-field",
+    "clickup-start-time-entry",
+    "clickup-stop-time-entry",
+    "clickup-update-checklist-item",
+    "clickup-update-checklist",
+    "clickup-update-comment",
+    "clickup-update-folder",
+    "clickup-update-list",
+    "clickup-update-space",
+    "clickup-update-task-custom-field",
+    "clickup-update-task",
+    "clickup-new-folder",
+    "clickup-new-list",
+    "clickup-new-task-advanced",
+    "clickup-new-task-comment-updated",
+    "clickup-new-task-comment",
+    "clickup-new-task",
+    "clickup-updated-task"
+  ],
+  "npmImports": [
+    "crypto",
+    "lodash"
+  ]
+}

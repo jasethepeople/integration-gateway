@@ -1,0 +1,30 @@
+{
+  "app": "splynx",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tariffId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "splynx-create-customer",
+    "splynx-create-internet-service",
+    "splynx-list-customers",
+    "splynx-list-tariff-id-options",
+    "splynx-update-customer"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "app": "fillout",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "formId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "fillout-list-form-id-options",
+    "fillout-new-submission-instant"
+  ]
+}

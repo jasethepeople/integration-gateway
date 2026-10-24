@@ -1,0 +1,16 @@
+{
+  "app": "inksprout",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "inksprout-create-summary",
+    "inksprout-list-summaries",
+    "inksprout-new-summary"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "noticeable-create-publication",
+  "name": "Create Publication",
+  "description": "Creates a publication, [See the docs](https://graphdoc.noticeable.io/publication.doc.html)",
+  "type": "action",
+  "version": "0.0.3"
+}

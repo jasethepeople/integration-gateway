@@ -1,0 +1,7 @@
+{
+  "key": "pipedream_utils-xml-to-json",
+  "name": "Helper Functions - XML to JSON",
+  "description": "See [xml-js](https://github.com/nashwaan/xml-js)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "browse_ai-task-completed",
+  "name": "Task Completed (Instant)",
+  "description": "Emits an event when a Browse AI task is completed. [See the documentation](https://www.browse.ai/docs/api/v2#tag/webhooks/operation/createNewWebhook)",
+  "type": "source",
+  "version": "0.0.1"
+}

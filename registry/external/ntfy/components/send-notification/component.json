@@ -1,0 +1,7 @@
+{
+  "key": "ntfy-send-notification",
+  "name": "Send Notification",
+  "description": "Send a notification using Ntfy. [See the documentation](https://docs.ntfy.sh/publish/).",
+  "type": "action",
+  "version": "0.0.2"
+}

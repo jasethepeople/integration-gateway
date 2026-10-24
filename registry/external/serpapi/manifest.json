@@ -1,0 +1,30 @@
+{
+  "app": "serpapi",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "engine": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "q": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "device": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "noCache": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "serpapi-scrape-search"
+  ]
+}

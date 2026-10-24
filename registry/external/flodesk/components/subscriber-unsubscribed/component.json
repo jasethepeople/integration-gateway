@@ -1,0 +1,7 @@
+{
+  "key": "flodesk-subscriber-unsubscribed",
+  "name": "Subscriber Unsubscribed",
+  "description": "Emit new event when a subscriber is unsubscribed in Flodesk. [See the documentation](https://developers.flodesk.com/#tag/webhook-event/operation/subscriber.unsubscribed)",
+  "type": "source",
+  "version": "0.0.1"
+}

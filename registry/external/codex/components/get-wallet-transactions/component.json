@@ -1,0 +1,7 @@
+{
+  "key": "codex-get-wallet-transactions",
+  "name": "Get Wallet Transactions",
+  "description": "Returns token holdings and aggregated trading stats for one or more wallet addresses.",
+  "type": "action",
+  "version": "0.0.2"
+}

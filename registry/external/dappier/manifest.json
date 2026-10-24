@@ -1,0 +1,55 @@
+{
+  "app": "dappier",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "widgetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "placementId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "deploymentType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "creativeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lineItemId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "publisherId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dappier-get-ai-recommendations",
+    "dappier-get-ask-ai-analytics",
+    "dappier-get-ask-ai-logs",
+    "dappier-get-session-intelligence",
+    "dappier-get-sponsored-conversations-analytics",
+    "dappier-search-real-time-data"
+  ]
+}

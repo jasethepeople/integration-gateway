@@ -1,0 +1,7 @@
+{
+  "key": "acelle_mail-subscribe-customer-to-plan",
+  "name": "Subscribe Customer To Plan",
+  "description": "Subscribe customer to a plan. [See the documentation](https://api.acellemail.com/#backend_subscriptions_subscribe)",
+  "type": "action",
+  "version": "0.0.3"
+}

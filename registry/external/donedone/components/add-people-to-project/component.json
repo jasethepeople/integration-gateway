@@ -1,0 +1,7 @@
+{
+  "key": "donedone-add-people-to-project",
+  "name": "Add People to Project",
+  "description": "Add people to a project. [See the documentation](https://app.swaggerhub.com/apis-docs/DoneDone/DoneDone-2-Public-API/1.0.0-oas3#/Projects/put__account_id__internal_projects__internal_project_id__people)",
+  "type": "action",
+  "version": "0.0.1"
+}

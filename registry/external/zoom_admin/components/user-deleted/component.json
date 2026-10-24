@@ -1,0 +1,7 @@
+{
+  "key": "zoom_admin-user-deleted",
+  "name": "User Deleted",
+  "description": "Emits an event each time a user is deleted in your Zoom account",
+  "type": "source",
+  "version": "0.1.9"
+}

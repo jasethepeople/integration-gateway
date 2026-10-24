@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_bookings-cancel-appointment",
+  "name": "Cancel Appointment",
+  "description": "Cancels an appointment in a Microsoft Bookings business. [See the documentation](https://learn.microsoft.com/en-us/graph/api/bookingappointment-cancel?view=graph-rest-1.0)",
+  "type": "action",
+  "version": "0.0.1"
+}

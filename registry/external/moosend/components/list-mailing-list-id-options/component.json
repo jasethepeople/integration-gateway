@@ -1,0 +1,7 @@
+{
+  "key": "moosend-list-mailing-list-id-options",
+  "name": "List Mailing List ID Options",
+  "description": "Retrieves available options for the Mailing List ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

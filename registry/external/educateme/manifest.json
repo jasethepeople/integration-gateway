@@ -1,0 +1,26 @@
+{
+  "app": "educateme",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "courseId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "educateme-create-course",
+    "educateme-find-courses",
+    "educateme-get-course-activities",
+    "educateme-new-course-activity",
+    "educateme-new-course-created"
+  ]
+}

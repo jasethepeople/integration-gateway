@@ -1,0 +1,7 @@
+{
+  "key": "tomba-validate-phone",
+  "name": "Validate Phone",
+  "description": "Validate a phone number and retrieve its associated information. [See the documentation](https://docs.tomba.io/api/phone#phone-validator)",
+  "type": "action",
+  "version": "0.0.1"
+}

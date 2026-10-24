@@ -1,0 +1,7 @@
+{
+  "key": "roll-new-created-task",
+  "name": "New Created Task",
+  "description": "Emit new event when a task is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

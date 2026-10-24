@@ -1,0 +1,7 @@
+{
+  "key": "mailgun-suppress-email",
+  "name": "Suppress Email",
+  "description": "Add email to the Mailgun suppression list. [See the docs here](https://documentation.mailgun.com/en/latest/api-suppressions.html#suppressions)",
+  "type": "action",
+  "version": "0.0.4"
+}

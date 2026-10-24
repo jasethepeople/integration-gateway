@@ -1,0 +1,7 @@
+{
+  "key": "discord_bot-new-tag-added-to-thread",
+  "name": "New Tag Added to Forum Thread",
+  "description": "Emit new event when a new tag is added to a thread",
+  "type": "source",
+  "version": "1.0.0"
+}

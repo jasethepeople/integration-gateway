@@ -1,0 +1,7 @@
+{
+  "key": "zoho_salesiq-create-article",
+  "name": "Create Article",
+  "description": "Create a new article. [See the documentation](https://www.zoho.com/salesiq/help/developer-section/create-articles-v2.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

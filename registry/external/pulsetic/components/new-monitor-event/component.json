@@ -1,0 +1,7 @@
+{
+  "key": "pulsetic-new-monitor-event",
+  "name": "New Monitor Event",
+  "description": "Emit new event when a monitor event occurs.",
+  "type": "source",
+  "version": "0.0.1"
+}

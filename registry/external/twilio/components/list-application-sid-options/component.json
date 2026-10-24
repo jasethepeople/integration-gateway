@@ -1,0 +1,7 @@
+{
+  "key": "twilio-list-application-sid-options",
+  "name": "List Application SID Options",
+  "description": "Retrieves available options for the Application SID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "flodesk-list-subscriber-id-options",
+  "name": "List Subscriber Options",
+  "description": "Retrieves available options for the Subscriber field.",
+  "type": "action",
+  "version": "0.0.1"
+}

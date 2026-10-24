@@ -1,0 +1,40 @@
+{
+  "app": "wati",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "whatsappNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customParams": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "templateName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_endpoint": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "wati-add-contact",
+    "wati-list-contact-id-options",
+    "wati-list-template-name-options",
+    "wati-send-template-message",
+    "wati-update-contact-attribute",
+    "wati-new-contact-created",
+    "wati-new-incoming-message"
+  ]
+}

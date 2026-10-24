@@ -1,0 +1,34 @@
+{
+  "app": "papersign",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "documentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "spaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "folderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "papersign-copy-document",
+    "papersign-get-document",
+    "papersign-list-document-id-options",
+    "papersign-list-folder-id-options",
+    "papersign-list-space-id-options",
+    "papersign-send-document",
+    "papersign-new-document-completed-instant",
+    "papersign-new-event-instant",
+    "papersign-new-signer-signed-instant"
+  ]
+}

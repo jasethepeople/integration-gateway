@@ -1,0 +1,7 @@
+{
+  "key": "lever-create-interview",
+  "name": "Create Interview",
+  "description": "Schedules an interview for a candidate opportunity.",
+  "type": "action",
+  "version": "0.0.2"
+}

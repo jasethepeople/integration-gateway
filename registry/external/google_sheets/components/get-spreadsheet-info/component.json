@@ -1,0 +1,7 @@
+{
+  "key": "google_sheets-get-spreadsheet-info",
+  "name": "Get Spreadsheet Info",
+  "description": "Get the structure of a Google Spreadsheet — worksheet",
+  "type": "action",
+  "version": "0.0.4"
+}

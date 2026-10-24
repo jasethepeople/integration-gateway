@@ -1,0 +1,7 @@
+{
+  "key": "merge-list-user-options",
+  "name": "List User Options",
+  "description": "Retrieves available user options for the user field.",
+  "type": "action",
+  "version": "0.0.1"
+}

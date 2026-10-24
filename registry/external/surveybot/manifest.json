@@ -1,0 +1,26 @@
+{
+  "app": "surveybot",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "surveyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "respondentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "surveybot-get-survey-respondent",
+    "surveybot-get-survey-responses",
+    "surveybot-list-survey-id-options",
+    "surveybot-list-surveys",
+    "surveybot-new-survey-response"
+  ]
+}

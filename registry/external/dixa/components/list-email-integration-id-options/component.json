@@ -1,0 +1,7 @@
+{
+  "key": "dixa-list-email-integration-id-options",
+  "name": "List Email Integration ID Options",
+  "description": "Retrieves available options for the Email Integration ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "wave-create-customer",
+  "name": "Create Customer",
+  "description": "Create a customer under a business. [See the documentation](https://developer.waveapps.com/hc/en-us/articles/360032569232-Mutation-Create-customer)",
+  "type": "action",
+  "version": "0.0.2"
+}

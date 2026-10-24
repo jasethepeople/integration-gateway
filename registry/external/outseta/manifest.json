@@ -1,0 +1,46 @@
+{
+  "app": "outseta",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "billingStage": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "person": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "account": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dealPipelineStage": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "outseta-add-account",
+    "outseta-add-deal",
+    "outseta-add-person",
+    "outseta-new-account",
+    "outseta-new-deal",
+    "outseta-new-person"
+  ],
+  "npmImports": [
+    "qs"
+  ]
+}

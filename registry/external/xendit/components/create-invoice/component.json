@@ -1,0 +1,7 @@
+{
+  "key": "xendit-create-invoice",
+  "name": "Create Invoice",
+  "description": "Create a new invoice on Xendit platform [See the documentation](https://developers.xendit.co/api-reference/#create-invoice)",
+  "type": "action",
+  "version": "0.0.2"
+}

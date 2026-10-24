@@ -1,0 +1,7 @@
+{
+  "key": "sendoso-list-groups",
+  "name": "List Groups",
+  "description": "List all groups (teams). [See the documentation](https://developer.sendoso.com/rest-api/reference/teams/get-teams)",
+  "type": "action",
+  "version": "0.0.1"
+}

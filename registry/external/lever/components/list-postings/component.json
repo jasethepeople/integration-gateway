@@ -1,0 +1,7 @@
+{
+  "key": "lever-list-postings",
+  "name": "List Postings",
+  "description": "Returns job postings from Lever, optionally filtered by state, team, or location.",
+  "type": "action",
+  "version": "0.0.2"
+}

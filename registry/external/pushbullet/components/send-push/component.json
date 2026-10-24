@@ -1,0 +1,7 @@
+{
+  "key": "pushbullet-send-push",
+  "name": "Send push (Note, Link and File)",
+  "description": "Send a push to a device or another person. [See docs here](https://docs.pushbullet.com/#create-push)",
+  "type": "action",
+  "version": "0.0.2"
+}

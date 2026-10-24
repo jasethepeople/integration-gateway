@@ -1,0 +1,7 @@
+{
+  "key": "hotmart-get-subscriptions",
+  "name": "Get Subscriptions",
+  "description": "Get subscribers from hotmart profile. [See the documentation](https://developers.hotmart.com/docs/pt-BR/v1/subscription/get-subscribers/)",
+  "type": "action",
+  "version": "0.0.2"
+}

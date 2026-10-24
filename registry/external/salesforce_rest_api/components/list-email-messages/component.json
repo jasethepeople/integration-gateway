@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-list-email-messages",
+  "name": "List Email Messages",
+  "description": "List Salesforce email messages, newest first, optionally scoped to one case.",
+  "type": "action",
+  "version": "0.1.3"
+}

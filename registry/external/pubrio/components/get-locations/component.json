@@ -1,0 +1,7 @@
+{
+  "key": "pubrio-get-locations",
+  "name": "Get Locations",
+  "description": "Get available location codes for filtering. [See the documentation](https://docs.pubrio.com/en/api-reference/endpoint/locations/locations)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "ollama-delete-model",
+  "name": "Delete Model",
+  "description": "Delete a model and its data. [See the documentation](https://github.com/ollama/ollama/blob/main/docs/api.md#delete-a-model)",
+  "type": "action",
+  "version": "0.0.2"
+}

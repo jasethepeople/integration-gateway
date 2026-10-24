@@ -1,0 +1,7 @@
+{
+  "key": "signpath-get-signing-request-data",
+  "name": "Get Signing Request Data",
+  "description": "Get data for a specific signing request. [See the documentation](https://docs.signpath.io/build-system-integration#get-signing-request-data)",
+  "type": "action",
+  "version": "0.0.1"
+}

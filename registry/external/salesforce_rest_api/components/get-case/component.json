@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-get-case",
+  "name": "Get Case",
+  "description": "Retrieve one Salesforce case by its record ID.",
+  "type": "action",
+  "version": "0.0.8"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "stormboard-new-idea",
+  "name": "New Idea",
+  "description": "Creates a new idea. [See the docs here](https://api.stormboard.com/docs)",
+  "type": "action",
+  "version": "0.0.2"
+}

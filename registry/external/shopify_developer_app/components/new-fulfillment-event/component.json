@@ -1,0 +1,7 @@
+{
+  "key": "shopify_developer_app-new-fulfillment-event",
+  "name": "New Fulfillment Event (Instant)",
+  "description": "Emit new event for each new fulfillment event for a store.",
+  "type": "source",
+  "version": "0.0.19"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "vbout-add-contact-to-list",
+  "name": "Add Contact To List",
+  "description": "This action move a contact to a specific list. [See the docs here](https://developers.vbout.com/docs#emailmarketing_movecontact)",
+  "type": "action",
+  "version": "0.0.2"
+}

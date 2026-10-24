@@ -1,0 +1,7 @@
+{
+  "key": "specific-new-conversation-instant",
+  "name": "New Conversation Instant",
+  "description": "Emit new event whenever a new conversation is initiated.",
+  "type": "source",
+  "version": "0.0.1"
+}

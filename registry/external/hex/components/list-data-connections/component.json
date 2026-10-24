@@ -1,0 +1,7 @@
+{
+  "key": "hex-list-data-connections",
+  "name": "List Data Connections",
+  "description": "List all data connections. [See the documentation](https://learn.hex.tech/docs/api/api-reference#operation/ListDataConnections)",
+  "type": "action",
+  "version": "0.0.1"
+}

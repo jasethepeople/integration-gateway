@@ -1,0 +1,7 @@
+{
+  "key": "rejoiner-start-journey",
+  "name": "Start Journey",
+  "description": "Triggers the beginning of a customer journey in Rejoiner. [See the documentation](https://docs.rejoiner.com/reference/trigger-webhook-journey)",
+  "type": "action",
+  "version": "0.0.2"
+}

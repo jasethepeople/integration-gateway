@@ -1,0 +1,7 @@
+{
+  "key": "stammer_ai-message-chatbot",
+  "name": "Message Chatbot",
+  "description": "Sends a message to your chatbot. [See the documentation](https://app.stammer.ai/en/api-docs/chatbot/message/)",
+  "type": "action",
+  "version": "0.0.2"
+}

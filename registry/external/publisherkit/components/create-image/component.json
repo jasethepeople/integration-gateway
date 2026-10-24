@@ -1,0 +1,7 @@
+{
+  "key": "publisherkit-create-image",
+  "name": "Create Image",
+  "description": "Generates a new image within PublisherKit. [See the documentation](https://publisherkit.com/documentation/api)",
+  "type": "action",
+  "version": "0.0.2"
+}

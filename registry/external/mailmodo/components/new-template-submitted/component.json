@@ -1,0 +1,7 @@
+{
+  "key": "mailmodo-new-template-submitted",
+  "name": "New Template Submitted",
+  "description": "Emit new events when a new template is created. [See the docs](https://www.mailmodo.com/developers/shonrvhb4jw5u-templates/bb30da6d78f04-get-all-templates)",
+  "type": "source",
+  "version": "0.0.1"
+}

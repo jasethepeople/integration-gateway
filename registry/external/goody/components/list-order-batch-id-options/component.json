@@ -1,0 +1,7 @@
+{
+  "key": "goody-list-order-batch-id-options",
+  "name": "List Order Batch Options",
+  "description": "Retrieves available options for the Order Batch field.",
+  "type": "action",
+  "version": "0.0.1"
+}

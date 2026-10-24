@@ -1,0 +1,73 @@
+{
+  "app": "agendor",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "personId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "organizationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ranking": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contact": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "address": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "leadOrigin": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "category": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sector": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "product": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "allowToAllUsers": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "customFields": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "agendor-create-organization",
+    "agendor-create-person",
+    "agendor-find-organization",
+    "agendor-find-person",
+    "agendor-list-category-options",
+    "agendor-list-lead-origin-options",
+    "agendor-list-sector-options",
+    "agendor-list-user-id-options"
+  ]
+}

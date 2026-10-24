@@ -1,0 +1,7 @@
+{
+  "key": "freshdesk-forward-ticket",
+  "name": "Forward Ticket",
+  "description": "Forward a ticket to an external email address. [See the documentation](https://developers.freshdesk.com/api/#forward_a_ticket).",
+  "type": "action",
+  "version": "0.0.5"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "maintainx-new-work-order-completed",
+  "name": "New Work Order Completed",
+  "description": "Emit new event each time a new work order is completed.",
+  "type": "source",
+  "version": "0.0.1"
+}

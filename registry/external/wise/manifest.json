@@ -1,0 +1,26 @@
+{
+  "app": "wise",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "wise-create-quote",
+    "wise-create-recipient-account",
+    "wise-create-transfer",
+    "wise-fund-transfer",
+    "wise-get-balance",
+    "wise-get-exchange-rates",
+    "wise-get-recipient-account",
+    "wise-get-transfer",
+    "wise-list-profile-id-options",
+    "wise-list-transfer-id-options",
+    "wise-new-transfer-completed",
+    "wise-new-transfer-created",
+    "wise-new-transfer-state-changed"
+  ]
+}

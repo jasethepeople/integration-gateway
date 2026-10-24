@@ -1,0 +1,7 @@
+{
+  "key": "webinarfuel-list-webinar-id-options",
+  "name": "List Webinar ID Options",
+  "description": "Retrieves available options for the Webinar ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

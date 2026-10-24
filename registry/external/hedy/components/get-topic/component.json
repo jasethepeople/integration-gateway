@@ -1,0 +1,7 @@
+{
+  "key": "hedy-get-topic",
+  "name": "Get Topic",
+  "description": "Retrieves full details for a single Hedy topic by ID, including the complete custom AI analysis context (`topicContext`), cached overview, and session statistics.",
+  "type": "action",
+  "version": "0.0.2"
+}

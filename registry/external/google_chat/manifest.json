@@ -1,0 +1,38 @@
+{
+  "app": "google_chat",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "spaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "messageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "memberId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "google_chat-create-message",
+    "google_chat-get-member",
+    "google_chat-get-message",
+    "google_chat-get-space",
+    "google_chat-list-members",
+    "google_chat-list-messages",
+    "google_chat-list-spaces",
+    "google_chat-new-command-used",
+    "google_chat-new-mention-received",
+    "google_chat-new-message-in-space"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

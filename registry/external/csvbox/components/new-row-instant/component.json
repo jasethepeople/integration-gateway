@@ -1,0 +1,7 @@
+{
+  "key": "csvbox-new-row-instant",
+  "name": "New Row Imported",
+  "description": "Emit new events when a new row is added to a CSVBox sheet",
+  "type": "source",
+  "version": "0.0.1"
+}

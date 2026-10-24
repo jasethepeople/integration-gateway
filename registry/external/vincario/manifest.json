@@ -1,0 +1,28 @@
+{
+  "app": "vincario",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "vin": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "secret_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "vincario-check-stolen",
+    "vincario-decode-vin",
+    "vincario-get-vehicle-market-value",
+    "vincario-get-vin-decoder-info"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

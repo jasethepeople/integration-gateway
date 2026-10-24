@@ -1,0 +1,7 @@
+{
+  "key": "node-run-node-code",
+  "name": "Run Node Code",
+  "description": "Write custom Node.js code and use any of the 400k+ npm packages available. Refer to the [Pipedream Node docs](https://pipedream.com/docs/code/nodejs) to learn more.",
+  "type": "action",
+  "version": "0.0.3"
+}

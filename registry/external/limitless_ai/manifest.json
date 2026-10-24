@@ -1,0 +1,59 @@
+{
+  "app": "limitless_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "timezone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "date": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "start": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "end": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cursor": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "direction": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "includeMarkdown": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "includeHeadings": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "isStarred": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "id": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "limitless_ai-get-lifelog",
+    "limitless_ai-get-lifelogs"
+  ]
+}

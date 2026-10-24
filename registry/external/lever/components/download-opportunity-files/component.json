@@ -1,0 +1,7 @@
+{
+  "key": "lever-download-opportunity-files",
+  "name": "Download Opportunity Files",
+  "description": "Downloads one or more candidate documents — résumés/CVs, other attached files, and/or offer documents — and saves them to the local file system for use in a later step.",
+  "type": "action",
+  "version": "0.0.2"
+}

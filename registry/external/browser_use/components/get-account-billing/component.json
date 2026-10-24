@@ -1,0 +1,7 @@
+{
+  "key": "browser_use-get-account-billing",
+  "name": "Get Account Billing",
+  "description": "Get Browser Use account billing details for the authenticated project. [See the documentation](https://docs.browser-use.com/cloud/api-v3/billing/get-account-billing)",
+  "type": "action",
+  "version": "0.0.1"
+}

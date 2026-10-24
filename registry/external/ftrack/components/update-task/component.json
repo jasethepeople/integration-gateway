@@ -1,0 +1,7 @@
+{
+  "key": "ftrack-update-task",
+  "name": "Update Task",
+  "description": "Update attributes of a task. [See the documentation](https://help.ftrack.com/en/articles/1040498-operations#update)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "clickup-get-team-views",
+  "name": "Get Team Views",
+  "description": "Get all views of a team. [See the documentation](https://clickup.com/api) in **Views / Get Team Views** section.",
+  "type": "action",
+  "version": "0.0.12"
+}

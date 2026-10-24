@@ -1,0 +1,7 @@
+{
+  "key": "ups-get-tracking-info",
+  "name": "Get Tracking Info",
+  "description": "Get tracking information for a UPS tracking number. [See the documentation](https://developer.ups.com/tag/Tracking?loc=en_US#operation/getSingleTrackResponseUsingGET)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,34 @@
+{
+  "app": "dopplerai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "chatUuid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "collectionUuid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "referenceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dopplerai-create-chat",
+    "dopplerai-create-collection",
+    "dopplerai-list-chat-uuid-options",
+    "dopplerai-list-collection-uuid-options",
+    "dopplerai-send-message"
+  ]
+}

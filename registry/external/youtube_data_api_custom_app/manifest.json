@@ -1,0 +1,33 @@
+{
+  "app": "youtube_data_api_custom_app",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "youtube_data_api_custom_app-add-playlist-items",
+    "youtube_data_api_custom_app-channel-statistics",
+    "youtube_data_api_custom_app-create-comment-thread",
+    "youtube_data_api_custom_app-create-playlist",
+    "youtube_data_api_custom_app-delete-playlist-items",
+    "youtube_data_api_custom_app-delete-playlist",
+    "youtube_data_api_custom_app-list-activities",
+    "youtube_data_api_custom_app-list-playlists",
+    "youtube_data_api_custom_app-list-videos",
+    "youtube_data_api_custom_app-reply-to-comment",
+    "youtube_data_api_custom_app-update-channel",
+    "youtube_data_api_custom_app-update-playlist",
+    "youtube_data_api_custom_app-update-video-details",
+    "youtube_data_api_custom_app-upload-channel-banner",
+    "youtube_data_api_custom_app-upload-thumbnail",
+    "youtube_data_api_custom_app-upload-video",
+    "youtube_data_api_custom_app-new-comment-posted",
+    "youtube_data_api_custom_app-new-liked-videos",
+    "youtube_data_api_custom_app-new-subscriber",
+    "youtube_data_api_custom_app-new-subscription",
+    "youtube_data_api_custom_app-new-videos-by-handle",
+    "youtube_data_api_custom_app-new-videos-by-search",
+    "youtube_data_api_custom_app-new-videos-in-playlist",
+    "youtube_data_api_custom_app-new-videos-in-subscribed-channels",
+    "youtube_data_api_custom_app-new-videos"
+  ]
+}

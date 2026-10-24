@@ -1,0 +1,7 @@
+{
+  "key": "commerce_tools-search-orders",
+  "name": "Search Orders",
+  "description": "Search Orders using the Order Search API. The endpoint must be [activated and indexed](https://docs.commercetools.com/api/projects/order-search#activation-of-the-api) for your Project first - run the **Change Order Search Status** action to enable it, then the **Reindex Orders** action to build the index. [See the documentation](https://docs.commercetools.com/api/projects/order-search#search-orders).",
+  "type": "action",
+  "version": "0.0.2"
+}

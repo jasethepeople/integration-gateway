@@ -1,0 +1,7 @@
+{
+  "key": "hubspot-list-forms",
+  "name": "List Forms",
+  "description": "Retrieves a list of forms. [See the documentation](https://developers.hubspot.com/docs/reference/api/marketing/forms#get-%2Fmarketing%2Fv3%2Fforms%2F)",
+  "type": "action",
+  "version": "0.0.18"
+}

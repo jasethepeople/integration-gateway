@@ -1,0 +1,7 @@
+{
+  "key": "harvest-get-time-entry",
+  "name": "Get Time Entry",
+  "description": "Retrieve a single time entry by ID. Use **List Time Entries** to find a valid ID. Example: call with timeEntryId set to a known entry's ID to see its hours, project, and task. [See the documentation](https://help.getharvest.com/api-v2/timesheets-api/timesheets/time-entries/#retrieve-a-time-entry).",
+  "type": "action",
+  "version": "0.0.1"
+}

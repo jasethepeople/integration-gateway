@@ -1,0 +1,7 @@
+{
+  "key": "jvzoo-new-transaction-created",
+  "name": "New Transaction Created",
+  "description": "Emit new event when a new transaction is created. [See the documentation](https://api.jvzoo.com/docs/versions/v2.0.html#transactions-latest-transactions-get)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,70 @@
+{
+  "app": "intercom",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "userIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "body": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tagId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "conversationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "adminId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "teamAssigneeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "intercom-add-tag-to-contact",
+    "intercom-create-note",
+    "intercom-list-admin-id-options",
+    "intercom-list-conversations",
+    "intercom-list-tag-id-options",
+    "intercom-list-team-assignee-id-options",
+    "intercom-manage-conversation",
+    "intercom-reply-to-conversation",
+    "intercom-retrieve-conversation",
+    "intercom-search-contacts",
+    "intercom-send-incoming-message",
+    "intercom-send-message-to-contact",
+    "intercom-upsert-contact",
+    "intercom-conversation-closed",
+    "intercom-lead-added-email",
+    "intercom-new-admin-reply",
+    "intercom-new-company",
+    "intercom-new-conversation-rating-added",
+    "intercom-new-conversation",
+    "intercom-new-event",
+    "intercom-new-lead",
+    "intercom-new-ticket",
+    "intercom-new-topic",
+    "intercom-new-unsubscription",
+    "intercom-new-user-reply",
+    "intercom-new-user",
+    "intercom-tag-added-to-conversation",
+    "intercom-tag-added-to-lead",
+    "intercom-tag-added-to-user"
+  ],
+  "npmImports": [
+    "crypto",
+    "uuid"
+  ]
+}

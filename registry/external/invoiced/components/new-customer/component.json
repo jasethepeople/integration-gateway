@@ -1,0 +1,7 @@
+{
+  "key": "invoiced-new-customer",
+  "name": "New Customer Created",
+  "description": "Emit new event when a new customer is created. [See the documentation](https://developer.invoiced.com/api/customers#list-all-customers)",
+  "type": "source",
+  "version": "0.0.1"
+}

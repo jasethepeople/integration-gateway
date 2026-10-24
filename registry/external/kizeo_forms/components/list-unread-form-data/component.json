@@ -1,0 +1,7 @@
+{
+  "key": "kizeo_forms-list-unread-form-data",
+  "name": "List Unread Form Data",
+  "description": "Retrieves a list of unread form entries/data from Kizeo Forms. [See the documentation](https://kizeo.github.io/kizeo-forms-documentations/docs/en/restv3)",
+  "type": "action",
+  "version": "0.0.2"
+}

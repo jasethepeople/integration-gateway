@@ -1,0 +1,7 @@
+{
+  "key": "openphone-update-conversation",
+  "name": "Update Conversation Status",
+  "description": "Update the status of an OpenPhone conversation. Set `conversationStatus` to `done`, `open`, or `read`; the action routes to the corresponding OpenPhone endpoint (`mark-as-done`, `mark-as-open`, `mark-as-read`). Use **List Conversations** or **List Messages** to find the `conversationId`. Example: call with conversationId=\"CN123abc\", conversationStatus=\"done\" → marks the conversation done and returns the updated conversation. [See the documentation](https://www.openphone.com/docs/api-reference/conversations/mark-conversation-as-done)",
+  "type": "action",
+  "version": "0.0.2"
+}

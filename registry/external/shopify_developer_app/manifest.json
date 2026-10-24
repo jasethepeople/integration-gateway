@@ -1,0 +1,114 @@
+{
+  "app": "shopify_developer_app",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "orderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lineItemIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "fulfillmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fulfillmentOrderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fulfillmentOrderLineItemIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "address": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "company": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "city": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "province": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "zip": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "metafields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "shopify_developer_app-create-customer",
+    "shopify_developer_app-create-fulfillment",
+    "shopify_developer_app-create-order",
+    "shopify_developer_app-get-order",
+    "shopify_developer_app-refund-order",
+    "shopify_developer_app-search-customers",
+    "shopify_developer_app-search-fulfillment-orders",
+    "shopify_developer_app-search-orders",
+    "shopify_developer_app-send-order-invoice",
+    "shopify_developer_app-update-customer",
+    "shopify_developer_app-update-fulfillment-tracking-info",
+    "shopify_developer_app-update-product",
+    "shopify_developer_app-cart-updated",
+    "shopify_developer_app-draft-order-updated",
+    "shopify_developer_app-inventory-level-updated",
+    "shopify_developer_app-new-cancelled-order",
+    "shopify_developer_app-new-cart-created",
+    "shopify_developer_app-new-customer-created",
+    "shopify_developer_app-new-draft-order",
+    "shopify_developer_app-new-event-emitted",
+    "shopify_developer_app-new-fulfillment-event",
+    "shopify_developer_app-new-order-created",
+    "shopify_developer_app-new-order-fulfilled",
+    "shopify_developer_app-new-paid-order",
+    "shopify_developer_app-new-product-created",
+    "shopify_developer_app-new-product-updated",
+    "shopify_developer_app-new-refund-created",
+    "shopify_developer_app-new-updated-customer",
+    "shopify_developer_app-new-updated-order",
+    "shopify_developer_app-shop-update"
+  ],
+  "npmImports": [
+    "shopify-api-node"
+  ]
+}

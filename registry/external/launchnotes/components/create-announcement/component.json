@@ -1,0 +1,7 @@
+{
+  "key": "launchnotes-create-announcement",
+  "name": "Create Announcement",
+  "description": "Generates a draft announcement for the LaunchNotes project. [See the documentation](https://developer.launchnotes.com/index.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

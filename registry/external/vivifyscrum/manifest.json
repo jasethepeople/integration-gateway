@@ -1,0 +1,28 @@
+{
+  "app": "vivifyscrum",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "boardCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "itemType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "itemHashcode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "vivifyscrum-create-board-item",
+    "vivifyscrum-delete-board-item",
+    "vivifyscrum-edit-board-item"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "lever-get-posting",
+  "name": "Get Posting",
+  "description": "Returns full details for a single job posting by ID, including its complete job description.",
+  "type": "action",
+  "version": "0.0.2"
+}

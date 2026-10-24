@@ -1,0 +1,7 @@
+{
+  "key": "twitch-search-games",
+  "name": "Search Games",
+  "description": "Maximum number of games to return",
+  "type": "action",
+  "version": "0.1.5"
+}

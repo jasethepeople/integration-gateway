@@ -1,0 +1,7 @@
+{
+  "key": "fireberry-create-article",
+  "name": "Create an Article",
+  "description": "Creates a new article in Fireberry. [See the documentation](https://developers.fireberry.com/reference/create-an-article)",
+  "type": "action",
+  "version": "0.0.2"
+}

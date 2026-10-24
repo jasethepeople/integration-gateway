@@ -1,0 +1,7 @@
+{
+  "key": "postmark-get-domain",
+  "name": "Get Domain",
+  "description": "Gets all the details for a specific domain. [See the documentation](https://postmarkapp.com/developer/api/domains-api#domain)",
+  "type": "action",
+  "version": "0.0.3"
+}

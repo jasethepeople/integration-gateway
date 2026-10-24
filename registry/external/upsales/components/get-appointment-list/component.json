@@ -1,0 +1,7 @@
+{
+  "key": "upsales-get-appointment-list",
+  "name": "Get Appointment List",
+  "description": "Retrieves a list of appointments from Upsales. [See the documentation](https://api.upsales.com/#1346adbc-3479-45b7-b75c-9a78c4d291e6)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,20 @@
+{
+  "app": "one_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "collection": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "one_ai-find-text-in-clusters",
+    "one_ai-list-collection-options",
+    "one_ai-summarize-text"
+  ]
+}

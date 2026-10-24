@@ -1,0 +1,7 @@
+{
+  "key": "zoho_campaigns-add-contact-to-mailing-list",
+  "name": "Add Contact to Mailing List",
+  "description": "You can use this API to add contacts to your mailing lists. [See the documentation](https://www.zoho.com/campaigns/help/developers/contact-subscribe.html)",
+  "type": "action",
+  "version": "0.0.3"
+}

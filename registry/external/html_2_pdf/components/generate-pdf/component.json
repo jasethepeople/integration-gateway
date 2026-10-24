@@ -1,0 +1,7 @@
+{
+  "key": "html_2_pdf-generate-pdf",
+  "name": "Generate PDF",
+  "description": "Creates a PDF from a URL or HTML string. [See the documentation](https://www.html2pdf.co.uk/api-documentation)",
+  "type": "action",
+  "version": "0.0.3"
+}

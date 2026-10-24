@@ -1,0 +1,7 @@
+{
+  "key": "textlocal-new-inbox-message",
+  "name": "New Inbox Message",
+  "description": "Emit new inbox message.",
+  "type": "source",
+  "version": "0.0.3"
+}

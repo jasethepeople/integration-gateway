@@ -1,0 +1,7 @@
+{
+  "key": "chartmogul-list-data-source-id-options",
+  "name": "List Data Source UUID Options",
+  "description": "Retrieves available options for the Data Source UUID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

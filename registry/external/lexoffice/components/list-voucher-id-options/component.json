@@ -1,0 +1,7 @@
+{
+  "key": "lexoffice-list-voucher-id-options",
+  "name": "List Voucher ID Options",
+  "description": "Retrieves available options for the Voucher ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "canva-list-designs",
+  "name": "List Designs",
+  "description": "List all designs in Canva. [See the documentation](https://www.canva.dev/docs/connect/api-reference/designs/list-designs/)",
+  "type": "action",
+  "version": "0.0.2"
+}

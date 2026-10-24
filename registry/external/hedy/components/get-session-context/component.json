@@ -1,0 +1,7 @@
+{
+  "key": "hedy-get-session-context",
+  "name": "Get Session Context",
+  "description": "Retrieves full details for a single reusable Hedy session context by ID, including the title, content, and whether it is the default context.",
+  "type": "action",
+  "version": "0.0.2"
+}

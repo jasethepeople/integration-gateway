@@ -1,0 +1,7 @@
+{
+  "key": "discord_bot-create-channel-invite",
+  "name": "Create Channel Invite",
+  "description": "Create a new invite for the channel. [See the docs here](https://discord.com/developers/docs/resources/channel#create-channel-invite)",
+  "type": "action",
+  "version": "1.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "surecart-list-cancellation-reasons",
+  "name": "List Cancellation Reasons",
+  "description": "Return a list of cancellation reasons. [See the documentation](https://developer.surecart.com/api-reference/cancellation-reasons/list)",
+  "type": "action",
+  "version": "1.0.0"
+}

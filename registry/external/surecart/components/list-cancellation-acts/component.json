@@ -1,0 +1,7 @@
+{
+  "key": "surecart-list-cancellation-acts",
+  "name": "List Cancellation Acts",
+  "description": "Return a list of cancellation acts. [See the documentation](https://developer.surecart.com/api-reference/cancellation-acts/list)",
+  "type": "action",
+  "version": "1.0.0"
+}

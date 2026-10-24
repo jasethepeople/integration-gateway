@@ -1,0 +1,7 @@
+{
+  "key": "pidj-list-group-id-options",
+  "name": "List Group Id Options",
+  "description": "Retrieves available options for the Group Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

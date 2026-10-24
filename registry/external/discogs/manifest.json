@@ -1,0 +1,38 @@
+{
+  "app": "discogs",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "orderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "listingCondition": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sleeveCondition": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "listingStatus": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "personal_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "discogs-create-marketplace-listing",
+    "discogs-list-order-id-options",
+    "discogs-update-order",
+    "discogs-new-order-received",
+    "discogs-order-cancelled"
+  ]
+}

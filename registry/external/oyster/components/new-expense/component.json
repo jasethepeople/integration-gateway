@@ -1,0 +1,7 @@
+{
+  "key": "oyster-new-expense",
+  "name": "New Expense",
+  "description": "Emit new event when a new expense is created in Oyster. [See the documentation](https://docs.oysterhr.com/reference/get_v1-expenses)",
+  "type": "source",
+  "version": "0.0.1"
+}

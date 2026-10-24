@@ -1,0 +1,7 @@
+{
+  "key": "knack-new-record",
+  "name": "New Record",
+  "description": "Emit new event for each record created",
+  "type": "source",
+  "version": "0.0.2"
+}

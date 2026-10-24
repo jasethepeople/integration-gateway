@@ -1,0 +1,7 @@
+{
+  "key": "pipeline-list-note-category-id-options",
+  "name": "List Note Category ID Options",
+  "description": "Retrieves available options for the Note Category ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

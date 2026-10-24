@@ -1,0 +1,7 @@
+{
+  "key": "ecwid-paid-orders",
+  "name": "New Ecwid Paid Orders",
+  "description": "Search for new orders which are PAID and AWAITING_PROCESSING. Emits events for each order and",
+  "type": "source",
+  "version": "0.0.4"
+}

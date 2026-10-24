@@ -1,0 +1,7 @@
+{
+  "key": "utopian_labs-get-run-status",
+  "name": "Get Run Status",
+  "description": "Retrieve the status of an initiated run. [See the documentation](https://docs.utopianlabs.ai/research#retrieve-research-run-status)",
+  "type": "action",
+  "version": "0.0.2"
+}

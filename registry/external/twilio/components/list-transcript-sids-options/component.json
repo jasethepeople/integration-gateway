@@ -1,0 +1,7 @@
+{
+  "key": "twilio-list-transcript-sids-options",
+  "name": "List Transcript SIDs Options",
+  "description": "Retrieves available options for the Transcript SIDs field.",
+  "type": "action",
+  "version": "0.0.1"
+}

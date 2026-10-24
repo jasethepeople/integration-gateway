@@ -1,0 +1,39 @@
+{
+  "app": "ticketsauce",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "partnerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "organizationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "includePerformers": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "eventId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ticketsauce-get-event-details",
+    "ticketsauce-get-events",
+    "ticketsauce-get-order-details",
+    "ticketsauce-get-orders",
+    "ticketsauce-get-ticket-checkin-ids",
+    "ticketsauce-new-event"
+  ]
+}

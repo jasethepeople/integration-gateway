@@ -1,0 +1,7 @@
+{
+  "key": "google_search_console-delete-sitemap",
+  "name": "Delete Sitemap",
+  "description": "Unlists a sitemap from a Google Search Console property. Destructive, and not ",
+  "type": "action",
+  "version": "0.0.1"
+}

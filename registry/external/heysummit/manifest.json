@@ -1,0 +1,15 @@
+{
+  "app": "heysummit",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "heysummit-new-attendee-registered",
+    "heysummit-new-talk-attendee-registered"
+  ]
+}

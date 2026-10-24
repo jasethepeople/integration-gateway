@@ -1,0 +1,7 @@
+{
+  "key": "keboola-update-table-name",
+  "name": "Update Table Name",
+  "description": "Update the name of a table. [See the documentation](https://keboola.docs.apiary.io/#reference/tables/manage-tables/table-update)",
+  "type": "action",
+  "version": "0.0.2"
+}

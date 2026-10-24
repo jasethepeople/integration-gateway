@@ -1,0 +1,7 @@
+{
+  "key": "corporate_merch-list-orders",
+  "name": "List Orders",
+  "description": "Retrieve a list of orders. [See the documentation](https://corporatemerch.readme.io/reference/list-orders)",
+  "type": "action",
+  "version": "0.0.1"
+}

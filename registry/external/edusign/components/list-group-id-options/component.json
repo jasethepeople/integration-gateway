@@ -1,0 +1,7 @@
+{
+  "key": "edusign-list-group-id-options",
+  "name": "List Group ID Options",
+  "description": "Retrieves available options for the Group ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

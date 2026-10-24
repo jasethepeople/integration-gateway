@@ -1,0 +1,7 @@
+{
+  "key": "nextdoor-create-ad",
+  "name": "Create Ad",
+  "description": "Creates an ad based on the input payload for an existing NAM ad group. [See the documentation](https://developer.nextdoor.com/reference/ad-create).",
+  "type": "action",
+  "version": "0.0.2"
+}

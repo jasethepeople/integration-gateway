@@ -1,0 +1,7 @@
+{
+  "key": "streak-updated-contact",
+  "name": "Updated Contact (Instant)",
+  "description": "Emit new event when a contact is updated within a team.",
+  "type": "source",
+  "version": "0.0.2"
+}

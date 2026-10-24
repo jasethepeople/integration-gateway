@@ -1,0 +1,7 @@
+{
+  "key": "picqer-add-order-tags",
+  "name": "Add Order Tags",
+  "description": "Associates a tag with an order. [See the documentation](https://picqer.com/en/api/orders)",
+  "type": "action",
+  "version": "0.0.1"
+}

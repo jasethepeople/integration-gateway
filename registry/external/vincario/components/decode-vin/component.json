@@ -1,0 +1,7 @@
+{
+  "key": "vincario-decode-vin",
+  "name": "Decode VIN",
+  "description": "Decode a VIN number. Returns an object with price, balance and array of vehicle specifications. [See the documentation](https://vincario.com/api-docs/3.2/#api-endpoints)",
+  "type": "action",
+  "version": "0.0.1"
+}

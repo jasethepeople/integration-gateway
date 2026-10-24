@@ -1,0 +1,7 @@
+{
+  "key": "encharge-new-person-instant",
+  "name": "New Person (Instant)",
+  "description": "Emit new event when a person is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

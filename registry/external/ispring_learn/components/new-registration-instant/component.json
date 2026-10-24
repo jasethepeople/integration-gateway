@@ -1,0 +1,7 @@
+{
+  "key": "ispring_learn-new-registration-instant",
+  "name": "New User Registration (Instant)",
+  "description": "Emit new event when a new user is registered.",
+  "type": "source",
+  "version": "0.0.1"
+}

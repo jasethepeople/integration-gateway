@@ -1,0 +1,25 @@
+{
+  "app": "proofly",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "notificationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "proofly-get-notification-data",
+    "proofly-list-campaign-id-options",
+    "proofly-toggle-campaign",
+    "proofly-new-notification-data-created"
+  ]
+}

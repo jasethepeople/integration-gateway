@@ -1,0 +1,17 @@
+{
+  "app": "fileforge",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "fileforge-generate-pdf"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

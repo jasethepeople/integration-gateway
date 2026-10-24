@@ -1,0 +1,7 @@
+{
+  "key": "spotify-list-genres-options",
+  "name": "List Seed Genres Options",
+  "description": "Retrieves available options for the Seed Genres field.",
+  "type": "action",
+  "version": "0.0.4"
+}

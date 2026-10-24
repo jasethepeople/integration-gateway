@@ -1,0 +1,7 @@
+{
+  "key": "jumpseller-update-product",
+  "name": "Update Product",
+  "description": "Update an existing product in Jumpseller. [See the documentation](https://jumpseller.com/support/api/#tag/Products/paths/~1products~1%7Bid%7D.json/put)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "clockwork_recruiting-candidate-status-change",
+  "name": "New Candidate Status Change (Instant)",
+  "description": "Emit new event when a candidate status is changed.",
+  "type": "source",
+  "version": "0.0.1"
+}

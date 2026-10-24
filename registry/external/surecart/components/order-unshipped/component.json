@@ -1,0 +1,7 @@
+{
+  "key": "surecart-order-unshipped",
+  "name": "New Order Unshipped (Instant)",
+  "description": "Emit new event when an order is marked unshipped. [See the documentation](https://developer.surecart.com/api-reference/webhook-endpoints/create)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,14 @@
+{
+  "app": "brex_staging",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "brex_staging-create-card",
+    "brex_staging-invite-user",
+    "brex_staging-list-transactions-for-primary-card-account",
+    "brex_staging-list-transactions-for-selected-cash-account",
+    "brex_staging-set-limit-for-user",
+    "brex_staging-new-transfer-event"
+  ]
+}

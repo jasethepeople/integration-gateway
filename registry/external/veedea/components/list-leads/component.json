@@ -1,0 +1,7 @@
+{
+  "key": "veedea-list-leads",
+  "name": "List Leads",
+  "description": "Get a list of leads in a campaign. [See the documentation](https://veedea.com/api/doc)",
+  "type": "action",
+  "version": "0.0.2"
+}

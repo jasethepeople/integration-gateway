@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-list-categories",
+  "name": "List Categories",
+  "description": "List categories with optional filters. [See the documentation](https://developer.servicem8.com/reference/listcategories)",
+  "type": "action",
+  "version": "0.0.1"
+}

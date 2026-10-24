@@ -1,0 +1,7 @@
+{
+  "key": "loop_returns-return-created-instant",
+  "name": "New Return Created (Instant)",
+  "description": "Emit new event when a new return is created. [See the documentation](https://docs.loopreturns.com/reference/return-webhook)",
+  "type": "source",
+  "version": "0.0.1"
+}

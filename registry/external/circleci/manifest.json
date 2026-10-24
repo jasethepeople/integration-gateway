@@ -1,0 +1,42 @@
+{
+  "app": "circleci",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "pipelineId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workflowId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "projectSlug": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "circleci-get-job-artifacts",
+    "circleci-rerun-workflow",
+    "circleci-trigger-pipeline",
+    "circleci-new-job-completed-instant",
+    "circleci-new-workflow-completed-instant"
+  ],
+  "npmImports": [
+    "crypto",
+    "uuid"
+  ]
+}

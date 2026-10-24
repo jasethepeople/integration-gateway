@@ -1,0 +1,7 @@
+{
+  "key": "uipath_automation_hub-create-idea",
+  "name": "Create Idea",
+  "description": "Submit a new automation idea. [See the documentation](https://automation-hub.uipath.com/api/v1/api-doc/#/Automation%20Ideas/SubmitIdeaEmployeeDrivenwithSubmitter)",
+  "type": "action",
+  "version": "0.0.2"
+}

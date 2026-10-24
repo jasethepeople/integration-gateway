@@ -1,0 +1,127 @@
+{
+  "app": "perplexity",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "model": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "content": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "role": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "maxTokensPerPage": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "maxTokensTotal": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "searchDomainFilter": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "searchLanguageFilter": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "searchRecencyFilter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "searchContextSize": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "searchMode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "input": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "preset": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "agentModel": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tools": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "embeddingsModel": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "embeddingsInput": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "contextualizedEmbeddingsModel": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contextualizedEmbeddingsInput": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "temperature": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "topP": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "stream": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "messages": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "maxCompletionTokens": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "enableSearchClassifier": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "disableSearch": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "perplexity-chat-completions-advanced",
+    "perplexity-chat-completions",
+    "perplexity-create-contextualized-embeddings",
+    "perplexity-create-embeddings",
+    "perplexity-create-response",
+    "perplexity-search"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "blotato-create-post",
+  "name": "Create Post",
+  "description": "Posts to a social media platform. [See documentation](https://help.blotato.com/api/api-reference/publish-post)",
+  "type": "action",
+  "version": "0.0.1"
+}

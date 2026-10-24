@@ -1,0 +1,62 @@
+{
+  "app": "cohere_platform",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "message": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "model": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "temperature": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxTokens": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "k": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "p": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "stopSequences": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "frequencyPenalty": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "classifyModel": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "preset": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "truncate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "cohere_platform-chat",
+    "cohere_platform-classify-text"
+  ],
+  "npmImports": [
+    "cohere-ai"
+  ]
+}

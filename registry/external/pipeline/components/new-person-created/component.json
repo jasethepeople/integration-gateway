@@ -1,0 +1,7 @@
+{
+  "key": "pipeline-new-person-created",
+  "name": "New Person Created",
+  "description": "Emit new event when a new person is created in your Pipeline account.",
+  "type": "source",
+  "version": "0.0.1"
+}

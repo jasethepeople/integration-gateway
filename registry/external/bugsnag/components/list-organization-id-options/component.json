@@ -1,0 +1,7 @@
+{
+  "key": "bugsnag-list-organization-id-options",
+  "name": "List Organization ID Options",
+  "description": "Retrieves available options for the Organization ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "instantly-new-email-received",
+  "name": "New Email Received",
+  "description": "Emit new event when a new email is received. [See the documentation](https://developer.instantly.ai/api/v2/email/listemail)",
+  "type": "source",
+  "version": "0.0.1"
+}

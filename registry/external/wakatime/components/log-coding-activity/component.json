@@ -1,0 +1,7 @@
+{
+  "key": "wakatime-log-coding-activity",
+  "name": "Log Coding Activity",
+  "description": "Log coding activity to WakaTime. [See the documentation](https://wakatime.com/developers#heartbeats)",
+  "type": "action",
+  "version": "0.0.2"
+}

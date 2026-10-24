@@ -1,0 +1,7 @@
+{
+  "key": "pipefy-card-expired",
+  "name": "Card Expired",
+  "description": "Emits an event each time a card becomes expired in a Pipe.",
+  "type": "source",
+  "version": "0.0.3"
+}

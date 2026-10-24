@@ -1,0 +1,7 @@
+{
+  "key": "mode-list-reports",
+  "name": "List Reports",
+  "description": "List the reports belonging to a specific space. [See the documentation](https://mode.com/developer/api-reference/analytics/reports/#listReportsInSpace)",
+  "type": "action",
+  "version": "0.0.1"
+}

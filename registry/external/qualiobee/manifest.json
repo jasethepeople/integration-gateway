@@ -1,0 +1,38 @@
+{
+  "app": "qualiobee",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "moduleUuid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerUuid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "learnerUuid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "organization_uuid": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "qualiobee-get-learner",
+    "qualiobee-list-customer-uuid-options",
+    "qualiobee-list-learner-uuid-options",
+    "qualiobee-list-module-uuid-options",
+    "qualiobee-list-modules",
+    "qualiobee-update-customer",
+    "qualiobee-learner-updated",
+    "qualiobee-new-customer-created",
+    "qualiobee-new-learner-created"
+  ]
+}

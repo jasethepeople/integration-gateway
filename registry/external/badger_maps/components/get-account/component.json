@@ -1,0 +1,7 @@
+{
+  "key": "badger_maps-get-account",
+  "name": "Get Account",
+  "description": "Gets an account. [See the docs](https://badgerupdatedapi.docs.apiary.io/#reference/accounts/retrieve-and-update-account-details/retrieve-account-details).",
+  "type": "action",
+  "version": "0.0.2"
+}

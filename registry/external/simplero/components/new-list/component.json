@@ -1,0 +1,7 @@
+{
+  "key": "simplero-new-list",
+  "name": "New List",
+  "description": "Emit new event when a new list is created. [See the documentation](https://github.com/Simplero/Simplero-API?tab=readme-ov-file#get-lists)",
+  "type": "source",
+  "version": "0.0.1"
+}

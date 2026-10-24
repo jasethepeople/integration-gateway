@@ -1,0 +1,7 @@
+{
+  "key": "zenventory-create-customer-order",
+  "name": "Create Customer Order",
+  "description": "Creates a new customer order. [See the documentation](https://docs.zenventory.com/#tag/customer_order/paths/~1customer-orders/post)",
+  "type": "action",
+  "version": "0.0.2"
+}

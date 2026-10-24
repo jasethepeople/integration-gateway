@@ -1,0 +1,7 @@
+{
+  "key": "surveybot-new-survey-response",
+  "name": "New Survey Response",
+  "description": "Emit new event when a new survey response is received. [See the documentation](https://app.surveybot.io/accounts/api_use_cases)",
+  "type": "source",
+  "version": "0.0.1"
+}

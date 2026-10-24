@@ -1,0 +1,7 @@
+{
+  "key": "ninjaone-list-assigned-app-user-id-options",
+  "name": "List Assigned App User ID Options",
+  "description": "Retrieves available options for the Assigned App User ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "xendit-get-payment-status",
+  "name": "Get Payment Status",
+  "description": "Get the status of a payment request. [See the documentation](https://developers.xendit.co/api-reference/payments-api/#get-payment-request-by-id)",
+  "type": "action",
+  "version": "0.0.2"
+}

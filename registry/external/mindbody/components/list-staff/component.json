@@ -1,0 +1,7 @@
+{
+  "key": "mindbody-list-staff",
+  "name": "List Staff",
+  "description": "Returns staff members at the studio, including their IDs, names, bio, and role assignments (e.g., ClassTeacher, AppointmentInstructor).",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "roblox-get-group",
+  "name": "Get Group",
+  "description": "Get information about a Roblox group by ID. [See the documentation](https://create.roblox.com/docs/cloud/reference/Group#Cloud_GetGroup)",
+  "type": "action",
+  "version": "0.0.1"
+}

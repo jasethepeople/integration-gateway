@@ -1,0 +1,54 @@
+{
+  "app": "splunk",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "jobId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "indexName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "savedSearchName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_port": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "self_signed": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "splunk-create-event",
+    "splunk-get-search-job-status",
+    "splunk-list-index-name-options",
+    "splunk-list-job-id-options",
+    "splunk-list-saved-search-name-options",
+    "splunk-run-search",
+    "splunk-new-alert-fired",
+    "splunk-new-search-event",
+    "splunk-new-search-result"
+  ],
+  "npmImports": [
+    "https",
+    "md5"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "dolibarr-list-third-party-id-options",
+  "name": "List Third Party ID Options",
+  "description": "Retrieves available options for the Third Party ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

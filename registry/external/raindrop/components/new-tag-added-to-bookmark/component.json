@@ -1,0 +1,7 @@
+{
+  "key": "raindrop-new-tag-added-to-bookmark",
+  "name": "New Tag Added to Bookmark",
+  "description": "Emit new event when a tag is added to a bookmark",
+  "type": "source",
+  "version": "0.0.1"
+}

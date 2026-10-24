@@ -1,0 +1,25 @@
+{
+  "app": "cliniko",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "patientId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "shard": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "cliniko-get-patient",
+    "cliniko-new-appointment-updated",
+    "cliniko-new-booking-created",
+    "cliniko-new-contact-created"
+  ]
+}

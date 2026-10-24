@@ -1,0 +1,7 @@
+{
+  "key": "world_news_api-search-news",
+  "name": "Search News",
+  "description": "Search and filter news. [See the docs here](https://worldnewsapi.com/docs/#Search-News). **Calling this endpoint requires 1 point**",
+  "type": "action",
+  "version": "0.0.2"
+}

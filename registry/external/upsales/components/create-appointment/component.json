@@ -1,0 +1,7 @@
+{
+  "key": "upsales-create-appointment",
+  "name": "Create Appointment",
+  "description": "Creates a new appointment in Upsales. [See the documentation](https://api.upsales.com/#b7fd1fe3-e88d-4f3c-8323-100e755ad3e2)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "app": "hiver",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "inboxId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "hiver-get-inbox",
+    "hiver-list-all-conversations-in-inbox",
+    "hiver-list-all-inboxes",
+    "hiver-list-all-tags-in-inbox",
+    "hiver-list-all-users-in-inbox"
+  ]
+}

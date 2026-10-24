@@ -1,0 +1,16 @@
+{
+  "app": "totango",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "totango-new-account",
+    "totango-new-task-created",
+    "totango-new-user"
+  ]
+}

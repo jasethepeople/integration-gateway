@@ -1,0 +1,7 @@
+{
+  "key": "lighthouse-create-project",
+  "name": "Create Project",
+  "description": "Creates a project. [See docs here](http://help.lighthouseapp.com/kb/api/projects#create-a-new-project-rarr-code-post-projects-xml-code-)",
+  "type": "action",
+  "version": "0.0.2"
+}

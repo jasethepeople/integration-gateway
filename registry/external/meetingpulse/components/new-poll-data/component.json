@@ -1,0 +1,7 @@
+{
+  "key": "meetingpulse-new-poll-data",
+  "name": "New Poll Data",
+  "description": "Emit new event every time the results of a poll change. [See the documentation](https://app.meet.ps/api/docs/)",
+  "type": "source",
+  "version": "0.0.1"
+}

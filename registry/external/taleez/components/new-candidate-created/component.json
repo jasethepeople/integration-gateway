@@ -1,0 +1,7 @@
+{
+  "key": "taleez-new-candidate-created",
+  "name": "New Candidate Created",
+  "description": "Emit new event when a candidate is added in Taleez. [See the documentation](https://api.taleez.com/swagger-ui/index.html#/candidates/list_4)",
+  "type": "source",
+  "version": "0.0.1"
+}

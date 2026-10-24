@@ -1,0 +1,7 @@
+{
+  "key": "zoho_crm-new-event",
+  "name": "New Event (Instant)",
+  "description": "Emit new custom events from Zoho CRM",
+  "type": "source",
+  "version": "0.0.16"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "google_dialogflow-create-intent",
+  "name": "Create Intent",
+  "description": "Creates an intent, [See REST docs](https://cloud.google.com/dialogflow/es/docs/reference/rest/v2/projects.agent.intents/create) and [client API](https://googleapis.dev/nodejs/dialogflow/latest/google.cloud.dialogflow.v2beta1.Intents.html#createIntent2)",
+  "type": "action",
+  "version": "1.0.1"
+}

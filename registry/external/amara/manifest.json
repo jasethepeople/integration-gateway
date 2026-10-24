@@ -1,0 +1,127 @@
+{
+  "app": "amara",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "team": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "videoUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "primaryAudioLanguageCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "project": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "videoId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "language": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "offset": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "isPrimaryAudioLanguage": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "subtitlesComplete": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "softLimitLines": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "softLimitMinDuration": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "softLimitMaxDuration": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "softLimitCharactersPerLine": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "softLimitCharactersPerSubtitles": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "subFormat": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "versionNumber": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "subtitles": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subtitlesUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "action": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "max": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "amara-add-new-subtitles",
+    "amara-add-video",
+    "amara-create-subtitle-language",
+    "amara-delete-subtitles",
+    "amara-delete-video",
+    "amara-fetch-raw-subtitles",
+    "amara-fetch-subtitles-data",
+    "amara-get-subtitle-language-details",
+    "amara-get-team-details",
+    "amara-get-video-details",
+    "amara-list-primary-audio-language-code-options",
+    "amara-list-teams",
+    "amara-list-video-subtitle-languages",
+    "amara-list-videos",
+    "amara-perform-action",
+    "amara-update-subtitle-language",
+    "amara-subtitles-published",
+    "amara-subtitles-unpublished",
+    "amara-video-added",
+    "amara-video-deleted",
+    "amara-video-made-primary",
+    "amara-video-moved-project"
+  ]
+}

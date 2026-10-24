@@ -1,0 +1,7 @@
+{
+  "key": "form_io-create-form",
+  "name": "Create Form",
+  "description": "Create a form or resource in Form.io. Use **List Forms** to review existing forms. The `components` prop is a JSON-string array of Form.io component schema objects. [See the documentation](https://apidocs.form.io/#c864243f-1ff5-409b-912f-de5670be9130).",
+  "type": "action",
+  "version": "0.0.1"
+}

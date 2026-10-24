@@ -1,0 +1,7 @@
+{
+  "key": "error-throw-error",
+  "name": "Throw Error",
+  "description": "Quickly throw an error from your workflow.",
+  "type": "action",
+  "version": "0.0.2"
+}

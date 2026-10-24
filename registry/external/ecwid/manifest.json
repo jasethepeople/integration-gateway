@@ -1,0 +1,19 @@
+{
+  "app": "ecwid",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "client_secret": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "storeId": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ecwid-get-order",
+    "ecwid-paid-orders"
+  ]
+}

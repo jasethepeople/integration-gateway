@@ -1,0 +1,7 @@
+{
+  "key": "booking_experts-list-amenity-group-id-options",
+  "name": "List Amenity Group ID Options",
+  "description": "Retrieves available options for the Amenity Group ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

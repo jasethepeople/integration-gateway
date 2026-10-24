@@ -1,0 +1,31 @@
+{
+  "app": "mintlify",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "domain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "assistant_api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "project_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "admin_api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mintlify-chat-with-assistant",
+    "mintlify-search-documentation",
+    "mintlify-trigger-update"
+  ],
+  "npmImports": [
+    "uuid"
+  ]
+}

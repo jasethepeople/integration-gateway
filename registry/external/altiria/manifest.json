@@ -1,0 +1,9 @@
+{
+  "app": "altiria",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "altiria-send-sms"
+  ]
+}

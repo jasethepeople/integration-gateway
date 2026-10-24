@@ -1,0 +1,7 @@
+{
+  "key": "shiphero-order-packed-out-instant",
+  "name": "Order Packed Out (Instant)",
+  "description": "Emit new event when an order is packed out. [See the documentation](https://developer.shiphero.com/webhooks#webhook_create).",
+  "type": "source",
+  "version": "0.0.1"
+}

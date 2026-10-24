@@ -1,0 +1,7 @@
+{
+  "key": "tettra-suggest-page",
+  "name": "Suggest Page",
+  "description": "Creates a new page suggestion in Tettra. [See the documentation](https://support.tettra.co/api-overview/api-endpoint-suggest-a-new-page)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "opsgenie-list-alert-id-options",
+  "name": "List Alert ID Options",
+  "description": "Retrieves available options for the Alert ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

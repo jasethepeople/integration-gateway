@@ -1,0 +1,23 @@
+{
+  "app": "btcpay_server",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "storeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "base_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "btcpay_server-create-payment-request",
+    "btcpay_server-get-store-on-chain-wallet-balance"
+  ]
+}

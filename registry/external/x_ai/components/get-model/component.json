@@ -1,0 +1,7 @@
+{
+  "key": "x_ai-get-model",
+  "name": "Get Model",
+  "description": "List all language and embedding models available. [See the documentation](https://docs.x.ai/api/endpoints#get-model)",
+  "type": "action",
+  "version": "0.0.3"
+}

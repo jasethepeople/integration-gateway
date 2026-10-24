@@ -1,0 +1,39 @@
+{
+  "app": "hyros",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "leadIps": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "phoneNumbers": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "leadStage": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "hyros-create-call",
+    "hyros-create-lead"
+  ]
+}

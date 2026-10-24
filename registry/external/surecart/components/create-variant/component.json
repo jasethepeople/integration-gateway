@@ -1,0 +1,7 @@
+{
+  "key": "surecart-create-variant",
+  "name": "Create Variant",
+  "description": "Create a new variant. [See the documentation](https://developer.surecart.com/api-reference/variants/create)",
+  "type": "action",
+  "version": "0.0.1"
+}

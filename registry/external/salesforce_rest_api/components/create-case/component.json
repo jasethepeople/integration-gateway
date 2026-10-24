@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-create-case",
+  "name": "Create Case",
+  "description": "Create a Salesforce support case (a customer issue or request).",
+  "type": "action",
+  "version": "1.0.1"
+}

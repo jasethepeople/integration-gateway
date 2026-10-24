@@ -1,0 +1,7 @@
+{
+  "key": "fogbugz-list-filter-id-options",
+  "name": "List Filter ID Options",
+  "description": "Retrieves available options for the Filter ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

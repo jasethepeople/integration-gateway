@@ -1,0 +1,7 @@
+{
+  "key": "payhip-enable-license-key",
+  "name": "Enable License Key",
+  "description": "Enable a license key. [See the documentation](https://help.payhip.com/article/114-software-license-keys#:~:text=Enable%20or%20Disable%20a%20License%20Key)",
+  "type": "action",
+  "version": "0.0.5"
+}

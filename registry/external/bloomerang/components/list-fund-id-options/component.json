@@ -1,0 +1,7 @@
+{
+  "key": "bloomerang-list-fund-id-options",
+  "name": "List Fund Options",
+  "description": "Retrieves available options for the Fund field.",
+  "type": "action",
+  "version": "0.0.1"
+}

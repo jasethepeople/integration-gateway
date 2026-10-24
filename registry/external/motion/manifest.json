@@ -1,0 +1,65 @@
+{
+  "app": "motion",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "assigneeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dueDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "duration": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "labelId": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "priority": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workspaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "motion-create-task",
+    "motion-delete-task",
+    "motion-get-schedules",
+    "motion-get-task",
+    "motion-list-workspace-id-options",
+    "motion-move-workspace",
+    "motion-update-task",
+    "motion-task-status-updated"
+  ]
+}

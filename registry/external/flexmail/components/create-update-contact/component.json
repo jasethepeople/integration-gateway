@@ -1,0 +1,7 @@
+{
+  "key": "flexmail-create-update-contact",
+  "name": "Create or Update Contact",
+  "description": "Creates or updates a contact based on email address within Flexmail. [See the documentation](https://api.flexmail.eu/documentation/#post-/contacts)",
+  "type": "action",
+  "version": "0.0.2"
+}

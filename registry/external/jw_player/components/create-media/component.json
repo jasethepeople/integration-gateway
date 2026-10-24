@@ -1,0 +1,7 @@
+{
+  "key": "jw_player-create-media",
+  "name": "Create Media",
+  "description": "Creates a new media file in JW Player using fetch or external upload methods. [See the documentation](https://docs.jwplayer.com/platform/reference/post_v2-sites-site-id-media)",
+  "type": "action",
+  "version": "0.0.2"
+}

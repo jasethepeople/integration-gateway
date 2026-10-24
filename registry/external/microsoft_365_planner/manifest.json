@@ -1,0 +1,53 @@
+{
+  "app": "microsoft_365_planner",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "planId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "bucketId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "assigneeIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userTaskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "conversationThreadId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "microsoft_365_planner-create-bucket",
+    "microsoft_365_planner-create-plan",
+    "microsoft_365_planner-create-task",
+    "microsoft_365_planner-list-user-tasks",
+    "microsoft_365_planner-update-task",
+    "microsoft_365_planner-new-plan-created",
+    "microsoft_365_planner-new-task-assigned-to-user",
+    "microsoft_365_planner-new-task-created"
+  ],
+  "npmImports": [
+    "@microsoft/microsoft-graph-client",
+    "isomorphic-fetch"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "smartsheet-import-sheet",
+  "name": "Import Sheet",
+  "description": "Import a CSV or XLSX file as a brand new Smartsheet sheet inside a workspace or a folder.",
+  "type": "action",
+  "version": "0.0.5"
+}

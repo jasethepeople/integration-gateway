@@ -1,0 +1,7 @@
+{
+  "app": "servicenow_service_account",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": []
+}

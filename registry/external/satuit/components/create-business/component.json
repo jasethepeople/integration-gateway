@@ -1,0 +1,7 @@
+{
+  "key": "satuit-create-business",
+  "name": "Create Business",
+  "description": "Creates a new business within the Satuit platform. [See the documentation](https://satuittechnologies.zendesk.com/hc/en-us/articles/360055725213-Satuit-REST-API-Postman-Documentation)",
+  "type": "action",
+  "version": "0.0.2"
+}

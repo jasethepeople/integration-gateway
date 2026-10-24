@@ -1,0 +1,7 @@
+{
+  "key": "maintainx-send-message",
+  "name": "Send Message",
+  "description": "Send message to a conversation. [See docs here](https://api.getmaintainx.com/v1/docs#tag/Conversations/paths/~1conversations~1{id}~1messages/post)",
+  "type": "action",
+  "version": "0.0.2"
+}

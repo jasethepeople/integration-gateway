@@ -1,0 +1,7 @@
+{
+  "key": "snappy-new-waiting-ticket-created",
+  "name": "New Waiting Ticket Created",
+  "description": "Emit new event when a waiting ticket is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "shopify_developer_app-new-order-fulfilled",
+  "name": "New Order Fulfilled (Instant)",
+  "description": "Emit new event whenever an order is fulfilled.",
+  "type": "source",
+  "version": "0.0.18"
+}

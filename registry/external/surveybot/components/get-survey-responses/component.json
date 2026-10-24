@@ -1,0 +1,7 @@
+{
+  "key": "surveybot-get-survey-responses",
+  "name": "Get Survey Responses",
+  "description": "Get responses for a survey from SurveyBot. [See the documentation](https://app.surveybot.io/accounts/api_use_cases)",
+  "type": "action",
+  "version": "0.0.1"
+}

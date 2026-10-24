@@ -1,0 +1,7 @@
+{
+  "key": "browser_use-stop-session",
+  "name": "Stop Session",
+  "description": "Stop the current task or stop the entire Browser Use agent session. [See the documentation](https://docs.browser-use.com/cloud/api-v3/sessions/stop-session)",
+  "type": "action",
+  "version": "0.0.2"
+}

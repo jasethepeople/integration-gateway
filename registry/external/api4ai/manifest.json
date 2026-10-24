@@ -1,0 +1,28 @@
+{
+  "app": "api4ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "image": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "api4ai-alcohol-label-recognition",
+    "api4ai-background-removal",
+    "api4ai-brand-recognition",
+    "api4ai-car-image-background-removal",
+    "api4ai-furniture-and-household-item-recognition",
+    "api4ai-image-anonymization",
+    "api4ai-nsfw-image-recognition"
+  ],
+  "npmImports": [
+    "form-data",
+    "node:fs"
+  ]
+}

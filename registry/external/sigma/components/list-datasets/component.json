@@ -1,0 +1,7 @@
+{
+  "key": "sigma-list-datasets",
+  "name": "List Datasets",
+  "description": "Returns a list of available datasets. [See the documentation](https://docs.sigmacomputing.com/#get-/v2/datasets)",
+  "type": "action",
+  "version": "0.0.2"
+}

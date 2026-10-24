@@ -1,0 +1,7 @@
+{
+  "key": "bytenite-start-job",
+  "name": "Start Job",
+  "description": "Initiates a previously created video encoding job. [See the documentation](https://docs.bytenite.com/reference/customer_runjob)",
+  "type": "action",
+  "version": "0.0.2"
+}

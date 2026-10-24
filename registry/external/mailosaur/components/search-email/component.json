@@ -1,0 +1,7 @@
+{
+  "key": "mailosaur-search-email",
+  "name": "Search Email",
+  "description": "Search for received emails in a server matching specified criteria. [See the documentation](https://mailosaur.com/docs/api/#search-for-messages)",
+  "type": "action",
+  "version": "0.0.3"
+}

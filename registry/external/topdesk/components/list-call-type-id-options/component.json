@@ -1,0 +1,7 @@
+{
+  "key": "topdesk-list-call-type-id-options",
+  "name": "List Call Type ID Options",
+  "description": "Retrieves available options for the Call Type ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

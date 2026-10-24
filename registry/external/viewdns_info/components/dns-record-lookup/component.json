@@ -1,0 +1,7 @@
+{
+  "key": "viewdns_info-dns-record-lookup",
+  "name": "DNS Record Lookup",
+  "description": "Performs a DNS record lookup to retrieve various DNS record types for a domain. [See the documentation](https://viewdns.info/api/dns-record-lookup/)",
+  "type": "action",
+  "version": "0.0.3"
+}

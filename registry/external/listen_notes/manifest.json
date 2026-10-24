@@ -1,0 +1,53 @@
+{
+  "app": "listen_notes",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "id": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "q": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "offset": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sortByDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "showTranscript": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "nextEpisodePubDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sort": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "language": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "listen_notes-full-search",
+    "listen_notes-get-episode-details",
+    "listen_notes-get-podcast-details",
+    "listen_notes-list-language-options"
+  ]
+}

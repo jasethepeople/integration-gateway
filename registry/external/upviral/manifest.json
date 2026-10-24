@@ -1,0 +1,27 @@
+{
+  "app": "upviral",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "leadId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "upviral-add-contact",
+    "upviral-add-points",
+    "upviral-list-campaign-id-options"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

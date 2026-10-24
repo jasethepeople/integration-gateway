@@ -1,0 +1,7 @@
+{
+  "key": "zoom_admin-update-webinar",
+  "name": "Update Webinar",
+  "description": "Update the details of a webinar. [See the documentation](https://marketplace.zoom.us/docs/api-reference/zoom-api/webinars/webinarupdate)",
+  "type": "action",
+  "version": "0.1.8"
+}

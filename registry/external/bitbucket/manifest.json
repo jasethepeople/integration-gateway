@@ -1,0 +1,60 @@
+{
+  "app": "bitbucket",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "workspace": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "repository": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "branch": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "snippet": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "user": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eventTypes": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "multiRepositories": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "bitbucket-create-snippet-comment",
+    "bitbucket-get-file-from-repository",
+    "bitbucket-get-snippet",
+    "bitbucket-list-workspace-options",
+    "bitbucket-new-branch",
+    "bitbucket-new-commit-comment",
+    "bitbucket-new-commit",
+    "bitbucket-new-pipeline-event",
+    "bitbucket-new-pull-request",
+    "bitbucket-new-repository-event",
+    "bitbucket-new-repository",
+    "bitbucket-new-review-request",
+    "bitbucket-new-tag",
+    "bitbucket-new-workspace-event",
+    "bitbucket-watch-user"
+  ],
+  "npmImports": [
+    "axios",
+    "lodash"
+  ]
+}

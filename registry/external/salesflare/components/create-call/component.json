@@ -1,0 +1,7 @@
+{
+  "key": "salesflare-create-call",
+  "name": "Create Call",
+  "description": "Create a call. [See the docs here](https://api.salesflare.com/docs#operation/postCalls)",
+  "type": "action",
+  "version": "0.0.2"
+}

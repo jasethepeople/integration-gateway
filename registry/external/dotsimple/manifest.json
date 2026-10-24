@@ -1,0 +1,41 @@
+{
+  "app": "dotsimple",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contentBody": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contentUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "postId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workspace_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dotsimple-create-post",
+    "dotsimple-delete-post",
+    "dotsimple-list-account-id-options",
+    "dotsimple-list-post-id-options",
+    "dotsimple-update-post",
+    "dotsimple-new-account-connected",
+    "dotsimple-new-file-uploaded",
+    "dotsimple-new-post-created"
+  ]
+}

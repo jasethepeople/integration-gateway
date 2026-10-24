@@ -1,0 +1,7 @@
+{
+  "key": "campayn-list-list-id-options",
+  "name": "List List Options",
+  "description": "Retrieves available options for the List field.",
+  "type": "action",
+  "version": "0.0.1"
+}

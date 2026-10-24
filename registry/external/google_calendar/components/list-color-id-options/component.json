@@ -1,0 +1,7 @@
+{
+  "key": "google_calendar-list-color-id-options",
+  "name": "List Color ID Options",
+  "description": "Retrieves available options for the Color ID field.",
+  "type": "action",
+  "version": "0.0.4"
+}

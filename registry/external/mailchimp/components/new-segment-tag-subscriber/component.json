@@ -1,0 +1,7 @@
+{
+  "key": "mailchimp-new-segment-tag-subscriber",
+  "name": "New Segment Tag Subscriber",
+  "description": "Emit new event when a subscriber is added to a segment or tags within an audience list.",
+  "type": "source",
+  "version": "0.0.3"
+}

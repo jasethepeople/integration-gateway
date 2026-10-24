@@ -1,0 +1,7 @@
+{
+  "key": "browser_use-list-workspaces",
+  "name": "List Workspaces",
+  "description": "List Browser Use workspaces for persistent shared file storage across sessions. [See the documentation](https://docs.browser-use.com/cloud/api-v3/workspaces/list-workspaces)",
+  "type": "action",
+  "version": "0.0.1"
+}

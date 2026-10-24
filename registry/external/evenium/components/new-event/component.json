@@ -1,0 +1,7 @@
+{
+  "key": "evenium-new-event",
+  "name": "New Event",
+  "description": "Emit new event when a new event is created. [See the documentation](https://static.evenium.com/api-docs/organizer/index-json.html#_get_all_events)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "weatherbit_io-fetch-current-weather",
+  "name": "Fetch Current Weather",
+  "description": "Fetch current weather from a location. [See docs here](https://www.weatherbit.io/api/weather-current)",
+  "type": "action",
+  "version": "0.0.2"
+}

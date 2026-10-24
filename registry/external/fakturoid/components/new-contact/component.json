@@ -1,0 +1,7 @@
+{
+  "key": "fakturoid-new-contact",
+  "name": "New Contact Added",
+  "description": "Emit new event when a contact (subject) is added in Fakturoid.",
+  "type": "source",
+  "version": "0.0.1"
+}

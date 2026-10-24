@@ -1,0 +1,7 @@
+{
+  "key": "procore-new-purchase-order-event-instant",
+  "name": "New Purchase Order Event (Instant)",
+  "description": "Emit new event when a new purchase order event is created. [See the documentation](https://developers.procore.com/reference/rest/hooks?version=latest).",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "cloud_convert-create-archive",
+  "name": "Create Archive",
+  "description": "Creates an archive in a specified format. [See the documentation](https://cloudconvert.com/api/v2/archive#archive-tasks)",
+  "type": "action",
+  "version": "0.0.2"
+}

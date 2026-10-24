@@ -1,0 +1,25 @@
+{
+  "app": "ups",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "trackingNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ups-create-shipment",
+    "ups-get-tracking-info",
+    "ups-recover-label",
+    "ups-void-shipment",
+    "ups-new-tracking-event"
+  ],
+  "npmImports": [
+    "uuid"
+  ]
+}

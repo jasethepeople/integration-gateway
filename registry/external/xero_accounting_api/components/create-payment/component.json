@@ -1,0 +1,7 @@
+{
+  "key": "xero_accounting_api-create-payment",
+  "name": "Create Payment",
+  "description": "Creates a new payment",
+  "type": "action",
+  "version": "0.1.5"
+}

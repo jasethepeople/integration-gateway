@@ -1,0 +1,7 @@
+{
+  "key": "xendit-create-payout",
+  "name": "Create Payout",
+  "description": "Create a new payout on Xendit platform [See the documentation](https://developers.xendit.co/api-reference/#create-payout)",
+  "type": "action",
+  "version": "0.0.2"
+}

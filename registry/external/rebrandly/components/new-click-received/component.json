@@ -1,0 +1,7 @@
+{
+  "key": "rebrandly-new-click-received",
+  "name": "New Click Received",
+  "description": "Emit new event on each new click received by a link.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zendesk-delete-ticket",
+  "name": "Delete Ticket",
+  "description": "Deletes a ticket. [See the documentation](https://developer.zendesk.com/api-reference/ticketing/tickets/tickets/#delete-ticket).",
+  "type": "action",
+  "version": "0.1.20"
+}

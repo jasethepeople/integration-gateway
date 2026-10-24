@@ -1,0 +1,73 @@
+{
+  "app": "docsbot_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "teamId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "botId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "question": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fullSource": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "format": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "history": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "metadata": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "file": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "faqs": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "scheduleInterval": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "filePath": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "docsbot_ai-ask-question",
+    "docsbot_ai-create-source",
+    "docsbot_ai-list-team-id-options",
+    "docsbot_ai-upload-source-file"
+  ]
+}

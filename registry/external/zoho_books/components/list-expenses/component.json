@@ -1,0 +1,7 @@
+{
+  "key": "zoho_books-list-expenses",
+  "name": "List Expenses",
+  "description": "List all the Expenses. [See the documentation](https://www.zoho.com/books/api/v3/expenses/#list-expenses)",
+  "type": "action",
+  "version": "0.3.1"
+}

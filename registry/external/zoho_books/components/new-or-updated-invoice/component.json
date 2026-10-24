@@ -1,0 +1,7 @@
+{
+  "key": "zoho_books-new-or-updated-invoice",
+  "name": "New or Updated Invoice",
+  "description": "Emit new event when a new invoice is created or an existing invoice is updated.",
+  "type": "source",
+  "version": "0.0.1"
+}

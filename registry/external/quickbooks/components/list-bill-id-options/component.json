@@ -1,0 +1,7 @@
+{
+  "key": "quickbooks-list-bill-id-options",
+  "name": "List Bill ID Options",
+  "description": "Retrieves available options for the Bill ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

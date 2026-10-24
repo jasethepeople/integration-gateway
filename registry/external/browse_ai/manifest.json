@@ -1,0 +1,25 @@
+{
+  "app": "browse_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "robotId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "inputParameters": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "browse_ai-execute-task",
+    "browse_ai-list-robot-id-options",
+    "browse_ai-task-completed",
+    "browse_ai-task-finished-with-error"
+  ]
+}

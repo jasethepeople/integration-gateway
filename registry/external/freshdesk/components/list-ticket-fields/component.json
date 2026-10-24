@@ -1,0 +1,7 @@
+{
+  "key": "freshdesk-list-ticket-fields",
+  "name": "List Ticket Fields",
+  "description": "List all ticket fields in Freshdesk. [See the documentation](https://developers.freshdesk.com/api/#list_all_ticket_fields)",
+  "type": "action",
+  "version": "0.0.10"
+}

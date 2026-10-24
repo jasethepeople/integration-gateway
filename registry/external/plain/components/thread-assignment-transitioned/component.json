@@ -1,0 +1,7 @@
+{
+  "key": "plain-thread-assignment-transitioned",
+  "name": "Thread Assignment Transitioned",
+  "description": "Emit new event when a thread assignment is transitioned.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pagerduty-create-service",
+  "name": "Create Service",
+  "description": "Create a new PagerDuty service.",
+  "type": "action",
+  "version": "0.0.2"
+}

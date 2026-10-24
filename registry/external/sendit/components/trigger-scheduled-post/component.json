@@ -1,0 +1,7 @@
+{
+  "key": "sendit-trigger-scheduled-post",
+  "name": "Trigger Scheduled Post Now",
+  "description": "Immediately publish a scheduled post. [See the documentation](https://sendit.infiniteappsai.com/docs/api)",
+  "type": "action",
+  "version": "0.0.1"
+}

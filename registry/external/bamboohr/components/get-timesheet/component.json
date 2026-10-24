@@ -1,0 +1,7 @@
+{
+  "key": "bamboohr-get-timesheet",
+  "name": "Get Timesheet",
+  "description": "Get a single timesheet by ID. Returns derived status (OPEN, PENDING_APPROVAL, APPROVED) and type. Use **List Timesheets** to find IDs. [See the documentation](https://documentation.bamboohr.com/reference/get-timesheet)",
+  "type": "action",
+  "version": "0.0.1"
+}

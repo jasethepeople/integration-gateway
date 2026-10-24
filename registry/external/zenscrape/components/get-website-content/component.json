@@ -1,0 +1,7 @@
+{
+  "key": "zenscrape-get-website-content",
+  "name": "Get Website Content",
+  "description": "Retrieve the content of a website. [See the documentation](https://app.zenscrape.com/documentation)",
+  "type": "action",
+  "version": "0.0.2"
+}

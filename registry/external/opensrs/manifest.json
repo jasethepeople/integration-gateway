@@ -1,0 +1,23 @@
+{
+  "app": "opensrs",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "domain": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "opensrs-initiate-domain-transfer",
+    "opensrs-register-domain",
+    "opensrs-update-dns-records",
+    "opensrs-new-dns-zone-change",
+    "opensrs-new-domain-registration",
+    "opensrs-new-transfer-status"
+  ],
+  "npmImports": [
+    "crypto",
+    "fast-xml-parser"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "breeze-task-moved",
+  "name": "Task Moved",
+  "description": "Emit new event when a task is moved to another list. [See documentation](https://www.breeze.pm/api#:~:text=Get%20cards)",
+  "type": "source",
+  "version": "0.0.1"
+}

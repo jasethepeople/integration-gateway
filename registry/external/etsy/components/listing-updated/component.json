@@ -1,0 +1,7 @@
+{
+  "key": "etsy-listing-updated",
+  "name": "Listing Updated",
+  "description": "Emit new event when a listing is updated. [See the Documentation](https://developers.etsy.com/documentation/reference#operation/getListingsByShop)",
+  "type": "source",
+  "version": "0.0.3"
+}

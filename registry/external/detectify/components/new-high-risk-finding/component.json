@@ -1,0 +1,7 @@
+{
+  "key": "detectify-new-high-risk-finding",
+  "name": "New High Risk Finding",
+  "description": "Emit new event when a severe security finding at high risk level is detected.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,26 @@
+{
+  "app": "azure_openai_service",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "resource_name": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "deployment_name": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "azure_openai_service-chat",
+    "azure_openai_service-classify-items-into-categories",
+    "azure_openai_service-create-image",
+    "azure_openai_service-summarize",
+    "azure_openai_service-translate-text"
+  ]
+}

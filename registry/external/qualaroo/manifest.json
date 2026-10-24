@@ -1,0 +1,23 @@
+{
+  "app": "qualaroo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "survey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "qualaroo-survey-created",
+    "qualaroo-survey-response-received"
+  ]
+}

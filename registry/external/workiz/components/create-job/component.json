@@ -1,0 +1,7 @@
+{
+  "key": "workiz-create-job",
+  "name": "Create Job",
+  "description": "Creates a new job in Workiz. [See the documentation](https://developer.workiz.com/)",
+  "type": "action",
+  "version": "0.0.2"
+}

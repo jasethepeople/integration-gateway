@@ -1,0 +1,24 @@
+{
+  "app": "wisepops",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "wisepopId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "wisepops-list-wisepop-id-options",
+    "wisepops-new-phone-collected",
+    "wisepops-new-signup-collected",
+    "wisepops-new-survey-collected"
+  ],
+  "npmImports": [
+    "node-forge"
+  ]
+}

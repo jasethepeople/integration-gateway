@@ -1,0 +1,7 @@
+{
+  "key": "pubrio-reveal-monitor-signature",
+  "name": "Reveal Monitor Signature",
+  "description": "Reveal the signature for a specific monitor. [See the documentation](https://docs.pubrio.com/en/api-reference/endpoint/monitors/signature_reveal)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "google_cloud-list-buckets",
+  "name": "List Buckets",
+  "description": "List Google Cloud Storage buckets, [See the docs](https://googleapis.dev/nodejs/storage/latest/Storage.html#getBuckets)",
+  "type": "action",
+  "version": "0.0.6"
+}

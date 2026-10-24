@@ -1,0 +1,7 @@
+{
+  "key": "telegram_bot_api-unpin-message",
+  "name": "Unpin a Message",
+  "description": "Unpins a message. [See the docs](https://core.telegram.org/bots/api#unpinchatmessage) for more information",
+  "type": "action",
+  "version": "0.0.8"
+}

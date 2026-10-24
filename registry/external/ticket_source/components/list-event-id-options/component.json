@@ -1,0 +1,7 @@
+{
+  "key": "ticket_source-list-event-id-options",
+  "name": "List Event ID Options",
+  "description": "Retrieves available options for the Event ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

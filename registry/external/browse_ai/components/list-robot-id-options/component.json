@@ -1,0 +1,7 @@
+{
+  "key": "browse_ai-list-robot-id-options",
+  "name": "List Robot ID Options",
+  "description": "Retrieves available options for the Robot ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

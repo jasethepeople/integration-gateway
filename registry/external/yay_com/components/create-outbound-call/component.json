@@ -1,0 +1,7 @@
+{
+  "key": "yay_com-create-outbound-call",
+  "name": "Create Outbound Call",
+  "description": "Initiates an outbound call to a specified number. [See the documentation](https://www.yay.com/voip/api-docs/calls/outbound-call/)",
+  "type": "action",
+  "version": "0.0.2"
+}

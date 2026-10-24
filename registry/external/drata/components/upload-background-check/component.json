@@ -1,0 +1,7 @@
+{
+  "key": "drata-upload-background-check",
+  "name": "Upload Background Check",
+  "description": "The URL of the background check file.",
+  "type": "action",
+  "version": "0.0.4"
+}

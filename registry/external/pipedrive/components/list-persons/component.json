@@ -1,0 +1,7 @@
+{
+  "key": "pipedrive-list-persons",
+  "name": "List Persons",
+  "description": "List persons in your Pipedrive account. [See the documentation](https://developers.pipedrive.com/docs/api/v1/Persons#getPersons)",
+  "type": "action",
+  "version": "0.0.2"
+}

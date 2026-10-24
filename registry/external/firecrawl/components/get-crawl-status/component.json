@@ -1,0 +1,7 @@
+{
+  "key": "firecrawl-get-crawl-status",
+  "name": "Get Crawl Data",
+  "description": "Obtains the status and data from a previous crawl operation. [See the documentation](https://docs.firecrawl.dev/api-reference/endpoint/crawl-get)",
+  "type": "action",
+  "version": "0.0.6"
+}

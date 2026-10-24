@@ -1,0 +1,7 @@
+{
+  "key": "smartsheet-add-comment",
+  "name": "Add Comment",
+  "description": "Adds a comment to an existing discussion on a Smartsheet sheet",
+  "type": "action",
+  "version": "0.0.2"
+}

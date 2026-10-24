@@ -1,0 +1,7 @@
+{
+  "key": "retool-create-organization-user-attribute",
+  "name": "Create Organization User Attribute",
+  "description": "Create a new user attribute for the organization. [See the documentation](https://docs.retool.com/api/create-a-new-user-attribute-for-the-organization).",
+  "type": "action",
+  "version": "0.0.1"
+}

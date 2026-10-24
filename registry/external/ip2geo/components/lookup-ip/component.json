@@ -1,0 +1,7 @@
+{
+  "key": "ip2geo-lookup-ip",
+  "name": "Lookup IP",
+  "description": "Convert an IP address into geolocation data including city, country, timezone, ASN, and currency. [See the documentation](https://docs.ip2geo.dev/api/convert-ip)",
+  "type": "action",
+  "version": "0.0.2"
+}

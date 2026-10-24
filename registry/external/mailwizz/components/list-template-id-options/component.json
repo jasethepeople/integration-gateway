@@ -1,0 +1,7 @@
+{
+  "key": "mailwizz-list-template-id-options",
+  "name": "List Template UID Options",
+  "description": "Retrieves available options for the Template UID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

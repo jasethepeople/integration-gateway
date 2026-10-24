@@ -1,0 +1,30 @@
+{
+  "app": "gistly",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "videoUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "videoId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "text": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "chunkSize": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "gistly-get-transcript"
+  ]
+}

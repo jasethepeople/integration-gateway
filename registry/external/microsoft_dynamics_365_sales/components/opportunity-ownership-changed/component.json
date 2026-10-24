@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_dynamics_365_sales-opportunity-ownership-changed",
+  "name": "Opportunity Ownership Changed",
+  "description": "Emit new event when the ownership of an opportunity changes.",
+  "type": "source",
+  "version": "0.0.5"
+}

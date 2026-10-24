@@ -1,0 +1,72 @@
+{
+  "app": "twitch",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "streamerLoginNames": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "game": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "language": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "max": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "user": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "broadcaster": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_client_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "twitch-block-user",
+    "twitch-check-channel-subscription",
+    "twitch-delete-video",
+    "twitch-get-channel-editors",
+    "twitch-get-channel-followers",
+    "twitch-get-channel-information",
+    "twitch-get-channel-teams",
+    "twitch-get-clips",
+    "twitch-get-followed-channels",
+    "twitch-get-stream-by-user",
+    "twitch-get-top-games",
+    "twitch-get-users",
+    "twitch-get-videos",
+    "twitch-search-channels",
+    "twitch-search-games",
+    "twitch-unblock-user",
+    "twitch-update-channel",
+    "twitch-followed-streams",
+    "twitch-new-clip-by-streamer",
+    "twitch-new-clips",
+    "twitch-new-follower",
+    "twitch-new-subscriber",
+    "twitch-new-videos",
+    "twitch-streams-by-game",
+    "twitch-streams-by-streamer"
+  ],
+  "npmImports": [
+    "crypto",
+    "qs",
+    "util",
+    "uuid"
+  ]
+}

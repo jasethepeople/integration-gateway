@@ -1,0 +1,7 @@
+{
+  "key": "orderspace-list-customers",
+  "name": "List Customers",
+  "description": "List a list of customers. [See the documentation](https://apidocs.orderspace.com/#list-customers)",
+  "type": "action",
+  "version": "0.0.2"
+}

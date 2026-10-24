@@ -1,0 +1,7 @@
+{
+  "key": "donedone-create-task",
+  "name": "Create Task",
+  "description": "Create a new task in the selected project. [See the documentation](https://app.swaggerhub.com/apis-docs/DoneDone/DoneDone-2-Public-API/1.0.0-oas3#/Tasks/post__account_id__internal_projects__internal_project_id__tasks)",
+  "type": "action",
+  "version": "0.0.1"
+}

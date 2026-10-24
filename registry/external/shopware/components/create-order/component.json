@@ -1,0 +1,7 @@
+{
+  "key": "shopware-create-order",
+  "name": "Create Order",
+  "description": "Create a new order. [See the documentation](https://shopware.stoplight.io/docs/admin-api/52ce9936f6ea4-create-a-new-order-resources)",
+  "type": "action",
+  "version": "0.0.1"
+}

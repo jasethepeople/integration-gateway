@@ -1,0 +1,80 @@
+{
+  "app": "jibble",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "personId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "activityId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "clientId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "locationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "scheduleId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "clientType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "clientVersion": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "os": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "deviceModel": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "deviceName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "latitude": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "longitude": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "jibble-clock-in",
+    "jibble-clock-out",
+    "jibble-create-time-tracking-report",
+    "jibble-create-timesheets-daily-summary",
+    "jibble-list-activity-id-options",
+    "jibble-list-client-id-options",
+    "jibble-list-group-id-options",
+    "jibble-list-location-id-options",
+    "jibble-list-person-id-options",
+    "jibble-list-project-id-options",
+    "jibble-list-schedule-id-options"
+  ]
+}

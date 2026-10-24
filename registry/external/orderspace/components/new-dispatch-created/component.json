@@ -1,0 +1,7 @@
+{
+  "key": "orderspace-new-dispatch-created",
+  "name": "New Dispatch Created (Instant)",
+  "description": "Emit new event when a dispatch is created",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "hana-get-chat-completion-status",
+  "name": "Get Chat Completion Status",
+  "description": "Get the status of a chat completion. [See the documentation](https://docs.hanabot.ai/docs/tutorial-connectors/hana-api#chat-completion-status)",
+  "type": "action",
+  "version": "0.0.1"
+}

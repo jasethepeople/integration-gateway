@@ -1,0 +1,7 @@
+{
+  "key": "lever-update-opportunity-stage",
+  "name": "Update Opportunity Stage",
+  "description": "Moves a candidate to a different stage in the hiring pipeline.",
+  "type": "action",
+  "version": "0.0.2"
+}

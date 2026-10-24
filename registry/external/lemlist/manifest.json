@@ -1,0 +1,69 @@
+{
+  "app": "lemlist",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "campaignEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "picture": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "linkedinUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "icebreaker": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "lemlist-add-email-in-unsubscribes",
+    "lemlist-add-lead-to-campaign",
+    "lemlist-delete-email-from-unsubscribes",
+    "lemlist-delete-lead-from-a-campaign",
+    "lemlist-get-lead",
+    "lemlist-list-campaign-id-options",
+    "lemlist-mark-lead-from-all-campaigns-as-interested",
+    "lemlist-mark-lead-from-all-campaigns-as-notinterested",
+    "lemlist-mark-lead-from-one-campaigns-as-interested",
+    "lemlist-mark-lead-from-one-campaigns-as-notinterested",
+    "lemlist-pause-lead-from-all-campaigns",
+    "lemlist-resume-lead-from-all-campaigns",
+    "lemlist-unsubscribe-lead-from-a-campaign",
+    "lemlist-update-lead-in-a-campaign",
+    "lemlist-new-activity",
+    "lemlist-unsubscribed-recipient"
+  ]
+}

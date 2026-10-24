@@ -1,0 +1,7 @@
+{
+  "key": "kiyoh-get-all-reviews",
+  "name": "Get All Reviews",
+  "description": "Retrieves all shop reviews for a given location",
+  "type": "action",
+  "version": "0.0.1"
+}

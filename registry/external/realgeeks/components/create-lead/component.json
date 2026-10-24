@@ -1,0 +1,7 @@
+{
+  "key": "realgeeks-create-lead",
+  "name": "Create Lead",
+  "description": "Creates a new lead in Real Geeks. [See the documentation](https://developers.realgeeks.com/leads/)",
+  "type": "action",
+  "version": "0.0.2"
+}

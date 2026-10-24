@@ -1,0 +1,7 @@
+{
+  "key": "zoho_inventory-list-group-id-options",
+  "name": "List Item Group Options",
+  "description": "Retrieves available options for the Item Group field.",
+  "type": "action",
+  "version": "0.0.1"
+}

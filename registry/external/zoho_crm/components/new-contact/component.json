@@ -1,0 +1,7 @@
+{
+  "key": "zoho_crm-new-contact",
+  "name": "New Contact (Instant)",
+  "description": "Emits an event each time a new contact is created in Zoho CRM",
+  "type": "source",
+  "version": "0.0.11"
+}

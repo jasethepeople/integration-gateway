@@ -1,0 +1,7 @@
+{
+  "key": "postmark-new-sender-signature",
+  "name": "New Sender Signature",
+  "description": "Emit new event when a new sender signature is created.",
+  "type": "source",
+  "version": "0.0.2"
+}

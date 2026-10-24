@@ -1,0 +1,7 @@
+{
+  "key": "bybit-linear-market-recent-trading-records",
+  "name": "ByBit Linear Market Recent Trading Records",
+  "description": "Get recent trades.[reference](https://bybit-exchange.github.io/docs/futuresV2/linear/#t-latestsymbolinfo)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "wise-create-quote",
+  "name": "Create Quote",
+  "description": "Creates a quote. [See docs here](https://api-docs.wise.com/api-reference/quote#create-authenticated)",
+  "type": "action",
+  "version": "0.0.4"
+}

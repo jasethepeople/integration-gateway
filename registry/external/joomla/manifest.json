@@ -1,0 +1,35 @@
+{
+  "app": "joomla",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "articleId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "categoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "text": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "joomla_host_domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "joomla-create-article",
+    "joomla-update-article"
+  ]
+}

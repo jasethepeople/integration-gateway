@@ -1,0 +1,7 @@
+{
+  "key": "jw_player-new-media-available",
+  "name": "New Media Available (Instant)",
+  "description": "Emit new event when a new media conversion is completed or a media becomes available.",
+  "type": "source",
+  "version": "0.0.1"
+}

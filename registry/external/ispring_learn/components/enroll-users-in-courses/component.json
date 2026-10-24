@@ -1,0 +1,7 @@
+{
+  "key": "ispring_learn-enroll-users-in-courses",
+  "name": "Enroll Users in Courses",
+  "description": "Enrolls users to the specified courses on iSpring Learn.",
+  "type": "action",
+  "version": "0.0.2"
+}

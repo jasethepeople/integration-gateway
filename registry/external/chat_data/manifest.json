@@ -1,0 +1,40 @@
+{
+  "app": "chat_data",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "chatbotId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "chatbotName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sourceText": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "urlsToScrape": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "customBackend": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "model": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "chat_data-create-chatbot",
+    "chat_data-delete-chatbot",
+    "chat_data-get-chatbot-details"
+  ]
+}

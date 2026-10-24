@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_outlook-create-draft-email",
+  "name": "Create Draft Email",
+  "description": "Create a draft email, [See the documentation](https://docs.microsoft.com/en-us/graph/api/user-post-messages)",
+  "type": "action",
+  "version": "0.0.35"
+}

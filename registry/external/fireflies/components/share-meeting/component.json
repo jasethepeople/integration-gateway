@@ -1,0 +1,7 @@
+{
+  "key": "fireflies-share-meeting",
+  "name": "Share Meeting",
+  "description": "Share a meeting with up to 50 people by email, optionally expiring their access after a number of days. Only the meeting owner or a team admin (on the owner's team) can share a meeting. Rate-limited to 10 requests per hour per user. Use **Revoke Meeting Access** to remove access later. [See the documentation](https://docs.fireflies.ai/graphql-api/mutation/share-meeting)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "redmine-project-updated",
+  "name": "Project Updated",
+  "description": "Emits an event whenever a project is updated in Redmine",
+  "type": "source",
+  "version": "0.0.1"
+}

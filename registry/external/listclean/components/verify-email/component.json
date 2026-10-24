@@ -1,0 +1,7 @@
+{
+  "key": "listclean-verify-email",
+  "name": "Verify Email",
+  "description": "Verify an email address. [See the documentation](https://api.listclean.xyz/#tag/verifications)",
+  "type": "action",
+  "version": "0.0.2"
+}

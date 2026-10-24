@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-create-company-contact",
+  "name": "Create Company Contact",
+  "description": "Create a company contact. [See the documentation](https://developer.servicem8.com/reference/createcompanycontacts)",
+  "type": "action",
+  "version": "0.0.2"
+}

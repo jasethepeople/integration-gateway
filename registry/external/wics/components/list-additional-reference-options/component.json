@@ -1,0 +1,7 @@
+{
+  "key": "wics-list-additional-reference-options",
+  "name": "List Additional Reference Options",
+  "description": "Retrieves available options for the Additional Reference field.",
+  "type": "action",
+  "version": "0.0.1"
+}

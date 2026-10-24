@@ -1,0 +1,7 @@
+{
+  "key": "convenia-new-vacation-request",
+  "name": "New Vacation Request",
+  "description": "Emit new event when there is a new vacation request at the company.",
+  "type": "source",
+  "version": "0.0.1"
+}

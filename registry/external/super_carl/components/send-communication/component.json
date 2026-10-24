@@ -1,0 +1,7 @@
+{
+  "key": "super_carl-send-communication",
+  "name": "Send Communication",
+  "description": "Create a Super Carl outbound communication and optionally send it through Gmail, LinkedIn, X, Instagram, or Super Carl channels. Dry Run defaults to true; set it to false only after **Check Communication Capabilities** passes and the user approves live delivery. [See the documentation](https://supercarl.ai/docs#endpoints-communications)",
+  "type": "action",
+  "version": "0.0.2"
+}

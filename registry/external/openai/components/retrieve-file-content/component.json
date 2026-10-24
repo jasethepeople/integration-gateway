@@ -1,0 +1,7 @@
+{
+  "key": "openai-retrieve-file-content",
+  "name": "Retrieve File Content",
+  "description": "Retrieves the contents of the specified file. [See the documentation](https://platform.openai.com/docs/api-reference/files/retrieve-content)",
+  "type": "action",
+  "version": "0.0.20"
+}

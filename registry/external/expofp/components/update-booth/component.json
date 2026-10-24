@@ -1,0 +1,7 @@
+{
+  "key": "expofp-update-booth",
+  "name": "Update Booth",
+  "description": "Updates a booth. [See the documentation](https://expofp.docs.apiary.io/#reference/0/update-booth/update-booth)",
+  "type": "action",
+  "version": "0.0.4"
+}

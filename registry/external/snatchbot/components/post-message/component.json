@@ -1,0 +1,7 @@
+{
+  "key": "snatchbot-post-message",
+  "name": "Post Message",
+  "description": "Post a new message and receive a response from your bot. [See the documentation](https://support.snatchbot.me/reference/post-message)",
+  "type": "action",
+  "version": "0.0.2"
+}

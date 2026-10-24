@@ -1,0 +1,7 @@
+{
+  "key": "docsbot_ai-upload-source-file",
+  "name": "Upload Source File",
+  "description": "Upload a file to be used as a source. [See the documentation](https://docsbot.ai/documentation/developer/source-api#source-file-uploads)",
+  "type": "action",
+  "version": "0.1.3"
+}

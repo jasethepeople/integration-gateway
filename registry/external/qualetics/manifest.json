@@ -1,0 +1,23 @@
+{
+  "app": "qualetics",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "dataMachineId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "app_prefix": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "qualetics-run-data-machine",
+    "qualetics-send-data"
+  ]
+}

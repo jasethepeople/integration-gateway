@@ -1,0 +1,7 @@
+{
+  "key": "smartsheet-list-columns",
+  "name": "List Columns",
+  "description": "List all columns in a sheet, returning each column's ID, title, type, options (for PICKLIST/CONTACT_LIST), validation, and position index.",
+  "type": "action",
+  "version": "0.1.2"
+}

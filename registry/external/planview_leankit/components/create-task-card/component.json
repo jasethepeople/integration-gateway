@@ -1,0 +1,7 @@
+{
+  "key": "planview_leankit-create-task-card",
+  "name": "Create Task Card",
+  "description": "Create a task card. [See the docs here](https://success.planview.com/Planview_AgilePlace/AgilePlace_API/01_v2/card/create-task)",
+  "type": "action",
+  "version": "0.0.3"
+}

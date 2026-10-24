@@ -1,0 +1,7 @@
+{
+  "key": "databricks-create-endpoint",
+  "name": "Create Endpoint",
+  "description": "Create a new vector search endpoint. [See the documentation](https://docs.databricks.com/api/workspace/vectorsearchendpoints/createendpoint)",
+  "type": "action",
+  "version": "0.0.6"
+}

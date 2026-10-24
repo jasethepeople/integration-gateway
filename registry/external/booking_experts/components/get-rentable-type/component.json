@@ -1,0 +1,7 @@
+{
+  "key": "booking_experts-get-rentable-type",
+  "name": "Get Rentable Type",
+  "description": "Returns a rentable type. [See the documentation](https://developers.bookingexperts.com/reference/administration-rentabletypes-show)",
+  "type": "action",
+  "version": "0.0.1"
+}

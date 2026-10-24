@@ -1,0 +1,7 @@
+{
+  "key": "seven-lookup-format",
+  "name": "Lookup Format",
+  "description": "Look up phone number formatting via Seven. [See the documentation](https://docs.seven.io/en/rest-api/endpoints/lookup#format)",
+  "type": "action",
+  "version": "0.0.3"
+}

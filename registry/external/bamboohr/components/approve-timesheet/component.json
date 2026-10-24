@@ -1,0 +1,7 @@
+{
+  "key": "bamboohr-approve-timesheet",
+  "name": "Approve Timesheet",
+  "description": "Approve a timesheet. Only approval is supported by the API; there is no reject/deny endpoint. `lastChangedAt` must be the timesheet's `hoursLastChangedAt` value from **Get Timesheet**. [See the documentation](https://documentation.bamboohr.com/reference/approve-timesheet)",
+  "type": "action",
+  "version": "0.0.1"
+}

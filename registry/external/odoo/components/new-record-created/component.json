@@ -1,0 +1,7 @@
+{
+  "key": "odoo-new-record-created",
+  "name": "New Record Created",
+  "description": "Emit new event when a new record is created. [See the documentation](https://www.odoo.com/documentation/18.0/developer/reference/external_api.html#list-records)",
+  "type": "source",
+  "version": "0.0.1"
+}

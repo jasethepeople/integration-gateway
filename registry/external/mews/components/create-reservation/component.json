@@ -1,0 +1,7 @@
+{
+  "key": "mews-create-reservation",
+  "name": "Create Reservation",
+  "description": "Create a reservation in Mews. See reservation parameters in the docs. [See the documentation](https://mews-systems.gitbook.io/connector-api/operations/reservations#add-reservations)",
+  "type": "action",
+  "version": "0.0.4"
+}

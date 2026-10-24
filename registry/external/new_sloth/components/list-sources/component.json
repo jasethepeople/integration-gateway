@@ -1,0 +1,7 @@
+{
+  "key": "new_sloth-list-sources",
+  "name": "List Sources",
+  "description": "List all sources in New Sloth. [See the documentation](https://app.newsloth.com/api-reference#listsources)",
+  "type": "action",
+  "version": "0.0.1"
+}

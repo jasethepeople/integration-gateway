@@ -1,0 +1,7 @@
+{
+  "key": "openai-list-completion-model-id-options",
+  "name": "List Model Options",
+  "description": "Retrieves available options for the Model field.",
+  "type": "action",
+  "version": "0.0.1"
+}

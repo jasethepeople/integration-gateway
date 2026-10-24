@@ -1,0 +1,7 @@
+{
+  "key": "invoiced-create-payment",
+  "name": "Create Payment",
+  "description": "Creates a new payment in Invoiced. [See the documentation](https://developer.invoiced.com/api/payments#create-a-payment)",
+  "type": "action",
+  "version": "0.0.1"
+}

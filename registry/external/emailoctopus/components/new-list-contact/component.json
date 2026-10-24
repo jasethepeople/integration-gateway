@@ -1,0 +1,7 @@
+{
+  "key": "emailoctopus-new-list-contact",
+  "name": "New List Contact",
+  "description": "Emit new event each time a contact is added to a list.",
+  "type": "source",
+  "version": "0.0.4"
+}

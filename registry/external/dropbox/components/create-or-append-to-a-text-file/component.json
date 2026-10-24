@@ -1,0 +1,7 @@
+{
+  "key": "dropbox-create-or-append-to-a-text-file",
+  "name": "Create or Append to a Text File",
+  "description": "Adds a new line to an existing text file, or creates a file if it doesn't exist. [See the documentation](https://dropbox.github.io/dropbox-sdk-js/Dropbox.html#filesUpload__anchor)",
+  "type": "action",
+  "version": "0.0.14"
+}

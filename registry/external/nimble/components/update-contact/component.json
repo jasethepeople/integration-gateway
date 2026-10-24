@@ -1,0 +1,7 @@
+{
+  "key": "nimble-update-contact",
+  "name": "Update Contact",
+  "description": "Updates a contact. [See the documentation](https://nimble.readthedocs.io/en/latest/contacts/basic/update/)",
+  "type": "action",
+  "version": "0.0.2"
+}

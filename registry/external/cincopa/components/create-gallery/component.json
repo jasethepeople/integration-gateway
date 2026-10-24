@@ -1,0 +1,7 @@
+{
+  "key": "cincopa-create-gallery",
+  "name": "Create Gallery",
+  "description": "Creates a new gallery, returning the new gallery FID (unique ID). [See the documentation](https://www.cincopa.com/media-platform/api-documentation-v2#gallery.create)",
+  "type": "action",
+  "version": "0.0.2"
+}

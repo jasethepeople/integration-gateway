@@ -1,0 +1,10 @@
+{
+  "app": "kvdb",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "kvdb-get-key-value",
+    "kvdb-set-key-value"
+  ]
+}

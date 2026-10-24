@@ -1,0 +1,49 @@
+{
+  "app": "incorta",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "username": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "password": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "port": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "schemaName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tableName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "base_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "tenant": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "incorta-execute-sql-query",
+    "incorta-list-columns",
+    "incorta-list-schemas",
+    "incorta-list-tables"
+  ],
+  "npmImports": [
+    "pg",
+    "pg-cursor"
+  ]
+}

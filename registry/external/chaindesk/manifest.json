@@ -1,0 +1,21 @@
+{
+  "app": "chaindesk",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "agentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "chaindesk-list-agent-id-options",
+    "chaindesk-submit-message",
+    "chaindesk-update-agent",
+    "chaindesk-new-response-generated"
+  ]
+}

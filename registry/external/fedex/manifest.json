@@ -1,0 +1,139 @@
+{
+  "app": "fedex",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "accountNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shipperStreetLines": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "shipperCity": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shipperStateOrProvinceCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shipperPostalCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shipperCountryCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shipperContactName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shipperPhoneNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recipientStreetLines": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "recipientCity": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recipientStateOrProvinceCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recipientPostalCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recipientCountryCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recipientContactName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recipientPhoneNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pickupType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "serviceType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "packagingType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "totalWeight": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "paymentType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "labelFormatType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "labelStockType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "imageType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "weightUnit": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "weights": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "trackingNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "includeDetailedScans": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "shipDateBegin": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shipDateEnd": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "server_type": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "fedex-create-shipment",
+    "fedex-track-by-reference",
+    "fedex-track-by-tcn",
+    "fedex-track-by-tracking-number",
+    "fedex-track-multi-piece-shipment",
+    "fedex-validate-shipment"
+  ]
+}

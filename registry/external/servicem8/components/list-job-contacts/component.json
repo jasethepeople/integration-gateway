@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-list-job-contacts",
+  "name": "List Job Contacts",
+  "description": "List job contacts with optional filters. [See the documentation](https://developer.servicem8.com/reference/listjobcontacts)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,68 @@
+{
+  "app": "moodle",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "courseId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "categoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sectionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "moduleId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contentItemId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "moodle-add-content-item-to-favorites",
+    "moodle-create-category",
+    "moodle-create-course",
+    "moodle-create-user",
+    "moodle-delete-category",
+    "moodle-delete-courses",
+    "moodle-duplicate-course",
+    "moodle-enroll-user-in-course",
+    "moodle-get-categories",
+    "moodle-get-course-by-field",
+    "moodle-get-course-content-items",
+    "moodle-get-course-content",
+    "moodle-get-course-module",
+    "moodle-get-course-update",
+    "moodle-get-courses",
+    "moodle-get-enrolled-courses-by-timeline",
+    "moodle-get-enrolled-users",
+    "moodle-import-course",
+    "moodle-list-category-id-options",
+    "moodle-log-course-viewed",
+    "moodle-remove-content-item-from-favorites",
+    "moodle-search-courses",
+    "moodle-search-users",
+    "moodle-set-favourite-courses",
+    "moodle-update-category",
+    "moodle-update-course",
+    "moodle-update-user"
+  ]
+}

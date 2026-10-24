@@ -1,0 +1,7 @@
+{
+  "key": "loops_so-send-event",
+  "name": "Send Event",
+  "description": "Send an event to an email address. [See the Documentation](https://loops.so/docs/add-users/api-reference#send)",
+  "type": "action",
+  "version": "0.0.5"
+}

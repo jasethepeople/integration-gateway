@@ -1,0 +1,40 @@
+{
+  "app": "dailybot",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "targetUsers": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "targetTeams": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "messageContent": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "isAnonymous": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "byDailyBot": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dailybot-give-kudos",
+    "dailybot-list-target-teams-options",
+    "dailybot-list-target-users-options",
+    "dailybot-send-message",
+    "dailybot-kudos-given-instant",
+    "dailybot-new-check-in-response-completed-instant",
+    "dailybot-new-form-response-completed-instant"
+  ]
+}

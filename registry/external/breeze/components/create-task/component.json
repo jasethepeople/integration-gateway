@@ -1,0 +1,7 @@
+{
+  "key": "breeze-create-task",
+  "name": "Create Task",
+  "description": "Generates a new task within an existing project in breeze. [See documentation](https://www.breeze.pm/api#:~:text=Create%20a%20card)",
+  "type": "action",
+  "version": "0.0.1"
+}

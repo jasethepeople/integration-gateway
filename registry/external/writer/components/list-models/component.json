@@ -1,0 +1,7 @@
+{
+  "key": "writer-list-models",
+  "name": "List Models",
+  "description": "List the AI models available in your Writer account (Palmyra family plus any external models). ",
+  "type": "action",
+  "version": "0.0.2"
+}

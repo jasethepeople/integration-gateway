@@ -1,0 +1,7 @@
+{
+  "key": "jira_service_desk-find-service-desk-customers",
+  "name": "Find Service Desk Customers",
+  "description": "Finds the customers of one service desk by name or email address and returns the `accountId` of each match.",
+  "type": "action",
+  "version": "0.0.2"
+}

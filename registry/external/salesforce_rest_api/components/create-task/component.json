@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-create-task",
+  "name": "Create Task",
+  "description": "Create a Salesforce task (a to-do item with a due date, no specific time).",
+  "type": "action",
+  "version": "1.0.1"
+}

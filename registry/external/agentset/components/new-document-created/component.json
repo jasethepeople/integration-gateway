@@ -1,0 +1,7 @@
+{
+  "key": "agentset-new-document-created",
+  "name": "New Document Created",
+  "description": "Emit new event when a new document is created. [See the documentation](https://docs.agentset.ai/api-reference/endpoint/documents/list)",
+  "type": "source",
+  "version": "0.0.1"
+}

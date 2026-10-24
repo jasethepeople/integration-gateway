@@ -1,0 +1,44 @@
+{
+  "app": "specific",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "customFields": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "insertedAt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sourceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "specific-create-conversation",
+    "specific-find-company",
+    "specific-list-contact-email-options",
+    "specific-list-source-id-options",
+    "specific-update-create-contact",
+    "specific-new-contact-instant",
+    "specific-new-conversation-instant"
+  ]
+}

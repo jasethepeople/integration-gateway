@@ -1,0 +1,15 @@
+{
+  "app": "textit",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "textit-start-flow",
+    "textit-new-flow-event"
+  ]
+}

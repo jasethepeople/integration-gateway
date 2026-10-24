@@ -1,0 +1,7 @@
+{
+  "key": "timing-new-project",
+  "name": "New Project Created",
+  "description": "Emit new event each time a new project is created",
+  "type": "source",
+  "version": "0.0.1"
+}

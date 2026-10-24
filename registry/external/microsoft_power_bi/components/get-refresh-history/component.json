@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_power_bi-get-refresh-history",
+  "name": "Get Refresh History",
+  "description": "Get the refresh history for a Power BI dataset.",
+  "type": "action",
+  "version": "0.0.3"
+}

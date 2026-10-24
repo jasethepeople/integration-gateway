@@ -1,0 +1,7 @@
+{
+  "key": "claap-delete-recording",
+  "name": "Delete Recording",
+  "description": "Delete a recording in Claap. [See the documentation](https://docs.claap.io/api-reference/endpoint/delete_recording).",
+  "type": "action",
+  "version": "0.0.1"
+}

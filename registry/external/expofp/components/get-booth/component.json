@@ -1,0 +1,7 @@
+{
+  "key": "expofp-get-booth",
+  "name": "Get Booth",
+  "description": "Get details of a booth. [See the documentation](https://expofp.docs.apiary.io/#reference/0/get-booth-details/get-booth-details)",
+  "type": "action",
+  "version": "0.0.4"
+}

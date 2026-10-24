@@ -1,0 +1,34 @@
+{
+  "app": "tick",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "subscription_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "email": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "tick-create-client",
+    "tick-create-project",
+    "tick-create-task",
+    "tick-create-time-entry",
+    "tick-create-user",
+    "tick-list-client-id-options",
+    "tick-list-project-id-options",
+    "tick-list-task-id-options",
+    "tick-list-user-id-options",
+    "tick-new-client",
+    "tick-new-project",
+    "tick-new-task",
+    "tick-new-time-entry"
+  ]
+}

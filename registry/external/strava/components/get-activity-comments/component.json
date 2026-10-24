@@ -1,0 +1,7 @@
+{
+  "key": "strava-get-activity-comments",
+  "name": "Get Activity Comments",
+  "description": "Return comments on a Strava activity.",
+  "type": "action",
+  "version": "0.0.2"
+}

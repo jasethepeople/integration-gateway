@@ -1,0 +1,7 @@
+{
+  "key": "codex-get-token-chart",
+  "name": "Get Token Chart",
+  "description": "Returns OHLCV (open, high, low, close, volume) candlestick bars for a token over a time range.",
+  "type": "action",
+  "version": "0.0.2"
+}

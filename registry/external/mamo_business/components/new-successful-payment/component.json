@@ -1,0 +1,7 @@
+{
+  "key": "mamo_business-new-successful-payment",
+  "name": "New Successful Payment (Instant)",
+  "description": "Emit new event when a payment is charged.",
+  "type": "source",
+  "version": "0.0.1"
+}

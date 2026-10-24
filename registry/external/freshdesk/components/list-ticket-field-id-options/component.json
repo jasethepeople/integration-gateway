@@ -1,0 +1,7 @@
+{
+  "key": "freshdesk-list-ticket-field-id-options",
+  "name": "List Ticket Field ID Options",
+  "description": "Retrieves available options for the Ticket Field ID field.",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zoho_books-get-item",
+  "name": "Get Item",
+  "description": "Gets the details of an existing item. [See the documentation](https://www.zoho.com/books/api/v3/items/#get-an-item)",
+  "type": "action",
+  "version": "0.3.1"
+}

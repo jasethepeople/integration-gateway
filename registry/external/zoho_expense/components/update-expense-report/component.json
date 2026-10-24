@@ -1,0 +1,7 @@
+{
+  "key": "zoho_expense-update-expense-report",
+  "name": "Update Expense Report",
+  "description": "Alter details in an existing expense report. [See the Documentation](https://www.zoho.com/expense/api/v1/expense-reports/#update-an-expense-report).",
+  "type": "action",
+  "version": "0.0.2"
+}

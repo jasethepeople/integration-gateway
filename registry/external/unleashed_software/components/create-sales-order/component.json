@@ -1,0 +1,7 @@
+{
+  "key": "unleashed_software-create-sales-order",
+  "name": "Create Sales Order",
+  "description": "Creates a new sales order. [See the documentation](https://apidocs.unleashedsoftware.com/SalesOrders)",
+  "type": "action",
+  "version": "0.0.1"
+}

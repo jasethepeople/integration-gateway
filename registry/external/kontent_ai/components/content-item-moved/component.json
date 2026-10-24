@@ -1,0 +1,7 @@
+{
+  "key": "kontent_ai-content-item-moved",
+  "name": "New Content Item Moved (Instant)",
+  "description": "Emit new event when a content item is moved to another workflow step.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,51 @@
+{
+  "app": "teamup",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "calendarKey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subCalendarIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "eventId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "location": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "notes": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "teamup-create-event",
+    "teamup-delete-event",
+    "teamup-update-event",
+    "teamup-event-start",
+    "teamup-new-event",
+    "teamup-new-or-updated-event"
+  ]
+}

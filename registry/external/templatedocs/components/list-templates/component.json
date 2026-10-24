@@ -1,0 +1,7 @@
+{
+  "key": "templatedocs-list-templates",
+  "name": "List Templates",
+  "description": "Retrieve a paginated list of templates. [See the documentation](https://templatedocs.io/docs/api/templates/list)",
+  "type": "action",
+  "version": "0.0.1"
+}

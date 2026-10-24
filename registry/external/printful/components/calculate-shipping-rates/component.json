@@ -1,0 +1,7 @@
+{
+  "key": "printful-calculate-shipping-rates",
+  "name": "Calculate Shipping Rates",
+  "description": "Fetches available shipping rates for a given destination. [See the documentation](https://developers.printful.com/docs/#tag/Shipping-Rate-API/operation/calculateShippingRates)",
+  "type": "action",
+  "version": "0.0.3"
+}

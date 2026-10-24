@@ -1,0 +1,7 @@
+{
+  "key": "gagelist-list-gage-id-options",
+  "name": "List Gage ID Options",
+  "description": "Retrieves available options for the Gage ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

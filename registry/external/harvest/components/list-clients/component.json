@@ -1,0 +1,7 @@
+{
+  "key": "harvest-list-clients",
+  "name": "List Clients",
+  "description": "Only return active or inactive clients.",
+  "type": "action",
+  "version": "0.0.1"
+}

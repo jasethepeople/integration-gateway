@@ -1,0 +1,30 @@
+{
+  "app": "goformz",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "goformz-create-form",
+    "goformz-list-group-id-options",
+    "goformz-list-template-id-options",
+    "goformz-list-user-id-options",
+    "goformz-new-form-completed"
+  ]
+}

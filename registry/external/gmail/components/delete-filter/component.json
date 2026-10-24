@@ -1,0 +1,7 @@
+{
+  "key": "gmail-delete-filter",
+  "name": "Delete Filter",
+  "description": "Permanently delete a Gmail filter from the authenticated user's settings. Mail already processed by the filter is not changed; the filter simply stops applying to future incoming mail.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "helper_functions-convert-html-to-slack-mrkdwn",
+  "name": "Convert HTML to Slack mrkdwn format",
+  "description": "Converts an HTML string to the Slack mrkdwn format using",
+  "type": "action",
+  "version": "0.1.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "upkeep-list-downtime-status-options",
+  "name": "List Downtime Status Options",
+  "description": "Retrieves available options for the Downtime Status field.",
+  "type": "action",
+  "version": "0.0.1"
+}

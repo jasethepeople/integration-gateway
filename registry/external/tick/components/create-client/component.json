@@ -1,0 +1,7 @@
+{
+  "key": "tick-create-client",
+  "name": "Create Client",
+  "description": "Creates a client. [See docs here](https://github.com/tick/tick-api/blob/master/sections/clients.md#create-client)",
+  "type": "action",
+  "version": "0.0.2"
+}

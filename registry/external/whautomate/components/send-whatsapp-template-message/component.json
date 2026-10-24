@@ -1,0 +1,7 @@
+{
+  "key": "whautomate-send-whatsapp-template-message",
+  "name": "Send WhatsApp Template Message",
+  "description": "Send a pre-defined WhatsApp message template to a contact. [See the documentation](https://help.whautomate.com/product-guides/whautomate-rest-api/messages)",
+  "type": "action",
+  "version": "0.0.2"
+}

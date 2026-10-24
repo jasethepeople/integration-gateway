@@ -1,0 +1,7 @@
+{
+  "key": "nextlead-search-leads",
+  "name": "Search Leads",
+  "description": "Search for leads by email in NextLead. [See the documentation](https://dashboard.nextlead.app/en/api-documentation#find)",
+  "type": "action",
+  "version": "0.0.2"
+}

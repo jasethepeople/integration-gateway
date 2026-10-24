@@ -1,0 +1,7 @@
+{
+  "key": "belco-new-conversation",
+  "name": "New Conversation",
+  "description": "Emit new conversation event when a new conversation is created. [See the documentation](https://developers.belco.io/reference/get_conversations)",
+  "type": "source",
+  "version": "0.0.5"
+}

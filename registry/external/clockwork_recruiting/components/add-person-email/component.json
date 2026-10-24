@@ -1,0 +1,7 @@
+{
+  "key": "clockwork_recruiting-add-person-email",
+  "name": "Add Person Email",
+  "description": "Create an email address to a specific person. [See the documentation](https://app.swaggerhub.com/apis-docs/clockwork-recruiting/cw-public-api/3.0.0#/Person%20Emails)",
+  "type": "action",
+  "version": "0.0.2"
+}

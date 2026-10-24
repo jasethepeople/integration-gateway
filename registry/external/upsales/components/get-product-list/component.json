@@ -1,0 +1,7 @@
+{
+  "key": "upsales-get-product-list",
+  "name": "Get Product List",
+  "description": "Retrieves a list of products from Upsales. [See the documentation](https://api.upsales.com/#378f1b2f-11ce-409a-bf89-ee9f3dda854c)",
+  "type": "action",
+  "version": "0.0.1"
+}

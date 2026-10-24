@@ -1,0 +1,7 @@
+{
+  "key": "rocket_chat-new-message-public-channel",
+  "name": "New Message in Public Channel",
+  "description": "Emit new event when a new message is posted to a specific public channel.",
+  "type": "source",
+  "version": "0.0.1"
+}

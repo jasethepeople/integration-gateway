@@ -1,0 +1,7 @@
+{
+  "key": "sympla-new-attendee",
+  "name": "New Attendee",
+  "description": "Emit new event for each new attendee in an event.",
+  "type": "source",
+  "version": "0.0.1"
+}

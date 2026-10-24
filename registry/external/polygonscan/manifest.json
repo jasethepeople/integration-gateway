@@ -1,0 +1,21 @@
+{
+  "app": "polygonscan",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "address": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "polygonscan-get-account-balance",
+    "polygonscan-query-contract-abi",
+    "polygonscan-retrieve-transaction-details",
+    "polygonscan-transaction-posted"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "fellow-archive-action-item",
+  "name": "Archive Action Item",
+  "description": "Archive an action item. [See the documentation](https://developers.fellow.ai/reference/apps_developer_api_api_archive_action_item)",
+  "type": "action",
+  "version": "0.0.1"
+}

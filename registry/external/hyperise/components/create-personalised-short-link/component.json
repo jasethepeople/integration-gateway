@@ -1,0 +1,7 @@
+{
+  "key": "hyperise-create-personalised-short-link",
+  "name": "Create Personalised Short Link",
+  "description": "Creates a personalised short URL from provided inputs. [See the documentation](https://support.hyperise.com/en/api/Personalised-Short-Links-API)",
+  "type": "action",
+  "version": "0.0.2"
+}

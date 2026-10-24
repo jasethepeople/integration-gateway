@@ -1,0 +1,29 @@
+{
+  "app": "influxdb_cloud",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "bucketId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "scriptId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "influxdb_cloud-invoke-script",
+    "influxdb_cloud-list-bucket-id-options",
+    "influxdb_cloud-list-script-id-options",
+    "influxdb_cloud-update-bucket",
+    "influxdb_cloud-write-data",
+    "influxdb_cloud-new-bucket-created",
+    "influxdb_cloud-new-script-created",
+    "influxdb_cloud-new-task-completed"
+  ]
+}

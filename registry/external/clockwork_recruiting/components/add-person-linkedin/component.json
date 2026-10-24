@@ -1,0 +1,7 @@
+{
+  "key": "clockwork_recruiting-add-person-linkedin",
+  "name": "Add Linkedin URL",
+  "description": "Add a linkedin URL to a specific person. [See the documentation](https://app.swaggerhub.com/apis-docs/clockwork-recruiting/cw-public-api/3.0.0#/Person%20Linkedin/post_people__person_id__linkedin_urls)",
+  "type": "action",
+  "version": "0.0.2"
+}

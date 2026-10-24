@@ -1,0 +1,239 @@
+{
+  "app": "add_to_calendar_pro",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "groupProKey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "styleId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "landingPageTemplateId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "rsvpTemplateId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "ctaTemplateId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "eventProKey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customDomainId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "emailTemplateId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "titleEventSeries": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "simplifiedRecurrence": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "recurrence": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recurrenceSimpleType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recurrenceInterval": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "recurrenceByDay": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recurrenceByMonth": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recurrenceByMonthDay": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recurrenceCount": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "recurrenceWeekStart": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "iCalFileName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "rsvp": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "distribution": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "hideButton": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "cta": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "landingPageTemplateName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "intro": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "legal": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "highlightColor": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "backgroundColor1": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "backgroundColor2": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "background": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "gradientDirection": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "imageRepeat": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "metaTitleOverride": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "metaDescriptionOverride": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "metaRobotsOverride": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "eventGroupName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "internalNote": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subscriptionCalUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "rsvpTemplateName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "rsvpTemplateMax": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "rsvpTemplateMaxPP": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "expires": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maybeOption": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "initialConfirmation": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "doi": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "headline": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "text": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "add_to_calendar_pro-create-event-group",
+    "add_to_calendar_pro-create-event",
+    "add_to_calendar_pro-create-landing-page-template",
+    "add_to_calendar_pro-create-rsvp-template",
+    "add_to_calendar_pro-delete-event-group",
+    "add_to_calendar_pro-delete-event",
+    "add_to_calendar_pro-delete-landing-page-template",
+    "add_to_calendar_pro-delete-rsvp-template",
+    "add_to_calendar_pro-get-event-group",
+    "add_to_calendar_pro-get-event",
+    "add_to_calendar_pro-get-ics-data",
+    "add_to_calendar_pro-get-landing-page-template",
+    "add_to_calendar_pro-get-rsvp-template",
+    "add_to_calendar_pro-list-cta-template-id-options",
+    "add_to_calendar_pro-list-custom-domain-id-options",
+    "add_to_calendar_pro-list-event-pro-key-options",
+    "add_to_calendar_pro-list-group-pro-key-options",
+    "add_to_calendar_pro-list-style-id-options",
+    "add_to_calendar_pro-update-event-group",
+    "add_to_calendar_pro-update-event",
+    "add_to_calendar_pro-update-landing-page-template",
+    "add_to_calendar_pro-update-rsvp-template",
+    "add_to_calendar_pro-event-deleted-instant",
+    "add_to_calendar_pro-event-group-deleted-instant",
+    "add_to_calendar_pro-event-group-updated-instant",
+    "add_to_calendar_pro-event-updated-instant",
+    "add_to_calendar_pro-new-event-created-instant",
+    "add_to_calendar_pro-new-event-group-created-instant",
+    "add_to_calendar_pro-new-rsvp-answer-instant",
+    "add_to_calendar_pro-rsvp-answer-updated-instant"
+  ]
+}

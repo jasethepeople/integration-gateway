@@ -1,0 +1,7 @@
+{
+  "key": "search_api-google-search",
+  "name": "Google Search API",
+  "description": "Run a Google web search. Returns `organic_results` alongside whichever other blocks Google included for the query [See the documentation](https://www.searchapi.io/docs/google)",
+  "type": "action",
+  "version": "0.0.4"
+}

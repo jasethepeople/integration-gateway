@@ -1,0 +1,69 @@
+{
+  "app": "intellihr",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "personId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workRightId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dateOfBirth": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "gender": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "employeeNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "tenant_name": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "intellihr-create-person",
+    "intellihr-find-person",
+    "intellihr-list-job-id-options",
+    "intellihr-list-work-right-id-options",
+    "intellihr-update-person",
+    "intellihr-new-job-instant",
+    "intellihr-new-person-instant",
+    "intellihr-new-training-instant"
+  ]
+}

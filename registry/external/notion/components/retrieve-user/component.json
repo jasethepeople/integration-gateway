@@ -1,0 +1,7 @@
+{
+  "key": "notion-retrieve-user",
+  "name": "Retrieve User",
+  "description": "Returns a user using the ID specified. [See the documentation](https://developers.notion.com/reference/get-user)",
+  "type": "action",
+  "version": "0.0.6"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "talenthr-create-employee",
+  "name": "Create Employee",
+  "description": "Hires a new employee and registers them in the system. [See the documentation](https://apidocs.talenthr.io/#2950f0ba-b27b-4d4b-855f-4b79b667767c)",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,100 @@
+{
+  "app": "textlocal",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "inboxId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "sender": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "message": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "numbers": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "number": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "custom1": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "custom2": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "custom3": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "simpleReply": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "scheduleTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "receiptUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "custom": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "optouts": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "validity": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "unicode": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "trackingLinks": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "test": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "textlocal-create-contact",
+    "textlocal-list-group-id-options",
+    "textlocal-list-inbox-id-options",
+    "textlocal-send-sms",
+    "textlocal-new-contact",
+    "textlocal-new-inbox-message",
+    "textlocal-new-sent-api-message"
+  ]
+}

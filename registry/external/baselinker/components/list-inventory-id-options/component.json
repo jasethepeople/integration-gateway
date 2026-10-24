@@ -1,0 +1,7 @@
+{
+  "key": "baselinker-list-inventory-id-options",
+  "name": "List Inventory ID Options",
+  "description": "Retrieves available options for the Inventory ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

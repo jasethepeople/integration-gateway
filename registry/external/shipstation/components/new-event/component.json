@@ -1,0 +1,7 @@
+{
+  "key": "shipstation-new-event",
+  "name": "New Event (Instant)",
+  "description": "Emit new event for each new webhook event received. [See docs here](https://www.shipstation.com/docs/api/webhooks/subscribe/)",
+  "type": "source",
+  "version": "0.0.2"
+}

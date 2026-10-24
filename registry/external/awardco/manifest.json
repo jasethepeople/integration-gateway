@@ -1,0 +1,17 @@
+{
+  "app": "awardco",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "awardco-pull-custom-feed-data",
+    "awardco-pull-social-feed-data",
+    "awardco-recognize-with-recognition-program",
+    "awardco-recognize-without-recognition-program"
+  ]
+}

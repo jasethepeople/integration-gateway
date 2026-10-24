@@ -1,0 +1,7 @@
+{
+  "key": "vestaboard-get-subscriptions",
+  "name": "Get Subscriptions",
+  "description": "Get the list of subscriptions available to the viewer. [See the docs](https://swagger.vestaboard.com/docs/vestaboard/b3A6MTYwMTA4OTQ-get-v2-0-subscriptions)",
+  "type": "action",
+  "version": "0.0.2"
+}

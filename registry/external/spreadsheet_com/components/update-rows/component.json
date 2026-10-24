@@ -1,0 +1,7 @@
+{
+  "key": "spreadsheet_com-update-rows",
+  "name": "Update Rows",
+  "description": "Update existing row(s). [See the documentation](https://developer.spreadsheet.com/#tag/Rows/operation/updateRows)",
+  "type": "action",
+  "version": "0.0.2"
+}

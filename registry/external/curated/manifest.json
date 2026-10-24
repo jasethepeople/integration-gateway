@@ -1,0 +1,19 @@
+{
+  "app": "curated",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "curated-create-link",
+    "curated-list-publication-id-options",
+    "curated-new-email-subscribed",
+    "curated-new-email-unsubscribed",
+    "curated-new-issue-published",
+    "curated-new-link-created"
+  ]
+}

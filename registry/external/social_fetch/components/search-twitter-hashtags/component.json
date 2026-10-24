@@ -1,0 +1,7 @@
+{
+  "key": "social_fetch-search-twitter-hashtags",
+  "name": "Search Twitter Hashtags",
+  "description": "Searches Twitter for hashtag data matching a query. [See the documentation](https://app.socialfetch.dev/playground?path=/v1/twitter/hashtags&method=GET)",
+  "type": "action",
+  "version": "0.0.1"
+}

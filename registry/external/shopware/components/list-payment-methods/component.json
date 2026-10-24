@@ -1,0 +1,7 @@
+{
+  "key": "shopware-list-payment-methods",
+  "name": "List Payment Methods",
+  "description": "List all payment methods. [See the documentation](https://shopware.stoplight.io/docs/admin-api/0ffc5a34d40e4-list-with-basic-information-of-payment-method-resources)",
+  "type": "action",
+  "version": "0.0.1"
+}

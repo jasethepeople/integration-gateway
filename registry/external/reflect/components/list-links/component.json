@@ -1,0 +1,7 @@
+{
+  "key": "reflect-list-links",
+  "name": "List Links",
+  "description": "Retieve all links for a graph. [See the documentation](https://openpm.ai/apis/reflect#/graphs/{graphId}/links)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "_302_ai-list-chat-completion-model-id-options",
+  "name": "List Chat Completion Model ID Options",
+  "description": "Retrieves available options for the Chat Completion Model ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

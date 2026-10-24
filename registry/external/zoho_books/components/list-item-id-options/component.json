@@ -1,0 +1,7 @@
+{
+  "key": "zoho_books-list-item-id-options",
+  "name": "List Item Id Options",
+  "description": "Retrieves available options for the Item Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

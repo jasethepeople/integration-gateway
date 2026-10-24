@@ -1,0 +1,7 @@
+{
+  "key": "trello-new-board",
+  "name": "New Board (Instant)",
+  "description": "Emit new event for each new board added.",
+  "type": "source",
+  "version": "0.1.6"
+}

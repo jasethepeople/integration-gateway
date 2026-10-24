@@ -1,0 +1,7 @@
+{
+  "key": "edusign-new-document-created",
+  "name": "New Document Created",
+  "description": "Emit new event when a new document is created. [See the documentation](https://developers.edusign.com/reference/getdocuments)",
+  "type": "source",
+  "version": "0.0.1"
+}

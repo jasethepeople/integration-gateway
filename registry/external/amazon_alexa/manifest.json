@@ -1,0 +1,35 @@
+{
+  "app": "amazon_alexa",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "skillId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "stage": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "inputContent": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "deviceLocale": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "simulationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "amazon_alexa-get-simulation-results",
+    "amazon_alexa-simulate-skill"
+  ]
+}

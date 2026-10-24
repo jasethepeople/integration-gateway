@@ -1,0 +1,7 @@
+{
+  "key": "orderspace-create-customer",
+  "name": "Create Customer",
+  "description": "Create a new customer. [See the documentation](https://apidocs.orderspace.com/#create-a-customer)",
+  "type": "action",
+  "version": "0.0.2"
+}

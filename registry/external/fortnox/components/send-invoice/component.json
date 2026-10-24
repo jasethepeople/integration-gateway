@@ -1,0 +1,7 @@
+{
+  "key": "fortnox-send-invoice",
+  "name": "Send Invoice",
+  "description": "Sends an invoice in the Fortnox API. [See the documentation](https://api.fortnox.se/apidocs#tag/fortnox_Invoices/operation/eInvoice).",
+  "type": "action",
+  "version": "0.0.2"
+}

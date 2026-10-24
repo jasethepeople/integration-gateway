@@ -1,0 +1,16 @@
+{
+  "app": "iterate",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "iterate-list-survey-id-options",
+    "iterate-new-question-answer-received",
+    "iterate-new-survey-response-received"
+  ]
+}

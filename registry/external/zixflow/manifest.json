@@ -1,0 +1,76 @@
+{
+  "app": "zixflow",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "activityId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "associationType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "associatedId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "statusId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "iconType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "iconValue": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "scheduleAt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "filter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sort": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "offset": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zixflow-create-activity",
+    "zixflow-delete-activity",
+    "zixflow-get-activities",
+    "zixflow-list-activity-id-options",
+    "zixflow-list-association-type-options",
+    "zixflow-list-status-id-options",
+    "zixflow-update-activity"
+  ]
+}

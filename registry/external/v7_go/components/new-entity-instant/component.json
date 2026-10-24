@@ -1,0 +1,7 @@
+{
+  "key": "v7_go-new-entity-instant",
+  "name": "New Entity Created (Instant)",
+  "description": "Emit new event when an entity is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

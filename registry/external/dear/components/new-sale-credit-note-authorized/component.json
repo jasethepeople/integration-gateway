@@ -1,0 +1,7 @@
+{
+  "key": "dear-new-sale-credit-note-authorized",
+  "name": "New Sale Credit Note Authorized",
+  "description": "Emit new event when a sale credit note is authorized",
+  "type": "source",
+  "version": "0.0.1"
+}

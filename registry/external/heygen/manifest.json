@@ -1,0 +1,82 @@
+{
+  "app": "heygen",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "customEvents": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "avatarLookLimit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "token": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "videoId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "folderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "videoFields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "avatarLookFields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "avatarType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "avatarOwnership": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "voiceType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "voiceLanguage": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "voiceGender": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "titleFilter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "heygen-list-avatar-look-id-options",
+    "heygen-list-custom-events-options",
+    "heygen-list-template-id-options",
+    "heygen-list-videos",
+    "heygen-list-voice-id-options",
+    "heygen-retrieve-video-link",
+    "heygen-new-avatar-video-custom-event",
+    "heygen-new-avatar-video-failure",
+    "heygen-new-avatar-video-success"
+  ]
+}

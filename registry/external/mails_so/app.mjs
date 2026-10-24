@@ -1,0 +1,45 @@
+import { axios } from "../_platform-shim.mjs";
+
+const __pdApp = {
+  type: "app",
+  app: "mails_so",
+  propDefinitions: {
+    email: {
+      type: "string",
+      label: "Email",
+      description: "Email to validate",
+    },
+  },
+  methods: {
+    _baseUrl() {
+      return "https://api.mails.so/v1";
+    },
+    async _makeRequest(opts = {}) {
+      const {
+        $ = this,
+        path,
+        headers,
+        ...otherOpts
+      } = opts;
+      return axios($, {
+        ...otherOpts,
+        url: this._baseUrl() + path,
+        headers: {
+          ...headers,
+          "x-mails-api-key": `${this.$auth.api_key}`,
+        },
+      });
+    },
+    async validateEmail(args = {}) {
+      return this._makeRequest({
+        method: "post",
+        path: "/validate",
+        ...args,
+      });
+    },
+  },
+};
+
+export default __pdApp;
+import { __pdBindAuth as __pdBind } from "../_platform-shim.mjs";
+__pdBind(__pdApp, "mails_so");

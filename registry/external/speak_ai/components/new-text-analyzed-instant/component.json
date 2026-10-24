@@ -1,0 +1,7 @@
+{
+  "key": "speak_ai-new-text-analyzed-instant",
+  "name": "New Text Analyzed (Instant)",
+  "description": "Emit new event when a new text is analyzed. Useful for initiating workflows based on new text analysis. [See the documentation](https://docs.speakai.co/api/webhooks/#post-webhook).",
+  "type": "source",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "deployhq-deploy-complete",
+  "name": "New Deploy Complete",
+  "description": "Emit new event when a deploy is completed",
+  "type": "source",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "chartmogul-merge-customers",
+  "name": "Merge Customers",
+  "description": "Accepts details of two customer objects that you want to merge. [See the docs here](https://dev.chartmogul.com/reference/merge-customers)",
+  "type": "action",
+  "version": "0.0.2"
+}

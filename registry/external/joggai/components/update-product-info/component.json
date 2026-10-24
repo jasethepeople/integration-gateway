@@ -1,0 +1,7 @@
+{
+  "key": "joggai-update-product-info",
+  "name": "Update Product Info",
+  "description": "Updates product info using JoggAI API. [See the documentation](https://docs.jogg.ai/api-reference/URL-to-Video/UpdateProduct)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "launchdarkly-list-feature-flags",
+  "name": "List Feature Flags",
+  "description": "List all feature flags. [See the documentation](https://launchdarkly.com/docs/api/feature-flags/get-feature-flags).",
+  "type": "action",
+  "version": "0.0.3"
+}

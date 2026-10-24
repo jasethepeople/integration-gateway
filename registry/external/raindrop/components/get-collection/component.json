@@ -1,0 +1,7 @@
+{
+  "key": "raindrop-get-collection",
+  "name": "Get Collection",
+  "description": "Get collection. [See the docs here](https://developer.raindrop.io/v1/collections/methods#get-collection)",
+  "type": "action",
+  "version": "0.0.6"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "statuspage-new-incident-created",
+  "name": "New Incident Created (Instant)",
+  "description": "Emit new event on each created incident.",
+  "type": "source",
+  "version": "0.0.4"
+}

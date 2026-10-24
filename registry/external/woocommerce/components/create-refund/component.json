@@ -1,0 +1,7 @@
+{
+  "key": "woocommerce-create-refund",
+  "name": "Create Refund",
+  "description": "Create a new refund for an order. [See the docs](https://woocommerce.github.io/woocommerce-rest-api-docs/#create-a-refund)",
+  "type": "action",
+  "version": "0.0.1"
+}

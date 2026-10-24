@@ -1,0 +1,7 @@
+{
+  "key": "parsio_io-list-mailbox-id-options",
+  "name": "List Mailbox ID Options",
+  "description": "Retrieves available options for the Mailbox ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

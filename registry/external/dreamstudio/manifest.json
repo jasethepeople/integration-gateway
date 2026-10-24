@@ -1,0 +1,77 @@
+{
+  "app": "dreamstudio",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "cfgScale": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "clipGuidancePreset": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "engineId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "extras": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "height": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "organizationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sampler": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "samples": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "seed": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "steps": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "stylePreset": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "textPrompts": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "width": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dreamstudio-generate-image",
+    "dreamstudio-list-organization-id-options",
+    "dreamstudio-modify-image",
+    "dreamstudio-upscale-image"
+  ],
+  "npmImports": [
+    "form-data",
+    "fs",
+    "got",
+    "moment",
+    "stream",
+    "util"
+  ]
+}

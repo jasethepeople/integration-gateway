@@ -1,0 +1,7 @@
+{
+  "key": "workflow_max-list-client-group-uuid-options",
+  "name": "List Client Group Options",
+  "description": "Retrieves available options for the Client Group field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "getprospect-verify-email",
+  "name": "Verify Email",
+  "description": "Verify an email address. [See the documentation](https://getprospect.readme.io/reference/publicapiemailcontroller_sendbounceemail)",
+  "type": "action",
+  "version": "0.0.1"
+}

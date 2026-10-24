@@ -1,0 +1,46 @@
+{
+  "app": "streamtime",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "toDoId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "statusId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "streamtime-create-contact",
+    "streamtime-create-job",
+    "streamtime-list-company-id-options",
+    "streamtime-list-job-id-options",
+    "streamtime-list-to-do-id-options",
+    "streamtime-list-user-id-options",
+    "streamtime-update-to-do",
+    "streamtime-new-job-created",
+    "streamtime-new-to-do-created"
+  ]
+}

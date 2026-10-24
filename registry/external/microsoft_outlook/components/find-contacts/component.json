@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_outlook-find-contacts",
+  "name": "Find Contacts",
+  "description": "Search and list contacts in the authenticated user's Outlook contacts.",
+  "type": "action",
+  "version": "1.0.2"
+}

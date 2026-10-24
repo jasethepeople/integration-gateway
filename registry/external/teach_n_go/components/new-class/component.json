@@ -1,0 +1,7 @@
+{
+  "key": "teach_n_go-new-class",
+  "name": "New Class Created",
+  "description": "Emit new event when a class is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

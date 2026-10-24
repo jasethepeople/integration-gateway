@@ -1,0 +1,7 @@
+{
+  "key": "surecart-update-purchase",
+  "name": "Update Purchase",
+  "description": "Update an existing purchase, such as scheduling a revocation. [See the documentation](https://developer.surecart.com/api-reference/purchases/update)",
+  "type": "action",
+  "version": "0.0.3"
+}

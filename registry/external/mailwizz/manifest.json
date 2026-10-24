@@ -1,0 +1,61 @@
+{
+  "app": "mailwizz",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fname": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lname": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "listId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "segmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subscriberId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mailwizz-add-subscriber",
+    "mailwizz-create-campaign",
+    "mailwizz-list-campaign-id-options",
+    "mailwizz-list-list-id-options",
+    "mailwizz-list-template-id-options",
+    "mailwizz-update-subscriber",
+    "mailwizz-email-sent",
+    "mailwizz-subscriber-added"
+  ],
+  "npmImports": [
+    "moment",
+    "qs"
+  ]
+}

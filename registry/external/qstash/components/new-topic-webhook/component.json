@@ -1,0 +1,7 @@
+{
+  "key": "qstash-new-topic-webhook",
+  "name": "New Topic Webhook",
+  "description": "Emit new events on each new QStash topic message",
+  "type": "source",
+  "version": "0.0.1"
+}

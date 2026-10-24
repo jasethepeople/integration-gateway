@@ -1,0 +1,25 @@
+{
+  "app": "klaxoon",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "boardId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ideaId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "klaxoon-create-board",
+    "klaxoon-create-idea",
+    "klaxoon-list-board-id-options",
+    "klaxoon-update-idea"
+  ]
+}

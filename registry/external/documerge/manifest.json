@@ -1,0 +1,30 @@
+{
+  "app": "documerge",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "documentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "routeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "documerge-combine-files",
+    "documerge-convert-file-to-pdf",
+    "documerge-get-document-fields",
+    "documerge-list-route-id-options",
+    "documerge-new-merged-document-instant",
+    "documerge-new-merged-route-instant"
+  ],
+  "npmImports": [
+    "fs"
+  ]
+}

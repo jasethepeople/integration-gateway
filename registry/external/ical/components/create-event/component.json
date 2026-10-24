@@ -1,0 +1,7 @@
+{
+  "key": "ical-create-event",
+  "name": "Create Event",
+  "description": "Create an event in a calendar. [See the documentation](https://icalendar.org/)",
+  "type": "action",
+  "version": "0.0.1"
+}

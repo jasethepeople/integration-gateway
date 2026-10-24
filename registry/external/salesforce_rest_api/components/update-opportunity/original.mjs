@@ -1,0 +1,74 @@
+import common, { getProps } from "../../shared/actions/common/base-create-update.mjs";
+import opportunity from "../../shared/common/sobjects/opportunity.mjs";
+import salesforce from "../../app.mjs";
+import { docsLink } from "../create-opportunity/original.mjs";
+
+/* eslint-disable no-unused-vars */
+const {
+  salesforce: _sf, ...props
+} = getProps({
+  createOrUpdate: "update",
+  objType: opportunity,
+  docsLink,
+  showDateInfo: true,
+});
+/* eslint-enable no-unused-vars */
+
+export default {
+  ...common,
+  key: "salesforce_rest_api-update-opportunity",
+  name: "Update Opportunity",
+  description: "Update fields on an existing Salesforce opportunity, such as moving it to a new stage."
+    + " Use **Describe Object** on `Opportunity` to list the valid `StageName` values for your org."
+    + " Only the fields you supply change; everything else is left as-is."
+    + " "
+    + `[See the documentation](${docsLink})`,
+  version: "0.4.1",
+  annotations: {
+    destructiveHint: false,
+    openWorldHint: true,
+    readOnlyHint: false,
+  },
+  type: "action",
+  ai: "optimized",
+  methods: {
+    ...common.methods,
+  },
+  props: {
+    salesforce,
+    opportunityId: {
+      type: "string",
+      label: "Opportunity ID",
+      description: "The ID of the Opportunity to update (Salesforce's 15- or 18-character record ID, e.g. `006XX000004TmXY`). Use **SOQL Query** to find the ID.",
+    },
+    ...props,
+  },
+  async run({ $ }) {
+    /* eslint-disable no-unused-vars */
+    const {
+      salesforce,
+      getAdditionalFields,
+      formatDateTimeProps,
+      opportunityId,
+      docsInfo,
+      dateInfo,
+      additionalFields,
+      CloseDate,
+      ...data
+    } = this;
+    /* eslint-enable no-unused-vars */
+    const response = await salesforce.updateRecord("Opportunity", {
+      $,
+      id: opportunityId,
+      data: {
+        ...data,
+        ...formatDateTimeProps({
+          CloseDate,
+        }),
+        ...getAdditionalFields(),
+      },
+    });
+    $.export("$summary", `Successfully updated opportunity (ID: ${opportunityId})`);
+    return response;
+  },
+};

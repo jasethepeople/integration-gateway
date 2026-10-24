@@ -1,0 +1,7 @@
+{
+  "key": "smartsheet-new-row-updated",
+  "name": "New Row Updated (Instant)",
+  "description": "Emit new event when a row is updated in a sheet.",
+  "type": "source",
+  "version": "0.0.8"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "americommerce-list-subscription-id-options",
+  "name": "List Subscription ID Options",
+  "description": "Retrieves available options for the Subscription ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "app": "webinarkit",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "webinarId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "webinarDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "webinarkit-list-scheduled-sessions",
+    "webinarkit-list-webinars",
+    "webinarkit-register-attendee",
+    "webinarkit-webinar-created"
+  ]
+}

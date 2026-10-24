@@ -1,0 +1,7 @@
+{
+  "key": "dynapictures-new-image-instant",
+  "name": "New Image (Instant)",
+  "description": "Emit new event when an image has been generated. [See the documentation](https://dynapictures.com/docs/#webhook-notification)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "thanks_io-list-sub-account-options",
+  "name": "List Sub Account Options",
+  "description": "Retrieves available options for the Sub Account field.",
+  "type": "action",
+  "version": "0.0.1"
+}

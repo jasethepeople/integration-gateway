@@ -1,0 +1,82 @@
+{
+  "app": "basecamp",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "messageBoardId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recordingId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recordingType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "peopleIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "todoSetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "campfireId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "todoListId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "messageTypeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cardTableId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "columnId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cardId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "botId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "basecamp-create-campfire-chatbot-message",
+    "basecamp-create-campfire-message",
+    "basecamp-create-card",
+    "basecamp-create-comment",
+    "basecamp-create-message",
+    "basecamp-create-todo-item",
+    "basecamp-list-account-id-options",
+    "basecamp-new-comment-created",
+    "basecamp-new-event-by-webhook-type",
+    "basecamp-new-message-created",
+    "basecamp-new-to-do-item-created",
+    "basecamp-new-to-do-item-status",
+    "basecamp-new-to-do-list-created"
+  ]
+}

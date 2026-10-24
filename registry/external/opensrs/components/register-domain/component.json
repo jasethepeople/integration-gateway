@@ -1,0 +1,7 @@
+{
+  "key": "opensrs-register-domain",
+  "name": "Register Domain",
+  "description": "Register a new domain. [See the documentation](https://domains.opensrs.guide/docs/sw_register-domain-or-trust_service-).",
+  "type": "action",
+  "version": "0.0.2"
+}

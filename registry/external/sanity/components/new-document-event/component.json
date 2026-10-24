@@ -1,0 +1,7 @@
+{
+  "key": "sanity-new-document-event",
+  "name": "New Document Event (Instant)",
+  "description": "Emit new event when a new document is created. [See the documentation](https://www.sanity.io/docs/http-reference/webhooks#createWebhook)",
+  "type": "source",
+  "version": "0.0.1"
+}

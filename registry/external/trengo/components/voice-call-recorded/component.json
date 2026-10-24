@@ -1,0 +1,7 @@
+{
+  "key": "trengo-voice-call-recorded",
+  "name": "New Voice Call Recorded Event (Instant)",
+  "description": "Emit new event when a voice call is recorded. [See the documentation](https://developers.trengo.com/docs/webhooks)",
+  "type": "source",
+  "version": "0.0.11"
+}

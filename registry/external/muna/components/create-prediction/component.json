@@ -1,0 +1,7 @@
+{
+  "key": "muna-create-prediction",
+  "name": "Create A Prediction",
+  "description": "Creates a new prediction using Muna AI. [See the documentation](https://docs.muna.ai/reference/predictions/create)",
+  "type": "action",
+  "version": "0.0.1"
+}

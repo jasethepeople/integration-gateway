@@ -1,0 +1,7 @@
+{
+  "key": "appwrite-create-account",
+  "name": "Create Account",
+  "description": "Register a new account in your project. [See the documentation](https://appwrite.io/docs/references/cloud/client-web/account#create)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,60 @@
+{
+  "app": "loops_so",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "source": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subscribed": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "userGroup": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mailingLists": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "customFields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "loops_so-create-contact",
+    "loops_so-delete-contact",
+    "loops_so-find-contact",
+    "loops_so-list-custom-fields",
+    "loops_so-list-mailing-lists",
+    "loops_so-send-event",
+    "loops_so-send-transactional-email",
+    "loops_so-update-contact"
+  ],
+  "npmImports": [
+    "lodash.pickby"
+  ]
+}

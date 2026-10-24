@@ -1,0 +1,7 @@
+{
+  "key": "openrouter-retrieve-available-models",
+  "name": "Retrieve Available Models",
+  "description": "Returns a list of models available through the API. [See the documentation](https://openrouter.ai/docs/api-reference/list-available-models)",
+  "type": "action",
+  "version": "0.0.2"
+}

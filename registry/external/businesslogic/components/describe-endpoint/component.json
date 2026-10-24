@@ -1,0 +1,7 @@
+{
+  "key": "businesslogic-describe-endpoint",
+  "name": "Describe Endpoint",
+  "description": "Returns json schemas for input and output parameters of a webservice.",
+  "type": "action",
+  "version": "0.0.2"
+}

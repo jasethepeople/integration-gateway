@@ -1,0 +1,7 @@
+{
+  "key": "google_chat-create-message",
+  "name": "Create Message",
+  "description": "Create a message to post a text or an attachment. [See the documentation](https://developers.google.com/chat/api/reference/rest/v1/spaces.messages/create)",
+  "type": "action",
+  "version": "0.0.4"
+}

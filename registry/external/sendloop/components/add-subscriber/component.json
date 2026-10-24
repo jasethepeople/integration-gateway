@@ -1,0 +1,7 @@
+{
+  "key": "sendloop-add-subscriber",
+  "name": "Add Subscriber",
+  "description": "Adds a new subscriber to a specified list.",
+  "type": "action",
+  "version": "0.0.2"
+}

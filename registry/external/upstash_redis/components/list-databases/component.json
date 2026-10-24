@@ -1,0 +1,7 @@
+{
+  "key": "upstash_redis-list-databases",
+  "name": "List Redis Databases",
+  "description": "Lists all Redis databases. [See the documentation](https://upstash.com/docs/devops/developer-api/redis/list_databases)",
+  "type": "action",
+  "version": "0.0.2"
+}

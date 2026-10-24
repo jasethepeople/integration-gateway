@@ -1,0 +1,21 @@
+{
+  "app": "gryd",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "vehicleId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "gryd-get-vehicle-data",
+    "gryd-get-vehicle-dvla-data",
+    "gryd-get-vehicle-mot-data",
+    "gryd-get-vehicle-ulez-data"
+  ]
+}

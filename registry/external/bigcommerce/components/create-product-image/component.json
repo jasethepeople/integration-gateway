@@ -1,0 +1,7 @@
+{
+  "key": "bigcommerce-create-product-image",
+  "name": "Create Product Image",
+  "description": "Create a product image. [See the docs here](https://developer.bigcommerce.com/docs/rest-catalog/products/images#create-a-product-image)",
+  "type": "action",
+  "version": "0.0.2"
+}

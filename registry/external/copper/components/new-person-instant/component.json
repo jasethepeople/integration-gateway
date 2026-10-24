@@ -1,0 +1,7 @@
+{
+  "key": "copper-new-person-instant",
+  "name": "New Person (Instant)",
+  "description": "Emit new event when a person object is newly created in Copper",
+  "type": "source",
+  "version": "0.0.2"
+}

@@ -1,0 +1,96 @@
+{
+  "app": "nutshell",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "companyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "accountTypeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "address": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "audienceId": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "industryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "leadId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "marketId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "territoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "nutshell-create-company",
+    "nutshell-create-contact",
+    "nutshell-create-lead",
+    "nutshell-get-company",
+    "nutshell-get-contact",
+    "nutshell-get-lead",
+    "nutshell-list-account-type-id-options",
+    "nutshell-list-audience-id-options",
+    "nutshell-list-company-id-options",
+    "nutshell-list-contact-id-options",
+    "nutshell-list-industry-id-options",
+    "nutshell-list-lead-id-options",
+    "nutshell-list-market-id-options",
+    "nutshell-list-territory-id-options",
+    "nutshell-search-companies",
+    "nutshell-search-contacts",
+    "nutshell-search-leads",
+    "nutshell-update-company",
+    "nutshell-update-contact",
+    "nutshell-update-lead",
+    "nutshell-lead-won",
+    "nutshell-new-lead",
+    "nutshell-new-person"
+  ]
+}

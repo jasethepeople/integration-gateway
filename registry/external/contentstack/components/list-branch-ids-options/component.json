@@ -1,0 +1,7 @@
+{
+  "key": "contentstack-list-branch-ids-options",
+  "name": "List Branches Options",
+  "description": "Retrieves available options for the Branches field.",
+  "type": "action",
+  "version": "0.0.1"
+}

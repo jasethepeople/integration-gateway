@@ -1,0 +1,14 @@
+{
+  "app": "lobste_rs",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "lobste_rs-new-comment-in-thread",
+    "lobste_rs-new-story-by-user"
+  ],
+  "npmImports": [
+    "feedparser",
+    "object-hash"
+  ]
+}

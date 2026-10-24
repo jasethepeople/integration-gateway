@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_outlook-send-email",
+  "name": "Send Email",
+  "description": "Send a new email, reply to an existing message, or save a draft — all in one tool.",
+  "type": "action",
+  "version": "0.1.5"
+}

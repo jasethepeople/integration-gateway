@@ -1,0 +1,21 @@
+{
+  "app": "data_stores",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "data_stores-add-update-multiple-records",
+    "data_stores-add-update-record",
+    "data_stores-append-to-record",
+    "data_stores-delete-all-records",
+    "data_stores-delete-single-record",
+    "data_stores-get-all-records",
+    "data_stores-get-difference",
+    "data_stores-get-record-keys",
+    "data_stores-get-record-or-create",
+    "data_stores-has-key-or-create",
+    "data_stores-list-keys",
+    "data_stores-list-records",
+    "data_stores-update-ttl"
+  ]
+}

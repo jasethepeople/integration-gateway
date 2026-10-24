@@ -1,0 +1,15 @@
+{
+  "app": "welcome",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "welcome-event-created",
+    "welcome-event-updated"
+  ]
+}

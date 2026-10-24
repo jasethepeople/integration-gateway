@@ -1,0 +1,7 @@
+{
+  "key": "api4ai-background-removal",
+  "name": "Background Removal",
+  "description": "Automatically and quickly remove image background with high accuracy. Powered by API4AI.",
+  "type": "action",
+  "version": "0.0.6"
+}

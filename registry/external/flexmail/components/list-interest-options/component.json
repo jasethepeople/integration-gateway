@@ -1,0 +1,7 @@
+{
+  "key": "flexmail-list-interest-options",
+  "name": "List Interest Options",
+  "description": "Retrieves available options for the Interest field.",
+  "type": "action",
+  "version": "0.0.1"
+}

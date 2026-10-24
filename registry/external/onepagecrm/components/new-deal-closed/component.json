@@ -1,0 +1,7 @@
+{
+  "key": "onepagecrm-new-deal-closed",
+  "name": "New Deal Closed",
+  "description": "Emit new event when a deal is successfully closed in the CRM.",
+  "type": "source",
+  "version": "0.0.1"
+}

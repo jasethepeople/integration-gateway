@@ -1,0 +1,7 @@
+{
+  "key": "google_contacts-update-contact-group",
+  "name": "Update Contact Group",
+  "description": "Updates the name of an existing contact group. [See the documentation](https://developers.google.com/people/api/rest/v1/contactGroups/update)",
+  "type": "action",
+  "version": "0.0.3"
+}

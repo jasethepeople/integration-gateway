@@ -1,0 +1,7 @@
+{
+  "key": "documerge-list-route-id-options",
+  "name": "List Route ID Options",
+  "description": "Retrieves available options for the Route ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

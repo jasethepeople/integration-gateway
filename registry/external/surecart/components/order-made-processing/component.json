@@ -1,0 +1,7 @@
+{
+  "key": "surecart-order-made-processing",
+  "name": "Order Made Processing (Instant)",
+  "description": "Emit new event when an order is moved to processing status. [See the documentation](https://developer.surecart.com/api-reference/webhook-endpoints/create)",
+  "type": "source",
+  "version": "0.0.3"
+}

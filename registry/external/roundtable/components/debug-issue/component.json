@@ -1,0 +1,7 @@
+{
+  "key": "roundtable-debug-issue",
+  "name": "Debug Issue",
+  "description": "Debug an issue using multiple AI models analyzing the problem from different angles. [See the documentation](https://roundtable.now)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "humanitix-get-events",
+  "name": "Get Events",
+  "description": "Retrieves a list of events from Humanitix. [See the documentation](https://humanitix.stoplight.io/docs/humanitix-public-api/476881e4b5d55-get-events)",
+  "type": "action",
+  "version": "0.0.1"
+}

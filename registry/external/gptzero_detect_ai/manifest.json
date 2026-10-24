@@ -1,0 +1,18 @@
+{
+  "app": "gptzero_detect_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "gptzero_detect_ai-scan-file",
+    "gptzero_detect_ai-scan-text"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

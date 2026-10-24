@@ -1,0 +1,7 @@
+{
+  "key": "plainly-new-render-completed",
+  "name": "New Render Completed",
+  "description": "Emit new event when a video render job finishes successfully.",
+  "type": "source",
+  "version": "0.0.1"
+}

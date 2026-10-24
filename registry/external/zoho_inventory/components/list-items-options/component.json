@@ -1,0 +1,7 @@
+{
+  "key": "zoho_inventory-list-items-options",
+  "name": "List Item Options",
+  "description": "Retrieves available options for the Item field.",
+  "type": "action",
+  "version": "0.0.1"
+}

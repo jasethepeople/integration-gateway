@@ -1,0 +1,7 @@
+{
+  "key": "upkeep-find-user",
+  "name": "Find User",
+  "description": "Finds users according to props configured, if no prop configured returns all users, [See the docs](https://developers.onupkeep.com/#get-all-users)",
+  "type": "action",
+  "version": "0.0.3"
+}

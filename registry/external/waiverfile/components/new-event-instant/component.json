@@ -1,0 +1,7 @@
+{
+  "key": "waiverfile-new-event-instant",
+  "name": "New Event (Instant)",
+  "description": "Emit new event when a new event is created in Waiverfile. [See the documentation](https://api.waiverfile.com/swagger/ui/index#!/Subscription/Subscription_newevent)",
+  "type": "source",
+  "version": "0.0.1"
+}

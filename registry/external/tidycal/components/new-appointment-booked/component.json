@@ -1,0 +1,7 @@
+{
+  "key": "tidycal-new-appointment-booked",
+  "name": "New Appointment Booked",
+  "description": "Triggered when a new appointment is booked using TidyCal. [See the documentation](https://tidycal.com/developer/docs/#tag/Bookings/operation/list-bookings)",
+  "type": "source",
+  "version": "0.0.1"
+}

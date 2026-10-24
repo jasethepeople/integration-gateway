@@ -1,0 +1,7 @@
+{
+  "key": "leaddyno-create-lead",
+  "name": "Create Lead",
+  "description": "Creates a new lead in LeadDyno. [See the documentation](https://app.theneo.io/leaddyno/leaddyno-rest-api/leaddyno-api#POSTCreate-a-lead)",
+  "type": "action",
+  "version": "0.0.2"
+}

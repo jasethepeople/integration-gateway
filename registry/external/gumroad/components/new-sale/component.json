@@ -1,0 +1,7 @@
+{
+  "key": "gumroad-new-sale",
+  "name": "New Sale",
+  "description": "Emit new event on each new sale.",
+  "type": "source",
+  "version": "0.0.4"
+}

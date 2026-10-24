@@ -1,0 +1,7 @@
+{
+  "key": "navan-create-user",
+  "name": "Create User",
+  "description": "Creates a new user in the system. [See the documentation](https://u.pcloud.link/publink/show?code=XZ7Bww5ZoKb93VNf7ISOdR5UzVo6JzBLs7AX)",
+  "type": "action",
+  "version": "0.0.1"
+}

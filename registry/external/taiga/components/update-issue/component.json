@@ -1,0 +1,7 @@
+{
+  "key": "taiga-update-issue",
+  "name": "Update Issue",
+  "description": "Update an existing issue in a Taiga project. [See the documentation](https://docs.taiga.io/api.html#issues-edit)",
+  "type": "action",
+  "version": "0.0.2"
+}

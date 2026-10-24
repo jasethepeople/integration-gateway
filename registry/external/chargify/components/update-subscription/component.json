@@ -1,0 +1,7 @@
+{
+  "key": "chargify-update-subscription",
+  "name": "Update Subscription",
+  "description": "Modifies an existing subscription in Chargify. [See the documentation](https://developers.maxio.com/http/advanced-billing-api/api-endpoints/subscriptions/update-subscription)",
+  "type": "action",
+  "version": "0.0.2"
+}

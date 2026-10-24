@@ -1,0 +1,7 @@
+{
+  "key": "avinode-create-trip",
+  "name": "Create Trip",
+  "description": "Create a trip in Avinode. [See the documentation](https://developer.avinodegroup.com/reference/createtrip)",
+  "type": "action",
+  "version": "0.0.2"
+}

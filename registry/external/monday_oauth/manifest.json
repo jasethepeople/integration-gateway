@@ -1,0 +1,15 @@
+{
+  "app": "monday_oauth",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [],
+  "npmImports": [
+    "@mondaydotcomorg/api"
+  ]
+}

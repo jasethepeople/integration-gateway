@@ -1,0 +1,7 @@
+{
+  "key": "freshservice-list-ticket-id-options",
+  "name": "List Ticket ID Options",
+  "description": "Retrieves available options for the Ticket ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zenrows-get-api-usage",
+  "name": "Get API Usage",
+  "description": "Get Zenrows API usage. [See the documentation](https://www.zenrows.com/docs#usage-curl)",
+  "type": "action",
+  "version": "0.0.2"
+}

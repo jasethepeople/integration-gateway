@@ -1,0 +1,7 @@
+{
+  "key": "totango-new-task-created",
+  "name": "New Task Created",
+  "description": "Emit new event for each created task. [See the docs](https://support.totango.com/hc/en-us/articles/360048132792-Search-API-events-)",
+  "type": "source",
+  "version": "0.0.1"
+}

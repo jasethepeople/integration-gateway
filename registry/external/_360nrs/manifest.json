@@ -1,0 +1,23 @@
+{
+  "app": "_360nrs",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "message": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phoneNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "from": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "_360nrs-list-phone-number-options",
+    "_360nrs-send-sms"
+  ]
+}

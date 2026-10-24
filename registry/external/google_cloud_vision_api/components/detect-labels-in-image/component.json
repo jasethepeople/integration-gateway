@@ -1,0 +1,7 @@
+{
+  "key": "google_cloud_vision_api-detect-labels-in-image",
+  "name": "Detect Labels in Image",
+  "description": "Performs feature detection on a local or remote image file. [See the documentation](https://cloud.google.com/vision/docs/labels).",
+  "type": "action",
+  "version": "1.0.1"
+}

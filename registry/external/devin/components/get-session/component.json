@@ -1,0 +1,7 @@
+{
+  "key": "devin-get-session",
+  "name": "Get Session",
+  "description": "Retrieve details about an existing session. [See the documentation](https://docs.devin.ai/api-reference/sessions/retrieve-details-about-an-existing-session)",
+  "type": "action",
+  "version": "0.0.2"
+}

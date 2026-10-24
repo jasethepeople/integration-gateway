@@ -1,0 +1,7 @@
+{
+  "key": "triggre-start-automation-flow",
+  "name": "Start Automation Flow",
+  "description": "Starts an automation flow within your Triggre application. [See the documentation](https://docs.triggre.com/lessons/how-to-create-an-incoming-web-api)",
+  "type": "action",
+  "version": "0.0.2"
+}

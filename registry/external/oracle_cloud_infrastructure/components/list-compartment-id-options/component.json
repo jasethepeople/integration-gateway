@@ -1,0 +1,7 @@
+{
+  "key": "oracle_cloud_infrastructure-list-compartment-id-options",
+  "name": "List Compartment ID Options",
+  "description": "Retrieves available options for the Compartment ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

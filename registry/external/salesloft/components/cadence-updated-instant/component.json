@@ -1,0 +1,7 @@
+{
+  "key": "salesloft-cadence-updated-instant",
+  "name": "Cadence Updated (Instant)",
+  "description": "Emit new event when a cadence is updated in Salesloft. [See the documentation](https://developers.salesloft.com/docs/api/webhook-subscriptions/)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "freshlearn-create-course-enrollment",
+  "name": "Create Course Enrollment",
+  "description": "Enrolls an existing member in a new course. [See the documentation](https://freshlearn.com/support/api)",
+  "type": "action",
+  "version": "0.0.2"
+}

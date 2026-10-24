@@ -1,0 +1,7 @@
+{
+  "key": "boldsign-new-document-sent",
+  "name": "New Document Sent",
+  "description": "Emit new event when a document is sent to a signer.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "aircall-list-call-options",
+  "name": "List Call Options",
+  "description": "Retrieves available options for the Call field.",
+  "type": "action",
+  "version": "0.0.1"
+}

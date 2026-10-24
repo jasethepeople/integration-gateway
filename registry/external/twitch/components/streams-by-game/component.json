@@ -1,0 +1,7 @@
+{
+  "key": "twitch-streams-by-game",
+  "name": "New Streams By Game",
+  "description": "Emit new event when a live stream starts from any stream matching the game and language specified.",
+  "type": "source",
+  "version": "0.1.4"
+}

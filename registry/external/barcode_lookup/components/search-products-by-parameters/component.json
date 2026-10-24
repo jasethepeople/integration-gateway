@@ -1,0 +1,7 @@
+{
+  "key": "barcode_lookup-search-products-by-parameters",
+  "name": "Search Products by Parameters",
+  "description": "Search for products by parameters. [See the documentation](https://www.barcodelookup.com/api-documentation)",
+  "type": "action",
+  "version": "0.0.3"
+}

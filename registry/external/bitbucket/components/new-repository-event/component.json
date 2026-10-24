@@ -1,0 +1,7 @@
+{
+  "key": "bitbucket-new-repository-event",
+  "name": "New Repository Event (Instant)",
+  "description": "Emit new event when a repository-wide event occurs. [See docs here](https://developer.atlassian.com/cloud/bitbucket/rest/api-group-repositories/#api-repositories-workspace-repo-slug-hooks-post)",
+  "type": "source",
+  "version": "0.0.3"
+}

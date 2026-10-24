@@ -1,0 +1,7 @@
+{
+  "key": "stripe-create-customer",
+  "name": "Create a Customer",
+  "description": "Create a customer. [See the documentation](https://stripe.com/docs/api/customers/create).",
+  "type": "action",
+  "version": "0.1.5"
+}

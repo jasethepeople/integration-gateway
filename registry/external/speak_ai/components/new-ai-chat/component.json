@@ -1,0 +1,7 @@
+{
+  "key": "speak_ai-new-ai-chat",
+  "name": "New AI Chat Response (Instant)",
+  "description": "Emit new event when a Speak AI Chat response is ready (`chat.status`). [See the documentation](https://docs.speakai.co/api/ai-chat/#get-prompt).",
+  "type": "source",
+  "version": "0.0.1"
+}

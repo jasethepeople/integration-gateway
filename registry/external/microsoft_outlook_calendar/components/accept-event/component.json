@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_outlook_calendar-accept-event",
+  "name": "Accept Event",
+  "description": "Accept a calendar event invitation and optionally send a response to the organizer.",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,82 @@
+{
+  "app": "peerdom",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mapId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "roleId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "memberId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "electable": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "external": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "color": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shape": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customFields": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "groupEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "circleId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "roleName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "linkedDomains": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "peerdom-assign-member-to-role",
+    "peerdom-create-role",
+    "peerdom-list-group-id-options",
+    "peerdom-list-map-id-options",
+    "peerdom-list-member-id-options",
+    "peerdom-list-role-id-options",
+    "peerdom-update-role",
+    "peerdom-new-member",
+    "peerdom-new-role"
+  ]
+}

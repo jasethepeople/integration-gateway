@@ -1,0 +1,7 @@
+{
+  "key": "mews-fetch-rates",
+  "name": "Fetch Rates",
+  "description": "Retrieve rates (pricing setups) of the specified services using Mews Connector API. [See the documentation](https://mews-systems.gitbook.io/connector-api/operations/rates#get-all-rates)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,23 @@
+{
+  "app": "breezy_hr",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "companyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "positionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "candidateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "breezy_hr-get-candidate",
+    "breezy_hr-list-company-id-options"
+  ]
+}

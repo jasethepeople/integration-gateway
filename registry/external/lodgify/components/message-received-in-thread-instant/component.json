@@ -1,0 +1,7 @@
+{
+  "key": "lodgify-message-received-in-thread-instant",
+  "name": "Message Received In Thread (Instant)",
+  "description": "Emit new event when a new guest message is received in a thread.",
+  "type": "source",
+  "version": "0.0.1"
+}

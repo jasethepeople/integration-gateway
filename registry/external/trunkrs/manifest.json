@@ -1,0 +1,40 @@
+{
+  "app": "trunkrs",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "trunkrsNr": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timeSlotId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "environment": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "trunkrs-cancel-shipment",
+    "trunkrs-create-shipment",
+    "trunkrs-get-shipment-state",
+    "trunkrs-get-shipment",
+    "trunkrs-list-shipments",
+    "trunkrs-list-time-slots",
+    "trunkrs-list-trunkrs-nr-options",
+    "trunkrs-new-shipment-created",
+    "trunkrs-shipment-cancelled",
+    "trunkrs-shipment-reviewed",
+    "trunkrs-shipment-state-updated"
+  ]
+}

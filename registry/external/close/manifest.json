@@ -1,0 +1,23 @@
+{
+  "app": "close",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "close-create-lead",
+    "close-custom-action",
+    "close-list-lead-options",
+    "close-list-status-id-options",
+    "close-search-leads",
+    "close-update-lead",
+    "close-custom-event",
+    "close-lead-status-changed",
+    "close-new-lead",
+    "close-new-opportunity"
+  ]
+}

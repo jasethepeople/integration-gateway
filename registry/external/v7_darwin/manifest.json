@@ -1,0 +1,53 @@
+{
+  "app": "v7_darwin",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "id": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "annotatorsCanCreateTags": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "annotatorsCanInstantiateWorkflows": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "anyoneCanDoubleAssign": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "instructions": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "public": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "reviewersCanAnnotate": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "workPrioritization": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "v7_darwin-add-instructions",
+    "v7_darwin-create-dataset",
+    "v7_darwin-list-id-options",
+    "v7_darwin-update-dataset"
+  ]
+}

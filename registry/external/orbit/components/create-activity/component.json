@@ -1,0 +1,7 @@
+{
+  "key": "orbit-create-activity",
+  "name": "Create Activity",
+  "description": "Create a new activity. [See the docs here](https://api.orbit.love/reference/post_workspace-slug-members-member-slug-activities)",
+  "type": "action",
+  "version": "0.0.2"
+}

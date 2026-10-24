@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-create-user",
+  "name": "Create User",
+  "description": "Create a Salesforce user (a login for a person in your org).",
+  "type": "action",
+  "version": "0.1.9"
+}

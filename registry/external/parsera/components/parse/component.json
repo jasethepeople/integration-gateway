@@ -1,0 +1,7 @@
+{
+  "key": "parsera-parse",
+  "name": "Parse",
+  "description": "Parse data using pre-defined attributes. [See the documentation](https://docs.parsera.org/api/getting-started/)",
+  "type": "action",
+  "version": "0.0.2"
+}

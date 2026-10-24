@@ -1,0 +1,7 @@
+{
+  "key": "message_bird-send-voice-message",
+  "name": "Send Voice Message",
+  "description": "Sends a voice message. [See the documentation](https://developers.messagebird.com/api/voice-messaging/#send-a-voice-message)",
+  "type": "action",
+  "version": "0.0.2"
+}

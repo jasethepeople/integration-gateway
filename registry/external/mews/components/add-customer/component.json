@@ -1,0 +1,7 @@
+{
+  "key": "mews-add-customer",
+  "name": "Add Customer",
+  "description": "Adds a new customer to the system. [See the documentation](https://mews-systems.gitbook.io/connector-api/operations/customers#add-customer)",
+  "type": "action",
+  "version": "0.0.3"
+}

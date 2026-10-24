@@ -1,0 +1,34 @@
+{
+  "app": "starshipit",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "trackingNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "subscription_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "starshipit-create-order",
+    "starshipit-get-tracking",
+    "starshipit-list-contact-id-options",
+    "starshipit-list-tracking-number-options",
+    "starshipit-print-label"
+  ]
+}

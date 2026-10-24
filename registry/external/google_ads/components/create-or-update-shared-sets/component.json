@@ -1,0 +1,7 @@
+{
+  "key": "google_ads-create-or-update-shared-sets",
+  "name": "Create or Update Shared Sets",
+  "description": "Whether to create, update, or remove a shared set.",
+  "type": "action",
+  "version": "0.0.5"
+}

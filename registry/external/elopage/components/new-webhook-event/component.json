@@ -1,0 +1,7 @@
+{
+  "key": "elopage-new-webhook-event",
+  "name": "New Webhook Event (Instant)",
+  "description": "Emit new event when a new webhook event occurs. See the documentation by importing \"https://api.myablefy.com/api/swagger_doc/\" into the [Swagger editor](https://editor-next.swagger.io/)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zoom_admin-account-created",
+  "name": "Account Created",
+  "description": "Emits an event each time a sub-account is created in your master account",
+  "type": "source",
+  "version": "0.1.10"
+}

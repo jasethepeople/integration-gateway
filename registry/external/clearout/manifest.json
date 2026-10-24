@@ -1,0 +1,15 @@
+{
+  "app": "clearout",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "clearout-get-domain-mx",
+    "clearout-verify-email"
+  ]
+}

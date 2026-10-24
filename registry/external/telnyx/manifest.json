@@ -1,0 +1,42 @@
+{
+  "app": "telnyx",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "messagingProfileId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phoneNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "faxAppId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "callControlAppId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "telnyx-dial-number",
+    "telnyx-get-message",
+    "telnyx-get-messaging-profiles",
+    "telnyx-get-phone-numbers",
+    "telnyx-list-call-control-app-id-options",
+    "telnyx-list-fax-app-id-options",
+    "telnyx-list-messaging-profile-id-options",
+    "telnyx-list-phone-number-options",
+    "telnyx-send-fax",
+    "telnyx-send-group-message",
+    "telnyx-send-message",
+    "telnyx-new-call-received",
+    "telnyx-new-phone-number"
+  ]
+}

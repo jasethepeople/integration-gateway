@@ -1,0 +1,7 @@
+{
+  "key": "salesflare-new-contact",
+  "name": "New Contact Event",
+  "description": "Emit new events when new contacts are created. [See the docs](https://api.salesflare.com/docs#operation/getContacts)",
+  "type": "source",
+  "version": "0.0.1"
+}

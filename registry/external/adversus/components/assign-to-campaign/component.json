@@ -1,0 +1,7 @@
+{
+  "key": "adversus-assign-to-campaign",
+  "name": "Assign Lead to Campaign",
+  "description": "Assign a lead to a campaign in Adversus. [See the API documentation](https://solutions.adversus.io/api).",
+  "type": "action",
+  "version": "0.0.1"
+}

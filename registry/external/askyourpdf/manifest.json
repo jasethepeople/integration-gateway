@@ -1,0 +1,19 @@
+{
+  "app": "askyourpdf",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "askyourpdf-add-document-via-file-upload",
+    "askyourpdf-add-document-via-url",
+    "askyourpdf-chat-with-document"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

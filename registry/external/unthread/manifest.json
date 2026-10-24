@@ -1,0 +1,53 @@
+{
+  "app": "unthread",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "slackChannelId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emailDomains": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "triageChannelId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "disableAutomatedTicketing": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "defaultTriageChannelId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "slackTeamId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "unthread-create-conversation",
+    "unthread-create-customer",
+    "unthread-delete-customer",
+    "unthread-update-customer"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "telnyx-send-message",
+  "name": "Send Message",
+  "description": "Send an SMS or MMS message. [See the documentation](https://developers.telnyx.com/docs/messaging/messages/send-message)",
+  "type": "action",
+  "version": "0.0.6"
+}

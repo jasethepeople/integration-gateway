@@ -1,0 +1,34 @@
+{
+  "app": "bigml",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "sourceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "datasetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "modelId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "bigml-create-batch-prediction",
+    "bigml-create-model",
+    "bigml-create-source-remote-url",
+    "bigml-new-model-created",
+    "bigml-new-prediction-made"
+  ]
+}

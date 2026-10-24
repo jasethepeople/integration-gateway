@@ -1,0 +1,33 @@
+{
+  "app": "veremark",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "requestGuid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "criteriaGuid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "syncDir": {
+      "kind": "propDefinition",
+      "type": "dir"
+    },
+    "auth_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "veremark-create-request",
+    "veremark-download-document",
+    "veremark-download-report",
+    "veremark-get-request",
+    "veremark-list-criteria"
+  ],
+  "npmImports": [
+    "fs"
+  ]
+}

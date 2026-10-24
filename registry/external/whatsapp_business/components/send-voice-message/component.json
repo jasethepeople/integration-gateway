@@ -1,0 +1,7 @@
+{
+  "key": "whatsapp_business-send-voice-message",
+  "name": "Send Voice Message",
+  "description": "Sends a voice message. [See the documentation](https://developers.facebook.com/docs/whatsapp/cloud-api/messages/audio-messages)",
+  "type": "action",
+  "version": "0.0.5"
+}

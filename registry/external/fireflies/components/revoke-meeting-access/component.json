@@ -1,0 +1,7 @@
+{
+  "key": "fireflies-revoke-meeting-access",
+  "name": "Revoke Meeting Access",
+  "description": "Revoke a previously shared meeting's access for a specific email address. Access can be re-granted at any time with **Share Meeting**. [See the documentation](https://docs.fireflies.ai/graphql-api/mutation/revoke-shared-meeting-access)",
+  "type": "action",
+  "version": "0.0.2"
+}

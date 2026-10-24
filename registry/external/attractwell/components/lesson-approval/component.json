@@ -1,0 +1,7 @@
+{
+  "key": "attractwell-lesson-approval",
+  "name": "Lesson Approval",
+  "description": "Approves, rejects, or unapproves a lesson in the AttractWell system based on the selected status.",
+  "type": "action",
+  "version": "0.0.2"
+}

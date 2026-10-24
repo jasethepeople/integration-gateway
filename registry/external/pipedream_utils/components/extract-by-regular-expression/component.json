@@ -1,0 +1,7 @@
+{
+  "key": "pipedream_utils-extract-by-regular-expression",
+  "name": "Formatting - [Text] Extract by Regular Expression",
+  "description": "Find a match for a regular expression pattern. Returns all matched groups with start and end position.",
+  "type": "action",
+  "version": "0.0.7"
+}

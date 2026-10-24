@@ -1,0 +1,7 @@
+{
+  "key": "zoom_admin-user-created",
+  "name": "User Created",
+  "description": "Emits an event each time a user is created in your Zoom account",
+  "type": "source",
+  "version": "0.1.9"
+}

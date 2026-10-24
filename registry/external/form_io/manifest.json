@@ -1,0 +1,125 @@
+{
+  "app": "form_io",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "formId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "submissionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "roleId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "actionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "skip": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "sort": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "path": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "components": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "display": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "settings": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "data": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "state": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "handler": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "method": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "priority": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "project_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "form_io-create-form-action",
+    "form_io-create-form",
+    "form_io-create-role",
+    "form_io-create-submission",
+    "form_io-delete-form-action",
+    "form_io-delete-form",
+    "form_io-delete-role",
+    "form_io-delete-submission",
+    "form_io-get-form-action",
+    "form_io-get-form",
+    "form_io-get-role",
+    "form_io-get-submission",
+    "form_io-list-form-actions",
+    "form_io-list-forms",
+    "form_io-list-roles",
+    "form_io-list-submissions",
+    "form_io-update-form-action",
+    "form_io-update-form",
+    "form_io-update-role",
+    "form_io-update-submission"
+  ]
+}

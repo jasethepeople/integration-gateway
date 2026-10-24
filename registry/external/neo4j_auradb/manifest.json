@@ -1,0 +1,26 @@
+{
+  "app": "neo4j_auradb",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "password": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "neo4j_auradb-create-node",
+    "neo4j_auradb-create-relationship",
+    "neo4j_auradb-run-query",
+    "neo4j_auradb-new-node",
+    "neo4j_auradb-new-relationship"
+  ]
+}

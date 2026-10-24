@@ -1,0 +1,44 @@
+{
+  "app": "zenfulfillment",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "fulfillmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderExternalId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderReturnId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zenfulfillment-create-or-retrieve-return-label",
+    "zenfulfillment-get-fulfillment",
+    "zenfulfillment-get-order-return",
+    "zenfulfillment-get-order",
+    "zenfulfillment-list-fulfillment-id-options",
+    "zenfulfillment-list-fulfillments",
+    "zenfulfillment-list-order-external-id-options",
+    "zenfulfillment-list-order-id-options",
+    "zenfulfillment-list-order-return-id-options",
+    "zenfulfillment-list-order-returns",
+    "zenfulfillment-search-orders"
+  ]
+}

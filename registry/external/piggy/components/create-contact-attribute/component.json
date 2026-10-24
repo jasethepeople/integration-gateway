@@ -1,0 +1,7 @@
+{
+  "key": "piggy-create-contact-attribute",
+  "name": "Create Contact Attribute",
+  "description": "Creates a contact attribute. [See the documentation](https://docs.piggy.eu/v3/oauth/contact-attributes#:~:text=Create%20Contact%20Attribute)",
+  "type": "action",
+  "version": "0.0.2"
+}

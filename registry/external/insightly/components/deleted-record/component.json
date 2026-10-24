@@ -1,0 +1,7 @@
+{
+  "key": "insightly-deleted-record",
+  "name": "Deleted Record",
+  "description": "Emit new event when a record is deleted.",
+  "type": "source",
+  "version": "0.0.1"
+}

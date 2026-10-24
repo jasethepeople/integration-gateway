@@ -1,0 +1,7 @@
+{
+  "key": "roblox-get-universe",
+  "name": "Get Universe",
+  "description": "Get information about a Roblox universe (experience) by ID. [See the documentation](https://create.roblox.com/docs/cloud/reference/Universe#Cloud_GetUniverse)",
+  "type": "action",
+  "version": "0.0.1"
+}

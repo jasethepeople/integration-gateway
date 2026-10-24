@@ -1,0 +1,7 @@
+{
+  "key": "discourse-list-topic-id-options",
+  "name": "List Topic ID Options",
+  "description": "Retrieves available options for the Topic ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

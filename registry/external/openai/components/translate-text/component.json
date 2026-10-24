@@ -1,0 +1,7 @@
+{
+  "key": "openai-translate-text",
+  "name": "Translate Text (Whisper)",
+  "description": "Translate text from one language to another using the Chat API. [See the documentation](https://platform.openai.com/docs/api-reference/chat)",
+  "type": "action",
+  "version": "0.1.12"
+}

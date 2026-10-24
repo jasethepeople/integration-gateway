@@ -1,0 +1,20 @@
+{
+  "app": "rewiser",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "folderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "rewiser-create-transaction",
+    "rewiser-list-folder-id-options",
+    "rewiser-new-transaction-created"
+  ]
+}

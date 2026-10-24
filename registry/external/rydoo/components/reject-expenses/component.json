@@ -1,0 +1,7 @@
+{
+  "key": "rydoo-reject-expenses",
+  "name": "Reject Expenses",
+  "description": "Denies a set of expenses with a specific rejection reason and message. [See the documentation](https://developers.rydoo.com/reference/v2expensesrejectexpenses)",
+  "type": "action",
+  "version": "0.0.1"
+}

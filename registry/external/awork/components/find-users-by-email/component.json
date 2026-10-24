@@ -1,0 +1,7 @@
+{
+  "key": "awork-find-users-by-email",
+  "name": "Find Users By Email",
+  "description": "Finds a user by email. [See docs here](https://openapi.awork.io/#/Users/get_users)",
+  "type": "action",
+  "version": "0.0.3"
+}

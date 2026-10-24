@@ -1,0 +1,7 @@
+{
+  "key": "invoiced-list-chasing-cadence-id-options",
+  "name": "List Chasing Cadence Options",
+  "description": "Retrieves available options for the Chasing Cadence field.",
+  "type": "action",
+  "version": "0.0.1"
+}

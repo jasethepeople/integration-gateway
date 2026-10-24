@@ -1,0 +1,20 @@
+{
+  "app": "docsumo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "documentType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "docsumo-list-document-type-options",
+    "docsumo-upload-document",
+    "docsumo-document-status-changed"
+  ]
+}

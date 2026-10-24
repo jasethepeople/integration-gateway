@@ -1,0 +1,26 @@
+{
+  "app": "reward_sciences",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "idp": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "identity": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "reward_sciences-create-user",
+    "reward_sciences-track-activity",
+    "reward_sciences-new-activity-added",
+    "reward_sciences-new-campaign-created",
+    "reward_sciences-new-participant-added"
+  ]
+}

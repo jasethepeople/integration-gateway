@@ -1,0 +1,7 @@
+{
+  "key": "surveysparrow-new-ces-submission-instant",
+  "name": "New CES Submission (Instant)",
+  "description": "Emit new event when a customer effort score (CES) survey receives a new submission.",
+  "type": "source",
+  "version": "0.0.1"
+}

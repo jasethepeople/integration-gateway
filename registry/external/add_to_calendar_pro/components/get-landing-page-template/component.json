@@ -1,0 +1,7 @@
+{
+  "key": "add_to_calendar_pro-get-landing-page-template",
+  "name": "Get Landing Page Template",
+  "description": "Get a landing page template. [See the documentation](https://docs.add-to-calendar-pro.com/api/landingpages#get-one-landing-page-template)",
+  "type": "action",
+  "version": "0.0.3"
+}

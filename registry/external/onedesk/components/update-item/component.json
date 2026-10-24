@@ -1,0 +1,7 @@
+{
+  "key": "onedesk-update-item",
+  "name": "Update Item",
+  "description": "Updates an existing item. [See the documentation](https://www.onedesk.com/dev/).",
+  "type": "action",
+  "version": "0.0.3"
+}

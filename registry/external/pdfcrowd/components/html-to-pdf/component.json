@@ -1,0 +1,7 @@
+{
+  "key": "pdfcrowd-html-to-pdf",
+  "name": "Convert HTML to PDF",
+  "description": "Convert URL or HTML to PDF. [See docs](https://pdfcrowd.com/api/)",
+  "type": "action",
+  "version": "0.1.0"
+}

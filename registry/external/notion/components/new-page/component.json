@@ -1,0 +1,7 @@
+{
+  "key": "notion-new-page",
+  "name": "New Page in Data Source",
+  "description": "Emit new event when a page is created in the selected data source. [See the documentation](https://developers.notion.com/reference/page)",
+  "type": "source",
+  "version": "1.0.2"
+}

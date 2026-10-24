@@ -1,0 +1,7 @@
+{
+  "key": "riskadvisor-create-risk-profile",
+  "name": "Create Risk Profile",
+  "description": "Creates a risk profile in RiskAdvisor. [See the documentation](https://api.riskadvisor.insure/risk-profiles#create-a-risk-profile)",
+  "type": "action",
+  "version": "0.0.2"
+}

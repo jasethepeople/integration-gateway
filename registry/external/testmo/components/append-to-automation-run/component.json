@@ -1,0 +1,7 @@
+{
+  "key": "testmo-append-to-automation-run",
+  "name": "Append to Automation Run",
+  "description": "Appends test artifacts, fields or links to an existing automation run. [See the documentation](https://docs.testmo.com/api/reference/automation-runs#post-automation-runs-automation_run_id-append)",
+  "type": "action",
+  "version": "0.0.2"
+}

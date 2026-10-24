@@ -1,0 +1,7 @@
+{
+  "key": "paystack-create-customer",
+  "name": "Create Customer",
+  "description": "Create a customer on your integration. [See the documentation](https://paystack.com/docs/api/customer/#create)",
+  "type": "action",
+  "version": "0.0.1"
+}

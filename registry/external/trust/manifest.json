@@ -1,0 +1,74 @@
+{
+  "app": "trust",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "brandId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "testimonialId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "testimonialText": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "videoUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "videoToken": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "imageUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "gaveConsent": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "published": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "stars": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "trust-create-testimonial",
+    "trust-delete-testimonial",
+    "trust-list-brand-id-options",
+    "trust-update-testimonial",
+    "trust-upload-video",
+    "trust-new-testimonial"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

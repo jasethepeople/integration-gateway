@@ -1,0 +1,7 @@
+{
+  "key": "shadertoy-list-shaders",
+  "name": "List Shaders",
+  "description": "Returns a list of all shaders. [See the documentation](https://www.shadertoy.com/howto)",
+  "type": "action",
+  "version": "0.0.2"
+}

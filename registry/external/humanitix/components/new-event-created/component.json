@@ -1,0 +1,7 @@
+{
+  "key": "humanitix-new-event-created",
+  "name": "New Event Created",
+  "description": "Emit new event when a new event is created in Humanitix. [See the documentation](https://humanitix.stoplight.io/docs/humanitix-public-api/476881e4b5d55-get-events)",
+  "type": "source",
+  "version": "0.0.1"
+}

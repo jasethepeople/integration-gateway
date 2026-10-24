@@ -1,0 +1,7 @@
+{
+  "key": "prospeo-verify-email",
+  "name": "Verify Email",
+  "description": "Verify the validity of an email address. [See the documentation](https://prospeo.io/api/email-verifier)",
+  "type": "action",
+  "version": "0.0.3"
+}

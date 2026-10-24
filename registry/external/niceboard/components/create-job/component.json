@@ -1,0 +1,7 @@
+{
+  "key": "niceboard-create-job",
+  "name": "Create Job",
+  "description": "Creates a new job posting within the Niceboard app.",
+  "type": "action",
+  "version": "0.0.2"
+}

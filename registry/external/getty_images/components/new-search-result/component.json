@@ -1,0 +1,7 @@
+{
+  "key": "getty_images-new-search-result",
+  "name": "New Search Result",
+  "description": "Emit new event for each image returned by a search query that has not been seen in a previous run. Polls on a schedule to detect newly available images matching your criteria. [See the documentation](https://developers.gettyimages.com/docs/)",
+  "type": "source",
+  "version": "0.0.1"
+}

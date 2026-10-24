@@ -1,0 +1,19 @@
+{
+  "app": "swapcard_exhibitor",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "eventId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "swapcard_exhibitor-list-event-id-options",
+    "swapcard_exhibitor-new-connection"
+  ]
+}

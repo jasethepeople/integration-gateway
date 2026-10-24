@@ -1,0 +1,7 @@
+{
+  "key": "payrexx-delete-gateway",
+  "name": "Delete Gateway",
+  "description": "Delete a gateway. [See the documentation](https://developers.payrexx.com/reference/delete-a-gateway)",
+  "type": "action",
+  "version": "0.0.1"
+}

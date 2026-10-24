@@ -1,0 +1,7 @@
+{
+  "key": "griptape-update-assistant",
+  "name": "Update Assistant",
+  "description": "Updates an existing assistant. [See the documentation](https://docs.griptape.ai/stable/griptape-cloud/api/api-reference/#/Assistants/UpdateAssistant).",
+  "type": "action",
+  "version": "0.0.2"
+}

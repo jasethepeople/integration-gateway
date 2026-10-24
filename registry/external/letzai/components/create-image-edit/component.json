@@ -1,0 +1,7 @@
+{
+  "key": "letzai-create-image-edit",
+  "name": "Create Image Edit",
+  "description": "Creates an image edit task that modifies an existing image using inpainting or outpainting in LetzAI. [See the documentation](https://api.letz.ai/doc#/image-edit/image_edit_create)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "teamwork_desk-customer-created",
+  "name": "New Customer Created",
+  "description": "Emit new event when a new customer is created.",
+  "type": "source",
+  "version": "0.0.2"
+}

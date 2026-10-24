@@ -1,0 +1,7 @@
+{
+  "key": "timetonic-new-table-row-in-view",
+  "name": "New Table Row in View",
+  "description": "Emit new event when a new table row appears in a specific view.",
+  "type": "source",
+  "version": "0.0.1"
+}

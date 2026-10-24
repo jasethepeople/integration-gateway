@@ -1,0 +1,7 @@
+{
+  "key": "kontent_ai-create-content-item",
+  "name": "Create Content Item",
+  "description": "Create a new content item based on a specific content type. [See the documentation](https://kontent.ai/learn/docs/apis/openapi/management-api-v2/#operation/add-a-content-item)",
+  "type": "action",
+  "version": "0.0.2"
+}

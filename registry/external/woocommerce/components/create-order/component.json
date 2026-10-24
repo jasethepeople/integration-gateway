@@ -1,0 +1,7 @@
+{
+  "key": "woocommerce-create-order",
+  "name": "Create Order",
+  "description": "Creates a new order. [See the docs](https://woocommerce.github.io/woocommerce-rest-api-docs/?javascript#create-an-order)",
+  "type": "action",
+  "version": "0.0.4"
+}

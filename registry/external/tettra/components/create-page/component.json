@@ -1,0 +1,7 @@
+{
+  "key": "tettra-create-page",
+  "name": "Create Page",
+  "description": "Creates a new page in Tettra. [See the documentation](https://support.tettra.co/api-overview/api-endpoint-create-page)",
+  "type": "action",
+  "version": "0.0.2"
+}

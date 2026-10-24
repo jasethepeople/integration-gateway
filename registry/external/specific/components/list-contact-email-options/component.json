@@ -1,0 +1,7 @@
+{
+  "key": "specific-list-contact-email-options",
+  "name": "List Contact Email Options",
+  "description": "Retrieves available options for the Contact Email field.",
+  "type": "action",
+  "version": "0.0.1"
+}

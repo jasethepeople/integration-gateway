@@ -1,0 +1,7 @@
+{
+  "key": "wealthbox-workflow-step-completed",
+  "name": "Workflow Step Completed",
+  "description": "Emit new event each time workflow step activity is recorded in Wealthbox. The Wealthbox workflow step object has no completion flag of its own, so this polls the account Activity Stream (GET /activity) filtered to WorkflowStep-linked items. Deduplicates by activity stream item id (not step id), so reverting and re-completing the same step correctly emits a new event each time. [See the documentation](https://dev.wealthbox.com/#activity-stream-retrieve-activity-stream-get)",
+  "type": "source",
+  "version": "0.0.1"
+}

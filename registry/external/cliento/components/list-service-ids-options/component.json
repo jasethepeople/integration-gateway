@@ -1,0 +1,7 @@
+{
+  "key": "cliento-list-service-ids-options",
+  "name": "List Service IDs Options",
+  "description": "Retrieves available options for the Service IDs field.",
+  "type": "action",
+  "version": "0.0.1"
+}

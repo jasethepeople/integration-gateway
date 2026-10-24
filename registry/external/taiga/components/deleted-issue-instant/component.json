@@ -1,0 +1,7 @@
+{
+  "key": "taiga-deleted-issue-instant",
+  "name": "Deleted Issue (Instant)",
+  "description": "Emit new event when a issue is deleted in the selected project. [See the documentation](https://docs.taiga.io/api.html#webhooks-create)",
+  "type": "source",
+  "version": "0.0.1"
+}

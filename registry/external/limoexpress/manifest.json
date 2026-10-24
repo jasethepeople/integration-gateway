@@ -1,0 +1,56 @@
+{
+  "app": "limoexpress",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "bookingTypeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "bookingStatusId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "vehicleClassId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "vehicleId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "currencyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "paymentMethodId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "clientId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "invoiceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "limoexpress-create-booking",
+    "limoexpress-create-client",
+    "limoexpress-list-booking-status-id-options",
+    "limoexpress-list-booking-type-id-options",
+    "limoexpress-list-client-id-options",
+    "limoexpress-list-currency-id-options",
+    "limoexpress-list-invoice-id-options",
+    "limoexpress-list-payment-method-id-options",
+    "limoexpress-list-vehicle-class-id-options",
+    "limoexpress-mark-invoice-paid",
+    "limoexpress-new-booking"
+  ]
+}

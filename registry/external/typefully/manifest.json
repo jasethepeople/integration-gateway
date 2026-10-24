@@ -1,0 +1,52 @@
+{
+  "app": "typefully",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "kind": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contentFilter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "content": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "threadify": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "share": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "autoRetweetEnabled": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "autoPlugEnabled": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "scheduleDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "typefully-create-draft",
+    "typefully-list-content-filter-options",
+    "typefully-list-kind-options",
+    "typefully-schedule-draft-next-slot",
+    "typefully-schedule-draft",
+    "typefully-new-draft-published",
+    "typefully-new-draft-scheduled"
+  ]
+}

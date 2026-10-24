@@ -1,0 +1,7 @@
+{
+  "key": "amara-list-primary-audio-language-code-options",
+  "name": "List Primary Audio Language Code Options",
+  "description": "Retrieves Available Options for the Primary Audio Language Code Field.",
+  "type": "action",
+  "version": "0.0.1"
+}

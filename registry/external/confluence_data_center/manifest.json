@@ -1,0 +1,74 @@
+{
+  "app": "confluence_data_center",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "spaceKey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "position": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "body": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "metadata": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "start": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "personal_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "confluence_data_center-create-content",
+    "confluence_data_center-delete-content",
+    "confluence_data_center-get-page-by-id",
+    "confluence_data_center-get-pages",
+    "confluence_data_center-list-space-key-options",
+    "confluence_data_center-list-type-options",
+    "confluence_data_center-search-content",
+    "confluence_data_center-update-content",
+    "confluence_data_center-blogpost-updated",
+    "confluence_data_center-new-blogpost-created",
+    "confluence_data_center-new-page-created",
+    "confluence_data_center-new-webhook-event",
+    "confluence_data_center-page-updated"
+  ]
+}

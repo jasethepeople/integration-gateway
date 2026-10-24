@@ -1,0 +1,7 @@
+{
+  "key": "freshdesk-create-company",
+  "name": "Create a Company",
+  "description": "Create a company. [See the documentation](https://developers.freshdesk.com/api/#create_company)",
+  "type": "action",
+  "version": "0.0.16"
+}

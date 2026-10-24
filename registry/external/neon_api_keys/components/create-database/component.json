@@ -1,0 +1,7 @@
+{
+  "key": "neon_api_keys-create-database",
+  "name": "Create Database",
+  "description": "Creates a database in the project. [See docs here](https://api-docs.neon.tech/reference/createprojectbranchdatabase)",
+  "type": "action",
+  "version": "0.0.2"
+}

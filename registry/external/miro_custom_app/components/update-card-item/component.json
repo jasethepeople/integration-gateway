@@ -1,0 +1,7 @@
+{
+  "key": "miro_custom_app-update-card-item",
+  "name": "Update Card Item",
+  "description": "Updates a card item on a Miro board. [See the documentation](https://developers.miro.com/reference/update-card-item).",
+  "type": "action",
+  "version": "0.0.2"
+}

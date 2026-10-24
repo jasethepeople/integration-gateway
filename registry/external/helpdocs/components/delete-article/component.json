@@ -1,0 +1,7 @@
+{
+  "key": "helpdocs-delete-article",
+  "name": "Delete Article",
+  "description": "Delete an article from your HelpDocs knowledge base. [See the documentation](https://apidocs.helpdocs.io/article/0iyvUUh7py-deleting-an-article)",
+  "type": "action",
+  "version": "0.0.2"
+}

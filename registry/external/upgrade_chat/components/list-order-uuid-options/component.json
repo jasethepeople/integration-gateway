@@ -1,0 +1,7 @@
+{
+  "key": "upgrade_chat-list-order-uuid-options",
+  "name": "List Order UUID Options",
+  "description": "Retrieves available options for the Order UUID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

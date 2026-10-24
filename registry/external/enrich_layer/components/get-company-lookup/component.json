@@ -1,0 +1,7 @@
+{
+  "key": "enrich_layer-get-company-lookup",
+  "name": "Get Company Lookup",
+  "description": "Resolve a company profile from company name, domain name, and/or location. Cost: 2 credits per successful request. [See the documentation](https://enrichlayer.com/docs/api/v2/company-api/company-lookup).",
+  "type": "action",
+  "version": "0.0.2"
+}

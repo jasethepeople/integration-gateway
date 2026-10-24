@@ -1,0 +1,7 @@
+{
+  "key": "accelo-new-task-assigned",
+  "name": "New Task Assigned (Instant)",
+  "description": "Emit new event on each new task assigned.",
+  "type": "source",
+  "version": "0.0.2"
+}

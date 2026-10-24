@@ -1,0 +1,7 @@
+{
+  "key": "ticket_source-list-bookings-for-date",
+  "name": "List Bookings for Date",
+  "description": "Retrieves all bookings for a specific event date. [See the documentation](https://reference.ticketsource.io/#/operations/get-date-bookings)",
+  "type": "action",
+  "version": "0.0.1"
+}

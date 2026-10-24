@@ -1,0 +1,36 @@
+{
+  "app": "shortcut",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "workflowStateId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "labelIds": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "storyIds": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "shortcut-create-story",
+    "shortcut-list-label-ids-options",
+    "shortcut-list-workflow-state-id-options",
+    "shortcut-search-stories",
+    "shortcut-new-event-received"
+  ],
+  "npmImports": [
+    "@shortcut/client",
+    "async-retry",
+    "lodash",
+    "validate.js"
+  ]
+}

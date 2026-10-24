@@ -1,0 +1,7 @@
+{
+  "key": "todoist-list-select-projects-options",
+  "name": "List Select Projects Options",
+  "description": "Retrieves available options for the Select Projects field.",
+  "type": "action",
+  "version": "0.0.2"
+}

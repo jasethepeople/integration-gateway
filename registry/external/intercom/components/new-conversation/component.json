@@ -1,0 +1,7 @@
+{
+  "key": "intercom-new-conversation",
+  "name": "New Conversations",
+  "description": "Emit new event each time a new conversation is added.",
+  "type": "source",
+  "version": "0.0.9"
+}

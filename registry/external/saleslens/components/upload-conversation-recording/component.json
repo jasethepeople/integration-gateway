@@ -1,0 +1,7 @@
+{
+  "key": "saleslens-upload-conversation-recording",
+  "name": "Upload Conversation Recording",
+  "description": "Uploads a conversation recording. [See the documentation](https://app.saleslens.io/api#tag/ConversationRecord/operation/api_access_tokencall_recordupload_post)",
+  "type": "action",
+  "version": "0.0.2"
+}

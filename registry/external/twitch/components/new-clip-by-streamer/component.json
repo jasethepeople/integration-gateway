@@ -1,0 +1,7 @@
+{
+  "key": "twitch-new-clip-by-streamer",
+  "name": "New Clip By Streamer",
+  "description": "Emit new event when there is a new clip for the specified streamer.",
+  "type": "source",
+  "version": "0.1.4"
+}

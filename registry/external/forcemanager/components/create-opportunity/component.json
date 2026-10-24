@@ -1,0 +1,7 @@
+{
+  "key": "forcemanager-create-opportunity",
+  "name": "Create Opportunity",
+  "description": "Creates a new business opportunity in ForceManager. [See the documentation](https://developer.forcemanager.com/#836754be-f32d-47d2-a8ab-73a147c62ca9)",
+  "type": "action",
+  "version": "0.0.3"
+}

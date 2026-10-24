@@ -1,0 +1,7 @@
+{
+  "key": "kindo-chat",
+  "name": "Chat",
+  "description": "Creates a model response for the given chat conversation using Kindo's API. [See the documentation](https://app.kindo.ai/settings/api) for more information.",
+  "type": "action",
+  "version": "0.0.2"
+}

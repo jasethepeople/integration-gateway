@@ -1,0 +1,7 @@
+{
+  "key": "grafana-get-current-user",
+  "name": "Get Current User",
+  "description": "Get the current authenticated Grafana user's identity,",
+  "type": "action",
+  "version": "0.0.3"
+}

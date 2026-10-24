@@ -1,0 +1,7 @@
+{
+  "key": "google_ads-create-customer-report",
+  "name": "Create Customer Report",
+  "description": "Creates a report for the Customer resource. [See the documentation](https://developers.google.com/google-ads/api/reference/rpc/v25/GoogleAdsService/Search?transport=rest)",
+  "type": "action",
+  "version": "0.0.7"
+}

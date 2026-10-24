@@ -1,0 +1,7 @@
+{
+  "key": "devin-list-session-id-options",
+  "name": "List Session ID Options",
+  "description": "Retrieves available options for the Session ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

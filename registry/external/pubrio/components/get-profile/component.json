@@ -1,0 +1,7 @@
+{
+  "key": "pubrio-get-profile",
+  "name": "Get Profile",
+  "description": "Get your Pubrio account profile information. [See the documentation](https://docs.pubrio.com/en/api-reference/endpoint/profile/profile)",
+  "type": "action",
+  "version": "0.0.1"
+}

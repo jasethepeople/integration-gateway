@@ -1,0 +1,7 @@
+{
+  "key": "firefish-new-contact-created",
+  "name": "New Contact Created",
+  "description": "Emit new event when a new contact is created. [See the documentation](https://developer.firefishsoftware.com/#fcb38fee-8ad7-4aec-b1bd-ba7871e8258c)",
+  "type": "source",
+  "version": "0.0.1"
+}

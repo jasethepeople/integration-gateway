@@ -1,0 +1,50 @@
+{
+  "app": "quipu",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "client": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "accountingCategory": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "number": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "issued": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "paidAt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "paymentMethod": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "items": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "quipu-create-contact",
+    "quipu-create-income-invoice",
+    "quipu-create-income-ticket",
+    "quipu-list-accounting-category-options",
+    "quipu-list-client-options"
+  ]
+}

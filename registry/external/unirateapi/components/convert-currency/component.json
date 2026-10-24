@@ -1,0 +1,7 @@
+{
+  "key": "unirateapi-convert-currency",
+  "name": "Convert Currency",
+  "description": "Convert an amount from one currency to another at the latest rate. [See the documentation](https://unirateapi.com/apidocs).",
+  "type": "action",
+  "version": "0.0.2"
+}

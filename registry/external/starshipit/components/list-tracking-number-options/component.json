@@ -1,0 +1,7 @@
+{
+  "key": "starshipit-list-tracking-number-options",
+  "name": "List Tracking Number Options",
+  "description": "Retrieves available options for the Tracking Number field.",
+  "type": "action",
+  "version": "0.0.1"
+}

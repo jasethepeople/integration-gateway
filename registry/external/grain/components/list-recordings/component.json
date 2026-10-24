@@ -1,0 +1,7 @@
+{
+  "key": "grain-list-recordings",
+  "name": "List Recordings",
+  "description": "Lists Grain recordings, optionally filtered by start datetime range (ISO8601), title search, participant scope, team, or meeting type.",
+  "type": "action",
+  "version": "0.1.0"
+}

@@ -1,0 +1,55 @@
+import { axios } from "../_platform-shim.mjs";
+
+const __pdApp = {
+  type: "app",
+  app: "msg91",
+  methods: {
+    _getBaseUrl() {
+      return "https://api.msg91.com/api/v5";
+    },
+    _getHeaders() {
+      return {
+        "Content-Type": "application/json",
+        "authkey": this.$auth.authkey,
+      };
+    },
+    _makeRequest({
+      $ = this, path, ...opts
+    }) {
+      return axios($, {
+        headers: this._getHeaders(),
+        url: `${this._getBaseUrl()}${path}`,
+        ...opts,
+      });
+    },
+    sendSMS(args = {}) {
+      return this._makeRequest({
+        method: "POST",
+        path: "/flow",
+        ...args,
+      });
+    },
+    launchCampaign({
+      campaignSlug, ...args
+    }) {
+      return this._makeRequest({
+        method: "POST",
+        path: `/campaign/api/campaigns/${campaignSlug}/run`,
+        ...args,
+      });
+    },
+    createOrUpdateContact({
+      phonebook, ...args
+    }) {
+      return this._makeRequest({
+        method: "POST",
+        path: `/segmento/api/v1/phonebooks/${phonebook}/contacts`,
+        ...args,
+      });
+    },
+  },
+};
+
+export default __pdApp;
+import { __pdBindAuth as __pdBind } from "../_platform-shim.mjs";
+__pdBind(__pdApp, "msg91");

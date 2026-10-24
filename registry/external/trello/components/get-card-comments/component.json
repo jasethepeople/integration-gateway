@@ -1,0 +1,7 @@
+{
+  "key": "trello-get-card-comments",
+  "name": "Get Card Comments",
+  "description": "Gets the comments on a card. [See the documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-cards/#api-cards-id-actions-get).",
+  "type": "action",
+  "version": "0.0.1"
+}

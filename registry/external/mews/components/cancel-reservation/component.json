@@ -1,0 +1,7 @@
+{
+  "key": "mews-cancel-reservation",
+  "name": "Cancel Reservation",
+  "description": "Cancel a reservation in Mews.",
+  "type": "action",
+  "version": "0.0.4"
+}

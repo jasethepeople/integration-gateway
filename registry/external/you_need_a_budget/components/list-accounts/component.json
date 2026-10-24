@@ -1,0 +1,7 @@
+{
+  "key": "you_need_a_budget-list-accounts",
+  "name": "List Accounts",
+  "description": "List all accounts for a specific budget. [See the docs](https://api.ynab.com/v1#/Accounts/getAccounts)",
+  "type": "action",
+  "version": "0.0.3"
+}

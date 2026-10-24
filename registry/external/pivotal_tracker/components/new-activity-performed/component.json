@@ -1,0 +1,7 @@
+{
+  "key": "pivotal_tracker-new-activity-performed",
+  "name": "New Activity Performed (Instant)",
+  "description": "Emit new event when any activity is performed in a project.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "range-new-joined-team",
+  "name": "New Joined Team",
+  "description": "Emit new event when user joins a team. [See the docs](https://www.range.co/docs/api#rpc-list-teams).",
+  "type": "source",
+  "version": "0.0.1"
+}

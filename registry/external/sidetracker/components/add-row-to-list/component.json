@@ -1,0 +1,7 @@
+{
+  "key": "sidetracker-add-row-to-list",
+  "name": "Add Row to List",
+  "description": "Add a row to a list. [See the documentation](https://app.sidetracker.io/api/schema/redoc#tag/Lists/operation/ListAddRow)",
+  "type": "action",
+  "version": "0.0.1"
+}

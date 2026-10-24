@@ -1,0 +1,42 @@
+{
+  "app": "hubstaff",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "organizationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "summary": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "hubstaff-create-task",
+    "hubstaff-list-tasks",
+    "hubstaff-update-task",
+    "hubstaff-new-client",
+    "hubstaff-new-schedule"
+  ]
+}

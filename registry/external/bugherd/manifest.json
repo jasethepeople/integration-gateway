@@ -1,0 +1,32 @@
+{
+  "app": "bugherd",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "assignedToEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "bugherd-add-attachment",
+    "bugherd-create-project",
+    "bugherd-list-project-id-options",
+    "bugherd-update-task",
+    "bugherd-new-comment-instant",
+    "bugherd-new-task-instant",
+    "bugherd-task-updated-instant"
+  ]
+}

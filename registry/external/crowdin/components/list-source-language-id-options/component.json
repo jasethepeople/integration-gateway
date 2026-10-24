@@ -1,0 +1,7 @@
+{
+  "key": "crowdin-list-source-language-id-options",
+  "name": "List Source Language ID Options",
+  "description": "Retrieves available options for the Source Language ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

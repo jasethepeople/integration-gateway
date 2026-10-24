@@ -1,0 +1,7 @@
+{
+  "key": "pdffiller-new-document",
+  "name": "New Document Created",
+  "description": "Emit new event when a new document is uploaded or created.",
+  "type": "source",
+  "version": "0.0.3"
+}

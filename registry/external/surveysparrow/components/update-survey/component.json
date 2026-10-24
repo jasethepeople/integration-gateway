@@ -1,0 +1,7 @@
+{
+  "key": "surveysparrow-update-survey",
+  "name": "Update Survey",
+  "description": "Updates an existing survey. [See the documentation](https://developers.surveysparrow.com/rest-apis/survey#patchV3SurveysId)",
+  "type": "action",
+  "version": "0.0.3"
+}

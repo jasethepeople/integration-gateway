@@ -1,0 +1,7 @@
+{
+  "key": "pipefy-create-table-record",
+  "name": "Create Table Record",
+  "description": "Creates a new table record. [See the docs here](https://api-docs.pipefy.com/reference/mutations/createTableRecord/)",
+  "type": "action",
+  "version": "0.1.3"
+}

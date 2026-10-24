@@ -1,0 +1,7 @@
+{
+  "key": "quickbooks-list-sales-receipt-id-options",
+  "name": "List Sales Receipt ID Options",
+  "description": "Retrieves available options for the Sales Receipt ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

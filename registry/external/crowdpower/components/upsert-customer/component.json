@@ -1,0 +1,7 @@
+{
+  "key": "crowdpower-upsert-customer",
+  "name": "Upsert Customer",
+  "description": "Create or update a customer. [See the documentation](https://documenter.getpostman.com/view/17896162/UV5TFKbh#9415bd14-59ab-47b1-b0ec-73826d9cb5db)",
+  "type": "action",
+  "version": "0.0.1"
+}

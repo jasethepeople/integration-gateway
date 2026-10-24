@@ -1,0 +1,7 @@
+{
+  "key": "semgrep-list-deployment-slug-options",
+  "name": "List Deployment Slug Options",
+  "description": "Retrieves available options for the Deployment Slug field.",
+  "type": "action",
+  "version": "0.0.1"
+}

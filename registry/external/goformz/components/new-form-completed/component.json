@@ -1,0 +1,7 @@
+{
+  "key": "goformz-new-form-completed",
+  "name": "New Form Completed",
+  "description": "Emit new event when a new form is completed in GoFormz",
+  "type": "source",
+  "version": "0.0.1"
+}

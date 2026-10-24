@@ -1,0 +1,7 @@
+{
+  "key": "topdesk-list-priority-id-options",
+  "name": "List Priority ID Options",
+  "description": "Retrieves available options for the Priority ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

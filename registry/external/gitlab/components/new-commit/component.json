@@ -1,0 +1,7 @@
+{
+  "key": "gitlab-new-commit",
+  "name": "New Commit (Instant)",
+  "description": "Emit new event when a new commit is pushed to a branch",
+  "type": "source",
+  "version": "0.1.4"
+}

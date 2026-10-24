@@ -1,0 +1,7 @@
+{
+  "key": "retently-new-customer-added",
+  "name": "New Customer Added",
+  "description": "Emit new event when a new customer is added.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,31 @@
+{
+  "app": "zoho_campaigns",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "topic": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mailingList": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "base_api_url": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zoho_campaigns-add-contact-to-mailing-list",
+    "zoho_campaigns-create-campaign",
+    "zoho_campaigns-list-mailing-list-options",
+    "zoho_campaigns-list-topic-options",
+    "zoho_campaigns-new-campaign",
+    "zoho_campaigns-new-contact"
+  ]
+}

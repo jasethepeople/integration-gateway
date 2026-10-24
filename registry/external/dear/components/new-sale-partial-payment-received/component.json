@@ -1,0 +1,7 @@
+{
+  "key": "dear-new-sale-partial-payment-received",
+  "name": "New Sale Partial Payment Received",
+  "description": "Emit new event when a sale partial payment is received",
+  "type": "source",
+  "version": "0.0.1"
+}

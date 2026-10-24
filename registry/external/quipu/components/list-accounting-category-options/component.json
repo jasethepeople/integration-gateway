@@ -1,0 +1,7 @@
+{
+  "key": "quipu-list-accounting-category-options",
+  "name": "List Accounting Category Options",
+  "description": "Retrieves available options for the Accounting Category field.",
+  "type": "action",
+  "version": "0.0.1"
+}

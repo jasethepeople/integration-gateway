@@ -1,0 +1,7 @@
+{
+  "key": "sdk-reactjs-event-received",
+  "name": "React.js",
+  "description": "Emit a new event via the React.js Pipedream SDK.",
+  "type": "source",
+  "version": "0.0.2"
+}

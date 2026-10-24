@@ -1,0 +1,14 @@
+{
+  "app": "highergov",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "highergov-new-pursuit-added-instant"
+  ]
+}

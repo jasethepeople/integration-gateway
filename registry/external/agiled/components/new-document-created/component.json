@@ -1,0 +1,7 @@
+{
+  "key": "agiled-new-document-created",
+  "name": "New Document Created",
+  "description": "Emit new event when a new document is created in Agiled. [See the documentation](https://my.agiled.app/developers)",
+  "type": "source",
+  "version": "0.0.1"
+}

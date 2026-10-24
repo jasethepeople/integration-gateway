@@ -1,0 +1,7 @@
+{
+  "key": "social_fetch-get-youtube-trending-shorts",
+  "name": "Get YouTube Trending Shorts",
+  "description": "Fetches the current trending YouTube Shorts. No query is required. [See the documentation](https://app.socialfetch.dev/playground?path=/v1/youtube/shorts/trending&method=GET)",
+  "type": "action",
+  "version": "0.0.1"
+}

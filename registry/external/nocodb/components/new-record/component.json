@@ -1,0 +1,7 @@
+{
+  "key": "nocodb-new-record",
+  "name": "New Record in Table",
+  "description": "Emit new event for each new record in table. [See the documentation](https://data-apis-v2.nocodb.com/#tag/Table-Records/operation/db-data-table-row-list)",
+  "type": "source",
+  "version": "0.0.8"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pocket-save-to-later",
+  "name": "Save To Later",
+  "description": "Save articles, videos, images and URLs to your Pocket list. [See docs here](https://getpocket.com/developer/docs/v3/add)",
+  "type": "action",
+  "version": "0.0.2"
+}

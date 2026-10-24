@@ -1,0 +1,7 @@
+{
+  "key": "surecart-subscription-made-trialing",
+  "name": "New Subscription Made Trialing (Instant)",
+  "description": "Emit new event when a subscription enters trial status. [See the documentation](https://developer.surecart.com/api-reference/webhook-endpoints/create)",
+  "type": "source",
+  "version": "0.0.3"
+}

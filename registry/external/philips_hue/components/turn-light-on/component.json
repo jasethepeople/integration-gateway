@@ -1,0 +1,7 @@
+{
+  "key": "philips_hue-turn-light-on",
+  "name": "Turn Light On",
+  "description": "Turns on or off a Philips Hue light or group of lights. [See the documentation](https://developers.meethue.com/develop/hue-api-v2/api-reference/#resource_light__id__put)",
+  "type": "action",
+  "version": "0.0.2"
+}

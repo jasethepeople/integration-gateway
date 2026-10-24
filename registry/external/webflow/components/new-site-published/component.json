@@ -1,0 +1,7 @@
+{
+  "key": "webflow-new-site-published",
+  "name": "Site Published",
+  "description": "Emit new event when a site is published. [See the documentation](https://developers.webflow.com/data/reference/webhooks/events/site-publish)",
+  "type": "source",
+  "version": "2.0.0"
+}

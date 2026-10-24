@@ -1,0 +1,7 @@
+{
+  "key": "taiga-get-issue",
+  "name": "Get Issue",
+  "description": "Get an existing issue from a Taiga project. [See the documentation](https://docs.taiga.io/api.html#issues-get)",
+  "type": "action",
+  "version": "0.0.2"
+}

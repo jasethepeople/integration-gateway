@@ -1,0 +1,7 @@
+{
+  "key": "algodocs-new-extracted-data",
+  "name": "New Extracted Data",
+  "description": "Emit new event for each newly extracted data record for a given AlgoDocs document (polls GET /v1/extracted_data/{documentId}). Each extraction record's stable `id` is used for deduplication. Run the **List Documents** action to find a valid document ID before configuring this source. An optional filter narrows emissions to records whose extracted `data` matches a provided key or value substring. [See the documentation](https://api.algodocs.com/).",
+  "type": "source",
+  "version": "0.0.1"
+}

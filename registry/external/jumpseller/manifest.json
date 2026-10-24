@@ -1,0 +1,50 @@
+{
+  "app": "jumpseller",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "productId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "price": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "stock": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "sku": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "jumpseller-create-product-variant",
+    "jumpseller-create-product",
+    "jumpseller-list-product-id-options",
+    "jumpseller-update-product",
+    "jumpseller-order-paid",
+    "jumpseller-order-updated"
+  ],
+  "npmImports": [
+    "lodash"
+  ]
+}

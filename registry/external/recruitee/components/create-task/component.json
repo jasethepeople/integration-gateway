@@ -1,0 +1,7 @@
+{
+  "key": "recruitee-create-task",
+  "name": "Create Task",
+  "description": "Create a new task for a candidate. [See the documentation](https://api.recruitee.com/docs/index.html#task.web.task-task.web.task-post)",
+  "type": "action",
+  "version": "0.0.2"
+}

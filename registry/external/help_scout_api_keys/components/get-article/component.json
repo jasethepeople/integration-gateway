@@ -1,0 +1,7 @@
+{
+  "key": "help_scout_api_keys-get-article",
+  "name": "Get Article",
+  "description": "Retrieve a single article by ID or number. [See the documentation](https://developer.helpscout.com/docs-api/articles/get/)",
+  "type": "action",
+  "version": "0.0.1"
+}

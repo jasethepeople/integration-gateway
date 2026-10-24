@@ -1,0 +1,40 @@
+{
+  "app": "talend",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "workspaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "environmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "planExecutionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "planExecutable": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "personal_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "endpoint": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "talend-execute-plan",
+    "talend-get-available-plans-executions",
+    "talend-get-plan-execution-status",
+    "talend-list-environment-id-options",
+    "talend-list-plan-executable-options",
+    "talend-list-plan-execution-id-options",
+    "talend-list-workspace-id-options"
+  ]
+}

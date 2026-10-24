@@ -1,0 +1,39 @@
+{
+  "app": "canva",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "designId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "filePath": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "waitForCompletion": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "canva-create-design-import-job",
+    "canva-create-design",
+    "canva-export-design",
+    "canva-list-designs",
+    "canva-upload-asset"
+  ],
+  "npmImports": [
+    "fs",
+    "stream",
+    "util"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "salesflare-update-account",
+  "name": "Update Account",
+  "description": "Update an account [See the docs here](https://api.salesflare.com/docs#operation/putAccountsAccount_id)",
+  "type": "action",
+  "version": "0.0.2"
+}

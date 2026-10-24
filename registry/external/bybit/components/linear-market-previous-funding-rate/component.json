@@ -1,0 +1,7 @@
+{
+  "key": "bybit-linear-market-previous-funding-rate",
+  "name": "ByBit Linear Market Previous Funding Rate",
+  "description": "The funding rate is generated every 8 hours at 00:00 UTC, 08:00 UTC and 16:00 UTC. For example,",
+  "type": "action",
+  "version": "0.0.3"
+}

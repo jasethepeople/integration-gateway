@@ -1,0 +1,7 @@
+{
+  "key": "epsy-email-lookup",
+  "name": "Email Lookup",
+  "description": "Request a lookup for the provided email. [See the documentation](https://irbis.espysys.com/developer/)",
+  "type": "action",
+  "version": "0.0.2"
+}

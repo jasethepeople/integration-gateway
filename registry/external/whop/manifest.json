@@ -1,0 +1,39 @@
+{
+  "app": "whop",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "affiliateCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "membershipId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "metadata": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "planId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "whop-create-checkout-session",
+    "whop-create-promo-code",
+    "whop-list-affiliate-code-options",
+    "whop-list-membership-id-options",
+    "whop-list-plan-id-options",
+    "whop-terminate-membership",
+    "whop-new-membership-invalidated-instant",
+    "whop-new-membership-validated-instant",
+    "whop-new-payment-failed-instant",
+    "whop-new-payment-succeeded-instant"
+  ]
+}

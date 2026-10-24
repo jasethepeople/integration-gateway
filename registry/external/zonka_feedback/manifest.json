@@ -1,0 +1,25 @@
+{
+  "app": "zonka_feedback",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "surveyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "attributes": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "auth_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zonka_feedback-list-surveys",
+    "zonka_feedback-send-email-survey",
+    "zonka_feedback-send-sms-survey",
+    "zonka_feedback-new-survey-response"
+  ]
+}

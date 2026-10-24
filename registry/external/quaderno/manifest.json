@@ -1,0 +1,98 @@
+{
+  "app": "quaderno",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "invoiceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "city": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "region": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "streetLine1": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone1": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "postalCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fullName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dueDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "currency": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recurringPeriod": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recurringFrequency": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "subject": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "howManyItems": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "account_name": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "quaderno-create-contact",
+    "quaderno-create-invoice",
+    "quaderno-list-invoice-id-options",
+    "quaderno-update-invoice",
+    "quaderno-invoice-created",
+    "quaderno-payment-received"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

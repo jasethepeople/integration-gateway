@@ -1,0 +1,7 @@
+{
+  "key": "linkly-delete-link",
+  "name": "Delete Link",
+  "description": "Permanently delete a short link via `DELETE /api/v1/workspace/{workspace_id}/links/{id}`. The short URL will return 404 for new visitors. [See the documentation](https://app.linklyhq.com/swaggerui#/Links/deleteLink).",
+  "type": "action",
+  "version": "0.0.1"
+}

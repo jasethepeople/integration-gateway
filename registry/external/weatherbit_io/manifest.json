@@ -1,0 +1,16 @@
+{
+  "app": "weatherbit_io",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "weatherbit_io-fetch-current-weather",
+    "weatherbit_io-fetch-daily-forecast-weather",
+    "weatherbit_io-fetch-historical-weather-data"
+  ]
+}

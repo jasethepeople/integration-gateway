@@ -1,0 +1,59 @@
+{
+  "app": "mailersend",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "domainId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fromEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fromName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "toEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "toName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subject": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "substitutions": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mailersend-send-email-from-template",
+    "mailersend-send-email",
+    "mailersend-email-has-click-activity",
+    "mailersend-email-is-delivered",
+    "mailersend-email-is-hard-bounced",
+    "mailersend-email-is-opened",
+    "mailersend-email-is-sent",
+    "mailersend-email-is-soft-bounced",
+    "mailersend-email-spam-complaint",
+    "mailersend-recipient-unsubscribed"
+  ],
+  "npmImports": [
+    "crypto",
+    "mailersend"
+  ]
+}

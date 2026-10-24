@@ -1,0 +1,51 @@
+{
+  "app": "seqera",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "workspaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "launch": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "platformId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "credentialsId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "computeEnvId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pipeline": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "seqera-create-action",
+    "seqera-create-compute-environment",
+    "seqera-create-pipeline",
+    "seqera-list-platform-id-options",
+    "seqera-list-workspace-id-options",
+    "seqera-new-run-created"
+  ]
+}

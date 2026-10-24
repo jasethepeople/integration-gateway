@@ -1,0 +1,7 @@
+{
+  "key": "telegram_bot_api-edit-text-message",
+  "name": "Edit a Text Message",
+  "description": "Edits text or game messages. [See the docs](https://core.telegram.org/bots/api#editmessagetext) for more information",
+  "type": "action",
+  "version": "0.0.8"
+}

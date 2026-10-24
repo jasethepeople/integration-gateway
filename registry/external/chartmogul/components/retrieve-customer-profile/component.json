@@ -1,0 +1,7 @@
+{
+  "key": "chartmogul-retrieve-customer-profile",
+  "name": "Retrieve Customer Profile",
+  "description": "Retrieves a customer object from your ChartMogul account. [See the docs here](https://dev.chartmogul.com/reference/retrieve-customer)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "lokalise-create-project",
+  "name": "Create Project",
+  "description": "Initializes an empty project in Lokalise. [See the documentation](https://developers.lokalise.com/reference/create-a-project)",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "moodle-search-users",
+  "name": "Search Users",
+  "description": "Searches for Moodle users that match specific criteria such as username, email, or ID. [See the documentation](https://moodledev.io/docs/5.2)",
+  "type": "action",
+  "version": "0.0.1"
+}

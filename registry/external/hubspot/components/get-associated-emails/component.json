@@ -1,0 +1,7 @@
+{
+  "key": "hubspot-get-associated-emails",
+  "name": "Get Associated Emails",
+  "description": "Retrieves emails associated with a specific object (contact, company, or deal). [See the documentation](https://developers.hubspot.com/docs/reference/api/crm/search)",
+  "type": "action",
+  "version": "0.0.17"
+}

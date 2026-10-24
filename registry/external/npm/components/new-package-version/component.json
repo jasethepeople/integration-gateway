@@ -1,0 +1,7 @@
+{
+  "key": "npm-new-package-version",
+  "name": "New Package Version",
+  "description": "Emit new event when a new version of an npm package is published. [See the documentation](https://github.com/npm/registry/blob/main/docs/responses/package-metadata.md)",
+  "type": "source",
+  "version": "0.0.1"
+}

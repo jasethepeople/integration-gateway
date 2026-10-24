@@ -1,0 +1,7 @@
+{
+  "key": "harvest-update-project",
+  "name": "Update Project",
+  "description": "Update an existing project. Use **Get Projects** to find a project ID. Example: call with projectId set to a project's ID and projectName set to a new name to rename it. [See the documentation](https://help.getharvest.com/api-v2/projects-api/projects/projects/#update-a-project).",
+  "type": "action",
+  "version": "0.0.1"
+}

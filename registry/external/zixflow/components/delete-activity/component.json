@@ -1,0 +1,7 @@
+{
+  "key": "zixflow-delete-activity",
+  "name": "Delete Activity",
+  "description": "Deletes an existing activity or task from Zixflow. [See the documentation](https://docs.zixflow.com/api-reference/activity-list/delete)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "jenkins-new-job-status-notification-instant",
+  "name": "New Jenkins Job Status Notification (Instant)",
+  "description": "Emit new event when a Jenkins job sends a status notification via the notification plugin. [See the documentation](https://github.com/jenkinsci/notification-plugin).",
+  "type": "source",
+  "version": "0.0.2"
+}

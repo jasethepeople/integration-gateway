@@ -1,0 +1,7 @@
+{
+  "key": "bybit-list-coin-options",
+  "name": "List Coin Options",
+  "description": "Retrieves available options for the Coin field.",
+  "type": "action",
+  "version": "0.0.1"
+}

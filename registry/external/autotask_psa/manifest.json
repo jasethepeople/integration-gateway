@@ -1,0 +1,23 @@
+{
+  "app": "autotask_psa",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "filter": {
+      "kind": "propDefinition",
+      "type": "object"
+    }
+  },
+  "categories": [],
+  "components": [
+    "autotask_psa-get-companies-count",
+    "autotask_psa-get-tickets-count",
+    "autotask_psa-list-billing-items",
+    "autotask_psa-list-companies",
+    "autotask_psa-list-contracts",
+    "autotask_psa-list-resources",
+    "autotask_psa-list-service-call-tickets",
+    "autotask_psa-list-ticket-notes",
+    "autotask_psa-list-tickets",
+    "autotask_psa-list-time-entries"
+  ]
+}

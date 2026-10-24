@@ -1,0 +1,7 @@
+{
+  "key": "ringcentral-new-event",
+  "name": "New Event (Instant)",
+  "description": "Emit new event for each notification from RingCentral of a specified type",
+  "type": "source",
+  "version": "0.1.4"
+}

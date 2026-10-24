@@ -1,0 +1,7 @@
+{
+  "key": "procore-create-submittal",
+  "name": "Create Submittal",
+  "description": "Create a new submittal. [See the documentation](https://developers.procore.com/reference/rest/submittals?version=latest#create-submittal).",
+  "type": "action",
+  "version": "0.0.2"
+}

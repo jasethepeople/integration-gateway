@@ -1,0 +1,7 @@
+{
+  "key": "mixmax-new-contact",
+  "name": "New Contact",
+  "description": "Emit new event when a new contact is created. [See docs here](https://developer.mixmax.com/reference/contacts)",
+  "type": "source",
+  "version": "0.0.1"
+}

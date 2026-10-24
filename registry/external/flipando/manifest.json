@@ -1,0 +1,23 @@
+{
+  "app": "flipando",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "appId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "flipando-get-all-apps",
+    "flipando-get-task",
+    "flipando-run-app"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

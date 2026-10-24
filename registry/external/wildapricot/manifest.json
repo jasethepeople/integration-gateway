@@ -1,0 +1,40 @@
+{
+  "app": "wildapricot",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eventId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eventRegistrationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eventRegistrationTypeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "wildapricot-add-update-contact-member",
+    "wildapricot-add-update-event-registration",
+    "wildapricot-delete-event-registration",
+    "wildapricot-list-account-id-options",
+    "wildapricot-new-contact-or-member-updated",
+    "wildapricot-new-event-registration-created",
+    "wildapricot-new-payments-received"
+  ]
+}

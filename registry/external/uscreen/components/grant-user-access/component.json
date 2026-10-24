@@ -1,0 +1,7 @@
+{
+  "key": "uscreen-grant-user-access",
+  "name": "Grant User Access",
+  "description": "Grant access to an user. [See the documentation](https://uscreen.io/api/publisher.html#/default/post_customers__customer_id__accesses)",
+  "type": "action",
+  "version": "0.0.2"
+}

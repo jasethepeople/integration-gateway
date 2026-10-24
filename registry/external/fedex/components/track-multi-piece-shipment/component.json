@@ -1,0 +1,7 @@
+{
+  "key": "fedex-track-multi-piece-shipment",
+  "name": "Track Multi-Piece Shipment",
+  "description": "Tracks a multi-piece shipment. [See the documentation](https://developer.fedex.com/api/en-us/catalog/track/v1/docs.html#operation/Track%20Multiple%20Piece%20Shipment)",
+  "type": "action",
+  "version": "0.0.1"
+}

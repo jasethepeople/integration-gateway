@@ -1,0 +1,7 @@
+{
+  "key": "trengo-create-contact",
+  "name": "Create Contact",
+  "description": "Creates a contact. If a contact with given identifier already exists, returns it. [See the documentation](https://developers.trengo.com/reference/create-contact)",
+  "type": "action",
+  "version": "0.0.14"
+}

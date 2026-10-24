@@ -1,0 +1,7 @@
+{
+  "key": "sendblue-get-contact-list",
+  "name": "Get Contact List",
+  "description": "Retrieve a list of your existing contacts from Sendblue. [See the documentation](https://docs.sendblue.com/api/resources/contacts/methods/list)",
+  "type": "action",
+  "version": "0.0.1"
+}

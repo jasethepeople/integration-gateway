@@ -1,0 +1,7 @@
+{
+  "key": "google_sheets-new-spreadsheet",
+  "name": "New Spreadsheet",
+  "description": "Create a new Google Spreadsheet with an optional worksheet",
+  "type": "action",
+  "version": "0.0.17"
+}

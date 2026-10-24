@@ -1,0 +1,7 @@
+{
+  "key": "buildchatbot-submit-user-identification-form",
+  "name": "Submit User Identification Form",
+  "description": "Submit a user identification form. [See the API documentation](https://documenter.getpostman.com/view/27680478/2s9YR6baAb#d1454ee4-53c5-4553-823e-85c0ff1745c6)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "addressfinder-verify-address-au",
+  "name": "Verify Australian Address",
+  "description": "Validates an Australian address. [See the documentation](https://addressfinder.com.au/api/au/address/verification/)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "knowfirst-view-business-feed",
+  "name": "View Business Feed",
+  "description": "Retrieve feed event history for a business. [See the documentation](https://www.knowfirst.ai/docs/api/#/Feed/FeedList)",
+  "type": "action",
+  "version": "0.0.2"
+}

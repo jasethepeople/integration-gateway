@@ -1,0 +1,7 @@
+{
+  "key": "pusher-send-event-to-channel",
+  "name": "Send an Event to a Channel",
+  "description": "Send an event to a channel using Pusher's npm package",
+  "type": "action",
+  "version": "0.2.2"
+}

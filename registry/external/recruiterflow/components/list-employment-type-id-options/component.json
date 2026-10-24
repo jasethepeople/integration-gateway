@@ -1,0 +1,7 @@
+{
+  "key": "recruiterflow-list-employment-type-id-options",
+  "name": "List Employment Type ID Options",
+  "description": "Retrieves available options for the Employment Type ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

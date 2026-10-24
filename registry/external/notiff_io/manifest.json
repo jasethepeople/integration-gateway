@@ -1,0 +1,26 @@
+{
+  "app": "notiff_io",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "notiff_io-create-notification"
+  ]
+}

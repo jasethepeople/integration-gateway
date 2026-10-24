@@ -1,0 +1,7 @@
+{
+  "key": "vimeo-upload-video",
+  "name": "Upload Video",
+  "description": "Uploads a video to the user's Vimeo account. Ensure you have enough storage quota on your account. [See the documentation](https://developer.vimeo.com/api/reference/videos#upload_video)",
+  "type": "action",
+  "version": "0.0.2"
+}

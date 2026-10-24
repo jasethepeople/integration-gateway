@@ -1,0 +1,7 @@
+{
+  "key": "setmoreappointments-new-appointment-created",
+  "name": "New Appointment Created",
+  "description": "Emit new event when a new appointment is created in Setmore. [See the documentation](https://setmore.docs.apiary.io/#introduction/appointments/fetch-appointments-by-date-range)",
+  "type": "source",
+  "version": "0.0.1"
+}

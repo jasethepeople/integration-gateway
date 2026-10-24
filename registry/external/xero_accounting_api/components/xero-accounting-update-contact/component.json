@@ -1,0 +1,7 @@
+{
+  "key": "xero_accounting_api-xero-accounting-update-contact",
+  "name": "Update Contact",
+  "description": "Updates a contact given its identifier.",
+  "type": "action",
+  "version": "0.1.5"
+}

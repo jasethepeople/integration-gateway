@@ -1,0 +1,84 @@
+{
+  "app": "billbee",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "orderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "product": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shopId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderStateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tag": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "stockId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cloudStorageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shippingProviderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shipment": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "carrierId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shipmentType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "billbee-add-shipment-to-order",
+    "billbee-change-order-state",
+    "billbee-create-invoice-for-order",
+    "billbee-create-order",
+    "billbee-get-order-by-id",
+    "billbee-list-carrier-id-options",
+    "billbee-list-cloud-storage-id-options",
+    "billbee-list-customer-id-options",
+    "billbee-list-customers",
+    "billbee-list-order-id-options",
+    "billbee-list-order-state-id-options",
+    "billbee-list-orders",
+    "billbee-list-products",
+    "billbee-list-shipment-type-options",
+    "billbee-list-shipping-provider-id-options",
+    "billbee-list-shop-id-options",
+    "billbee-list-stock-id-options",
+    "billbee-update-order",
+    "billbee-update-stock"
+  ]
+}

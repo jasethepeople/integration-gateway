@@ -1,0 +1,7 @@
+{
+  "key": "vies_api-retrieve-vat-data",
+  "name": "Retrieve VAT Data",
+  "description": "Get firm data from VIES registry. [See the documentation](https://viesapi.eu/public/rest/index.html#/API/getVIESData)",
+  "type": "action",
+  "version": "0.0.3"
+}

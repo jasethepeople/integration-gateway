@@ -1,0 +1,14 @@
+{
+  "app": "onstrategy",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "onstrategy-new-goal-added"
+  ]
+}

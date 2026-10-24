@@ -1,0 +1,7 @@
+{
+  "key": "opensrs-new-transfer-status",
+  "name": "New Transfer Status",
+  "description": "Emit new event when the status of a domain transfer changes. [See the documentation](https://domains.opensrs.guide/docs/status_change-transfer).",
+  "type": "source",
+  "version": "0.0.1"
+}

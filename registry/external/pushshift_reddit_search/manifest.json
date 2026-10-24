@@ -1,0 +1,116 @@
+{
+  "app": "pushshift_reddit_search",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "ids": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "q": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "qNot": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "titleNot": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "selftext": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "selftextNot": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "size": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "fields": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sort": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sortType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "aggs": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "author": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subreddit": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "score": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "numComments": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "over18": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "isVideo": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "locked": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "stickied": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "spoiler": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "contentMode": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "frequency": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "metadata": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "after": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "before": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pushshift_reddit_search-search-reddit-posts",
+    "pushshift_reddit_search-new-comments-by-search",
+    "pushshift_reddit_search-new-posts-by-search"
+  ]
+}

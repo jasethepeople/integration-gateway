@@ -1,0 +1,7 @@
+{
+  "key": "weglot-translate-text",
+  "name": "Translate Text",
+  "description": "Translate text using Weglot. [See the documentation](https://developers.weglot.com/api/reference#translate)",
+  "type": "action",
+  "version": "0.0.2"
+}

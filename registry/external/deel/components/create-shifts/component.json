@@ -1,0 +1,7 @@
+{
+  "key": "deel-create-shifts",
+  "name": "Create Shifts",
+  "description": "Create one or more time tracking shifts for a GP (Global Payroll) contract in Deel.",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "moneybird-create-contact",
+  "name": "Create Contact",
+  "description": "Create a new contact. [See docs here](https://developer.moneybird.com/api/contacts/#post_contacts)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "google_ads-create-or-remove-campaign-criteria",
+  "name": "Create or Remove Campaign Criteria",
+  "description": "Whether to create or remove a campaign criterion.",
+  "type": "action",
+  "version": "0.0.5"
+}

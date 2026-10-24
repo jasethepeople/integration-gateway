@@ -1,0 +1,20 @@
+{
+  "app": "repliq",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "repliq-get-credits-count",
+    "repliq-launch-template",
+    "repliq-list-template-id-options"
+  ]
+}

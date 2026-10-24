@@ -1,0 +1,42 @@
+{
+  "app": "papyrs",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "subsite": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "page": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "format": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "value": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "widget": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "site_name": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "papyrs-create-heading",
+    "papyrs-create-paragraph",
+    "papyrs-list-page-options",
+    "papyrs-update-heading",
+    "papyrs-update-paragraph"
+  ]
+}

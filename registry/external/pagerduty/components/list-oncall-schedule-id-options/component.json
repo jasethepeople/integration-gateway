@@ -1,0 +1,7 @@
+{
+  "key": "pagerduty-list-oncall-schedule-id-options",
+  "name": "List On-Call Schedule ID Options",
+  "description": "Retrieves available options for the On-Call Schedule ID field.",
+  "type": "action",
+  "version": "0.0.2"
+}

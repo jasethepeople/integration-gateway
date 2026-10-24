@@ -1,0 +1,7 @@
+{
+  "key": "hunter-email-verifier",
+  "name": "Email Verifier",
+  "description": "Check the deliverability of a given email address, verify if it has been found in Hunter's database, and return their sources. [See the documentation](https://hunter.io/api-documentation/v2#email-verifier).",
+  "type": "action",
+  "version": "0.0.2"
+}

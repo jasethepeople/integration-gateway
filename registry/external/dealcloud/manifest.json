@@ -1,0 +1,34 @@
+{
+  "app": "dealcloud",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "entryTypeId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "entryId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "ignoreNearDups": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "host": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dealcloud-create-record",
+    "dealcloud-delete-records",
+    "dealcloud-get-records",
+    "dealcloud-list-entry-type-id-options",
+    "dealcloud-update-record"
+  ]
+}

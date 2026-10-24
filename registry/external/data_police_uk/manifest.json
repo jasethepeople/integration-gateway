@@ -1,0 +1,41 @@
+{
+  "app": "data_police_uk",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "date": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "forceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lat": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lng": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "poly": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "specificCrimeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "data_police_uk-fetch-forces",
+    "data_police_uk-obtain-crime-outcomes",
+    "data_police_uk-retrieve-crime-data",
+    "data_police_uk-crime-reported",
+    "data_police_uk-street-level-crime-updated"
+  ],
+  "npmImports": [
+    "moment"
+  ]
+}

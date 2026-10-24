@@ -1,0 +1,7 @@
+{
+  "key": "openai-chat-using-web-search",
+  "name": "Chat using Web Search",
+  "description": "Chat using the web search tool. [See the documentation](https://platform.openai.com/docs/guides/tools-web-search)",
+  "type": "action",
+  "version": "0.0.10"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "aws-dynamodb-execute-statement",
+  "name": "DynamoDB - Execute Statement",
+  "description": "",
+  "type": "action",
+  "version": "0.2.3"
+}

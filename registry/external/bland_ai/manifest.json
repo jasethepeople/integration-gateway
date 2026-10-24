@@ -1,0 +1,29 @@
+{
+  "app": "bland_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "callId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "goal": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "questions": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "bland_ai-analyze-call",
+    "bland_ai-end-call",
+    "bland_ai-get-transcript",
+    "bland_ai-list-call-id-options"
+  ]
+}

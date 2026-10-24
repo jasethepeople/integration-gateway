@@ -1,0 +1,7 @@
+{
+  "key": "rosette_text_analytics-extract-entities",
+  "name": "Extract Entities",
+  "description": "Extract entities from content using Rosette. [See the documentation](https://documentation.babelstreet.com/analytics/text-analytics/entity-extractor/extract-entities)",
+  "type": "action",
+  "version": "0.0.2"
+}

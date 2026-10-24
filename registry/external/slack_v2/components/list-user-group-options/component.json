@@ -1,0 +1,7 @@
+{
+  "key": "slack_v2-list-user-group-options",
+  "name": "List User Group Options",
+  "description": "Retrieves available options for the User Group field. [See the documentation](https://docs.slack.dev/reference/methods/usergroups.list)",
+  "type": "action",
+  "version": "0.0.14"
+}

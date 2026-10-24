@@ -1,0 +1,7 @@
+{
+  "key": "rewiser-create-transaction",
+  "name": "Create Transaction",
+  "description": "Create a financial transaction in Rewiser. [See the documentation](https://rewiser.io/api)",
+  "type": "action",
+  "version": "0.0.2"
+}

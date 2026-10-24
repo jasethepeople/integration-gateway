@@ -1,0 +1,7 @@
+{
+  "key": "teamleader_focus-import-message",
+  "name": "Import Message",
+  "description": "Import a message into a ticket. [See the documentation](https://developer.focus.teamleader.eu/docs/api/tickets-import-message)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "upkeep-find-asset",
+  "name": "Find Asset",
+  "description": "Finds assets according to props configured, if no prop configured returns all assets, [See the docs](https://developers.onupkeep.com/#get-all-assets)",
+  "type": "action",
+  "version": "0.0.3"
+}

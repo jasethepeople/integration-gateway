@@ -1,0 +1,7 @@
+{
+  "key": "zest-new-gift-accepted-instant",
+  "name": "New Gift Accepted (Instant)",
+  "description": "Emit new event when a gift is accepted. [See the documentation](https://gifts.zest.co/admin/integrations/documentation#operation/createWebhookEndpoint)",
+  "type": "source",
+  "version": "0.0.1"
+}

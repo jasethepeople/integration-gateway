@@ -1,0 +1,7 @@
+{
+  "key": "confluence_data_center-page-updated",
+  "name": "Page Updated (Instant)",
+  "description": "Emit new event when a page is updated in Confluence Data Center.",
+  "type": "source",
+  "version": "0.0.3"
+}

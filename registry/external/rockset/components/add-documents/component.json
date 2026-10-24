@@ -1,0 +1,7 @@
+{
+  "key": "rockset-add-documents",
+  "name": "Add Documents",
+  "description": "Add documents to a collection in Rockset. Learn more at https://docs.rockset.com/rest/#adddocuments.",
+  "type": "action",
+  "version": "0.1.2"
+}

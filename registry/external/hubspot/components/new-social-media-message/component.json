@@ -1,0 +1,7 @@
+{
+  "key": "hubspot-new-social-media-message",
+  "name": "New Social Media Message",
+  "description": "Emit new event when a message is posted from HubSpot to the specified social media channel. Note: Only available for Marketing Hub Enterprise accounts",
+  "type": "source",
+  "version": "0.0.47"
+}

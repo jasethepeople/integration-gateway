@@ -1,0 +1,7 @@
+{
+  "key": "bybit-generic-market-symbols",
+  "name": "ByBit Generic Market Symbols",
+  "description": "Get symbol info.[reference](https://bybit-exchange.github.io/docs/futuresV2/inverse/#t-querysymbol)",
+  "type": "action",
+  "version": "0.0.2"
+}

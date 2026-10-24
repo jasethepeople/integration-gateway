@@ -1,0 +1,7 @@
+{
+  "key": "roblox-delete-data-store-entry",
+  "name": "Delete Data Store Entry",
+  "description": "Delete an entry from a Roblox data store. [See the documentation](https://create.roblox.com/docs/cloud/reference/features/storage#Cloud_DeleteDataStoreEntry__Using_Universes_DataStores)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "quickbooks-list-customer-options",
+  "name": "List Customer Reference Options",
+  "description": "Retrieves available options for the Customer Reference field.",
+  "type": "action",
+  "version": "0.0.1"
+}

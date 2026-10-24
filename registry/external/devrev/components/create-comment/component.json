@@ -1,0 +1,7 @@
+{
+  "key": "devrev-create-comment",
+  "name": "Create Comment",
+  "description": "Creates a new comment on a work item in DevRev. [See the documentation](https://devrev.ai/docs/apis/beta-api-spec#/operations/timeline-entries-create)",
+  "type": "action",
+  "version": "0.0.3"
+}

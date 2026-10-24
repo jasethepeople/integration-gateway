@@ -1,0 +1,7 @@
+{
+  "key": "sendcloud-list-service-points",
+  "name": "List Service Points",
+  "description": "List service points. [See the documentation](https://api.sendcloud.dev/docs/sendcloud-public-api/branches/v2/service-points/operations/list-service-points)",
+  "type": "action",
+  "version": "0.0.4"
+}

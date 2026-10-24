@@ -1,0 +1,7 @@
+{
+  "key": "databricks-set-sql-warehouse-permissions",
+  "name": "Set SQL Warehouse Permissions",
+  "description": "Updates the permissions for a specific SQL Warehouse. [See the documentation](https://docs.databricks.com/api/workspace/warehouses/setpermissions)",
+  "type": "action",
+  "version": "0.0.7"
+}

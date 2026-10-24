@@ -1,0 +1,7 @@
+{
+  "key": "google_cloud-switch-instance-boot-status",
+  "name": "Switch Instance Boot Status",
+  "description": "Switch a virtual machine instance boot status to start or stop it. [See the documentation](https://cloud.google.com/compute/docs/instances/stop-start-instance)",
+  "type": "action",
+  "version": "0.0.5"
+}

@@ -1,0 +1,30 @@
+{
+  "app": "google_photos",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "mediaItemId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "albumId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "google_photos-add-items-to-album",
+    "google_photos-create-album",
+    "google_photos-get-media-item",
+    "google_photos-list-library-contents",
+    "google_photos-share-album",
+    "google_photos-upload-item"
+  ],
+  "npmImports": [
+    "fs"
+  ]
+}

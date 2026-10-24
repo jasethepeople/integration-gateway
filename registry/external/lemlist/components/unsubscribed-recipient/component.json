@@ -1,0 +1,7 @@
+{
+  "key": "lemlist-unsubscribed-recipient",
+  "name": "New Unsubscribed Recipient (Instant)",
+  "description": "Emit new event when a recipient unsubscribes. [See docs here](https://developer.lemlist.com/#add-a-hook)",
+  "type": "source",
+  "version": "0.0.1"
+}

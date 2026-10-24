@@ -1,0 +1,7 @@
+{
+  "key": "moxie-new-project-created",
+  "name": "New Project Created",
+  "description": "Emit new event when a new project is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

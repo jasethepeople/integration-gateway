@@ -1,0 +1,7 @@
+{
+  "key": "liveagent-get-agent",
+  "name": "Get Agent",
+  "description": "Retrieves agent info and auth token. [See the documentation](https://support.liveagent.com/911737-API-v3)",
+  "type": "action",
+  "version": "0.0.1"
+}

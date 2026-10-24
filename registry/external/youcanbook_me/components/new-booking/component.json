@@ -1,0 +1,7 @@
+{
+  "key": "youcanbook_me-new-booking",
+  "name": "New Booking",
+  "description": "Emit new event for each new booking",
+  "type": "source",
+  "version": "0.0.2"
+}

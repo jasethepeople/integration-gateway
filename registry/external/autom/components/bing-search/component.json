@@ -1,0 +1,7 @@
+{
+  "key": "autom-bing-search",
+  "name": "Bing Search",
+  "description": "Scrape the results from Bing search engine via the Autom.dev service. [See the documentation](https://docs.autom.dev/api-reference/bing/search)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "surveymethods-create-email-list",
+  "name": "Create Email List",
+  "description": "Creates a email list. [See docs here in 8.2](https://app.surveymethods.com/t-help/api/surveymethodsapidocumentv1.pdf)",
+  "type": "action",
+  "version": "0.0.2"
+}

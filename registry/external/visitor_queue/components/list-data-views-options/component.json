@@ -1,0 +1,7 @@
+{
+  "key": "visitor_queue-list-data-views-options",
+  "name": "List Data Views Options",
+  "description": "Retrieves available options for the Data Views field.",
+  "type": "action",
+  "version": "0.0.1"
+}

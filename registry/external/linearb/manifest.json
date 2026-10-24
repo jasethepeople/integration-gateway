@@ -1,0 +1,26 @@
+{
+  "app": "linearb",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "teams": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "services": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "linearb-create-incident",
+    "linearb-list-services-options",
+    "linearb-list-teams-options",
+    "linearb-search-incidents",
+    "linearb-new-deploy-created"
+  ]
+}

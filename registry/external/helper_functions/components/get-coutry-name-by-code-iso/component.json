@@ -1,0 +1,7 @@
+{
+  "key": "helper_functions-get-coutry-name-by-code-iso",
+  "name": "Country name, given code (2-letter)",
+  "description": "Return the country name (in English) when given the 2-letter country code",
+  "type": "action",
+  "version": "0.1.2"
+}

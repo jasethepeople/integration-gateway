@@ -1,0 +1,7 @@
+{
+  "key": "google_sheets-move-dimension",
+  "name": "Move Dimension",
+  "description": "Move a dimension in a spreadsheet. [See the documentation](https://developers.google.com/workspace/sheets/api/reference/rest/v4/spreadsheets/request#MoveDimensionRequest)",
+  "type": "action",
+  "version": "0.0.4"
+}

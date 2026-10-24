@@ -1,0 +1,29 @@
+{
+  "app": "dingconnect",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "skuCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sendValue": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "batchItemRef": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dingconnect-estimate-prices",
+    "dingconnect-get-balance",
+    "dingconnect-get-products",
+    "dingconnect-list-sku-code-options"
+  ]
+}

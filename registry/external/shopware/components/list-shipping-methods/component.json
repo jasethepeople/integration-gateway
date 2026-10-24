@@ -1,0 +1,7 @@
+{
+  "key": "shopware-list-shipping-methods",
+  "name": "List Shipping Methods",
+  "description": "List all shipping methods. [See the documentation](https://shopware.stoplight.io/docs/admin-api/7d33c6b3c151d-list-with-basic-information-of-shipping-method-resources)",
+  "type": "action",
+  "version": "0.0.1"
+}

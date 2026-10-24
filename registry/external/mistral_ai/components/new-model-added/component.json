@@ -1,0 +1,7 @@
+{
+  "key": "mistral_ai-new-model-added",
+  "name": "New Model Added",
+  "description": "Emit new event when a new AI model is registered or becomes available. [See the Documentation](https://docs.mistral.ai/api/#tag/models)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pagerduty-list-escalation-policies",
+  "name": "List Escalation Policies",
+  "description": "List escalation policies in the PagerDuty account.",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,21 @@
+{
+  "app": "signaturely",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "signaturely-create-signature-request",
+    "signaturely-list-template-id-options",
+    "signaturely-document-sent",
+    "signaturely-signature-request-sent"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zoho_analytics-add-row",
+  "name": "Add Row",
+  "description": "Add a single row in the specified table. [See the documentation](https://www.zoho.com/analytics/api/v2/#add-row)",
+  "type": "action",
+  "version": "0.0.2"
+}

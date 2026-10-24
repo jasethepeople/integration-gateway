@@ -1,0 +1,43 @@
+{
+  "app": "codex",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "networkId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "tokenAddress": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "walletAddress": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "cursor": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "codex-filter-tokens",
+    "codex-get-networks",
+    "codex-get-pair-stats",
+    "codex-get-prediction-market-data",
+    "codex-get-token-chart",
+    "codex-get-token-details",
+    "codex-get-token-events",
+    "codex-get-token-holders",
+    "codex-get-wallet-balances",
+    "codex-get-wallet-transactions"
+  ]
+}

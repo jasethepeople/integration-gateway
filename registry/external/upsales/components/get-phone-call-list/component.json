@@ -1,0 +1,7 @@
+{
+  "key": "upsales-get-phone-call-list",
+  "name": "Get Phone Call List",
+  "description": "Retrieves a list of phone calls from Upsales. [See the documentation](https://api.upsales.com/#61bbc6c1-04b9-4776-8073-aff47b69d302)",
+  "type": "action",
+  "version": "0.0.1"
+}

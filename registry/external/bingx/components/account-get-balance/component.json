@@ -1,0 +1,7 @@
+{
+  "key": "bingx-account-get-balance",
+  "name": "BingX Account Get Balance",
+  "description": "Get Perpetual Swap Account Asset Information [See the documentation](https://bingx-api.github.io/docs/#/swapV2/account-api.html).",
+  "type": "action",
+  "version": "0.0.6"
+}

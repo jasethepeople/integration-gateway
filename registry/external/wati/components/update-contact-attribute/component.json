@@ -1,0 +1,7 @@
+{
+  "key": "wati-update-contact-attribute",
+  "name": "Update Contact Attribute",
+  "description": "Allows updating attributes/tags related to an existing contact. [See the documentation](https://docs.wati.io/reference/post_api-v1-updatecontactattributes-whatsappnumber)",
+  "type": "action",
+  "version": "0.0.2"
+}

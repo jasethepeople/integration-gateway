@@ -1,0 +1,7 @@
+{
+  "key": "google_search_console-retrieve-site-performance-data",
+  "name": "Query Search Analytics",
+  "description": "Query Google Search Console search analytics for one property and one date range: ",
+  "type": "action",
+  "version": "1.1.0"
+}

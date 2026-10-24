@@ -1,0 +1,100 @@
+{
+  "app": "hr_cloud",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "departmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobTitle": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "employeeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "locationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "employmentStatusId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "employeeNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recordStatus": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "address": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "city": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "state": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "zip": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "applicationCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "assigneeType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "consumer_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "consumer_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "hr_cloud-create-employee",
+    "hr_cloud-create-task",
+    "hr_cloud-list-department-id-options",
+    "hr_cloud-list-employee-id-options",
+    "hr_cloud-list-employment-status-id-options",
+    "hr_cloud-list-job-title-options",
+    "hr_cloud-list-location-id-options",
+    "hr_cloud-update-employee",
+    "hr_cloud-new-applicant-created",
+    "hr_cloud-new-employee-created",
+    "hr_cloud-new-task-created"
+  ]
+}

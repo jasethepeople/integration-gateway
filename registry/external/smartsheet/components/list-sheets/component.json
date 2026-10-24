@@ -1,0 +1,7 @@
+{
+  "key": "smartsheet-list-sheets",
+  "name": "List Sheets",
+  "description": "List all sheets the authenticated user can access, with name, ID, creation/modification dates, owner, and permalink.",
+  "type": "action",
+  "version": "1.0.1"
+}

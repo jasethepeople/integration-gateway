@@ -1,0 +1,7 @@
+{
+  "key": "teamwork-get-user",
+  "name": "Get User",
+  "description": "Get a user by ID. [See the documentation](https://apidocs.teamwork.com/docs/teamwork/v1/people/get-people-id-json)",
+  "type": "action",
+  "version": "0.0.3"
+}

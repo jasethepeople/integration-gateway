@@ -1,0 +1,20 @@
+{
+  "app": "screendesk",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "uuid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "screendesk-list-uuid-options",
+    "screendesk-retrieve-recording",
+    "screendesk-new-recording"
+  ]
+}

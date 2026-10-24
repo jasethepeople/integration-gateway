@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-text-search",
+  "name": "Text Search",
+  "description": "Search Salesforce records by keyword across multiple object types simultaneously.",
+  "type": "action",
+  "version": "0.0.4"
+}

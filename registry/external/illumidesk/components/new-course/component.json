@@ -1,0 +1,7 @@
+{
+  "key": "illumidesk-new-course",
+  "name": "New Course",
+  "description": "Emit new event when a new course is created",
+  "type": "source",
+  "version": "0.0.1"
+}

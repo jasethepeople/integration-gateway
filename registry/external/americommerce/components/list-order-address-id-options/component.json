@@ -1,0 +1,7 @@
+{
+  "key": "americommerce-list-order-address-id-options",
+  "name": "List Order Address ID Options",
+  "description": "Retrieves available options for the Order Address ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "charthop-new-job-created",
+  "name": "New Job Created",
+  "description": "Emit new event when a new job is added to the organization. [See the documentation](https://api.charthop.com/swagger#/job/findJobs)",
+  "type": "source",
+  "version": "0.0.1"
+}

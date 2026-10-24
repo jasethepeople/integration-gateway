@@ -1,0 +1,7 @@
+{
+  "key": "starloop-list-business-id-options",
+  "name": "List Business ID Options",
+  "description": "Retrieves available options for the Business ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

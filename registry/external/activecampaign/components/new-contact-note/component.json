@@ -1,0 +1,7 @@
+{
+  "key": "activecampaign-new-contact-note",
+  "name": "New Contact Note (Instant)",
+  "description": "Emit new event each time a new note is added to a contact.",
+  "type": "source",
+  "version": "0.0.7"
+}

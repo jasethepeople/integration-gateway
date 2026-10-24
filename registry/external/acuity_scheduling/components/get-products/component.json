@@ -1,0 +1,7 @@
+{
+  "key": "acuity_scheduling-get-products",
+  "name": "Get Products",
+  "description": "Return a list of products and packages. [See the documentation](https://developers.acuityscheduling.com/reference/get-products)",
+  "type": "action",
+  "version": "0.0.2"
+}

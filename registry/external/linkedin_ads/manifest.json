@@ -1,0 +1,47 @@
+{
+  "app": "linkedin_ads",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "adAccountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "accounts": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "eventId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "conversionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "leadFormId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "linkedin_ads-create-report-by-advertiser-account",
+    "linkedin_ads-create-report-by-campaign",
+    "linkedin_ads-create-report",
+    "linkedin_ads-list-accounts-options",
+    "linkedin_ads-send-conversion-event",
+    "linkedin_ads-new-event-registration-form-response",
+    "linkedin_ads-new-lead-gen-form-created"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

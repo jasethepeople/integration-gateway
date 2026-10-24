@@ -1,0 +1,30 @@
+{
+  "app": "upwave",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "workspaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "boardId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dueDt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "upwave-create-card"
+  ]
+}

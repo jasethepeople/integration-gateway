@@ -1,0 +1,32 @@
+{
+  "app": "amilia",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "account": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "organization": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "amilia-get-account",
+    "amilia-list-account-options",
+    "amilia-list-accounts",
+    "amilia-new-account",
+    "amilia-new-activity",
+    "amilia-updated-account",
+    "amilia-updated-activity"
+  ],
+  "npmImports": [
+    "async-retry",
+    "lodash"
+  ]
+}

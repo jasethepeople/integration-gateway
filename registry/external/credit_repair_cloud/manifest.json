@@ -1,0 +1,141 @@
+{
+  "app": "credit_repair_cloud",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstname": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastname": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "middlename": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "suffix": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone_home": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "phone_work": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "phone_mobile": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "street_address": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "city": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "state": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "post_code": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "ssno": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "birth_date": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "memo": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "previous_mailing_address": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "previous_city": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "previous_state": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "previous_zip": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "client_assigned_to": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "client_portal_access": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "client_userid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "client_agreement": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "send_setup_password_info_via_email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "referred_by_firstname": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "referred_by_lastname": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "referred_by_email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "id": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "credit_repair_cloud-create-client",
+    "credit_repair_cloud-delete-client",
+    "credit_repair_cloud-get-client",
+    "credit_repair_cloud-update-client"
+  ],
+  "npmImports": [
+    "js2xmlparser",
+    "xml2js"
+  ]
+}

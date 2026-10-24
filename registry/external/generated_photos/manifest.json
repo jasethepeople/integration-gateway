@@ -1,0 +1,23 @@
+{
+  "app": "generated_photos",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "generated_photos-generate-faces",
+    "generated_photos-generate-similar-faces-by-upload",
+    "generated_photos-generate-similar-faces-by-url"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

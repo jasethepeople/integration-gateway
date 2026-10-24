@@ -1,0 +1,7 @@
+{
+  "key": "surecart-delete-coupon",
+  "name": "Delete Coupon",
+  "description": "Delete a coupon by ID. [See the documentation](https://developer.surecart.com/api-reference/coupons/delete)",
+  "type": "action",
+  "version": "0.0.1"
+}

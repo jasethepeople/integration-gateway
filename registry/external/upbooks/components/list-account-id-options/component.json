@@ -1,0 +1,7 @@
+{
+  "key": "upbooks-list-account-id-options",
+  "name": "List Account Id Options",
+  "description": "Retrieves available options for the Account Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

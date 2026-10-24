@@ -1,0 +1,38 @@
+{
+  "app": "tisane_labs",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "language": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "format": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "featureStandard": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "topicStandard": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sentimentAnalysisType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "tisane_labs-analyze-text",
+    "tisane_labs-detect-language",
+    "tisane_labs-generate-image-from-text",
+    "tisane_labs-list-language-options",
+    "tisane_labs-translate-text"
+  ]
+}

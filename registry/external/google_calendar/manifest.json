@@ -1,0 +1,50 @@
+{
+  "app": "google_calendar",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "timeZone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eventTypes": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "google_calendar-add-attendees-to-event",
+    "google_calendar-create-event",
+    "google_calendar-delete-event",
+    "google_calendar-get-calendar",
+    "google_calendar-get-current-user",
+    "google_calendar-get-date-time",
+    "google_calendar-get-event",
+    "google_calendar-list-calendars",
+    "google_calendar-list-color-id-options",
+    "google_calendar-list-event-instances",
+    "google_calendar-list-events",
+    "google_calendar-query-free-busy-calendars",
+    "google_calendar-quick-add-event",
+    "google_calendar-respond-to-event",
+    "google_calendar-update-event-instance",
+    "google_calendar-update-event",
+    "google_calendar-update-following-instances",
+    "google_calendar-event-cancelled",
+    "google_calendar-event-ended",
+    "google_calendar-new-calendar",
+    "google_calendar-new-event-search",
+    "google_calendar-new-or-updated-event-instant",
+    "google_calendar-upcoming-event-alert-polling"
+  ],
+  "npmImports": [
+    "@googleapis/calendar",
+    "color-2-name",
+    "moment-timezone",
+    "uuid"
+  ]
+}

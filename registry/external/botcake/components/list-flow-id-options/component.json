@@ -1,0 +1,7 @@
+{
+  "key": "botcake-list-flow-id-options",
+  "name": "List Flow ID Options",
+  "description": "Retrieves available options for the Flow ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

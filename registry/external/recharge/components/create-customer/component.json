@@ -1,0 +1,7 @@
+{
+  "key": "recharge-create-customer",
+  "name": "Create Customer",
+  "description": "Creates a customer. [See the documentation](https://developer.rechargepayments.com/2021-11/customers/customers_create)",
+  "type": "action",
+  "version": "0.0.2"
+}

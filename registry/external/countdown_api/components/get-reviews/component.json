@@ -1,0 +1,7 @@
+{
+  "key": "countdown_api-get-reviews",
+  "name": "Get Product Reviews",
+  "description": "Retrieves customer reviews for a specific product on eBay. [See the documentation](https://www.countdownapi.com/docs/ebay-product-data-api/parameters/reviews)",
+  "type": "action",
+  "version": "0.0.2"
+}

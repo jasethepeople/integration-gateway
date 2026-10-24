@@ -1,0 +1,7 @@
+{
+  "key": "trust-delete-testimonial",
+  "name": "Delete Testimonial",
+  "description": "Deletes an existing testimonial from the Trust platform. [See the documentation](https://api-docs.usetrust.io/)",
+  "type": "action",
+  "version": "0.0.2"
+}

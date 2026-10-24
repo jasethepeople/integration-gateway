@@ -1,0 +1,7 @@
+{
+  "key": "salesflare-find-opportunity",
+  "name": "Find Opportunity",
+  "description": "Finds opportunities according to props configured, if no prop configured returns all opportunities [See the docs here](https://api.salesflare.com/docs#operation/getOpportunities)",
+  "type": "action",
+  "version": "0.0.2"
+}

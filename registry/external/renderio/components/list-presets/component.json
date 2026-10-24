@@ -1,0 +1,7 @@
+{
+  "key": "renderio-list-presets",
+  "name": "List Presets",
+  "description": "Retrieve available RenderIO presets. [See the documentation](https://renderio.dev/docs/api-reference/presets/list-presets)",
+  "type": "action",
+  "version": "0.0.1"
+}

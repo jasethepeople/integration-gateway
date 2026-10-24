@@ -1,0 +1,30 @@
+{
+  "app": "workiom",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "appId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "listId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recordId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "workiom-create-record",
+    "workiom-list-app-id-options",
+    "workiom-update-record",
+    "workiom-new-record-instant",
+    "workiom-updated-record-instant"
+  ]
+}

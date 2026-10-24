@@ -1,0 +1,7 @@
+{
+  "key": "splunk-new-alert-fired",
+  "name": "New Alert Fired (Instant)",
+  "description": "Emit new event when a new alert is triggered in Splunk. [See the documentation](https://docs.splunk.com/Documentation/Splunk/9.4.1/RESTREF/RESTsearch#alerts.2Ffired_alerts)",
+  "type": "source",
+  "version": "0.0.2"
+}

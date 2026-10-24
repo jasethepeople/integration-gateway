@@ -1,0 +1,7 @@
+{
+  "key": "lightspeed_ecom_c_series-find-customers",
+  "name": "Find Customers",
+  "description": "Find a customer by ID. [See the documentation](https://developers.lightspeedhq.com/ecom/endpoints/customer/#get-all-customers)",
+  "type": "action",
+  "version": "0.0.1"
+}

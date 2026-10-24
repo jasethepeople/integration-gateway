@@ -1,0 +1,7 @@
+{
+  "key": "guru-new-card-instant",
+  "name": "New Card Created (Instant)",
+  "description": "Emit new event when a new card is published. [See the documentation](https://developer.getguru.com/docs/creating-a-webhook)",
+  "type": "source",
+  "version": "0.0.1"
+}

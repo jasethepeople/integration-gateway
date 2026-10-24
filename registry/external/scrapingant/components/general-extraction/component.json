@@ -1,0 +1,7 @@
+{
+  "key": "scrapingant-general-extraction",
+  "name": "General Extraction",
+  "description": "Send a request using the standard extraction method of ScrapingAnt. [See the documentation](https://docs.scrapingant.com/request-response-format)",
+  "type": "action",
+  "version": "0.0.2"
+}

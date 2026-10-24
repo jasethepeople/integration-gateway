@@ -1,0 +1,7 @@
+{
+  "key": "hedy-get-many-todos",
+  "name": "Get Many Todos",
+  "description": "Retrieves a paginated list of action items (todos) across all Hedy sessions.",
+  "type": "action",
+  "version": "0.0.2"
+}

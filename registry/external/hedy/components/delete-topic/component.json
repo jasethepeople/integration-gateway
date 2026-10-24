@@ -1,0 +1,7 @@
+{
+  "key": "hedy-delete-topic",
+  "name": "Delete Topic",
+  "description": "Deletes a Hedy topic. Sessions that were linked to the topic are NOT deleted — they are unlinked and remain in your account.",
+  "type": "action",
+  "version": "0.0.3"
+}

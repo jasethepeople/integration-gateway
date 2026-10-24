@@ -1,0 +1,80 @@
+{
+  "app": "postmark",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "domainId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "serverId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "signatureId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "templateAlias": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tag": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fromdate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "todate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "messagestream": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "server_api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "postmark-create-domain",
+    "postmark-create-signature",
+    "postmark-delete-domain",
+    "postmark-delete-signature",
+    "postmark-get-bounce-counts",
+    "postmark-get-browser-usage",
+    "postmark-get-click-counts",
+    "postmark-get-domain",
+    "postmark-get-email-open-counts",
+    "postmark-get-email-platform-usage",
+    "postmark-get-outbound-overview",
+    "postmark-get-sent-counts",
+    "postmark-get-spam-complaints",
+    "postmark-get-tracked-email-counts",
+    "postmark-list-domain-id-options",
+    "postmark-list-domains",
+    "postmark-list-sender-signatures",
+    "postmark-list-server-id-options",
+    "postmark-list-signature-id-options",
+    "postmark-resend-confirmation",
+    "postmark-rotate-dkim-keys",
+    "postmark-send-batch-with-templates",
+    "postmark-send-email-with-template",
+    "postmark-send-single-email",
+    "postmark-update-signature",
+    "postmark-verify-dkim",
+    "postmark-verify-return-path",
+    "postmark-new-domain",
+    "postmark-new-email-opened",
+    "postmark-new-inbound-email-received",
+    "postmark-new-sender-signature"
+  ]
+}

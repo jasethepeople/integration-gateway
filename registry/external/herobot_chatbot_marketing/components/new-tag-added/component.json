@@ -1,0 +1,7 @@
+{
+  "key": "herobot_chatbot_marketing-new-tag-added",
+  "name": "New Tag Added",
+  "description": "Emit new event when a new tag is added to a specific user.",
+  "type": "source",
+  "version": "0.0.1"
+}

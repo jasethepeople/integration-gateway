@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_power_bi-execute-dax-query",
+  "name": "Execute DAX Query",
+  "description": "Execute a DAX (Data Analysis Expressions) query against a Power BI dataset (semantic model).",
+  "type": "action",
+  "version": "0.0.4"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_dynamics_365_sales-opportunity-stage-updated",
+  "name": "Opportunity Stage Updated",
+  "description": "Emit new event when the stage of an opportunity is updated.",
+  "type": "source",
+  "version": "0.0.6"
+}

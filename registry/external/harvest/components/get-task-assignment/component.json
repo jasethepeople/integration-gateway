@@ -1,0 +1,7 @@
+{
+  "key": "harvest-get-task-assignment",
+  "name": "Get Task Assignment",
+  "description": "Retrieve a single task assignment on a project. Use **List Task Assignments** to find IDs. Example: call with projectId and taskAssignmentId to check whether that task is billable on the project. [See the documentation](https://help.getharvest.com/api-v2/projects-api/projects/task-assignments/#retrieve-a-task-assignment).",
+  "type": "action",
+  "version": "0.0.1"
+}

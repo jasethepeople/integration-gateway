@@ -1,0 +1,7 @@
+{
+  "key": "bol_com-list-returns",
+  "name": "List Returns",
+  "description": "List returns. [See the documentation](https://api.bol.com/retailer/public/redoc/v10/retailer.html#tag/Returns/operation/get-returns)",
+  "type": "action",
+  "version": "0.0.1"
+}

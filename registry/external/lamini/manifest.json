@@ -1,0 +1,41 @@
+{
+  "app": "lamini",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "modelName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "outputType": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "maxTokens": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "maxNewTokens": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "lamini-evaluate-job",
+    "lamini-generate-completion",
+    "lamini-get-batch-completions",
+    "lamini-upload-dataset",
+    "lamini-get-job-status"
+  ],
+  "npmImports": [
+    "fs"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "elastic_security-create-or-update-case",
+  "name": "Create or Update Case",
+  "description": "Create a new Elastic Security case, or update an existing one when `caseId` is provided, via POST /api/cases or PATCH /api/cases.",
+  "type": "action",
+  "version": "0.0.1"
+}

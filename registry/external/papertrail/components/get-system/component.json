@@ -1,0 +1,7 @@
+{
+  "key": "papertrail-get-system",
+  "name": "Get System",
+  "description": "Retrieve details for a single system by ID or name. [See the documentation](https://www.papertrail.com/help/settings-api/#show-system)",
+  "type": "action",
+  "version": "0.0.1"
+}

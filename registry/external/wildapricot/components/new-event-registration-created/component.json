@@ -1,0 +1,7 @@
+{
+  "key": "wildapricot-new-event-registration-created",
+  "name": "New Event Registration Created",
+  "description": "Emit new event when a registration to an existing event in WildApricot is newly created.",
+  "type": "source",
+  "version": "0.0.1"
+}

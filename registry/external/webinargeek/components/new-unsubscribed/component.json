@@ -1,0 +1,7 @@
+{
+  "key": "webinargeek-new-unsubscribed",
+  "name": "New Unsubscribed",
+  "description": "Emit new event on each new unsubscribed.",
+  "type": "source",
+  "version": "0.0.3"
+}

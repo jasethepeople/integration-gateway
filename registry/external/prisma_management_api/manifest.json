@@ -1,0 +1,29 @@
+{
+  "app": "prisma_management_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "region": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "prisma_management_api-create-database-connection-string",
+    "prisma_management_api-create-database",
+    "prisma_management_api-create-new-database-in-existing-project",
+    "prisma_management_api-delete-database-by-database-id",
+    "prisma_management_api-delete-database-connection-string",
+    "prisma_management_api-delete-database",
+    "prisma_management_api-get-database-details",
+    "prisma_management_api-get-postgres-regions",
+    "prisma_management_api-get-project-details",
+    "prisma_management_api-list-database-connection-strings",
+    "prisma_management_api-list-databases-from-project",
+    "prisma_management_api-list-projects-in-prisma-workspace"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "remote-new-custom-field-value-updated-instant",
+  "name": "New Custom Field Value Updated (Instant)",
+  "description": "Emit new event when a custom field is updated. [See the documentation](https://developer.remote.com/reference/custom_fieldvalue_updated)",
+  "type": "source",
+  "version": "0.0.1"
+}

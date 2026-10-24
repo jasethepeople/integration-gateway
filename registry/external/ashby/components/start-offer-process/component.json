@@ -1,0 +1,7 @@
+{
+  "key": "ashby-start-offer-process",
+  "name": "Start Offer Process",
+  "description": "Starts an offer process for a candidate. [See the documentation](https://developers.ashbyhq.com/reference/offerprocessstart)",
+  "type": "action",
+  "version": "0.0.4"
+}

@@ -1,0 +1,56 @@
+{
+  "app": "akismet",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "blog": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userIp": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "permalink": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userAgent": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "referrer": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "commentAuthor": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "commentAuthorEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "commentAuthorUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "commentContent": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "commentType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "akismet-check-comment",
+    "akismet-submit-ham",
+    "akismet-submit-spam"
+  ]
+}

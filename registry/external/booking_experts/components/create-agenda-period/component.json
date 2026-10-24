@@ -1,0 +1,7 @@
+{
+  "key": "booking_experts-create-agenda-period",
+  "name": "Create Agenda Period",
+  "description": "Creates a new agenda period. [See the documentation](https://developers.bookingexperts.com/reference/administration-maintenance-agenda-periods-create)",
+  "type": "action",
+  "version": "1.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "wp_maps-new-store-created",
+  "name": "New Store Created",
+  "description": "Emit new event when a new store is created in WP Maps. [See the documentation](https://support.agilelogix.com/hc/en-us/articles/900006795363-API-Access-Points#get-all-stores)",
+  "type": "source",
+  "version": "0.0.1"
+}

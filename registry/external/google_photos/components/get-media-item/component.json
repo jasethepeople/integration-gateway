@@ -1,0 +1,7 @@
+{
+  "key": "google_photos-get-media-item",
+  "name": "Get Media Item",
+  "description": "Retrieves a media item [See the documentation](https://developers.google.com/photos/library/guides/access-media-items)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,38 @@
+{
+  "app": "frame",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "teamId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "assetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "parentAssetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "frame-create-asset",
+    "frame-create-comment",
+    "frame-create-project",
+    "frame-list-account-id-options",
+    "frame-search-assets",
+    "frame-new-asset-instant",
+    "frame-new-comment-instant",
+    "frame-new-project-instant",
+    "frame-new-webhook-event-instant"
+  ]
+}

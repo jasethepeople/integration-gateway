@@ -1,0 +1,7 @@
+{
+  "key": "mews-customer-created",
+  "name": "New Customer",
+  "description": "Emit new event when a customer is created. [See the documentation](https://mews-systems.gitbook.io/connector-api/operations/customers#get-all-customers)",
+  "type": "source",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "printful-new-order-instant",
+  "name": "New Order Created (Instant)",
+  "description": "Emit new event when a new order is created in your Printful account.",
+  "type": "source",
+  "version": "0.0.1"
+}

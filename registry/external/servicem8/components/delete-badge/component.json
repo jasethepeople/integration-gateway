@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-delete-badge",
+  "name": "Delete Badge",
+  "description": "Delete a badge by UUID. [See the documentation](https://developer.servicem8.com/reference/deletebadges)",
+  "type": "action",
+  "version": "0.0.1"
+}

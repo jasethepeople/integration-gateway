@@ -1,0 +1,7 @@
+{
+  "key": "iauditor_by_safetyculture-update-user",
+  "name": "Update User",
+  "description": "Update an existing user in iAuditor by SafetyCulture. [See the documentation](https://developer.safetyculture.com/reference/thepubservice_updateuser)",
+  "type": "action",
+  "version": "0.0.2"
+}

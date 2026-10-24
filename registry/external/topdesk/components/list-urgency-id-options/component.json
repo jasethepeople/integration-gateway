@@ -1,0 +1,7 @@
+{
+  "key": "topdesk-list-urgency-id-options",
+  "name": "List Urgency ID Options",
+  "description": "Retrieves available options for the Urgency ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

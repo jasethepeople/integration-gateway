@@ -1,0 +1,7 @@
+{
+  "key": "trengo-find-contacts",
+  "name": "Find Contacts",
+  "description": "Finds contacts with the given term. [See the documentation](https://developers.trengo.com/reference/list-all-contacts)",
+  "type": "action",
+  "version": "0.0.13"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "_4dem-confirm-email",
+  "name": "Confirm Email",
+  "description": "Confirm sender email address. [See the documentation](https://api.4dem.it/#/operations/senders.email.confirm)",
+  "type": "action",
+  "version": "0.0.2"
+}

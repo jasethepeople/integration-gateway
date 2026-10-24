@@ -1,0 +1,7 @@
+{
+  "key": "jira_service_desk-get-request",
+  "name": "Get Request",
+  "description": "Fetches the full details of a Jira Service Desk request including its field values and comment thread in a single response.",
+  "type": "action",
+  "version": "0.2.6"
+}

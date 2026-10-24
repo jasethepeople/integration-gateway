@@ -1,0 +1,7 @@
+{
+  "key": "browser_use-delete-workspace-file",
+  "name": "Delete Workspace File",
+  "description": "Delete a file from a Browser Use workspace. [See the documentation](https://docs.browser-use.com/cloud/api-v3/workspaces/delete-workspace-file)",
+  "type": "action",
+  "version": "0.0.1"
+}

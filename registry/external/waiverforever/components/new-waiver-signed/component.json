@@ -1,0 +1,7 @@
+{
+  "key": "waiverforever-new-waiver-signed",
+  "name": "New Waiver Signed (Instant)",
+  "description": "Emit new event when a new Waiver sign is received",
+  "type": "source",
+  "version": "0.0.1"
+}

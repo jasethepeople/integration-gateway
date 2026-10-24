@@ -1,0 +1,7 @@
+{
+  "key": "teamwork_desk-list-type-id-options",
+  "name": "List Type Id Options",
+  "description": "Retrieves available options for the Type Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

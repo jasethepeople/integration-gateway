@@ -1,0 +1,7 @@
+{
+  "key": "smashsend-search-contacts",
+  "name": "Search Contacts",
+  "description": "Search for contacts by email address. [See the documentation](https://smashsend.com/docs/api/contacts)",
+  "type": "action",
+  "version": "0.0.2"
+}

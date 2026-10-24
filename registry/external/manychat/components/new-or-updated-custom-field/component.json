@@ -1,0 +1,7 @@
+{
+  "key": "manychat-new-or-updated-custom-field",
+  "name": "New Or Updated Custom Field",
+  "description": "Emit new event when a selected custom field on a user profile is added or updated. [See the documentation](https://api.manychat.com/swagger)",
+  "type": "source",
+  "version": "0.0.1"
+}

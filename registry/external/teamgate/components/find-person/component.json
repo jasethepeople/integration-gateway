@@ -1,0 +1,7 @@
+{
+  "key": "teamgate-find-person",
+  "name": "Find Person",
+  "description": "Find a person [See the docs here](https://developers.teamgate.com/#7708cc10-52d4-4ec3-bcc5-1222f21480bb)",
+  "type": "action",
+  "version": "0.0.2"
+}

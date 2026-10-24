@@ -1,0 +1,7 @@
+{
+  "key": "recharge-create-subscription",
+  "name": "Create Subscription",
+  "description": "Creates a new subscription allowing a customer to subscribe to a product. [See the documentation](https://developer.rechargepayments.com/2021-11/subscriptions/subscriptions_create)",
+  "type": "action",
+  "version": "0.0.2"
+}

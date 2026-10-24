@@ -1,0 +1,7 @@
+{
+  "key": "bingx-trade-cancel-all-orders",
+  "name": "BingX Trade Cancel All Orders",
+  "description": "Cancel All Orders [See the documentation](https://bingx-api.github.io/docs/#/swapV2/trade-api.html#Cancel%20All%20Orders).",
+  "type": "action",
+  "version": "0.0.5"
+}

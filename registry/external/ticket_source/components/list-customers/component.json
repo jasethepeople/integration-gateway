@@ -1,0 +1,7 @@
+{
+  "key": "ticket_source-list-customers",
+  "name": "List Customers",
+  "description": "Retrieves a list of all customers. [See the documentation](https://reference.ticketsource.io/#/operations/get-customers)",
+  "type": "action",
+  "version": "0.0.1"
+}

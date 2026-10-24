@@ -1,0 +1,7 @@
+{
+  "key": "zoho_desk-deleted-article-instant",
+  "name": "Deleted Article (Instant)",
+  "description": "Emit new event when an article is deleted from the recycle bin",
+  "type": "source",
+  "version": "0.0.9"
+}

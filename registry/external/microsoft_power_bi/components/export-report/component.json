@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_power_bi-export-report",
+  "name": "Export Report",
+  "description": "Export a Power BI report to a file format such as PDF, PPTX, or PNG. Requires a report ID (use **List Reports** to find it) and defaults to PDF if no format is given.",
+  "type": "action",
+  "version": "0.0.3"
+}

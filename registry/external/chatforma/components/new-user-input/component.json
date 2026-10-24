@@ -1,0 +1,7 @@
+{
+  "key": "chatforma-new-user-input",
+  "name": "New User Input (Instant)",
+  "description": "Emit new event when a user provides input to the chatbot. [See the documentation](https://docs.chatforma.com/#/developers/post_subscribe_notification)",
+  "type": "source",
+  "version": "0.0.1"
+}

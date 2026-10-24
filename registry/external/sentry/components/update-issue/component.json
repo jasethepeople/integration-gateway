@@ -1,0 +1,7 @@
+{
+  "key": "sentry-update-issue",
+  "name": "Update Issue.",
+  "description": "Updates an individual issue's attributes. Only the attributes submitted are modified.[See the docs here](https://docs.sentry.io/api/events/update-an-issue/)",
+  "type": "action",
+  "version": "0.1.3"
+}

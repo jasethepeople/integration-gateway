@@ -1,0 +1,7 @@
+{
+  "key": "caspio-new-record-created",
+  "name": "New Record Created (Instant)",
+  "description": "Emit new event when a new record in specified table is created",
+  "type": "source",
+  "version": "0.0.1"
+}

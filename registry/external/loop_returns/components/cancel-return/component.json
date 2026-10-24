@@ -1,0 +1,7 @@
+{
+  "key": "loop_returns-cancel-return",
+  "name": "Cancel Return",
+  "description": "Cancels a pending return request in Loop. [See the documentation](https://docs.loopreturns.com/reference/cancelreturn)",
+  "type": "action",
+  "version": "0.0.2"
+}

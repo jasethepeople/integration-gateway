@@ -1,0 +1,7 @@
+{
+  "key": "zoho_salesiq-list-screen-name-options",
+  "name": "List Screen Name Options",
+  "description": "Retrieves available options for the Screen Name field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "mailerlite-list-subscribers",
+  "name": "List Subscribers",
+  "description": "Lists all subscribers in a group. [See the documentation](https://developers.mailerlite.com/docs/subscribers.html#list-all-subscribers)",
+  "type": "action",
+  "version": "0.0.5"
+}

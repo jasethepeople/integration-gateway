@@ -1,0 +1,7 @@
+{
+  "key": "onstrategy-new-goal-added",
+  "name": "New Goal Added",
+  "description": "Emit new event when a new goal is created within the OnStrategy app. [See the documentation](https://developer.onstrategyhq.com/)",
+  "type": "source",
+  "version": "0.0.1"
+}

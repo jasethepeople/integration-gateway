@@ -1,0 +1,7 @@
+{
+  "key": "dear-new-sale-pack-authorized",
+  "name": "New Sale Pack Authorized",
+  "description": "Emit new event when a sale pack is authorized",
+  "type": "source",
+  "version": "0.0.1"
+}

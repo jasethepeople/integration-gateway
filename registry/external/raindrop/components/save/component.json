@@ -1,0 +1,7 @@
+{
+  "key": "raindrop-save",
+  "name": "Save to Raindrop Collection",
+  "description": "Receive a link and save it into a specified collection. [See docs](https://developer.raindrop.io/v1/raindrops/single)",
+  "type": "action",
+  "version": "1.2.4"
+}

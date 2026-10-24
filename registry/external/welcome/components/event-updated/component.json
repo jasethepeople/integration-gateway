@@ -1,0 +1,7 @@
+{
+  "key": "welcome-event-updated",
+  "name": "Event Updated",
+  "description": "Emit new event when an event is updated. [See the documentation](https://app.experiencewelcome.com/api-docs/index.html)",
+  "type": "source",
+  "version": "0.0.1"
+}

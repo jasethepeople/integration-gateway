@@ -1,0 +1,7 @@
+{
+  "key": "zoho_sprints-new-item-updated",
+  "name": "New Item Updated (Instant)",
+  "description": "Emit new event when an existing item in Zoho Sprints is modified.",
+  "type": "source",
+  "version": "0.0.1"
+}

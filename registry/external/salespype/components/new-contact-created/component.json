@@ -1,0 +1,7 @@
+{
+  "key": "salespype-new-contact-created",
+  "name": "New Contact Created",
+  "description": "Emit new event when a new contact is created. [See the documentation](https://documenter.getpostman.com/view/5101444/2s93Y3u1Eb#e8b86665-e0b3-4c2e-9bd0-05fcf81f6c48)",
+  "type": "source",
+  "version": "0.0.1"
+}

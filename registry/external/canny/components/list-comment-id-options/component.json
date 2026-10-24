@@ -1,0 +1,7 @@
+{
+  "key": "canny-list-comment-id-options",
+  "name": "List Comment ID Options",
+  "description": "Retrieves available options for the Comment ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

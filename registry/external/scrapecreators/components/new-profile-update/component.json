@@ -1,0 +1,7 @@
+{
+  "key": "scrapecreators-new-profile-update",
+  "name": "New Profile Update",
+  "description": "Emit new event when a new profile is updated. [See the documentation](https://docs.scrapecreators.com/introduction)",
+  "type": "source",
+  "version": "0.0.1"
+}

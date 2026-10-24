@@ -1,0 +1,44 @@
+{
+  "app": "klenty",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "cadenceName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "prospect": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "list": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "klenty-add-prospect",
+    "klenty-list-cadence-name-options",
+    "klenty-list-list-options",
+    "klenty-start-cadence",
+    "klenty-update-prospect",
+    "klenty-cadence-started",
+    "klenty-email-bounced"
+  ]
+}

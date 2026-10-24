@@ -1,0 +1,7 @@
+{
+  "key": "procore-new-timecard-entry-event-instant",
+  "name": "New Timecard Entry Event (Instant)",
+  "description": "Emit new event when a new timecard entry is created. [See the documentation](https://developers.procore.com/reference/rest/hooks?version=latest).",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "google_cloud-list-zone-name-options",
+  "name": "List Zone Options",
+  "description": "Retrieves available options for the Zone field.",
+  "type": "action",
+  "version": "0.0.2"
+}

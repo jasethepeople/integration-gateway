@@ -1,0 +1,7 @@
+{
+  "key": "yanado-find-tasks",
+  "name": "Find Tasks",
+  "description": "Find tasks in a list. [See the docs](https://api.yanado.com/docs/?javascript#tasks)",
+  "type": "action",
+  "version": "0.0.2"
+}

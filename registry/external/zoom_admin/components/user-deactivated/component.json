@@ -1,0 +1,7 @@
+{
+  "key": "zoom_admin-user-deactivated",
+  "name": "User Deactivated",
+  "description": "Emits an event each time a user is deactivated in your Zoom account",
+  "type": "source",
+  "version": "0.1.9"
+}

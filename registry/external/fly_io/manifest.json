@@ -1,0 +1,29 @@
+{
+  "app": "fly_io",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "appId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "machineId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "org_slug": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "fly_io-create-app",
+    "fly_io-create-machine",
+    "fly_io-create-volume",
+    "fly_io-new-event-created"
+  ]
+}

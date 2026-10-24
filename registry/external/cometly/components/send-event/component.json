@@ -1,0 +1,7 @@
+{
+  "key": "cometly-send-event",
+  "name": "Send Event",
+  "description": "Sends an event to the Cometly API. [See the documentation]https://developers.cometly.com/#endpoint-advanced-method)",
+  "type": "action",
+  "version": "0.0.2"
+}

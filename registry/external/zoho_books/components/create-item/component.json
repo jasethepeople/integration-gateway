@@ -1,0 +1,7 @@
+{
+  "key": "zoho_books-create-item",
+  "name": "Create Item",
+  "description": "Creates a new item. [See the documentation](https://www.zoho.com/books/api/v3/items/#create-an-item)",
+  "type": "action",
+  "version": "0.3.1"
+}

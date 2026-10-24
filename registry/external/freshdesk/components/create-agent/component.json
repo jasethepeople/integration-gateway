@@ -1,0 +1,7 @@
+{
+  "key": "freshdesk-create-agent",
+  "name": "Create Agent",
+  "description": "Create an agent in Freshdesk. [See the documentation](https://developers.freshdesk.com/api/#create_agent)",
+  "type": "action",
+  "version": "0.0.10"
+}

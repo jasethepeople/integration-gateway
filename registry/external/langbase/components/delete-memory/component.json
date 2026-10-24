@@ -1,0 +1,7 @@
+{
+  "key": "langbase-delete-memory",
+  "name": "Delete Memory",
+  "description": "Delete an existing memory on Langbase. [See the documentation](https://langbase.com/docs/api-reference/memory/delete)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zoho_creator-list-app-link-name-options",
+  "name": "List Application Options",
+  "description": "Retrieves available options for the Application field.",
+  "type": "action",
+  "version": "0.0.1"
+}

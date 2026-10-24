@@ -1,0 +1,7 @@
+{
+  "key": "miro_custom_app-delete-board",
+  "name": "Delete Board",
+  "description": "Deletes a Miro board. [See the docs](https://developers.miro.com/reference/delete-board).",
+  "type": "action",
+  "version": "0.0.3"
+}

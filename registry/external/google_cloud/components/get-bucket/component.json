@@ -1,0 +1,7 @@
+{
+  "key": "google_cloud-get-bucket",
+  "name": "Get Bucket Metadata",
+  "description": "Gets Google Cloud Storage bucket metadata. [See the docs](https://googleapis.dev/nodejs/storage/latest/Bucket.html#getMetadata).",
+  "type": "action",
+  "version": "0.0.7"
+}

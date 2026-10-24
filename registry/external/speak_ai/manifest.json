@@ -1,0 +1,42 @@
+{
+  "app": "speak_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "folderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mediaType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mediaId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "prompt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mediaIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    }
+  },
+  "categories": [],
+  "components": [
+    "speak_ai-analyze-text",
+    "speak_ai-find-media",
+    "speak_ai-get-transcription",
+    "speak_ai-list-folder-id-options",
+    "speak_ai-run-ai-chat",
+    "speak_ai-upload-media",
+    "speak_ai-new-ai-chat",
+    "speak_ai-new-captions",
+    "speak_ai-new-media-created-instant",
+    "speak_ai-new-recording",
+    "speak_ai-new-sentiment",
+    "speak_ai-new-text-analyzed-instant",
+    "speak_ai-new-transcription"
+  ]
+}

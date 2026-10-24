@@ -1,0 +1,7 @@
+{
+  "key": "prodpad-list-feedback-id-options",
+  "name": "List Feedback ID Options",
+  "description": "Retrieves available options for the Feedback ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

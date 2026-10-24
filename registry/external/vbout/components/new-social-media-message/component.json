@@ -1,0 +1,7 @@
+{
+  "key": "vbout-new-social-media-message",
+  "name": "New Social Media Message",
+  "description": "Emit new event for each new social media message. [See docs here](https://api.vbout.com/1/socialmedia/stats)",
+  "type": "source",
+  "version": "0.0.4"
+}

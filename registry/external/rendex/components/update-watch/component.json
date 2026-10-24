@@ -1,0 +1,7 @@
+{
+  "key": "rendex-update-watch",
+  "name": "Update Watch",
+  "description": "Update a watch, including pausing or resuming it. Only the fields you set are changed. [See the documentation](https://rendex.dev/docs/watch#endpoints).",
+  "type": "action",
+  "version": "0.0.2"
+}

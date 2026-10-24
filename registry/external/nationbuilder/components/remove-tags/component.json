@@ -1,0 +1,7 @@
+{
+  "key": "nationbuilder-remove-tags",
+  "name": "Remove Tags",
+  "description": "Rmove tags from a specific person. [See the documentation](https://nationbuilder.com/people_api)",
+  "type": "action",
+  "version": "0.0.2"
+}

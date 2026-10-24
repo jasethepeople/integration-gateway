@@ -1,0 +1,7 @@
+{
+  "key": "shift4-create-charge",
+  "name": "Create Charge",
+  "description": "Creates a new charge object. [See the documentation](https://dev.shift4.com/docs/api#charges-create-a-new-charge)",
+  "type": "action",
+  "version": "0.0.2"
+}

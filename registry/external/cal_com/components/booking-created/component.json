@@ -1,0 +1,7 @@
+{
+  "key": "cal_com-booking-created",
+  "name": "New Booking Created",
+  "description": "Emit new event when a new booking is created.",
+  "type": "source",
+  "version": "1.0.0"
+}

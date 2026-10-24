@@ -1,0 +1,7 @@
+{
+  "key": "autotask_psa-list-contracts",
+  "name": "List Contracts",
+  "description": "Query contracts from Autotask PSA. [See the documentation](https://www.autotask.net/help/DeveloperHelp/Content/APIs/REST/Entities/ContractsEntity.htm)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,34 @@
+{
+  "app": "predictleads",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "domain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "technologyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "predictleads-get-technologies",
+    "predictleads-list-technology-id-options",
+    "predictleads-lookup-company",
+    "predictleads-retrieve-companies-by-technology",
+    "predictleads-retrieve-news-events-by-domain",
+    "predictleads-new-financing-event",
+    "predictleads-new-job-opening",
+    "predictleads-new-news-event",
+    "predictleads-new-technology-detected"
+  ]
+}

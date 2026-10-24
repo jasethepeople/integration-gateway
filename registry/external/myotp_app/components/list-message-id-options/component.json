@@ -1,0 +1,7 @@
+{
+  "key": "myotp_app-list-message-id-options",
+  "name": "List Message ID Options",
+  "description": "Retrieves available options for the Message ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

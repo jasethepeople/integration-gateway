@@ -1,0 +1,7 @@
+{
+  "key": "pro_ledger-create-record",
+  "name": "Create Record",
+  "description": "Create a new record in the Pro Ledger platform. [See the documentation](https://api.pro-ledger.com/redoc#tag/record/operation/create_new_record_api_v1_record_create_new_record_post)",
+  "type": "action",
+  "version": "0.0.2"
+}

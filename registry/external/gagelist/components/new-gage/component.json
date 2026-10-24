@@ -1,0 +1,7 @@
+{
+  "key": "gagelist-new-gage",
+  "name": "New Gage Created",
+  "description": "Emit new event each time a new gage is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

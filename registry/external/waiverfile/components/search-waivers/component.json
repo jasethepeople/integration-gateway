@@ -1,0 +1,7 @@
+{
+  "key": "waiverfile-search-waivers",
+  "name": "Search Waivers",
+  "description": "Searches for waivers in WaiverFile based on specific keywords. [See the documentation](https://api.waiverfile.com/swagger/ui/index#!/WaiverFile/WaiverFile_SearchWaivers)",
+  "type": "action",
+  "version": "0.0.2"
+}

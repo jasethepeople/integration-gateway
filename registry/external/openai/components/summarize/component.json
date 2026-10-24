@@ -1,0 +1,7 @@
+{
+  "key": "openai-summarize",
+  "name": "Summarize Text",
+  "description": "Summarizes text using the Chat API. [See the documentation](https://platform.openai.com/docs/api-reference/chat)",
+  "type": "action",
+  "version": "0.1.12"
+}

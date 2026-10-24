@@ -1,0 +1,7 @@
+{
+  "key": "excalidraw-get-scene",
+  "name": "Get Scene",
+  "description": "Returns metadata for a specific Excalidraw scene, and optionally its full drawing content (elements JSON).",
+  "type": "action",
+  "version": "0.0.2"
+}

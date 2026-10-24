@@ -1,0 +1,7 @@
+{
+  "key": "pipefy-delete-card",
+  "name": "Delete Card",
+  "description": "Deletes a card. [See the docs here](https://api-docs.pipefy.com/reference/mutations/deleteCard/)",
+  "type": "action",
+  "version": "0.1.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "surecart-create-product",
+  "name": "Create Product",
+  "description": "Create a new product. [See the documentation](https://developer.surecart.com/api-reference/products/create)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "intercom-tag-added-to-lead",
+  "name": "Tag Added To Lead",
+  "description": "Emit new event each time a new tag is added to a lead.",
+  "type": "source",
+  "version": "0.0.9"
+}

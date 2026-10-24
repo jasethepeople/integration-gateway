@@ -1,0 +1,41 @@
+{
+  "app": "alpaca",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "isPaperAPI": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "cancelOrders": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "side": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "positionSymbol": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "alpaca-cancel-all-orders",
+    "alpaca-cancel-order",
+    "alpaca-close-all-positions",
+    "alpaca-close-position",
+    "alpaca-get-account-info",
+    "alpaca-list-orders",
+    "alpaca-list-positions",
+    "alpaca-place-order"
+  ]
+}

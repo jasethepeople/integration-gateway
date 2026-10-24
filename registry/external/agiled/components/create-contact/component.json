@@ -1,0 +1,7 @@
+{
+  "key": "agiled-create-contact",
+  "name": "Create Contact",
+  "description": "Creates a new contact in Agiled. [See the documentation](https://my.agiled.app/developers)",
+  "type": "action",
+  "version": "0.0.2"
+}

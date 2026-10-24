@@ -1,0 +1,7 @@
+{
+  "key": "encodian-validate-url",
+  "name": "Validate URL",
+  "description": "Validate the availability of the URL. [See the documentation](https://api.apps-encodian.com/index.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

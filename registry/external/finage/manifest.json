@@ -1,0 +1,21 @@
+{
+  "app": "finage",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "symbol": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "finage-forex-last-quote",
+    "finage-forex-last-trade",
+    "finage-forex-previous-close",
+    "finage-list-symbol-options"
+  ]
+}

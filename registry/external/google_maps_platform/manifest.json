@@ -1,0 +1,19 @@
+{
+  "app": "google_maps_platform",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "simplified": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "google_maps_platform-get-place-details",
+    "google_maps_platform-search-places"
+  ]
+}

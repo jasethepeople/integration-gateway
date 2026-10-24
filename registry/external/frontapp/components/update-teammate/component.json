@@ -1,0 +1,7 @@
+{
+  "key": "frontapp-update-teammate",
+  "name": "Update Teammate",
+  "description": "Update a teammate. [See the documentation](https://dev.frontapp.com/reference/update-teammate).",
+  "type": "action",
+  "version": "0.0.6"
+}

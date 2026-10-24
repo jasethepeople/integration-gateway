@@ -1,0 +1,7 @@
+{
+  "key": "clientify-update-contact",
+  "name": "Update Contact",
+  "description": "Update a specific contact. [See the documentation](https://developer.clientify.com/#3107ca4f-0bb5-43a7-9be8-3c2e2f8fe399)",
+  "type": "action",
+  "version": "0.0.2"
+}

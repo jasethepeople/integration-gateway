@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-create-staff",
+  "name": "Create Staff Member",
+  "description": "Create a staff member. [See the documentation](https://developer.servicem8.com/reference/createstaffmembers)",
+  "type": "action",
+  "version": "0.0.1"
+}

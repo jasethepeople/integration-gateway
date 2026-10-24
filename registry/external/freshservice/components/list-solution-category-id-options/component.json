@@ -1,0 +1,7 @@
+{
+  "key": "freshservice-list-solution-category-id-options",
+  "name": "List Solution Category ID Options",
+  "description": "Retrieves available options for the Solution Category ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

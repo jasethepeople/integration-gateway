@@ -1,0 +1,7 @@
+{
+  "key": "aitable_ai-create-datasheet",
+  "name": "Create Datasheet",
+  "description": "Create a datasheet in the specified space. [See the documentation](https://developers.aitable.ai/api/reference#tag/Datasheet/operation/create-datasheets)",
+  "type": "action",
+  "version": "0.0.2"
+}

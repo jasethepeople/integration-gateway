@@ -1,0 +1,7 @@
+{
+  "key": "wesupply-import-order",
+  "name": "Import Order",
+  "description": "Orders can be pushed into the WeSupply platform via a JSON containing the order data. [See the docs here](https://documenter.getpostman.com/view/11859344/T17AiAYq#63058bb9-87f1-4fac-8d89-51bd37b194d9)",
+  "type": "action",
+  "version": "0.0.2"
+}

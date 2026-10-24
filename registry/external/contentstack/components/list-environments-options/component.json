@@ -1,0 +1,7 @@
+{
+  "key": "contentstack-list-environments-options",
+  "name": "List Environments Options",
+  "description": "Retrieves available options for the Environments field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "yanado-update-task",
+  "name": "Update Task",
+  "description": "Update a new task. [See the docs](https://api.yanado.com/docs/?javascript#update-task)",
+  "type": "action",
+  "version": "0.0.2"
+}

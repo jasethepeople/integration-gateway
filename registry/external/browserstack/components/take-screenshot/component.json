@@ -1,0 +1,7 @@
+{
+  "key": "browserstack-take-screenshot",
+  "name": "Take Screenshot",
+  "description": "Generate screenshots for a URL across multiple browsers and devices. [See the documentation](https://www.browserstack.com/screenshots/api)",
+  "type": "action",
+  "version": "0.0.1"
+}

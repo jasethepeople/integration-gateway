@@ -1,0 +1,7 @@
+{
+  "key": "unleashed_software-get-stock-on-hand",
+  "name": "Get Stock On Hand",
+  "description": "Get the stock on hand for a product. [See the documentation](https://apidocs.unleashedsoftware.com/StockOnHand)",
+  "type": "action",
+  "version": "0.0.1"
+}

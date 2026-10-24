@@ -1,0 +1,7 @@
+{
+  "key": "firmao-new-customer",
+  "name": "New Customer",
+  "description": "Emit new event when a new customer is created. [See the documentation](https://firmao.net/API-Documentation_EN.pdf)",
+  "type": "source",
+  "version": "0.0.1"
+}

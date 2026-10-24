@@ -1,0 +1,7 @@
+{
+  "key": "chargify-create-customer",
+  "name": "Create Customer",
+  "description": "Creates a new customer in Chargify. [See the documentation](https://developers.maxio.com/http/advanced-billing-api/api-endpoints/customers/create-customer)",
+  "type": "action",
+  "version": "0.0.2"
+}

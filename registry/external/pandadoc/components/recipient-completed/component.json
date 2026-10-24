@@ -1,0 +1,7 @@
+{
+  "key": "pandadoc-recipient-completed",
+  "name": "Recipient Completed (Instant)",
+  "description": "",
+  "type": "source",
+  "version": "0.0.6"
+}

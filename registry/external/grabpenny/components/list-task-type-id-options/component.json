@@ -1,0 +1,7 @@
+{
+  "key": "grabpenny-list-task-type-id-options",
+  "name": "List Task Type ID Options",
+  "description": "Retrieves available options for the Task Type ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

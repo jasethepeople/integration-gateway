@@ -1,0 +1,7 @@
+{
+  "key": "kanbanize-list-all-tasks",
+  "name": "List Tasks",
+  "description": "Get All Tasks. [See the docs here](https://kanbanize.com/api)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "google_sheets-add-conditional-formatting",
+  "name": "Add Conditional Formatting",
+  "description": "Add a conditional formatting rule to a range in Google Sheets, so cells",
+  "type": "action",
+  "version": "0.0.1"
+}

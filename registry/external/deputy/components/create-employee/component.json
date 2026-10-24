@@ -1,0 +1,7 @@
+{
+  "key": "deputy-create-employee",
+  "name": "Create Employee",
+  "description": "Adds a new employee or staff member to the organization in Deputy. [See the documentation](https://developer.deputy.com/deputy-docs/reference/addanemployee)",
+  "type": "action",
+  "version": "0.0.2"
+}

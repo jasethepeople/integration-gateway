@@ -1,0 +1,40 @@
+{
+  "app": "plivo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "phoneNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "callUuid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "text": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "auth_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "auth_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "plivo-make-call",
+    "plivo-play-audio",
+    "plivo-send-mms",
+    "plivo-send-sms",
+    "plivo-speak-text",
+    "plivo-new-completed-call",
+    "plivo-new-sms-received"
+  ],
+  "npmImports": [
+    "plivo",
+    "uuid"
+  ]
+}

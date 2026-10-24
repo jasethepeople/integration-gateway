@@ -1,0 +1,7 @@
+{
+  "key": "boldsign-list-sent-by-options",
+  "name": "List Sent By Options",
+  "description": "Retrieves available options for the Sent By field.",
+  "type": "action",
+  "version": "0.0.1"
+}

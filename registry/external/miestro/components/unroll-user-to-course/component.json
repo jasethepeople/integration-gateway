@@ -1,0 +1,7 @@
+{
+  "key": "miestro-unroll-user-to-course",
+  "name": "Unroll User To Course",
+  "description": "Unrolls user to a course. [See the documentation](https://support.miestro.com/article/279-api-documentation)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "sentry-issue-event",
+  "name": "New Issue Event (Instant)",
+  "description": "Emit new events for issues that have been created or updated. Optionally filter the events by project. [See the documentation](https://docs.sentry.io/organization/integrations/integration-platform/webhooks/issues/)",
+  "type": "source",
+  "version": "0.2.0"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "oncehub-new-conversation-started",
+  "name": "New Conversation Started (Instant)",
+  "description": "Emit new event when a website visitor starts interacting with a chatbot. [See the docs](https://developers.oncehub.com/reference/create-a-webhook)",
+  "type": "source",
+  "version": "0.0.1"
+}

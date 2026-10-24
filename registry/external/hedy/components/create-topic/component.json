@@ -1,0 +1,7 @@
+{
+  "key": "hedy-create-topic",
+  "name": "Create Topic",
+  "description": "Creates a new Hedy meeting topic for organizing sessions.",
+  "type": "action",
+  "version": "0.0.3"
+}

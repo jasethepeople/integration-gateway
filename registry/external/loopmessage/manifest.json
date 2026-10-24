@@ -1,0 +1,68 @@
+{
+  "app": "loopmessage",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contact": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "text": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subject": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "effect": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sender": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "replyToId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "channel": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mediaUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "messageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "passthrough": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "typing": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "read": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "loopmessage-check-message-status",
+    "loopmessage-list-sender-options",
+    "loopmessage-send-reaction",
+    "loopmessage-send-text-message",
+    "loopmessage-send-voice-message",
+    "loopmessage-typing-indicator",
+    "loopmessage-new-inbound-message"
+  ]
+}

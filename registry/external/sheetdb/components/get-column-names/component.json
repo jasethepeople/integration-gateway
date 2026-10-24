@@ -1,0 +1,7 @@
+{
+  "key": "sheetdb-get-column-names",
+  "name": "Get Column Names",
+  "description": "Get column names of a Google Sheet using the SheetDB API. [See the documentation](https://docs.sheetdb.io/sheetdb-api/read#keys)",
+  "type": "action",
+  "version": "0.0.2"
+}

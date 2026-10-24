@@ -1,0 +1,7 @@
+{
+  "key": "workday-list-worker-id-options",
+  "name": "List Worker ID Options",
+  "description": "Retrieves available options for the Worker ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

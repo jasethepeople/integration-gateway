@@ -1,0 +1,7 @@
+{
+  "key": "coupontools-create-single-use-url",
+  "name": "Create Single Use URL",
+  "description": "Create a single-use URL for a coupon. Prefill data like first name, last name, custom validation code, etc. [See the documentation](https://docs.coupontools.com/api/coupon#create-single-use)",
+  "type": "action",
+  "version": "0.0.1"
+}

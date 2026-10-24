@@ -1,0 +1,7 @@
+{
+  "key": "retable-add-record",
+  "name": "Add Record",
+  "description": "Add a new record in Retable. [See the documentation](https://docs.retable.io/retable-user-guide/retable-api/api#insert-row)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "podio-new-task-created",
+  "name": "New Task Created",
+  "description": "Emit new events when a new task is created. [See the documentation](https://developers.podio.com/doc/hooks)",
+  "type": "source",
+  "version": "0.0.2"
+}

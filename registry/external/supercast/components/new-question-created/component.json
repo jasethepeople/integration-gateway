@@ -1,0 +1,7 @@
+{
+  "key": "supercast-new-question-created",
+  "name": "New Question Created",
+  "description": "Emit new event when a new question is created. [See the documentation](https://supercast.readme.io/reference/getquestions)",
+  "type": "source",
+  "version": "0.0.1"
+}

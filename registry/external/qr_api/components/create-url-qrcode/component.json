@@ -1,0 +1,7 @@
+{
+  "key": "qr_api-create-url-qrcode",
+  "name": "Create URL QR Code",
+  "description": "Create a URL QR Code. [See the documentation](https://qrapi.io/api-documentation/#/qrcode/create_url_qr_code)",
+  "type": "action",
+  "version": "0.0.2"
+}

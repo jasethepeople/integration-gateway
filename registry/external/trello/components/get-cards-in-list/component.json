@@ -1,0 +1,7 @@
+{
+  "key": "trello-get-cards-in-list",
+  "name": "Get Cards In A List",
+  "description": "List the cards in a list. [See the documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-lists/#api-lists-id-cards-get).",
+  "type": "action",
+  "version": "0.0.5"
+}

@@ -1,0 +1,36 @@
+{
+  "app": "moco",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "invoiceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "moco-create-payment",
+    "moco-get-task",
+    "moco-list-invoice-id-options",
+    "moco-list-project-id-options",
+    "moco-new-invoice-instant",
+    "moco-new-project-instant",
+    "moco-new-time-entry-instant"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "manychat-send-dynamic-message-user",
+  "name": "Send Dynamic Message to User",
+  "description": "Delivers a dynamic message to a particular user specified by their user ID. [See the documentation](https://api.manychat.com)",
+  "type": "action",
+  "version": "0.0.2"
+}

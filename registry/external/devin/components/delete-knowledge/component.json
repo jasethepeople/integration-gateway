@@ -1,0 +1,7 @@
+{
+  "key": "devin-delete-knowledge",
+  "name": "Delete Knowledge",
+  "description": "Delete an existing knowledge object. [See the documentation](https://docs.devin.ai/api-reference/knowledge/delete-knowledge)",
+  "type": "action",
+  "version": "0.0.2"
+}

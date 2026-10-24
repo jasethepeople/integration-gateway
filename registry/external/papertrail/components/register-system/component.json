@@ -1,0 +1,7 @@
+{
+  "key": "papertrail-register-system",
+  "name": "Register System",
+  "description": "Create a new log sender. [See the documentation](https://www.papertrail.com/help/settings-api/#register-system)",
+  "type": "action",
+  "version": "0.0.1"
+}

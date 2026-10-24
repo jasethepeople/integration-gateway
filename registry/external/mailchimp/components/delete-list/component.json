@@ -1,0 +1,7 @@
+{
+  "key": "mailchimp-delete-list",
+  "name": "Delete List",
+  "description": "Deletes an existing list. [See docs here](https://mailchimp.com/developer/marketing/api/lists)",
+  "type": "action",
+  "version": "0.0.3"
+}

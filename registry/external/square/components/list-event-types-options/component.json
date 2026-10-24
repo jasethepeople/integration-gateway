@@ -1,0 +1,7 @@
+{
+  "key": "square-list-event-types-options",
+  "name": "List Webhook Event Types Options",
+  "description": "Retrieves available options for the Webhook Event Types field.",
+  "type": "action",
+  "version": "0.0.1"
+}

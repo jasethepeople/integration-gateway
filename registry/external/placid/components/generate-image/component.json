@@ -1,0 +1,7 @@
+{
+  "key": "placid-generate-image",
+  "name": "Generate Image",
+  "description": "Generate a new image based on a specified template. [See the documentation](https://placid.app/docs/2.0/rest/images#create)",
+  "type": "action",
+  "version": "0.0.2"
+}

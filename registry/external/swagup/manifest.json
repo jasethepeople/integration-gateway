@@ -1,0 +1,22 @@
+{
+  "app": "swagup",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "category": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "product": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "swagup-find-product-by-name"
+  ]
+}

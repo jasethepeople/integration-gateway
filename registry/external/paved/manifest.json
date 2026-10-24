@@ -1,0 +1,19 @@
+{
+  "app": "paved",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "slug": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "paved-list-slug-options",
+    "paved-new-sponsorship-detected"
+  ]
+}

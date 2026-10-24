@@ -1,0 +1,7 @@
+{
+  "key": "keboola-retrieve-bucket-tables",
+  "name": "List Tables In Bucket",
+  "description": "Lists all tables in a specified bucket. [See the documentation](https://keboola.docs.apiary.io/#reference/tables/create-or-list-tables/tables-in-bucket)",
+  "type": "action",
+  "version": "0.0.2"
+}

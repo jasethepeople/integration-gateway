@@ -1,0 +1,7 @@
+{
+  "key": "datadog-search-metrics",
+  "name": "Search Metrics",
+  "description": "Discovery tool: list available Datadog metric names,",
+  "type": "action",
+  "version": "1.0.2"
+}

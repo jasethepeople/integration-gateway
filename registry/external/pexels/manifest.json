@@ -1,0 +1,43 @@
+{
+  "app": "pexels",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "searchQuery": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orientation": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "size": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "color": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "photoId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pexels-download-photo",
+    "pexels-get-photo-details",
+    "pexels-search-photos",
+    "pexels-new-curated-photo",
+    "pexels-new-photo-by-search"
+  ],
+  "npmImports": [
+    "fs",
+    "stream",
+    "util"
+  ]
+}

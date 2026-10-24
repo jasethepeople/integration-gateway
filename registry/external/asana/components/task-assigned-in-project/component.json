@@ -1,0 +1,7 @@
+{
+  "key": "asana-task-assigned-in-project",
+  "name": "New Task Assigned in Project (Instant)",
+  "description": "Emit new event each time a task is assigned, reassigned or unassigned.",
+  "type": "source",
+  "version": "0.1.8"
+}

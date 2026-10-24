@@ -1,0 +1,7 @@
+{
+  "key": "hubstaff-new-client",
+  "name": "New Client Created",
+  "description": "Emit new event when a new client is created in Hubstaff.",
+  "type": "source",
+  "version": "0.0.1"
+}

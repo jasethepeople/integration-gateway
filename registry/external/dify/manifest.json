@@ -1,0 +1,30 @@
+{
+  "app": "dify",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "user": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "inputs": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dify-get-app-parameters",
+    "dify-list-conversations",
+    "dify-list-messages",
+    "dify-list-workflow-logs",
+    "dify-run-workflow"
+  ]
+}

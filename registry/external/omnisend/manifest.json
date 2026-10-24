@@ -1,0 +1,34 @@
+{
+  "app": "omnisend",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eventId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "omnisend-list-campaign-id-options",
+    "omnisend-list-contact-id-options",
+    "omnisend-list-event-id-options",
+    "omnisend-start-campaign",
+    "omnisend-track-event",
+    "omnisend-unsubscribe-contact-by-email",
+    "omnisend-update-contact",
+    "omnisend-new-contact-created",
+    "omnisend-new-order-completed"
+  ]
+}

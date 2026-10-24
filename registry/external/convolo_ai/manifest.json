@@ -1,0 +1,18 @@
+{
+  "app": "convolo_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "widget_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "convolo_ai-create-call"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "app": "fibery",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "where": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "params": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "attributes": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "account_name": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "fibery-create-entity-or-update",
+    "fibery-create-entity",
+    "fibery-create-multiple-entities",
+    "fibery-get-entity-or-create",
+    "fibery-list-entities",
+    "fibery-list-fields-for-entity-type",
+    "fibery-list-types",
+    "fibery-entity-created",
+    "fibery-entity-updated"
+  ]
+}

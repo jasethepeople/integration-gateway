@@ -1,0 +1,7 @@
+{
+  "key": "pcloud-copy-file",
+  "name": "Copy File",
+  "description": "Copy a file to the specified destination. [See the docs here](https://docs.pcloud.com/methods/file/copyfile.html)",
+  "type": "action",
+  "version": "0.0.5"
+}

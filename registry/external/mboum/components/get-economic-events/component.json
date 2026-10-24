@@ -1,0 +1,7 @@
+{
+  "key": "mboum-get-economic-events",
+  "name": "Get Economic Events",
+  "description": "Get upcoming and historical economic events and indicators that can impact market movements. [See the documentation](https://docs.mboum.com/#stocks-options-small-stylecolor-f8f2f2background-fa256fpadding-1px-4pxborder-radius-3pxhotsmall-GETapi-v1-markets-calendar-economic_events)",
+  "type": "action",
+  "version": "0.0.2"
+}

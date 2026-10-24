@@ -1,0 +1,7 @@
+{
+  "key": "visualping-create-job",
+  "name": "Create A New Job",
+  "description": "Creates a new Visualping monitoring job that checks a web page on a",
+  "type": "action",
+  "version": "1.0.0"
+}

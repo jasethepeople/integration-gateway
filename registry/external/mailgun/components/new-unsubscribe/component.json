@@ -1,0 +1,7 @@
+{
+  "key": "mailgun-new-unsubscribe",
+  "name": "New Unsubscribe (Instant)",
+  "description": "Emit new event when the email recipient clicked on the unsubscribe link. ",
+  "type": "source",
+  "version": "0.0.2"
+}

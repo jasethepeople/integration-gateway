@@ -1,0 +1,7 @@
+{
+  "key": "survey_monkey-get-collector",
+  "name": "Get Collector Details",
+  "description": "Get details for a Collector. [See the docs here](https://api.surveymonkey.net/v3/docs?javascript#api-endpoints-get-collectors-id-)",
+  "type": "action",
+  "version": "0.0.4"
+}

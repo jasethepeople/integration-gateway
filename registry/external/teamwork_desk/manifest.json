@@ -1,0 +1,167 @@
+{
+  "app": "teamwork_desk",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "address": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "avatarURL": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "bcc": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "cc": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "companyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "externalId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "extraData": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "facebookURL": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "inboxes": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "inboxId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobTitle": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "linkedinURL": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "message": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mobile": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "notes": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "notifyCustomer": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "organization": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "permission": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "priorityId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sourceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subject": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "statusId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tagIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "threadType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "typeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ticketId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "twitterHandle": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "teamwork_desk-create-customer",
+    "teamwork_desk-create-ticket",
+    "teamwork_desk-list-company-id-options",
+    "teamwork_desk-list-customer-id-options",
+    "teamwork_desk-list-inbox-id-options",
+    "teamwork_desk-list-inboxes-options",
+    "teamwork_desk-list-priority-id-options",
+    "teamwork_desk-list-source-id-options",
+    "teamwork_desk-list-status-id-options",
+    "teamwork_desk-list-tag-ids-options",
+    "teamwork_desk-list-ticket-id-options",
+    "teamwork_desk-list-type-id-options",
+    "teamwork_desk-reply-to-ticket",
+    "teamwork_desk-update-customer",
+    "teamwork_desk-update-ticket",
+    "teamwork_desk-customer-created",
+    "teamwork_desk-customer-reply",
+    "teamwork_desk-ticket-created"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "salesloft-list-cadence-id-options",
+  "name": "List Cadence ID Options",
+  "description": "Retrieves available options for the Cadence ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

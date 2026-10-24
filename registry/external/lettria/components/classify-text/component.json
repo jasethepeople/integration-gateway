@@ -1,0 +1,7 @@
+{
+  "key": "lettria-classify-text",
+  "name": "Classify Text",
+  "description": "Classify one text. [See the documentation](https://doc.lettria.com/api-reference/classification/2.0/get-started/first-request).",
+  "type": "action",
+  "version": "0.0.2"
+}

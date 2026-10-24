@@ -1,0 +1,7 @@
+{
+  "key": "memberstack-new-webhook-event-received",
+  "name": "New Webhook Event Received (Instant)",
+  "description": "Emit new event when a new webhook event is received. Must create webhook in Memberstack UI using the http endpoint of this source. [See the docs](https://docs.memberstack.com/hc/en-us/articles/7329156946587-Webhooks)",
+  "type": "source",
+  "version": "0.0.1"
+}

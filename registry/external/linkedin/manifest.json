@@ -1,0 +1,91 @@
+{
+  "app": "linkedin",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "text": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "organizationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "adAccountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "visibility": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "postId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startYear": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timeGranularity": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pivot": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "role": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "state": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "max": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "linkedin-create-comment",
+    "linkedin-create-image-post-organization",
+    "linkedin-create-image-post-user",
+    "linkedin-create-like-on-share",
+    "linkedin-create-text-post-organization",
+    "linkedin-create-text-post-user",
+    "linkedin-delete-post",
+    "linkedin-fetch-ad-account",
+    "linkedin-get-current-member-profile",
+    "linkedin-get-member-profile",
+    "linkedin-get-multiple-member-profiles",
+    "linkedin-get-org-member-access",
+    "linkedin-get-organization-access-control",
+    "linkedin-get-organization-administrators",
+    "linkedin-get-profile-picture-fields",
+    "linkedin-list-ad-account-id-options",
+    "linkedin-list-campaign-id-options",
+    "linkedin-list-organization-id-options",
+    "linkedin-retrieve-comments-on-comments",
+    "linkedin-retrieve-comments-shares",
+    "linkedin-search-organization",
+    "linkedin-new-organization-post-created"
+  ],
+  "npmImports": [
+    "axios",
+    "form-data"
+  ]
+}

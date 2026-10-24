@@ -1,0 +1,34 @@
+{
+  "app": "booqable",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "company_slug": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "booqable-create-customer",
+    "booqable-list-customer-id-options",
+    "booqable-update-customer",
+    "booqable-new-customer",
+    "booqable-order-reserved"
+  ]
+}

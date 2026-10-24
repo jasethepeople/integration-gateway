@@ -1,0 +1,7 @@
+{
+  "key": "activecampaign-campaign-starts-sending",
+  "name": "New Campaign Starts Sending (Instant)",
+  "description": "Emit new event each time a campaign starts sending.",
+  "type": "source",
+  "version": "0.0.7"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "overloop-enroll-organization",
+  "name": "Enroll Organization",
+  "description": "Enroll an organization in a workflow. [See the docs](https://apidoc.overloop.com/#enrollments)",
+  "type": "action",
+  "version": "0.0.2"
+}

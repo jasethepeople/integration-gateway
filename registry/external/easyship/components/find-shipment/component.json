@@ -1,0 +1,7 @@
+{
+  "key": "easyship-find-shipment",
+  "name": "Find Shipment",
+  "description": "Find a shipment by ID. [See the documentation](https://developers.easyship.com/reference/shipments_index)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,23 @@
+{
+  "app": "formbricks",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "surveyIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "hostname": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "formbricks-list-survey-ids-options",
+    "formbricks-response-created"
+  ]
+}

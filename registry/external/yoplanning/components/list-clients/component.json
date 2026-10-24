@@ -1,0 +1,7 @@
+{
+  "key": "yoplanning-list-clients",
+  "name": "List Clients",
+  "description": "Lists all clients. [See the documentation](https://yoplanning.pro/api/v3.1/swagger/)",
+  "type": "action",
+  "version": "0.0.4"
+}

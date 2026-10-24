@@ -1,0 +1,7 @@
+{
+  "key": "apiary-fetch-blueprint",
+  "name": "Fetch Blueprint",
+  "description": "Fetch an API Blueprint for a particular API. [See the documentation](https://apiary.docs.apiary.io/#reference/blueprint/fetch-blueprint/fetch-blueprint)",
+  "type": "action",
+  "version": "0.0.2"
+}

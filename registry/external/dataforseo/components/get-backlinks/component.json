@@ -1,0 +1,7 @@
+{
+  "key": "dataforseo-get-backlinks",
+  "name": "Get Backlinks",
+  "description": "Get a list of backlinks and relevant data for a given domain, subdomain, or webpage. [See the documentation](https://docs.dataforseo.com/v3/backlinks/backlinks/live/)",
+  "type": "action",
+  "version": "0.0.3"
+}

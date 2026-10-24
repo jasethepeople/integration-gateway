@@ -1,0 +1,7 @@
+{
+  "key": "browser_use-list-browser-sessions",
+  "name": "List Browser Sessions",
+  "description": "List standalone Browser Use browser sessions for direct browser control via CDP. [See the documentation](https://docs.browser-use.com/cloud/api-v3/browsers/list-browser-sessions)",
+  "type": "action",
+  "version": "0.0.1"
+}

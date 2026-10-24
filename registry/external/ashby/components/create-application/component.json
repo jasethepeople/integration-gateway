@@ -1,0 +1,7 @@
+{
+  "key": "ashby-create-application",
+  "name": "Create Application",
+  "description": "Considers a candidate for a job (e.g., when sourcing a candidate for a job posting). [See the documentation](https://developers.ashbyhq.com/reference/applicationcreate)",
+  "type": "action",
+  "version": "0.0.4"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "corporate_merch-new-contact-created",
+  "name": "New Contact Created",
+  "description": "Emit new event when a new contact is created. [See the documentation](https://corporatemerch.readme.io/reference/retrieve-a-list-of-contacts)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zoho_recruit-record-updated",
+  "name": "New Record Updated",
+  "description": "Emit new event when a record is updated.",
+  "type": "source",
+  "version": "0.0.1"
+}

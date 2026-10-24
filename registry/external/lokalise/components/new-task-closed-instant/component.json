@@ -1,0 +1,7 @@
+{
+  "key": "lokalise-new-task-closed-instant",
+  "name": "New Task Closed (Instant)",
+  "description": "Emit new event when a task is closed in Lokalise",
+  "type": "source",
+  "version": "0.0.1"
+}

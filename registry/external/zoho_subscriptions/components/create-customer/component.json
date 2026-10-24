@@ -1,0 +1,7 @@
+{
+  "key": "zoho_subscriptions-create-customer",
+  "name": "Create Customer",
+  "description": "Create a new customer. [See the documentation](https://www.zoho.com/billing/api/v1/customers/#create-a-customer)",
+  "type": "action",
+  "version": "0.0.3"
+}

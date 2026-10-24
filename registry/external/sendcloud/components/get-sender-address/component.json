@@ -1,0 +1,7 @@
+{
+  "key": "sendcloud-get-sender-address",
+  "name": "Get Sender Address",
+  "description": "Retrieve a sender address by ID. [See the documentation](https://api.sendcloud.dev/docs/sendcloud-public-api/branches/v2/sender-addresses/operations/get-a-user-address-sender-1)",
+  "type": "action",
+  "version": "0.0.3"
+}

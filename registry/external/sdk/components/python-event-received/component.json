@@ -1,0 +1,7 @@
+{
+  "key": "sdk-python-event-received",
+  "name": "Python",
+  "description": "Emit a new event via the Python Pipedream SDK.",
+  "type": "source",
+  "version": "0.0.2"
+}

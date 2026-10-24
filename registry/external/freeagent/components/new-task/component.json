@@ -1,0 +1,7 @@
+{
+  "key": "freeagent-new-task",
+  "name": "New Task",
+  "description": "Emit new event when a new task is created. [See the documentation](https://dev.freeagent.com/docs/tasks#list-all-tasks).",
+  "type": "source",
+  "version": "0.0.1"
+}

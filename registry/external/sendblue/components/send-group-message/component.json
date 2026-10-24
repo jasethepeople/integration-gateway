@@ -1,0 +1,7 @@
+{
+  "key": "sendblue-send-group-message",
+  "name": "Send Group Message",
+  "description": "Send a message to a group of recipients in an iMessage group",
+  "type": "action",
+  "version": "0.0.1"
+}

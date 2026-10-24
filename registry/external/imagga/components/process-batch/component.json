@@ -1,0 +1,7 @@
+{
+  "key": "imagga-process-batch",
+  "name": "Process Batch of Images",
+  "description": "Analyzes a batch of images for categorization, tagging, or color extraction. [See the documentation](https://docs.imagga.com/)",
+  "type": "action",
+  "version": "1.0.1"
+}

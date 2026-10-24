@@ -1,0 +1,32 @@
+{
+  "app": "flock",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "channelId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "text": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "flockml": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "flock-list-channel-id-options",
+    "flock-send-channel-message",
+    "flock-send-direct-message"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "booking_experts-list-rentable-segment-id-options",
+  "name": "List Rentable Segment ID Options",
+  "description": "Retrieves available options for the Rentable Segment ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

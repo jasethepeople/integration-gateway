@@ -1,0 +1,7 @@
+{
+  "key": "activecalculator-new-submission-instant",
+  "name": "New Submission (Instant)",
+  "description": "Emit new event when there's a new submission.",
+  "type": "source",
+  "version": "0.0.1"
+}

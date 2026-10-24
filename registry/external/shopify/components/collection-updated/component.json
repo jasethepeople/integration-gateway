@@ -1,0 +1,7 @@
+{
+  "key": "shopify-collection-updated",
+  "name": "Collection Updated (Instant)",
+  "description": "Emit new event whenever a collection is updated, including whenever products are added or removed from a collection.",
+  "type": "source",
+  "version": "0.0.16"
+}

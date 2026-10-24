@@ -1,0 +1,27 @@
+{
+  "app": "ticktick",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ticktick-complete-task",
+    "ticktick-create-task",
+    "ticktick-list-projects",
+    "ticktick-update-task",
+    "ticktick-new-task-completed",
+    "ticktick-new-task-created"
+  ]
+}

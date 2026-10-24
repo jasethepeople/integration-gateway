@@ -1,0 +1,7 @@
+{
+  "key": "webscraper_io-list-sitemap-id-options",
+  "name": "List Sitemap ID Options",
+  "description": "Retrieves available options for the Sitemap ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

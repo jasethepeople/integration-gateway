@@ -1,0 +1,39 @@
+{
+  "app": "cogmento",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "userIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "productIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "dealId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "cogmento-create-contact",
+    "cogmento-create-deal",
+    "cogmento-create-task",
+    "cogmento-list-contact-id-options",
+    "cogmento-list-deal-id-options",
+    "cogmento-list-product-ids-options",
+    "cogmento-list-user-ids-options",
+    "cogmento-new-contact-created",
+    "cogmento-new-deal-created",
+    "cogmento-new-task-created"
+  ]
+}

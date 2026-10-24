@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-send-sms",
+  "name": "Send SMS",
+  "description": "Send an SMS via the Messaging API (charges may apply). [See the documentation](https://developer.servicem8.com/reference/send_sms)",
+  "type": "action",
+  "version": "0.0.2"
+}

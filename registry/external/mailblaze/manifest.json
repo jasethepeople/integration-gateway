@@ -1,0 +1,24 @@
+{
+  "app": "mailblaze",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "listUid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subscriberUid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mailblaze-add-subscriber",
+    "mailblaze-list-list-uid-options",
+    "mailblaze-update-subscriber"
+  ]
+}

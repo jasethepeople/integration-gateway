@@ -1,0 +1,7 @@
+{
+  "key": "dataforseo-get-backlinks-history",
+  "name": "Get Backlinks History",
+  "description": "Get historical backlinks data back to the beginning of 2019. [See the documentation](https://docs.dataforseo.com/v3/backlinks/history/live/)",
+  "type": "action",
+  "version": "0.0.4"
+}

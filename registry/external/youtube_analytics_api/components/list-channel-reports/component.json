@@ -1,0 +1,7 @@
+{
+  "key": "youtube_analytics_api-list-channel-reports",
+  "name": "List Channel Reports",
+  "description": "Fetch summary analytics reports for a specified youtube channel. Optional filters include date range and report type. [See the documentation](https://developers.google.com/youtube/analytics/reference/reports/query)",
+  "type": "action",
+  "version": "0.0.5"
+}

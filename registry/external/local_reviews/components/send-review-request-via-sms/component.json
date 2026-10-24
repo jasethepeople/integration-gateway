@@ -1,0 +1,7 @@
+{
+  "key": "local_reviews-send-review-request-via-sms",
+  "name": "Send Review Request Via SMS",
+  "description": "Send a review invitation to a customer via SMS. [See the documentation](https://app.localreviews.com/review-tools/api-documentation).",
+  "type": "action",
+  "version": "0.0.2"
+}

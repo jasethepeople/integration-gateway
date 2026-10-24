@@ -1,0 +1,80 @@
+{
+  "app": "mixpanel_service_account",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "eventName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fromDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "toDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "where": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "on": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workspaceId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "distinctIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "analysisType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "unit": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "interval": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "region": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "secret": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "project_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mixpanel_service_account-aggregate-event-counts",
+    "mixpanel_service_account-get-profile-event-activity",
+    "mixpanel_service_account-list-event-properties",
+    "mixpanel_service_account-list-event-property-values",
+    "mixpanel_service_account-list-events",
+    "mixpanel_service_account-list-saved-cohorts",
+    "mixpanel_service_account-list-saved-funnels",
+    "mixpanel_service_account-query-funnel-report",
+    "mixpanel_service_account-query-insights-report",
+    "mixpanel_service_account-query-profiles",
+    "mixpanel_service_account-query-retention-report"
+  ]
+}

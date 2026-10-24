@@ -1,0 +1,35 @@
+{
+  "app": "algodocs",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "extractorId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "folderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "documentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "algodocs-list-documents",
+    "algodocs-list-extractors",
+    "algodocs-list-folders",
+    "algodocs-upload-file",
+    "algodocs-new-extracted-data",
+    "algodocs-new-table-row-extracted"
+  ],
+  "npmImports": [
+    "crypto",
+    "form-data"
+  ]
+}

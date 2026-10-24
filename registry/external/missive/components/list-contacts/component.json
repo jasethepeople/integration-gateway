@@ -1,0 +1,7 @@
+{
+  "key": "missive-list-contacts",
+  "name": "List Contacts",
+  "description": "List all contacts. [See the Documentation](https://missiveapp.com/help/api-documentation/rest-endpoints#list-contacts)",
+  "type": "action",
+  "version": "0.0.2"
+}

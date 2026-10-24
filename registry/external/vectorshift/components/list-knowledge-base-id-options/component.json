@@ -1,0 +1,7 @@
+{
+  "key": "vectorshift-list-knowledge-base-id-options",
+  "name": "List Knowledge Base ID Options",
+  "description": "Retrieves available options for the Knowledge Base ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

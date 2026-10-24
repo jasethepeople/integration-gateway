@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-post-feed-to-chatter",
+  "name": "Post a Message to Chatter Feed",
+  "description": "Post a Chatter message to a Salesforce record's feed.",
+  "type": "action",
+  "version": "0.1.7"
+}

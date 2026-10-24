@@ -1,0 +1,7 @@
+{
+  "key": "l2s-create-shortened-url",
+  "name": "Create Shortened URL",
+  "description": "Generates a shortened URL utilizing L2S capabilities. [See the documentation](https://docs.l2s.is/)",
+  "type": "action",
+  "version": "0.0.2"
+}

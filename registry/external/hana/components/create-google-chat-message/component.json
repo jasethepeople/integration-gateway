@@ -1,0 +1,7 @@
+{
+  "key": "hana-create-google-chat-message",
+  "name": "Create Google Chat Message",
+  "description": "Create a Google Chat message. [See the documentation](https://docs.hanabot.ai/docs/tutorial-connectors/hana-api#create-google-chat-message)",
+  "type": "action",
+  "version": "0.0.1"
+}

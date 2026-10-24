@@ -1,0 +1,31 @@
+{
+  "app": "html_css_to_image",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "html": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "css": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "user_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "html_css_to_image-create-image-from-html",
+    "html_css_to_image-create-image-from-url"
+  ]
+}

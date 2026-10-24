@@ -1,0 +1,7 @@
+{
+  "key": "callingly-call-completed",
+  "name": "Call Completed (Instant)",
+  "description": "Emit new event when a call is completed in Callingly. [See the documentation](https://help.callingly.com/article/38-callingly-api-documentation#Create-a-Webhook-fv07m)",
+  "type": "source",
+  "version": "0.0.1"
+}

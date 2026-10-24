@@ -1,0 +1,63 @@
+{
+  "app": "zoho_inventory",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "organization": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customer": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "items": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taxId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "vendorId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zoho_inventory-create-contact",
+    "zoho_inventory-create-item",
+    "zoho_inventory-create-order",
+    "zoho_inventory-list-account-id-options",
+    "zoho_inventory-list-customer-options",
+    "zoho_inventory-list-group-id-options",
+    "zoho_inventory-list-items-options",
+    "zoho_inventory-list-organization-options",
+    "zoho_inventory-list-tax-id-options",
+    "zoho_inventory-list-vendor-id-options",
+    "zoho_inventory-new-contact",
+    "zoho_inventory-new-invoice",
+    "zoho_inventory-new-item",
+    "zoho_inventory-new-order"
+  ]
+}

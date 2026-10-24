@@ -1,0 +1,7 @@
+{
+  "key": "taleez-list-recruiter-id-options",
+  "name": "List Recruiter ID Options",
+  "description": "Retrieves available options for the Recruiter ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

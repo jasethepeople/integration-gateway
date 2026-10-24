@@ -1,0 +1,7 @@
+{
+  "key": "dropmark-new-activity",
+  "name": "New Activity",
+  "description": "Emit new event when a new collection, item, comment, or reaction occurs. [See the documentation](https://support.dropmark.com/article/96-api)",
+  "type": "source",
+  "version": "0.0.1"
+}

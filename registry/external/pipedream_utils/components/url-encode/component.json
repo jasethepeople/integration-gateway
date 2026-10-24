@@ -1,0 +1,7 @@
+{
+  "key": "pipedream_utils-url-encode",
+  "name": "Formatting - [Text] Encode URL",
+  "description": "Encode a string as a URL",
+  "type": "action",
+  "version": "0.0.6"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "egnyte-list-documents",
+  "name": "List Documents",
+  "description": "List documents in your Egnyte workspace. [See the documentation](https://developers.egnyte.com/api-docs/read/file-system-management-api-documentation)",
+  "type": "action",
+  "version": "0.0.2"
+}

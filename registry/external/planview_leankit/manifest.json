@@ -1,0 +1,202 @@
+{
+  "app": "planview_leankit",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "blockReason": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "boardId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cardId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cardTags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "childCardId": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "customIconId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customFieldId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customFields": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "deleted": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "externalLink": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "index": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "isBlocked": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "laneId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "laneClassTypes": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "laneType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "only": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "omit": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "parentCardId": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "planningIncrementIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "planningSeriesId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "plannedStart": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "plannedFinish": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "priority": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "size": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "search": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "since": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sort": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskLaneId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "typeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "wipOverrideComment": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "password": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "planview_leankit-add-connection-to-card",
+    "planview_leankit-add-tags-to-card",
+    "planview_leankit-assign-user-to-card",
+    "planview_leankit-assign-user-to-task",
+    "planview_leankit-block-card",
+    "planview_leankit-complete-task",
+    "planview_leankit-create-card-type",
+    "planview_leankit-create-card",
+    "planview_leankit-create-comment",
+    "planview_leankit-create-custom-field",
+    "planview_leankit-create-task-card",
+    "planview_leankit-delete-custom-field",
+    "planview_leankit-duplicate-card",
+    "planview_leankit-duplicate-task",
+    "planview_leankit-find-first-card",
+    "planview_leankit-find-or-create-card",
+    "planview_leankit-get-card",
+    "planview_leankit-list-board-id-options",
+    "planview_leankit-list-planning-series-id-options",
+    "planview_leankit-move-cards-between-lanes",
+    "planview_leankit-move-cards-to-another-board",
+    "planview_leankit-remove-connection-from-card",
+    "planview_leankit-remove-tags-from-card",
+    "planview_leankit-start-task",
+    "planview_leankit-unassign-user",
+    "planview_leankit-unblock-card",
+    "planview_leankit-update-card",
+    "planview_leankit-update-custom-field-value",
+    "planview_leankit-card-assigned-to-user",
+    "planview_leankit-card-created-in-lane",
+    "planview_leankit-card-created-on-board",
+    "planview_leankit-card-entered-a-lane",
+    "planview_leankit-card-moved-on-board",
+    "planview_leankit-card-updated-on-board"
+  ],
+  "npmImports": [
+    "moment"
+  ]
+}

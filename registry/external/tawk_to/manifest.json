@@ -1,0 +1,24 @@
+{
+  "app": "tawk_to",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "propertyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "tawk_to-chat-ended-instant",
+    "tawk_to-new-chat-started-instant",
+    "tawk_to-new-ticket-instant"
+  ]
+}

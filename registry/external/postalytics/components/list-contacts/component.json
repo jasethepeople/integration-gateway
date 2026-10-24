@@ -1,0 +1,7 @@
+{
+  "key": "postalytics-list-contacts",
+  "name": "List Contacts",
+  "description": "Displays a list of contacts in Postalytics. [See the documentation](https://postalytics.docs.apiary.io/#reference/contact-api/contact-collection/get-all-contacts-on-a-list)",
+  "type": "action",
+  "version": "0.0.2"
+}

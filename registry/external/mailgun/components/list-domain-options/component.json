@@ -1,0 +1,7 @@
+{
+  "key": "mailgun-list-domain-options",
+  "name": "List Domain Name Options",
+  "description": "Retrieves available options for the Domain Name field.",
+  "type": "action",
+  "version": "0.0.1"
+}

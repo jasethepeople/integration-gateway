@@ -1,0 +1,7 @@
+{
+  "key": "linkupapi-create-comment",
+  "name": "Create Comment",
+  "description": "Post a comment on LinkedIn content. [See the documentation](https://docs.linkupapi.com/api-reference/v2/content/comment)",
+  "type": "action",
+  "version": "1.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "wachete-delete-monitor",
+  "name": "Delete Monitor",
+  "description": "Removes an existing monitor for a specific website or web page. [See the documentation(https://api.wachete.com/swagger/ui/index/index.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

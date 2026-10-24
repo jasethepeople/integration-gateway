@@ -1,0 +1,7 @@
+{
+  "key": "hubspot-delete-blog-article",
+  "name": "Deleted Blog Posts",
+  "description": "Emit new event for each deleted blog post.",
+  "type": "source",
+  "version": "0.0.47"
+}

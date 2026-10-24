@@ -1,0 +1,66 @@
+{
+  "app": "teamgantt",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "color": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "estimatedHours": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "isStarred": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "percentComplete": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "parentGroupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sort": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "teamgantt-create-task",
+    "teamgantt-list-project-id-options",
+    "teamgantt-list-task-id-options",
+    "teamgantt-update-task",
+    "teamgantt-new-comment-added"
+  ]
+}

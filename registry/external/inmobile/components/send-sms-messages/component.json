@@ -1,0 +1,7 @@
+{
+  "key": "inmobile-send-sms-messages",
+  "name": "Send SMS Messages",
+  "description": "Send one or more SMS messages using the InMobile API. [See the documentation](https://www.inmobile.com/docs/rest-api)",
+  "type": "action",
+  "version": "0.0.2"
+}

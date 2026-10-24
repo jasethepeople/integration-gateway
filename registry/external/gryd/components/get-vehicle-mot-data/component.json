@@ -1,0 +1,7 @@
+{
+  "key": "gryd-get-vehicle-mot-data",
+  "name": "Get Vehicle MOT Data",
+  "description": "Fetches MOT data for a specific vehicle from the Gryd API. [See the documentation](https://api.gryd.org/docs#/default/VehicleController_motByVRM)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "sharepoint-search-sites",
+  "name": "Search Sites",
+  "description": "Search for sites across the tenant.",
+  "type": "action",
+  "version": "0.0.10"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zoom_admin-webinar-created",
+  "name": "Webinar Created",
+  "description": "Emits an event each time a webinar is created in your Zoom account",
+  "type": "source",
+  "version": "0.1.9"
+}

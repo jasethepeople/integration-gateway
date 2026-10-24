@@ -1,0 +1,37 @@
+import todoist from "../../app.mjs";
+
+export default {
+  key: "todoist-list-project-comments",
+  name: "List Project Comments",
+  description: "Returns a list of comments for a project. [See the documentation](https://developer.todoist.com/api/v1#tag/Comments/operation/get_comments_api_v1_comments_get)",
+  version: "0.0.10",
+  annotations: {
+    destructiveHint: false,
+    openWorldHint: true,
+    readOnlyHint: true,
+  },
+  type: "action",
+  props: {
+    todoist,
+    project: {
+      propDefinition: [
+        todoist,
+        "project",
+      ],
+      optional: false,
+    },
+  },
+  async run ({ $ }) {
+    const params = {
+      project_id: this.project,
+    };
+    const resp = await this.todoist.getComments({
+      $,
+      params,
+    });
+    $.export("$summary", `Successfully retrieved ${resp?.results?.length} comment${resp?.results?.length === 1
+      ? ""
+      : "s"}`);
+    return resp?.results;
+  },
+};

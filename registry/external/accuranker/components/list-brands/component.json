@@ -1,0 +1,7 @@
+{
+  "key": "accuranker-list-brands",
+  "name": "List Brands",
+  "description": "List brands in Accuranker. [See the documentation](https://app.accuranker.com/api/read-docs#tag/Brands/operation/List%20Brands)",
+  "type": "action",
+  "version": "0.0.1"
+}

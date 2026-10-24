@@ -1,0 +1,29 @@
+{
+  "app": "geckoboard",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "fields": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "id": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "datasetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "geckoboard-append-to-dataset",
+    "geckoboard-create-dataset",
+    "geckoboard-delete-dataset",
+    "geckoboard-list-dataset-id-options"
+  ]
+}

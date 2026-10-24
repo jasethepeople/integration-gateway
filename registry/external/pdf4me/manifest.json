@@ -1,0 +1,27 @@
+{
+  "app": "pdf4me",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "filePath": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "filename": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pdf4me-compress-pdf",
+    "pdf4me-convert-to-pdf",
+    "pdf4me-merge-pdfs"
+  ],
+  "npmImports": [
+    "fs"
+  ]
+}

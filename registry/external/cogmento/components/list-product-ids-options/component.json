@@ -1,0 +1,7 @@
+{
+  "key": "cogmento-list-product-ids-options",
+  "name": "List Product IDs Options",
+  "description": "Retrieves available options for the Product IDs field.",
+  "type": "action",
+  "version": "0.0.1"
+}

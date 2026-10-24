@@ -1,0 +1,53 @@
+{
+  "app": "scrapingbot",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "search": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domainCountry": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "resultLang": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "scraper": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "engine": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "format": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "scrapingbot-get-social-media-scraping-data",
+    "scrapingbot-request-social-media-scraping",
+    "scrapingbot-scrape-search-engine",
+    "scrapingbot-scrape-webpage"
+  ]
+}

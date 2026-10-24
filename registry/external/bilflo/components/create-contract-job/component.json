@@ -1,0 +1,7 @@
+{
+  "key": "bilflo-create-contract-job",
+  "name": "Create Contract Job",
+  "description": "Creates a new contract job in Bilflo. [See the documentation](https://developer.bilflo.com/documentation)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "click2mail2-create-document",
+  "name": "Create Document",
+  "description": "Creates a new document in your account from an uploaded file or a URL. [See the documentation for file](https://developers.click2mail.com/reference/createdocument_1).  [See the documentation for URL](https://developers.click2mail.com/reference/createdocumentfromurl)",
+  "type": "action",
+  "version": "1.0.3"
+}

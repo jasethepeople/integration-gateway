@@ -1,0 +1,7 @@
+{
+  "key": "gainsight_px-list-identify-id-options",
+  "name": "List Identify ID Options",
+  "description": "Retrieves available options for the Identify ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "airfocus-new-item-updated",
+  "name": "New Item Updated",
+  "description": "Emit new event when an existing item gets updated.",
+  "type": "source",
+  "version": "0.1.0"
+}

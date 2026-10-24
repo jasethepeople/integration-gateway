@@ -1,0 +1,7 @@
+{
+  "key": "recharge-list-address-id-options",
+  "name": "List Address ID Options",
+  "description": "Retrieves available options for the Address ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

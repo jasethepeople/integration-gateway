@@ -1,0 +1,7 @@
+{
+  "key": "hootsuite-get-media-upload-status",
+  "name": "Get Media Upload Status",
+  "description": "Gets the status of a Media Upload Job on your Hootsuite account. [See the documentation](https://apidocs.hootsuite.com/docs/api/index.html#operation/getMedia)",
+  "type": "action",
+  "version": "0.0.3"
+}

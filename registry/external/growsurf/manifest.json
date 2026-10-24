@@ -1,0 +1,21 @@
+{
+  "app": "growsurf",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "growsurf-list-campaign-id-options",
+    "growsurf-campaign-completed",
+    "growsurf-new-campaign-referral-made",
+    "growsurf-new-participant-added"
+  ]
+}

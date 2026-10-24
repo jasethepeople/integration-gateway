@@ -1,0 +1,41 @@
+{
+  "app": "tinyurl",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "urls": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "alias": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "expiresAt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "tinyurl-create-shortened-link",
+    "tinyurl-retrieve-link-analytics",
+    "tinyurl-update-link-metadata",
+    "tinyurl-new-link-created"
+  ]
+}

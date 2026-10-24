@@ -1,0 +1,66 @@
+{
+  "app": "dixa",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "endUserId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "direction": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emailIntegrationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subject": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "language": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "agentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "conversationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tagId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dixa-add-message",
+    "dixa-claim-conversation",
+    "dixa-close-conversation",
+    "dixa-create-conversation",
+    "dixa-create-note",
+    "dixa-get-article-translations",
+    "dixa-get-article",
+    "dixa-get-conversation",
+    "dixa-list-agent-id-options",
+    "dixa-list-email-integration-id-options",
+    "dixa-list-end-user-id-options",
+    "dixa-list-messages",
+    "dixa-list-notes",
+    "dixa-list-tag-id-options",
+    "dixa-set-custom-contact-attributes",
+    "dixa-tag-conversation",
+    "dixa-conversation-status-changed-instant",
+    "dixa-new-conversation-created-instant",
+    "dixa-new-customer-satisfaction-rating-instant",
+    "dixa-new-message-added-instant",
+    "dixa-new-tag-added-instant"
+  ]
+}

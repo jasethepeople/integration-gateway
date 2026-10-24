@@ -1,0 +1,38 @@
+{
+  "app": "docmosis",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "templateName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "data": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "outputName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "outputFormat": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "location_base_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "access_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "docmosis-generate-document",
+    "docmosis-list-template-name-options"
+  ],
+  "npmImports": [
+    "fs"
+  ]
+}

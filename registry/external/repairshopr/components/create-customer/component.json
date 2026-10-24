@@ -1,0 +1,7 @@
+{
+  "key": "repairshopr-create-customer",
+  "name": "Create Customer",
+  "description": "Create a new customer. [See the docs here](https://api-docs.repairshopr.com/#/Customer/post_customers)",
+  "type": "action",
+  "version": "0.0.2"
+}

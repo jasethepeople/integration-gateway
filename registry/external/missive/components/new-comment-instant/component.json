@@ -1,0 +1,7 @@
+{
+  "key": "missive-new-comment-instant",
+  "name": "New Comment (Instant)",
+  "description": "Emit new event when a new comment is added. [See the Documentation](https://missiveapp.com/help/api-documentation/webhooks)",
+  "type": "source",
+  "version": "0.0.1"
+}

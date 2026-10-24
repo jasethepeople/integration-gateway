@@ -1,0 +1,7 @@
+{
+  "key": "slack_v2-list-teams",
+  "name": "List Teams",
+  "description": "Return the full list of teams (workspaces) accessible to the connected account,",
+  "type": "action",
+  "version": "0.0.11"
+}

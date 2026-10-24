@@ -1,0 +1,7 @@
+{
+  "key": "bitmex-new-executed-trade",
+  "name": "New Executed Trade",
+  "description": "Emit new event when a balance‑affecting execution (trade fill, settlement, realized PnL) occurs in your BitMEX account. [See the documentation](https://www.bitmex.com/api/explorer/#!/Execution/Execution_getTradeHistory)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "bybit-linear-stop-order-create",
+  "name": "ByBit Linear Stop Order Create",
+  "description": "Place Conditional Order.",
+  "type": "action",
+  "version": "0.0.2"
+}

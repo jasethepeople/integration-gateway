@@ -1,0 +1,50 @@
+{
+  "app": "philips_hue",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "username": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lightId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sceneId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "motionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "temperatureId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lightLevelId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "philips_hue-activate-scene",
+    "philips_hue-set-light-color",
+    "philips_hue-turn-light-on",
+    "philips_hue-new-light-state",
+    "philips_hue-new-scene-activated",
+    "philips_hue-new-sensor-update"
+  ],
+  "npmImports": [
+    "color-convert"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "dreamdata-alias-user",
+  "name": "Alias User",
+  "description": "Merge two user identities, associating an existing identifier (`previousId`) with a new one (`userId`). [See the documentation](https://developer.dreamdata.io/server-side/server-side-tracking/).",
+  "type": "action",
+  "version": "0.0.1"
+}

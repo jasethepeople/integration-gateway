@@ -1,0 +1,7 @@
+{
+  "key": "podio-update-item",
+  "name": "Update an Item",
+  "description": "Updates an item. [See the documentation](https://developers.podio.com/doc/items/update-item-22363)",
+  "type": "action",
+  "version": "0.0.5"
+}

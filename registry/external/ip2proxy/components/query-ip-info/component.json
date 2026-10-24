@@ -1,0 +1,7 @@
+{
+  "key": "ip2proxy-query-ip-info",
+  "name": "Query IP address",
+  "description": "Query IP address using IP2Proxy API. [See the docs here](https://www.ip2location.com/web-service/ip2proxy) for how to use this API.",
+  "type": "action",
+  "version": "0.0.5"
+}

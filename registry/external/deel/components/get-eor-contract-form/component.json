@@ -1,0 +1,7 @@
+{
+  "key": "deel-get-eor-contract-form",
+  "name": "Get EOR Contract Form",
+  "description": "Retrieve the EOR contract form field definitions for a specific country, including field names,",
+  "type": "action",
+  "version": "0.0.2"
+}

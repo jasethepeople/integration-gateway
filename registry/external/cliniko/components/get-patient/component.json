@@ -1,0 +1,7 @@
+{
+  "key": "cliniko-get-patient",
+  "name": "Get Patient",
+  "description": "Get the details of a patient by patient ID.",
+  "type": "action",
+  "version": "0.1.2"
+}

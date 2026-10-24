@@ -1,0 +1,7 @@
+{
+  "key": "esputnik-new-contact-in-segment",
+  "name": "New Contact in Segment",
+  "description": "Emit new event when a new contact is added in the specified segment",
+  "type": "source",
+  "version": "0.0.2"
+}

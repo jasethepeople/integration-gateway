@@ -1,0 +1,7 @@
+{
+  "key": "remote-new-contract-amendment-done-instant",
+  "name": "New Contract Amendment Done (Instant)",
+  "description": "Emit new event when a contract amendment is done. [See the documentation](https://developer.remote.com/reference/contract_amendmentdone)",
+  "type": "source",
+  "version": "0.0.1"
+}

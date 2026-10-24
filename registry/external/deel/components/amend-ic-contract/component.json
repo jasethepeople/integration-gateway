@@ -1,0 +1,7 @@
+{
+  "key": "deel-amend-ic-contract",
+  "name": "Amend IC Contract",
+  "description": "Update an independent contractor (IC) contract in Deel — change the rate, currency, payment scale,",
+  "type": "action",
+  "version": "0.0.2"
+}

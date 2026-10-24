@@ -1,0 +1,7 @@
+{
+  "key": "meetingpulse-new-lead-generated",
+  "name": "New Lead Generated",
+  "description": "Emit new event for each new lead generated. [See the documentation](https://app.meet.ps/api/docs/)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "openphone-new-incoming-call-completed-instant",
+  "name": "New Incoming Call Completed (Instant)",
+  "description": "Emit new event when an incoming call is completed, including calls not picked up or voicemails left.",
+  "type": "source",
+  "version": "0.0.4"
+}

@@ -1,0 +1,9 @@
+{
+  "app": "sendfox_oauth",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "sendfox_oauth-add-new-contact-to-list"
+  ]
+}

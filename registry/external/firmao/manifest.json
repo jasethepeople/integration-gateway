@@ -1,0 +1,38 @@
+{
+  "app": "firmao",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "responsibleUsers": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "customers": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_login": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_password": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "organization_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "firmao-create-customer",
+    "firmao-create-offer",
+    "firmao-create-task",
+    "firmao-list-customers-options",
+    "firmao-list-responsible-users-options",
+    "firmao-list-tasks",
+    "firmao-new-customer",
+    "firmao-new-offer",
+    "firmao-new-task"
+  ]
+}

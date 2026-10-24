@@ -1,0 +1,7 @@
+{
+  "key": "sendy-unsubscribe-email",
+  "name": "Unsubscribe Email",
+  "description": "Removes a subscriber from a specified list. [See the documentation](https://sendy.co/api?app_path=https://sendy.email/dev2#unsubscribe)",
+  "type": "action",
+  "version": "0.0.2"
+}

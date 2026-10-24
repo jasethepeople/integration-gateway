@@ -1,0 +1,7 @@
+{
+  "key": "mumble-delete-label",
+  "name": "Delete Label",
+  "description": "Deletes a label. [See the documentation](https://app.mumble.co.il/mumbleapi/docs)",
+  "type": "action",
+  "version": "0.0.2"
+}

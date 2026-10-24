@@ -1,0 +1,7 @@
+{
+  "key": "salesloft-create-person",
+  "name": "Create Person",
+  "description": "Creates a new person in Salesloft. [See the documentation](https://developers.salesloft.com/docs/api/people-create/)",
+  "type": "action",
+  "version": "0.0.2"
+}

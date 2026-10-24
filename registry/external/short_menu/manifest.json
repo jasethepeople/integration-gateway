@@ -1,0 +1,14 @@
+{
+  "app": "short_menu",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "short_menu-create-short-link"
+  ]
+}

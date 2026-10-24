@@ -1,0 +1,7 @@
+{
+  "key": "salesflare-find-person",
+  "name": "Find Person",
+  "description": "Finds people according to props configured, if no prop configured returns all people [See the docs here](https://api.salesflare.com/docs#operation/getPersons)",
+  "type": "action",
+  "version": "0.0.2"
+}

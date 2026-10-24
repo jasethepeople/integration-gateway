@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-list-job-materials",
+  "name": "List Job Materials",
+  "description": "List job materials with optional filters. [See the documentation](https://developer.servicem8.com/reference/listjobmaterials)",
+  "type": "action",
+  "version": "0.0.1"
+}

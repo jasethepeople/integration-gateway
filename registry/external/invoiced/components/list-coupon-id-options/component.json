@@ -1,0 +1,7 @@
+{
+  "key": "invoiced-list-coupon-id-options",
+  "name": "List Coupon ID Options",
+  "description": "Retrieves available options for the Coupon ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

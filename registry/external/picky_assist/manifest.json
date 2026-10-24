@@ -1,0 +1,14 @@
+{
+  "app": "picky_assist",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "picky_assist-send-message"
+  ]
+}

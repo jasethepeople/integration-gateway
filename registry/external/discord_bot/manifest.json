@@ -1,0 +1,153 @@
+{
+  "app": "discord_bot",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "guild": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "roleId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "channelId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "channelName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "channelPosition": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "channelTopic": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "channelNsfw": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "channelBitrate": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "channelRateLimitPerUser": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "channelUserLimit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "channelParentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "channelRolePermissions": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "channelMemberPermissions": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "max": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "nick": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "after": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "before": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "around": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "channelMessage": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emoji": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "messageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "message": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "username": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "avatarURL": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "threadID": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "bot_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "discord_bot-add-role",
+    "discord_bot-change-nickname",
+    "discord_bot-create-channel-invite",
+    "discord_bot-create-guild-channel",
+    "discord_bot-delete-channel",
+    "discord_bot-delete-message",
+    "discord_bot-find-channel",
+    "discord_bot-find-user",
+    "discord_bot-get-message",
+    "discord_bot-list-channel-invites",
+    "discord_bot-list-channel-messages",
+    "discord_bot-list-channels",
+    "discord_bot-list-guild-members",
+    "discord_bot-list-users-with-emoji-reactions",
+    "discord_bot-modify-channel",
+    "discord_bot-modify-guild-member",
+    "discord_bot-post-reaction-with-emoji",
+    "discord_bot-remove-user-role",
+    "discord_bot-rename-channel",
+    "discord_bot-send-message-to-forum-post",
+    "discord_bot-send-message-with-file",
+    "discord_bot-send-message",
+    "discord_bot-new-forum-thread-message",
+    "discord_bot-new-guild-member",
+    "discord_bot-new-message-in-channel",
+    "discord_bot-new-tag-added-to-thread",
+    "discord_bot-new-thread-message"
+  ],
+  "npmImports": [
+    "form-data",
+    "lodash.maxby",
+    "util"
+  ]
+}

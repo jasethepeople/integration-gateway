@@ -1,0 +1,7 @@
+{
+  "key": "apollo_io_oauth-get-opportunity",
+  "name": "Get Opportunity",
+  "description": "Fetches a single opportunity (deal) by ID with full",
+  "type": "action",
+  "version": "0.0.2"
+}

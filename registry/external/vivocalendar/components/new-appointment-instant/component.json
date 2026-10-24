@@ -1,0 +1,7 @@
+{
+  "key": "vivocalendar-new-appointment-instant",
+  "name": "New Appointment (Instant)",
+  "description": "Emit new event when a new appointment is created. [See the documentation](https://app.vivocalendar.com/api-docs/index.html)",
+  "type": "source",
+  "version": "0.0.1"
+}

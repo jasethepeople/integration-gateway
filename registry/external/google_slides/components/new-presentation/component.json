@@ -1,0 +1,7 @@
+{
+  "key": "google_slides-new-presentation",
+  "name": "New Presentation (Instant)",
+  "description": "Emit new event each time a new presentation is created in a drive.",
+  "type": "source",
+  "version": "0.0.9"
+}

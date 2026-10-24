@@ -1,0 +1,7 @@
+{
+  "key": "mux-video-asset-ready",
+  "name": "New Video Asset Ready",
+  "description": "Emit new event when a video asset is set to ready status.",
+  "type": "source",
+  "version": "0.0.2"
+}

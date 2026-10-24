@@ -1,0 +1,7 @@
+{
+  "key": "sevdesk-get-invoices",
+  "name": "Get Invoices",
+  "description": "Retrieve invoices with optional filtering by status, invoice number, date range, and contact. [See the documentation](https://api.sevdesk.de/#tag/Invoice/operation/getInvoices)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,42 @@
+{
+  "app": "beekeeper",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "chatId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "streamId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mentions": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "beekeeper-create-post",
+    "beekeeper-get-profile",
+    "beekeeper-list-chat-id-options",
+    "beekeeper-list-stream-id-options",
+    "beekeeper-list-user-id-options",
+    "beekeeper-send-message-group-chat",
+    "beekeeper-new-chat-message-instant",
+    "beekeeper-new-comment-created-instant",
+    "beekeeper-new-user-created-instant"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "drata-terminated-employee",
+  "name": "Employee Terminated",
+  "description": "",
+  "type": "source",
+  "version": "0.0.3"
+}

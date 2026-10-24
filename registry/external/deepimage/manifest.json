@@ -1,0 +1,20 @@
+{
+  "app": "deepimage",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "image": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "deepimage-auto-enhance",
+    "deepimage-remove-background",
+    "deepimage-upscale"
+  ]
+}

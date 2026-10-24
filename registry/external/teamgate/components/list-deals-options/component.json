@@ -1,0 +1,7 @@
+{
+  "key": "teamgate-list-deals-options",
+  "name": "List Deals Options",
+  "description": "Retrieves available options for the Deals field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "browser_use-create-session",
+  "name": "Create Session",
+  "description": "Create an agent session, dispatch a task, or dispatch a follow-up task to an existing idle session. [See the documentation](https://docs.browser-use.com/cloud/api-v3/sessions/create-session)",
+  "type": "action",
+  "version": "0.0.2"
+}

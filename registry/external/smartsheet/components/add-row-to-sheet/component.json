@@ -1,0 +1,7 @@
+{
+  "key": "smartsheet-add-row-to-sheet",
+  "name": "Add Row to Sheet",
+  "description": "Add one or more rows to a sheet, addressing cells by column NAME rather than column ID.",
+  "type": "action",
+  "version": "1.1.2"
+}

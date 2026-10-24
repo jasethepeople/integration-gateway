@@ -1,0 +1,7 @@
+{
+  "key": "pdf_app_net-compress-pdf",
+  "name": "Compress PDF",
+  "description": "Compress a PDF File with PDF-app.net. [See the documentation](https://pdf-app.net/apidocumentation)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "offlight-new-task-done-instant",
+  "name": "New Task Done (Instant)",
+  "description": "Emit new event when a task is marked as complete.",
+  "type": "source",
+  "version": "0.0.1"
+}

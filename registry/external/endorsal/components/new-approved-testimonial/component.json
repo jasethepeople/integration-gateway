@@ -1,0 +1,7 @@
+{
+  "key": "endorsal-new-approved-testimonial",
+  "name": "New Approved Testimonial",
+  "description": "Emit new event when a new testimonial is approved.",
+  "type": "source",
+  "version": "0.0.1"
+}

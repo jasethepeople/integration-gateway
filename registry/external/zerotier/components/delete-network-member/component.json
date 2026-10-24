@@ -1,0 +1,7 @@
+{
+  "key": "zerotier-delete-network-member",
+  "name": "Delete Network Member",
+  "description": "Delete a specific member (node) in a network. [See docs here](https://docs.zerotier.com/central/v1/#operation/deleteNetworkMember)",
+  "type": "action",
+  "version": "0.0.3"
+}

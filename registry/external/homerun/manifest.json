@@ -1,0 +1,27 @@
+{
+  "app": "homerun",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "vacancyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobApplicationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "homerun-add-candidate-note",
+    "homerun-create-job-application",
+    "homerun-list-job-application-id-options",
+    "homerun-list-vacancy-id-options",
+    "homerun-new-job-application-created",
+    "homerun-new-vacancy-created"
+  ]
+}

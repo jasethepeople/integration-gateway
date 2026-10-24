@@ -1,0 +1,62 @@
+{
+  "app": "rippling",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "workerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "teamId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "filterWorkers": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "expandWorkers": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "expandCompanies": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "expandTeams": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "orderBy": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderDirection": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "rippling-get-user",
+    "rippling-list-companies",
+    "rippling-list-teams",
+    "rippling-list-workers",
+    "rippling-new-worker-created"
+  ]
+}

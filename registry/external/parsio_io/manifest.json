@@ -1,0 +1,41 @@
+{
+  "app": "parsio_io",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emailPrefix": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "processAttachments": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "collectEmails": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "alertEmailH": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mailboxId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "parsio_io-create-mailbox",
+    "parsio_io-delete-mailbox",
+    "parsio_io-list-mailbox-id-options",
+    "parsio_io-update-mailbox"
+  ]
+}

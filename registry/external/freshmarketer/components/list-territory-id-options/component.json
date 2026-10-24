@@ -1,0 +1,7 @@
+{
+  "key": "freshmarketer-list-territory-id-options",
+  "name": "List Territory ID Options",
+  "description": "Retrieves available options for the Territory ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

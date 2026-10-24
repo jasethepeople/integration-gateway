@@ -1,0 +1,7 @@
+{
+  "key": "iauditor_by_safetyculture-export-inspection",
+  "name": "Export Inspection to PDF or Word",
+  "description": "Retrieve an inspection report formatted as a PDF or Word (docx) document.[See the documentation](https://developer.safetyculture.com/reference/reportsservice_startinspectionexport)",
+  "type": "action",
+  "version": "0.0.2"
+}

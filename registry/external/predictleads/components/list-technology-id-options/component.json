@@ -1,0 +1,7 @@
+{
+  "key": "predictleads-list-technology-id-options",
+  "name": "List Technology Options",
+  "description": "Retrieves available options for the Technology field.",
+  "type": "action",
+  "version": "0.0.1"
+}

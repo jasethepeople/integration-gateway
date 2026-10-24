@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-list-companies",
+  "name": "List Companies",
+  "description": "List companies (clients) with optional filters. [See the documentation](https://developer.servicem8.com/reference/listclients)",
+  "type": "action",
+  "version": "0.0.1"
+}

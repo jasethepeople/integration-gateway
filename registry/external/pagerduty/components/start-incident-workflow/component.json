@@ -1,0 +1,7 @@
+{
+  "key": "pagerduty-start-incident-workflow",
+  "name": "Start Incident Workflow",
+  "description": "Start an automation workflow on an active incident.",
+  "type": "action",
+  "version": "0.0.2"
+}

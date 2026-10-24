@@ -1,0 +1,7 @@
+{
+  "key": "mixpanel_service_account-query-profiles",
+  "name": "Query Profiles",
+  "description": "Look up user profiles and their stored properties. Results are paginated: when the number of results equals `page_size`, call again with the returned `session_id` and the next `page` number. [See the documentation](https://docs.mixpanel.com/reference/engage-query)",
+  "type": "action",
+  "version": "0.0.1"
+}

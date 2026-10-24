@@ -1,0 +1,7 @@
+{
+  "key": "snipcart-delete-discount",
+  "name": "Delete Discount",
+  "description": "Delete a Discount. [See the documentation](https://docs.snipcart.com/v3/api-reference/discounts#delete-discountsid)",
+  "type": "action",
+  "version": "0.0.2"
+}

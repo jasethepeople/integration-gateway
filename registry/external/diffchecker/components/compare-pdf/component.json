@@ -1,0 +1,7 @@
+{
+  "key": "diffchecker-compare-pdf",
+  "name": "Compare PDFs",
+  "description": "Compares two PDFs and returns the result. [See the documentation](https://www.diffchecker.com/public-api/)",
+  "type": "action",
+  "version": "1.0.3"
+}

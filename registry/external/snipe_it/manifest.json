@@ -1,0 +1,210 @@
+{
+  "app": "snipe_it",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "modelId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "statusId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "assetTag": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "image": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "serial": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "purchaseDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "purchaseCost": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "notes": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "archived": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "warrantyMonths": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "depreciate": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "supplierId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "requestable": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "lastAuditDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "locationId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "byod": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "customFields": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "hardwareId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "username": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "password": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "passwordConfirmation": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "activated": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobtitle": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "managerId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "employeeNum": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "twoFactorEnrolled": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "twoFactorOptIn": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "departmentId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "remote": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "groupIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "autoAssignLicenses": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "vip": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "startDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "licenseId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "lastCheckout": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "snipe_it-create-hardware",
+    "snipe_it-create-user",
+    "snipe_it-get-hardware",
+    "snipe_it-get-license",
+    "snipe_it-get-user-assets",
+    "snipe_it-list-company-id-options",
+    "snipe_it-list-department-id-options",
+    "snipe_it-list-group-ids-options",
+    "snipe_it-list-hardware-id-options",
+    "snipe_it-list-license-id-options",
+    "snipe_it-list-location-id-options",
+    "snipe_it-list-manager-id-options",
+    "snipe_it-list-model-id-options",
+    "snipe_it-list-status-id-options",
+    "snipe_it-list-supplier-id-options",
+    "snipe_it-list-user-id-options",
+    "snipe_it-update-hardware"
+  ]
+}

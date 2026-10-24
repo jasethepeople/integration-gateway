@@ -1,0 +1,7 @@
+{
+  "key": "chatbot_builder-list-tags",
+  "name": "List Tags",
+  "description": "Lists all tags in Chatbot Builder. [See the documentation](https://app.chatgptbuilder.io/api/swagger/#/accounts/getpagetags)",
+  "type": "action",
+  "version": "0.0.2"
+}

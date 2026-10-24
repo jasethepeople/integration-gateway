@@ -1,0 +1,46 @@
+{
+  "app": "wix_api_key",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "site": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "labels": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "collection": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "products": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "contact": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "draftPostId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "wix_api_key-add-products-to-collection",
+    "wix_api_key-create-contact",
+    "wix_api_key-create-product",
+    "wix_api_key-get-contact",
+    "wix_api_key-list-site-options",
+    "wix_api_key-publish-draft-post",
+    "wix_api_key-new-member-registered",
+    "wix_api_key-new-order-created",
+    "wix_api_key-new-product-created"
+  ]
+}

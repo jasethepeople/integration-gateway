@@ -1,0 +1,7 @@
+{
+  "key": "convertkit-new-unsubscription-instant",
+  "name": "New Unsubscriber Activation (Instant)",
+  "description": "Emit new event when a user  unsubscribers. [See docs here](https://developers.convertkit.com/#create-a-webhook)",
+  "type": "source",
+  "version": "0.0.2"
+}

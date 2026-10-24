@@ -1,0 +1,7 @@
+{
+  "key": "kanban_tool-create-task",
+  "name": "Create Task",
+  "description": "Creates a task [See the docs here](https://kanbantool.com/developer/api-v3#creating-tasks)",
+  "type": "action",
+  "version": "0.0.3"
+}

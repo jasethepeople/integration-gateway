@@ -1,0 +1,7 @@
+{
+  "key": "samsara-list-tag-ids-options",
+  "name": "List Tag Ids Options",
+  "description": "Retrieves available options for the Tag Ids field.",
+  "type": "action",
+  "version": "0.0.1"
+}

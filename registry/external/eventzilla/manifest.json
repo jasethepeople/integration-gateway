@@ -1,0 +1,21 @@
+{
+  "app": "eventzilla",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "eventId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "eventzilla-list-event-id-options",
+    "eventzilla-new-attendee-added",
+    "eventzilla-new-event-created",
+    "eventzilla-new-event-transaction"
+  ]
+}

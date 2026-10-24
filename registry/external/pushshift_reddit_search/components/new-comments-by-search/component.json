@@ -1,0 +1,7 @@
+{
+  "key": "pushshift_reddit_search-new-comments-by-search",
+  "name": "New Comments By Search",
+  "description": "Emit new event when a search of Reddit comments using the Pushshift.io API returns new results.",
+  "type": "source",
+  "version": "0.0.3"
+}

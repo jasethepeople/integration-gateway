@@ -1,0 +1,22 @@
+{
+  "app": "evenium",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "eventId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "evenium-add-participants",
+    "evenium-create-event",
+    "evenium-list-event-id-options",
+    "evenium-new-event",
+    "evenium-new-participant"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "ninjaone-create-ticket",
+  "name": "Create Support Ticket",
+  "description": "Creates a new support ticket in NinjaOne. [See the documentation](https://app.ninjarmm.com/apidocs/?links.active=core#/ticketing/create)",
+  "type": "action",
+  "version": "0.0.2"
+}

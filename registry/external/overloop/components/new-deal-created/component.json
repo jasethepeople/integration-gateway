@@ -1,0 +1,7 @@
+{
+  "key": "overloop-new-deal-created",
+  "name": "New Deal Created",
+  "description": "Emit new event each time a deal is created. [See the docs](https://apidoc.overloop.com/#list-deals)",
+  "type": "source",
+  "version": "0.0.1"
+}

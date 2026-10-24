@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_onedrive-new-folder-created",
+  "name": "New Folder Created (Instant)",
+  "description": "Emit new event when a new folder is created in a OneDrive drive",
+  "type": "source",
+  "version": "0.0.2"
+}

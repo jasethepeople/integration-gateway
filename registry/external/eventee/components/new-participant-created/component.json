@@ -1,0 +1,7 @@
+{
+  "key": "eventee-new-participant-created",
+  "name": "New Participant Created",
+  "description": "Emit new event when a new participant is created. [See the documentation](https://publiceventeeapi.docs.apiary.io/#reference/participants/get-all-participants/get-all)",
+  "type": "source",
+  "version": "0.0.1"
+}

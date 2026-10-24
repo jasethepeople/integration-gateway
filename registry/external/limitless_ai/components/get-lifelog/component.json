@@ -1,0 +1,7 @@
+{
+  "key": "limitless_ai-get-lifelog",
+  "name": "Get Lifelog",
+  "description": "Returns a specific lifelog entry by ID. [See the documentation](https://www.limitless.ai/developers#get-lifelog)",
+  "type": "action",
+  "version": "0.0.2"
+}

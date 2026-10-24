@@ -1,0 +1,7 @@
+{
+  "key": "userflow-find-user",
+  "name": "Find User",
+  "description": "Finds an existing user by user ID or email, optionally filtering by group ID. [See the documentation](https://userflow.com/docs/api)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "workbooks_crm-update-person",
+  "name": "Update Person",
+  "description": "Updates a person.",
+  "type": "action",
+  "version": "0.0.2"
+}

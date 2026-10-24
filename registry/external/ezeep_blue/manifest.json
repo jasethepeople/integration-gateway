@@ -1,0 +1,44 @@
+{
+  "app": "ezeep_blue",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "jobid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "printerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "paperId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orientation": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "resolution": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "printType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ezeep_blue-create-print-job",
+    "ezeep_blue-get-print-job-status",
+    "ezeep_blue-list-printer-id-options",
+    "ezeep_blue-list-printers"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

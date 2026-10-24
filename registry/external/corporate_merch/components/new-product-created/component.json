@@ -1,0 +1,7 @@
+{
+  "key": "corporate_merch-new-product-created",
+  "name": "New Product Created",
+  "description": "Emit new event when a new product is created. [See the documentation](https://corporatemerch.readme.io/reference/list-designs)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "snowflake-new-role",
+  "name": "New Role",
+  "description": "Emit new event when a role is created",
+  "type": "source",
+  "version": "0.1.5"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "surecart-list-refund-items",
+  "name": "List Refund Items",
+  "description": "Return a list of refund items. [See the documentation](https://developer.surecart.com/api-reference/refund-items/list)",
+  "type": "action",
+  "version": "1.0.0"
+}

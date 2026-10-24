@@ -1,0 +1,7 @@
+{
+  "key": "pushover-push-notification",
+  "name": "Push Notification",
+  "description": "Sends a Push Notification to devices with Pushover. More information at [Pushing Messages](https://pushover.net/api#messages)",
+  "type": "action",
+  "version": "0.0.6"
+}

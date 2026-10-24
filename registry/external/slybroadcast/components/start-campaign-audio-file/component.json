@@ -1,0 +1,7 @@
+{
+  "key": "slybroadcast-start-campaign-audio-file",
+  "name": "Start Campaign with Audio File",
+  "description": "Start a new voicemail campaign using an audio file uploaded to your slybroadcast account. [See the documentation](https://www.slybroadcast.com/documentation.php)",
+  "type": "action",
+  "version": "0.0.2"
+}

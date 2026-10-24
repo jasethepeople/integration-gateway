@@ -1,0 +1,7 @@
+{
+  "key": "sender-add-subscriber-to-group",
+  "name": "Add Subscriber To Group",
+  "description": "Adds one or more subscribers to the specified group. [See the documentation](https://api.sender.net/subscribers/add-group/)",
+  "type": "action",
+  "version": "0.0.1"
+}

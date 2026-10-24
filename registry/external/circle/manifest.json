@@ -1,0 +1,39 @@
+{
+  "app": "circle",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "body": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "communityId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "postId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "spaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "circle-create-comment",
+    "circle-create-post",
+    "circle-list-community-id-options",
+    "circle-list-user-email-options",
+    "circle-new-comment-posted",
+    "circle-new-post"
+  ]
+}

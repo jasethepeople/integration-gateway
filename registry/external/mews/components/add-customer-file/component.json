@@ -1,0 +1,7 @@
+{
+  "key": "mews-add-customer-file",
+  "name": "Add Customer File",
+  "description": "Add a customer file to the Mews system. [See the documentation](https://mews-systems.gitbook.io/connector-api/operations/customers#add-customer-file)",
+  "type": "action",
+  "version": "0.0.3"
+}

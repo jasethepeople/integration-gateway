@@ -1,0 +1,7 @@
+{
+  "key": "ideal_postcodes-email-validation",
+  "name": "Email Validation",
+  "description": "Validate email addresses using Ideal Postcodes. [See the documentation](https://docs.ideal-postcodes.co.uk/docs/api/email-validation).",
+  "type": "action",
+  "version": "0.0.2"
+}

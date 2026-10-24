@@ -1,0 +1,20 @@
+{
+  "app": "kickofflabs",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "campaign_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "kickofflabs-create-or-update-lead",
+    "kickofflabs-get-campaign-status",
+    "kickofflabs-remove-lead-from-campaign"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "app": "mux",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "assetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "playbackId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "playbackPolicy": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mp4Support": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "masterAccess": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "assetType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "languageCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "closedCaptions": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "access_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "secret_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mux-create-asset-track",
+    "mux-create-asset",
+    "mux-get-asset-or-livestream-id",
+    "mux-get-asset",
+    "mux-list-asset-id-options",
+    "mux-live-stream-active",
+    "mux-video-asset-ready"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "elastic_security-update-alert-status",
+  "name": "Update Alert Status",
+  "description": "Set the workflow status of one or more Elastic Security alerts (signals) by ID via POST /api/detection_engine/signals/status.",
+  "type": "action",
+  "version": "0.0.1"
+}

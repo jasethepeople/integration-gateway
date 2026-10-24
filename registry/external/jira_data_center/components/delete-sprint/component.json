@@ -1,0 +1,7 @@
+{
+  "key": "jira_data_center-delete-sprint",
+  "name": "Delete Sprint",
+  "description": "Deletes a sprint. [See the documentation](https://developer.atlassian.com/server/jira/platform/rest/v10002/api-group-sprint/#api-agile-1-0-sprint-sprintid-delete)",
+  "type": "action",
+  "version": "0.0.3"
+}

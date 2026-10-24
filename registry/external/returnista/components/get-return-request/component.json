@@ -1,0 +1,7 @@
+{
+  "key": "returnista-get-return-request",
+  "name": "Get Return Request",
+  "description": "Gets the full details of a single return request by ID.",
+  "type": "action",
+  "version": "0.0.3"
+}

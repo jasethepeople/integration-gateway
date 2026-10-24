@@ -1,0 +1,68 @@
+{
+  "app": "cloudinary",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "resourceType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "transformationResourceType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "uploadResourceType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "deliveryType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "uploadDeliveryType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "accessMode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "assetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "transformations": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "transformationString": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "namedTransformation": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cloud_name": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "cloudinary-get-account-usage-details",
+    "cloudinary-get-resources",
+    "cloudinary-transform-resource",
+    "cloudinary-upload-media-asset"
+  ],
+  "npmImports": [
+    "cloudinary"
+  ]
+}

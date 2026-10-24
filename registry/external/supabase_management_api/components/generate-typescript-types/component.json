@@ -1,0 +1,7 @@
+{
+  "key": "supabase_management_api-generate-typescript-types",
+  "name": "Generate TypeScript Types",
+  "description": "Generates TypeScript types based on the current database schema for a specified Supabase project. [See the documentation](https://supabase.com/docs/reference/api/v1-generate-typescript-types)",
+  "type": "action",
+  "version": "0.0.2"
+}

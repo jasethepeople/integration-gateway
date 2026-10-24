@@ -1,0 +1,7 @@
+{
+  "key": "donately-get-campaign",
+  "name": "Get Campaign",
+  "description": "Get a campaign by ID. [See the documentation](https://developer.donate.ly/api/#campaigns)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,16 @@
+{
+  "app": "local_reviews",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "local_reviews-get-survey-url",
+    "local_reviews-send-review-request-via-email",
+    "local_reviews-send-review-request-via-sms"
+  ]
+}

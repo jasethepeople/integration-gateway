@@ -1,0 +1,7 @@
+{
+  "key": "muapi-generate-image",
+  "name": "Generate Image",
+  "description": "Generate an image from a text prompt using 15+ models including Flux, Midjourney, GPT-4o, Imagen 4, and more. [See the documentation](https://muapi.ai/docs/api-reference/image-generation)",
+  "type": "action",
+  "version": "0.0.1"
+}

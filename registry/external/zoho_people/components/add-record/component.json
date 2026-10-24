@@ -1,0 +1,7 @@
+{
+  "key": "zoho_people-add-record",
+  "name": "Add Record",
+  "description": "Add a record to a Zoho People module. [See the documentation](https://www.zoho.com/people/api/insert-records.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

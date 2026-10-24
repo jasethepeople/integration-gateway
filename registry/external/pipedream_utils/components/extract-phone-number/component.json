@@ -1,0 +1,7 @@
+{
+  "key": "pipedream_utils-extract-phone-number",
+  "name": "Formatting - [Text] Extract Phone Number",
+  "description": "Find a complete phone number out of a text field. Finds the first number only.",
+  "type": "action",
+  "version": "0.0.6"
+}

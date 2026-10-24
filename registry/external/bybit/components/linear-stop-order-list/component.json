@@ -1,0 +1,7 @@
+{
+  "key": "bybit-linear-stop-order-list",
+  "name": "ByBit Linear Stop Order List",
+  "description": "List of conditional orders.",
+  "type": "action",
+  "version": "0.0.2"
+}

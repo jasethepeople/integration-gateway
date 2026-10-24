@@ -1,0 +1,7 @@
+{
+  "key": "wakatime-list-projects",
+  "name": "List Projects",
+  "description": "List all your WakaTime projects. [See the documentation](https://wakatime.com/developers#projects)",
+  "type": "action",
+  "version": "0.0.2"
+}

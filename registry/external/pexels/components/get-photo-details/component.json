@@ -1,0 +1,7 @@
+{
+  "key": "pexels-get-photo-details",
+  "name": "Get Photo Details",
+  "description": "Retrieve detailed information about a specific photo by providing its photo ID. [See the documentation](https://www.pexels.com/api/documentation/#photos-show)",
+  "type": "action",
+  "version": "0.0.2"
+}

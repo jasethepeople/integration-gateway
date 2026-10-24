@@ -1,0 +1,7 @@
+{
+  "key": "tally-get-responses",
+  "name": "Get Responses",
+  "description": "Get a list of responses. [See docs here](https://tallyso.notion.site/Tally-OAuth-2-reference-d0442c679a464664823628f675f43454)",
+  "type": "action",
+  "version": "0.0.2"
+}

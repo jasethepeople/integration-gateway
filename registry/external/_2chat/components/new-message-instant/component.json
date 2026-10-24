@@ -1,0 +1,7 @@
+{
+  "key": "_2chat-new-message-instant",
+  "name": "New Message (Instant)",
+  "description": "Emit new event when a new message is either sent or received on 2Chat.",
+  "type": "source",
+  "version": "0.0.1"
+}

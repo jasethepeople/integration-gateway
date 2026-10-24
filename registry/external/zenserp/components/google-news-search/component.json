@@ -1,0 +1,7 @@
+{
+  "key": "zenserp-google-news-search",
+  "name": "Google News Search",
+  "description": "Perform a Google news search using the Zenserp API. [See the documentation](https://app.zenserp.com/documentation#newsSearch)",
+  "type": "action",
+  "version": "0.0.1"
+}

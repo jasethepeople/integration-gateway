@@ -1,0 +1,7 @@
+{
+  "key": "brainbase_labs-get-integration",
+  "name": "Get Integration",
+  "description": "Get a specific integration by ID. [See the documentation](https://docs.usebrainbase.com/api-reference/integrations/get-a-specific-integration-by-id)",
+  "type": "action",
+  "version": "0.0.1"
+}

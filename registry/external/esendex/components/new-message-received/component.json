@@ -1,0 +1,7 @@
+{
+  "key": "esendex-new-message-received",
+  "name": "New Message Received",
+  "description": "Emit new event when a new message is received. [See the documentation](https://developers.esendex.com/api-reference/#messageheader)",
+  "type": "source",
+  "version": "0.0.1"
+}

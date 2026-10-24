@@ -1,0 +1,7 @@
+{
+  "key": "offorte-list-design-template-id-options",
+  "name": "List Design Template ID Options",
+  "description": "Retrieves available options for the Design Template ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

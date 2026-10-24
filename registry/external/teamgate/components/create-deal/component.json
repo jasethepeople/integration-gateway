@@ -1,0 +1,7 @@
+{
+  "key": "teamgate-create-deal",
+  "name": "Create Deal",
+  "description": "Create a new deal. [See the docs here](https://developers.teamgate.com/#7cf909d7-b66c-4ddb-ac3b-bb800f8b4ae5)",
+  "type": "action",
+  "version": "0.0.2"
+}

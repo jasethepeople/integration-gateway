@@ -1,0 +1,7 @@
+{
+  "key": "onepagecrm-delete-contact",
+  "name": "Delete Contact",
+  "description": "Deletes an existing contact from OnePageCRM. [See the documentation](https://developer.onepagecrm.com/api/#/Contacts/delete_contacts__contact_id_)",
+  "type": "action",
+  "version": "0.0.2"
+}

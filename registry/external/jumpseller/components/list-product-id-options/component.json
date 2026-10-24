@@ -1,0 +1,7 @@
+{
+  "key": "jumpseller-list-product-id-options",
+  "name": "List Product Options",
+  "description": "Retrieves available options for the Product field.",
+  "type": "action",
+  "version": "0.0.1"
+}

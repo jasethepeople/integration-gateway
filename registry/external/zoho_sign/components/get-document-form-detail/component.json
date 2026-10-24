@@ -1,0 +1,7 @@
+{
+  "key": "zoho_sign-get-document-form-detail",
+  "name": "Get Document Form Detail",
+  "description": "Retrieves the filled field data for a particular document. [See the documentation](https://www.zoho.com/sign/api/#get-document-form-data)",
+  "type": "action",
+  "version": "0.0.2"
+}

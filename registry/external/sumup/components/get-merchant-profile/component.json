@@ -1,0 +1,7 @@
+{
+  "key": "sumup-get-merchant-profile",
+  "name": "Get Merchant Profile",
+  "description": "Retrieves merchant profile data. [See the documentation](https://developer.sumup.com/api/merchant/get-merchant-profile)",
+  "type": "action",
+  "version": "0.0.3"
+}

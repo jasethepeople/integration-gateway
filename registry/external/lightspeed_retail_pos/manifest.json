@@ -1,0 +1,35 @@
+{
+  "app": "lightspeed_retail_pos",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerTypeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "itemId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shopId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "lightspeed_retail_pos-create-customer",
+    "lightspeed_retail_pos-create-employee",
+    "lightspeed_retail_pos-list-account-id-options",
+    "lightspeed_retail_pos-update-inventory",
+    "lightspeed_retail_pos-inventory-updated",
+    "lightspeed_retail_pos-sale-completed"
+  ]
+}

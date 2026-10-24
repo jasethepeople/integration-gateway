@@ -1,0 +1,7 @@
+{
+  "key": "buysellads-get-creatives",
+  "name": "Get Creatives",
+  "description": "Returns the creative stats for line items. [See the documentation](https://docs.buysellads.com/advertiser-api/endpoints#creatives)",
+  "type": "action",
+  "version": "0.0.2"
+}

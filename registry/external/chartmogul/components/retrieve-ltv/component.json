@@ -1,0 +1,7 @@
+{
+  "key": "chartmogul-retrieve-ltv",
+  "name": "Retrieve Customer Lifetime Value",
+  "description": "Retrieves the Customer Lifetime Value (LTV), for the specified time period. [See the docs here](https://dev.chartmogul.com/reference/retrieve-ltv)",
+  "type": "action",
+  "version": "0.0.2"
+}

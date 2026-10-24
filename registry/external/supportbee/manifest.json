@@ -1,0 +1,23 @@
+{
+  "app": "supportbee",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "supportbee-create-ticket",
+    "supportbee-list-ticket-id-options",
+    "supportbee-new-agent-reply",
+    "supportbee-new-comment",
+    "supportbee-new-customer-reply",
+    "supportbee-new-ticket"
+  ]
+}

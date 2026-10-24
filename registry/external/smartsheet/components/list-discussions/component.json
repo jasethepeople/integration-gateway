@@ -1,0 +1,7 @@
+{
+  "key": "smartsheet-list-discussions",
+  "name": "List Discussions",
+  "description": "Lists discussions on a Smartsheet sheet (GET /sheets/{sheetId}/discussions). If a Row ID is supplied, lists",
+  "type": "action",
+  "version": "0.0.2"
+}

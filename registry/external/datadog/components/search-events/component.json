@@ -1,0 +1,7 @@
+{
+  "key": "datadog-search-events",
+  "name": "Search Events",
+  "description": "Search Datadog events: monitor state changes,",
+  "type": "action",
+  "version": "1.0.2"
+}

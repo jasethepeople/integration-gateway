@@ -1,0 +1,17 @@
+{
+  "app": "printful_oauth",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "printful_oauth-create-order",
+    "printful_oauth-new-canceled-order",
+    "printful_oauth-new-fulfilled-order",
+    "printful_oauth-new-order"
+  ]
+}

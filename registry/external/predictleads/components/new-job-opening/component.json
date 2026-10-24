@@ -1,0 +1,7 @@
+{
+  "key": "predictleads-new-job-opening",
+  "name": "New Job Opening Added",
+  "description": "Emit new event for each new job opening for a specific company. [See the documentation](https://docs.predictleads.com/v3/api_endpoints/job_openings_dataset/retrieve_job_openings_from_specific_company)",
+  "type": "source",
+  "version": "0.0.1"
+}

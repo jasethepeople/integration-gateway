@@ -1,0 +1,7 @@
+{
+  "key": "bingx-market-get-all-contracts",
+  "name": "BingX Market Get All Contracts",
+  "description": "Contract Information [See the documentation](https://bingx-api.github.io/docs/#/swapV2/market-api.html#Contract%20Information).",
+  "type": "action",
+  "version": "0.0.5"
+}

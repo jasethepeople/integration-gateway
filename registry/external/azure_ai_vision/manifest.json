@@ -1,0 +1,26 @@
+{
+  "app": "azure_ai_vision",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "image": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "language": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endpoint": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "subscription_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "azure_ai_vision-extract-text-from-image"
+  ]
+}

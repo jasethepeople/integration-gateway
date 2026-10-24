@@ -1,0 +1,157 @@
+{
+  "app": "openphone",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "from": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "company": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "role": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emails": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "phoneNumbers": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "customFields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "phoneNumberId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "callParticipant": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "messageParticipants": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "createdAfter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "createdBefore": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "conversationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "callMaxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "conversationMaxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "messageMaxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "taskMaxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "contactMaxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "userMaxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "pageToken": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "externalIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "sources": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "conversationPhoneNumbers": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "excludeInactive": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "updatedAfter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "updatedBefore": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "openphone-create-contact",
+    "openphone-create-task",
+    "openphone-delete-contact",
+    "openphone-delete-task",
+    "openphone-get-call",
+    "openphone-list-calls",
+    "openphone-list-contacts",
+    "openphone-list-conversations",
+    "openphone-list-from-options",
+    "openphone-list-messages",
+    "openphone-list-phone-numbers",
+    "openphone-list-tasks",
+    "openphone-list-users",
+    "openphone-send-message",
+    "openphone-update-contact",
+    "openphone-update-conversation",
+    "openphone-update-task",
+    "openphone-new-call-recording-completed-instant",
+    "openphone-new-incoming-call-completed-instant",
+    "openphone-new-message-received-instant",
+    "openphone-new-outgoing-call-completed-instant"
+  ],
+  "npmImports": [
+    "bottleneck"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "universal_api-get-hris-employee",
+  "name": "Get HRIS Employee",
+  "description": "Retrieve a single HRIS employee by ID from Universal API. Run **List HRIS Employees** first to discover valid employee IDs. [See the documentation](https://docs.universalapi.io/reference/get-employee).",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "opensrs-initiate-domain-transfer",
+  "name": "Initiate Domain Transfer",
+  "description": "Initiate a domain transfer to OpenSRS. [See the documentation](https://domains.opensrs.guide/docs/trade_domain).",
+  "type": "action",
+  "version": "0.0.2"
+}

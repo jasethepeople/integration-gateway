@@ -1,0 +1,7 @@
+{
+  "key": "netsuite-list-sales-order-id-options",
+  "name": "List Sales Order ID Options",
+  "description": "Retrieves available options for the Sales Order ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

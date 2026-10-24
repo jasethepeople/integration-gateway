@@ -1,0 +1,7 @@
+{
+  "key": "confluence_data_center-blogpost-updated",
+  "name": "Blogpost Updated (Instant)",
+  "description": "Emit new event when a blogpost is updated in Confluence Data Center.",
+  "type": "source",
+  "version": "0.0.3"
+}

@@ -1,0 +1,42 @@
+{
+  "app": "palatine_speech",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "model": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fastInference": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "fileFormat": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "responseFormat": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "palatine_speech-download-transcription",
+    "palatine_speech-get-task-status",
+    "palatine_speech-mark-task-done",
+    "palatine_speech-transcribe-audio"
+  ],
+  "npmImports": [
+    "form-data",
+    "fs",
+    "path"
+  ]
+}

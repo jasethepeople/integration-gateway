@@ -1,0 +1,7 @@
+{
+  "key": "timebuzzer-list-user-id-options",
+  "name": "List User ID Options",
+  "description": "Retrieves available options for the User ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

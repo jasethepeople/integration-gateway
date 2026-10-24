@@ -1,0 +1,7 @@
+{
+  "key": "chatforma-create-broadcast",
+  "name": "Create Broadcast",
+  "description": "Sends a broadcast message to a segment of users. [See the documentation](https://docs.chatforma.com/#/developers/post_bots__botId__segments__segmentId__dispatch)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "contactout-get-company-info",
+  "name": "Get Company Information",
+  "description": "Get company information from domain names. [See the documentation](https://api.contactout.com/#company-information-from-domains).",
+  "type": "action",
+  "version": "0.0.2"
+}

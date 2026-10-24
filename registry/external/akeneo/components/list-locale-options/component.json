@@ -1,0 +1,7 @@
+{
+  "key": "akeneo-list-locale-options",
+  "name": "List Locale Options",
+  "description": "Retrieves available options for the Locale field.",
+  "type": "action",
+  "version": "0.0.2"
+}

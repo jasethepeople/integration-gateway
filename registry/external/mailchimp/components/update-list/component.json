@@ -1,0 +1,7 @@
+{
+  "key": "mailchimp-update-list",
+  "name": "Update List",
+  "description": "Updates an existing list. [See docs here](https://mailchimp.com/developer/marketing/api/lists/update-lists/)",
+  "type": "action",
+  "version": "0.0.3"
+}

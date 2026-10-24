@@ -1,0 +1,42 @@
+{
+  "app": "pingback",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customFields": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "segmentationLists": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pingback-add-subscriber-to-segmentation-lists",
+    "pingback-create-subscriber",
+    "pingback-get-subscriber",
+    "pingback-remove-subscriber-from-segmentation-list",
+    "pingback-update-subscriber"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "gorgias_oauth-send-internal-note",
+  "name": "Send Internal Note",
+  "description": "Post an internal note to a ticket on behalf of an agent. [See the documentation](https://developers.gorgias.com/reference/create-ticket-message)",
+  "type": "action",
+  "version": "0.0.5"
+}

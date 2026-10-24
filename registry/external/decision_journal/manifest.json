@@ -1,0 +1,66 @@
+{
+  "app": "decision_journal",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "context": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "expectedOutcome": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "outcomeEstimates": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "skillLuckWeight": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "monthsToNextReview": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "decisionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "accuracyScore": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "actualOutcome": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "learningsAndReview": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "decision_journal-create-decision",
+    "decision_journal-create-review-decision",
+    "decision_journal-list-decision-id-options",
+    "decision_journal-update-decision",
+    "decision_journal-new-decision-created"
+  ]
+}

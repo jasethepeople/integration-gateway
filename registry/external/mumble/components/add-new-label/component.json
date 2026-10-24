@@ -1,0 +1,7 @@
+{
+  "key": "mumble-add-new-label",
+  "name": "Add New Label",
+  "description": "Adds a new label. [See the documentation](https://app.mumble.co.il/mumbleapi/docs)",
+  "type": "action",
+  "version": "0.0.2"
+}

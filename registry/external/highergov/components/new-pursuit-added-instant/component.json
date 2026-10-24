@@ -1,0 +1,7 @@
+{
+  "key": "highergov-new-pursuit-added-instant",
+  "name": "New Pursuit Added (Instant)",
+  "description": "Emit new event when a pursuit is added to the pipeline.",
+  "type": "source",
+  "version": "0.0.1"
+}

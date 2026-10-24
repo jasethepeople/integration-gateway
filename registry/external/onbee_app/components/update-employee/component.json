@@ -1,0 +1,7 @@
+{
+  "key": "onbee_app-update-employee",
+  "name": "Update Employee",
+  "description": "Update an employee with the specified ID. [See the documentation](https://docs.onboardee.io/api/#tag/Employees/paths/~1employees~1edit~1{id}/post)",
+  "type": "action",
+  "version": "0.0.2"
+}

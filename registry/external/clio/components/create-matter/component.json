@@ -1,0 +1,7 @@
+{
+  "key": "clio-create-matter",
+  "name": "Create New Matter",
+  "description": "Creates a new matter in Clio. [See the documentation](https://docs.developers.clio.com/api-reference/#tag/Matters/operation/Matter#index)",
+  "type": "action",
+  "version": "0.0.2"
+}

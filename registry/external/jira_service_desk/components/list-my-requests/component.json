@@ -1,0 +1,7 @@
+{
+  "key": "jira_service_desk-list-my-requests",
+  "name": "List My Requests",
+  "description": "Lists Jira Service Desk requests owned or participated in by the current user.",
+  "type": "action",
+  "version": "1.1.6"
+}

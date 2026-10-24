@@ -1,0 +1,7 @@
+{
+  "key": "insertchat-new-lead",
+  "name": "New Lead Created",
+  "description": "Emit new event when a new lead is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

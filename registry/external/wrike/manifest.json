@@ -1,0 +1,55 @@
+{
+  "app": "wrike",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "folderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "spaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customFieldsKeys": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "host": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "wrike-create-comment",
+    "wrike-create-folder",
+    "wrike-find-tasks",
+    "wrike-get-task",
+    "wrike-list-contact-id-options",
+    "wrike-list-custom-fields-keys-options",
+    "wrike-list-folder-id-options",
+    "wrike-list-space-id-options",
+    "wrike-new-task",
+    "wrike-update-folder",
+    "wrike-update-task-custom-fields",
+    "wrike-update-task",
+    "wrike-new-folder-created",
+    "wrike-new-subtask-created",
+    "wrike-new-task-created"
+  ],
+  "npmImports": [
+    "lodash"
+  ]
+}

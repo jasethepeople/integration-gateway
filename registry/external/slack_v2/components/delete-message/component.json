@@ -1,0 +1,7 @@
+{
+  "key": "slack_v2-delete-message",
+  "name": "Delete Message",
+  "description": "Permanently delete a message. **This cannot be undone.**",
+  "type": "action",
+  "version": "0.2.12"
+}

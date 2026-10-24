@@ -1,0 +1,7 @@
+{
+  "key": "aidbase-list-faq-id-options",
+  "name": "List Faq ID Options",
+  "description": "Retrieves available options for the Faq ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

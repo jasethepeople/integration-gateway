@@ -1,0 +1,52 @@
+{
+  "app": "wiza",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "acceptWork": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "acceptPersonal": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "acceptGeneric": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "enrichmentLevel": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fullName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "company": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "id": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "segment": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "wiza-create-list",
+    "wiza-get-contacts",
+    "wiza-get-list"
+  ]
+}

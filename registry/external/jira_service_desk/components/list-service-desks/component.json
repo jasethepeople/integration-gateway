@@ -1,0 +1,7 @@
+{
+  "key": "jira_service_desk-list-service-desks",
+  "name": "List Service Desks",
+  "description": "Lists every service desk on an Atlassian site, with the `id` and project details of each.",
+  "type": "action",
+  "version": "0.0.7"
+}

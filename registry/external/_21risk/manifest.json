@@ -1,0 +1,16 @@
+{
+  "app": "_21risk",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "_21risk-new-action",
+    "_21risk-new-auditor",
+    "_21risk-new-report"
+  ]
+}

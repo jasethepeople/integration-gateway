@@ -1,0 +1,7 @@
+{
+  "key": "knowfirst-stop-tracking-business",
+  "name": "Stop Tracking Business",
+  "description": "Stop tracking a business that you are currently tracking. [See the documentation](https://www.knowfirst.ai/docs/api/#/Tracking/TrackingDelete)",
+  "type": "action",
+  "version": "0.0.2"
+}

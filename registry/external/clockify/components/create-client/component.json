@@ -1,0 +1,7 @@
+{
+  "key": "clockify-create-client",
+  "name": "Create Client",
+  "description": "Creates a new client in a Clockify workspace. Requires a client name; address and note are optional. [See the documentation](https://docs.clockify.me/#tag/Client/operation/createClient)",
+  "type": "action",
+  "version": "0.0.2"
+}

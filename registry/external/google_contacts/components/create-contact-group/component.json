@@ -1,0 +1,7 @@
+{
+  "key": "google_contacts-create-contact-group",
+  "name": "Create Contact Group",
+  "description": "Creates a new contact group for the authenticated user. [See the documentation](https://developers.google.com/people/api/rest/v1/contactGroups/create)",
+  "type": "action",
+  "version": "0.0.2"
+}

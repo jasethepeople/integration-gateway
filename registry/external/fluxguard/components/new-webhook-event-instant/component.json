@@ -1,0 +1,7 @@
+{
+  "key": "fluxguard-new-webhook-event-instant",
+  "name": "New Webhook Event (Instant)",
+  "description": "Emit new event when Fluxguard sends a webhook. [See the documentation](https://fluxguard.com/how-to-guides/use-our-api/)",
+  "type": "source",
+  "version": "0.0.1"
+}

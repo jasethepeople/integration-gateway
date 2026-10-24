@@ -1,0 +1,7 @@
+{
+  "key": "supportbee-new-customer-reply",
+  "name": "New Customer Reply",
+  "description": "Emit new event on each new customer reply a ticket.",
+  "type": "source",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zoom_admin-list-webinar-registrants",
+  "name": "List webinar registrants",
+  "description": "List all users that have registered for a webinar. [See the documentation](https://marketplace.zoom.us/docs/api-reference/zoom-api/webinars/webinarregistrants)",
+  "type": "action",
+  "version": "0.2.6"
+}

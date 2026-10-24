@@ -1,0 +1,7 @@
+{
+  "key": "deel-send-contract-invitation",
+  "name": "Send Contract Invitation",
+  "description": "Send a contract invitation email to a worker for a specific Deel contract.",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "activecampaign-new-or-updated-calendar-feed",
+  "name": "New or Updated Calendar Feed",
+  "description": "Emit new event each time a calendar feed is added or updated.",
+  "type": "source",
+  "version": "0.0.6"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "roamresearch-pull",
+  "name": "Pull",
+  "description": "Generic pull for Roam Research pages. [See the documentation](https://roamresearch.com/#/app/developer-documentation/page/mdnjFsqoA).",
+  "type": "action",
+  "version": "0.0.3"
+}

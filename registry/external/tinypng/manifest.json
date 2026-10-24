@@ -1,0 +1,33 @@
+{
+  "app": "tinypng",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "file": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "imageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "method": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "tinypng-compress-image",
+    "tinypng-convert-image",
+    "tinypng-resize-image"
+  ],
+  "npmImports": [
+    "fs",
+    "stream",
+    "util"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "app": "helpcrunch",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "company": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "notes": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "helpcrunch-create-customer",
+    "helpcrunch-find-create-customer",
+    "helpcrunch-chat-status-updated",
+    "helpcrunch-new-chat",
+    "helpcrunch-new-customer"
+  ]
+}

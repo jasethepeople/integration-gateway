@@ -1,0 +1,7 @@
+{
+  "key": "pipedream_utils-html-to-markdown",
+  "name": "Helper Functions - HTML to Markdown",
+  "description": "Convert via turndown",
+  "type": "action",
+  "version": "0.0.2"
+}

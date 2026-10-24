@@ -1,0 +1,54 @@
+{
+  "app": "microsoft_power_bi",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "datasetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tableName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "rows": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "customDatasetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workspaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workspaceName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "microsoft_power_bi-add-rows-to-push-dataset",
+    "microsoft_power_bi-execute-dax-query",
+    "microsoft_power_bi-export-report",
+    "microsoft_power_bi-get-refresh-history",
+    "microsoft_power_bi-get-reports-by-id",
+    "microsoft_power_bi-get-reports",
+    "microsoft_power_bi-list-dashboards",
+    "microsoft_power_bi-list-datasets",
+    "microsoft_power_bi-list-reports",
+    "microsoft_power_bi-list-workspaces",
+    "microsoft_power_bi-refresh-dataset",
+    "microsoft_power_bi-dataset-refresh-completed",
+    "microsoft_power_bi-dataset-refresh-failed",
+    "microsoft_power_bi-new-dataset-refresh-created"
+  ],
+  "npmImports": [
+    "timers"
+  ]
+}

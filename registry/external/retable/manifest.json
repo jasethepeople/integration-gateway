@@ -1,0 +1,36 @@
+{
+  "app": "retable",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "workspaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "retableId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "rowId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "columnIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "retable-add-record",
+    "retable-list-workspace-id-options",
+    "retable-update-record"
+  ]
+}

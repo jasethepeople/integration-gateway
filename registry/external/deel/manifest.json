@@ -1,0 +1,60 @@
+{
+  "app": "deel",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contractId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "countryCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "clientTeamId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "clientLegalEntityId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "deel-amend-eor-contract",
+    "deel-amend-ic-contract",
+    "deel-create-adjustment",
+    "deel-create-contract-task",
+    "deel-create-eor-contract",
+    "deel-create-gp-contract",
+    "deel-create-ic-contract",
+    "deel-create-invoice-adjustment",
+    "deel-create-shift-rate",
+    "deel-create-shifts",
+    "deel-get-contract-preview",
+    "deel-get-contract",
+    "deel-get-eor-benefits",
+    "deel-get-eor-contract-form",
+    "deel-get-eor-hiring-guide",
+    "deel-list-contract-adjustments",
+    "deel-list-contract-tasks",
+    "deel-list-contracts",
+    "deel-list-eor-payslips",
+    "deel-list-gp-payslips",
+    "deel-list-timesheets",
+    "deel-review-contract-task",
+    "deel-send-contract-invitation",
+    "deel-sign-contract"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

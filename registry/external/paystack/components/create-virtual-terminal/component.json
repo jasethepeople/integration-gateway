@@ -1,0 +1,7 @@
+{
+  "key": "paystack-create-virtual-terminal",
+  "name": "Create Virtual Terminal",
+  "description": "Create a Virtual Terminal on your integration. [See the documentation](https://paystack.com/docs/api/virtual-terminal/#create)",
+  "type": "action",
+  "version": "0.0.2"
+}

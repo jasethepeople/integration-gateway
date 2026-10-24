@@ -1,0 +1,7 @@
+{
+  "key": "moaform-new-submission-instant",
+  "name": "New Submission (Instant)",
+  "description": "Emit new event every time a new form submission is received.",
+  "type": "source",
+  "version": "0.0.1"
+}

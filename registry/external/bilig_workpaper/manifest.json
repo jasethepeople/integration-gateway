@@ -1,0 +1,26 @@
+{
+  "app": "bilig_workpaper",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "forecastSheetName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "forecastCell": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "forecastValue": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "forecastValueDivisor": {
+      "kind": "propDefinition",
+      "type": "integer"
+    }
+  },
+  "categories": [],
+  "components": [
+    "bilig_workpaper-verify-formula-readback"
+  ]
+}

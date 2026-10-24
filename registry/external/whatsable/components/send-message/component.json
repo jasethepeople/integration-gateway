@@ -1,0 +1,7 @@
+{
+  "key": "whatsable-send-message",
+  "name": "Send Message",
+  "description": "Sends a message to a verified WhatsApp number. [See the documentation](https://www.whatsable.app/api)",
+  "type": "action",
+  "version": "0.0.2"
+}

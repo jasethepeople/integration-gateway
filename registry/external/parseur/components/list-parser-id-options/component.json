@@ -1,0 +1,7 @@
+{
+  "key": "parseur-list-parser-id-options",
+  "name": "List Parser ID Options",
+  "description": "Retrieves available options for the Parser ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

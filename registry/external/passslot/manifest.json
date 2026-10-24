@@ -1,0 +1,35 @@
+{
+  "app": "passslot",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "passTypeIdentifier": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "passSerialNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "app_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "passslot-create-pass",
+    "passslot-delete-pass",
+    "passslot-list-pass-type-identifier-options",
+    "passslot-list-template-id-options",
+    "passslot-update-pass",
+    "passslot-new-pass-created",
+    "passslot-pass-updated"
+  ],
+  "npmImports": [
+    "md5"
+  ]
+}

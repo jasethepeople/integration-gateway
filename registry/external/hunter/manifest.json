@@ -1,0 +1,98 @@
+{
+  "app": "hunter",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "domain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "company": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "leadId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "position": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "website": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phoneNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "industry": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "countryCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companySize": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "source": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "twitter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "linkedinUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "leadsListId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "hunter-account-information",
+    "hunter-combined-enrichment",
+    "hunter-create-lead",
+    "hunter-delete-lead",
+    "hunter-domain-search",
+    "hunter-email-count",
+    "hunter-email-finder",
+    "hunter-email-verifier",
+    "hunter-get-lead",
+    "hunter-get-leads-list",
+    "hunter-list-leads-lists",
+    "hunter-list-leads",
+    "hunter-update-lead"
+  ]
+}

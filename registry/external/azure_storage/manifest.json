@@ -1,0 +1,32 @@
+{
+  "app": "azure_storage",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "containerName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "blobName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "azure_storage-create-container",
+    "azure_storage-delete-blob",
+    "azure_storage-list-container-name-options",
+    "azure_storage-upload-blob",
+    "azure_storage-blob-deleted",
+    "azure_storage-new-blob-created",
+    "azure_storage-new-container-created"
+  ],
+  "npmImports": [
+    "fast-xml-parser",
+    "mime-types"
+  ]
+}

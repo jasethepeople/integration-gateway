@@ -1,0 +1,7 @@
+{
+  "key": "csvbox-list-sheet-id-options",
+  "name": "List Sheet Options",
+  "description": "Retrieves available options for the Sheet field.",
+  "type": "action",
+  "version": "0.0.1"
+}

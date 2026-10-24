@@ -1,0 +1,7 @@
+{
+  "key": "onepagecrm-create-contact",
+  "name": "Create Contact",
+  "description": "Creates a new contact in OnePageCRM. [See the documentation](https://developer.onepagecrm.com/api/#/Contacts/post_contacts)",
+  "type": "action",
+  "version": "0.0.2"
+}

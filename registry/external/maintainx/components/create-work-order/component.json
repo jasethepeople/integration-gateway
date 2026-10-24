@@ -1,0 +1,7 @@
+{
+  "key": "maintainx-create-work-order",
+  "name": "Create Work Order",
+  "description": "Creates a work order. [See docs here](https://api.getmaintainx.com/v1/docs#tag/Work-Orders/paths/~1workorders/post)",
+  "type": "action",
+  "version": "0.0.2"
+}

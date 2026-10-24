@@ -1,0 +1,7 @@
+{
+  "key": "google_sheets-get-cell-formatting",
+  "name": "Get Cell Formatting",
+  "description": "Read the current formatting of a range of cells in Google Sheets — bold,",
+  "type": "action",
+  "version": "0.0.1"
+}

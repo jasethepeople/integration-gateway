@@ -1,0 +1,7 @@
+{
+  "key": "surecart-retrieve-subscription",
+  "name": "Retrieve Subscription",
+  "description": "Retrieve a subscription by ID. [See the documentation](https://developer.surecart.com/api-reference/subscriptions/retrieve)",
+  "type": "action",
+  "version": "0.0.3"
+}

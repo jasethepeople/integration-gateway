@@ -1,0 +1,7 @@
+{
+  "key": "kenjo-list-time-off-type-id-options",
+  "name": "List Time Off Type ID Options",
+  "description": "Retrieves available options for the Time Off Type ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

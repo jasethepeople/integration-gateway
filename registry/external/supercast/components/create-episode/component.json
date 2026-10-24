@@ -1,0 +1,7 @@
+{
+  "key": "supercast-create-episode",
+  "name": "Create an Episode",
+  "description": "Creates a new episode on Supercast. [See the documentation](https://supercast.readme.io/reference/postepisodes)",
+  "type": "action",
+  "version": "0.0.2"
+}

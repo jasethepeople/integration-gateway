@@ -1,0 +1,39 @@
+{
+  "app": "noticeable",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emailSubscriptionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fullName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "noticeable-create-email-subscription",
+    "noticeable-create-publication",
+    "noticeable-delete-email-subscription",
+    "noticeable-search-email-subscription",
+    "noticeable-update-email-subscription",
+    "noticeable-email-subscription-created",
+    "noticeable-email-subscription-deleted",
+    "noticeable-publication-created",
+    "noticeable-publication-deleted",
+    "noticeable-publication-updated"
+  ]
+}

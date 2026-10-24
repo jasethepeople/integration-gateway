@@ -1,0 +1,7 @@
+{
+  "key": "recreation_gov-get-recreation-area",
+  "name": "Get Recreation Area",
+  "description": "Retrieves details of a specific campsite. [See the documentation](https://ridb.recreation.gov/docs#/Campsites/getCampsites)",
+  "type": "action",
+  "version": "0.0.2"
+}

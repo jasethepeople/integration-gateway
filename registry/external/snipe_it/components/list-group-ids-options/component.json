@@ -1,0 +1,7 @@
+{
+  "key": "snipe_it-list-group-ids-options",
+  "name": "List Groups Options",
+  "description": "Retrieves available options for the Groups field.",
+  "type": "action",
+  "version": "0.0.1"
+}

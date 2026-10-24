@@ -1,0 +1,7 @@
+{
+  "key": "hellosign-list-template-id-options",
+  "name": "List Template Options",
+  "description": "Retrieves available options for the Template field.",
+  "type": "action",
+  "version": "0.0.1"
+}

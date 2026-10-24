@@ -1,0 +1,7 @@
+{
+  "key": "harvest-list-users",
+  "name": "List Users",
+  "description": "Only return active or inactive users.",
+  "type": "action",
+  "version": "0.0.1"
+}

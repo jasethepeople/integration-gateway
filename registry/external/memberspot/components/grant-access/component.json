@@ -1,0 +1,7 @@
+{
+  "key": "memberspot-grant-access",
+  "name": "Grant Access",
+  "description": "Grant access to a user by email. [See the documentation](https://api.memberspot.de/api/#/users/UsersApiController_grantUserOfferByMail)",
+  "type": "action",
+  "version": "0.0.2"
+}

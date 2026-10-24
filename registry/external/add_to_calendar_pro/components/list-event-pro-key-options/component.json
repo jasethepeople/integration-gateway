@@ -1,0 +1,7 @@
+{
+  "key": "add_to_calendar_pro-list-event-pro-key-options",
+  "name": "List Event Pro Key Options",
+  "description": "Retrieves available options for the Event Pro Key field.",
+  "type": "action",
+  "version": "0.0.1"
+}

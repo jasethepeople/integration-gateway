@@ -1,0 +1,30 @@
+{
+  "app": "onlyoffice_docspace",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "file": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "onlyoffice_docspace-create-room",
+    "onlyoffice_docspace-invite-user",
+    "onlyoffice_docspace-upload-file",
+    "onlyoffice_docspace-new-file",
+    "onlyoffice_docspace-new-folder",
+    "onlyoffice_docspace-new-user-added"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

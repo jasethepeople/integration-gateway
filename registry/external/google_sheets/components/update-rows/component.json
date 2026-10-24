@@ -1,0 +1,7 @@
+{
+  "key": "google_sheets-update-rows",
+  "name": "Update Rows",
+  "description": "Update specific rows in a Google Sheets worksheet.",
+  "type": "action",
+  "version": "0.0.6"
+}

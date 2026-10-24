@@ -1,0 +1,7 @@
+{
+  "key": "hellosign-send-signature-request",
+  "name": "Send Signature Request",
+  "description": "Send a signature request with Dropbox Sign. [See the documentation](https://developers.hellosign.com/api/reference/operation/signatureRequestSend/)",
+  "type": "action",
+  "version": "0.0.2"
+}

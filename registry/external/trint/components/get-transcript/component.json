@@ -1,0 +1,7 @@
+{
+  "key": "trint-get-transcript",
+  "name": "Get Transcript",
+  "description": "Retrieve the full transcription of a processed media file. [See the documentation](https://dev.trint.com/reference/get-file)",
+  "type": "action",
+  "version": "0.0.1"
+}

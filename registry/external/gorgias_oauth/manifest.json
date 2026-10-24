@@ -1,0 +1,126 @@
+{
+  "app": "gorgias_oauth",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "ticketId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "macroId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "address": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "channel": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "via": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sourceType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "integrationId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "bodyText": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "externalId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "language": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timezone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "data": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "assigneeTeamId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "assigneeUserId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "subject": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tagId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "gorgias_oauth-add-ticket-tags",
+    "gorgias_oauth-create-customer",
+    "gorgias_oauth-create-macro",
+    "gorgias_oauth-create-ticket-message",
+    "gorgias_oauth-create-ticket",
+    "gorgias_oauth-delete-macro",
+    "gorgias_oauth-get-macro",
+    "gorgias_oauth-get-ticket-message",
+    "gorgias_oauth-get-ticket",
+    "gorgias_oauth-list-integrations",
+    "gorgias_oauth-list-macros",
+    "gorgias_oauth-list-messages",
+    "gorgias_oauth-list-ticket-field-values",
+    "gorgias_oauth-list-ticket-messages",
+    "gorgias_oauth-list-ticket-tags",
+    "gorgias_oauth-list-tickets",
+    "gorgias_oauth-retrieve-customer",
+    "gorgias_oauth-send-internal-note",
+    "gorgias_oauth-send-public-reply",
+    "gorgias_oauth-set-ticket-tags",
+    "gorgias_oauth-update-customer",
+    "gorgias_oauth-update-macro",
+    "gorgias_oauth-update-ticket-field-values",
+    "gorgias_oauth-update-ticket",
+    "gorgias_oauth-internal-note-created",
+    "gorgias_oauth-macro-updated",
+    "gorgias_oauth-new-macro-created",
+    "gorgias_oauth-ticket-created",
+    "gorgias_oauth-ticket-message-created",
+    "gorgias_oauth-ticket-updated"
+  ],
+  "npmImports": [
+    "lodash-es"
+  ]
+}

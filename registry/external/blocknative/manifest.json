@@ -1,0 +1,25 @@
+{
+  "app": "blocknative",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "confidenceLevels": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "chainid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "blocknative-get-chains",
+    "blocknative-get-gas-prices",
+    "blocknative-get-oracles",
+    "blocknative-list-chainid-options"
+  ]
+}

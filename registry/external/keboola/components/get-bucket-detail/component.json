@@ -1,0 +1,7 @@
+{
+  "key": "keboola-get-bucket-detail",
+  "name": "Get Bucket Detail",
+  "description": "Get detailed information about a specific bucket in Keboola. [See the documentation](https://keboola.docs.apiary.io/#reference/buckets/manage-bucket/bucket-detail)",
+  "type": "action",
+  "version": "0.0.2"
+}

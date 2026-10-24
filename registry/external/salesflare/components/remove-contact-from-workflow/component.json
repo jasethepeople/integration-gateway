@@ -1,0 +1,7 @@
+{
+  "key": "salesflare-remove-contact-from-workflow",
+  "name": "Remove Contact From Workflow",
+  "description": "Remove a contact from a workflow [See the docs here](https://api.salesflare.com/docs#operation/putWorkflowsIdAudienceRecord_id)",
+  "type": "action",
+  "version": "0.0.2"
+}

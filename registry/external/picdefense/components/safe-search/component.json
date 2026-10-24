@@ -1,0 +1,7 @@
+{
+  "key": "picdefense-safe-search",
+  "name": "Safe Search",
+  "description": "Returns whether the image is safe for work. [See the documentation](https://app.picdefense.io/apidocs/)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "eppo-get-feature-flag",
+  "name": "Get Feature Flag",
+  "description": "Retrieve full details for a single feature flag including its allocation rules, assignment configuration, and variations.",
+  "type": "action",
+  "version": "0.0.2"
+}

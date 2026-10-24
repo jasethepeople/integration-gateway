@@ -1,0 +1,7 @@
+{
+  "key": "lever-get-opportunity",
+  "name": "Get Opportunity",
+  "description": "Returns full details for a single opportunity (candidate application) by ID.",
+  "type": "action",
+  "version": "0.0.2"
+}

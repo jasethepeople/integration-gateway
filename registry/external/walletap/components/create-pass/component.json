@@ -1,0 +1,7 @@
+{
+  "key": "walletap-create-pass",
+  "name": "Create Pass",
+  "description": "Creates a mobile Wallet pass. [See the documentation](https://walletap.io/docs/api#tag/Pass/operation/createPass)",
+  "type": "action",
+  "version": "0.0.1"
+}

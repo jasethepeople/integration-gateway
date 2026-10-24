@@ -1,0 +1,22 @@
+{
+  "app": "alttextify",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "assetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "alttextify-delete-image",
+    "alttextify-get-alttext-by-asset-id",
+    "alttextify-list-asset-id-options",
+    "alttextify-submit-image",
+    "alttextify-new-alttext-generated"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "elastic_security-search-alerts",
+  "name": "Search Alerts",
+  "description": "Search Elastic Security detection alerts (signals) via POST /api/detection_engine/signals/search using raw Elasticsearch Query DSL.",
+  "type": "action",
+  "version": "0.0.1"
+}

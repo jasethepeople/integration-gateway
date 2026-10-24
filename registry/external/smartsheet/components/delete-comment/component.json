@@ -1,0 +1,7 @@
+{
+  "key": "smartsheet-delete-comment",
+  "name": "Delete Comment",
+  "description": "Permanently deletes a comment from a Smartsheet sheet",
+  "type": "action",
+  "version": "0.0.2"
+}

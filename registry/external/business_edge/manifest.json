@@ -1,0 +1,50 @@
+{
+  "app": "business_edge",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "entity": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dateFormatOpt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dateDelim": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "savedSchemaId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "savedSchemaCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "chooseOne": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "availBom": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "branchCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "branchId": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "business_edge-get-customers",
+    "business_edge-get-products",
+    "business_edge-list-branches",
+    "business_edge-order-inquiry",
+    "business_edge-order-upload"
+  ]
+}

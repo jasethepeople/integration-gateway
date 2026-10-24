@@ -1,0 +1,7 @@
+{
+  "key": "streak-new-contact",
+  "name": "New Contact (Instant)",
+  "description": "Emit new event when a new contact is created within a team.",
+  "type": "source",
+  "version": "0.0.2"
+}

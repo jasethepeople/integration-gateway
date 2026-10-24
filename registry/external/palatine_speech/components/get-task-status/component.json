@@ -1,0 +1,7 @@
+{
+  "key": "palatine_speech-get-task-status",
+  "name": "Get Task Status",
+  "description": "Retrieves the status and results of a transcription task. Use this to poll for completion after starting a transcription job. [See the documentation](https://docs.speech.palatine.ru/api-reference/transcribe/transcribe-polling-api/task-status)",
+  "type": "action",
+  "version": "0.0.1"
+}

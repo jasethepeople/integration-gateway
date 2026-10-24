@@ -1,0 +1,7 @@
+{
+  "key": "upkeep-new-work-order",
+  "name": "New Work Order Event",
+  "description": "Emit new event when a work order is created.",
+  "type": "source",
+  "version": "0.0.2"
+}

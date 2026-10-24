@@ -1,0 +1,57 @@
+{
+  "app": "breathe",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "employeeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "leaveRequestId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "departmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "divisionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "locationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workingPatternId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "holidayAllowanceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "breathe-approve-or-reject-leave-request",
+    "breathe-create-employee",
+    "breathe-create-leave-request",
+    "breathe-list-department-id-options",
+    "breathe-list-division-id-options",
+    "breathe-list-employee-id-options",
+    "breathe-list-holiday-allowance-id-options",
+    "breathe-list-location-id-options",
+    "breathe-list-working-pattern-id-options",
+    "breathe-employee-updated",
+    "breathe-new-employee-created",
+    "breathe-new-leave-request-created"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "decision_journal-update-decision",
+  "name": "Update Decision",
+  "description": "Updates an existing decision. [See the documentation](https://openpm.ai/apis/decision-journal#/decisions/{decisionId})",
+  "type": "action",
+  "version": "0.0.2"
+}

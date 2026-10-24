@@ -1,0 +1,7 @@
+{
+  "key": "vercel_token_auth-cancel-deployment",
+  "name": "Cancel Deployment",
+  "description": "Cancel a deployment which is currently building. [See the documentation](https://vercel.com/docs/rest-api/endpoints/deployments#cancel-a-deployment)",
+  "type": "action",
+  "version": "0.0.6"
+}

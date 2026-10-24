@@ -1,0 +1,7 @@
+{
+  "key": "basin-new-submission-received",
+  "name": "New Submission Received",
+  "description": "Emit new event on each new form submission received.",
+  "type": "source",
+  "version": "0.0.1"
+}

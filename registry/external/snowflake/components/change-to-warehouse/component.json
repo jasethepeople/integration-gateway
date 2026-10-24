@@ -1,0 +1,7 @@
+{
+  "key": "snowflake-change-to-warehouse",
+  "name": "New, Updated, or Deleted Warehouse",
+  "description": "Emit new events when a warehouse is created, altered, or dropped",
+  "type": "source",
+  "version": "0.1.5"
+}

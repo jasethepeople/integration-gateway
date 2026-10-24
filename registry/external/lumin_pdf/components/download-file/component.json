@@ -1,0 +1,7 @@
+{
+  "key": "lumin_pdf-download-file",
+  "name": "Download File",
+  "description": "Download a file directly. [See the documentation](https://developers.luminpdf.com/api/download-file/)",
+  "type": "action",
+  "version": "0.0.2"
+}

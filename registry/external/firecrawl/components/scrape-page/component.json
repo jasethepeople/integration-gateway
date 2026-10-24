@@ -1,0 +1,7 @@
+{
+  "key": "firecrawl-scrape-page",
+  "name": "Scrape Page",
+  "description": "Scrapes a URL and returns content from that page. [See the documentation](https://docs.firecrawl.dev/api-reference/endpoint/scrape)",
+  "type": "action",
+  "version": "1.0.4"
+}

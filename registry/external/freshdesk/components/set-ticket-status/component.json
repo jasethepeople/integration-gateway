@@ -1,0 +1,7 @@
+{
+  "key": "freshdesk-set-ticket-status",
+  "name": "Set Ticket Status",
+  "description": "Update the status of a ticket in Freshdesk  [See the documentation](https://developers.freshdesk.com/api/#update_ticket).",
+  "type": "action",
+  "version": "0.0.13"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "placid-generate-pdf",
+  "name": "Generate PDF",
+  "description": "Creates a new PDF based on a specified template. [See the documentation](https://placid.app/docs/2.0/rest/pdfs#create)",
+  "type": "action",
+  "version": "0.0.2"
+}

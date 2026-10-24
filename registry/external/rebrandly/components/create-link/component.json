@@ -1,0 +1,7 @@
+{
+  "key": "rebrandly-create-link",
+  "name": "Create Link",
+  "description": "Creates a link. [See docs here](https://developers.rebrandly.com/docs/create-a-new-link)",
+  "type": "action",
+  "version": "0.0.2"
+}

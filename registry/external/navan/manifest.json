@@ -1,0 +1,71 @@
+{
+  "app": "navan",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "active": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "employeeNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "department": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "costCenter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "division": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "region": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "travelPolicy": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "scim_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "navan-create-user",
+    "navan-get-user",
+    "navan-list-user-id-options",
+    "navan-list-users",
+    "navan-replace-user",
+    "navan-update-user"
+  ]
+}

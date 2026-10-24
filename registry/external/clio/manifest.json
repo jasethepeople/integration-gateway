@@ -1,0 +1,46 @@
+{
+  "app": "clio",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "clientId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "closeDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "clientReference": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "matterId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "clio-create-matter",
+    "clio-create-task",
+    "clio-update-matter",
+    "clio-bill-state-updated-instant",
+    "clio-new-activity-instant",
+    "clio-new-document-instant"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

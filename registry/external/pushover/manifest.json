@@ -1,0 +1,60 @@
+{
+  "app": "pushover",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "message": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "urlTitle": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "device": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sound": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "html": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "timestamp": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "retry": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "expire": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "user_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pushover-emergency-push-notification",
+    "pushover-list-sound-options",
+    "pushover-push-notification"
+  ]
+}

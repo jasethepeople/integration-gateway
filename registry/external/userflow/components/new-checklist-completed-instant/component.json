@@ -1,0 +1,7 @@
+{
+  "key": "userflow-new-checklist-completed-instant",
+  "name": "New Checklist Completed (Instant)",
+  "description": "Emit new event when a user has completed all tasks in a checklist. [See the documentation](https://userflow.com/docs/api)",
+  "type": "source",
+  "version": "0.0.1"
+}

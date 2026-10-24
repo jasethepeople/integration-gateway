@@ -1,0 +1,31 @@
+{
+  "app": "zoho_calendar",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "calendarId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eventId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "base_api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zoho_calendar-create-event-smart-add",
+    "zoho_calendar-create-or-update-event",
+    "zoho_calendar-list-calendar-id-options",
+    "zoho_calendar-list-events",
+    "zoho_calendar-event-updated",
+    "zoho_calendar-new-event-created"
+  ]
+}

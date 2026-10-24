@@ -1,0 +1,7 @@
+{
+  "key": "pipedream_utils-extract-by-regular-expressions-list",
+  "name": "Formatting - [Text] Extract by Regular Expressions List (Regex)",
+  "description": "Find matches for regular expressions. Returns all matched groups with start and end position.",
+  "type": "action",
+  "version": "0.1.2"
+}

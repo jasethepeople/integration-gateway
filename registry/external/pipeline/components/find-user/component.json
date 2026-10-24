@@ -1,0 +1,7 @@
+{
+  "key": "pipeline-find-user",
+  "name": "Find User",
+  "description": "Find an existing user on your Pipeline account. [See the docs here](https://app.pipelinecrm.com/api/docs#tag/Users/paths/~1admin~1users/get)",
+  "type": "action",
+  "version": "0.0.2"
+}

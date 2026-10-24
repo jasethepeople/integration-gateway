@@ -1,0 +1,35 @@
+{
+  "app": "dux_soup",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "targetProfileUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "message": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "target_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "user_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "auth_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dux_soup-connect-profile",
+    "dux_soup-message-profile",
+    "dux_soup-save-profile-lead"
+  ],
+  "npmImports": [
+    "jssha"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "app": "oto",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "brandName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "brandId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "oto-create-product",
+    "oto-get-order-details",
+    "oto-list-brand-id-options",
+    "oto-list-brand-name-options",
+    "oto-list-order-id-options",
+    "oto-list-orders",
+    "oto-order-status-updated-instant"
+  ]
+}

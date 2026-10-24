@@ -1,0 +1,7 @@
+{
+  "key": "knowfirst-new-feed-list-event",
+  "name": "New Feed List Event",
+  "description": "Emit new event when a new event for the specified business appears in your feed.",
+  "type": "source",
+  "version": "0.0.1"
+}

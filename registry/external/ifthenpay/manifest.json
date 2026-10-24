@@ -1,0 +1,28 @@
+{
+  "app": "ifthenpay",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "requestId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mbWayKey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mbKey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "backoffice_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ifthenpay-create-payment-reference",
+    "ifthenpay-issue-refund",
+    "ifthenpay-new-payment"
+  ]
+}

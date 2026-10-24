@@ -1,0 +1,7 @@
+{
+  "key": "dixa-list-messages",
+  "name": "List Messages",
+  "description": "Lists messages from a conversation. [See the documentation](https://docs.dixa.io/openapi/dixa-api/v1/tag/Conversations/#tag/Conversations/operation/getConversationsConversationidMessages).",
+  "type": "action",
+  "version": "0.0.1"
+}

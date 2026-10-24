@@ -1,0 +1,7 @@
+{
+  "key": "firebase_admin_sdk-new-doc-in-firestore-collection",
+  "name": "New Document in Firestore Collection",
+  "description": "Emit new event when a structured query returns new documents",
+  "type": "source",
+  "version": "0.0.10"
+}

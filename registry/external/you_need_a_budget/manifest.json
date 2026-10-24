@@ -1,0 +1,60 @@
+{
+  "app": "you_need_a_budget",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "budgetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "categoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "month": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "payee": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "date": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "amount": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "transactionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "you_need_a_budget-create-transaction",
+    "you_need_a_budget-get-account",
+    "you_need_a_budget-list-accounts",
+    "you_need_a_budget-list-budget-id-options",
+    "you_need_a_budget-update-category-budget",
+    "you_need_a_budget-update-transaction",
+    "you_need_a_budget-category-overspent",
+    "you_need_a_budget-low-account-balance",
+    "you_need_a_budget-low-category-balance",
+    "you_need_a_budget-new-or-updated-transaction",
+    "you_need_a_budget-new-spending-in-account",
+    "you_need_a_budget-new-spending-in-category"
+  ],
+  "npmImports": [
+    "ynab"
+  ]
+}

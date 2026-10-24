@@ -1,0 +1,7 @@
+{
+  "key": "gmail-modify-labels",
+  "name": "Modify Labels",
+  "description": "Add and/or remove labels on one or more Gmail messages in a single call.",
+  "type": "action",
+  "version": "0.0.5"
+}

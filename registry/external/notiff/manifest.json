@@ -1,0 +1,9 @@
+{
+  "app": "notiff",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "notiff-create-notification"
+  ]
+}

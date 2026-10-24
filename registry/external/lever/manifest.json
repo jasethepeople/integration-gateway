@@ -1,0 +1,64 @@
+{
+  "app": "lever",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "opportunityId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "performAs": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "postingId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "stageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "origin": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "expand": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "offset": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "lever-add-note",
+    "lever-archive-opportunity",
+    "lever-create-interview",
+    "lever-create-opportunity",
+    "lever-download-opportunity-files",
+    "lever-get-opportunity",
+    "lever-get-posting",
+    "lever-list-archive-reasons",
+    "lever-list-feedback-templates",
+    "lever-list-opportunity-items",
+    "lever-list-postings",
+    "lever-list-stages",
+    "lever-list-users",
+    "lever-search-opportunities",
+    "lever-submit-feedback",
+    "lever-update-opportunity-stage"
+  ],
+  "npmImports": [
+    "fs"
+  ]
+}

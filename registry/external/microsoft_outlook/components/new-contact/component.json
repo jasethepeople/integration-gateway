@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_outlook-new-contact",
+  "name": "New Contact Event (Instant)",
+  "description": "Emit new event when a new Contact is created",
+  "type": "source",
+  "version": "0.0.35"
+}

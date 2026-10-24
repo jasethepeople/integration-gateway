@@ -1,0 +1,7 @@
+{
+  "key": "robopost-get-video-status",
+  "name": "Get Video Status",
+  "description": "Check the status of a video generation task. [See the documentation](https://robopost.app/docs/robopost-api/#videogenerationtasks)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "snowflake-deleted-role",
+  "name": "New Deleted Role",
+  "description": "Emit new event when a role is deleted",
+  "type": "source",
+  "version": "0.1.5"
+}

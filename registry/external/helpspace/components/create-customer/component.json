@@ -1,0 +1,7 @@
+{
+  "key": "helpspace-create-customer",
+  "name": "Create Customer",
+  "description": "Creates a new customer in Helpspace. [See the documentation](https://documentation.helpspace.com/api-customers)",
+  "type": "action",
+  "version": "0.0.2"
+}

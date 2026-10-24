@@ -1,0 +1,58 @@
+import common, { getProps } from "../../shared/actions/common/base-create-update.mjs";
+import note from "../../shared/common/sobjects/note.mjs";
+import { NOTE_INFO_PROP } from "../../shared/common/props-info.mjs";
+
+const docsLink = "https://developer.salesforce.com/docs/atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_note.htm";
+
+const props = getProps({
+  objType: note,
+  docsLink,
+});
+
+export default {
+  ...common,
+  key: "salesforce_rest_api-create-note",
+  name: "Create Note",
+  description: "Create a classic Salesforce note (up to 32 KB of plain text) attached to a parent record."
+    + " Prefer **Create Content Note** on modern orgs - classic notes are legacy and do not support rich text."
+    + " Use **Find Records** to get the parent record ID first."
+    + " "
+    + `[See the documentation](${docsLink})`,
+  version: "0.3.10",
+  annotations: {
+    destructiveHint: false,
+    openWorldHint: true,
+    readOnlyHint: false,
+  },
+  type: "action",
+  ai: "optimized",
+  methods: {
+    ...common.methods,
+  },
+  props: {
+    noteInfo: NOTE_INFO_PROP,
+    ...props,
+  },
+  async run({ $ }) {
+    /* eslint-disable no-unused-vars */
+    const {
+      salesforce,
+      getAdditionalFields,
+      formatDateTimeProps,
+      docsInfo,
+      noteInfo,
+      additionalFields,
+      ...data
+    } = this;
+    /* eslint-enable no-unused-vars */
+    const response = await salesforce.createRecord("Note", {
+      $,
+      data: {
+        ...data,
+        ...getAdditionalFields(),
+      },
+    });
+    $.export("$summary", `Successfully created note "${this.Title}"`);
+    return response;
+  },
+};

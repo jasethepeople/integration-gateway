@@ -1,0 +1,7 @@
+{
+  "key": "humanitix-get-tickets",
+  "name": "Get Tickets",
+  "description": "Retrieves a list of tickets from Humanitix. [See the documentation](https://humanitix.stoplight.io/docs/humanitix-public-api/e508a657c1467-humanitix-public-api)",
+  "type": "action",
+  "version": "0.0.1"
+}

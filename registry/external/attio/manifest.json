@@ -1,0 +1,100 @@
+{
+  "app": "attio",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emailAddress": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobTitle": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phoneNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phoneNumberCountryCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "linkedin": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "twitter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "facebook": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "instagram": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recordId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workspaceMemberId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "listId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "entryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "objectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "matchingAttribute": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "attio-create-note",
+    "attio-create-person",
+    "attio-create-task",
+    "attio-create-update-record",
+    "attio-delete-list-entry",
+    "attio-get-record",
+    "attio-list-list-id-options",
+    "attio-list-records",
+    "attio-update-person",
+    "attio-list-entry-deleted-instant",
+    "attio-list-entry-updated-instant",
+    "attio-new-activity-created-instant",
+    "attio-new-list-entry-instant",
+    "attio-new-note-instant",
+    "attio-new-object-attribute-instant",
+    "attio-new-record-created-instant",
+    "attio-note-updated-instant",
+    "attio-object-attribute-updated-instant",
+    "attio-record-updated-instant"
+  ]
+}

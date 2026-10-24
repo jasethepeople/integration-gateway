@@ -1,0 +1,7 @@
+{
+  "key": "xquik-get-trends",
+  "name": "Get Trends",
+  "description": "Get trending public X/Twitter topics by region with Xquik. [See the documentation](https://docs.xquik.com/api-reference/x/trends)",
+  "type": "action",
+  "version": "0.0.2"
+}

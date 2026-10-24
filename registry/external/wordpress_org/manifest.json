@@ -1,0 +1,115 @@
+{
+  "app": "wordpress_org",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "search": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "content": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "excerpt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "commentStatus": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "username": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "roles": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "password": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "author": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "categories": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "post": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "user": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "media": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "meta": {
+      "kind": "propDefinition",
+      "type": "object"
+    }
+  },
+  "categories": [],
+  "components": [
+    "wordpress_org-create-post",
+    "wordpress_org-create-user",
+    "wordpress_org-get-user",
+    "wordpress_org-list-author-options",
+    "wordpress_org-list-categories-options",
+    "wordpress_org-list-media-options",
+    "wordpress_org-list-post-options",
+    "wordpress_org-list-status-options",
+    "wordpress_org-list-tags-options",
+    "wordpress_org-list-user-options",
+    "wordpress_org-search-posts",
+    "wordpress_org-update-post",
+    "wordpress_org-update-user",
+    "wordpress_org-upload-media"
+  ],
+  "npmImports": [
+    "lodash.pickby",
+    "wpapi"
+  ]
+}

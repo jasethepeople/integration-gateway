@@ -1,0 +1,21 @@
+{
+  "app": "knowfirst",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "businessId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "knowfirst-start-tracking-business",
+    "knowfirst-stop-tracking-business",
+    "knowfirst-view-business-feed",
+    "knowfirst-new-feed-list-event"
+  ]
+}

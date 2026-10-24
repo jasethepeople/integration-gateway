@@ -1,0 +1,7 @@
+{
+  "key": "add_to_calendar_pro-list-style-id-options",
+  "name": "List Style ID Options",
+  "description": "Retrieves available options for the Style ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

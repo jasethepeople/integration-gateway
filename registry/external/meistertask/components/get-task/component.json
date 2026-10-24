@@ -1,0 +1,7 @@
+{
+  "key": "meistertask-get-task",
+  "name": "Get Task",
+  "description": "Retrieves information about a task. [See the docs](https://developers.meistertask.com/reference/get-task)",
+  "type": "action",
+  "version": "0.0.2"
+}

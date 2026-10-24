@@ -1,0 +1,48 @@
+{
+  "app": "productboard",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "feature": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "featureStatus": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "component": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "product": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "parentType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "productboard-create-feature",
+    "productboard-create-note",
+    "productboard-get-feature",
+    "productboard-list-features",
+    "productboard-update-feature",
+    "productboard-new-feature",
+    "productboard-updated-feature"
+  ]
+}

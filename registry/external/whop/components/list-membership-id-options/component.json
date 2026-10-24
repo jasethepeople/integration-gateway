@@ -1,0 +1,7 @@
+{
+  "key": "whop-list-membership-id-options",
+  "name": "List Membership ID Options",
+  "description": "Retrieves available options for the Membership ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

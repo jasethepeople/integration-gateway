@@ -1,0 +1,7 @@
+{
+  "key": "ashby-get-file-url",
+  "name": "Get File URL",
+  "description": "Retrieves the URL of a file associated with a candidate. [See the documentation](https://developers.ashbyhq.com/reference/fileinfo)",
+  "type": "action",
+  "version": "0.0.2"
+}

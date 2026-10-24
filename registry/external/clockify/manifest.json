@@ -1,0 +1,149 @@
+{
+  "app": "clockify",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "workspaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "clientId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "clientName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "clientAddress": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "clientNote": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "memberIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tagIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "hydrated": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "strictNameSearch": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "archived": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "sortOrder": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "pageSize": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "start": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "end": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timeEntryDescription": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "billable": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "timeEntryType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timeEntryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tagId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "invoiceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "invoiceNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "issuedDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dueDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "currency": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "clockify-add-members-to-project",
+    "clockify-add-task-to-project",
+    "clockify-create-client",
+    "clockify-create-invoice",
+    "clockify-create-project",
+    "clockify-create-tag",
+    "clockify-delete-client",
+    "clockify-delete-invoice",
+    "clockify-delete-tag",
+    "clockify-get-time-entry-report",
+    "clockify-list-clients",
+    "clockify-list-invoices",
+    "clockify-list-projects",
+    "clockify-list-tags",
+    "clockify-list-tasks",
+    "clockify-list-time-entries",
+    "clockify-list-workspace-id-options",
+    "clockify-log-time-entry",
+    "clockify-start-timer",
+    "clockify-stop-timer",
+    "clockify-update-client",
+    "clockify-update-invoice",
+    "clockify-update-tag",
+    "clockify-update-time-entry"
+  ]
+}

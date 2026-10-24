@@ -1,0 +1,7 @@
+{
+  "key": "aweber-get-accounts",
+  "name": "Get Accounts",
+  "description": "Get a paginated collection of accounts. [See the docs here](https://api.aweber.com/#tag/Accounts/paths/~1accounts/get).",
+  "type": "action",
+  "version": "0.0.5"
+}

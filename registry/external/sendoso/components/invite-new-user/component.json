@@ -1,0 +1,7 @@
+{
+  "key": "sendoso-invite-new-user",
+  "name": "Invite New User",
+  "description": "Invite a new user to the account. [See the documentation](https://developer.sendoso.com/rest-api/reference/users/invite-user)",
+  "type": "action",
+  "version": "0.0.1"
+}

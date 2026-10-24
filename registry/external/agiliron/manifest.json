@@ -1,0 +1,80 @@
+{
+  "app": "agiliron",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastname": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "salutation": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mobile": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fax": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "leadSource": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emailOptOut": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "yahooId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "assignedTo": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customFields": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "agiliron-create-contact",
+    "agiliron-create-event",
+    "agiliron-create-lead",
+    "agiliron-list-contact-name-options",
+    "agiliron-new-contact-created",
+    "agiliron-new-lead-created",
+    "agiliron-new-task-created"
+  ]
+}

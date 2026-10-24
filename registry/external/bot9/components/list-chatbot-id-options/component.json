@@ -1,0 +1,7 @@
+{
+  "key": "bot9-list-chatbot-id-options",
+  "name": "List Chatbot ID Options",
+  "description": "Retrieves available options for the Chatbot ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

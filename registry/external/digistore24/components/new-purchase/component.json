@@ -1,0 +1,7 @@
+{
+  "key": "digistore24-new-purchase",
+  "name": "New Purchase",
+  "description": "Emit new event when a new purchase is created. [See the documentation](https://dev.digistore24.com/hc/en-us/articles/38492246374673-API-reference-A-Z)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "mboum-get-crypto-quotes",
+  "name": "Get Crypto Quotes",
+  "description": "Get crypto quotes. [See the documentation](https://docs.mboum.com/#crypto-GETapi-v1-crypto-quotes)",
+  "type": "action",
+  "version": "0.0.2"
+}

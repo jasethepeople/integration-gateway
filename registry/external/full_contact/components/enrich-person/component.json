@@ -1,0 +1,7 @@
+{
+  "key": "full_contact-enrich-person",
+  "name": "Enrich Person",
+  "description": "Enrich a person. [See documentation here](https://docs.fullcontact.com/docs/multi-field-request)",
+  "type": "action",
+  "version": "0.0.2"
+}

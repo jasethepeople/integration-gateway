@@ -1,0 +1,40 @@
+{
+  "app": "workflow_max",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "clientUuid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taxable": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "clientGroupUuid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "account_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "workflow_max-create-client-group",
+    "workflow_max-delete-client-group",
+    "workflow_max-list-client-group-uuid-options",
+    "workflow_max-list-client-uuid-options"
+  ],
+  "npmImports": [
+    "xml2js"
+  ]
+}

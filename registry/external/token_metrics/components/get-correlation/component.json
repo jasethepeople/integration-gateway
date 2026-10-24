@@ -1,0 +1,7 @@
+{
+  "key": "token_metrics-get-correlation",
+  "name": "Get Correlation",
+  "description": "Select categories to filter results. Example: `layer-1,nft`",
+  "type": "action",
+  "version": "0.1.1"
+}

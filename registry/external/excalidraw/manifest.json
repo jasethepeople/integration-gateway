@@ -1,0 +1,45 @@
+{
+  "app": "excalidraw",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "sceneId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "collectionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sceneName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "collectionName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "offset": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "excalidraw-create-collection",
+    "excalidraw-create-scene",
+    "excalidraw-delete-scene",
+    "excalidraw-get-current-user",
+    "excalidraw-get-scene",
+    "excalidraw-list-collections",
+    "excalidraw-list-scenes",
+    "excalidraw-update-scene"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "app": "content_snare",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "companyName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "clientEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "clientFullName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "clientPhone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "requestTemplateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "content_snare-create-client",
+    "content_snare-create-request",
+    "content_snare-new-client-updated-instant",
+    "content_snare-new-field-approved-instant",
+    "content_snare-new-request-published-instant"
+  ]
+}

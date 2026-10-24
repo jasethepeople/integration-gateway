@@ -1,0 +1,7 @@
+{
+  "key": "bitmex-new-order",
+  "name": "New Order",
+  "description": "Emit new event when a new order is placed on your BitMEX account. [See the documentation](https://www.bitmex.com/api/explorer/#!/Order/Order_getOrders)",
+  "type": "source",
+  "version": "0.0.1"
+}

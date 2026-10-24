@@ -1,0 +1,136 @@
+{
+  "app": "roll",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "companyId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "color": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "completedDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dueDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "employee": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "endDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "paymentId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "poNum": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectAtRisk": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "projectIsRetainer": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectLeadSourceId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "projectRetainerFrequency": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "projectRetainerStartDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectStatus": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "projectType": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "rateId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "startDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "value": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "roll-create-company",
+    "roll-create-project",
+    "roll-create-time",
+    "roll-find-company",
+    "roll-find-create-company",
+    "roll-find-create-project",
+    "roll-find-project",
+    "roll-list-company-id-options",
+    "roll-list-employee-options",
+    "roll-list-project-id-options",
+    "roll-list-project-lead-source-id-options",
+    "roll-list-project-type-options",
+    "roll-list-rate-id-options",
+    "roll-new-created-company",
+    "roll-new-created-project",
+    "roll-new-created-task",
+    "roll-new-created-time-record"
+  ],
+  "npmImports": [
+    "graphql",
+    "graphql-request",
+    "lodash",
+    "moment"
+  ]
+}

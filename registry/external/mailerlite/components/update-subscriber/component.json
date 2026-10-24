@@ -1,0 +1,7 @@
+{
+  "key": "mailerlite-update-subscriber",
+  "name": "Update Subscriber",
+  "description": "Updates single active subscriber. [See the documentation](https://developers.mailerlite.com/docs/subscribers.html#create-update-subscriber)",
+  "type": "action",
+  "version": "0.0.6"
+}

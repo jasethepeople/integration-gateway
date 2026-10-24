@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-create-job",
+  "name": "Create Job",
+  "description": "Create a job. [See the documentation](https://developer.servicem8.com/reference/createjobs)",
+  "type": "action",
+  "version": "0.0.1"
+}

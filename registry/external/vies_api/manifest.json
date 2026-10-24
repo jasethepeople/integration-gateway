@@ -1,0 +1,12 @@
+{
+  "app": "vies_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "vies_api-retrieve-vat-data"
+  ],
+  "npmImports": [
+    "viesapi-client"
+  ]
+}

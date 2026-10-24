@@ -1,0 +1,41 @@
+{
+  "app": "asin_data_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "enabled": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "priority": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "notificationEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "notificationAsCsv": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "collectionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "asin_data_api-create-collection",
+    "asin_data_api-delete-collection",
+    "asin_data_api-list-collection-id-options",
+    "asin_data_api-update-collection"
+  ]
+}

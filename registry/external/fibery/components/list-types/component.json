@@ -1,0 +1,7 @@
+{
+  "key": "fibery-list-types",
+  "name": "List Types",
+  "description": "Lists types in account. [See the docs here](https://api.fibery.io/#get-schema)",
+  "type": "action",
+  "version": "0.0.2"
+}

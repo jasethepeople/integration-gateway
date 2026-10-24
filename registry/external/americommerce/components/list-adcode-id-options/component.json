@@ -1,0 +1,7 @@
+{
+  "key": "americommerce-list-adcode-id-options",
+  "name": "List Adcode ID Options",
+  "description": "Retrieves available options for the Adcode ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

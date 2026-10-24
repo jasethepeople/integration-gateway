@@ -1,0 +1,7 @@
+{
+  "key": "wordpress_org-list-user-options",
+  "name": "List User Options",
+  "description": "Retrieves available options for the User field.",
+  "type": "action",
+  "version": "0.0.1"
+}

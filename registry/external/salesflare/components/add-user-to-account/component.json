@@ -1,0 +1,7 @@
+{
+  "key": "salesflare-add-user-to-account",
+  "name": "Add User To Account",
+  "description": "Adds a user to an account [See the docs here](https://api.salesflare.com/docs#operation/postAccountsAccount_idUsers)",
+  "type": "action",
+  "version": "0.0.2"
+}

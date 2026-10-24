@@ -1,0 +1,7 @@
+{
+  "key": "openai-list-vector-store-files",
+  "name": "List Vector Store Files",
+  "description": "Returns a list of vector store file. [See the documentation](https://platform.openai.com/docs/api-reference/vector-stores-files/listFiles)",
+  "type": "action",
+  "version": "0.0.9"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "supportbee-new-ticket",
+  "name": "New Ticket",
+  "description": "Emit new event on each new ticket.",
+  "type": "source",
+  "version": "0.0.2"
+}

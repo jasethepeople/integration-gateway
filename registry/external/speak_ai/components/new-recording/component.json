@@ -1,0 +1,7 @@
+{
+  "key": "speak_ai-new-recording",
+  "name": "New Recording Captured (Instant)",
+  "description": "Emit new event when a recording is captured through a Speak AI embed recorder (`embed_recorder.recording_received`). [See the documentation](https://docs.speakai.co/api/media/#get-media-insight-media-id).",
+  "type": "source",
+  "version": "0.0.1"
+}

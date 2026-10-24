@@ -1,0 +1,19 @@
+{
+  "app": "smiirl",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "number": {
+      "kind": "propDefinition",
+      "type": "integer"
+    }
+  },
+  "categories": [],
+  "components": [
+    "smiirl-increment-count",
+    "smiirl-reset-count",
+    "smiirl-update-count"
+  ],
+  "npmImports": [
+    "@smiirl/smiirl-library-js"
+  ]
+}

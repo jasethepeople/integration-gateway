@@ -1,0 +1,7 @@
+{
+  "key": "prodpad-find-or-create-contact",
+  "name": "Find or Create Contact",
+  "description": "Finds or creates a contact. See the docs for [find contact](https://app.swaggerhub.com/apis-docs/ProdPad/prodpad/1.0#/Feedback/PostContacts) and [create contact](https://app.swaggerhub.com/apis-docs/ProdPad/prodpad/1.0#/Feedback/PostContacts).",
+  "type": "action",
+  "version": "0.0.2"
+}

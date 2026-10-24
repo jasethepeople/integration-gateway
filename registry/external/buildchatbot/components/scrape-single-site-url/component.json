@@ -1,0 +1,7 @@
+{
+  "key": "buildchatbot-scrape-single-site-url",
+  "name": "Scrape Single Site URL",
+  "description": "Scrape a single site URL. [See the API documentation](https://documenter.getpostman.com/view/27680478/2s9YR6baAb#6595ce98-a232-415f-abf3-501bc0fb8e3f)",
+  "type": "action",
+  "version": "0.0.1"
+}

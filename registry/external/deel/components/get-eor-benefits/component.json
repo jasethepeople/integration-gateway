@@ -1,0 +1,7 @@
+{
+  "key": "deel-get-eor-benefits",
+  "name": "Get EOR Benefits",
+  "description": "List available EOR (employer of record) benefits offered through Deel for a specific country and employment context.",
+  "type": "action",
+  "version": "0.0.2"
+}

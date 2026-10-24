@@ -1,0 +1,14 @@
+{
+  "app": "dribbble",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dribbble-new-shot-created"
+  ]
+}

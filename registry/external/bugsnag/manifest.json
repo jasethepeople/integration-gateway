@@ -1,0 +1,35 @@
+{
+  "app": "bugsnag",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "organizationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "errorId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "releaseStage": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "bugsnag-create-project",
+    "bugsnag-list-organization-id-options",
+    "bugsnag-update-error-severity",
+    "bugsnag-new-error-created",
+    "bugsnag-new-error-occurrence",
+    "bugsnag-new-release-created"
+  ]
+}

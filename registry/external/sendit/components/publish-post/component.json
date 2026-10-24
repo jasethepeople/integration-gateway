@@ -1,0 +1,7 @@
+{
+  "key": "sendit-publish-post",
+  "name": "Publish Post",
+  "description": "Publish content to social media platforms immediately. [See the documentation](https://sendit.infiniteappsai.com/docs/api)",
+  "type": "action",
+  "version": "0.0.1"
+}

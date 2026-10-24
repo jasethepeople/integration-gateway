@@ -1,0 +1,7 @@
+{
+  "key": "pdfmonkey-delete-document",
+  "name": "Delete Document",
+  "description": "Deletes a specific document using its ID. [See the documentation](https://docs.pdfmonkey.io/references/api/documents)",
+  "type": "action",
+  "version": "0.0.2"
+}

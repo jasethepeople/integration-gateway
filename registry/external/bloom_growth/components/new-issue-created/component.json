@@ -1,0 +1,7 @@
+{
+  "key": "bloom_growth-new-issue-created",
+  "name": "New Issue Created",
+  "description": "Emit new event when a new issue is created.",
+  "type": "source",
+  "version": "0.0.2"
+}

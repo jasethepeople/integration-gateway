@@ -1,0 +1,7 @@
+{
+  "key": "mews-fetch-order-items",
+  "name": "Fetch Order Items",
+  "description": "Retrieve order items using Mews Connector API. [See the documentation](https://mews-systems.gitbook.io/connector-api/operations/orderitems#get-all-order-items)",
+  "type": "action",
+  "version": "0.1.0"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "gigasheet-list-handle-options",
+  "name": "List Handle Options",
+  "description": "Retrieves available options for the Handle field.",
+  "type": "action",
+  "version": "0.0.1"
+}

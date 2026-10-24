@@ -1,0 +1,7 @@
+{
+  "key": "shopify_partner-new-app-uninstalls",
+  "name": "New App Uninstalls",
+  "description": "Emit new events when new shops uninstall your app.",
+  "type": "source",
+  "version": "0.1.4"
+}

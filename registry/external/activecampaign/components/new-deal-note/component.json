@@ -1,0 +1,7 @@
+{
+  "key": "activecampaign-new-deal-note",
+  "name": "New Deal Note (Instant)",
+  "description": "Emit new event each time a new note is added to a deal.",
+  "type": "source",
+  "version": "0.0.7"
+}

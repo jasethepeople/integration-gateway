@@ -1,0 +1,7 @@
+{
+  "key": "apollo_io_oauth-search-contacts",
+  "name": "Search Contacts",
+  "description": "Searches for contacts in your Apollo CRM by keyword, stage,",
+  "type": "action",
+  "version": "0.0.2"
+}

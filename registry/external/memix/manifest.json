@@ -1,0 +1,9 @@
+{
+  "app": "memix",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "memix-generate-random-share-url"
+  ]
+}

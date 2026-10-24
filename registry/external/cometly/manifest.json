@@ -1,0 +1,66 @@
+{
+  "app": "cometly",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "eventName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eventTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ip": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fullName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userAgent": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "checkoutToken": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "amount": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "cometly-send-event"
+  ]
+}

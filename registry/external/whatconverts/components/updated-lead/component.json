@@ -1,0 +1,7 @@
+{
+  "key": "whatconverts-updated-lead",
+  "name": "Updated Lead",
+  "description": "Emit new event when a lead is updated",
+  "type": "source",
+  "version": "0.0.1"
+}

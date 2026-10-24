@@ -1,0 +1,7 @@
+{
+  "key": "devrev-new-work-created",
+  "name": "New Work Created (Instant)",
+  "description": "Emit new event when a new work item is created in DevRev.",
+  "type": "source",
+  "version": "0.0.2"
+}

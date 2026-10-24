@@ -1,0 +1,7 @@
+{
+  "key": "campaignhq-create-list",
+  "name": "Create List",
+  "description": "Create List [See the documentation](https://campaignhq.docs.apiary.io/#reference/0/lists-collection/create-a-new-list).",
+  "type": "action",
+  "version": "0.0.2"
+}

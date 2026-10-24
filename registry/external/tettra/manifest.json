@@ -1,0 +1,33 @@
+{
+  "app": "tettra",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "categoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subcategoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "team_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "tettra-create-page",
+    "tettra-list-category-id-options",
+    "tettra-list-user-id-options",
+    "tettra-suggest-page"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "app": "click2mail2",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "addressId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "documentClass": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "documentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobDocumentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "password": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "click2mail2-create-document",
+    "click2mail2-create-job",
+    "click2mail2-list-address-id-options",
+    "click2mail2-list-document-id-options",
+    "click2mail2-list-project-id-options"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

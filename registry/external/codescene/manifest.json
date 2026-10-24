@@ -1,0 +1,29 @@
+{
+  "app": "codescene",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "developerConfiguration": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "analysisId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "codescene-create-project",
+    "codescene-get-project-analysis",
+    "codescene-get-projects",
+    "codescene-list-developer-configuration-options"
+  ]
+}

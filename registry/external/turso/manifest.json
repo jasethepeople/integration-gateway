@@ -1,0 +1,31 @@
+{
+  "app": "turso",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "organizationName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "groupName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "databaseName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "turso-create-database",
+    "turso-execute-query",
+    "turso-get-databases",
+    "turso-get-groups",
+    "turso-get-organizations",
+    "turso-list-organization-name-options"
+  ]
+}

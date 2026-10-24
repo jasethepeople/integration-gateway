@@ -1,0 +1,7 @@
+{
+  "key": "airweave-get-collection",
+  "name": "Get Collection",
+  "description": "Retrieve details of a specific collection by its readable ID. [See the documentation](https://docs.airweave.ai/api-reference/collections/get)",
+  "type": "action",
+  "version": "0.0.1"
+}

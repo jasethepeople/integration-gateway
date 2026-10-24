@@ -1,0 +1,7 @@
+{
+  "key": "notion-retrieve-database-content",
+  "name": "Retrieve Data Source Content",
+  "description": "Get all content of a data source. [See the documentation](https://developers.notion.com/reference/query-a-data-source)",
+  "type": "action",
+  "version": "1.0.3"
+}

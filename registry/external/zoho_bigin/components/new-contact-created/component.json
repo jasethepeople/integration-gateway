@@ -1,0 +1,7 @@
+{
+  "key": "zoho_bigin-new-contact-created",
+  "name": "New Contact Created (Instant)",
+  "description": "Emit new event on each created contact.",
+  "type": "source",
+  "version": "0.0.1"
+}

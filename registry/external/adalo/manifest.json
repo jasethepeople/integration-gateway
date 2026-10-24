@@ -1,0 +1,25 @@
+{
+  "app": "adalo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "collection_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "appId": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "adalo-create-record",
+    "adalo-get-records",
+    "adalo-update-record",
+    "adalo-new-record"
+  ]
+}

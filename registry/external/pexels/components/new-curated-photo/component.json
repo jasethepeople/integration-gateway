@@ -1,0 +1,7 @@
+{
+  "key": "pexels-new-curated-photo",
+  "name": "New Curated Photo",
+  "description": "Emit new event when a new curated photo is added to the Pexels curated collection. [See the documentation](https://www.pexels.com/api/documentation/)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,21 @@
+{
+  "app": "paperform",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "formId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "paperform-list-form-id-options",
+    "paperform-new-form-submission-instant",
+    "paperform-new-partial-form-submission-instant",
+    "paperform-new-submission"
+  ]
+}

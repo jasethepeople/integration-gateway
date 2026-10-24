@@ -1,0 +1,7 @@
+{
+  "key": "recruiterflow-create-placement",
+  "name": "Create Placement",
+  "description": "Records a successful candidate placement in Recruiterflow. [See the documentation](https://recruiterflow.com/swagger.yml)",
+  "type": "action",
+  "version": "0.0.1"
+}

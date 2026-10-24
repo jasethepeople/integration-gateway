@@ -1,0 +1,7 @@
+{
+  "key": "connectwise_psa-new-ticket-created",
+  "name": "New Ticket Created",
+  "description": "Emit new event when a new ticket is created in Connectwise.",
+  "type": "source",
+  "version": "0.0.4"
+}

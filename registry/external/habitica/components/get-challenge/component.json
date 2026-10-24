@@ -1,0 +1,7 @@
+{
+  "key": "habitica-get-challenge",
+  "name": "Get Challenge",
+  "description": "Get data for the challenge with the specified ID. [See the documentation](https://habitica.com/apidoc/#api-Challenge-GetChallenge)",
+  "type": "action",
+  "version": "0.0.2"
+}

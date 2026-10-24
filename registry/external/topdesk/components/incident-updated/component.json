@@ -1,0 +1,7 @@
+{
+  "key": "topdesk-incident-updated",
+  "name": "Incident Updated",
+  "description": "Emit new event when an incident is updated. [See the documentation](https://developers.topdesk.com/explorer/?page=incident#/incident/get_incidents)",
+  "type": "source",
+  "version": "0.0.2"
+}

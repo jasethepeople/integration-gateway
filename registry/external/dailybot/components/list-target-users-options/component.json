@@ -1,0 +1,7 @@
+{
+  "key": "dailybot-list-target-users-options",
+  "name": "List Target User IDs Options",
+  "description": "Retrieves available options for the Target User IDs field.",
+  "type": "action",
+  "version": "0.0.1"
+}

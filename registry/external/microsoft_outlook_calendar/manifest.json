@@ -1,0 +1,41 @@
+{
+  "app": "microsoft_outlook_calendar",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "microsoft_outlook_calendar-accept-event",
+    "microsoft_outlook_calendar-create-calendar-event",
+    "microsoft_outlook_calendar-decline-event",
+    "microsoft_outlook_calendar-delete-calendar-event",
+    "microsoft_outlook_calendar-delete-recurring-event-instance",
+    "microsoft_outlook_calendar-find-meeting-times",
+    "microsoft_outlook_calendar-get-current-user",
+    "microsoft_outlook_calendar-get-event",
+    "microsoft_outlook_calendar-get-schedule",
+    "microsoft_outlook_calendar-list-events",
+    "microsoft_outlook_calendar-list-time-zone-options",
+    "microsoft_outlook_calendar-search-contacts",
+    "microsoft_outlook_calendar-search-people",
+    "microsoft_outlook_calendar-tentatively-accept-event",
+    "microsoft_outlook_calendar-update-calendar-event",
+    "microsoft_outlook_calendar-update-recurring-event-instance",
+    "microsoft_outlook_calendar-deleted-calendar-event",
+    "microsoft_outlook_calendar-new-calendar-event",
+    "microsoft_outlook_calendar-new-upcoming-event-polling",
+    "microsoft_outlook_calendar-updated-calendar-event"
+  ],
+  "npmImports": [
+    "@microsoft/microsoft-graph-client",
+    "crypto",
+    "isomorphic-fetch",
+    "lodash.pickby",
+    "luxon",
+    "windows-iana"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "imagior-new-template",
+  "name": "New Template Created",
+  "description": "Emit new event when a new template is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

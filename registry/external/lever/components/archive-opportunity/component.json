@@ -1,0 +1,7 @@
+{
+  "key": "lever-archive-opportunity",
+  "name": "Archive Opportunity",
+  "description": "Archives a candidate opportunity with a specified reason (hired or not hired).",
+  "type": "action",
+  "version": "0.0.2"
+}

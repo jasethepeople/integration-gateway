@@ -1,0 +1,7 @@
+{
+  "key": "runware-image-upscale",
+  "name": "Image Upscale",
+  "description": "Request an image upscale task to be processed by the Runware API. [See the documentation](https://docs.runware.ai/en/image-editing/upscaling).",
+  "type": "action",
+  "version": "0.0.2"
+}

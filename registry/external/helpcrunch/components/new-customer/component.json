@@ -1,0 +1,7 @@
+{
+  "key": "helpcrunch-new-customer",
+  "name": "New Customer",
+  "description": "Emit new event when a new customer is created. [See the documentation](https://docs.helpcrunch.com/en/rest-api-v1/search-customers-v1)",
+  "type": "source",
+  "version": "0.0.1"
+}

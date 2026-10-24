@@ -1,0 +1,7 @@
+{
+  "key": "monta-approve-inbound-forecasts",
+  "name": "Approve Inbound Forecasts",
+  "description": "Approve multiple inbound forecasts at once by their IDs. [See the documentation](https://api-v6.monta.nl/index.html#tag/InboundForecast/paths/~1inboundforecast~1approve/post)",
+  "type": "action",
+  "version": "0.0.2"
+}

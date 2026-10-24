@@ -1,0 +1,7 @@
+{
+  "key": "hostaway-update-task",
+  "name": "Update Task",
+  "description": "Updates an existing task in Hostaway. [See the documentation](https://api.hostaway.com/documentation#update-task)",
+  "type": "action",
+  "version": "0.0.3"
+}

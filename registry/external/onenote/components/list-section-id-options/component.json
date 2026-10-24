@@ -1,0 +1,7 @@
+{
+  "key": "onenote-list-section-id-options",
+  "name": "List Section ID Options",
+  "description": "Retrieves available options for the Section ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

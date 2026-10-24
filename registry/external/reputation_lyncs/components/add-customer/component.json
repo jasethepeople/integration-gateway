@@ -1,0 +1,7 @@
+{
+  "key": "reputation_lyncs-add-customer",
+  "name": "Add Customer",
+  "description": "Adds a new customer to the Reputation Lyncs platform. [See the documentation](https://documenter.getpostman.com/view/25361963/2s93Xzw2bS#46718236-5ef1-4c93-992d-cd7d3722b02f)",
+  "type": "action",
+  "version": "0.0.2"
+}

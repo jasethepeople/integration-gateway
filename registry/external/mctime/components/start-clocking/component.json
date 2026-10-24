@@ -1,0 +1,7 @@
+{
+  "key": "mctime-start-clocking",
+  "name": "Start Clocking",
+  "description": "Start a new clocking time entry. [See the documentation](https://mctime.readme.io/reference/manipulating-clocking-times)",
+  "type": "action",
+  "version": "0.0.2"
+}

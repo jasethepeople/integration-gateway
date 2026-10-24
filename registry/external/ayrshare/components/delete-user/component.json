@@ -1,0 +1,7 @@
+{
+  "key": "ayrshare-delete-user",
+  "name": "Delete User",
+  "description": "Delete a user profile you are the owner of. [See the documentation](https://www.ayrshare.com/docs/apis/profiles/delete-profile)",
+  "type": "action",
+  "version": "0.0.2"
+}

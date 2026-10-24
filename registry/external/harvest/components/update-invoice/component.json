@@ -1,0 +1,7 @@
+{
+  "key": "harvest-update-invoice",
+  "name": "Update Invoice",
+  "description": "Update an existing invoice. Use **List Invoices** to find a valid ID. Example: call with invoiceId set to a draft invoice's ID and subject set to a new value to revise it before sending. [See the documentation](https://help.getharvest.com/api-v2/invoices-api/invoices/invoices/#update-an-invoice).",
+  "type": "action",
+  "version": "0.0.1"
+}

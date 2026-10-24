@@ -1,0 +1,25 @@
+{
+  "app": "shotstack",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "callback": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "version": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "shotstack-create-timeline",
+    "shotstack-start-render",
+    "shotstack-upload-asset",
+    "shotstack-asset-uploaded"
+  ]
+}

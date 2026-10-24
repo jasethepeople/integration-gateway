@@ -1,0 +1,7 @@
+{
+  "key": "motive-new-safety-event",
+  "name": "New Safety Event",
+  "description": "Emit new safety-related events like harsh braking or acceleration.",
+  "type": "source",
+  "version": "0.0.1"
+}

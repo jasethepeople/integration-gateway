@@ -1,0 +1,7 @@
+{
+  "key": "themarketer-add-subscriber",
+  "name": "Add Subscriber",
+  "description": "Creates a new subscriber. [See the documentation](https://developers.themarketer.com/reference/post_api-v1-add-subscriber)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "lucca-list-legal-entity-id-options",
+  "name": "List Legal Entity ID Options",
+  "description": "Retrieves available options for the Legal Entity ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

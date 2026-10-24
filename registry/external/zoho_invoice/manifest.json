@@ -1,0 +1,37 @@
+{
+  "app": "zoho_invoice",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "numberOfItems": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "date": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "organization_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zoho_invoice-create-estimate",
+    "zoho_invoice-create-invoice",
+    "zoho_invoice-new-estimate-created",
+    "zoho_invoice-new-invoice-created"
+  ]
+}

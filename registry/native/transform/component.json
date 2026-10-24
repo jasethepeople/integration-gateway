@@ -1,0 +1,7 @@
+{
+  "key": "native_transform",
+  "name": "Native Transform",
+  "description": "Maps a raw external payload plus a mapping config into a CanonicalEvent and emits it to the local event bus.",
+  "type": "action",
+  "version": "1.0.0"
+}

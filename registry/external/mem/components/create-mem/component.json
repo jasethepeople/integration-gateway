@@ -1,0 +1,7 @@
+{
+  "key": "mem-create-mem",
+  "name": "Create Mem",
+  "description": "Create a new mem. [See the documentation](https://docs.mem.ai/docs/api/mems/create)",
+  "type": "action",
+  "version": "0.0.3"
+}

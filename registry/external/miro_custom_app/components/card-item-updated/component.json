@@ -1,0 +1,7 @@
+{
+  "key": "miro_custom_app-card-item-updated",
+  "name": "Card Item Updated",
+  "description": "Emit new event when a card item is updated on a Miro board",
+  "type": "source",
+  "version": "0.0.1"
+}

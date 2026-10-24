@@ -1,0 +1,7 @@
+{
+  "key": "overledger-read-from-a-smart-contract",
+  "name": "Read from a smart contract",
+  "description": "Reads data from a specified smart contract on the Overledger network.",
+  "type": "action",
+  "version": "0.0.3"
+}

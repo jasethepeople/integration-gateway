@@ -1,0 +1,7 @@
+{
+  "key": "unione-send-email",
+  "name": "Send Email",
+  "description": "Send an email using UniOne. [See the documentation](https://docs.unione.io/en/web-api-ref#email-send)",
+  "type": "action",
+  "version": "0.0.1"
+}

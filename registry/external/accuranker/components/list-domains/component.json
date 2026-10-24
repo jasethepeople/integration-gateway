@@ -1,0 +1,7 @@
+{
+  "key": "accuranker-list-domains",
+  "name": "List Domains",
+  "description": "List domains in Accuranker. [See the documentation](https://app.accuranker.com/api/read-docs#tag/Domains/operation/List%20Domains)",
+  "type": "action",
+  "version": "0.0.1"
+}

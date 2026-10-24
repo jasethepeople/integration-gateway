@@ -1,0 +1,7 @@
+{
+  "key": "deel-create-ic-contract",
+  "name": "Create IC Contract",
+  "description": "Create a new independent contractor (IC) contract in Deel. Use this to hire a contractor with",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "qualiobee-list-modules",
+  "name": "List Modules",
+  "description": "List modules available in the Qualiobee organization. [See the documentation](https://app.qualiobee.fr/api/doc/#/Module/PublicModuleController_getMany)",
+  "type": "action",
+  "version": "0.0.1"
+}

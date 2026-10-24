@@ -1,0 +1,7 @@
+{
+  "key": "smartsheet-delete-rows",
+  "name": "Delete Rows",
+  "description": "Delete one or more rows from a sheet by row ID. This is permanent and cannot be undone.",
+  "type": "action",
+  "version": "0.1.2"
+}

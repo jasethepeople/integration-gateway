@@ -1,0 +1,9 @@
+{
+  "app": "medium",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "medium-create-post"
+  ]
+}

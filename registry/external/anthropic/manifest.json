@@ -1,0 +1,19 @@
+{
+  "app": "anthropic",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "model": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "anthropic-chat",
+    "anthropic-list-model-options"
+  ]
+}

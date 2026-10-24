@@ -1,0 +1,7 @@
+{
+  "key": "trust-create-testimonial",
+  "name": "Create Testimonial",
+  "description": "Create a new testimonial within the Trust platform.",
+  "type": "action",
+  "version": "0.0.2"
+}

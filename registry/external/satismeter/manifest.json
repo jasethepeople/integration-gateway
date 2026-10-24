@@ -1,0 +1,23 @@
+{
+  "app": "satismeter",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "surveyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "project_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "satismeter-list-survey-id-options",
+    "satismeter-new-survey-response"
+  ]
+}

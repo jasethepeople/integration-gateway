@@ -1,0 +1,7 @@
+{
+  "key": "timecamp-create-task",
+  "name": "Create Task",
+  "description": "Creates a task. [See docs here](https://developer.timecamp.com/docs/timecamp-api/b3A6NTg5ODUxMA-create-new-task)",
+  "type": "action",
+  "version": "0.0.2"
+}

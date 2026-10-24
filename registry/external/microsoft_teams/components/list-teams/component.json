@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_teams-list-teams",
+  "name": "List Teams",
+  "description": "Lists all teams the authenticated user has joined. [See the documentation](https://learn.microsoft.com/en-us/graph/api/user-list-joinedteams)",
+  "type": "action",
+  "version": "0.0.1"
+}

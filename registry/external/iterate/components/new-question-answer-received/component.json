@@ -1,0 +1,7 @@
+{
+  "key": "iterate-new-question-answer-received",
+  "name": "New Question Answer",
+  "description": "Emit new event when a question is answered.",
+  "type": "source",
+  "version": "0.0.3"
+}

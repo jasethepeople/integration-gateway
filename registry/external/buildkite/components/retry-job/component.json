@@ -1,0 +1,7 @@
+{
+  "key": "buildkite-retry-job",
+  "name": "Retry Job",
+  "description": "Retries a failed or timed out job. Each job can only be retried once. [See the documentation](https://buildkite.com/docs/apis/rest-api/jobs#retry-a-job)",
+  "type": "action",
+  "version": "0.0.2"
+}

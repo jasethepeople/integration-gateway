@@ -1,0 +1,99 @@
+{
+  "app": "connectwise_psa",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "company": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "contact": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "companyTypes": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "contactTypes": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "territory": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "market": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "relationship": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "department": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "priority": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "ticketId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "environment": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "client_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "company_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "public_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "private_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "connectwise_psa-create-company",
+    "connectwise_psa-create-contact",
+    "connectwise_psa-create-ticket",
+    "connectwise_psa-get-ticket",
+    "connectwise_psa-list-company-options",
+    "connectwise_psa-list-company-types-options",
+    "connectwise_psa-list-contact-options",
+    "connectwise_psa-list-contact-types-options",
+    "connectwise_psa-list-country-options",
+    "connectwise_psa-list-department-options",
+    "connectwise_psa-list-market-options",
+    "connectwise_psa-list-priority-options",
+    "connectwise_psa-list-relationship-options",
+    "connectwise_psa-list-reports",
+    "connectwise_psa-list-status-options",
+    "connectwise_psa-list-territory-options",
+    "connectwise_psa-list-ticket-id-options",
+    "connectwise_psa-list-tickets",
+    "connectwise_psa-list-time-entries",
+    "connectwise_psa-new-contact-created",
+    "connectwise_psa-new-project-created",
+    "connectwise_psa-new-ticket-created"
+  ]
+}

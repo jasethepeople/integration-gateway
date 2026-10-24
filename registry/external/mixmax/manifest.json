@@ -1,0 +1,53 @@
+{
+  "app": "mixmax",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "fields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "groups": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "meta": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "salesforceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mixmax-create-contact-group",
+    "mixmax-create-contact",
+    "mixmax-get-contact-groups",
+    "mixmax-get-contacts",
+    "mixmax-search-contacts",
+    "mixmax-update-contact",
+    "mixmax-new-contact-group",
+    "mixmax-new-contact"
+  ]
+}

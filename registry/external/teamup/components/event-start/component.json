@@ -1,0 +1,7 @@
+{
+  "key": "teamup-event-start",
+  "name": "Event Start",
+  "description": "Emit new event when an event is created on a specified calendar.",
+  "type": "source",
+  "version": "0.0.1"
+}

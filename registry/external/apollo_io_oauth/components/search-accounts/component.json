@@ -1,0 +1,7 @@
+{
+  "key": "apollo_io_oauth-search-accounts",
+  "name": "Search Accounts",
+  "description": "Searches for accounts (companies) in your Apollo CRM by",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,47 @@
+{
+  "app": "signal",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "phoneNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recipients": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "message": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "textMode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timeout": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "ignoreAttachments": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "ignoreStories": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "sendReadReceipts": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "signal-send-message",
+    "signal-new-message-received"
+  ]
+}

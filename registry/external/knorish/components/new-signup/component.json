@@ -1,0 +1,7 @@
+{
+  "key": "knorish-new-signup",
+  "name": "New Signup",
+  "description": "Emit new event when a new signup or registration happens on your site. [See the documentation](https://knowledge.knorish.com/api-endpoints-and-postman-dump-publisher-api)",
+  "type": "source",
+  "version": "0.0.1"
+}

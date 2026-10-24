@@ -1,0 +1,7 @@
+{
+  "key": "veremark-create-request",
+  "name": "Create Background Check Request",
+  "description": "Initiates a new background check request for a candidate.",
+  "type": "action",
+  "version": "0.0.2"
+}

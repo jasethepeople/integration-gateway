@@ -1,0 +1,7 @@
+{
+  "key": "leexi-create-call",
+  "name": "Create Call",
+  "description": "Create a new call in Leexi. [See the documentation](https://developer.leexi.ai/)",
+  "type": "action",
+  "version": "0.0.3"
+}

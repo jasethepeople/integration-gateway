@@ -1,0 +1,7 @@
+{
+  "key": "zoom-get-meeting-recordings",
+  "name": "Get Meeting Recordings",
+  "description": "Get the cloud recording metadata for one Zoom meeting.",
+  "type": "action",
+  "version": "0.1.2"
+}

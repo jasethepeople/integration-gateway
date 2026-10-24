@@ -1,0 +1,7 @@
+{
+  "key": "utopian_labs-initiate-research-run",
+  "name": "Initiate Research Run",
+  "description": "Initiate a research run of the R1 agent. [See the documentation](https://docs.utopianlabs.ai/research#initiate-a-research-run)",
+  "type": "action",
+  "version": "0.0.2"
+}

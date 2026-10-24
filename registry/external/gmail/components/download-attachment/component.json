@@ -1,0 +1,7 @@
+{
+  "key": "gmail-download-attachment",
+  "name": "Download Attachment",
+  "description": "Download a Gmail message attachment to `/tmp` and return its path + metadata. File Stash syncs the file and exposes a presigned download URL so the caller can retrieve it.",
+  "type": "action",
+  "version": "0.2.1"
+}

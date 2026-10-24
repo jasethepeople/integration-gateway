@@ -1,0 +1,7 @@
+{
+  "key": "wave-new-customer",
+  "name": "New Customer",
+  "description": "Emit new event when an customer is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

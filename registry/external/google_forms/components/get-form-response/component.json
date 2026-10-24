@@ -1,0 +1,7 @@
+{
+  "key": "google_forms-get-form-response",
+  "name": "Get Form Response",
+  "description": "Get a response from a form. [See the documentation](https://developers.google.com/forms/api/reference/rest/v1/forms.responses/get)",
+  "type": "action",
+  "version": "0.0.3"
+}

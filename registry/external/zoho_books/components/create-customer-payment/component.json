@@ -1,0 +1,7 @@
+{
+  "key": "zoho_books-create-customer-payment",
+  "name": "Create Customer Payment",
+  "description": "Creates a new payment. [See the documentation](https://www.zoho.com/books/api/v3/customer-payments/#create-a-payment)",
+  "type": "action",
+  "version": "0.3.1"
+}

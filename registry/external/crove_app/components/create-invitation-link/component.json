@@ -1,0 +1,7 @@
+{
+  "key": "crove_app-create-invitation-link",
+  "name": "Create Invitation Link",
+  "description": "Create invitation link to fill or sign the document. ",
+  "type": "action",
+  "version": "1.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "mailosaur-delete-email",
+  "name": "Delete Email",
+  "description": "Deletes an email from a Mailosaur server using its email ID. [See the documentation](https://mailosaur.com/docs/api)",
+  "type": "action",
+  "version": "0.0.2"
+}

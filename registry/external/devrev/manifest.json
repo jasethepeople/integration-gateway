@@ -1,0 +1,65 @@
+{
+  "app": "devrev",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "workId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "partId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "customSchemaFragmentIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "tagIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "revOrgId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "worksType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "priority": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "body": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "personal_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "devrev-create-comment",
+    "devrev-create-issue",
+    "devrev-create-opportunity",
+    "devrev-create-or-update-custom-schema-fragment",
+    "devrev-create-task",
+    "devrev-create-ticket",
+    "devrev-new-comment-created",
+    "devrev-new-work-created"
+  ]
+}

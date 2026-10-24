@@ -1,0 +1,7 @@
+{
+  "key": "workbooks_crm-posted-invoice",
+  "name": "New Posted Invoice (Instant)",
+  "description": "Emit new event when a new invoice is posted.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "jo4-list-urls",
+  "name": "List URLs",
+  "description": "List your short URLs with optional click statistics. [See the documentation](https://jo4.io/docs)",
+  "type": "action",
+  "version": "0.0.2"
+}

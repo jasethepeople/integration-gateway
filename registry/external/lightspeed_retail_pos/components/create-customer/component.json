@@ -1,0 +1,7 @@
+{
+  "key": "lightspeed_retail_pos-create-customer",
+  "name": "Create Customer",
+  "description": "Creates a new customer in the Lightspeed Retail POS system. [See the documentation](https://developers.lightspeedhq.com/retail/endpoints/Customer/#post-create-a-customer)",
+  "type": "action",
+  "version": "0.0.3"
+}

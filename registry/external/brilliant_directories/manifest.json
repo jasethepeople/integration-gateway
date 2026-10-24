@@ -1,0 +1,63 @@
+{
+  "app": "brilliant_directories",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "userId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "dataId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "dataType": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "postTitle": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "postContent": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "postCategory": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "postType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "postTags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "postStatus": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "postStartDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "website_domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "brilliant_directories-create-post",
+    "brilliant_directories-create-user",
+    "brilliant_directories-update-post"
+  ],
+  "npmImports": [
+    "qs"
+  ]
+}

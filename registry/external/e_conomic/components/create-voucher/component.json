@@ -1,0 +1,7 @@
+{
+  "key": "e_conomic-create-voucher",
+  "name": "Create Voucher",
+  "description": "Creates a new voucher. [See the documentation](https://restdocs.e-conomic.com/#get-journals-journalnumber-vouchers)",
+  "type": "action",
+  "version": "0.0.1"
+}

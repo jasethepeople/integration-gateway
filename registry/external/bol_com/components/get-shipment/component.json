@@ -1,0 +1,7 @@
+{
+  "key": "bol_com-get-shipment",
+  "name": "Get Shipment",
+  "description": "Get a shipment. [See the documentation](https://api.bol.com/retailer/public/redoc/v10/retailer.html#tag/Shipments/operation/get-shipment)",
+  "type": "action",
+  "version": "0.0.1"
+}

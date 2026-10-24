@@ -1,0 +1,7 @@
+{
+  "key": "postmark-create-domain",
+  "name": "Create Domain",
+  "description": "Create a new domain. [See the documentation](https://postmarkapp.com/developer/api/domains-api#create-domain)",
+  "type": "action",
+  "version": "0.0.4"
+}

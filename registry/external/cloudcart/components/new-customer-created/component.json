@@ -1,0 +1,7 @@
+{
+  "key": "cloudcart-new-customer-created",
+  "name": "New Customer Created (Instant)",
+  "description": "Emit new event when a new customer is created. [See the documentation](https://www.postman.com/cloudcartapi/cloudcart-public/request/l6v5w0f/site-url-api-v2-webhooks)",
+  "type": "source",
+  "version": "0.0.1"
+}

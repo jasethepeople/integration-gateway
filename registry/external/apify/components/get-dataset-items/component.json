@@ -1,0 +1,7 @@
+{
+  "key": "apify-get-dataset-items",
+  "name": "Get Dataset Items",
+  "description": "Returns data stored in a dataset. [See the documentation](https://docs.apify.com/api/v2/dataset-items-get)",
+  "type": "action",
+  "version": "0.0.6"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "drip-new-campaign-subscription-added",
+  "name": "New Campaign Subscription Added (Instant)",
+  "description": "Emit new event when a subscriber subscribes to an Email Series Campaign.",
+  "type": "source",
+  "version": "0.0.2"
+}

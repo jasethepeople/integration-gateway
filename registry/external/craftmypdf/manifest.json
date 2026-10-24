@@ -1,0 +1,46 @@
+{
+  "app": "craftmypdf",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "cloudStorage": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "data": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "expiration": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "loadDataFrom": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "outputFile": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "templateVersion": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "craftmypdf-create-editor-session",
+    "craftmypdf-create-image",
+    "craftmypdf-create-pdf",
+    "craftmypdf-list-template-id-options",
+    "craftmypdf-merge-pdf"
+  ]
+}

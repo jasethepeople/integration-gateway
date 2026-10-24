@@ -1,0 +1,45 @@
+{
+  "app": "seventodos",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dueDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "state": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "complexity": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "workspaceId": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "seventodos-create-task"
+  ],
+  "npmImports": [
+    "axios"
+  ]
+}

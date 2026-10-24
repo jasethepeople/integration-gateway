@@ -1,0 +1,7 @@
+{
+  "key": "actitime-create-task",
+  "name": "Create Task",
+  "description": "Creates a new task. [See the documentation](https://online.actitime.com/pipedream/api/v1/swagger).",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "google_search_console-list-sitemaps",
+  "name": "List Sitemaps",
+  "description": "Lists the sitemaps Google Search Console knows about for a property, with their error, ",
+  "type": "action",
+  "version": "0.0.1"
+}

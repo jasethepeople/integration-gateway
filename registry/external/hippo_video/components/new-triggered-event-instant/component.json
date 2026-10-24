@@ -1,0 +1,7 @@
+{
+  "key": "hippo_video-new-triggered-event-instant",
+  "name": "New Event Triggered (Instant)",
+  "description": "Emit new event when any of the selected events are triggered.",
+  "type": "source",
+  "version": "0.0.2"
+}

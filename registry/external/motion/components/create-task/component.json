@@ -1,0 +1,7 @@
+{
+  "key": "motion-create-task",
+  "name": "Create Task",
+  "description": "Create a new task. [See the documentation](https://docs.usemotion.com/docs/motion-rest-api/0846d1205f9b3-create-task)",
+  "type": "action",
+  "version": "0.0.2"
+}

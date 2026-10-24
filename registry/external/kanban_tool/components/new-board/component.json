@@ -1,0 +1,7 @@
+{
+  "key": "kanban_tool-new-board",
+  "name": "New Board Created Event",
+  "description": "Emit new events when a new board is created or given access for a new board. [See the docs](https://kanbantool.com/developer/api-v3#listing-boards)",
+  "type": "source",
+  "version": "0.0.1"
+}

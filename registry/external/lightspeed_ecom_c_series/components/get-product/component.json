@@ -1,0 +1,7 @@
+{
+  "key": "lightspeed_ecom_c_series-get-product",
+  "name": "Get Product",
+  "description": "Get a product by ID. [See the documentation](https://developers.lightspeedhq.com/ecom/endpoints/product/#get-retrieve-a-product)",
+  "type": "action",
+  "version": "0.0.1"
+}

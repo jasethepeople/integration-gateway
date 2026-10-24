@@ -1,0 +1,7 @@
+{
+  "key": "pingdom-new-alert",
+  "name": "New Alert",
+  "description": "Emit new event when a new alert occurs. [See the documentation](https://docs.pingdom.com/api/)",
+  "type": "source",
+  "version": "0.0.1"
+}

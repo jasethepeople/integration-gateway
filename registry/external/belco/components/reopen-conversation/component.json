@@ -1,0 +1,7 @@
+{
+  "key": "belco-reopen-conversation",
+  "name": "Reopen Conversation",
+  "description": "Reopen a conversation specified by ID. [See the documentation](https://developers.belco.io/reference/put_conversations-conversationid-open)",
+  "type": "action",
+  "version": "0.0.6"
+}

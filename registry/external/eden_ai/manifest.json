@@ -1,0 +1,41 @@
+{
+  "app": "eden_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "providers": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "fallbackProviders": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "showOriginalResponse": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "language": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "text": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "eden_ai-analyze-sentiment-in-text",
+    "eden_ai-detect-ai-content",
+    "eden_ai-generate-audio-from-text",
+    "eden_ai-generate-image",
+    "eden_ai-translate-document"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

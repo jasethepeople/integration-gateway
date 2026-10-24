@@ -1,0 +1,7 @@
+{
+  "key": "peach-create-contact",
+  "name": "Create Contact",
+  "description": "Creates a contact in your account. [See the documentation](https://peach.apidocumentation.com/reference#tag/contacts/post/subscribers)",
+  "type": "action",
+  "version": "0.0.2"
+}

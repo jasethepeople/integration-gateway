@@ -1,0 +1,7 @@
+{
+  "key": "livekit-generate-access-token",
+  "name": "Generate Access Token",
+  "description": "Generate an access token for a participant to join a LiveKit room. [See the documentation](https://github.com/livekit/node-sdks/tree/main/packages/livekit-server-sdk).",
+  "type": "action",
+  "version": "0.0.2"
+}

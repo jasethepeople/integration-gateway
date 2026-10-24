@@ -1,0 +1,7 @@
+{
+  "key": "pandadoc-list-document-folder-id-options",
+  "name": "List Document Folder Id Options",
+  "description": "Retrieves available options for the Document Folder Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "foursquare-create-check-in",
+  "name": "Create Check In",
+  "description": "Allows the user to generate a new check-in at a specific location on Foursquare. [See the documentation](https://docs.foursquare.com/developer/reference/create-a-checkin)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zoho_expense-travel-request-approved",
+  "name": "Travel Request Approved",
+  "description": "Activate after approval of a travel request. [See the Documentation](https://www.zoho.com/expense/api/v1/trips/#retrive-list-of-all-trips).",
+  "type": "source",
+  "version": "0.0.1"
+}

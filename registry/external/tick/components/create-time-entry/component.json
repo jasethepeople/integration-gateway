@@ -1,0 +1,7 @@
+{
+  "key": "tick-create-time-entry",
+  "name": "Create Time Entry",
+  "description": "Creates a time entry. [See docs here](https://github.com/tick/tick-api/blob/master/sections/entries.md#create-entry)",
+  "type": "action",
+  "version": "0.0.2"
+}

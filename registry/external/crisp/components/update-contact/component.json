@@ -1,0 +1,7 @@
+{
+  "key": "crisp-update-contact",
+  "name": "Update Contact",
+  "description": "Update a contact. [See the documentation](https://docs.crisp.chat/references/rest-api/v1/#update-people-profile)",
+  "type": "action",
+  "version": "0.0.1"
+}

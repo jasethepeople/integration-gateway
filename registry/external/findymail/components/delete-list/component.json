@@ -1,0 +1,7 @@
+{
+  "key": "findymail-delete-list",
+  "name": "Delete a List",
+  "description": "Deletes a specified list in Findymail. [See the documentation](https://app.findymail.com/docs/#contacts-deleteapi-lists--id-)",
+  "type": "action",
+  "version": "0.0.3"
+}

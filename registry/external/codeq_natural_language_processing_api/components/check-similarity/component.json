@@ -1,0 +1,7 @@
+{
+  "key": "codeq_natural_language_processing_api-check-similarity",
+  "name": "Check Similarity",
+  "description": "Receives two texts and returns a JSON object containing the text similarity score. [See the docs here](https://api.codeq.com/api)",
+  "type": "action",
+  "version": "0.0.2"
+}

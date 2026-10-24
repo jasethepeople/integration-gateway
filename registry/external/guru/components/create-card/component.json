@@ -1,0 +1,7 @@
+{
+  "key": "guru-create-card",
+  "name": "Create Card",
+  "description": "Creates a new card on your Guru account. [See the documentation](https://developer.getguru.com/reference/postv1cardscreateextendedfact)",
+  "type": "action",
+  "version": "0.0.2"
+}

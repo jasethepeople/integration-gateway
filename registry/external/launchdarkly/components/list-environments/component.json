@@ -1,0 +1,7 @@
+{
+  "key": "launchdarkly-list-environments",
+  "name": "List Environments",
+  "description": "List all environments. [See the documentation](https://launchdarkly.com/docs/api/environments/get-environments-by-project).",
+  "type": "action",
+  "version": "0.0.3"
+}

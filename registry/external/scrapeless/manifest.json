@@ -1,0 +1,17 @@
+{
+  "app": "scrapeless",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "scrapeless-crawler",
+    "scrapeless-get-scrape-result",
+    "scrapeless-submit-scrape-job",
+    "scrapeless-universal-scraping-api"
+  ]
+}

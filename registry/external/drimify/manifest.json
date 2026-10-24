@@ -1,0 +1,19 @@
+{
+  "app": "drimify",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "applicationId": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "drimify-list-application-id-options",
+    "drimify-new-application-data"
+  ]
+}

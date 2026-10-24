@@ -1,0 +1,7 @@
+{
+  "key": "aidbase-list-email-inbox-id-options",
+  "name": "List Email Inbox ID Options",
+  "description": "Retrieves available options for the Email Inbox ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

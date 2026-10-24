@@ -1,0 +1,21 @@
+{
+  "app": "leonardo_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "leonardo_ai-generate-image",
+    "leonardo_ai-generate-motion",
+    "leonardo_ai-unzoom-image",
+    "leonardo_ai-upload-image",
+    "leonardo_ai-upscale-image"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

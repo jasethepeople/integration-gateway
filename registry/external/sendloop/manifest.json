@@ -1,0 +1,36 @@
+{
+  "app": "sendloop",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "listId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subscriberEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "account": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sendloop-add-subscriber",
+    "sendloop-list-campaign-id-options",
+    "sendloop-list-list-id-options",
+    "sendloop-remove-subscriber",
+    "sendloop-new-email-opened",
+    "sendloop-new-hard-bounce",
+    "sendloop-new-subscriber-added"
+  ]
+}

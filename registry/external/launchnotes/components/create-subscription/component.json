@@ -1,0 +1,7 @@
+{
+  "key": "launchnotes-create-subscription",
+  "name": "Create Subscription",
+  "description": "Adds a new subscriber to the current LaunchNotes project. [See the documentation](https://developer.launchnotes.com/index.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

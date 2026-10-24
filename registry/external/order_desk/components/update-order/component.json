@@ -1,0 +1,7 @@
+{
+  "key": "order_desk-update-order",
+  "name": "Update Order",
+  "description": "Update Order [See the documentation](https://apidocs.orderdesk.com/#update-an-order).",
+  "type": "action",
+  "version": "0.0.2"
+}

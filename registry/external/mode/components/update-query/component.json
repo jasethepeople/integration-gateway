@@ -1,0 +1,7 @@
+{
+  "key": "mode-update-query",
+  "name": "Update Query",
+  "description": "Update an existing query in a report. [See the documentation](https://mode.com/developer/api-reference/analytics/queries/#updateQueryInReport)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "breeze-create-project",
+  "name": "Create Project",
+  "description": "Establishes a new project in breeze. [See documentation](https://www.breeze.pm/api#:~:text=Create%20a%20project)",
+  "type": "action",
+  "version": "0.0.2"
+}

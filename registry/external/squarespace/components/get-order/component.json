@@ -1,0 +1,7 @@
+{
+  "key": "squarespace-get-order",
+  "name": "Get Order",
+  "description": "Get a specific order. [See docs here](https://developers.squarespace.com/commerce-apis/retrieve-specific-order)",
+  "type": "action",
+  "version": "0.0.2"
+}

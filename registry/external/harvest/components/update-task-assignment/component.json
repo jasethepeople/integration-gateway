@@ -1,0 +1,7 @@
+{
+  "key": "harvest-update-task-assignment",
+  "name": "Update Task Assignment",
+  "description": "Update a task assignment on a project. Use **List Task Assignments** to find IDs. Example: call with projectId, taskAssignmentId, and billable=false to stop billing that task on the project. [See the documentation](https://help.getharvest.com/api-v2/projects-api/projects/task-assignments/#update-a-task-assignment).",
+  "type": "action",
+  "version": "0.0.1"
+}

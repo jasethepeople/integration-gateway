@@ -1,0 +1,7 @@
+{
+  "key": "meistertask-new-comment-created",
+  "name": "New Comment Created",
+  "description": "Emit new event when a new comment is created. [See the docs](https://developers.meistertask.com/reference/get-task-comments)",
+  "type": "source",
+  "version": "0.0.1"
+}

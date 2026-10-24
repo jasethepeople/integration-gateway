@@ -1,0 +1,7 @@
+{
+  "key": "home_connect-list-ha-id-options",
+  "name": "List Home Appliance ID Options",
+  "description": "Retrieves available options for the Home Appliance ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

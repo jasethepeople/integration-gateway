@@ -1,0 +1,35 @@
+{
+  "app": "control_d",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "profileId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "deviceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "icon": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "control_d-create-device",
+    "control_d-create-profile",
+    "control_d-delete-device",
+    "control_d-list-device-id-options",
+    "control_d-list-icon-options",
+    "control_d-list-profile-id-options"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "vida-provide-context",
+  "name": "Add Context",
+  "description": "Uploads additional context for a conversation with your AI agent. Helpful when integrating data from external CRMs. [See the documentation](https://vida.io/docs/api-reference/knowledge/add-context)",
+  "type": "action",
+  "version": "0.0.2"
+}

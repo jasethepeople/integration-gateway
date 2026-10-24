@@ -1,0 +1,14 @@
+{
+  "app": "email_verifier_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "email_verifier_api-verify-email"
+  ]
+}

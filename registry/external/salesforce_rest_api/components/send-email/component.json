@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-send-email",
+  "name": "Send Email",
+  "description": "Send an email through Salesforce.",
+  "type": "action",
+  "version": "0.2.0"
+}

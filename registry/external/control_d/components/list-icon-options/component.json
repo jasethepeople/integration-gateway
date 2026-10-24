@@ -1,0 +1,7 @@
+{
+  "key": "control_d-list-icon-options",
+  "name": "List Icon Options",
+  "description": "Retrieves available options for the Icon field.",
+  "type": "action",
+  "version": "0.0.1"
+}

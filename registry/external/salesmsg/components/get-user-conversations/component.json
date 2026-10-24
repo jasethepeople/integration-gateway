@@ -1,0 +1,7 @@
+{
+  "key": "salesmsg-get-user-conversations",
+  "name": "Get User Conversations",
+  "description": "Retrieves the list of all the conversations of a specific contact id. [See the documentation](https://documenter.getpostman.com/view/13798866/2s935uHgXp#27602c5c-e171-4009-b11c-3d19904d7dcd)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pipefy-card-done",
+  "name": "Card Done (Instant)",
+  "description": "Emits an event each time a card is moved to Done a Pipe.",
+  "type": "source",
+  "version": "0.0.3"
+}

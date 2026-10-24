@@ -1,0 +1,7 @@
+{
+  "key": "planview_leankit-list-planning-series-id-options",
+  "name": "List Planning Series ID Options",
+  "description": "Retrieves available options for the Planning Series ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

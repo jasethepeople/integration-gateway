@@ -1,0 +1,7 @@
+{
+  "key": "zoho_sheet-create-row",
+  "name": "Create Row",
+  "description": "Creates a new row in the specified worksheet. [See the documentation](https://www.zoho.com/sheet/help/api/v2/)",
+  "type": "action",
+  "version": "0.0.2"
+}

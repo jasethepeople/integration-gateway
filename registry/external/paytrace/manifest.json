@@ -1,0 +1,29 @@
+{
+  "app": "paytrace",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "batchNumber": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "startDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "paytrace-batch-summary",
+    "paytrace-list-batch-transactions",
+    "paytrace-list-batches",
+    "paytrace-list-transactions"
+  ]
+}

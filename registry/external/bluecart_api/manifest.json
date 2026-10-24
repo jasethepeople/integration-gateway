@@ -1,0 +1,32 @@
+{
+  "app": "bluecart_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "walmartDomain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "searchTerm": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "itemId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "bluecart_api-get-autocomplete",
+    "bluecart_api-get-categories",
+    "bluecart_api-get-product"
+  ]
+}

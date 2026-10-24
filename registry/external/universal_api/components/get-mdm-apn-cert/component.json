@@ -1,0 +1,7 @@
+{
+  "key": "universal_api-get-mdm-apn-cert",
+  "name": "Get MDM APN Certificate",
+  "description": "Retrieve the APN certificate from the MDM API on Universal API. [See the documentation](https://docs.universalapi.io/reference/get-apn-cert).",
+  "type": "action",
+  "version": "0.0.1"
+}

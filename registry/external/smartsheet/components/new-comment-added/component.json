@@ -1,0 +1,7 @@
+{
+  "key": "smartsheet-new-comment-added",
+  "name": "New Comment Added (Instant)",
+  "description": "Emit new event when a comment is added in a sheet.",
+  "type": "source",
+  "version": "0.0.7"
+}

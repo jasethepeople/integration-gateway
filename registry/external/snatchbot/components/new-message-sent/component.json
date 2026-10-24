@@ -1,0 +1,7 @@
+{
+  "key": "snatchbot-new-message-sent",
+  "name": "New Message Sent",
+  "description": "Emit new event when a new bot message is sent. [See the documentation](https://support.snatchbot.me/reference/get-message)",
+  "type": "source",
+  "version": "0.0.1"
+}

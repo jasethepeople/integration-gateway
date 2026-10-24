@@ -1,0 +1,7 @@
+{
+  "key": "token_metrics-get-indices-holdings",
+  "name": "Get Indices Holdings",
+  "description": "ID of the index. Example: `1`",
+  "type": "action",
+  "version": "0.1.1"
+}

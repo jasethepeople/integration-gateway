@@ -1,0 +1,7 @@
+{
+  "key": "zoho_cliq-send-bot-message",
+  "name": "Send Bot Message",
+  "description": "Send message to a bot. [See documentation](https://www.zoho.com/cliq/help/restapi/v2/#Post_Message_Bot)",
+  "type": "action",
+  "version": "0.0.4"
+}

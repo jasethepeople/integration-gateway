@@ -1,0 +1,7 @@
+{
+  "key": "unbounce-get-page-lead",
+  "name": "Get Page Lead",
+  "description": "Get info of single Lead. [See the documentation](https://developer.unbounce.com/api_reference/#id_pages__page_id__leads__lead_id_)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,80 @@
+{
+  "app": "unleashed_software",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "salesOrderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "purchaseOrderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "warehouseId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taxCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "supplierId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "exchangeRate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "salesOrderStatus": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "purchaseOrderStatus": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "comments": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "unleashed_software-create-purchase-order",
+    "unleashed_software-create-sales-order",
+    "unleashed_software-create-stock-adjustment",
+    "unleashed_software-create-stock-transfer",
+    "unleashed_software-get-purchase-order",
+    "unleashed_software-get-sales-order",
+    "unleashed_software-get-stock-on-hand",
+    "unleashed_software-list-customer-id-options",
+    "unleashed_software-list-product-id-options",
+    "unleashed_software-list-purchase-order-id-options",
+    "unleashed_software-list-sales-order-id-options",
+    "unleashed_software-list-supplier-id-options",
+    "unleashed_software-list-tax-code-options",
+    "unleashed_software-list-warehouse-id-options",
+    "unleashed_software-update-purchase-order",
+    "unleashed_software-update-sales-order"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

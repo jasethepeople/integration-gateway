@@ -1,0 +1,7 @@
+{
+  "key": "pcloud-rename-file",
+  "name": "Rename File",
+  "description": "Renames a file. [See the docs here](https://docs.pcloud.com/methods/file/renamefile.html)",
+  "type": "action",
+  "version": "0.0.3"
+}

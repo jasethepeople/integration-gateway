@@ -1,0 +1,7 @@
+{
+  "key": "lightspeed_ecom_c_series-product-deleted",
+  "name": "Product Deleted (Instant)",
+  "description": "Emit new event when a product is deleted.",
+  "type": "source",
+  "version": "0.0.1"
+}

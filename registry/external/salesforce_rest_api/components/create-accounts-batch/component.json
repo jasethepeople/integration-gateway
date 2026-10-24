@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-create-accounts-batch",
+  "name": "Create Accounts (Batch)",
+  "description": "Create many Salesforce accounts in one job using Bulk API 2.0.",
+  "type": "action",
+  "version": "0.0.8"
+}

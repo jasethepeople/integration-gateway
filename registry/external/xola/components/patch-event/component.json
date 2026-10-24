@@ -1,0 +1,7 @@
+{
+  "key": "xola-patch-event",
+  "name": "Patch Event",
+  "description": "Partially update an event's properties. [See the documentation](https://xola.github.io/xola-docs/#tag/events/operation/patchEvent)",
+  "type": "action",
+  "version": "0.0.1"
+}

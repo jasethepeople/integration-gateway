@@ -1,0 +1,7 @@
+{
+  "key": "real_id-delete-id-check",
+  "name": "Delete ID Check",
+  "description": "Permanently delete all data associated with a specific ID check. [See the documentation](https://getverdict.com/help/docs/api/checks#delete-id-check-data).",
+  "type": "action",
+  "version": "0.0.2"
+}

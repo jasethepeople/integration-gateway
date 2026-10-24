@@ -1,0 +1,7 @@
+{
+  "key": "surveymethods-new-survey-created",
+  "name": "New Survey Created",
+  "description": "Emit new event on a survey is created.",
+  "type": "source",
+  "version": "0.0.3"
+}

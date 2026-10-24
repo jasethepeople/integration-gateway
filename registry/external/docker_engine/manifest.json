@@ -1,0 +1,7 @@
+{
+  "app": "docker_engine",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": []
+}

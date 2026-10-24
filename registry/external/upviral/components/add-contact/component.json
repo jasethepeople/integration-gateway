@@ -1,0 +1,7 @@
+{
+  "key": "upviral-add-contact",
+  "name": "Add Contact",
+  "description": "Add a new contact in your particular campaign. [See the documentation](https://api.upviral.com/#add-contact)",
+  "type": "action",
+  "version": "0.0.2"
+}

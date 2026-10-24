@@ -1,0 +1,7 @@
+{
+  "key": "liveagent-create-customer",
+  "name": "Create Customer",
+  "description": "Creates a customer. [See the documentation](https://support.liveagent.com/911737-API-v3)",
+  "type": "action",
+  "version": "0.0.3"
+}

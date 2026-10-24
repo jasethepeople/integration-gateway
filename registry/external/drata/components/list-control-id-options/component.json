@@ -1,0 +1,7 @@
+{
+  "key": "drata-list-control-id-options",
+  "name": "List Control ID Options",
+  "description": "Retrieves available options for the Control ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

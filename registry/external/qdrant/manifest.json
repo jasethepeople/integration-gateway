@@ -1,0 +1,53 @@
+{
+  "app": "qdrant",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "collectionName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pointId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "payload": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "vector": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "filter": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "withPayload": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "withVector": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "qdrant-delete-points",
+    "qdrant-get-points",
+    "qdrant-list-collection-name-options",
+    "qdrant-search-points",
+    "qdrant-upsert-point"
+  ],
+  "npmImports": [
+    "@qdrant/js-client-rest"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pubrio-get-departments",
+  "name": "Get Departments",
+  "description": "Get available department title codes for filtering. [See the documentation](https://docs.pubrio.com/en/api-reference/endpoint/departments/departments)",
+  "type": "action",
+  "version": "0.0.1"
+}

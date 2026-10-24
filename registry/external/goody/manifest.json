@@ -1,0 +1,36 @@
+{
+  "app": "goody",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "productId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "paymentMethodId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderBatchId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "environment": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "automation_api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "goody-create-order",
+    "goody-list-order-batch-id-options",
+    "goody-list-payment-method-id-options",
+    "goody-list-product-id-options",
+    "goody-retrieve-orders-for-order-batch",
+    "goody-new-order-created",
+    "goody-order-delivered"
+  ]
+}

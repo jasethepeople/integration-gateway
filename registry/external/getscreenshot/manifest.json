@@ -1,0 +1,15 @@
+{
+  "app": "getscreenshot",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "getscreenshot-get-account-api-usage",
+    "getscreenshot-get-website-screenshot"
+  ]
+}

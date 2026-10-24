@@ -1,0 +1,7 @@
+{
+  "key": "stealthseminar-register-for-webinar",
+  "name": "Register for Webinar",
+  "description": "Register for a webinar. [See the documentation](https://docs.stealthseminarapp.com/#register-for-a-webinar)",
+  "type": "action",
+  "version": "0.0.1"
+}

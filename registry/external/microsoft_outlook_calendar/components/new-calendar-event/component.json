@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_outlook_calendar-new-calendar-event",
+  "name": "New Calendar Event (Instant)",
+  "description": "Emit new event when a new Calendar event is created",
+  "type": "source",
+  "version": "0.0.16"
+}

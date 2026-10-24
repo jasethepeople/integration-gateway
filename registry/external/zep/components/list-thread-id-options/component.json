@@ -1,0 +1,7 @@
+{
+  "key": "zep-list-thread-id-options",
+  "name": "List Thread ID Options",
+  "description": "Retrieves available options for the Thread ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

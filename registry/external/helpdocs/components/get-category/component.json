@@ -1,0 +1,7 @@
+{
+  "key": "helpdocs-get-category",
+  "name": "Get Category",
+  "description": "Retrieve a category from your HelpDocs knowledge base. [See the documentation](https://apidocs.helpdocs.io/article/FCRNPUXm3i-getting-a-single-category)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "mailgun-new-mailing-list",
+  "name": "New Mailing List",
+  "description": "Emit new event when a new mailing list is added to the associated Mailgun account.",
+  "type": "source",
+  "version": "0.0.3"
+}

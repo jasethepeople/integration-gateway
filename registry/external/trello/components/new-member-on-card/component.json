@@ -1,0 +1,7 @@
+{
+  "key": "trello-new-member-on-card",
+  "name": "New Member on Card (Instant)",
+  "description": "Emit new event for each member that join in a card.",
+  "type": "source",
+  "version": "0.1.6"
+}

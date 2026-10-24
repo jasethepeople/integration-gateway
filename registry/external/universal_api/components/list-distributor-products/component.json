@@ -1,0 +1,7 @@
+{
+  "key": "universal_api-list-distributor-products",
+  "name": "List Distributor Products",
+  "description": "List products from the Distributors API on Universal API. [See the documentation](https://docs.universalapi.io/reference/list-products).",
+  "type": "action",
+  "version": "0.0.1"
+}

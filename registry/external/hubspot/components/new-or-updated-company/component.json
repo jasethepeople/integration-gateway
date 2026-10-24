@@ -1,0 +1,7 @@
+{
+  "key": "hubspot-new-or-updated-company",
+  "name": "New or Updated Company",
+  "description": "Emit new event for each new or updated company in Hubspot.",
+  "type": "source",
+  "version": "0.0.34"
+}

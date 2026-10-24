@@ -1,0 +1,7 @@
+{
+  "key": "zoho_crm-get-object",
+  "name": "Get Object",
+  "description": "Gets record data given its id.",
+  "type": "action",
+  "version": "0.2.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "surecart-list-customers",
+  "name": "List Customers",
+  "description": "Return a list of customers. [See the documentation](https://developer.surecart.com/api-reference/customers/list)",
+  "type": "action",
+  "version": "1.0.0"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "polygon-new-stock-trade",
+  "name": "New Stock Trade",
+  "description": "Emit new event when a trade occurs for a specified stock ticker.",
+  "type": "source",
+  "version": "0.0.1"
+}

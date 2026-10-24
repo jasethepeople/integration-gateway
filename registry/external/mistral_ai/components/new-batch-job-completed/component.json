@@ -1,0 +1,7 @@
+{
+  "key": "mistral_ai-new-batch-job-completed",
+  "name": "New Batch Job Completed",
+  "description": "Emit new event when a new batch job is completed. [See the Documentation](https://docs.mistral.ai/api/#tag/batch/operation/jobs_api_routes_batch_get_batch_jobs)",
+  "type": "source",
+  "version": "0.0.1"
+}

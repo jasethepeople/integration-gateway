@@ -1,0 +1,7 @@
+{
+  "key": "apiverve-moon-phases",
+  "name": "Moon Phases",
+  "description": "Retrieve the moon phase for a given date. [See the documentation](https://docs.apiverve.com/api/moonphases)",
+  "type": "action",
+  "version": "0.0.2"
+}

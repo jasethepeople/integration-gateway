@@ -1,0 +1,7 @@
+{
+  "key": "freshbooks-create-invoice",
+  "name": "Create Invoice",
+  "description": "Create a new invoice in FreshBooks. [See the documentation](https://www.freshbooks.com/api/invoices)",
+  "type": "action",
+  "version": "0.0.1"
+}

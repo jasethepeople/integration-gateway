@@ -1,0 +1,7 @@
+{
+  "key": "docugenerate-list-templates",
+  "name": "List Templates",
+  "description": "Retrieves a list of all templates. [See the documentation](https://api.docugenerate.com/#/Template/queryTemplates)",
+  "type": "action",
+  "version": "0.0.3"
+}

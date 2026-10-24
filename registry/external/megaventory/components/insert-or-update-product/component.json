@@ -1,0 +1,7 @@
+{
+  "key": "megaventory-insert-or-update-product",
+  "name": "Insert Or Update Product",
+  "description": "Insert or update a product in the database. [See the docs](https://api.megaventory.com/v2017a/documentation/index.html#!/Product/postProductProductUpdate_post_11).",
+  "type": "action",
+  "version": "0.0.2"
+}

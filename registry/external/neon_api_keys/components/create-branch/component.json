@@ -1,0 +1,7 @@
+{
+  "key": "neon_api_keys-create-branch",
+  "name": "Create Branch",
+  "description": "Creates a branch in the project. [See docs here](https://api-docs.neon.tech/reference/createprojectbranch)",
+  "type": "action",
+  "version": "0.0.2"
+}

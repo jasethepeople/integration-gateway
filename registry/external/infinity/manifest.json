@@ -1,0 +1,35 @@
+{
+  "app": "infinity",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "boardId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "folderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "itemId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workspaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "infinity-create-item",
+    "infinity-delete-item",
+    "infinity-update-item",
+    "infinity-item-created",
+    "infinity-item-finalized",
+    "infinity-item-updated"
+  ]
+}

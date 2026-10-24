@@ -1,0 +1,7 @@
+{
+  "key": "meistertask-new-project-created",
+  "name": "New Project Created",
+  "description": "Emit new event when a new project is created. [See the docs](https://developers.meistertask.com/reference/get-projects)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "recruitee-create-candidate",
+  "name": "Create Candidate",
+  "description": "Create a new candidate. [See the documentation](https://api.recruitee.com/docs/index.html#candidate.web.candidate-candidate.web.candidate)",
+  "type": "action",
+  "version": "0.0.2"
+}

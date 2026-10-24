@@ -1,0 +1,7 @@
+{
+  "key": "encharge-updated-person-instant",
+  "name": "Updated Person (Instant)",
+  "description": "Emit new event when a person is updated.",
+  "type": "source",
+  "version": "0.0.1"
+}

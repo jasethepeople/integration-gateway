@@ -1,0 +1,7 @@
+{
+  "key": "knack-update-record",
+  "name": "Update Record",
+  "description": "Update a Record for a Knack object [(See docs here)](https://docs.knack.com/docs/object-based-put)",
+  "type": "action",
+  "version": "0.0.2"
+}

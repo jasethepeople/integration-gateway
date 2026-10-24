@@ -1,0 +1,7 @@
+{
+  "key": "slack_v2-new-user-mention",
+  "name": "New User Mention (Instant)",
+  "description": "Emit new event when a username or specific keyword is mentioned in a channel",
+  "type": "source",
+  "version": "0.1.16"
+}

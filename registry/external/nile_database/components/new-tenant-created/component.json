@@ -1,0 +1,7 @@
+{
+  "key": "nile_database-new-tenant-created",
+  "name": "New Tenant Created",
+  "description": "Emit new event when a new tenant is added to a Nile Database",
+  "type": "source",
+  "version": "0.0.2"
+}

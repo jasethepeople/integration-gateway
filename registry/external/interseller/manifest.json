@@ -1,0 +1,26 @@
+{
+  "app": "interseller",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sentiment": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "interseller-list-contact-id-options",
+    "interseller-set-contact-replied",
+    "interseller-update-contact",
+    "interseller-new-contact-replied",
+    "interseller-new-contact"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "jira_service_desk-list-sites",
+  "name": "List Sites",
+  "description": "Returns all Atlassian cloud sites accessible to the authenticated user.",
+  "type": "action",
+  "version": "0.0.9"
+}

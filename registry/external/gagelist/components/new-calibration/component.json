@@ -1,0 +1,7 @@
+{
+  "key": "gagelist-new-calibration",
+  "name": "New Calibration Created",
+  "description": "Emit new event when a new calibration is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

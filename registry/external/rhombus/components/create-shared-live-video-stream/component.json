@@ -1,0 +1,7 @@
+{
+  "key": "rhombus-create-shared-live-video-stream",
+  "name": "Create Shared Live Video Stream",
+  "description": "Create a shared live video stream and get the URL to access it. [See the documentation](https://apidocs.rhombus.com/reference/createcamerasharedlivevideostream))",
+  "type": "action",
+  "version": "0.0.2"
+}

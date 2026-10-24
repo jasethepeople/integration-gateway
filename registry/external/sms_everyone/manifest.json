@@ -1,0 +1,23 @@
+{
+  "app": "sms_everyone",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "crmids": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "password": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sms_everyone-list-crmids-options",
+    "sms_everyone-send-sms"
+  ]
+}

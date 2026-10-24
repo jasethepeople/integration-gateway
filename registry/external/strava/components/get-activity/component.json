@@ -1,0 +1,7 @@
+{
+  "key": "strava-get-activity",
+  "name": "Get Activity",
+  "description": "Fetch a single Strava activity by ID with full detail.",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "big_cartel-new-product",
+  "name": "New Product Event",
+  "description": "Emit new events when a new product is created. [See the docs here](https://developers.bigcartel.com/api/v1#get-all-products)",
+  "type": "source",
+  "version": "0.0.2"
+}

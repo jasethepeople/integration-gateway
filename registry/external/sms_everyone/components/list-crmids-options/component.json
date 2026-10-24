@@ -1,0 +1,7 @@
+{
+  "key": "sms_everyone-list-crmids-options",
+  "name": "List CRM IDs Options",
+  "description": "Retrieves available options for the CRM IDs field.",
+  "type": "action",
+  "version": "0.0.1"
+}

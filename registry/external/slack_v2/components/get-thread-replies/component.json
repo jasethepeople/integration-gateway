@@ -1,0 +1,7 @@
+{
+  "key": "slack_v2-get-thread-replies",
+  "name": "Get Thread Replies",
+  "description": "Retrieve all replies in a message thread.",
+  "type": "action",
+  "version": "0.1.13"
+}

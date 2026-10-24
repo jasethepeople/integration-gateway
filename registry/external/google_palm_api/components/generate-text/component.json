@@ -1,0 +1,7 @@
+{
+  "key": "google_palm_api-generate-text",
+  "name": "Generate Text",
+  "description": "Generate text using Google PaLM. [See the docs here](https://developers.generativeai.google/api/python/google/generativeai/generate_text)",
+  "type": "action",
+  "version": "0.0.2"
+}

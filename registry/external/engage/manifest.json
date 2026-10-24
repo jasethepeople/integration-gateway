@@ -1,0 +1,70 @@
+{
+  "app": "engage",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "isAccount": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "number": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "uid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "event": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timestamp": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "properties": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "value": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "public_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "secret_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "engage-add-customer",
+    "engage-add-event",
+    "engage-create-user",
+    "engage-list-customer-id-options",
+    "engage-list-uid-options"
+  ]
+}

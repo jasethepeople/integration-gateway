@@ -1,0 +1,7 @@
+{
+  "key": "coincatch-get-single-symbol-ticker",
+  "name": "Get Single Symbol Ticker",
+  "description": "Gets single symbol ticker. [See the documentation](https://coincatch.github.io/github.io/en/mix/#get-single-symbol-ticker)",
+  "type": "action",
+  "version": "0.0.1"
+}

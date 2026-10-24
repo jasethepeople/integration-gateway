@@ -1,0 +1,136 @@
+{
+  "app": "woocommerce",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "orderId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "orderStatus": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productStatus": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "role": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "topics": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "search": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "productName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "regularPrice": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "salePrice": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productDescription": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productImage": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customer": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "paymentMethod": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "products": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "productCategories": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "productId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "orderNoteId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "noteType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "woocommerce-add-order-note",
+    "woocommerce-create-customer",
+    "woocommerce-create-order",
+    "woocommerce-create-product",
+    "woocommerce-create-refund",
+    "woocommerce-delete-order",
+    "woocommerce-get-customer",
+    "woocommerce-get-order-note",
+    "woocommerce-get-order",
+    "woocommerce-get-product",
+    "woocommerce-list-customer-options",
+    "woocommerce-list-order-id-options",
+    "woocommerce-list-order-notes",
+    "woocommerce-list-orders",
+    "woocommerce-list-payment-method-options",
+    "woocommerce-list-product-categories-options",
+    "woocommerce-list-product-id-options",
+    "woocommerce-list-products-options",
+    "woocommerce-list-products",
+    "woocommerce-search-customers",
+    "woocommerce-update-order-status",
+    "woocommerce-update-product",
+    "woocommerce-new-coupon-event",
+    "woocommerce-new-customer-event",
+    "woocommerce-new-order-event",
+    "woocommerce-new-product-event"
+  ],
+  "npmImports": [
+    "@woocommerce/woocommerce-rest-api",
+    "crypto",
+    "query-string"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "app": "hyperise",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "imageTemplateHash": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "hyperise-create-personalised-short-link",
+    "hyperise-list-image-template-hash-options",
+    "hyperise-new-image-impression"
+  ]
+}

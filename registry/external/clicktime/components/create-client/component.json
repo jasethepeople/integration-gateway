@@ -1,0 +1,7 @@
+{
+  "key": "clicktime-create-client",
+  "name": "Create Client",
+  "description": "Create a Client on ClickTime [See the documentation](https://developer.clicktime.com/docs/api/#/Clients)",
+  "type": "action",
+  "version": "0.0.2"
+}

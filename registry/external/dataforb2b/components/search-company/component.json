@@ -1,0 +1,7 @@
+{
+  "key": "dataforb2b-search-company",
+  "name": "Search Company",
+  "description": "Search companies using advanced filters by size, funding stage, industry, investor, and more. [See the documentation](https://docs.dataforb2b.ai/api-reference/search-company)",
+  "type": "action",
+  "version": "0.0.2"
+}

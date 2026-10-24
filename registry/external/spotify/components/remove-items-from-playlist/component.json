@@ -1,0 +1,7 @@
+{
+  "key": "spotify-remove-items-from-playlist",
+  "name": "Remove Items from a Playlist",
+  "description": "Remove one or more items from a user's playlist. [See the docs here](https://developer.spotify.com/documentation/web-api/reference/#/operations/remove-tracks-playlist)",
+  "type": "action",
+  "version": "0.1.8"
+}

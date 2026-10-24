@@ -1,0 +1,7 @@
+{
+  "key": "mboum-get-crypto-profile",
+  "name": "Get Crypto Profile",
+  "description": "Get crypto profile. [See the documentation](https://docs.mboum.com/#crypto-GETapi-v1-crypto-profile)",
+  "type": "action",
+  "version": "0.0.2"
+}

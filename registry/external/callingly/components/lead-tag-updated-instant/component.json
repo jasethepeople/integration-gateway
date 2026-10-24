@@ -1,0 +1,7 @@
+{
+  "key": "callingly-lead-tag-updated-instant",
+  "name": "Lead Tag Updated (Instant)",
+  "description": "Emit new event when a lead's tags are updated in Callingly. [See the documentation](https://help.callingly.com/article/38-callingly-api-documentation#Create-a-Webhook-fv07m)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "spoonacular-search-recipes",
+  "name": "Search Recipes",
+  "description": "Search for a recipe. [See docs here](https://spoonacular.com/food-api/docs#Search-Recipes-Complex)",
+  "type": "action",
+  "version": "0.0.2"
+}

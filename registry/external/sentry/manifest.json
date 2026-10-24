@@ -1,0 +1,51 @@
+{
+  "app": "sentry",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "organizationSlug": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectSlugs": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "issueId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "full": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "auth_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sentry-list-issue-events",
+    "sentry-list-project-events",
+    "sentry-list-project-issues",
+    "sentry-update-issue",
+    "sentry-issue-event"
+  ],
+  "npmImports": [
+    "crypto",
+    "parse-link-header",
+    "slugify"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "app": "square",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "eventTypes": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "location": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customer": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "order": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "invoice": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "referenceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "square-create-customer",
+    "square-create-invoice",
+    "square-create-order",
+    "square-list-event-types-options",
+    "square-list-location-options",
+    "square-send-invoice",
+    "square-catalog-item-updated",
+    "square-new-booking-created",
+    "square-new-customer-created",
+    "square-new-invoice-created",
+    "square-new-order-created"
+  ],
+  "npmImports": [
+    "crypto",
+    "uuid"
+  ]
+}

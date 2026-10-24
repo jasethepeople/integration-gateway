@@ -1,0 +1,7 @@
+{
+  "key": "kustomer-update-custom-object-by-id",
+  "name": "Update Custom Object by ID",
+  "description": "Updates a custom object identified by ID in Kustomer. [See the documentation](https://developer.kustomer.com/kustomer-api-docs/reference/updatekobject)",
+  "type": "action",
+  "version": "0.0.2"
+}

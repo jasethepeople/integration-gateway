@@ -1,0 +1,7 @@
+{
+  "key": "chartmogul-search-customers-via-external-id",
+  "name": "Search Customers Via External Id",
+  "description": "Returns a list of all `customer` objects with the specified `external_id` in your ChartMogul account. [See the docs here](https://dev.chartmogul.com/reference/list-customers)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,61 @@
+{
+  "app": "tiktok_ads_manager",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "advertiserId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "pageSize": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "operationStatus": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "primaryStatus": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "budgetMode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "budget": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "tiktok_ads_manager-create-audience",
+    "tiktok_ads_manager-create-lookalike-audience",
+    "tiktok_ads_manager-create-or-update-ad-group",
+    "tiktok_ads_manager-create-or-update-ad",
+    "tiktok_ads_manager-create-or-update-campaign",
+    "tiktok_ads_manager-get-advertiser-info",
+    "tiktok_ads_manager-get-report",
+    "tiktok_ads_manager-list-ad-groups",
+    "tiktok_ads_manager-list-ads",
+    "tiktok_ads_manager-list-audiences",
+    "tiktok_ads_manager-list-campaigns",
+    "tiktok_ads_manager-manage-spark-ad",
+    "tiktok_ads_manager-send-conversion-event",
+    "tiktok_ads_manager-update-audience",
+    "tiktok_ads_manager-upload-creative"
+  ],
+  "npmImports": [
+    "crypto",
+    "form-data",
+    "stream"
+  ]
+}

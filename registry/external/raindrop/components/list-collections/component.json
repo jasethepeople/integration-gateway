@@ -1,0 +1,7 @@
+{
+  "key": "raindrop-list-collections",
+  "name": "Retrieve All Collections",
+  "description": "Retrieves all collections. [See the docs here](https://developer.raindrop.io/v1/collections/methods#get-root-collections)",
+  "type": "action",
+  "version": "0.0.6"
+}

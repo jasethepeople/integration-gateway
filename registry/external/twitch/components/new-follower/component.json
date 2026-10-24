@@ -1,0 +1,7 @@
+{
+  "key": "twitch-new-follower",
+  "name": "New Follower",
+  "description": "Emit new event when a new user follows your channel.",
+  "type": "source",
+  "version": "0.1.4"
+}

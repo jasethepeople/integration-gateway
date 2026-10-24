@@ -1,0 +1,7 @@
+{
+  "key": "eodhd_apis-get-company-financials",
+  "name": "Get Company Financials",
+  "description": "Obtain financial statements for a specific company. [See the docs here](https://eodhistoricaldata.com/financial-apis/stock-etfs-fundamental-data-feeds/)",
+  "type": "action",
+  "version": "0.0.2"
+}

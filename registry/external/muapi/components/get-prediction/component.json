@@ -1,0 +1,7 @@
+{
+  "key": "muapi-get-prediction",
+  "name": "Get Prediction Result",
+  "description": "Check the status and retrieve the output of a prediction by its request ID. [See the documentation](https://docs.muapi.ai)",
+  "type": "action",
+  "version": "0.0.2"
+}

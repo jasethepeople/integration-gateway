@@ -1,0 +1,7 @@
+{
+  "key": "snowflake-new-table",
+  "name": "New Table",
+  "description": "Emit new event when a table is created",
+  "type": "source",
+  "version": "0.1.5"
+}

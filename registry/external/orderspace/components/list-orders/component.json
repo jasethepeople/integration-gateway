@@ -1,0 +1,7 @@
+{
+  "key": "orderspace-list-orders",
+  "name": "List Orders",
+  "description": "List a list of orders. [See the documentation](https://apidocs.orderspace.com/#list-orders)",
+  "type": "action",
+  "version": "0.0.2"
+}

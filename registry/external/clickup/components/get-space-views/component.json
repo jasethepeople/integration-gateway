@@ -1,0 +1,7 @@
+{
+  "key": "clickup-get-space-views",
+  "name": "Get Space Views",
+  "description": "Get all views of a space. [See the documentation](https://clickup.com/api) in **Views / Get Space Views** section.",
+  "type": "action",
+  "version": "0.0.12"
+}

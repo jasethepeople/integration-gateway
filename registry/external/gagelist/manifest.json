@@ -1,0 +1,61 @@
+{
+  "app": "gagelist",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "gageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "manufacturer": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastCalibrationDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "calibrationDueDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "controlNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "model": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "condition": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "instructions": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "gagelist-create-gage",
+    "gagelist-find-gage-by-id",
+    "gagelist-list-gage-id-options",
+    "gagelist-list-manufacturer-options",
+    "gagelist-update-gage",
+    "gagelist-new-calibration",
+    "gagelist-new-gage",
+    "gagelist-new-manufacturer"
+  ]
+}

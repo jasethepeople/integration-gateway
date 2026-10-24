@@ -1,0 +1,7 @@
+{
+  "key": "gagelist-new-manufacturer",
+  "name": "New Manufacturer Created",
+  "description": "Emit new event when a new manufacturer is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

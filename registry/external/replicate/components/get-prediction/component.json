@@ -1,0 +1,7 @@
+{
+  "key": "replicate-get-prediction",
+  "name": "Get Prediction",
+  "description": "Get a specific prediction identified by Id. [See the documentation](https://replicate.com/docs/reference/http#predictions.get)",
+  "type": "action",
+  "version": "0.0.2"
+}

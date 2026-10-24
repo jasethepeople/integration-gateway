@@ -1,0 +1,88 @@
+{
+  "app": "smartsheet",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "sheetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sheetIdOrUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workspaceIdInput": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "folderIdInput": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "discussionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "rowId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "commentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "commentText": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "smartsheet-add-column",
+    "smartsheet-add-comment",
+    "smartsheet-add-row-to-sheet",
+    "smartsheet-copy-rows",
+    "smartsheet-copy-sheet",
+    "smartsheet-create-discussion",
+    "smartsheet-create-sheet",
+    "smartsheet-delete-column",
+    "smartsheet-delete-comment",
+    "smartsheet-delete-discussion",
+    "smartsheet-delete-rows",
+    "smartsheet-delete-sheet",
+    "smartsheet-email-sheet",
+    "smartsheet-get-comment",
+    "smartsheet-get-current-user",
+    "smartsheet-get-discussion",
+    "smartsheet-get-row",
+    "smartsheet-get-sheet",
+    "smartsheet-import-sheet",
+    "smartsheet-list-columns",
+    "smartsheet-list-discussions",
+    "smartsheet-list-folder-id-options",
+    "smartsheet-list-sheet-id-options",
+    "smartsheet-list-sheets",
+    "smartsheet-list-template-id-options",
+    "smartsheet-list-workspace-id-options",
+    "smartsheet-list-workspace-templates",
+    "smartsheet-move-rows",
+    "smartsheet-move-sheet",
+    "smartsheet-new-sheet-from-template",
+    "smartsheet-search",
+    "smartsheet-update-column",
+    "smartsheet-update-comment",
+    "smartsheet-update-row",
+    "smartsheet-update-sheet",
+    "smartsheet-new-comment-added",
+    "smartsheet-new-row-added",
+    "smartsheet-new-row-deleted",
+    "smartsheet-new-row-updated"
+  ]
+}

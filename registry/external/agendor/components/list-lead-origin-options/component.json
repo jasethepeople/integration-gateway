@@ -1,0 +1,7 @@
+{
+  "key": "agendor-list-lead-origin-options",
+  "name": "List Lead Origin Options",
+  "description": "Retrieves available options for the Lead Origin field.",
+  "type": "action",
+  "version": "0.0.1"
+}

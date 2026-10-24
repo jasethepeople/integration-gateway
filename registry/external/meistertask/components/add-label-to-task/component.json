@@ -1,0 +1,7 @@
+{
+  "key": "meistertask-add-label-to-task",
+  "name": "Add Label To Task",
+  "description": "Adds a project label to a task. [See the docs](https://developers.meistertask.com/reference/post-task-label)",
+  "type": "action",
+  "version": "0.0.2"
+}

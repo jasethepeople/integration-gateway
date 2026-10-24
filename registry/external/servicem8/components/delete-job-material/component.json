@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-delete-job-material",
+  "name": "Delete Job Material",
+  "description": "Delete a job material by UUID. [See the documentation](https://developer.servicem8.com/reference/deletejobmaterials)",
+  "type": "action",
+  "version": "0.0.1"
+}

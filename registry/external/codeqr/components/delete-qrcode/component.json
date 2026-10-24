@@ -1,0 +1,7 @@
+{
+  "key": "codeqr-delete-qrcode",
+  "name": "Delete a QR Code",
+  "description": "Deletes a QR Code in CodeQR by qrcodeId or externalId. [See the documentation](https://codeqr.mintlify.app/api-reference/endpoint/delete-a-qrcode)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "wrike-new-folder-created",
+  "name": "New Folder Created",
+  "description": "Emit new event when a folder is created",
+  "type": "source",
+  "version": "0.0.3"
+}

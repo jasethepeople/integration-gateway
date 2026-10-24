@@ -1,0 +1,7 @@
+{
+  "key": "data_police_uk-street-level-crime-updated",
+  "name": "New Street Level Crime Updated",
+  "description": "Emit new event when a specific street level crime is updated.",
+  "type": "source",
+  "version": "0.0.1"
+}

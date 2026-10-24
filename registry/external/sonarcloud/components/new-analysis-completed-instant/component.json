@@ -1,0 +1,7 @@
+{
+  "key": "sonarcloud-new-analysis-completed-instant",
+  "name": "New Analysis Completed (Instant)",
+  "description": "Emit new event when a new analisys is completed.",
+  "type": "source",
+  "version": "0.0.1"
+}

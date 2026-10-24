@@ -1,0 +1,7 @@
+{
+  "key": "mailwizz-create-campaign",
+  "name": "Create Campaign",
+  "description": "Create a new campaign. [See the docs here](https://api-docs.mailwizz.com/?php#create-a-campaign)",
+  "type": "action",
+  "version": "0.0.3"
+}

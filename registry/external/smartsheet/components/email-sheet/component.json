@@ -1,0 +1,7 @@
+{
+  "key": "smartsheet-email-sheet",
+  "name": "Email Sheet",
+  "description": "Send a sheet as an email attachment to one or more recipients. The sheet can be sent as PDF, Excel, or PDF Gantt format.",
+  "type": "action",
+  "version": "0.1.2"
+}

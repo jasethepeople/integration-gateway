@@ -1,0 +1,7 @@
+{
+  "key": "ticktick-list-projects",
+  "name": "List Projects",
+  "description": "List all projects in a TickTick account. [See the documentation](https://developer.ticktick.com/api#/openapi?id=get-user-project)",
+  "type": "action",
+  "version": "0.0.5"
+}

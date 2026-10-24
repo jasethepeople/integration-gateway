@@ -1,0 +1,7 @@
+{
+  "key": "e2b-run-code",
+  "name": "Run Code",
+  "description": "Run or interpret code using the E2B service. [See the documentation](https://www.npmjs.com/package/e2b).",
+  "type": "action",
+  "version": "0.0.5"
+}

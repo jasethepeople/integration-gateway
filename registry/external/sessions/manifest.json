@@ -1,0 +1,24 @@
+{
+  "app": "sessions",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "sessionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endedAt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sessions-list-session-id-options",
+    "sessions-new-session-ended",
+    "sessions-new-session-started"
+  ]
+}

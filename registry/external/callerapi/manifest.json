@@ -1,0 +1,22 @@
+{
+  "app": "callerapi",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "phoneNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "callerapi-get-phone-number-information",
+    "callerapi-get-phone-number-picture"
+  ],
+  "npmImports": [
+    "fs"
+  ]
+}

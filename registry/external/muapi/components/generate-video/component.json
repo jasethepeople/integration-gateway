@@ -1,0 +1,7 @@
+{
+  "key": "muapi-generate-video",
+  "name": "Generate Video",
+  "description": "Generate a video from a text prompt using 14+ models including Veo3, Veo4, Kling, Wan, Seedance, Runway, Sora, and more. [See the documentation](https://muapi.ai/docs/api-reference/video-generation)",
+  "type": "action",
+  "version": "0.0.1"
+}

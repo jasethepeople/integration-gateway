@@ -1,0 +1,7 @@
+{
+  "key": "hotmart-list-subscriber-code-options",
+  "name": "List Subscriber Code Options",
+  "description": "Retrieves available options for the Subscriber Code field.",
+  "type": "action",
+  "version": "0.0.1"
+}

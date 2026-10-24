@@ -1,0 +1,7 @@
+{
+  "key": "quickbooks-new-purchase-created",
+  "name": "New Purchase Created",
+  "description": "Emit new event when a new purchase is created.",
+  "type": "source",
+  "version": "0.0.3"
+}

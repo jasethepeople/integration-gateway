@@ -1,0 +1,7 @@
+{
+  "key": "assemblyai-create-captions",
+  "name": "Create Captions",
+  "description": "Export your completed transcripts in SRT (srt) or VTT (vtt) format, which can be used for subtitles and closed captions in videos. [See the documentation](https://www.assemblyai.com/docs/api-reference/transcripts/get-subtitles)",
+  "type": "action",
+  "version": "0.0.5"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "xero_accounting_api-list-manual-journals",
+  "name": "List Manual Journals",
+  "description": "Lists information from manual journals in the given tenant id as per filter parameters.",
+  "type": "action",
+  "version": "0.2.2"
+}

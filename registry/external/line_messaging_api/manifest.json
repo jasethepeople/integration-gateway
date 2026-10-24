@@ -1,0 +1,18 @@
+{
+  "app": "line_messaging_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "long_lived_channel_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "line_messaging_api-send-broadcast-message",
+    "line_messaging_api-send-multicast-message",
+    "line_messaging_api-send-push-message",
+    "line_messaging_api-send-reply-message",
+    "line_messaging_api-new-message-received"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "aero_workflow-list-hat-options",
+  "name": "List Hat Options",
+  "description": "Retrieves available options for the Hat field.",
+  "type": "action",
+  "version": "0.0.1"
+}

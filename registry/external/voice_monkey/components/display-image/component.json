@@ -1,0 +1,7 @@
+{
+  "key": "voice_monkey-display-image",
+  "name": "Display Image",
+  "description": "This action will display an image on your device with a screen e.g. Echo Show. [See docs here](https://voicemonkey.io/docs)",
+  "type": "action",
+  "version": "0.0.2"
+}

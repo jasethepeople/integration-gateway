@@ -1,0 +1,7 @@
+{
+  "key": "tawk_to-new-ticket-instant",
+  "name": "New Ticket (Instant)",
+  "description": "Emit new event when a new ticket is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,16 @@
+{
+  "app": "msg91",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "authkey": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "msg91-create-or-update-contact",
+    "msg91-launch-campaign",
+    "msg91-send-sms"
+  ]
+}

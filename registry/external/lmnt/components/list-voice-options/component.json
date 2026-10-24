@@ -1,0 +1,7 @@
+{
+  "key": "lmnt-list-voice-options",
+  "name": "List Voice Options",
+  "description": "Retrieves available options for the Voice field.",
+  "type": "action",
+  "version": "0.0.1"
+}

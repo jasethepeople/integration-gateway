@@ -1,0 +1,7 @@
+{
+  "key": "rocketreach-lookup-company",
+  "name": "lookup company",
+  "description": "Lookup the profile of a company. [See docs here](https://rocketreach.co/api?section=api_section_ws_lookupCompany)",
+  "type": "action",
+  "version": "0.0.2"
+}

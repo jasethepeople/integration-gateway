@@ -1,0 +1,7 @@
+{
+  "key": "vectorshift-new-chatbot",
+  "name": "New Chatbot Created",
+  "description": "Emit new event when a chatbot is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

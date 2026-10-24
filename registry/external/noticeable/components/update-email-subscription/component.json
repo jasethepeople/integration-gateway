@@ -1,0 +1,7 @@
+{
+  "key": "noticeable-update-email-subscription",
+  "name": "Update Email Subscription",
+  "description": "Updates an email subscription, [See the docs](https://graphdoc.noticeable.io/emailsubscription.doc.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

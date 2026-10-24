@@ -1,0 +1,35 @@
+{
+  "app": "are_na",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "channelSlug": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "channelTitle": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "channelStatus": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "are_na-create-channel",
+    "are_na-delete-channel",
+    "are_na-get-authenticated-user",
+    "are_na-list-channel-slug-options",
+    "are_na-search",
+    "are_na-update-channel"
+  ]
+}

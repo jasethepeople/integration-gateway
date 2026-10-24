@@ -1,0 +1,7 @@
+{
+  "key": "topdesk-list-duration-id-options",
+  "name": "List Duration ID Options",
+  "description": "Retrieves available options for the Duration ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

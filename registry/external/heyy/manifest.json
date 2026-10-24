@@ -1,0 +1,55 @@
+{
+  "app": "heyy",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "phoneNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "labels": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "attributes": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "channelId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "heyy-create-contact",
+    "heyy-list-labels-options",
+    "heyy-send-whatsapp-message",
+    "heyy-update-contact",
+    "heyy-upload-file",
+    "heyy-new-incoming-message-instant"
+  ],
+  "npmImports": [
+    "form-data",
+    "fs"
+  ]
+}

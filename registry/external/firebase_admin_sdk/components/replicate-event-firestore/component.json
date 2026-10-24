@@ -1,0 +1,7 @@
+{
+  "key": "firebase_admin_sdk-replicate-event-firestore",
+  "name": "Save Event to Firestore",
+  "description": "Replicate event in Firestore",
+  "type": "action",
+  "version": "0.4.9"
+}

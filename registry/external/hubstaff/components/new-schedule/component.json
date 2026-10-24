@@ -1,0 +1,7 @@
+{
+  "key": "hubstaff-new-schedule",
+  "name": "New Schedule Created",
+  "description": "Emit new event when a schedule is created in Hubstaff.",
+  "type": "source",
+  "version": "0.0.1"
+}

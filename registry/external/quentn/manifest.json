@@ -1,0 +1,98 @@
+{
+  "app": "quentn",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "company": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobTitle": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phoneType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "skype": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fb": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "twitter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "street": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "city": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "postalCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "state": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dateOfBirth": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "termId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "system_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "server_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "quentn-create-or-update-contact",
+    "quentn-find-contact",
+    "quentn-find-or-create-contact",
+    "quentn-run-campaign-for-contact",
+    "quentn-campaign-contact-sent"
+  ]
+}

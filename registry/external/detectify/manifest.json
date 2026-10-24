@@ -1,0 +1,20 @@
+{
+  "app": "detectify",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "domainToken": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "detectify-new-high-risk-finding",
+    "detectify-new-medium-risk-finding",
+    "detectify-new-scan-started"
+  ]
+}

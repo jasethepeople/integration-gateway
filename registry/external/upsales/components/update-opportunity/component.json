@@ -1,0 +1,7 @@
+{
+  "key": "upsales-update-opportunity",
+  "name": "Update Opportunity",
+  "description": "Updates an existing opportunity in Upsales. [See the documentation](https://api.upsales.com/#c0ea716a-24ce-4e57-82ac-4bb75b303277)",
+  "type": "action",
+  "version": "0.0.1"
+}

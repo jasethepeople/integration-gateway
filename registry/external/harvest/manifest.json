@@ -1,0 +1,239 @@
+{
+  "app": "harvest",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "clientId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timeEntryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "invoiceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskAssignmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userAssignmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "isActive": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "updatedSince": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "accessRoles": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "projectName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "isBillable": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "billBy": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "budgetBy": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "code": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "isFixedFee": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "projectHourlyRate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectBudget": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "costBudget": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectNotes": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startsOn": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endsOn": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subject": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "invoiceNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "purchaseOrder": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tax": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "discount": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "invoiceNotes": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "issueDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dueDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timezone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "isContractor": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "weeklyCapacity": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "defaultHourlyRate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "billable": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "taskAssignmentHourlyRate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskAssignmentBudget": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "isProjectManager": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "useDefaultRates": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "userAssignmentHourlyRate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userAssignmentBudget": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "harvest-create-invoice",
+    "harvest-create-project",
+    "harvest-create-task-assignment",
+    "harvest-create-timesheet-entry",
+    "harvest-create-user-assignment",
+    "harvest-create-user",
+    "harvest-delete-invoice",
+    "harvest-delete-project",
+    "harvest-delete-task-assignment",
+    "harvest-delete-time-entry",
+    "harvest-delete-user-assignment",
+    "harvest-delete-user",
+    "harvest-get-invoice",
+    "harvest-get-me",
+    "harvest-get-project",
+    "harvest-get-projects",
+    "harvest-get-task-assignment",
+    "harvest-get-time-entry",
+    "harvest-get-time-report",
+    "harvest-get-user-assignment",
+    "harvest-get-user",
+    "harvest-list-account-id-options",
+    "harvest-list-clients",
+    "harvest-list-invoices",
+    "harvest-list-task-assignments",
+    "harvest-list-tasks",
+    "harvest-list-time-entries",
+    "harvest-list-user-assignments",
+    "harvest-list-users",
+    "harvest-start-timer",
+    "harvest-stop-timer",
+    "harvest-update-invoice",
+    "harvest-update-project",
+    "harvest-update-task-assignment",
+    "harvest-update-time-entry",
+    "harvest-update-user-assignment",
+    "harvest-update-user",
+    "harvest-new-invoice-entry",
+    "harvest-new-timesheet-entry"
+  ],
+  "npmImports": [
+    "async-retry"
+  ]
+}

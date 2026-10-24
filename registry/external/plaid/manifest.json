@@ -1,0 +1,56 @@
+{
+  "app": "plaid",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "accessToken": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "publicToken": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "products": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "requiredIfSupportedProducts": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "optionalProducts": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "additionalConsentedProducts": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    }
+  },
+  "categories": [],
+  "components": [
+    "plaid-create-access-token",
+    "plaid-create-sandbox-public-token",
+    "plaid-create-user",
+    "plaid-get-real-time-balance",
+    "plaid-get-transactions",
+    "plaid-new-accounts-available-instant",
+    "plaid-new-event-instant",
+    "plaid-sync-updates-available-instant"
+  ],
+  "npmImports": [
+    "plaid"
+  ]
+}

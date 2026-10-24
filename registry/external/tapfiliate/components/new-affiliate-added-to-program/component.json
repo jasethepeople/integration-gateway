@@ -1,0 +1,7 @@
+{
+  "key": "tapfiliate-new-affiliate-added-to-program",
+  "name": "New Affiliate Added to Program",
+  "description": "Emit new event when an affiliate is added to a program. [See the documentation](https://tapfiliate.com/docs/rest/#programs-program-affiliates-collection-get)",
+  "type": "source",
+  "version": "0.0.1"
+}

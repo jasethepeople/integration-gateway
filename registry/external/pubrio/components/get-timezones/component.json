@@ -1,0 +1,7 @@
+{
+  "key": "pubrio-get-timezones",
+  "name": "Get Timezones",
+  "description": "Get available timezone codes for filtering. [See the documentation](https://docs.pubrio.com/en/api-reference/endpoint/timezones/timezones)",
+  "type": "action",
+  "version": "0.0.1"
+}

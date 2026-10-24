@@ -1,0 +1,7 @@
+{
+  "key": "bugsnag-new-error-created",
+  "name": "New Error Created",
+  "description": "Emit new event when a new error occurs in a selected project.",
+  "type": "source",
+  "version": "0.0.1"
+}

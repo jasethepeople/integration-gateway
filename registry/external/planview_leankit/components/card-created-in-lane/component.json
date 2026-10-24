@@ -1,0 +1,7 @@
+{
+  "key": "planview_leankit-card-created-in-lane",
+  "name": "New Card Created In A Specific Lane",
+  "description": "Emit new event when a card is created in a specific lane.",
+  "type": "source",
+  "version": "0.0.2"
+}

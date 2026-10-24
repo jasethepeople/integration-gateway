@@ -1,0 +1,41 @@
+{
+  "app": "hypeauditor",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "twitchChannel": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "username": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "channelUsername": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "channelId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "client_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "hypeauditor-get-instagram-report",
+    "hypeauditor-get-tiktok-report",
+    "hypeauditor-get-twitch-report",
+    "hypeauditor-get-youtube-report"
+  ]
+}

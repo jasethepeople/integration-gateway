@@ -1,0 +1,43 @@
+{
+  "app": "flippingbook",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "flipbookId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "info": {
+      "kind": "propDefinition",
+      "type": "alert"
+    },
+    "filePath": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "filename": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "flippingbook-create-flipbook",
+    "flippingbook-find-flipbook-by-title",
+    "flippingbook-list-flipbook-id-options",
+    "flippingbook-update-flipbook",
+    "flippingbook-new-flipbook-instant",
+    "flippingbook-new-lead-instant"
+  ]
+}

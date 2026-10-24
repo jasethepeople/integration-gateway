@@ -1,0 +1,7 @@
+{
+  "key": "confluence_data_center-get-pages",
+  "name": "Get Pages",
+  "description": "Retrieve a list of pages in Confluence Data Center. [See the documentation](https://developer.atlassian.com/server/confluence/rest/v1022/api-group-content-resource/#api-rest-api-content-get)",
+  "type": "action",
+  "version": "0.0.3"
+}

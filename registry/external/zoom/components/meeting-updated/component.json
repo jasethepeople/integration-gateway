@@ -1,0 +1,7 @@
+{
+  "key": "zoom-meeting-updated",
+  "name": "Meeting Updated (Instant)",
+  "description": "Emit new event each time a meeting is updated where you're the host",
+  "type": "source",
+  "version": "0.1.12"
+}

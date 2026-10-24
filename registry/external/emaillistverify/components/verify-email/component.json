@@ -1,0 +1,7 @@
+{
+  "key": "emaillistverify-verify-email",
+  "name": "Verify Email",
+  "description": "Verify an email. [See the documentation](https://emaillistverify.com/docs/#tag/Email-Validation-API/operation/verifyEmail)",
+  "type": "action",
+  "version": "0.0.2"
+}

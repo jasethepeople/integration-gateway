@@ -1,0 +1,7 @@
+{
+  "key": "jibble-clock-out",
+  "name": "Clock Out",
+  "description": "Create a new clock out time entry [See the documentation](https://docs.api.jibble.io/#7144d8bb-616d-4a59-bea2-e621791328fc).",
+  "type": "action",
+  "version": "0.0.2"
+}

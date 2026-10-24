@@ -1,0 +1,7 @@
+{
+  "key": "open_exchange_rates-currency-fluctuation",
+  "name": "New Currency Fluctuation",
+  "description": "Emit new event when a new significant change in a specified currency rate is detected.",
+  "type": "source",
+  "version": "0.0.1"
+}

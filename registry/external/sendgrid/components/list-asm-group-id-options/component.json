@@ -1,0 +1,7 @@
+{
+  "key": "sendgrid-list-asm-group-id-options",
+  "name": "List ASM Group ID Options",
+  "description": "Retrieves available options for the ASM Group ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

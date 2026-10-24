@@ -1,0 +1,7 @@
+{
+  "key": "clickup-create-checklist",
+  "name": "Create Checklist",
+  "description": "Creates a new checklist in a task. [See the documentation](https://clickup.com/api) in **Checklists / Create Checklist** section.",
+  "type": "action",
+  "version": "0.0.12"
+}

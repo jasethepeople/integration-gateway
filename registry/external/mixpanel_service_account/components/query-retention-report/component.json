@@ -1,0 +1,7 @@
+{
+  "key": "mixpanel_service_account-query-retention-report",
+  "name": "Query Retention Report",
+  "description": "Run a cohort retention analysis: of the users who first did one event, how many came back and did another over the following intervals. Answers questions like \"what does week-4 retention look like for users who signed up in June?\". The response maps each cohort date to a `first` count and a `counts` array, one entry per interval. [See the documentation](https://docs.mixpanel.com/reference/retention-query)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "security_reporter-list-language-id-options",
+  "name": "List Language ID Options",
+  "description": "Retrieves available options for the Language ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

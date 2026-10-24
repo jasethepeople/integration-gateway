@@ -1,0 +1,7 @@
+{
+  "key": "starloop-list-ids",
+  "name": "List IDs",
+  "description": "Returns your business id and a list of all profile id’s and names. [See the documentation](https://help.starloop.com/article/46-api-documentation)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,29 @@
+{
+  "app": "gotowebinar",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "organizerKey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "webinarKey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "gotowebinar-create-registrant",
+    "gotowebinar-create-webinar",
+    "gotowebinar-list-organizer-key-options",
+    "gotowebinar-list-webinar-key-options",
+    "gotowebinar-registrant-added",
+    "gotowebinar-registrant-joined",
+    "gotowebinar-webinar-changed",
+    "gotowebinar-webinar-created"
+  ]
+}

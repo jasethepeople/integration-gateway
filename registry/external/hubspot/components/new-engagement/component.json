@@ -1,0 +1,7 @@
+{
+  "key": "hubspot-new-engagement",
+  "name": "New Engagement",
+  "description": "Emit new event for each new engagement (call, email, meeting, note, postal mail, or task) created.",
+  "type": "source",
+  "version": "0.0.53"
+}

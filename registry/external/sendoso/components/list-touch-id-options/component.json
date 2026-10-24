@@ -1,0 +1,7 @@
+{
+  "key": "sendoso-list-touch-id-options",
+  "name": "List Touch ID Options",
+  "description": "Retrieves available options for the Touch ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

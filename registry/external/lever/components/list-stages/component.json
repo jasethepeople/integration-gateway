@@ -1,0 +1,7 @@
+{
+  "key": "lever-list-stages",
+  "name": "List Stages",
+  "description": "Returns all pipeline stages configured in the Lever account.",
+  "type": "action",
+  "version": "0.0.2"
+}

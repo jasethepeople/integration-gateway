@@ -1,0 +1,7 @@
+{
+  "key": "limoexpress-create-booking",
+  "name": "Create Limo Booking",
+  "description": "Creates a new limo booking with specified details. [See the documentation](https://api.limoexpress.me/api/docs/v1#/Bookings/createBooking)",
+  "type": "action",
+  "version": "0.0.2"
+}

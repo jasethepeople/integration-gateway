@@ -1,0 +1,66 @@
+{
+  "app": "nocodb",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tableId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workspaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "rowId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "viewId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "data": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "sort": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "where": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "nocodb-add-record",
+    "nocodb-delete-record",
+    "nocodb-get-record",
+    "nocodb-list-records-matching-criteria",
+    "nocodb-list-workspace-id-options",
+    "nocodb-update-record",
+    "nocodb-new-record-in-view",
+    "nocodb-new-record",
+    "nocodb-updated-record"
+  ]
+}

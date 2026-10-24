@@ -1,0 +1,32 @@
+{
+  "app": "slybroadcast",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "audioFile": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recipients": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "date": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "password": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "slybroadcast-list-audio-file-options",
+    "slybroadcast-start-campaign-audio-file",
+    "slybroadcast-start-campaign-audio-url"
+  ]
+}

@@ -1,0 +1,106 @@
+import linearApp from "../../app.mjs";
+
+export default {
+  type: "action",
+  ai: "optimized",
+  key: "linear_app-create-issue",
+  name: "Create Issue",
+  description: "Creates a new issue in Linear. Requires a team ID and title; all other fields are optional. Use **Get Teams** to discover valid team IDs, **List Workflow States** to find state IDs, **List Users** to find assignee IDs, and **List Labels** to find label IDs. To create a sub-issue, set `parentId` to the parent issue's ID (use **Search Issues** to find it). Example: `teamId: \"9d1c3f7e-2b48-4c6a-9f1e-5a7b8c9d0e1f\"`, `title: \"Fix login redirect on mobile\"` → returns `{success: true, issue: {id: \"iss_01\", identifier: \"ENG-42\", title: \"Fix login redirect on mobile\"}}`. [See the documentation](https://linear.app/developers/graphql#creating-and-editing-issues).",
+  version: "0.5.0",
+  annotations: {
+    destructiveHint: false,
+    openWorldHint: true,
+    readOnlyHint: false,
+  },
+  props: {
+    linearApp,
+    teamId: {
+      propDefinition: [
+        linearApp,
+        "teamId",
+      ],
+    },
+    projectId: {
+      propDefinition: [
+        linearApp,
+        "projectId",
+      ],
+    },
+    title: {
+      propDefinition: [
+        linearApp,
+        "issueTitle",
+      ],
+    },
+    description: {
+      propDefinition: [
+        linearApp,
+        "issueDescription",
+      ],
+    },
+    assigneeId: {
+      propDefinition: [
+        linearApp,
+        "assigneeId",
+      ],
+    },
+    stateId: {
+      propDefinition: [
+        linearApp,
+        "stateId",
+      ],
+    },
+    labelIds: {
+      propDefinition: [
+        linearApp,
+        "issueLabelIds",
+      ],
+    },
+    priority: {
+      propDefinition: [
+        linearApp,
+        "issuePriority",
+      ],
+    },
+    parentId: {
+      type: "string",
+      label: "Parent Issue",
+      description: "The UUID of the parent issue (e.g. `7df5e7f9-a357-4539-ae94-4a004fec635f`). When set, the new issue is created as a sub-issue of this issue. Use **Search Issues** to find the parent issue's ID.",
+      optional: true,
+    },
+  },
+  async run({ $ }) {
+    const {
+      linearApp,
+      projectId,
+      title,
+      description,
+      teamId,
+      assigneeId,
+      stateId,
+      labelIds,
+      priority,
+      parentId,
+    } = this;
+
+    const response =
+      await linearApp.createIssue({
+        teamId,
+        projectId,
+        title,
+        description,
+        assigneeId,
+        stateId,
+        labelIds,
+        priority,
+        parentId,
+      });
+
+    const summary = response.success
+      ? `Created issue ${response._issue.id}`
+      : "Failed to create issue";
+    $.export("$summary", summary);
+
+    return response;
+  },
+};

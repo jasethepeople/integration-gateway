@@ -1,0 +1,7 @@
+{
+  "key": "letzai-new-image",
+  "name": "New Image Created",
+  "description": "Emit new event when a new image is created in LetzAI. [See the documentation](https://api.letz.ai/doc#/images/images_find)",
+  "type": "source",
+  "version": "0.0.1"
+}

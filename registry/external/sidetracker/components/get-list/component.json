@@ -1,0 +1,7 @@
+{
+  "key": "sidetracker-get-list",
+  "name": "Get List",
+  "description": "Retrieve a list from Sidetracker. [See the documentation](https://app.sidetracker.io/api/schema/redoc#tag/Lists/operation/ListRetrievalById)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "crove_app-document-created",
+  "name": "Document Created",
+  "description": "Triggers when a new document is created.",
+  "type": "source",
+  "version": "1.0.2"
+}

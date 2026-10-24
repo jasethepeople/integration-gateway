@@ -1,0 +1,7 @@
+{
+  "key": "teamgate-list-companies-options",
+  "name": "List Companies Options",
+  "description": "Retrieves available options for the Companies field.",
+  "type": "action",
+  "version": "0.0.1"
+}

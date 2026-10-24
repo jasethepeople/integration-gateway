@@ -1,0 +1,7 @@
+{
+  "key": "bamboohr-list-company-holidays",
+  "name": "List Company Holidays",
+  "description": "List company holidays with optional OData filtering, sorting, and pagination. [See the documentation](https://documentation.bamboohr.com/reference/list-company-holidays)",
+  "type": "action",
+  "version": "0.0.1"
+}

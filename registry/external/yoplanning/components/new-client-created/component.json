@@ -1,0 +1,7 @@
+{
+  "key": "yoplanning-new-client-created",
+  "name": "New Client Created",
+  "description": "Triggers when a new client is created. [See the documentation](https://yoplanning.pro/api/v3.1/swagger/)",
+  "type": "source",
+  "version": "0.0.4"
+}

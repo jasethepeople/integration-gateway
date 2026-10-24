@@ -1,0 +1,24 @@
+{
+  "app": "yoplanning",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "teamId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "yoplanning-list-categories",
+    "yoplanning-list-clients",
+    "yoplanning-list-orders",
+    "yoplanning-list-payments",
+    "yoplanning-list-teams",
+    "yoplanning-new-client-created",
+    "yoplanning-new-order-placed"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zoho_subscriptions-create-subscription",
+  "name": "Create Subscription",
+  "description": "Create a new subscription. [See the documentation](https://www.zoho.com/billing/api/v1/subscription/#create-a-subscription)",
+  "type": "action",
+  "version": "0.0.3"
+}

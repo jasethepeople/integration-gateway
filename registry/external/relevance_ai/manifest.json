@@ -1,0 +1,32 @@
+{
+  "app": "relevance_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "conversationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "toolId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "project": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "region": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "relevance_ai-list-tool-id-options",
+    "relevance_ai-message-agent",
+    "relevance_ai-run-tool"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "quickbooks-new-invoice-updated",
+  "name": "New Invoice Updated",
+  "description": "Emit new event when an invoice is updated.",
+  "type": "source",
+  "version": "0.0.9"
+}

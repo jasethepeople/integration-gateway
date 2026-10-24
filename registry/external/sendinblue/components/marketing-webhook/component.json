@@ -1,0 +1,7 @@
+{
+  "key": "sendinblue-marketing-webhook",
+  "name": "New Marketing Webhook (Instant)",
+  "description": "Emit new event when triggered by a marketing event",
+  "type": "source",
+  "version": "0.0.1"
+}

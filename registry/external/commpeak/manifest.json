@@ -1,0 +1,21 @@
+{
+  "app": "commpeak",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "requestType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "commpeak-get-account-info",
+    "commpeak-get-bulk-lookup-results",
+    "commpeak-get-single-number-lookup",
+    "commpeak-request-bulk-number-lookup"
+  ]
+}

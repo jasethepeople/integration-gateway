@@ -1,0 +1,7 @@
+{
+  "key": "azure_storage-list-container-name-options",
+  "name": "List Container Name Options",
+  "description": "Retrieves available options for the Container Name field.",
+  "type": "action",
+  "version": "0.0.1"
+}

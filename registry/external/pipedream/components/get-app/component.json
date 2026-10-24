@@ -1,0 +1,7 @@
+{
+  "key": "pipedream-get-app",
+  "name": "Get App",
+  "description": "Get details for a specific Pipedream app. [See the documentation](https://pipedream.com/docs/rest-api/api-reference/apps/get-an-app)",
+  "type": "action",
+  "version": "0.0.1"
+}

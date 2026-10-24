@@ -1,0 +1,7 @@
+{
+  "key": "orbit-get-member-by-identity",
+  "name": "Get Member by Identity",
+  "description": "Provide a source and one of username/uid/email params to return a member with that identity, if one exists. Common values for source include github, twitter, and email. [See the docs here](https://api.orbit.love/reference/get_workspace-slug-members-find)",
+  "type": "action",
+  "version": "0.0.3"
+}

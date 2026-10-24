@@ -1,0 +1,7 @@
+{
+  "key": "writer-list-applications",
+  "name": "List Applications",
+  "description": "List the no-code applications (agents) in your Writer workspace. ",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,38 @@
+{
+  "app": "waiverfile",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "eventId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "categoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "waiverFormIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "site_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "site_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "waiverfile-create-event-category",
+    "waiverfile-list-category-id-options",
+    "waiverfile-list-event-id-options",
+    "waiverfile-list-waiver-form-ids-options",
+    "waiverfile-search-waivers",
+    "waiverfile-update-event",
+    "waiverfile-edit-event-instant",
+    "waiverfile-new-event-instant",
+    "waiverfile-new-waiver-instant"
+  ]
+}

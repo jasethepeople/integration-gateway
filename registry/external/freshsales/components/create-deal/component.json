@@ -1,0 +1,7 @@
+{
+  "key": "freshsales-create-deal",
+  "name": "Create Deal",
+  "description": "Create a new deal in your Freshsales account. [See the documentation](https://developer.freshsales.io/api/#create_deal)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "box-upload-file-version",
+  "name": "Upload File Version",
+  "description": "Uploads a new version of an existing Box file (max 50MB), replacing its current content; prior versions are kept in version history on premium accounts. Optionally rename the file at the same time. Use **List File Versions** to review version history afterward. [See the documentation](https://developer.box.com/reference/post-files-id-content/).",
+  "type": "action",
+  "version": "0.1.9"
+}

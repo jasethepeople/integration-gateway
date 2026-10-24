@@ -1,0 +1,7 @@
+{
+  "key": "serphouse-perform-search",
+  "name": "Perform Search",
+  "description": "Performs a search using the Serphouse API. [See the documentation](https://docs.serphouse.com/serp-api/live-using-http-get-method)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,76 @@
+{
+  "app": "benchmarkone",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "temperature": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "company": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "homeEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workPhone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "homePhone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workAddress": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "homeAddress": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "website": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "benchmarkone-add-note",
+    "benchmarkone-add-tag",
+    "benchmarkone-create-contact",
+    "benchmarkone-list-status-options",
+    "benchmarkone-list-temperature-options",
+    "benchmarkone-update-contact",
+    "benchmarkone-new-webhook-automation-event-instant"
+  ]
+}

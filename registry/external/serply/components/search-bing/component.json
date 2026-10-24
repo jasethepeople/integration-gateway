@@ -1,0 +1,7 @@
+{
+  "key": "serply-search-bing",
+  "name": "Search Bing",
+  "description": "Performs a Bing search using the Serply API. [See the documentation](https://serply.io/docs/operations/v1/b/search)",
+  "type": "action",
+  "version": "0.0.2"
+}

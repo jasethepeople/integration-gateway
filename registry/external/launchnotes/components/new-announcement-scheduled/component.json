@@ -1,0 +1,7 @@
+{
+  "key": "launchnotes-new-announcement-scheduled",
+  "name": "New Announcement Scheduled",
+  "description": "Emit new event when an announcement is scheduled.",
+  "type": "source",
+  "version": "0.0.1"
+}

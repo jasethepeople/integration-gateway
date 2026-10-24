@@ -1,0 +1,7 @@
+{
+  "key": "uplead-get-company-by-domain",
+  "name": "Get Company By Domain",
+  "description": "Get a company by domain. [See the documentation](https://docs.uplead.com/#company-api)",
+  "type": "action",
+  "version": "0.0.2"
+}

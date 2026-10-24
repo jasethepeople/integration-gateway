@@ -1,0 +1,7 @@
+{
+  "key": "onedesk-create-project",
+  "name": "Create Project",
+  "description": "Creates a project/space. [See the documentation](https://www.onedesk.com/dev/).",
+  "type": "action",
+  "version": "0.0.3"
+}

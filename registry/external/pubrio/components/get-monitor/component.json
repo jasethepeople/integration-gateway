@@ -1,0 +1,7 @@
+{
+  "key": "pubrio-get-monitor",
+  "name": "Get Monitor",
+  "description": "Get detailed information about a specific monitor. [See the documentation](https://docs.pubrio.com/en/api-reference/endpoint/monitors/lookup)",
+  "type": "action",
+  "version": "0.0.1"
+}

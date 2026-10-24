@@ -1,0 +1,46 @@
+{
+  "app": "whoisfreaks",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "domainName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domainNames": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "ipAddresses": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "ip": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "format": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "whoisfreaks-bulk-dns-domain-lookup",
+    "whoisfreaks-bulk-ip-geolocation-lookup",
+    "whoisfreaks-bulk-ip-reputation-lookup",
+    "whoisfreaks-bulk-whois-lookup",
+    "whoisfreaks-domain-availability-lookup",
+    "whoisfreaks-domain-lookup",
+    "whoisfreaks-domain-reputation-lookup",
+    "whoisfreaks-ip-geolocation-lookup",
+    "whoisfreaks-ip-lookup",
+    "whoisfreaks-ip-reputation-lookup",
+    "whoisfreaks-reverse-lookup",
+    "whoisfreaks-ssl-lookup",
+    "whoisfreaks-sub-domain-lookup"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "vitally-create-task",
+  "name": "Create Task",
+  "description": "Create a new task. [See the documentation](https://docs.vitally.io/pushing-data-to-vitally/rest-api/tasks#create-a-task-post)",
+  "type": "action",
+  "version": "0.0.3"
+}

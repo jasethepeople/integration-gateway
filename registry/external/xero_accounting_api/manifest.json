@@ -1,0 +1,83 @@
+{
+  "app": "xero_accounting_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "tenantId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "trackingCategoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "trackingOptionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "invoiceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lineItems": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "xero_accounting_api-add-line-item-to-invoice",
+    "xero_accounting_api-create-bank-transaction",
+    "xero_accounting_api-create-bill",
+    "xero_accounting_api-create-credit-note",
+    "xero_accounting_api-create-history-note",
+    "xero_accounting_api-create-item",
+    "xero_accounting_api-create-payment",
+    "xero_accounting_api-create-tracking-category",
+    "xero_accounting_api-create-update-contact",
+    "xero_accounting_api-delete-tracking-category-option",
+    "xero_accounting_api-delete-tracking-category",
+    "xero_accounting_api-download-invoice",
+    "xero_accounting_api-email-an-invoice",
+    "xero_accounting_api-find-invoice",
+    "xero_accounting_api-find-or-create-contact",
+    "xero_accounting_api-get-bank-statements-report",
+    "xero_accounting_api-get-bank-summary",
+    "xero_accounting_api-get-contact",
+    "xero_accounting_api-get-history-of-changes",
+    "xero_accounting_api-get-invoice-online-url",
+    "xero_accounting_api-get-invoice",
+    "xero_accounting_api-get-item",
+    "xero_accounting_api-get-tenant-connections",
+    "xero_accounting_api-get-tracking-category",
+    "xero_accounting_api-list-contacts",
+    "xero_accounting_api-list-credit-notes",
+    "xero_accounting_api-list-invoices",
+    "xero_accounting_api-list-manual-journals",
+    "xero_accounting_api-list-tracking-categories",
+    "xero_accounting_api-make-an-api-call",
+    "xero_accounting_api-update-tracking-category-option",
+    "xero_accounting_api-update-tracking-category",
+    "xero_accounting_api-upload-file",
+    "xero_accounting_api-xero-accounting-create-employee",
+    "xero_accounting_api-xero-accounting-create-or-update-contact",
+    "xero_accounting_api-xero-accounting-update-contact",
+    "xero_accounting_api-xero-create-purchase-bill",
+    "xero_accounting_api-xero-create-sales-invoice",
+    "xero_accounting_api-new-or-updated-quote",
+    "xero_accounting_api-new-updated-contact",
+    "xero_accounting_api-new-updated-invoice",
+    "xero_accounting_api-webhook-event-received"
+  ],
+  "npmImports": [
+    "crypto",
+    "fs"
+  ]
+}

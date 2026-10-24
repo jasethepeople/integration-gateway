@@ -1,0 +1,7 @@
+{
+  "key": "visualping-find-jobs",
+  "name": "Find Jobs",
+  "description": "Searches and lists your Visualping monitoring jobs, with optional filters",
+  "type": "action",
+  "version": "1.0.0"
+}

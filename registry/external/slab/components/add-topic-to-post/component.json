@@ -1,0 +1,7 @@
+{
+  "key": "slab-add-topic-to-post",
+  "name": "Add Topic To Post",
+  "description": "Associate a topic with a post via the `addTopicToPost` GraphQL mutation, returning the topic. Run **Search Posts** to obtain the post ID and **List Topics** to obtain the topic ID before calling. Example: postId `abc123`, topicId `abc12def` returns `{\"id\":\"abc12def\",\"name\":\"Engineering\"}`. [See the documentation](https://studio.apollographql.com/public/Slab/variant/current/schema/reference/objects/RootMutationType#addTopicToPost).",
+  "type": "action",
+  "version": "0.0.1"
+}

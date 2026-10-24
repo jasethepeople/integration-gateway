@@ -1,0 +1,7 @@
+{
+  "key": "surecart-create-coupon",
+  "name": "Create Coupon",
+  "description": "Create a new coupon. [See the documentation](https://developer.surecart.com/api-reference/coupons/create)",
+  "type": "action",
+  "version": "0.0.1"
+}

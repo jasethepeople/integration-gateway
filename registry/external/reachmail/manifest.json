@@ -1,0 +1,22 @@
+{
+  "app": "reachmail",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "listId": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "reachmail-list-list-id-options",
+    "reachmail-opt-out-recipient-from-list",
+    "reachmail-new-bounce-instant",
+    "reachmail-new-click-instant",
+    "reachmail-new-open-instant"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "app": "rabbitmq",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": []
+}

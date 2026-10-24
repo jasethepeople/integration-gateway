@@ -1,0 +1,14 @@
+{
+  "app": "aevent",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "aevent-new-registrant"
+  ]
+}

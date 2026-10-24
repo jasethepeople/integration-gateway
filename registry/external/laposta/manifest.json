@@ -1,0 +1,20 @@
+{
+  "app": "laposta",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "laposta-create-relation",
+    "laposta-delete-relation",
+    "laposta-list-list-id-options",
+    "laposta-update-relation",
+    "laposta-new-relation-created",
+    "laposta-new-relation-deleted",
+    "laposta-new-relation-updated"
+  ]
+}

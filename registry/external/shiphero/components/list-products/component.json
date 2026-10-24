@@ -1,0 +1,7 @@
+{
+  "key": "shiphero-list-products",
+  "name": "List Products",
+  "description": "List products. [See the documentation](https://developer.shiphero.com/getting-started/)",
+  "type": "action",
+  "version": "0.0.2"
+}

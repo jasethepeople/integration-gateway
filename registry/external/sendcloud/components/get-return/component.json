@@ -1,0 +1,7 @@
+{
+  "key": "sendcloud-get-return",
+  "name": "Get Return",
+  "description": "Retrieve a return by ID. [See the documentation](https://api.sendcloud.dev/docs/sendcloud-public-api/returns/operations/get-a-return)",
+  "type": "action",
+  "version": "0.0.3"
+}

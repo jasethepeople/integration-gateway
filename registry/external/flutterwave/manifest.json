@@ -1,0 +1,36 @@
+{
+  "app": "flutterwave",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "bank": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "payoutSubaccount": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "transaction": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "secret_api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "flutterwave-create-transfer",
+    "flutterwave-list-payout-subaccount-options",
+    "flutterwave-list-transaction-options",
+    "flutterwave-verify-transaction",
+    "flutterwave-new-subscription",
+    "flutterwave-new-transaction",
+    "flutterwave-new-transfer"
+  ]
+}

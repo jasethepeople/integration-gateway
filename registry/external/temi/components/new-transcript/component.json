@@ -1,0 +1,7 @@
+{
+  "key": "temi-new-transcript",
+  "name": "New Transcript",
+  "description": "Emit new event when a new transcript is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

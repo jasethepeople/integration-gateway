@@ -1,0 +1,7 @@
+{
+  "key": "acymailing-new-subscribed-user",
+  "name": "New Subscribed User",
+  "description": "Emit new event when a user subscribes to a specified list.",
+  "type": "source",
+  "version": "0.0.1"
+}

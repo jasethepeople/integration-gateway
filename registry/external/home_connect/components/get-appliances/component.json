@@ -1,0 +1,7 @@
+{
+  "key": "home_connect-get-appliances",
+  "name": "Get Home Appliances",
+  "description": "Retrieves a list of paired home appliances. [See the documentation](https://apiclient.home-connect.com/#/appliances/get_home_appliances)",
+  "type": "action",
+  "version": "0.0.2"
+}

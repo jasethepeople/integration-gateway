@@ -1,0 +1,7 @@
+{
+  "key": "miro_custom_app-new-card-item-created",
+  "name": "New Card Item Created",
+  "description": "Emit new event when a new card item is created on a Miro board",
+  "type": "source",
+  "version": "0.0.1"
+}

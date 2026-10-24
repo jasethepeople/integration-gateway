@@ -1,0 +1,7 @@
+{
+  "key": "habitify-list-habit-ids-options",
+  "name": "List Habit IDs Options",
+  "description": "Retrieves available options for the Habit IDs field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "app": "writer",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "messages": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxTokens": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "applicationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "writer-ask-knowledge-graph",
+    "writer-get-application",
+    "writer-list-applications",
+    "writer-list-knowledge-graphs",
+    "writer-list-models",
+    "writer-run-application",
+    "writer-send-prompt"
+  ]
+}

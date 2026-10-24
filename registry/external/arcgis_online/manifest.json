@@ -1,0 +1,37 @@
+{
+  "app": "arcgis_online",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "featureService": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "layerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "targetLayerIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "fieldName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "objectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "arcgis_online-list-feature-services",
+    "arcgis_online-list-layer-fields",
+    "arcgis_online-list-layers",
+    "arcgis_online-query-intersecting-features-by-geometry",
+    "arcgis_online-query-intersecting-features-by-object-id",
+    "arcgis_online-query-intersecting-features-by-search-query",
+    "arcgis_online-search-by-column",
+    "arcgis_online-update-row-by-object-id"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "neuronwriter-new-done-query",
+  "name": "New Done Query",
+  "description": "Emit new event when a query is marked as 'done', indicating content is ready for publication.",
+  "type": "source",
+  "version": "0.0.1"
+}

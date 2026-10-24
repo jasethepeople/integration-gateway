@@ -1,0 +1,83 @@
+{
+  "app": "mural",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "workspaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "muralId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "roomId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tagIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "widgetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "xPosition": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "yPosition": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "height": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "width": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "text": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "hidden": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mural-create-image",
+    "mural-create-mural",
+    "mural-create-room",
+    "mural-create-shape",
+    "mural-create-sticky",
+    "mural-create-textbox",
+    "mural-invite-to-mural",
+    "mural-list-murals",
+    "mural-list-rooms",
+    "mural-list-widgets",
+    "mural-search-murals",
+    "mural-update-sticky",
+    "mural-new-area",
+    "mural-new-mural",
+    "mural-new-sticky"
+  ],
+  "npmImports": [
+    "path"
+  ]
+}

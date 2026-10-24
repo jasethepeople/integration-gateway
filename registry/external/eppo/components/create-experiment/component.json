@@ -1,0 +1,7 @@
+{
+  "key": "eppo-create-experiment",
+  "name": "Create Experiment",
+  "description": "Create a new experiment analysis in Eppo. Use **List Experiments** first to find valid `entityId` and `assignmentSourceId` values — these numeric IDs are not available separately and must be copied from an existing experiment.",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "document360-list-project-version-id-options",
+  "name": "List Project Version ID Options",
+  "description": "Retrieves available options for the Project Version ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

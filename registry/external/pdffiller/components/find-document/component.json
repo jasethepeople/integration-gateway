@@ -1,0 +1,7 @@
+{
+  "key": "pdffiller-find-document",
+  "name": "Find Document",
+  "description": "Enables searching capabilities for documents by name. [See the documentation](https://pdffiller.readme.io/reference/get_v2-templates)",
+  "type": "action",
+  "version": "0.0.4"
+}

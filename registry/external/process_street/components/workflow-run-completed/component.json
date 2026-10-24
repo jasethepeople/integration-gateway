@@ -1,0 +1,7 @@
+{
+  "key": "process_street-workflow-run-completed",
+  "name": "Workflow Run Completed",
+  "description": "Emit new event for every completed workflow",
+  "type": "source",
+  "version": "0.0.1"
+}

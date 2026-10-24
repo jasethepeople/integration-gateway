@@ -1,0 +1,7 @@
+{
+  "key": "cerebras-create-completion",
+  "name": "Create Completion",
+  "description": "Create a completion with Cerebras AI. [See the documentation](https://inference-docs.cerebras.ai/api-reference/completions)",
+  "type": "action",
+  "version": "0.0.2"
+}

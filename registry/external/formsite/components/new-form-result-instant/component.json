@@ -1,0 +1,7 @@
+{
+  "key": "formsite-new-form-result-instant",
+  "name": "New Form Result (Instant)",
+  "description": "Emit new event when a form result is completed. [Formsite API](https://support.formsite.com/hc/en-us/articles/46181026038931-API)",
+  "type": "source",
+  "version": "0.0.1"
+}

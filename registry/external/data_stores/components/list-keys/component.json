@@ -1,0 +1,7 @@
+{
+  "key": "data_stores-list-keys",
+  "name": "List keys",
+  "description": "List all keys in your [Pipedream Data Store](https://pipedream.com/data-stores/).",
+  "type": "action",
+  "version": "0.0.5"
+}

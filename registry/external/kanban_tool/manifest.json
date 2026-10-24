@@ -1,0 +1,110 @@
+{
+  "app": "kanban_tool",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "boardId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "subtaskId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "swimlaneId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "stageId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "boardUserId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskVersion": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "position": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "isCompleted": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "priority": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "timeEstimate": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "dueDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "isArchived": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "searchQuery": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "kanban_tool-archive-task",
+    "kanban_tool-complete-subtask",
+    "kanban_tool-create-comment",
+    "kanban_tool-create-subtask",
+    "kanban_tool-create-task",
+    "kanban_tool-delete-subtask",
+    "kanban_tool-delete-task",
+    "kanban_tool-find-task",
+    "kanban_tool-get-task-details",
+    "kanban_tool-list-board-id-options",
+    "kanban_tool-move-task",
+    "kanban_tool-update-subtask",
+    "kanban_tool-update-task",
+    "kanban_tool-new-activity",
+    "kanban_tool-new-board-collaborator",
+    "kanban_tool-new-board",
+    "kanban_tool-new-card-type",
+    "kanban_tool-new-comment",
+    "kanban_tool-new-subtask",
+    "kanban_tool-new-swimlane",
+    "kanban_tool-new-task",
+    "kanban_tool-new-workflow-stage",
+    "kanban_tool-task-archived",
+    "kanban_tool-task-moved",
+    "kanban_tool-task-updated"
+  ]
+}

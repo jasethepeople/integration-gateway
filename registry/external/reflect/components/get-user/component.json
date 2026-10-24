@@ -1,0 +1,7 @@
+{
+  "key": "reflect-get-user",
+  "name": "Get User",
+  "description": "Retieves information about the authenticated user. [See the documentation](https://openpm.ai/apis/reflect#/users/me)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "google_search_console-submit-url-for-indexing",
+  "name": "Submit URL for Indexing",
+  "description": "Sends a `URL_UPDATED` or `URL_DELETED` notification for one page to Google's ",
+  "type": "action",
+  "version": "0.0.6"
+}

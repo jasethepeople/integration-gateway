@@ -1,0 +1,7 @@
+{
+  "key": "adhook-list-subtenant-id-options",
+  "name": "List Subtenant Id Options",
+  "description": "Retrieves available options for the Subtenant Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

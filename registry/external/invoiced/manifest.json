@@ -1,0 +1,60 @@
+{
+  "app": "invoiced",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "memberId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "chasingCadenceId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "nextChaseStep": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "taxId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "couponId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "metadata": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "paymentMethodId": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "environment": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "invoiced-create-customer",
+    "invoiced-create-invoice",
+    "invoiced-create-payment",
+    "invoiced-list-chasing-cadence-id-options",
+    "invoiced-list-coupon-id-options",
+    "invoiced-list-customer-id-options",
+    "invoiced-list-member-id-options",
+    "invoiced-list-tax-id-options",
+    "invoiced-invoice-fully-paid",
+    "invoiced-new-customer",
+    "invoiced-new-invoice"
+  ]
+}

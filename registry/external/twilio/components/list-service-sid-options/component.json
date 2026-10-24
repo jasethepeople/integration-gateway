@@ -1,0 +1,7 @@
+{
+  "key": "twilio-list-service-sid-options",
+  "name": "List Service SID Options",
+  "description": "Retrieves available options for the Service SID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

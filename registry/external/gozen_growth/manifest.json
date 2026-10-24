@@ -1,0 +1,18 @@
+{
+  "app": "gozen_growth",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "webhook_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "authentication_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "gozen_growth-create-or-update-contact"
+  ]
+}

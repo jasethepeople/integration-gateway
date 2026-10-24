@@ -1,0 +1,7 @@
+{
+  "key": "vitally-create-message",
+  "name": "Create Message",
+  "description": "Create a new message. [See the documentation](https://docs.vitally.io/pushing-data-to-vitally/rest-api/messages#create-a-message-post)",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "hedy-get-topic-sessions",
+  "name": "Get Topic Sessions",
+  "description": "Retrieves a paginated list of Hedy sessions belonging to a specific topic.",
+  "type": "action",
+  "version": "0.0.2"
+}

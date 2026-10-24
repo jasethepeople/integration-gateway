@@ -1,0 +1,7 @@
+{
+  "key": "tinyurl-new-link-created",
+  "name": "New Shortened URL Created",
+  "description": "Emit new event when a new shortened URL is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

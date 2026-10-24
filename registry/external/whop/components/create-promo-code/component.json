@@ -1,0 +1,7 @@
+{
+  "key": "whop-create-promo-code",
+  "name": "Create Promo Code",
+  "description": "Creates a new promo code with the given parameters in Whop. [See the documentation](https://dev.whop.com/api-reference/v2/promo-codes/create-a-promo-code)",
+  "type": "action",
+  "version": "0.0.2"
+}

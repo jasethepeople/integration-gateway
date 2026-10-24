@@ -1,0 +1,7 @@
+{
+  "key": "wati-new-incoming-message",
+  "name": "New Incoming Message",
+  "description": "Emit new event when there is an incoming message on your number.",
+  "type": "source",
+  "version": "0.0.1"
+}

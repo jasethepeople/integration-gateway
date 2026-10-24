@@ -1,0 +1,7 @@
+{
+  "key": "smartsheet-delete-discussion",
+  "name": "Delete Discussion",
+  "description": "Permanently deletes a discussion (and its comments) from a Smartsheet sheet. This action is irreversible.",
+  "type": "action",
+  "version": "0.0.2"
+}

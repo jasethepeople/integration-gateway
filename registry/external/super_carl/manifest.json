@@ -1,0 +1,135 @@
+{
+  "app": "super_carl",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "filters": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "delegateUserId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "offset": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "previewLimit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "evidenceFormat": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "relationshipDetail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "communicationChannel": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "communicationChannels": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "communicationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "targetUserId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "linkedinProfileUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "linkedinUsername": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "xProfileUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "xUsername": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "instagramProfileUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "instagramUsername": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recipientEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "withPeople": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "fields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "connectorUserId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "message": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subject": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "context": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "idempotencyKey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "waitMs": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "waitUntil": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "super_carl-cancel-communication",
+    "super_carl-check-communication-capabilities",
+    "super_carl-get-communication-history",
+    "super_carl-get-communication",
+    "super_carl-get-network-summary",
+    "super_carl-search-companies",
+    "super_carl-search-jobs",
+    "super_carl-search-people",
+    "super_carl-search-posts",
+    "super_carl-send-communication"
+  ]
+}

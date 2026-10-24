@@ -1,0 +1,45 @@
+{
+  "app": "pixelbin",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "path": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "access": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "metadata": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "overwrite": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "filenameOverride": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pixelbin-create-folder",
+    "pixelbin-delete-file",
+    "pixelbin-list-files",
+    "pixelbin-upload-asset-url",
+    "pixelbin-upload-file"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

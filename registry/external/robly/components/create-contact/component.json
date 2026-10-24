@@ -1,0 +1,7 @@
+{
+  "key": "robly-create-contact",
+  "name": "Create Contact",
+  "description": "Create a new contact in Robly. [See the documentation](https://docs.robly.com/docs/api-v1/441cf0bf51a98-generate-a-signup)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "viewdns_info-ip-history",
+  "name": "IP History",
+  "description": "Retrieves the IP address history for a domain. [See the documentation](https://viewdns.info/api/ip-history/)",
+  "type": "action",
+  "version": "0.0.2"
+}

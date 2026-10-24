@@ -1,0 +1,7 @@
+{
+  "key": "shopify_developer_app-new-updated-customer",
+  "name": "New Updated Customer (Instant)",
+  "description": "Emit new event each time a customer's information is updated.",
+  "type": "source",
+  "version": "0.0.21"
+}

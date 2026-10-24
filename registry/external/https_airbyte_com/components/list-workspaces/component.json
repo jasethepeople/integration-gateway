@@ -1,0 +1,7 @@
+{
+  "key": "https_airbyte_com-list-workspaces",
+  "name": "List Workspaces",
+  "description": "Lists workspaces on Airbyte. [See the documentation](https://reference.airbyte.com/reference/listworkspaces)",
+  "type": "action",
+  "version": "0.0.3"
+}

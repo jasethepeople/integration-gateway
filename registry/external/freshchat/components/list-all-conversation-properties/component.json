@@ -1,0 +1,7 @@
+{
+  "key": "freshchat-list-all-conversation-properties",
+  "name": "List All Conversation Properties",
+  "description": "Retrieves a list of all conversation properties configured in the Freshchat system. [See the documentation](https://developers.freshchat.com/api/#list_all_conversation_properties)",
+  "type": "action",
+  "version": "0.0.3"
+}

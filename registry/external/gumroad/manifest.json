@@ -1,0 +1,17 @@
+{
+  "app": "gumroad",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "gumroad-new-cancellation",
+    "gumroad-new-product",
+    "gumroad-new-refund",
+    "gumroad-new-sale"
+  ]
+}

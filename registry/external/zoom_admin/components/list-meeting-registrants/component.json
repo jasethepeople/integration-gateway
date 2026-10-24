@@ -1,0 +1,7 @@
+{
+  "key": "zoom_admin-list-meeting-registrants",
+  "name": "List meeting registrants",
+  "description": "List all users who have registered for a meeting. [See the documentation](https://marketplace.zoom.us/docs/api-reference/zoom-api/meetings/meetingregistrants)",
+  "type": "action",
+  "version": "0.2.5"
+}

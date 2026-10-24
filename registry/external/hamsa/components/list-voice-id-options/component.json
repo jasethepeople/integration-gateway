@@ -1,0 +1,7 @@
+{
+  "key": "hamsa-list-voice-id-options",
+  "name": "List Voice ID Options",
+  "description": "Retrieves available options for the Voice ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

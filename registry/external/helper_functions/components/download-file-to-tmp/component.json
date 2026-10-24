@@ -1,0 +1,7 @@
+{
+  "key": "helper_functions-download-file-to-tmp",
+  "name": "Download File To /tmp",
+  "description": "Downloads a file to [your workflow's /tmp directory](https://pipedream.com/docs/code/nodejs/working-with-files/#the-tmp-directory)",
+  "type": "action",
+  "version": "0.3.6"
+}

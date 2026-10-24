@@ -1,0 +1,7 @@
+{
+  "key": "sendit-post-failed",
+  "name": "New Post Failed",
+  "description": "Emit new event when a post fails to publish. [See the documentation](https://sendit.infiniteappsai.com/docs/api)",
+  "type": "source",
+  "version": "0.0.1"
+}

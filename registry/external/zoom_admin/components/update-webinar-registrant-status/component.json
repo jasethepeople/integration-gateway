@@ -1,0 +1,7 @@
+{
+  "key": "zoom_admin-update-webinar-registrant-status",
+  "name": "Update Webinar Registrant Status",
+  "description": "Update registrant status for a webinar. [See the documentation](https://marketplace.zoom.us/docs/api-reference/zoom-api/meetings/meetingregistrantstatus)",
+  "type": "action",
+  "version": "0.1.8"
+}

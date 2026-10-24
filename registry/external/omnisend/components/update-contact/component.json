@@ -1,0 +1,7 @@
+{
+  "key": "omnisend-update-contact",
+  "name": "Update Contact",
+  "description": "Modify subscriber information or update their subscription status. [See the documentation](https://api-docs.omnisend.com/reference/patch_contacts-contactid)",
+  "type": "action",
+  "version": "0.0.2"
+}

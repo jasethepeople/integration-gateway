@@ -1,0 +1,7 @@
+{
+  "key": "renderio-new-stored-file",
+  "name": "New Stored File",
+  "description": "Emit new event when a new file is uploaded to the account. [See the documentation](https://renderio.dev/docs/api-reference/files/list-files)",
+  "type": "source",
+  "version": "0.0.1"
+}

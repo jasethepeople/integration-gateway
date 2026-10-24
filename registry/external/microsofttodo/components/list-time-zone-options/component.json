@@ -1,0 +1,7 @@
+{
+  "key": "microsofttodo-list-time-zone-options",
+  "name": "List Time Zone Options",
+  "description": "Retrieves available options for the Time Zone field.",
+  "type": "action",
+  "version": "0.0.1"
+}

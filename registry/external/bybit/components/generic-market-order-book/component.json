@@ -1,0 +1,7 @@
+{
+  "key": "bybit-generic-market-order-book",
+  "name": "ByBit Generic Market Order Book",
+  "description": "Get Order Book.[reference](https://bybit-exchange.github.io/docs/futuresV2/inverse/#t-orderbook)",
+  "type": "action",
+  "version": "0.0.2"
+}

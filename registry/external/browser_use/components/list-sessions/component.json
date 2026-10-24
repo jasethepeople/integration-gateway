@@ -1,0 +1,7 @@
+{
+  "key": "browser_use-list-sessions",
+  "name": "List Sessions",
+  "description": "List Browser Use agent sessions for the authenticated project. [See the documentation](https://docs.browser-use.com/cloud/api-v3/sessions/list-sessions)",
+  "type": "action",
+  "version": "0.0.1"
+}

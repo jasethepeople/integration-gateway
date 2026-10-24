@@ -1,0 +1,7 @@
+{
+  "key": "bloomerang-new-interaction",
+  "name": "New Interaction",
+  "description": "Emit new event when a new interaction is logged for a constituent.",
+  "type": "source",
+  "version": "0.0.1"
+}

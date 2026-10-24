@@ -1,0 +1,35 @@
+{
+  "app": "zenscrape",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "premium": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "location": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "keepHeaders": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "render": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zenscrape-get-credit-status",
+    "zenscrape-get-website-content"
+  ]
+}

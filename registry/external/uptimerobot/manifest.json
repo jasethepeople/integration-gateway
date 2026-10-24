@@ -1,0 +1,32 @@
+{
+  "app": "uptimerobot",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "alertContact": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "friendlyName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "monitorId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "uptimerobot-create-alert-contact",
+    "uptimerobot-create-monitor",
+    "uptimerobot-update-monitor-status"
+  ]
+}

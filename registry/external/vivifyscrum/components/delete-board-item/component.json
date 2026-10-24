@@ -1,0 +1,7 @@
+{
+  "key": "vivifyscrum-delete-board-item",
+  "name": "Delete Board Item",
+  "description": "Deletes a board item from VivifyScrum. [See the documentation](https://github.com/Vivify-Ideas/vivify-cli)",
+  "type": "action",
+  "version": "0.0.1"
+}

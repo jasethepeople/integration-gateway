@@ -1,0 +1,7 @@
+{
+  "key": "twilio-list-recording-i-d-options",
+  "name": "List Recording ID Options",
+  "description": "Retrieves available options for the Recording ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "scalr-new-run-completed",
+  "name": "New Run Completed (Instant)",
+  "description": "Emit new event on each new completed run. [See the documentation](https://docs.scalr.io/reference/create_webhook_integration)",
+  "type": "source",
+  "version": "0.0.1"
+}

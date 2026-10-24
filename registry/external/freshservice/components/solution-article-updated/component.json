@@ -1,0 +1,7 @@
+{
+  "key": "freshservice-solution-article-updated",
+  "name": "Solution Article Updated",
+  "description": "Emit new event for each updated solution article. [See documentation](https://api.freshservice.com/#view_all_solution_article)",
+  "type": "source",
+  "version": "0.0.1"
+}

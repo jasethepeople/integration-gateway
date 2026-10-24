@@ -1,0 +1,18 @@
+{
+  "app": "callhub",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "eventType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "callhub-new-call-event-received"
+  ]
+}

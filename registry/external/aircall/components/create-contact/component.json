@@ -1,0 +1,7 @@
+{
+  "key": "aircall-create-contact",
+  "name": "Create Contact",
+  "description": "Create a contact in Aircall. [See the documentation](https://developer.aircall.io/api-references/#create-a-contact)",
+  "type": "action",
+  "version": "0.0.6"
+}

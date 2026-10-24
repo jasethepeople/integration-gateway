@@ -1,0 +1,7 @@
+{
+  "key": "google_contacts-delete-contact",
+  "name": "Delete Contact",
+  "description": "Deletes a contact. [See the documentation](https://developers.google.com/people/api/rest/v1/people/deleteContact)",
+  "type": "action",
+  "version": "0.0.10"
+}

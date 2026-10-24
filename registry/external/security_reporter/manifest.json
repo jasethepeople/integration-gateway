@@ -1,0 +1,81 @@
+{
+  "app": "security_reporter",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "clientId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "assessmentTemplateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "languageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "themeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "resolvers": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "userGroups": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "resolvedTargets": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "targets": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "assessmentSectionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "assessmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "findingId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "base_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "security_reporter-create-assessment",
+    "security_reporter-create-finding",
+    "security_reporter-list-assessment-id-options",
+    "security_reporter-list-assessment-template-id-options",
+    "security_reporter-list-client-id-options",
+    "security_reporter-list-finding-id-options",
+    "security_reporter-list-language-id-options",
+    "security_reporter-list-theme-id-options",
+    "security_reporter-update-finding",
+    "security_reporter-new-assessment-instant",
+    "security_reporter-new-finding-instant",
+    "security_reporter-new-finding-updated-instant"
+  ],
+  "npmImports": [
+    "crypto",
+    "form-data"
+  ]
+}

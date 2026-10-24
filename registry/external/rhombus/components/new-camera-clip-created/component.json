@@ -1,0 +1,7 @@
+{
+  "key": "rhombus-new-camera-clip-created",
+  "name": "New Camera Clip Created",
+  "description": "Emit new event when a new clip is created. [See the documentation](https://apidocs.rhombus.com/reference/getauditfeed)",
+  "type": "source",
+  "version": "0.0.1"
+}

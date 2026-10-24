@@ -1,0 +1,7 @@
+{
+  "key": "order_desk-new-order-updated",
+  "name": "New Order Updated",
+  "description": "Emit new event a new order is updated",
+  "type": "source",
+  "version": "0.0.1"
+}

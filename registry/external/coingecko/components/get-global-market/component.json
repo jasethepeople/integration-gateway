@@ -1,0 +1,7 @@
+{
+  "key": "coingecko-get-global-market",
+  "name": "Get Global Market",
+  "description": "Get global cryptocurrency market data including total market cap, total volume, market cap percentage, and more. [See the documentation](https://docs.coingecko.com/v3.0.1/reference/crypto-global)",
+  "type": "action",
+  "version": "0.0.1"
+}

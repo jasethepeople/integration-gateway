@@ -1,0 +1,7 @@
+{
+  "key": "kucoin_futures-generic-api-call",
+  "name": "Kucoin Futures Generic API Call",
+  "description": "Make any API call for Kucoin Futures as per the documentation.",
+  "type": "action",
+  "version": "0.0.3"
+}

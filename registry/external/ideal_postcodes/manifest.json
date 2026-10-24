@@ -1,0 +1,20 @@
+{
+  "app": "ideal_postcodes",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ideal_postcodes-email-validation",
+    "ideal_postcodes-find-place",
+    "ideal_postcodes-phone-number-validation"
+  ]
+}

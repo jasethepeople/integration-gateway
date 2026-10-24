@@ -1,0 +1,26 @@
+{
+  "app": "smashsend",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "smashsend-create-or-update-contact",
+    "smashsend-delete-contact",
+    "smashsend-list-contacts",
+    "smashsend-search-contacts",
+    "smashsend-contact-deleted",
+    "smashsend-contact-resubscribed",
+    "smashsend-contact-unsubscribed",
+    "smashsend-contact-updated",
+    "smashsend-new-contact-created"
+  ]
+}

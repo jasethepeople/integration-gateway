@@ -1,0 +1,28 @@
+{
+  "app": "countdown_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "searchTerm": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ebayDomain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "epid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "countdown_api-get-product-data",
+    "countdown_api-get-reviews",
+    "countdown_api-get-search-results"
+  ]
+}

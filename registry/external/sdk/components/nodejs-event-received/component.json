@@ -1,0 +1,7 @@
+{
+  "key": "sdk-nodejs-event-received",
+  "name": "Node.js",
+  "description": "Emit a new event via the Node.js Pipedream SDK.",
+  "type": "source",
+  "version": "0.0.2"
+}

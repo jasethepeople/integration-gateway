@@ -1,0 +1,7 @@
+{
+  "key": "rocket_chat-new-user-created",
+  "name": "New User Created",
+  "description": "Emit new event when a new user is created in RocketChat.",
+  "type": "source",
+  "version": "0.0.1"
+}

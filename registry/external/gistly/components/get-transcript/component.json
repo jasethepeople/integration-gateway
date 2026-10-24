@@ -1,0 +1,7 @@
+{
+  "key": "gistly-get-transcript",
+  "name": "Get Transcript",
+  "description": "Fetches transcript/subtitles from a YouTube video using Gistly API.",
+  "type": "action",
+  "version": "0.0.2"
+}

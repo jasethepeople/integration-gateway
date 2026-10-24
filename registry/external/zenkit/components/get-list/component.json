@@ -1,0 +1,7 @@
+{
+  "key": "zenkit-get-list",
+  "name": "Get List",
+  "description": "Retrieve a list/collection from a workspace on Zenkit. [See the docs](https://base.zenkit.com/docs/api/lists/get-api-v1-lists-listshortid)",
+  "type": "action",
+  "version": "0.0.2"
+}

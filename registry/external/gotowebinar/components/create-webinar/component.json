@@ -1,0 +1,7 @@
+{
+  "key": "gotowebinar-create-webinar",
+  "name": "Create Webinar",
+  "description": "Creates a single session webinar, a sequence of webinars or a series of webinars depending on the type field in the body. [See the documentation](https://developer.goto.com/GoToWebinarV2/#operation/createWebinar)",
+  "type": "action",
+  "version": "0.0.2"
+}

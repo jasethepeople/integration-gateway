@@ -1,0 +1,7 @@
+{
+  "key": "campayn-unsubscribe-contact",
+  "name": "Unsubscribe Contact",
+  "description": "Unsubscribes a contact from a list. [See the docs](https://github.com/nebojsac/Campayn-API/blob/master/endpoints/lists.md#unsubscribe-contact)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "magnetic-create-grouping",
+  "name": "Create Opportunity/Job",
+  "description": "Create a new opportunity/job. [See docs here](https://app.magnetichq.com/Magnetic/API.do#ta-f-grouping)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "google_dialogflow-delete-intent",
+  "name": "Delete Intent",
+  "description": "Deletes an intent, [See REST docs](https://cloud.google.com/dialogflow/es/docs/reference/rest/v2/projects.agent.intents/delete) and [client API](https://googleapis.dev/nodejs/dialogflow/latest/google.cloud.dialogflow.v2beta1.Intents.html#deleteIntent2)",
+  "type": "action",
+  "version": "1.0.1"
+}

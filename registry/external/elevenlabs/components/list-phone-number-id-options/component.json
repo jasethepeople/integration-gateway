@@ -1,0 +1,7 @@
+{
+  "key": "elevenlabs-list-phone-number-id-options",
+  "name": "List Phone Number ID Options",
+  "description": "Retrieves available options for the Phone Number ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

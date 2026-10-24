@@ -1,0 +1,39 @@
+{
+  "app": "zoho_bookings",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "serviceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "staffId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "resourceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zoho_bookings-book-appointment",
+    "zoho_bookings-fetch-availability",
+    "zoho_bookings-get-appointment",
+    "zoho_bookings-list-resource-id-options",
+    "zoho_bookings-list-service-id-options",
+    "zoho_bookings-list-staff-id-options",
+    "zoho_bookings-reschedule-appointment"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

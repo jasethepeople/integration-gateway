@@ -1,0 +1,7 @@
+{
+  "key": "iauditor_by_safetyculture-inspection-completed",
+  "name": "Inspection Completed",
+  "description": "Emit new event when an inspection has completed.",
+  "type": "source",
+  "version": "0.0.1"
+}

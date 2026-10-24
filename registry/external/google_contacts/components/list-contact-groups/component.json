@@ -1,0 +1,7 @@
+{
+  "key": "google_contacts-list-contact-groups",
+  "name": "List Contact Groups",
+  "description": "Lists the authenticated user's contact groups. [See the documentation](https://developers.google.com/people/api/rest/v1/contactGroups/list)",
+  "type": "action",
+  "version": "0.0.2"
+}

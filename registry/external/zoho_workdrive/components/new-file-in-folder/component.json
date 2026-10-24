@@ -1,0 +1,7 @@
+{
+  "key": "zoho_workdrive-new-file-in-folder",
+  "name": "New File In Folder",
+  "description": "Emit new event when a new file is created in a specific folder.",
+  "type": "source",
+  "version": "0.2.2"
+}

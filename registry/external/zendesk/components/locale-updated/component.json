@@ -1,0 +1,7 @@
+{
+  "key": "zendesk-locale-updated",
+  "name": "Locale Updated",
+  "description": "Emit new event when a locale has been updated",
+  "type": "source",
+  "version": "0.0.14"
+}

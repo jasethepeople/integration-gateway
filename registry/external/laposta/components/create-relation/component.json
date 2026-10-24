@@ -1,0 +1,7 @@
+{
+  "key": "laposta-create-relation",
+  "name": "Create Relation",
+  "description": "Creates a relation. [See docs here (Go to `Add relationship`)](http://api.laposta.nl/doc/)",
+  "type": "action",
+  "version": "0.0.2"
+}

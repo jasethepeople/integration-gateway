@@ -1,0 +1,7 @@
+{
+  "key": "taxjar-calculate-sales-tax",
+  "name": "Calculate Sales Tax",
+  "description": "Shows the sales tax that should be collected for a given order. [See the documentation](https://developers.taxjar.com/api/reference/#taxes)",
+  "type": "action",
+  "version": "0.0.2"
+}

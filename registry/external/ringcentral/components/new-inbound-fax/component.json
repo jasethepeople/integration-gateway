@@ -1,0 +1,7 @@
+{
+  "key": "ringcentral-new-inbound-fax",
+  "name": "New Inbound Fax (Instant)",
+  "description": "Emit new event on each incoming fax",
+  "type": "source",
+  "version": "0.1.5"
+}

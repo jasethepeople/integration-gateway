@@ -1,0 +1,7 @@
+{
+  "key": "qualiobee-new-customer-created",
+  "name": "New Customer Created",
+  "description": "Emit new event when a new customer is created in Qualiobee. [See the documentation](https://app.qualiobee.fr/api/doc/#/Customer/PublicCustomerController_getMany)",
+  "type": "source",
+  "version": "0.0.1"
+}

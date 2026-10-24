@@ -1,0 +1,7 @@
+{
+  "key": "grafana-save-dashboard",
+  "name": "Save Dashboard",
+  "description": "Create or update a Grafana dashboard. This is an upsert",
+  "type": "action",
+  "version": "0.0.3"
+}

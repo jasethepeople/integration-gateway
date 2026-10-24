@@ -1,0 +1,7 @@
+{
+  "key": "bluesky-like-post",
+  "name": "Like Post",
+  "description": "Like a specific post on Bluesky. [See the documentation](https://docs.bsky.app/docs/api/com-atproto-repo-create-record).",
+  "type": "action",
+  "version": "0.0.4"
+}

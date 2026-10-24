@@ -1,0 +1,7 @@
+{
+  "key": "monkeylearn-extract-text",
+  "name": "Extract Text",
+  "description": "Extracts information from texts with a given extractor. [See the docs here](https://monkeylearn.com/api/v3/#extract)",
+  "type": "action",
+  "version": "0.0.2"
+}

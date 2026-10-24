@@ -1,0 +1,7 @@
+{
+  "key": "klipfolio-create-datasource",
+  "name": "Create Datasource",
+  "description": "Create a data source. [See the documentation](https://apidocs.klipfolio.com/reference/data-sources#post-datasources)",
+  "type": "action",
+  "version": "0.0.2"
+}

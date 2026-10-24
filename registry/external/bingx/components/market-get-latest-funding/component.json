@@ -1,0 +1,7 @@
+{
+  "key": "bingx-market-get-latest-funding",
+  "name": "BingX Market Get Latest Funding",
+  "description": "Current Funding Rate [See the documentation](https://bingx-api.github.io/docs/#/swapV2/market-api.html#Current%20Funding%20Rate).",
+  "type": "action",
+  "version": "0.0.5"
+}

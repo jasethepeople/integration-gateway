@@ -1,0 +1,7 @@
+{
+  "key": "noticeable-email-subscription-created",
+  "name": "New Email Subscription Created Event",
+  "description": "Emit new events when a new email subscription created. [See the docs](https://graphdoc.noticeable.io/emailsubscription.doc.html)",
+  "type": "source",
+  "version": "0.0.1"
+}

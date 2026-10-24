@@ -1,0 +1,7 @@
+{
+  "key": "indiefunnels-create-contact",
+  "name": "Create Contact",
+  "description": "Creates a new Contact on your IndieFunnel website. [See the documentation](https://websitebuilder.docs.apiary.io/#reference/contacts/list-and-create/create-new-contact)",
+  "type": "action",
+  "version": "0.0.2"
+}

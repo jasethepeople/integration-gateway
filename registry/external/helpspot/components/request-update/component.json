@@ -1,0 +1,7 @@
+{
+  "key": "helpspot-request-update",
+  "name": "New Request Updated",
+  "description": "Emit new event when a request is updated.",
+  "type": "source",
+  "version": "0.0.2"
+}

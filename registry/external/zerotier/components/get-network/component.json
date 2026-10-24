@@ -1,0 +1,7 @@
+{
+  "key": "zerotier-get-network",
+  "name": "Get Network",
+  "description": "Get a specific network. Returns a single network. [See docs here](https://docs.zerotier.com/central/v1/#operation/getNetworkByID)",
+  "type": "action",
+  "version": "0.0.5"
+}

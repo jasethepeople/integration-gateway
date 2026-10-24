@@ -1,0 +1,7 @@
+{
+  "key": "freeagent-new-invoice",
+  "name": "New Invoice",
+  "description": "Emit new event when a new invoice is created. [See the documentation](https://dev.freeagent.com/docs/invoices#list-all-invoices).",
+  "type": "source",
+  "version": "0.0.1"
+}

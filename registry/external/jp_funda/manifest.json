@@ -1,0 +1,16 @@
+{
+  "app": "jp_funda",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "jp_funda-get-data-by-edinet-code",
+    "jp_funda-get-data-by-security-code",
+    "jp_funda-search-listings"
+  ]
+}

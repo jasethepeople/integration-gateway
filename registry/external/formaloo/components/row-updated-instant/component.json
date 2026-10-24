@@ -1,0 +1,7 @@
+{
+  "key": "formaloo-row-updated-instant",
+  "name": "Row Updated (Instant)",
+  "description": "Emit new event when a row is updated. [See the documentation](https://help.formaloo.com/en/articles/8568748-how-formaloo-webhook-works).",
+  "type": "source",
+  "version": "0.0.1"
+}

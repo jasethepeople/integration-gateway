@@ -1,0 +1,7 @@
+{
+  "key": "_302_ai-chat-with-302-ai",
+  "name": "Chat with 302.AI",
+  "description": "Send a message to the 302.AI Chat API. Ideal for dynamic conversations, contextual assistance, and creative generation. [See documentation](https://doc.302.ai/147522039e0)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "mailblaze-update-subscriber",
+  "name": "Update Subscriber",
+  "description": "Updates information for an existing subscriber in your mailing list. [See the documentation](https://www.mailblaze.com/support/api-documentation)",
+  "type": "action",
+  "version": "0.0.2"
+}

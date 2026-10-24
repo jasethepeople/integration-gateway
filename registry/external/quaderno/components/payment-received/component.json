@@ -1,0 +1,7 @@
+{
+  "key": "quaderno-payment-received",
+  "name": "New Payment Received",
+  "description": "Emit new event when a payment is successfully processed in Quaderno. [See the Documentation](https://developers.quaderno.io/api/#tag/Webhooks/operation/createWebhook).",
+  "type": "source",
+  "version": "0.0.1"
+}

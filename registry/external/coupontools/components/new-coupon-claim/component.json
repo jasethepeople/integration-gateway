@@ -1,0 +1,7 @@
+{
+  "key": "coupontools-new-coupon-claim",
+  "name": "New Coupon Claim",
+  "description": "Emit new event whenever a coupon has a new claim. [See the documentation](https://docs.coupontools.com/api/coupon#list-sessions)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "smstools-list-contact-number-options",
+  "name": "List Contact Number Options",
+  "description": "Retrieves available options for the Contact Number field.",
+  "type": "action",
+  "version": "0.0.1"
+}

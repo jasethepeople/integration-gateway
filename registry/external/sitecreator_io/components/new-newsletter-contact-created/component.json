@@ -1,0 +1,7 @@
+{
+  "key": "sitecreator_io-new-newsletter-contact-created",
+  "name": "New Newsletter Contact Created",
+  "description": "Emit new event when a new newsletter contact is added to a website. [See the docs here](http://api-doc.sitecreator.io/#tag/Contact/operation/getLeads)",
+  "type": "source",
+  "version": "0.0.1"
+}

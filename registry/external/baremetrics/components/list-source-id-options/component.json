@@ -1,0 +1,7 @@
+{
+  "key": "baremetrics-list-source-id-options",
+  "name": "List Source ID Options",
+  "description": "Retrieves available options for the Source ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

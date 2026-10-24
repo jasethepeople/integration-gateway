@@ -1,0 +1,7 @@
+{
+  "key": "sendloop-remove-subscriber",
+  "name": "Remove Subscriber",
+  "description": "Unsubscribe an email address from your lists.",
+  "type": "action",
+  "version": "0.0.2"
+}

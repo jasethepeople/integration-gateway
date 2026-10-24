@@ -1,0 +1,7 @@
+{
+  "key": "heylibby-list-qualified-leads",
+  "name": "List Qualified Leads",
+  "description": "List qualified leads.",
+  "type": "action",
+  "version": "0.0.2"
+}

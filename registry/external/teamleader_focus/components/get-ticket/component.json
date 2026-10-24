@@ -1,0 +1,7 @@
+{
+  "key": "teamleader_focus-get-ticket",
+  "name": "Get Ticket",
+  "description": "Get details for a single ticket. [See the documentation](https://developer.focus.teamleader.eu/docs/api/tickets-info)",
+  "type": "action",
+  "version": "0.0.1"
+}

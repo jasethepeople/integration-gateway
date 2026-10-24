@@ -1,0 +1,7 @@
+{
+  "key": "linkupapi-get-account-details",
+  "name": "Get Account Details",
+  "description": "Retrieve details (status, active flag, platform, associated LinkedIn identifier, timestamps) for a connected LinkupAPI account. [See the documentation](https://docs.linkupapi.com/api-reference/v2/accounts/get-account)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "talend-list-plan-execution-id-options",
+  "name": "List Plan Execution ID Options",
+  "description": "Retrieves available options for the Plan Execution ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

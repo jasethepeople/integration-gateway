@@ -1,0 +1,7 @@
+{
+  "key": "bamboohr-list-timesheets",
+  "name": "List Timesheets",
+  "description": "List timesheets with optional OData filtering and sorting. Status values are OPEN, PENDING_APPROVAL, APPROVED. Use returned IDs with **Get Timesheet** and **Approve Timesheet**. [See the documentation](https://documentation.bamboohr.com/reference/list-timesheets)",
+  "type": "action",
+  "version": "0.0.1"
+}

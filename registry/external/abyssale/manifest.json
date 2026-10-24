@@ -1,0 +1,28 @@
+{
+  "app": "abyssale",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "templateFormatName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "elements": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "abyssale-generate-image",
+    "abyssale-generate-multi-format-images-videos",
+    "abyssale-list-template-id-options"
+  ]
+}

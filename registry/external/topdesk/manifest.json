@@ -1,0 +1,202 @@
+{
+  "app": "topdesk",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "incidentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "knowledgeItemId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "operatorId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "personId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "categoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subcategoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "callTypeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "entryTypeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "impactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "urgencyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "priorityId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "durationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "slaId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "processingStatusId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "closureCodeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "locationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "branchId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "operatorGroupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "supplierId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "objectName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "briefDescription": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "request": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "action": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "actionInvisibleForCaller": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "externalNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "targetDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "onHold": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "responded": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "responseDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "completed": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "completedDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "closed": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "closedDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "majorCall": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "publishToSsd": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "optionalFields1": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "optionalFields2": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "inlineImages": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "forceImagesAsData": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "nonApiAttachmentUrls": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "topdesk-create-incident",
+    "topdesk-get-incident-actions-by-id",
+    "topdesk-get-incident-actions-by-number",
+    "topdesk-get-incident-progress-trail-by-id",
+    "topdesk-get-incident-progress-trail-by-number",
+    "topdesk-get-incident",
+    "topdesk-get-incidents",
+    "topdesk-get-knowledge-item-statuses",
+    "topdesk-get-knowledge-items",
+    "topdesk-list-branch-id-options",
+    "topdesk-list-call-type-id-options",
+    "topdesk-list-category-id-options",
+    "topdesk-list-closure-code-id-options",
+    "topdesk-list-duration-id-options",
+    "topdesk-list-entry-type-id-options",
+    "topdesk-list-impact-id-options",
+    "topdesk-list-location-id-options",
+    "topdesk-list-priority-id-options",
+    "topdesk-list-processing-status-id-options",
+    "topdesk-list-sla-id-options",
+    "topdesk-list-urgency-id-options",
+    "topdesk-update-incident",
+    "topdesk-incident-updated",
+    "topdesk-new-incident-assignee",
+    "topdesk-new-incident-created",
+    "topdesk-new-incident-group-assigned",
+    "topdesk-new-incident-memo-reply",
+    "topdesk-new-incident-reply",
+    "topdesk-new-incident-status"
+  ]
+}

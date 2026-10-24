@@ -1,0 +1,22 @@
+{
+  "app": "lexoffice",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "voucherId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "lexoffice-list-voucher-id-options",
+    "lexoffice-upload-a-file"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

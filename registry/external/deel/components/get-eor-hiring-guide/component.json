@@ -1,0 +1,7 @@
+{
+  "key": "deel-get-eor-hiring-guide",
+  "name": "Get EOR Hiring Guide",
+  "description": "Retrieve the mandatory fields, compliance requirements, and hiring constraints for creating an",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "timecamp-new-task",
+  "name": "New Task",
+  "description": "Emit new event on each created task.",
+  "type": "source",
+  "version": "0.0.3"
+}

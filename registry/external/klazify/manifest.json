@@ -1,0 +1,24 @@
+{
+  "app": "klazify",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "klazify-categorize-website",
+    "klazify-get-company-domain-info",
+    "klazify-get-domain-expiration",
+    "klazify-get-domain-tech-stack",
+    "klazify-get-logo",
+    "klazify-get-media-links-scraper",
+    "klazify-real-time-categorization"
+  ]
+}

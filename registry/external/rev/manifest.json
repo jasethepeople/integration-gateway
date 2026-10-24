@@ -1,0 +1,61 @@
+{
+  "app": "rev",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "externalLink": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "audioLength": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "videoLength": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "reference": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "notificationUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "notificationLevel": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "speakers": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "accents": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "outputFormat": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "rush": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "client_api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "user_api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "rev-create-automated-transcription-order-external-link",
+    "rev-create-caption-order-external-link",
+    "rev-create-transcription-order-external-link",
+    "rev-order-submitted"
+  ]
+}

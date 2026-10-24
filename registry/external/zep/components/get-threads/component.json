@@ -1,0 +1,7 @@
+{
+  "key": "zep-get-threads",
+  "name": "Get Threads",
+  "description": "Returns a paginated list of threads. [See the documentation](https://help.getzep.com/sdk-reference/thread/list-all)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,15 @@
+{
+  "app": "palavir_compliance",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "rapid_api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "palavir_compliance-screen-batch",
+    "palavir_compliance-screen-entity"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "the_magic_drip-new-template-created",
+  "name": "New Template Created",
+  "description": "Emit new event when a template is created. [See the documentation](https://docs.themagicdrip.com/api-reference/endpoint/get-v1templates)",
+  "type": "source",
+  "version": "0.0.1"
+}

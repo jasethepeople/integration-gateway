@@ -1,0 +1,18 @@
+{
+  "app": "labsmobile",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "email": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_token_or_password": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "labsmobile-send-sms"
+  ]
+}

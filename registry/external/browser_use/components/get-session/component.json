@@ -1,0 +1,7 @@
+{
+  "key": "browser_use-get-session",
+  "name": "Get Session",
+  "description": "Get the current state, output, live URL, screenshot URL, and cost details for an agent session. [See the documentation](https://docs.browser-use.com/cloud/api-v3/sessions/get-session)",
+  "type": "action",
+  "version": "0.0.1"
+}

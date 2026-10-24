@@ -1,0 +1,7 @@
+{
+  "key": "orderspace-list-payment-term-id-options",
+  "name": "List Payment Term ID Options",
+  "description": "Retrieves available options for the Payment Term ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

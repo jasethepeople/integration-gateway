@@ -1,0 +1,7 @@
+{
+  "key": "grafana-delete-dashboard",
+  "name": "Delete Dashboard",
+  "description": "Permanently delete a Grafana dashboard by UID.",
+  "type": "action",
+  "version": "0.0.3"
+}

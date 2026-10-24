@@ -1,0 +1,7 @@
+{
+  "key": "hubspot-search-crm-objects",
+  "name": "Search CRM Objects",
+  "description": "Search HubSpot CRM records (contacts, companies, deals, tickets, etc.) using text queries or filters.",
+  "type": "action",
+  "version": "0.0.9"
+}

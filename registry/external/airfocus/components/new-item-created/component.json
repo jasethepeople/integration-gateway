@@ -1,0 +1,7 @@
+{
+  "key": "airfocus-new-item-created",
+  "name": "New Item Created",
+  "description": "Emit new event when a fresh item is created.",
+  "type": "source",
+  "version": "0.1.0"
+}

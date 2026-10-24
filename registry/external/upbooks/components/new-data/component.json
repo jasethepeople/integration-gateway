@@ -1,0 +1,7 @@
+{
+  "key": "upbooks-new-data",
+  "name": "New Data Available",
+  "description": "Emit new event when fresh data is available for a specific collection.",
+  "type": "source",
+  "version": "0.0.1"
+}

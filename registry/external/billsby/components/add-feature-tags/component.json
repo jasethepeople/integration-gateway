@@ -1,0 +1,7 @@
+{
+  "key": "billsby-add-feature-tags",
+  "name": "Add Feature Tags",
+  "description": "Add feature tags to a subscription. [See the documentation](https://support.billsby.com/reference/post-subscription-tags)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,17 @@
+{
+  "app": "fullenrich",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "fullenrich-check-if-api-key-is-valid",
+    "fullenrich-enrich-contact",
+    "fullenrich-get-current-credit-balance",
+    "fullenrich-get-enrichment-result"
+  ]
+}

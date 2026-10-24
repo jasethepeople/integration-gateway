@@ -1,0 +1,7 @@
+{
+  "key": "numverify-validate-phone",
+  "name": "Validate Phone",
+  "description": "Validates a phone number. [See the documentation](https://numverify.com/documentation)",
+  "type": "action",
+  "version": "0.0.3"
+}

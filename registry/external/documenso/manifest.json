@@ -1,0 +1,33 @@
+{
+  "app": "documenso",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "documentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "documenso-add-recipient-to-document",
+    "documenso-create-document-from-template",
+    "documenso-list-document-id-options",
+    "documenso-list-template-id-options",
+    "documenso-send-document",
+    "documenso-new-document-completed",
+    "documenso-new-document-created",
+    "documenso-new-document-signed"
+  ]
+}

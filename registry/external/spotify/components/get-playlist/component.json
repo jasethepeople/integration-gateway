@@ -1,0 +1,7 @@
+{
+  "key": "spotify-get-playlist",
+  "name": "Get a Playlist",
+  "description": "Get a playlist owned by a Spotify user. [See the documentation](https://developer.spotify.com/documentation/web-api/reference/get-playlist).",
+  "type": "action",
+  "version": "0.0.9"
+}

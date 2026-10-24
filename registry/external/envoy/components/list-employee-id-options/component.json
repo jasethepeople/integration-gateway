@@ -1,0 +1,7 @@
+{
+  "key": "envoy-list-employee-id-options",
+  "name": "List Host Options",
+  "description": "Retrieves available options for the Host field.",
+  "type": "action",
+  "version": "0.0.1"
+}

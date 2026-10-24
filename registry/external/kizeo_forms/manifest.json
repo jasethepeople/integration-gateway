@@ -1,0 +1,43 @@
+{
+  "app": "kizeo_forms",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "formId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "action": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "format": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "exportFormat": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dataId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "exportId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "kizeo_forms-create-user",
+    "kizeo_forms-export-form-data-to-csv-or-excel",
+    "kizeo_forms-export-to-pdf",
+    "kizeo_forms-list-unread-form-data",
+    "kizeo_forms-new-form-data",
+    "kizeo_forms-new-form"
+  ]
+}

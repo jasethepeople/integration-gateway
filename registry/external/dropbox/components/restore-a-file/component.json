@@ -1,0 +1,7 @@
+{
+  "key": "dropbox-restore-a-file",
+  "name": "Restore a File",
+  "description": "Restores a previous file version. [See the documentation](https://dropbox.github.io/dropbox-sdk-js/Dropbox.html#filesRestore__anchor)",
+  "type": "action",
+  "version": "0.0.14"
+}

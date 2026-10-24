@@ -1,0 +1,7 @@
+{
+  "key": "mews-product-service-order-created",
+  "name": "New Product Service Order Created",
+  "description": "Emit new product service orders as they are created (polling). [See the documentation](https://mews-systems.gitbook.io/connector-api/operations/productserviceorders#get-all-product-service-orders)",
+  "type": "source",
+  "version": "0.0.3"
+}

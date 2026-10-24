@@ -1,0 +1,7 @@
+{
+  "key": "uipath_automation_hub-list-category-id-options",
+  "name": "List Category Id Options",
+  "description": "Retrieves available options for the Category Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

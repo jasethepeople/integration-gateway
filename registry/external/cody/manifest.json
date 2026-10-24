@@ -1,0 +1,37 @@
+{
+  "app": "cody",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contentMessage": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "botId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "conversationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "documentText": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "folderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "cody-create-document",
+    "cody-list-bot-id-options",
+    "cody-list-folder-id-options",
+    "cody-send-message"
+  ]
+}

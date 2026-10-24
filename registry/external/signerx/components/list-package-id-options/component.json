@@ -1,0 +1,7 @@
+{
+  "key": "signerx-list-package-id-options",
+  "name": "List Package ID Options",
+  "description": "Retrieves available options for the Package ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

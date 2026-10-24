@@ -1,0 +1,7 @@
+{
+  "key": "callpage-new-call-event",
+  "name": "New Call Event",
+  "description": "Emit new event when there is a new call event.",
+  "type": "source",
+  "version": "0.0.1"
+}

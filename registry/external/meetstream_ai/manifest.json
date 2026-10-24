@@ -1,0 +1,22 @@
+{
+  "app": "meetstream_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "botId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "meetstream_ai-create-bot",
+    "meetstream_ai-get-audio",
+    "meetstream_ai-get-bot-status",
+    "meetstream_ai-get-transcription",
+    "meetstream_ai-remove-bot"
+  ]
+}

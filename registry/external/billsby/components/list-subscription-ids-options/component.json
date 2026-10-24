@@ -1,0 +1,7 @@
+{
+  "key": "billsby-list-subscription-ids-options",
+  "name": "List Subscription IDs Options",
+  "description": "Retrieves available options for the Subscription IDs field.",
+  "type": "action",
+  "version": "0.0.1"
+}

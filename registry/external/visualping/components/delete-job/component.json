@@ -1,0 +1,7 @@
+{
+  "key": "visualping-delete-job",
+  "name": "Delete Job",
+  "description": "Permanently deletes a Visualping job by id. This stops monitoring and",
+  "type": "action",
+  "version": "0.1.0"
+}

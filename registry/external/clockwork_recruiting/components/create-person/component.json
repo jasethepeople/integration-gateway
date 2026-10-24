@@ -1,0 +1,7 @@
+{
+  "key": "clockwork_recruiting-create-person",
+  "name": "Create A Person",
+  "description": "Create a new person with provided data. [See the documentation](https://app.swaggerhub.com/apis-docs/clockwork-recruiting/cw-public-api/3.0.0#/People/post_people)",
+  "type": "action",
+  "version": "0.0.2"
+}

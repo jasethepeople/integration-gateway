@@ -1,0 +1,7 @@
+{
+  "key": "zoho_sign-document-signed",
+  "name": "New Document Signed",
+  "description": "Emit new event when a document has received a successful signature from all the required parties.",
+  "type": "source",
+  "version": "0.0.1"
+}

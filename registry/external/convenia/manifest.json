@@ -1,0 +1,31 @@
+{
+  "app": "convenia",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "employeeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "absenceMotiveId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "absenceTypeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "convenia-create-leave-of-absence-for-employee",
+    "convenia-list-absence-motive-id-options",
+    "convenia-list-absence-type-id-options",
+    "convenia-list-employee-id-options",
+    "convenia-new-dismissal",
+    "convenia-new-vacation-request"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "ninjaone-update-device",
+  "name": "Update Device",
+  "description": "Update details for a specific device in NinjaOne. [See the documentation](https://app.ninjarmm.com/apidocs/?links.active=core)",
+  "type": "action",
+  "version": "0.0.2"
+}

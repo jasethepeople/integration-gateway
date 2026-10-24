@@ -1,0 +1,7 @@
+{
+  "key": "peakon_employee_voice-delete-employee",
+  "name": "Delete Employee",
+  "description": "Permanently deletes an employee record from Peakon. This action is irreversible — ",
+  "type": "action",
+  "version": "0.0.2"
+}

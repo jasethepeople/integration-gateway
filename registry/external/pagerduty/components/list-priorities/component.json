@@ -1,0 +1,7 @@
+{
+  "key": "pagerduty-list-priorities",
+  "name": "List Priorities",
+  "description": "List the priority levels configured for this PagerDuty account.",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "acelle_mail-create-customer",
+  "name": "Create Customer",
+  "description": "Creates a customer. [See the documentation](https://api.acellemail.com/#backend_customers)",
+  "type": "action",
+  "version": "0.0.3"
+}

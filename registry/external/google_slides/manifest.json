@@ -1,0 +1,102 @@
+{
+  "app": "google_slides",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "presentationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "staticPresentationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "staticSlideId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pageElementId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "rowIndex": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "columnIndex": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "startIndex": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "endIndex": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "backgroundColor": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "backgroundOpacity": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "contentAlignment": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "layoutId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "slideId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shapeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tableId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "google_slides-create-image",
+    "google_slides-create-page-element",
+    "google_slides-create-presentation",
+    "google_slides-create-slide",
+    "google_slides-create-table",
+    "google_slides-delete-page-element",
+    "google_slides-delete-slide",
+    "google_slides-delete-table-column",
+    "google_slides-delete-table-row",
+    "google_slides-find-presentation",
+    "google_slides-format-paragraph",
+    "google_slides-format-shape",
+    "google_slides-format-slide-background",
+    "google_slides-format-table-cell",
+    "google_slides-format-text",
+    "google_slides-get-presentation",
+    "google_slides-insert-table-columns",
+    "google_slides-insert-table-rows",
+    "google_slides-insert-text-into-table",
+    "google_slides-insert-text",
+    "google_slides-merge-data",
+    "google_slides-position-element",
+    "google_slides-refresh-chart",
+    "google_slides-replace-all-text",
+    "google_slides-new-presentation"
+  ],
+  "npmImports": [
+    "@googleapis/slides",
+    "uuid"
+  ]
+}

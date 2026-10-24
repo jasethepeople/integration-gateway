@@ -1,0 +1,7 @@
+{
+  "key": "product_hunt-new-product-upvoted",
+  "name": "New Product Upvoted",
+  "description": "Emit new event when a user upvotes a product.",
+  "type": "source",
+  "version": "0.0.1"
+}

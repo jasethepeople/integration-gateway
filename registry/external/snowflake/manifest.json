@@ -1,0 +1,74 @@
+{
+  "app": "snowflake",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "database": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "schema": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tableName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "columns": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "values": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emitIndividualEvents": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "warehouses": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "users": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "session": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "snowflake-execute-sql-query-in-session",
+    "snowflake-execute-sql-query",
+    "snowflake-insert-multiple-rows",
+    "snowflake-insert-row",
+    "snowflake-list-database-options",
+    "snowflake-list-users-options",
+    "snowflake-list-warehouses-options",
+    "snowflake-start-sql-session",
+    "snowflake-change-to-warehouse",
+    "snowflake-deleted-role",
+    "snowflake-deleted-user",
+    "snowflake-failed-task-in-schema",
+    "snowflake-new-database",
+    "snowflake-new-role",
+    "snowflake-new-row",
+    "snowflake-new-schema",
+    "snowflake-new-table",
+    "snowflake-new-user",
+    "snowflake-query-results",
+    "snowflake-updated-role",
+    "snowflake-updated-user",
+    "snowflake-usage-monitor"
+  ],
+  "npmImports": [
+    "crypto",
+    "lodash-es",
+    "snowflake-sdk",
+    "util",
+    "uuid"
+  ]
+}

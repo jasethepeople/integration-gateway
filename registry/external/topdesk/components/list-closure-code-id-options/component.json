@@ -1,0 +1,7 @@
+{
+  "key": "topdesk-list-closure-code-id-options",
+  "name": "List Closure Code ID Options",
+  "description": "Retrieves available options for the Closure Code ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

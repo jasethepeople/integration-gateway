@@ -1,0 +1,7 @@
+{
+  "key": "highlevel_oauth-new-contact-created",
+  "name": "New Contact Created",
+  "description": "Emit new event when a new contact is created. [See the documentation](https://marketplace.gohighlevel.com/docs/ghl/contacts/get-contacts)",
+  "type": "source",
+  "version": "0.0.3"
+}

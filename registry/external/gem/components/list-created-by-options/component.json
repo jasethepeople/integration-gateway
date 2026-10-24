@@ -1,0 +1,7 @@
+{
+  "key": "gem-list-created-by-options",
+  "name": "List Created By Options",
+  "description": "Retrieves available options for the Created By field.",
+  "type": "action",
+  "version": "0.0.1"
+}

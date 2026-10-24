@@ -1,0 +1,7 @@
+{
+  "key": "prodpad-update-company",
+  "name": "Update Company",
+  "description": "Updates a company. [See the docs](https://app.swaggerhub.com/apis-docs/ProdPad/prodpad/1.0#/Feedback/PutCompany).",
+  "type": "action",
+  "version": "0.0.2"
+}

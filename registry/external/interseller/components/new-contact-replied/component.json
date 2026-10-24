@@ -1,0 +1,7 @@
+{
+  "key": "interseller-new-contact-replied",
+  "name": "New Contact Replied",
+  "description": "Emit new event when a contact is replied.",
+  "type": "source",
+  "version": "0.0.1"
+}

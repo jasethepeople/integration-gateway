@@ -1,0 +1,125 @@
+{
+  "app": "booking_experts",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "administrationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ownerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "administrationChannelId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "bookingId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "channelId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "rentableTypeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "reservationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "guestId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "masterPriceListId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "inventoryObjectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "rentableId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "rentableSegmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "amenityId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "discountCampaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "perPage": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "sort": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fields": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "include": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "amenityGroupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "booking_experts-add-guest-to-reservation",
+    "booking_experts-create-agenda-period",
+    "booking_experts-delete-guest",
+    "booking_experts-get-amenity",
+    "booking_experts-get-booking",
+    "booking_experts-get-complex-prices",
+    "booking_experts-get-guest",
+    "booking_experts-get-rentable-type",
+    "booking_experts-get-reservation",
+    "booking_experts-list-administration-id-options",
+    "booking_experts-list-amenities",
+    "booking_experts-list-amenity-group-id-options",
+    "booking_experts-list-amenity-id-options",
+    "booking_experts-list-availabilities",
+    "booking_experts-list-bookings",
+    "booking_experts-list-channel-id-options",
+    "booking_experts-list-guests",
+    "booking_experts-list-inventory-objects",
+    "booking_experts-list-rentable-segment-id-options",
+    "booking_experts-list-rentable-types",
+    "booking_experts-list-rentabletype-availabilities",
+    "booking_experts-list-reservations",
+    "booking_experts-search-contacts",
+    "booking_experts-update-guest",
+    "booking_experts-booking-updated",
+    "booking_experts-inventory-object-updated",
+    "booking_experts-new-booking-created",
+    "booking_experts-new-inventory-object-created"
+  ]
+}

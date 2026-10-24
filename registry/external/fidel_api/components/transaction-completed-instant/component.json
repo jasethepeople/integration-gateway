@@ -1,0 +1,7 @@
+{
+  "key": "fidel_api-transaction-completed-instant",
+  "name": "New Transaction Completed (Instant)",
+  "description": "Emit new event when a transaction is completed using a card linked to the Fidel API.",
+  "type": "source",
+  "version": "0.0.1"
+}

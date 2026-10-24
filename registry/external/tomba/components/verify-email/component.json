@@ -1,0 +1,7 @@
+{
+  "key": "tomba-verify-email",
+  "name": "Verify Email",
+  "description": "Verify the deliverability of an email address. [See the documentation](https://docs.tomba.io/api/verifier#email-verifier)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "toggl-new-webhook-event",
+  "name": "New Webhook Event (Instant)",
+  "description": "Emit new event on receive a webhook event. [See docs here](https://github.com/toggl/toggl_api_docs/blob/master/webhooks.md)",
+  "type": "source",
+  "version": "0.0.5"
+}

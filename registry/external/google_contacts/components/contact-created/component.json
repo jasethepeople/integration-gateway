@@ -1,0 +1,7 @@
+{
+  "key": "google_contacts-contact-created",
+  "name": "New Contact Created",
+  "description": "Emit new event when a new contact is created. [See the documentation](https://developers.google.com/people/api/rest/v1/people.connections/list)",
+  "type": "source",
+  "version": "0.0.5"
+}

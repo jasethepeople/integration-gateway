@@ -1,0 +1,7 @@
+{
+  "key": "gitlab-list-groups",
+  "name": "List Groups",
+  "description": "List all groups. [See the documentation](https://docs.gitlab.com/api/groups/#list-groups)",
+  "type": "action",
+  "version": "0.0.2"
+}

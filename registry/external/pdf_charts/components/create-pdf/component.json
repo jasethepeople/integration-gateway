@@ -1,0 +1,7 @@
+{
+  "key": "pdf_charts-create-pdf",
+  "name": "Create PDF",
+  "description": "Create a PDF document using PDF Charts. [See the documentation](https://www.pdf-charts.com/playground)",
+  "type": "action",
+  "version": "0.0.2"
+}

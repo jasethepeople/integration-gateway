@@ -1,0 +1,7 @@
+{
+  "key": "surecart-delete-product",
+  "name": "Delete Product",
+  "description": "Delete a product by ID. [See the documentation](https://developer.surecart.com/api-reference/products/delete)",
+  "type": "action",
+  "version": "0.0.1"
+}

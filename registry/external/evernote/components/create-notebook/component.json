@@ -1,0 +1,7 @@
+{
+  "key": "evernote-create-notebook",
+  "name": "Create Notebook",
+  "description": "Creates a new notebook in Evernote. [See the documentation](https://dev.evernote.com/doc/reference/NoteStore.html#Fn_NoteStore_createNotebook)",
+  "type": "action",
+  "version": "0.0.4"
+}

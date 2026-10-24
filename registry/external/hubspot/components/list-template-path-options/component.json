@@ -1,0 +1,7 @@
+{
+  "key": "hubspot-list-template-path-options",
+  "name": "List Template Path Options",
+  "description": "Retrieves available options for the Template Path field.",
+  "type": "action",
+  "version": "0.0.4"
+}

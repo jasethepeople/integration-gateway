@@ -1,0 +1,7 @@
+{
+  "key": "wufoo-list-form-hash-options",
+  "name": "List Form Hash Options",
+  "description": "Retrieves available options for the Form Hash field.",
+  "type": "action",
+  "version": "0.0.1"
+}

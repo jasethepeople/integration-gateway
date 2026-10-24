@@ -1,0 +1,23 @@
+{
+  "app": "apollo_io_oauth",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "apollo_io_oauth-add-contacts-to-sequence",
+    "apollo_io_oauth-create-or-update-account",
+    "apollo_io_oauth-create-or-update-contact",
+    "apollo_io_oauth-create-or-update-opportunity",
+    "apollo_io_oauth-enrich-person",
+    "apollo_io_oauth-get-current-user",
+    "apollo_io_oauth-get-opportunity",
+    "apollo_io_oauth-list-metadata",
+    "apollo_io_oauth-search-accounts",
+    "apollo_io_oauth-search-contacts"
+  ]
+}

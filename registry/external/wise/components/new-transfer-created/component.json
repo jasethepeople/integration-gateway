@@ -1,0 +1,7 @@
+{
+  "key": "wise-new-transfer-created",
+  "name": "New Transfer Created (Instant)",
+  "description": "Emit new event for a transfer created.",
+  "type": "source",
+  "version": "0.0.5"
+}

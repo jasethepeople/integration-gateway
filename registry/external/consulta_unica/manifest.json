@@ -1,0 +1,28 @@
+{
+  "app": "consulta_unica",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "curp": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "rfc": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phoneNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "consulta_unica-get-afore-details",
+    "consulta_unica-lookup-phone-number",
+    "consulta_unica-validate-rfc"
+  ]
+}

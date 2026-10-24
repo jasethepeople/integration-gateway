@@ -1,0 +1,47 @@
+{
+  "app": "yanado",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "listId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "assigneeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "statusId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dueDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "yanado-create-task",
+    "yanado-find-tasks",
+    "yanado-list-list-id-options",
+    "yanado-update-task",
+    "yanado-changed-task-status",
+    "yanado-new-task"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "klaxoon-create-board",
+  "name": "Create Board",
+  "description": "Creates a board. [See the documentation](https://developers.klaxoon.com/reference/v1boardpost)",
+  "type": "action",
+  "version": "0.0.2"
+}

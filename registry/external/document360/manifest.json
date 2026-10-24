@@ -1,0 +1,49 @@
+{
+  "app": "document360",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectVersionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "categoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "folderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fileId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "articleId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "langCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "document360-create-document",
+    "document360-drive-search-files-and-folders",
+    "document360-get-article",
+    "document360-get-file-information",
+    "document360-list-folder-id-options",
+    "document360-list-project-version-id-options",
+    "document360-list-user-id-options",
+    "document360-new-article-in-project-version"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "app": "anonyflow",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "data": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "keys": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "anonyflow-protect-sensitive-data",
+    "anonyflow-unprotect-sensitive-data"
+  ]
+}

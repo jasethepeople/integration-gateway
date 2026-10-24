@@ -1,0 +1,7 @@
+{
+  "key": "niceboard-new-job-alert",
+  "name": "New Job Alert",
+  "description": "Emit new event when a new job alert email subscription is created",
+  "type": "source",
+  "version": "0.0.1"
+}

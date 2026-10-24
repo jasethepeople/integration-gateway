@@ -1,0 +1,7 @@
+{
+  "key": "anchor_browser-list-profile-name-options",
+  "name": "List Profile Name Options",
+  "description": "Retrieves available options for the Profile Name field.",
+  "type": "action",
+  "version": "0.0.1"
+}

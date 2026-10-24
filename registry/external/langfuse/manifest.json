@@ -1,0 +1,49 @@
+{
+  "app": "langfuse",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "objectType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "objectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "traceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "region": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "langfuse-add-feedback",
+    "langfuse-get-trace-by-id",
+    "langfuse-list-observations",
+    "langfuse-list-project-id-options",
+    "langfuse-list-scores",
+    "langfuse-list-sessions",
+    "langfuse-log-trace",
+    "langfuse-new-score-received",
+    "langfuse-new-trace-received"
+  ],
+  "npmImports": [
+    "uuid"
+  ]
+}

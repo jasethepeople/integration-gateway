@@ -1,0 +1,7 @@
+{
+  "key": "statuscake-new-uptime",
+  "name": "New Uptime",
+  "description": "Emit new event for each uptime created.",
+  "type": "source",
+  "version": "0.0.3"
+}

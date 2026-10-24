@@ -1,0 +1,7 @@
+{
+  "key": "_21risk-new-auditor",
+  "name": "New Auditor Created",
+  "description": "Emit new event when a new auditor is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

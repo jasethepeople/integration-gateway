@@ -1,0 +1,7 @@
+{
+  "key": "bybit-linear-market-query-kline",
+  "name": "ByBit Linear Market Query Kline",
+  "description": "Get kline.[reference](https://bybit-exchange.github.io/docs/futuresV2/linear/#t-querykline)",
+  "type": "action",
+  "version": "0.0.2"
+}

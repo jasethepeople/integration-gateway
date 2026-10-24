@@ -1,0 +1,7 @@
+{
+  "key": "clearout-get-domain-mx",
+  "name": "Get Domain MX",
+  "description": "Get a domain MX. [See the documentation](https://docs.clearout.io/api-misc.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

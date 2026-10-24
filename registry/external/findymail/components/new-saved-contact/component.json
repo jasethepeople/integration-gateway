@@ -1,0 +1,7 @@
+{
+  "key": "findymail-new-saved-contact",
+  "name": "New Saved Contact",
+  "description": "Emit new event when a new contact is saved.",
+  "type": "source",
+  "version": "0.0.1"
+}

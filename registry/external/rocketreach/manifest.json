@@ -1,0 +1,15 @@
+{
+  "app": "rocketreach",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "rocketreach-lookup-company",
+    "rocketreach-lookup-profile"
+  ]
+}

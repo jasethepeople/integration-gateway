@@ -1,0 +1,7 @@
+{
+  "key": "proabono-create-subscription",
+  "name": "Create Subscription",
+  "description": "Initializes a new subscription for a customer in the ProAbono system. [See the documentation](https://docs.proabono.com/api/#create-a-subscription)",
+  "type": "action",
+  "version": "0.0.2"
+}

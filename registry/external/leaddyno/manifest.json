@@ -1,0 +1,40 @@
+{
+  "app": "leaddyno",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "leadId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "leadEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "affiliate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "affiliateCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "leaddyno-create-affiliate",
+    "leaddyno-create-lead",
+    "leaddyno-create-purchase",
+    "leaddyno-list-affiliate-code-options",
+    "leaddyno-list-affiliate-options",
+    "leaddyno-list-lead-email-options",
+    "leaddyno-list-lead-id-options",
+    "leaddyno-retrieve-lead",
+    "leaddyno-new-affiliates",
+    "leaddyno-new-leads",
+    "leaddyno-new-purchases"
+  ]
+}

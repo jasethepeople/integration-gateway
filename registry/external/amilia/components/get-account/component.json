@@ -1,0 +1,7 @@
+{
+  "key": "amilia-get-account",
+  "name": "Get Account",
+  "description": "Get an (client) account in your organization. [See the docs here](https://www.amilia.com/ApiDocs/v3org#GetAnAccount)",
+  "type": "action",
+  "version": "0.0.2"
+}

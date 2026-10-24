@@ -1,0 +1,7 @@
+{
+  "key": "modeck-render-complete",
+  "name": "New Render Completed",
+  "description": "Emit new event when a render is completed.",
+  "type": "source",
+  "version": "0.0.1"
+}

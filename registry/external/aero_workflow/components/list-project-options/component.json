@@ -1,0 +1,7 @@
+{
+  "key": "aero_workflow-list-project-options",
+  "name": "List Project Options",
+  "description": "Retrieves available options for the Project field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "twitch-get-top-games",
+  "name": "Get Top Games",
+  "description": "Gets games sorted by number of current viewers on Twitch, most popular first",
+  "type": "action",
+  "version": "0.1.5"
+}

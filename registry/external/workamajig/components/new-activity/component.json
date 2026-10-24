@@ -1,0 +1,7 @@
+{
+  "key": "workamajig-new-activity",
+  "name": "New Activity",
+  "description": "Emit new event when a new open activity is created in Workamajig. Note: Completed activities/conversations are not retrieved by the Workamajig API.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "intuiface-available-experiences",
+  "name": "List Available Experiences",
+  "description": "Get a list of available experiences that can receive a message. [See the docs](https://my.intuiface.com/api-doc/#/default/getExperiences).",
+  "type": "action",
+  "version": "0.0.2"
+}

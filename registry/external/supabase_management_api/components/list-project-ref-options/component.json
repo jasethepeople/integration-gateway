@@ -1,0 +1,7 @@
+{
+  "key": "supabase_management_api-list-project-ref-options",
+  "name": "List Project Reference Options",
+  "description": "Retrieves available options for the Project Reference field.",
+  "type": "action",
+  "version": "0.0.1"
+}

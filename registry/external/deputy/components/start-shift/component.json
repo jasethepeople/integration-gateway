@@ -1,0 +1,7 @@
+{
+  "key": "deputy-start-shift",
+  "name": "Start Shift",
+  "description": "Starts a work shift for a specified employee in Deputy. [See the documentation](https://developer.deputy.com/deputy-docs/reference/startanemployeestimesheetclockon)",
+  "type": "action",
+  "version": "0.0.2"
+}

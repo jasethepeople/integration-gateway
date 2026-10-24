@@ -1,0 +1,7 @@
+{
+  "key": "insightly-create-contact",
+  "name": "Create Contact",
+  "description": "Creates a new contact. [See documentation](https://api.insightly.com/v3.1/Help?#!/Contacts/AddEntity)",
+  "type": "action",
+  "version": "0.0.2"
+}

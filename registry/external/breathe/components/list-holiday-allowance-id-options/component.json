@@ -1,0 +1,7 @@
+{
+  "key": "breathe-list-holiday-allowance-id-options",
+  "name": "List Holiday Allowance ID Options",
+  "description": "Retrieves available options for the Holiday Allowance ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

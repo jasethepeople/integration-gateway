@@ -1,0 +1,7 @@
+{
+  "key": "easyship-create-shipment",
+  "name": "Create Shipment",
+  "description": "Create a new shipment in Easyship. [See the docs](https://developers.easyship.com/reference/shipments_create)",
+  "type": "action",
+  "version": "0.0.2"
+}

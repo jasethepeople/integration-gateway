@@ -1,0 +1,7 @@
+{
+  "key": "spotify-list-category-id-options",
+  "name": "List Category ID Options",
+  "description": "List Spotify browse categories, as `{ label, value }` options where `value` is the category ID (e.g. `party`).",
+  "type": "action",
+  "version": "0.0.4"
+}

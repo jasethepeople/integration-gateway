@@ -1,0 +1,7 @@
+{
+  "key": "tawk_to-new-chat-started-instant",
+  "name": "New Chat Started (Instant)",
+  "description": "Emit new event when the first message in a chat is sent by a visitor or agent.",
+  "type": "source",
+  "version": "0.0.1"
+}

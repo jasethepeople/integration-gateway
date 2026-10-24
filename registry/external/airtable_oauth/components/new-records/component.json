@@ -1,0 +1,7 @@
+{
+  "key": "airtable_oauth-new-records",
+  "name": "New Record(s) Created (Instant)",
+  "description": "Emit new event for each new record in a table",
+  "type": "source",
+  "version": "1.0.6"
+}

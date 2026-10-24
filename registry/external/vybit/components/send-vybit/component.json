@@ -1,0 +1,7 @@
+{
+  "key": "vybit-send-vybit",
+  "name": "Send Vybit",
+  "description": "Triggers a vybit, with optional customizations available. [See the documentation](https://www.vybit.net/#trigger)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "productive_io-create-contact",
+  "name": "Create Contact",
+  "description": "Creates a new contact entry in Productive.io. [See the documentation](https://developer.productive.io/contact_entries.html#contact-entries-contact-entries-post)",
+  "type": "action",
+  "version": "0.0.2"
+}

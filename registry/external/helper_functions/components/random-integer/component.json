@@ -1,0 +1,7 @@
+{
+  "key": "helper_functions-random-integer",
+  "name": "Random Integer",
+  "description": "Generate a random integer (whole number). Useful for random delays.",
+  "type": "action",
+  "version": "0.0.2"
+}

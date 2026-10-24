@@ -1,0 +1,7 @@
+{
+  "key": "parma-new-relationship",
+  "name": "New Relationship Created",
+  "description": "Emit new event when a new relationship is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

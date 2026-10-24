@@ -1,0 +1,7 @@
+{
+  "key": "rollbar-delete-a-project",
+  "name": "Delete a Project",
+  "description": "Deletes a project in Rollbar. [See the documentation](https://docs.rollbar.com/reference/delete-a-project)",
+  "type": "action",
+  "version": "0.0.2"
+}

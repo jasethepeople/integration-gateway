@@ -1,0 +1,30 @@
+{
+  "app": "mctime",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "organizationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timeType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mctime-list-organization-id-options",
+    "mctime-list-user-id-options",
+    "mctime-start-clocking",
+    "mctime-stop-clocking",
+    "mctime-new-time-entry-started"
+  ]
+}

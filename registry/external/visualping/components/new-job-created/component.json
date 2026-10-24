@@ -1,0 +1,7 @@
+{
+  "key": "visualping-new-job-created",
+  "name": "New Job Created",
+  "description": "Emit new event for each new job created.",
+  "type": "source",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "wp_maps-create-product",
+  "name": "Create Product",
+  "description": "Creates a new product in WP Maps. [See the documentation](https://support.agilelogix.com/hc/en-us/articles/900006795363-API-Access-Points#create-product)",
+  "type": "action",
+  "version": "0.0.2"
+}

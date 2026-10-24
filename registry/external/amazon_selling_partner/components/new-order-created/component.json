@@ -1,0 +1,7 @@
+{
+  "key": "amazon_selling_partner-new-order-created",
+  "name": "New Order Created",
+  "description": "Emit new event when a new order is created in Amazon Seller Central. [See the documentation](https://developer-docs.amazon.com/sp-api/reference/getorders)",
+  "type": "source",
+  "version": "0.0.3"
+}

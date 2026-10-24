@@ -1,0 +1,7 @@
+{
+  "key": "mindbody-list-session-types",
+  "name": "List Session Types",
+  "description": "Returns all bookable session types (services) available at the studio, including their IDs, names, and program associations.",
+  "type": "action",
+  "version": "0.0.3"
+}

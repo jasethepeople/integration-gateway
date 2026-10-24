@@ -1,0 +1,7 @@
+{
+  "key": "vc_deal_flow_signal-get-engineering-signals",
+  "name": "Get Engineering Signals",
+  "description": "Return every startup that emitted an engineering signal (deploy spike, infra buildout, framework migration, hiring burst). Optional filter by signal type.",
+  "type": "action",
+  "version": "0.0.2"
+}

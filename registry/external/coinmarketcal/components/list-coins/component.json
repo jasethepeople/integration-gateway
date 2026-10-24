@@ -1,0 +1,7 @@
+{
+  "key": "coinmarketcal-list-coins",
+  "name": "List Coins",
+  "description": "Obtain a list of all available coins in CoinMarketCal. [See the docs here](https://coinmarketcal.com/en/doc/redoc#/paths/~1categories/get)",
+  "type": "action",
+  "version": "0.0.2"
+}

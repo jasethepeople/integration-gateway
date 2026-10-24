@@ -1,0 +1,7 @@
+{
+  "key": "freshdesk-list-canned-response-folder-id-options",
+  "name": "List Canned Response Folder ID Options",
+  "description": "Retrieves available options for the Canned Response Folder ID field.",
+  "type": "action",
+  "version": "0.0.3"
+}

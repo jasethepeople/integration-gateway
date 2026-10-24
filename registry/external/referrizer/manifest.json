@@ -1,0 +1,64 @@
+{
+  "app": "referrizer",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "loyaltyRewardId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "expires": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "itemId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "itemName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "points": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "quantityTotal": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "quantityPerContact": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "startDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "referrizer-create-loyalty-reward",
+    "referrizer-create-visit",
+    "referrizer-list-contact-id-options",
+    "referrizer-list-loyalty-reward-id-options",
+    "referrizer-update-loyalty-reward",
+    "referrizer-new-loyalty-reward-created",
+    "referrizer-new-loyalty-reward-redeemed"
+  ]
+}

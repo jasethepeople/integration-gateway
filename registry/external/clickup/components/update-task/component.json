@@ -1,0 +1,7 @@
+{
+  "key": "clickup-update-task",
+  "name": "Update Task",
+  "description": "Update a task. [See the documentation](https://clickup.com/api) in **Tasks / Update Task** section.",
+  "type": "action",
+  "version": "0.0.14"
+}

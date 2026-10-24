@@ -1,0 +1,7 @@
+{
+  "key": "emailoctopus-new-subscriber",
+  "name": "New Subscriber",
+  "description": "Emit new event when a new subscriber created.",
+  "type": "source",
+  "version": "0.0.2"
+}

@@ -1,0 +1,37 @@
+{
+  "app": "adobe_pdf_services",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "filePath": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "filename": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "syncDir": {
+      "kind": "propDefinition",
+      "type": "dir"
+    },
+    "client_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "client_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "adobe_pdf_services-extract-text-and-tables",
+    "adobe_pdf_services-extract-text-from-pdf"
+  ],
+  "npmImports": [
+    "@adobe/pdfservices-node-sdk",
+    "fs",
+    "node:stream",
+    "path"
+  ]
+}

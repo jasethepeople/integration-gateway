@@ -1,0 +1,16 @@
+{
+  "app": "streamlabs",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "streamlabs-create-donation",
+    "streamlabs-send-alert",
+    "streamlabs-send-test-alert"
+  ]
+}

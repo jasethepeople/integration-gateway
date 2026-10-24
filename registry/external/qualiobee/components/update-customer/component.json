@@ -1,0 +1,7 @@
+{
+  "key": "qualiobee-update-customer",
+  "name": "Update Customer",
+  "description": "Update a customer in Qualiobee. [See the documentation](https://app.qualiobee.fr/api/doc/#/Customer/PublicCustomerController_updateOne)",
+  "type": "action",
+  "version": "0.0.1"
+}

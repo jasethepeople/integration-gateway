@@ -1,0 +1,7 @@
+{
+  "key": "mergemole-list-templates",
+  "name": "List Templates",
+  "description": "Retrieve a list of all templates under your account. [See the documentation](https://documenter.getpostman.com/view/41321603/2sB2j3AWqz#f75d7ffa-df2e-42ca-ad32-1db280acb9e2)",
+  "type": "action",
+  "version": "0.0.2"
+}

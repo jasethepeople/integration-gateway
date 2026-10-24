@@ -1,0 +1,7 @@
+{
+  "key": "aircall-list-contacts",
+  "name": "List Contacts",
+  "description": "List contacts. [See the documentation](https://developer.aircall.io/api-references/#list-all-contacts)",
+  "type": "action",
+  "version": "0.0.1"
+}

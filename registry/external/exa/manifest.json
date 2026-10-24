@@ -1,0 +1,177 @@
+{
+  "app": "exa",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "urls": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "ids": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "numResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "category": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "includeDomains": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "excludeDomains": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "startCrawlDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endCrawlDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startPublishedDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endPublishedDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "includeText": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "excludeText": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "moderation": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "text": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "highlights": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "highlightsMaxCharacters": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "highlightsQuery": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "summary": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "summaryQuery": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "summarySchema": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "outputSchema": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "systemPrompt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "additionalQueries": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "userLocation": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contentsHighlights": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "maxAgeHours": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "livecrawlTimeout": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "subpages": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "subpageTarget": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "extrasLinks": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "extrasImageLinks": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "textMaxCharacters": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "textIncludeHtmlTags": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "textVerbosity": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "textIncludeSections": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "textExcludeSections": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "excludeSourceDomain": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "exa-answer-question",
+    "exa-find-similar-links",
+    "exa-get-contents",
+    "exa-search"
+  ]
+}

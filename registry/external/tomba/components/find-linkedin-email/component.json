@@ -1,0 +1,7 @@
+{
+  "key": "tomba-find-linkedin-email",
+  "name": "Find LinkedIn Email",
+  "description": "Generate or retrieve the most likely email address from a LinkedIn URL. [See the documentation](https://docs.tomba.io/api/finder#linkedin-finder)",
+  "type": "action",
+  "version": "0.0.1"
+}

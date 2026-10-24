@@ -1,0 +1,7 @@
+{
+  "key": "smstools-add-contact",
+  "name": "Add Contact to Group",
+  "description": "Adds a new contact to an existing contact list. [See the documentation](https://www.smstools.com/en/sms-gateway-api/add_contact)",
+  "type": "action",
+  "version": "0.0.2"
+}

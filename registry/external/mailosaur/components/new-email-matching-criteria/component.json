@@ -1,0 +1,7 @@
+{
+  "key": "mailosaur-new-email-matching-criteria",
+  "name": "New Email Matching Criteria",
+  "description": "Emit new event when a message matching specific criteria is received. [See the documentation](https://mailosaur.com/docs/api#search-for-messages)",
+  "type": "source",
+  "version": "0.0.1"
+}

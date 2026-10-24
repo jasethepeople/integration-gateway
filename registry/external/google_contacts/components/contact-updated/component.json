@@ -1,0 +1,7 @@
+{
+  "key": "google_contacts-contact-updated",
+  "name": "Contact Updated",
+  "description": "Emit new event when a contact is updated. [See the documentation](https://developers.google.com/people/api/rest/v1/people.connections/list)",
+  "type": "source",
+  "version": "0.0.5"
+}

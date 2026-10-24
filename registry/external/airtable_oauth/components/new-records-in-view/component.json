@@ -1,0 +1,7 @@
+{
+  "key": "airtable_oauth-new-records-in-view",
+  "name": "New Records in View",
+  "description": "Emit new event for each new record in a view",
+  "type": "source",
+  "version": "0.0.15"
+}

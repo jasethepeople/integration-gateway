@@ -1,0 +1,33 @@
+{
+  "app": "google_forms",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "formId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "formResponseId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "google_forms-create-form",
+    "google_forms-create-text-question",
+    "google_forms-get-form-response",
+    "google_forms-get-form",
+    "google_forms-list-form-responses",
+    "google_forms-update-form-title",
+    "google_forms-new-form-answer-update",
+    "google_forms-new-form-answer"
+  ]
+}

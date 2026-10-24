@@ -1,0 +1,7 @@
+{
+  "key": "sendgrid-list-segment-ids-options",
+  "name": "List Segment Ids Options",
+  "description": "Retrieves available options for the Segment Ids field.",
+  "type": "action",
+  "version": "0.0.1"
+}

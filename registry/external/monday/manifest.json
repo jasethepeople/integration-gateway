@@ -1,0 +1,116 @@
+{
+  "app": "monday",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "boardId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "boardIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "workspaceIds": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "boardName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "boardKind": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "folderId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "workspaceId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "groupName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "itemName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "columnValues": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "itemCreateLabels": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "updateBody": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "itemId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "updateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "column": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "monday-create-board",
+    "monday-create-column",
+    "monday-create-group",
+    "monday-create-item",
+    "monday-create-subitem",
+    "monday-create-update",
+    "monday-get-board-items-page",
+    "monday-get-column-values",
+    "monday-get-items-by-column-value",
+    "monday-list-board-id-options",
+    "monday-list-board-ids-options",
+    "monday-list-boards",
+    "monday-list-columns",
+    "monday-list-updates",
+    "monday-list-workspace-id-options",
+    "monday-list-workspace-ids-options",
+    "monday-update-column-values",
+    "monday-update-item-name",
+    "monday-column-value-updated",
+    "monday-name-updated",
+    "monday-new-board",
+    "monday-new-item",
+    "monday-new-subitem-update",
+    "monday-new-subitem",
+    "monday-new-user",
+    "monday-specific-column-updated",
+    "monday-subitem-column-value-updated",
+    "monday-subitem-name-updated"
+  ],
+  "npmImports": [
+    "@mondaydotcomorg/api",
+    "form-data",
+    "lodash.flatmap",
+    "lodash.map",
+    "lodash.uniqby"
+  ]
+}

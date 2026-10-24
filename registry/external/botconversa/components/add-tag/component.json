@@ -1,0 +1,7 @@
+{
+  "key": "botconversa-add-tag",
+  "name": "Add Tag",
+  "description": "Add tags to a specific subscriber. [See the documentation](https://backend.botconversa.com.br/swagger/)",
+  "type": "action",
+  "version": "0.0.2"
+}

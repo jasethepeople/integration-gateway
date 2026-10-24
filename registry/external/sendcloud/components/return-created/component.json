@@ -1,0 +1,7 @@
+{
+  "key": "sendcloud-return-created",
+  "name": "New Return Created",
+  "description": "Emit new event each time a return is created.",
+  "type": "source",
+  "version": "0.0.2"
+}

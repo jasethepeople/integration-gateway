@@ -1,0 +1,7 @@
+{
+  "key": "shorten_rest-get-clicks",
+  "name": "Get Clicks",
+  "description": "Gets the click data. [See the documentation](https://docs.shorten.rest/#tag/Click/operation/GetClicks)",
+  "type": "action",
+  "version": "0.0.2"
+}

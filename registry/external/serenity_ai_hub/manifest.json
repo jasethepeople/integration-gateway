@@ -1,0 +1,25 @@
+{
+  "app": "serenity_ai_hub",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "agentCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "culture": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "serenity_ai_hub-execute-agent",
+    "serenity_ai_hub-get-all-agents",
+    "serenity_ai_hub-get-initial-conversation-info",
+    "serenity_ai_hub-list-agent-code-options"
+  ]
+}

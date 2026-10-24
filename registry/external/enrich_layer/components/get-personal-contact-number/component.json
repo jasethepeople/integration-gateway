@@ -1,0 +1,7 @@
+{
+  "key": "enrich_layer-get-personal-contact-number",
+  "name": "Get Personal Contact Number",
+  "description": "Find personal phone numbers associated with a given social media profile. Cost: 1 credit per contact number returned. [See the documentation](https://enrichlayer.com/docs/api/v2/contact-api/personal-contact-number-lookup).",
+  "type": "action",
+  "version": "0.0.2"
+}

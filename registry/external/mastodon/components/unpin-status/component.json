@@ -1,0 +1,7 @@
+{
+  "key": "mastodon-unpin-status",
+  "name": "Unpin Status from Profile",
+  "description": "Unfeature a status from the top of your profile. [See the docs here](https://docs.joinmastodon.org/methods/statuses/#unpin)",
+  "type": "action",
+  "version": "0.0.3"
+}

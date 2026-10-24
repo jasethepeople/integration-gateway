@@ -1,0 +1,120 @@
+{
+  "app": "prodpad",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "city": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "externalId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "externalUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companySize": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyValue": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "feedback": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tagId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "personaId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobroleId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "statusId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "feedbackId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ideaId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "prodpad-create-company",
+    "prodpad-create-contact",
+    "prodpad-create-feedback",
+    "prodpad-create-idea",
+    "prodpad-find-company",
+    "prodpad-find-contact",
+    "prodpad-find-feedback",
+    "prodpad-find-idea",
+    "prodpad-find-or-create-company",
+    "prodpad-find-or-create-contact",
+    "prodpad-find-or-create-feedback",
+    "prodpad-list-company-id-options",
+    "prodpad-list-contact-id-options",
+    "prodpad-list-feedback-id-options",
+    "prodpad-list-idea-id-options",
+    "prodpad-list-jobrole-id-options",
+    "prodpad-list-persona-id-options",
+    "prodpad-list-product-id-options",
+    "prodpad-list-status-id-options",
+    "prodpad-list-tag-id-options",
+    "prodpad-update-company",
+    "prodpad-update-contact",
+    "prodpad-update-feedback",
+    "prodpad-update-idea-stage",
+    "prodpad-new-company-created",
+    "prodpad-new-contact-created",
+    "prodpad-new-feedback-created",
+    "prodpad-new-idea-created",
+    "prodpad-new-idea-feedback-created",
+    "prodpad-new-persona-created",
+    "prodpad-new-product-created",
+    "prodpad-new-tag-created",
+    "prodpad-new-user-story-created",
+    "prodpad-pushed-idea",
+    "prodpad-pushed-user-story"
+  ]
+}

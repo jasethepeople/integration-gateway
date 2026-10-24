@@ -1,0 +1,7 @@
+{
+  "key": "harpa_ai-search-the-web",
+  "name": "Search the Web",
+  "description": "Search the web. [See the documentation](https://harpa.ai/grid/grid-rest-api-reference#search-the-web)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "evernote-new-note",
+  "name": "New Note Created",
+  "description": "Emit new event when a note is created in Evernote.",
+  "type": "source",
+  "version": "0.0.3"
+}

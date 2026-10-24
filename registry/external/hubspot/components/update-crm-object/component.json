@@ -1,0 +1,7 @@
+{
+  "key": "hubspot-update-crm-object",
+  "name": "Update CRM Object",
+  "description": "Update an existing CRM record by ID.",
+  "type": "action",
+  "version": "0.0.8"
+}

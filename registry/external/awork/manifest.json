@@ -1,0 +1,19 @@
+{
+  "app": "awork",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "awork-create-client",
+    "awork-create-project",
+    "awork-find-users-by-email",
+    "awork-new-task",
+    "awork-new-time-entry",
+    "awork-new-updated-time-entry"
+  ]
+}

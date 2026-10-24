@@ -1,0 +1,7 @@
+{
+  "key": "dropbox-rename-file-folder",
+  "name": "Rename a File/Folder",
+  "description": "Renames a file or folder in the user's Dropbox [See the documentation](https://dropbox.github.io/dropbox-sdk-js/Dropbox.html#filesMoveV2__anchor)",
+  "type": "action",
+  "version": "0.0.14"
+}

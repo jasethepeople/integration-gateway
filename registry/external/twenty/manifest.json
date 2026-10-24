@@ -1,0 +1,24 @@
+{
+  "app": "twenty",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "recordId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "actionType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "twenty-create-update-delete-record",
+    "twenty-list-record-id-options",
+    "twenty-new-record-modified-instant"
+  ]
+}

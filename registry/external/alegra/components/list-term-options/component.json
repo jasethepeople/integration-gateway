@@ -1,0 +1,7 @@
+{
+  "key": "alegra-list-term-options",
+  "name": "List Term Options",
+  "description": "Retrieves available options for the Term field.",
+  "type": "action",
+  "version": "0.0.1"
+}

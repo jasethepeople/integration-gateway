@@ -1,0 +1,41 @@
+{
+  "app": "cloud_convert",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "conversionType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "include": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "filename": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "cloud_convert-convert-file",
+    "cloud_convert-create-archive",
+    "cloud_convert-create-import-url-task",
+    "cloud_convert-create-job",
+    "cloud_convert-create-merge-files-to-pdf-job",
+    "cloud_convert-get-task",
+    "cloud_convert-job-failed-instant",
+    "cloud_convert-job-finished-instant",
+    "cloud_convert-new-job-instant"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

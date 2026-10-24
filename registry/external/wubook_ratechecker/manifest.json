@@ -1,0 +1,30 @@
+{
+  "app": "wubook_ratechecker",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "competitorId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "stayId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "length": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "wubook_ratechecker-add-manual-snapshot",
+    "wubook_ratechecker-get-monitored-competitors",
+    "wubook_ratechecker-get-stays",
+    "wubook_ratechecker-new-competitor-added",
+    "wubook_ratechecker-new-stay-created"
+  ]
+}

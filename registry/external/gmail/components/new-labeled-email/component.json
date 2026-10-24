@@ -1,0 +1,7 @@
+{
+  "key": "gmail-new-labeled-email",
+  "name": "New Labeled Email",
+  "description": "Emit new event when a new email is labeled.",
+  "type": "source",
+  "version": "0.1.9"
+}

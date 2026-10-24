@@ -1,0 +1,7 @@
+{
+  "key": "lamini-get-job-status",
+  "name": "New Job Status",
+  "description": "Emit new events with the status of a training job. [See the documentation](https://docs.lamini.ai/api/).",
+  "type": "source",
+  "version": "0.0.2"
+}

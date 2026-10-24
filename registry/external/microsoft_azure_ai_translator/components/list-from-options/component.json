@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_azure_ai_translator-list-from-options",
+  "name": "List Input Language Options",
+  "description": "Retrieves available options for the Input Language field.",
+  "type": "action",
+  "version": "0.0.1"
+}

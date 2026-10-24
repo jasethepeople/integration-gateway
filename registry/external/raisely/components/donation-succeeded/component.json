@@ -1,0 +1,7 @@
+{
+  "key": "raisely-donation-succeeded",
+  "name": "Donation Succeeded",
+  "description": "Emit new event when a donation has succeeded.",
+  "type": "source",
+  "version": "0.0.1"
+}

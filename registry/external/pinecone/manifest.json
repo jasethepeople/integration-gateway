@@ -1,0 +1,46 @@
+{
+  "app": "pinecone",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "indexName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "prefix": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "namespace": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "vectorId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "vectorValues": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "vectorMetadata": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pinecone-delete-vectors",
+    "pinecone-fetch-vectors",
+    "pinecone-list-index-name-options",
+    "pinecone-query-ids",
+    "pinecone-update-vector",
+    "pinecone-upsert-vector"
+  ],
+  "npmImports": [
+    "qs"
+  ]
+}

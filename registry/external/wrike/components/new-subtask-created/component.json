@@ -1,0 +1,7 @@
+{
+  "key": "wrike-new-subtask-created",
+  "name": "New Subtask Created",
+  "description": "Emit new event when a subtask is created",
+  "type": "source",
+  "version": "0.0.3"
+}

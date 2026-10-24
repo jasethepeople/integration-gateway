@@ -1,0 +1,7 @@
+{
+  "key": "nationbuilder-create-membership",
+  "name": "Create Membership",
+  "description": "Create a new membership with the provided data. [See the documentation](https://nationbuilder.com/memberships_api)",
+  "type": "action",
+  "version": "0.0.2"
+}

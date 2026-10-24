@@ -1,0 +1,7 @@
+{
+  "key": "shortcut-list-workflow-state-id-options",
+  "name": "List Workflow State ID Options",
+  "description": "Retrieves available options for the Workflow State ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

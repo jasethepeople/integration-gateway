@@ -1,0 +1,7 @@
+{
+  "key": "ragie-new-document",
+  "name": "New Ragie Document Created",
+  "description": "Emit new event whenever a new document is created in Ragie. [See the documentation](https://docs.ragie.ai/reference/listdocuments)",
+  "type": "source",
+  "version": "0.0.2"
+}

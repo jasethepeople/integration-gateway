@@ -1,0 +1,7 @@
+{
+  "key": "pubrio-search-technologies",
+  "name": "Search Technologies",
+  "description": "Search available technologies by keyword. [See the documentation](https://docs.pubrio.com/en/api-reference/endpoint/technologies/technologies)",
+  "type": "action",
+  "version": "0.0.1"
+}

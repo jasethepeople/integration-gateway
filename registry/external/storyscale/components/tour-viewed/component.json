@@ -1,0 +1,7 @@
+{
+  "key": "storyscale-tour-viewed",
+  "name": "Tour Viewed",
+  "description": "Emit new event when a tour is viewed. [See the documentation](https://prodapi.storyscale.com/api/documentation)",
+  "type": "source",
+  "version": "0.0.1"
+}

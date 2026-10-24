@@ -1,0 +1,7 @@
+{
+  "key": "tomba-find-author",
+  "name": "Find Author",
+  "description": "Generate or retrieve the most likely email address from a blog post URL. [See the documentation](https://docs.tomba.io/api/finder#author-finder)",
+  "type": "action",
+  "version": "0.0.1"
+}

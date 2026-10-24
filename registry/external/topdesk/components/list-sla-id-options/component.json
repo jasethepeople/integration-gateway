@@ -1,0 +1,7 @@
+{
+  "key": "topdesk-list-sla-id-options",
+  "name": "List SLA ID Options",
+  "description": "Retrieves available options for the SLA ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

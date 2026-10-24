@@ -1,0 +1,7 @@
+{
+  "key": "buildkite-list-build-artifacts",
+  "name": "List Build Artifacts",
+  "description": "Returns a list of artifacts for a build. [See the documentation](https://buildkite.com/docs/apis/rest-api/artifacts#list-artifacts-for-a-build)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "elevenlabs-text-to-speech",
+  "name": "Text To Speech",
+  "description": "Retrieve an audio file. [See the documentation](https://docs.elevenlabs.io/api-reference/text-to-speech)",
+  "type": "action",
+  "version": "0.0.6"
+}

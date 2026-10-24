@@ -1,0 +1,16 @@
+{
+  "app": "lodgify",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "lodgify-booking-change-instant",
+    "lodgify-message-received-in-thread-instant",
+    "lodgify-new-booked-booking-instant"
+  ]
+}

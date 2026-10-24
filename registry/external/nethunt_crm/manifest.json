@@ -1,0 +1,35 @@
+{
+  "app": "nethunt_crm",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "folderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recordId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email_address": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "nethunt_crm-add-gmail-thread-to-record",
+    "nethunt_crm-create-comment",
+    "nethunt_crm-create-record",
+    "nethunt_crm-find-record",
+    "nethunt_crm-get-record",
+    "nethunt_crm-list-folder-id-options",
+    "nethunt_crm-update-record",
+    "nethunt_crm-comment-created",
+    "nethunt_crm-new-record-created",
+    "nethunt_crm-record-updated"
+  ]
+}

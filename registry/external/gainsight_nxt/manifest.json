@@ -1,0 +1,25 @@
+{
+  "app": "gainsight_nxt",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "objectName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customer_domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "access_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "gainsight_nxt-create-or-update-company",
+    "gainsight_nxt-create-or-update-custom-object",
+    "gainsight_nxt-create-or-update-person",
+    "gainsight_nxt-list-object-name-options"
+  ]
+}

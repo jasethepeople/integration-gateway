@@ -1,0 +1,63 @@
+{
+  "app": "krispcall",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "number": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "company": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "address": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fromNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "toNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "content": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "medias": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "contactIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "krispcall-add-contact",
+    "krispcall-delete-contact",
+    "krispcall-list-contact-ids-options",
+    "krispcall-list-from-number-options",
+    "krispcall-new-mms",
+    "krispcall-new-sms",
+    "krispcall-new-call-instant",
+    "krispcall-new-contact-instant",
+    "krispcall-new-sms-or-mms-instant",
+    "krispcall-new-voicemail-instant"
+  ]
+}

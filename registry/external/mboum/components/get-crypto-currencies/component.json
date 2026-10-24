@@ -1,0 +1,7 @@
+{
+  "key": "mboum-get-crypto-currencies",
+  "name": "Get Crypto Currencies",
+  "description": "Get crypto currencies. [See the documentation](https://docs.mboum.com/#crypto-GETapi-v1-crypto-coins)",
+  "type": "action",
+  "version": "0.0.2"
+}

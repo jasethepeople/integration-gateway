@@ -1,0 +1,7 @@
+{
+  "key": "cal_com-booking-cancelled",
+  "name": "Booking Cancelled",
+  "description": "Emit new event when a booking is cancelled.",
+  "type": "source",
+  "version": "1.0.0"
+}

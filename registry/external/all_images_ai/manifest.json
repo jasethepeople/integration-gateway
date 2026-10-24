@@ -1,0 +1,27 @@
+{
+  "app": "all_images_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "imageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "imageGenerationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "all_images_ai-buy-image",
+    "all_images_ai-generate-images-advanced",
+    "all_images_ai-get-image-generation",
+    "all_images_ai-list-image-generation-id-options",
+    "all_images_ai-list-image-id-options",
+    "all_images_ai-new-generation-image-update-instant"
+  ]
+}

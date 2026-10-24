@@ -1,0 +1,7 @@
+{
+  "key": "freshdesk-get-canned-response",
+  "name": "Get Canned Response",
+  "description": "View a Canned Response. [See the documentation](https://developers.freshdesk.com/api/#view_a_canned_response)",
+  "type": "action",
+  "version": "0.0.8"
+}

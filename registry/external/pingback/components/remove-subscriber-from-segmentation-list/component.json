@@ -1,0 +1,7 @@
+{
+  "key": "pingback-remove-subscriber-from-segmentation-list",
+  "name": "Remove Subscriber From Segmentation List",
+  "description": "Remove a subscriber from a segmentation list by email [See the documentation](https://developer.pingback.com/docs/api/remove-subscriber-from-segment)",
+  "type": "action",
+  "version": "0.0.2"
+}

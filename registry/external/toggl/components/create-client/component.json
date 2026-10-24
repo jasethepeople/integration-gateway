@@ -1,0 +1,7 @@
+{
+  "key": "toggl-create-client",
+  "name": "Create Client",
+  "description": "Create a new client in Toggl. [See the documentation](https://engineering.toggl.com/docs/api/clients#post-create-client)",
+  "type": "action",
+  "version": "0.0.3"
+}

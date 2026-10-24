@@ -1,0 +1,7 @@
+{
+  "key": "social_fetch-search-tiktok-shop-products",
+  "name": "Search TikTok Shop Products",
+  "description": "Searches TikTok Shop for product listings matching a query. [See the documentation](https://app.socialfetch.dev/playground?path=/v1/tiktok/shop/products/search&method=GET)",
+  "type": "action",
+  "version": "0.0.1"
+}

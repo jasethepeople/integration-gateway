@@ -1,0 +1,7 @@
+{
+  "key": "dealmachine-new-lead",
+  "name": "New Lead",
+  "description": "Emit new event when a new lead is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

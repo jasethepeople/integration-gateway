@@ -1,0 +1,18 @@
+{
+  "app": "membado",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "user_identifier": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "membado-add-remove-tags"
+  ]
+}

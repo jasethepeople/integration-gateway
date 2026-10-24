@@ -1,0 +1,7 @@
+{
+  "key": "resource_guru-list-resource-ids-options",
+  "name": "List Resource Ids Options",
+  "description": "Retrieves available options for the Resource Ids field.",
+  "type": "action",
+  "version": "0.0.1"
+}

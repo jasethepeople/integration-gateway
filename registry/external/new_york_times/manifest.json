@@ -1,0 +1,17 @@
+{
+  "app": "new_york_times",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "new_york_times-new-article"
+  ],
+  "npmImports": [
+    "moment"
+  ]
+}

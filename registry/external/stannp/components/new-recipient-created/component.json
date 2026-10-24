@@ -1,0 +1,7 @@
+{
+  "key": "stannp-new-recipient-created",
+  "name": "New Recipient Created",
+  "description": "Emit new event when a new recipient is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "streak-link-boxes",
+  "name": "Link Boxes",
+  "description": "The list of boxes you would like to link to the selected box",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zoho_inventory-list-vendor-id-options",
+  "name": "List Vendor Options",
+  "description": "Retrieves available options for the Vendor field.",
+  "type": "action",
+  "version": "0.0.1"
+}

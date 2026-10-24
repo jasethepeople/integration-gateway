@@ -1,0 +1,7 @@
+{
+  "key": "kanban_tool-new-card-type",
+  "name": "New Card Type Created Event",
+  "description": "Emit new events when a new card type is created on selected board. [See the docs](https://kanbantool.com/developer/api-v3#fetching-boards-details)",
+  "type": "source",
+  "version": "0.0.1"
+}

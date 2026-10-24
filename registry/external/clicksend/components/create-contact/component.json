@@ -1,0 +1,7 @@
+{
+  "key": "clicksend-create-contact",
+  "name": "Create Contact",
+  "description": "Creates a new contact in a specific list. [See the documentation](https://developers.clicksend.com/docs/rest/v3/#create-new-contact)",
+  "type": "action",
+  "version": "0.0.3"
+}

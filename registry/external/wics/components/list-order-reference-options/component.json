@@ -1,0 +1,7 @@
+{
+  "key": "wics-list-order-reference-options",
+  "name": "List Order Reference Options",
+  "description": "Retrieves available options for the Order Reference field.",
+  "type": "action",
+  "version": "0.0.1"
+}

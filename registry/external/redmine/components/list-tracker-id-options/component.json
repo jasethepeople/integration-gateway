@@ -1,0 +1,7 @@
+{
+  "key": "redmine-list-tracker-id-options",
+  "name": "List Tracker ID Options",
+  "description": "Retrieves available options for the Tracker ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

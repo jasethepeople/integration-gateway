@@ -1,0 +1,7 @@
+{
+  "key": "kontent_ai-list-collection-id-options",
+  "name": "List Collection Id Options",
+  "description": "Retrieves available options for the Collection Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

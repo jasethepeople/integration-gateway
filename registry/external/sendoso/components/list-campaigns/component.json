@@ -1,0 +1,7 @@
+{
+  "key": "sendoso-list-campaigns",
+  "name": "List Campaigns",
+  "description": "Retrieve a list of all campaigns with optional filters. [See the documentation](https://developer.sendoso.com/rest-api/reference/campaigns/get-campaigns)",
+  "type": "action",
+  "version": "0.0.1"
+}

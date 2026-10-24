@@ -1,0 +1,7 @@
+{
+  "key": "lever-list-users",
+  "name": "List Users",
+  "description": "Returns all users (recruiters, hiring managers, admins) in the Lever account.",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "upgrade_chat-product-updated",
+  "name": "Product Updated",
+  "description": "Emit new event when a product is updated. [See the documentation](https://upgrade.chat/developers/documentation)",
+  "type": "source",
+  "version": "0.0.1"
+}

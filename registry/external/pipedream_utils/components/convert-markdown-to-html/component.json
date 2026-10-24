@@ -1,0 +1,7 @@
+{
+  "key": "pipedream_utils-convert-markdown-to-html",
+  "name": "Formatting - [Text] Convert Markdown to HTML",
+  "description": "Convert Markdown text to HTML",
+  "type": "action",
+  "version": "0.0.8"
+}

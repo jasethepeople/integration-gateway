@@ -1,0 +1,7 @@
+{
+  "key": "mailersend-recipient-unsubscribed",
+  "name": "New Recipient Unsubscribed (Instant)",
+  "description": "Emit new event when the recipient unsubscribes from your emails. [See the documentation](https://developers.mailersend.com/api/v1/webhooks.html#webhooks-overview)",
+  "type": "source",
+  "version": "0.0.1"
+}

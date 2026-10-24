@@ -1,0 +1,7 @@
+{
+  "key": "callingly-update-lead",
+  "name": "Update Lead",
+  "description": "Updates an existing lead in Callingly. [See the documentation](https://help.callingly.com/article/38-callingly-api-documentation#Update-Agent-sx_cL)",
+  "type": "action",
+  "version": "0.0.1"
+}

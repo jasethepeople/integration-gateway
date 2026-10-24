@@ -1,0 +1,46 @@
+{
+  "app": "crowdstrike_falcon",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "fqlFilter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "offset": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "sort": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "deviceIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "base_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "crowdstrike_falcon-get-alert",
+    "crowdstrike_falcon-get-host",
+    "crowdstrike_falcon-get-rtr-command-status",
+    "crowdstrike_falcon-manage-host-containment",
+    "crowdstrike_falcon-run-rtr-command",
+    "crowdstrike_falcon-search-alerts",
+    "crowdstrike_falcon-search-hosts",
+    "crowdstrike_falcon-host-status-changed",
+    "crowdstrike_falcon-new-alert"
+  ]
+}

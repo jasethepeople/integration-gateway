@@ -1,0 +1,7 @@
+{
+  "key": "upsales-create-opportunity",
+  "name": "Create Opportunity",
+  "description": "Creates a new opportunity in Upsales. [See the documentation](https://api.upsales.com/#4dc98812-812d-4c4c-8594-3348e05e9742)",
+  "type": "action",
+  "version": "0.0.1"
+}

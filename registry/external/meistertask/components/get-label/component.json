@@ -1,0 +1,7 @@
+{
+  "key": "meistertask-get-label",
+  "name": "Get Label",
+  "description": "Retrieves information about a label. [See the docs](https://developers.meistertask.com/reference/get-label)",
+  "type": "action",
+  "version": "0.0.2"
+}

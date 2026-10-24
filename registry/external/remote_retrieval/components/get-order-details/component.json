@@ -1,0 +1,7 @@
+{
+  "key": "remote_retrieval-get-order-details",
+  "name": "Get Order Details",
+  "description": "Get the details of the specified order. [See the documentation](https://www.remoteretrieval.com/api-integration/#order-detail)",
+  "type": "action",
+  "version": "0.0.3"
+}

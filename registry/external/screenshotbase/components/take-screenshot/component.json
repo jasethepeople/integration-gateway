@@ -1,0 +1,7 @@
+{
+  "key": "screenshotbase-take-screenshot",
+  "name": "Take a Screenshot",
+  "description": "Take a screenshot with ScreenshotBase. [See the documentation](https://screenshotbase.com/docs/take)",
+  "type": "action",
+  "version": "0.0.1"
+}

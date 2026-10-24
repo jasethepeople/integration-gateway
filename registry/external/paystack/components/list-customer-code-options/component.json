@@ -1,0 +1,7 @@
+{
+  "key": "paystack-list-customer-code-options",
+  "name": "List Customer Code Options",
+  "description": "Retrieves available options for the Customer Code field.",
+  "type": "action",
+  "version": "0.0.1"
+}

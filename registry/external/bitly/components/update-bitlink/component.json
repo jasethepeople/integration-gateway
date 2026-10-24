@@ -1,0 +1,7 @@
+{
+  "key": "bitly-update-bitlink",
+  "name": "Update Bitlink",
+  "description": "Updates fields in the specified link",
+  "type": "action",
+  "version": "0.0.2"
+}

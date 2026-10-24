@@ -1,0 +1,39 @@
+{
+  "app": "botpenguin",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "prefix": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "botpenguin-add-whatsapp-contact",
+    "botpenguin-list-contact-id-options",
+    "botpenguin-send-whatsapp-message",
+    "botpenguin-update-contact-attributes",
+    "botpenguin-new-contact-created",
+    "botpenguin-new-incoming-message"
+  ]
+}

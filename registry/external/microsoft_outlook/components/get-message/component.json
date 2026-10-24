@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_outlook-get-message",
+  "name": "Get Message",
+  "description": "Fetch a single email message by its Microsoft Graph message ID, including full body and optional attachments.",
+  "type": "action",
+  "version": "0.0.7"
+}

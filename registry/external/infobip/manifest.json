@@ -1,0 +1,56 @@
+{
+  "app": "infobip",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "applicationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "entityId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "resourceKey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phoneNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "text": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "from": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "to": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "messageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "base_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "infobip-list-application-id-options",
+    "infobip-list-entity-id-options",
+    "infobip-send-sms",
+    "infobip-send-viber-text-message",
+    "infobip-send-whatsapp-text-message",
+    "infobip-new-sms-message-instant",
+    "infobip-new-whatsapp-message-instant"
+  ]
+}

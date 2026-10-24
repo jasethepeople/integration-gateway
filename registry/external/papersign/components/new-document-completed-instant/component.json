@@ -1,0 +1,7 @@
+{
+  "key": "papersign-new-document-completed-instant",
+  "name": "New Document Completed (Instant)",
+  "description": "Emit new event when a document is completed, i.e., all signers have signed.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,31 @@
+{
+  "app": "azure_sql",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "table": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "column": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "requestTimeout": {
+      "kind": "propDefinition",
+      "type": "integer"
+    }
+  },
+  "categories": [],
+  "components": [
+    "azure_sql-execute-query",
+    "azure_sql-execute-raw-query",
+    "azure_sql-insert-row",
+    "azure_sql-list-table-options",
+    "azure_sql-new-column",
+    "azure_sql-new-or-updated-row"
+  ],
+  "npmImports": [
+    "mssql",
+    "uuid"
+  ]
+}

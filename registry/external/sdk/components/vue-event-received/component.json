@@ -1,0 +1,7 @@
+{
+  "key": "sdk-vue-event-received",
+  "name": "Vue",
+  "description": "Emit a new event via the Vue Pipedream SDK.",
+  "type": "source",
+  "version": "0.0.2"
+}

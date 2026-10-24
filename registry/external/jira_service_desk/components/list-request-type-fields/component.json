@@ -1,0 +1,7 @@
+{
+  "key": "jira_service_desk-list-request-type-fields",
+  "name": "List Request Type Fields",
+  "description": "Lists the fields a given request type accepts, so you can build the `additionalFieldValues` argument for **Create Request** in a single pass.",
+  "type": "action",
+  "version": "0.0.7"
+}

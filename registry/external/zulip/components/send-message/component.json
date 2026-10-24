@@ -1,0 +1,7 @@
+{
+  "key": "zulip-send-message",
+  "name": "Send Message",
+  "description": "Send a direct or channel message. [See the documentation](https://zulip.com/api/send-message)",
+  "type": "action",
+  "version": "0.0.2"
+}

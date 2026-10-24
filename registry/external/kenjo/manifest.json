@@ -1,0 +1,46 @@
+{
+  "app": "kenjo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "employeeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timeOffTypeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "officeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "departmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "kenjo-create-attendance-entry",
+    "kenjo-create-employee",
+    "kenjo-create-leave-request",
+    "kenjo-list-company-id-options",
+    "kenjo-list-department-id-options",
+    "kenjo-list-employee-id-options",
+    "kenjo-list-time-off-type-id-options",
+    "kenjo-new-company-created",
+    "kenjo-new-employee-created"
+  ]
+}

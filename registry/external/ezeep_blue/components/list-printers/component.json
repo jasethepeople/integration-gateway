@@ -1,0 +1,7 @@
+{
+  "key": "ezeep_blue-list-printers",
+  "name": "List Printers",
+  "description": "Retrieve a list of all available printers in the network. [See the documentation](https://apidocs.ezeep.com/ezeepblue/api/rest_api/printers/README.html#list-printers)",
+  "type": "action",
+  "version": "0.0.2"
+}

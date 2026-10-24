@@ -1,0 +1,34 @@
+{
+  "app": "brave_search_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "q": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "searchLang": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "uiLang": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "safesearch": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "brave_search_api-web-search"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pipedream-list-apps",
+  "name": "List Apps",
+  "description": "List all available Pipedream apps. [See the documentation](https://pipedream.com/docs/rest-api/api-reference/apps/list-apps)",
+  "type": "action",
+  "version": "0.0.1"
+}

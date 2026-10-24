@@ -1,0 +1,7 @@
+{
+  "key": "booking_experts-list-administration-id-options",
+  "name": "List Administration ID Options",
+  "description": "Retrieves available options for the Administration ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

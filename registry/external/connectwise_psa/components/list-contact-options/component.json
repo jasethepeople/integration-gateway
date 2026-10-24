@@ -1,0 +1,7 @@
+{
+  "key": "connectwise_psa-list-contact-options",
+  "name": "List Contact Options",
+  "description": "Retrieves available options for the Contact field.",
+  "type": "action",
+  "version": "0.0.1"
+}

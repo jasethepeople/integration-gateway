@@ -1,0 +1,19 @@
+{
+  "app": "google_ad_manager",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "network": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "google_ad_manager-create-report",
+    "google_ad_manager-list-network-options"
+  ]
+}

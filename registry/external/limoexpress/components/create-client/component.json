@@ -1,0 +1,7 @@
+{
+  "key": "limoexpress-create-client",
+  "name": "Create Client",
+  "description": "Creates a new client with specified details. [See the documentation](https://api.limoexpress.me/api/docs/v1#/Clients/createAOrganisationClient)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "baremetrics-create-subscription",
+  "name": "Create Subscription",
+  "description": "Subscribe a client to a plan. [See the documentation](https://developers.baremetrics.com/reference/create-subscription)",
+  "type": "action",
+  "version": "0.0.2"
+}

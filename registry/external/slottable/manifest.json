@@ -1,0 +1,15 @@
+{
+  "app": "slottable",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "slottable-booking-contact-updated",
+    "slottable-contact-updated"
+  ]
+}

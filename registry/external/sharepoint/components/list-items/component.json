@@ -1,0 +1,7 @@
+{
+  "key": "sharepoint-list-items",
+  "name": "List Items",
+  "description": "Get the collection of items in a SharePoint list, including their field values. Supports OData filtering and field selection. [See the documentation](https://learn.microsoft.com/en-us/graph/api/listitem-list?view=graph-rest-1.0&tabs=http)",
+  "type": "action",
+  "version": "0.0.1"
+}

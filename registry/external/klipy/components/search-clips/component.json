@@ -1,0 +1,7 @@
+{
+  "key": "klipy-search-clips",
+  "name": "Search Clips",
+  "description": "Search and retrieve clips from Klipy's database. [See the documentation](https://docs.klipy.com/clips-api/clips-search-api)",
+  "type": "action",
+  "version": "0.0.2"
+}

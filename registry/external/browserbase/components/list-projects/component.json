@@ -1,0 +1,7 @@
+{
+  "key": "browserbase-list-projects",
+  "name": "List Projects",
+  "description": "Lists all projects. [See the documentation](https://docs.browserbase.com/reference/api/list-projects)",
+  "type": "action",
+  "version": "0.0.2"
+}

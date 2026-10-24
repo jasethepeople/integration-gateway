@@ -1,0 +1,7 @@
+{
+  "key": "facebook_groups-new-post-created",
+  "name": "New Post Created",
+  "description": "Emit new event when a new post is created in a group",
+  "type": "source",
+  "version": "0.0.2"
+}

@@ -1,0 +1,46 @@
+{
+  "app": "oxylabs",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "scheduleId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "geoLocation": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "parse": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "render": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_name": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "password": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "oxylabs-create-proxy-session",
+    "oxylabs-create-schedule",
+    "oxylabs-list-schedule-id-options",
+    "oxylabs-scrape-url",
+    "oxylabs-scrape-with-query",
+    "oxylabs-new-scheduled-run-completed"
+  ],
+  "npmImports": [
+    "https-proxy-agent"
+  ]
+}

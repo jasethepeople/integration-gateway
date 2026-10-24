@@ -1,0 +1,7 @@
+{
+  "key": "lnk_bio-create-link",
+  "name": "Create Link",
+  "description": "Creates a new link on your lnk.bio profile which will immediately publish and appear on top of your existing links. [See the documentation](https://app.swaggerhub.com/apis/lnkbio/Lnk.Bio/0.0.2)",
+  "type": "action",
+  "version": "0.0.2"
+}

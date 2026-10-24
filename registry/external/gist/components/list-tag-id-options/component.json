@@ -1,0 +1,7 @@
+{
+  "key": "gist-list-tag-id-options",
+  "name": "List Tag Options",
+  "description": "Retrieves available options for the Tag field.",
+  "type": "action",
+  "version": "0.0.1"
+}

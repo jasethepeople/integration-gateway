@@ -1,0 +1,27 @@
+{
+  "app": "campayn",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "listId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "campayn-create-contact",
+    "campayn-get-contact",
+    "campayn-list-list-id-options",
+    "campayn-unsubscribe-contact",
+    "campayn-new-contact-created",
+    "campayn-new-email-created"
+  ]
+}

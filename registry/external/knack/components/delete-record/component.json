@@ -1,0 +1,7 @@
+{
+  "key": "knack-delete-record",
+  "name": "Delete Record",
+  "description": "Delete a Record for a Knack object [(See docs here)](https://docs.knack.com/docs/object-based-delete)",
+  "type": "action",
+  "version": "0.0.2"
+}

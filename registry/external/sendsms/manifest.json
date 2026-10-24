@@ -1,0 +1,70 @@
+{
+  "app": "sendsms",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "reportMask": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "report_url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "charset": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "data_coding": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "message_class": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "auto_detect_encoding": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "short": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "ctype": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "to": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "text": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "from": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sendsms-add-contact",
+    "sendsms-check-blocklist",
+    "sendsms-list-group-id-options",
+    "sendsms-send-message-with-unsubscribe-link",
+    "sendsms-send-message"
+  ]
+}

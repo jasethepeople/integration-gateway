@@ -1,0 +1,7 @@
+{
+  "key": "sendgrid-list-sender-id-options",
+  "name": "List Sender Id Options",
+  "description": "Retrieves available options for the Sender Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

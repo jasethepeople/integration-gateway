@@ -1,0 +1,28 @@
+{
+  "app": "adyntel",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "keyword": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "countryCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "username": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "adyntel-google-ads-by-company",
+    "adyntel-meta-ad-search",
+    "adyntel-tiktok-search"
+  ]
+}

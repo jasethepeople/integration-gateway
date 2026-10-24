@@ -1,0 +1,7 @@
+{
+  "key": "hostaway-create-reservation",
+  "name": "Create Reservation",
+  "description": "Creates a new reservation in Hostaway. [See the documentation](https://api.hostaway.com/documentation#create-a-reservation)",
+  "type": "action",
+  "version": "0.0.2"
+}

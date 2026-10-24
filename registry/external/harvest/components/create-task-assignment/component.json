@@ -1,0 +1,7 @@
+{
+  "key": "harvest-create-task-assignment",
+  "name": "Create Task Assignment",
+  "description": "Assign a task to a project. Use **Get Projects** to find a project ID and **List Tasks** to find a task ID. Example: call with projectId set to the Jurassic Park Construction project's ID and taskId set to the Genetics Research task's ID to put that task on the project. [See the documentation](https://help.getharvest.com/api-v2/projects-api/projects/task-assignments/#create-a-task-assignment).",
+  "type": "action",
+  "version": "0.0.1"
+}

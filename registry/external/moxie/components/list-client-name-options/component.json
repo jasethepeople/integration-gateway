@@ -1,0 +1,7 @@
+{
+  "key": "moxie-list-client-name-options",
+  "name": "List Client Options",
+  "description": "Retrieves available options for the Client field.",
+  "type": "action",
+  "version": "0.0.1"
+}

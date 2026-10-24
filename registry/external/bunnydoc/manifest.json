@@ -1,0 +1,17 @@
+{
+  "app": "bunnydoc",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "bunnydoc-send-signature-request-from-template",
+    "bunnydoc-new-completed-request-instant",
+    "bunnydoc-new-signed-request-instant",
+    "bunnydoc-new-viewed-request-instant"
+  ]
+}

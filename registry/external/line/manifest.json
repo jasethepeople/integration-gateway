@@ -1,0 +1,22 @@
+{
+  "app": "line",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "line-send-broadcast-message",
+    "line-send-notification-message",
+    "line-send-push-message",
+    "line-send-reply-message",
+    "line-new-message-received"
+  ],
+  "npmImports": [
+    "@line/bot-sdk",
+    "qs"
+  ]
+}

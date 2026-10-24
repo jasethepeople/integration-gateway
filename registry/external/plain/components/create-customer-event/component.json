@@ -1,0 +1,7 @@
+{
+  "key": "plain-create-customer-event",
+  "name": "Create Customer Event",
+  "description": "Creates an event with a customer. [See the documentation](https://www.plain.com/docs/api-reference/graphql/events/create-customer-event)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "teamioo-new-contact-added",
+  "name": "New Contact Added",
+  "description": "Emit new event when a new contact (client) is added.",
+  "type": "source",
+  "version": "0.0.1"
+}

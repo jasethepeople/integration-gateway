@@ -1,0 +1,54 @@
+{
+  "app": "surveysparrow",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "survey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "surveyType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "visibility": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "welcomeText": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "themeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "surveysparrow-create-contact",
+    "surveysparrow-create-survey",
+    "surveysparrow-list-theme-id-options",
+    "surveysparrow-share-nps-survey-sms",
+    "surveysparrow-share-survey-email",
+    "surveysparrow-update-survey",
+    "surveysparrow-new-ces-submission-instant",
+    "surveysparrow-new-csat-submission-instant",
+    "surveysparrow-new-nps-submission-instant",
+    "surveysparrow-new-survey-response"
+  ],
+  "npmImports": [
+    "lodash.pickby"
+  ]
+}

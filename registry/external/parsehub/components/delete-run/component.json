@@ -1,0 +1,7 @@
+{
+  "key": "parsehub-delete-run",
+  "name": "Delete Run",
+  "description": "Cancels a run if running, and deletes the run and its data. [See the documentation](https://www.parsehub.com/docs/ref/api/v2/#delete-a-run)",
+  "type": "action",
+  "version": "0.0.2"
+}

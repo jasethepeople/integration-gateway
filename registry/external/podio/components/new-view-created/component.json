@@ -1,0 +1,7 @@
+{
+  "key": "podio-new-view-created",
+  "name": "New View created",
+  "description": "Emit new events when a new view created. [See the documentation](https://developers.podio.com/doc/views/get-views-27460)",
+  "type": "source",
+  "version": "0.0.2"
+}

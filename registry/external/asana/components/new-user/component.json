@@ -1,0 +1,7 @@
+{
+  "key": "asana-new-user",
+  "name": "New User (Instant)",
+  "description": "Emit new event for each user added to a workspace.",
+  "type": "source",
+  "version": "0.1.15"
+}

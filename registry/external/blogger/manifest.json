@@ -1,0 +1,39 @@
+{
+  "app": "blogger",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "blog": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "post": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "content": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_uid": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "blogger-create-post",
+    "blogger-delete-post",
+    "blogger-list-blog-options",
+    "blogger-publish-post",
+    "blogger-revert-post",
+    "blogger-update-post"
+  ]
+}

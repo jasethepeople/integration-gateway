@@ -1,0 +1,25 @@
+{
+  "app": "wachete",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "folderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "wachetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "wachete-create-monitor",
+    "wachete-delete-monitor",
+    "wachete-fetch-monitor-data",
+    "wachete-new-web-content-update"
+  ]
+}

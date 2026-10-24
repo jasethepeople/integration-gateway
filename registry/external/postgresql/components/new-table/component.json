@@ -1,0 +1,7 @@
+{
+  "key": "postgresql-new-table",
+  "name": "New Table",
+  "description": "Emit new event when a new table is added to the database. [See the documentation](https://node-postgres.com/features/queries)",
+  "type": "source",
+  "version": "2.0.8"
+}

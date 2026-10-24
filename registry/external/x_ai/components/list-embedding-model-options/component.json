@@ -1,0 +1,7 @@
+{
+  "key": "x_ai-list-embedding-model-options",
+  "name": "List Embedding Models Options",
+  "description": "Retrieves available options for the Embedding Models field.",
+  "type": "action",
+  "version": "0.0.1"
+}

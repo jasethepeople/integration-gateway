@@ -1,0 +1,7 @@
+{
+  "key": "sellercloud-list-warehouse-options",
+  "name": "List Warehouse Options",
+  "description": "Retrieves available options for the Warehouse field.",
+  "type": "action",
+  "version": "0.0.1"
+}

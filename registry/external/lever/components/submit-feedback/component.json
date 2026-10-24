@@ -1,0 +1,7 @@
+{
+  "key": "lever-submit-feedback",
+  "name": "Submit Feedback",
+  "description": "Submits an interview feedback form (scorecard) for an opportunity.",
+  "type": "action",
+  "version": "0.0.2"
+}

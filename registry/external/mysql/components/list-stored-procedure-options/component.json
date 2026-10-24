@@ -1,0 +1,7 @@
+{
+  "key": "mysql-list-stored-procedure-options",
+  "name": "List Stored Procedure Options",
+  "description": "Retrieves available options for the Stored Procedure field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "hr_cloud-list-job-title-options",
+  "name": "List Job Title Options",
+  "description": "Retrieves available options for the Job Title field.",
+  "type": "action",
+  "version": "0.0.1"
+}

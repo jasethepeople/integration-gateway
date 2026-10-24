@@ -1,0 +1,7 @@
+{
+  "key": "ditlead-new-webhook-event",
+  "name": "New Webhook Event",
+  "description": "Emit new events according to the selected event types. [See the documentation](https://ditlead.com/developer/api#tag/Webhook/paths/~1v1~1webhook/post)",
+  "type": "source",
+  "version": "0.0.1"
+}

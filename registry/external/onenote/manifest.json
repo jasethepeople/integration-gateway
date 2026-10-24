@@ -1,0 +1,39 @@
+{
+  "app": "onenote",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "search": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "filter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "expand": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "onenote-create-notebook",
+    "onenote-create-page",
+    "onenote-create-section",
+    "onenote-get-page-content",
+    "onenote-get-page",
+    "onenote-list-notebook-id-options",
+    "onenote-list-page-id-options",
+    "onenote-list-section-id-options",
+    "onenote-search-notebooks",
+    "onenote-search-pages",
+    "onenote-search-sections"
+  ],
+  "npmImports": [
+    "turndown"
+  ]
+}

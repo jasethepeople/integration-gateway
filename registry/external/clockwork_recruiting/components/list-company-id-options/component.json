@@ -1,0 +1,7 @@
+{
+  "key": "clockwork_recruiting-list-company-id-options",
+  "name": "List Company Id Options",
+  "description": "Retrieves available options for the Company Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

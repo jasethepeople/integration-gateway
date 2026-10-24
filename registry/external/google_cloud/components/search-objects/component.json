@@ -1,0 +1,7 @@
+{
+  "key": "google_cloud-search-objects",
+  "name": "Search Objects",
+  "description": "Search objects by a prefix, [See the docs](https://googleapis.dev/nodejs/storage/latest/Bucket.html#getFiles)",
+  "type": "action",
+  "version": "0.0.6"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "polygonscan-query-contract-abi",
+  "name": "Query Contract ABI",
+  "description": "Obtains the contract ABI of a smart contract on the Polygon network. [See the documentation](https://docs.polygonscan.com/api-endpoints/contracts)",
+  "type": "action",
+  "version": "0.0.2"
+}

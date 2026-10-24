@@ -1,0 +1,37 @@
+{
+  "app": "whatsapp_business",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "phoneNumberId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "messageTemplate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recipientPhoneNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "business_account_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "permanent_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "whatsapp_business-list-message-templates",
+    "whatsapp_business-send-text-message",
+    "whatsapp_business-send-text-using-template",
+    "whatsapp_business-send-voice-message",
+    "whatsapp_business-new-message-sent"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "booking_experts-list-guests",
+  "name": "List Guests",
+  "description": "List all guests for a reservation. [See the documentation](https://developers.bookingexperts.com/reference/administration-reservation-guests-index)",
+  "type": "action",
+  "version": "0.0.3"
+}

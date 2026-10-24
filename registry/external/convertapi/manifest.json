@@ -1,0 +1,28 @@
+{
+  "app": "convertapi",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "base64String": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "formatFrom": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "convertapi-convert-base64-encoded-file",
+    "convertapi-convert-file",
+    "convertapi-convert-web-url"
+  ],
+  "npmImports": [
+    "form-data",
+    "fs"
+  ]
+}

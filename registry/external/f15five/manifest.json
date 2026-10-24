@@ -1,0 +1,28 @@
+{
+  "app": "f15five",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "user": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "checkin": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "f15five-create-high-five",
+    "f15five-get-checkin-details",
+    "f15five-get-user",
+    "f15five-list-user-options",
+    "f15five-new-checkin-created",
+    "f15five-new-high-five-received",
+    "f15five-new-one-on-one-created"
+  ]
+}

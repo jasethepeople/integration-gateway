@@ -1,0 +1,7 @@
+{
+  "key": "zoom-update-webinar",
+  "name": "Update Webinar",
+  "description": "Update a webinar's topic, start time, or other settings",
+  "type": "action",
+  "version": "0.1.9"
+}

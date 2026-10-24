@@ -1,0 +1,7 @@
+{
+  "key": "scrape_it_cloud-start-scraping",
+  "name": "Start Scraping",
+  "description": "Initiate the scraping process for a specific endpoint. [See the documentation here](https://scrape-it.cloud/docs/api-features/basic-request).",
+  "type": "action",
+  "version": "0.0.2"
+}

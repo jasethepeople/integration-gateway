@@ -1,0 +1,7 @@
+{
+  "key": "webvizio-new-task-created",
+  "name": "New Task Created",
+  "description": "Emit new event when a task is created. [See the documentation](https://webvizio.com/help-center/outgoing-webhooks/)",
+  "type": "source",
+  "version": "0.0.1"
+}

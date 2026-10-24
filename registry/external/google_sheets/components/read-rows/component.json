@@ -1,0 +1,7 @@
+{
+  "key": "google_sheets-read-rows",
+  "name": "Read Rows",
+  "description": "Read rows from a Google Sheets worksheet.",
+  "type": "action",
+  "version": "0.0.4"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "postalytics-create-contact",
+  "name": "Create Contact",
+  "description": "Creates a new contact in Postalytics. [See the documentation](https://postalytics.docs.apiary.io/#reference/contact-api/contact-list-collection/add-contact)",
+  "type": "action",
+  "version": "0.0.2"
+}

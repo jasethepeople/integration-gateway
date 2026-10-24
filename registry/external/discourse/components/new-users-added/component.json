@@ -1,0 +1,7 @@
+{
+  "key": "discourse-new-users-added",
+  "name": "New Users (Instant)",
+  "description": "Emit new event every time a new user is created on your instance",
+  "type": "source",
+  "version": "0.2.1"
+}

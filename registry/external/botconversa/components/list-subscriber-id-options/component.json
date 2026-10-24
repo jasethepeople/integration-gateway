@@ -1,0 +1,7 @@
+{
+  "key": "botconversa-list-subscriber-id-options",
+  "name": "List Subscriber Id Options",
+  "description": "Retrieves available options for the Subscriber Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

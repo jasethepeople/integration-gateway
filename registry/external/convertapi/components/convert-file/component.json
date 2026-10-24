@@ -1,0 +1,7 @@
+{
+  "key": "convertapi-convert-file",
+  "name": "Convert File",
+  "description": "Use this action to convert files to the chosen format. [See the documentation](https://v2.convertapi.com/info/openapi)",
+  "type": "action",
+  "version": "1.0.3"
+}

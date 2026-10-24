@@ -1,0 +1,7 @@
+{
+  "key": "hiver-get-inbox",
+  "name": "Get Inbox",
+  "description": "Get an inbox by ID. [See the documentation](https://developer.hiverhq.com/hiver-api/inbox/get-an-inbox-by-id)",
+  "type": "action",
+  "version": "0.0.1"
+}

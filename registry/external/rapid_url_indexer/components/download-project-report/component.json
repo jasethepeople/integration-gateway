@@ -1,0 +1,7 @@
+{
+  "key": "rapid_url_indexer-download-project-report",
+  "name": "Download Project Report",
+  "description": "Download the report for a specific project. [See the documentation](https://rapidurlindexer.com/indexing-api/).",
+  "type": "action",
+  "version": "0.0.3"
+}

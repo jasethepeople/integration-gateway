@@ -1,0 +1,7 @@
+{
+  "key": "indiefunnels-list-groups-options",
+  "name": "List Member Groups Options",
+  "description": "Retrieves available options for the Member Groups field.",
+  "type": "action",
+  "version": "0.0.1"
+}

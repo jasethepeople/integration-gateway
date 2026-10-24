@@ -1,0 +1,7 @@
+{
+  "key": "planview_leankit-assign-user-to-card",
+  "name": "Assign User To Card",
+  "description": "Assign one or more users to cards. [See the docs here](https://success.planview.com/Planview_AgilePlace/AgilePlace_API/01_v2/card/assign-users)",
+  "type": "action",
+  "version": "0.0.3"
+}

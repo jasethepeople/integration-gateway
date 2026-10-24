@@ -1,0 +1,7 @@
+{
+  "key": "dataforseo-get-bulk-referring-domains",
+  "name": "Get Bulk Referring Domains",
+  "description": "Get the number of referring domains pointing to the specified domains, subdomains, and pages. [See the documentation](https://docs.dataforseo.com/v3/backlinks/bulk_referring_domains/live/)",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,104 @@
+{
+  "app": "hex",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "runId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "connectionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sharingWorkspacePublic": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sharingWorkspaceGuests": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sharingWorkspaceMembers": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "groups": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "schemaRefreshAccess": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "schemaRefreshSchedule": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "schemaFilters": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "allowWritebackCells": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "includeMagic": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "connectViaSsh": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "connectionDetails": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "hex-create-data-connection",
+    "hex-create-group",
+    "hex-deactivate-user",
+    "hex-delete-group",
+    "hex-edit-data-connection",
+    "hex-get-project-runs",
+    "hex-get-run-status",
+    "hex-list-data-connections",
+    "hex-list-projects",
+    "hex-run-project",
+    "hex-update-group"
+  ]
+}

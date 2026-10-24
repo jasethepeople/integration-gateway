@@ -1,0 +1,7 @@
+{
+  "key": "evenium-add-participants",
+  "name": "Add Participants",
+  "description": "Adds participants (guests) to an event. [See the documentation](https://static.evenium.com/api-docs/organizer/index-json.html#5.3)",
+  "type": "action",
+  "version": "0.0.1"
+}

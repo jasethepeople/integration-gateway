@@ -1,0 +1,7 @@
+{
+  "key": "fractel-call-phone",
+  "name": "Call Phone",
+  "description": "Initiates a new phone call to the provided number.",
+  "type": "action",
+  "version": "0.0.2"
+}

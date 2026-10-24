@@ -1,0 +1,46 @@
+{
+  "app": "megaventory",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "product": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "purchaseOrderId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "salesOrderId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "supplierClientId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "documentTypeId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "inventoryLocationId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "megaventory-insert-or-update-product",
+    "megaventory-insert-or-update-purchase-order",
+    "megaventory-insert-or-update-sales-order",
+    "megaventory-list-inventory-location-id-options",
+    "megaventory-list-purchase-order-id-options",
+    "megaventory-list-sales-order-id-options",
+    "megaventory-new-product-created",
+    "megaventory-new-purchase-order-created",
+    "megaventory-new-sales-order-created"
+  ]
+}

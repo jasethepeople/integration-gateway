@@ -1,0 +1,7 @@
+{
+  "key": "the_colony-create-post",
+  "name": "Create Post",
+  "description": "Publish a new post to a Colony sub-community. [See the documentation](https://thecolony.cc/api/v1/instructions).",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,68 @@
+{
+  "app": "sellercloud",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "company": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "product": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "purchaser": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "manufacturer": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orders": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "view": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "warehouse": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "adjustmentType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sellercloud-adjust-inventory",
+    "sellercloud-create-product",
+    "sellercloud-list-company-options",
+    "sellercloud-list-orders-options",
+    "sellercloud-list-product-type-options",
+    "sellercloud-list-purchaser-options",
+    "sellercloud-list-view-options",
+    "sellercloud-list-warehouse-options",
+    "sellercloud-update-order-status",
+    "sellercloud-inventory-updated",
+    "sellercloud-new-order-created"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "dpd_connect-get-parcel-status",
+  "name": "Get Parcel Status",
+  "description": "Get the status of a parcel by tracking number. [See the documentation](https://api.dpdconnect.nl/swagger/index.html#/default/status)",
+  "type": "action",
+  "version": "0.0.1"
+}

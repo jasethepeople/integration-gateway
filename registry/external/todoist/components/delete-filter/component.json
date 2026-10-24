@@ -1,0 +1,7 @@
+{
+  "key": "todoist-delete-filter",
+  "name": "Delete Filter",
+  "description": "Deletes a filter. [See the documentation](https://developer.todoist.com/api/v1#tag/Sync/Filters/Delete-a-filter)",
+  "type": "action",
+  "version": "0.0.10"
+}

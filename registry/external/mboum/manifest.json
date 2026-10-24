@@ -1,0 +1,82 @@
+{
+  "app": "mboum",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "ticker": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "date": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "interval": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "seriesType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mboum-get-ad",
+    "mboum-get-adosc",
+    "mboum-get-adx",
+    "mboum-get-analyst-ratings",
+    "mboum-get-cci",
+    "mboum-get-crypto-currencies",
+    "mboum-get-crypto-holders",
+    "mboum-get-crypto-modules",
+    "mboum-get-crypto-profile",
+    "mboum-get-crypto-quotes",
+    "mboum-get-dividends",
+    "mboum-get-earnings",
+    "mboum-get-economic-events",
+    "mboum-get-financials",
+    "mboum-get-highest-iv-options",
+    "mboum-get-historical-data",
+    "mboum-get-history",
+    "mboum-get-insider-trading",
+    "mboum-get-institutional-holdings",
+    "mboum-get-ipo-data",
+    "mboum-get-iv-change",
+    "mboum-get-iv-rank-percentile",
+    "mboum-get-macd",
+    "mboum-get-market-info",
+    "mboum-get-modules",
+    "mboum-get-most-active-options",
+    "mboum-get-movers",
+    "mboum-get-news",
+    "mboum-get-options-flow",
+    "mboum-get-options",
+    "mboum-get-price-targets",
+    "mboum-get-public-offerings",
+    "mboum-get-realtime-quote",
+    "mboum-get-revenue",
+    "mboum-get-rsi",
+    "mboum-get-screener",
+    "mboum-get-sec-filings",
+    "mboum-get-short-interest",
+    "mboum-get-sma",
+    "mboum-get-stoch",
+    "mboum-get-stock-splits",
+    "mboum-get-ticker-summary",
+    "mboum-get-tickers",
+    "mboum-get-unusual-options-activity",
+    "mboum-search"
+  ]
+}

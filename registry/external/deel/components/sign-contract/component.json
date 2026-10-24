@@ -1,0 +1,7 @@
+{
+  "key": "deel-sign-contract",
+  "name": "Sign Contract",
+  "description": "Sign a Deel contract as the client/employer. Use this to countersign a contract that has been",
+  "type": "action",
+  "version": "0.0.2"
+}

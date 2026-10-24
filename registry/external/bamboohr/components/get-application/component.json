@@ -1,0 +1,7 @@
+{
+  "key": "bamboohr-get-application",
+  "name": "Get Application",
+  "description": "Get an application by its application ID. Use **List Applications** to find the application ID before retrieving the full application details. [See the documentation](https://documentation.bamboohr.com/reference/get-application-details)",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "greenhouse-list-job-ids-options",
+  "name": "List Job IDs Options",
+  "description": "Retrieves available options for the Job IDs field.",
+  "type": "action",
+  "version": "0.0.1"
+}

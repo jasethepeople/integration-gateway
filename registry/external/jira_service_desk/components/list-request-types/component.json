@@ -1,0 +1,7 @@
+{
+  "key": "jira_service_desk-list-request-types",
+  "name": "List Request Types",
+  "description": "Lists the customer request types a service desk offers, with the `id`, `name`, and `description` of each.",
+  "type": "action",
+  "version": "0.0.7"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-delete-note",
+  "name": "Delete Note",
+  "description": "Delete a note by UUID. [See the documentation](https://developer.servicem8.com/reference/deletenotes)",
+  "type": "action",
+  "version": "0.0.1"
+}

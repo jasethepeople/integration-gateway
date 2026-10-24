@@ -1,0 +1,7 @@
+{
+  "key": "twist-new-group-user",
+  "name": "New Group User (Instant)",
+  "description": "Emit new event for any new user added to a workspace group [See the docs here](https://developer.twist.com/v3/#outgoing-webhook)",
+  "type": "source",
+  "version": "0.0.1"
+}

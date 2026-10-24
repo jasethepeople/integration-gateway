@@ -1,0 +1,7 @@
+{
+  "key": "stripe-new-customer",
+  "name": "New Customer",
+  "description": "Emit new event for each new customer (polling via GET /v1/customers?created[gt]=cursor)",
+  "type": "source",
+  "version": "0.1.5"
+}

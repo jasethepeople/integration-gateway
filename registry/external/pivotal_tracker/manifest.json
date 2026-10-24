@@ -1,0 +1,31 @@
+{
+  "app": "pivotal_tracker",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pivotal_tracker-create-project",
+    "pivotal_tracker-create-story",
+    "pivotal_tracker-list-project-id-options",
+    "pivotal_tracker-new-activity-performed",
+    "pivotal_tracker-new-project-created",
+    "pivotal_tracker-new-story-created"
+  ]
+}

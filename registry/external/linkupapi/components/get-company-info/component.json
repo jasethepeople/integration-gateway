@@ -1,0 +1,7 @@
+{
+  "key": "linkupapi-get-company-info",
+  "name": "Get Company Info",
+  "description": "Fetch details for a LinkedIn company. [See the documentation](https://docs.linkupapi.com/api-reference/v2/profiles/get-company)",
+  "type": "action",
+  "version": "1.0.0"
+}

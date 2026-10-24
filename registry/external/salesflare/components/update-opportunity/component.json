@@ -1,0 +1,7 @@
+{
+  "key": "salesflare-update-opportunity",
+  "name": "Update Opportunity",
+  "description": "Update an Opportunity [See the docs here](https://api.salesflare.com/docs#operation/putOpportunitiesId)",
+  "type": "action",
+  "version": "0.0.2"
+}

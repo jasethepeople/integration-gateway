@@ -1,0 +1,7 @@
+{
+  "key": "wrike-create-folder",
+  "name": "Create Folder",
+  "description": "Create a folder (or a project, by supplying the optional project object) under a parent folder via POST /folders/{folderId}/folders. Supplying the 'project' prop switches creation into project mode; there is no separate create-project action. Use **List Folder ID Options** or **List Space ID Options** to obtain a parent folder ID. [See the documentation](https://developers.wrike.com/reference/postfolderssinglefolders)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,14 @@
+{
+  "app": "wolfram_alpha",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "app_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "wolfram_alpha-perform-computation"
+  ]
+}

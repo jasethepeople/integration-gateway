@@ -1,0 +1,7 @@
+{
+  "key": "aws-dynamodb-query",
+  "name": "DynamoDB - Query",
+  "description": "",
+  "type": "action",
+  "version": "0.5.4"
+}

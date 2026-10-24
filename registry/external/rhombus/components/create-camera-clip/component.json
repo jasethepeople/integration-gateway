@@ -1,0 +1,7 @@
+{
+  "key": "rhombus-create-camera-clip",
+  "name": "Create Camera Clip",
+  "description": "Create a camera clip from video footage. [See the documentation](https://apidocs.rhombus.com/reference/splicev3)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "langbase-list-memories",
+  "name": "List Memories",
+  "description": "Get a list of memory sets on Langbase. [See the documentation](https://langbase.com/docs/api-reference/memory/list)",
+  "type": "action",
+  "version": "0.0.2"
+}

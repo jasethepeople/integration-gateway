@@ -1,0 +1,7 @@
+{
+  "key": "harvest-get-me",
+  "name": "Get Me",
+  "description": "Retrieve the currently authenticated user from `GET /users/me`. Takes no ID input. Example: call with no parameters to answer \"who am I logged in as in Harvest?\". [See the documentation](https://help.getharvest.com/api-v2/users-api/users/users/#retrieve-the-currently-authenticated-user).",
+  "type": "action",
+  "version": "0.0.1"
+}

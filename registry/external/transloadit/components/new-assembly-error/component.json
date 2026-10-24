@@ -1,0 +1,7 @@
+{
+  "key": "transloadit-new-assembly-error",
+  "name": "New Assembly Failed",
+  "description": "Emit new event when a failed occurs during assembly processing. [See the documentation](https://transloadit.com/docs/api/assemblies-get/)",
+  "type": "source",
+  "version": "0.0.2"
+}

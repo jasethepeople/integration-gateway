@@ -1,0 +1,7 @@
+{
+  "key": "sendbird-send-message",
+  "name": "Send message",
+  "description": "Sends a message to a channel. [See the docs here](https://sendbird.com/docs/chat/v3/platform-api/message/messaging-basics/send-a-message)",
+  "type": "action",
+  "version": "0.0.2"
+}

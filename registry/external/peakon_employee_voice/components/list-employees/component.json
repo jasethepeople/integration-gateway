@@ -1,0 +1,7 @@
+{
+  "key": "peakon_employee_voice-list-employees",
+  "name": "List Employees",
+  "description": "Lists employee records in Peakon. Use the filter parameters to narrow results by email, ",
+  "type": "action",
+  "version": "0.0.2"
+}

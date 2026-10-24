@@ -1,0 +1,7 @@
+{
+  "key": "freshservice-delete-solution-article",
+  "name": "Delete Solution Article",
+  "description": "Delete a solution article. [See the documentation](https://api.freshservice.com/#delete_solution_article)",
+  "type": "action",
+  "version": "0.0.2"
+}

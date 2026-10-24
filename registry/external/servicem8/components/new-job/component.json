@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-new-job",
+  "name": "New Job (Instant)",
+  "description": "Emit new event when a new job is created. By creating this trigger, any other `Job` triggers will stop working as ServiceM8 will replace any previous ones.",
+  "type": "source",
+  "version": "0.0.3"
+}

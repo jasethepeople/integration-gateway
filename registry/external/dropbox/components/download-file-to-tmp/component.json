@@ -1,0 +1,7 @@
+{
+  "key": "dropbox-download-file-to-tmp",
+  "name": "Download File to TMP",
+  "description": "Download a specific file to the temporary directory. [See the documentation](https://dropbox.github.io/dropbox-sdk-js/Dropbox.html#filesDownload__anchor).",
+  "type": "action",
+  "version": "0.0.12"
+}

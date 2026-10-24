@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-list-staff",
+  "name": "List Staff",
+  "description": "List staff with optional filters. [See the documentation](https://developer.servicem8.com/reference/liststaffmembers)",
+  "type": "action",
+  "version": "0.0.1"
+}

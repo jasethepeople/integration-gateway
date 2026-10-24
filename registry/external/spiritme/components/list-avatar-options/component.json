@@ -1,0 +1,7 @@
+{
+  "key": "spiritme-list-avatar-options",
+  "name": "List Avatar Options",
+  "description": "Retrieves available options for the Avatar field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "remarkety-new-customer-created",
+  "name": "New Customer Created",
+  "description": "Emit new event for every new customer created. [See the documentation](http://static.remarkety.com.s3-website-us-east-1.amazonaws.com/api-docs/#!/Customers/get_customers)",
+  "type": "source",
+  "version": "0.0.1"
+}

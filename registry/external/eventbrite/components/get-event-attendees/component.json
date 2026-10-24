@@ -1,0 +1,7 @@
+{
+  "key": "eventbrite-get-event-attendees",
+  "name": "Get Event Attendees",
+  "description": "Get event attendees for a specified event. [See the documentation](https://www.eventbrite.com/platform/api#/reference/attendee/list/list-attendees-by-event)",
+  "type": "action",
+  "version": "0.0.6"
+}

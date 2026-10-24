@@ -1,0 +1,7 @@
+{
+  "key": "faraday-list-target-id-options",
+  "name": "List Target ID Options",
+  "description": "Retrieves available options for the Target ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

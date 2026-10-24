@@ -1,0 +1,7 @@
+{
+  "key": "picdefense-check-landmark",
+  "name": "Check Landmark",
+  "description": "Returns whether the image contains a landmark and any detected landmark names. [See the documentation](https://app.picdefense.io/apidocs/)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "mixpanel_service_account-aggregate-event-counts",
+  "name": "Aggregate Event Counts",
+  "description": "Count how many times one or more events happened over a date range, bucketed by minute, hour, day, week, or month. This is the tool for ad-hoc questions such as \"how many signups this week?\" - it needs no report to be saved in Mixpanel first. If the answer should come from an Insights report someone already built, use **Query Insights Report** instead. [See the documentation](https://docs.mixpanel.com/reference/list-recent-events)",
+  "type": "action",
+  "version": "0.0.1"
+}

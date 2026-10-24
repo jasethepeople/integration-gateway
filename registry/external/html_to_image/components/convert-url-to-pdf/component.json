@@ -1,0 +1,7 @@
+{
+  "key": "html_to_image-convert-url-to-pdf",
+  "name": "Convert URL to PDF",
+  "description": "Create a PDF from a URL. [See the documentation](https://docs.htmlcsstoimg.com/html-to-image-api/url-to-pdf-api).",
+  "type": "action",
+  "version": "0.0.2"
+}

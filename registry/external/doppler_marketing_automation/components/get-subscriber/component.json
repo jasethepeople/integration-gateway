@@ -1,0 +1,7 @@
+{
+  "key": "doppler_marketing_automation-get-subscriber",
+  "name": "Get Subscriber",
+  "description": "Get a subscriber. [See the documentation](https://restapi.fromdoppler.com/docs/resources#!/Subscribers/AccountsByAccountNameSubscribersByEmailGet)",
+  "type": "action",
+  "version": "0.0.3"
+}

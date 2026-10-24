@@ -1,0 +1,7 @@
+{
+  "key": "trunkrs-list-trunkrs-nr-options",
+  "name": "List Trunkrs Number Options",
+  "description": "Retrieves available options for the Trunkrs Number field.",
+  "type": "action",
+  "version": "0.0.1"
+}

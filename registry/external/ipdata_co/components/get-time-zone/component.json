@@ -1,0 +1,7 @@
+{
+  "key": "ipdata_co-get-time-zone",
+  "name": "GET /time_zone/{ip_address}",
+  "description": "We provide detailed and accurate Timezone data, adjusted for DST where necessary. https://docs.ipdata.co/overview/timezone-detection",
+  "type": "action",
+  "version": "0.2.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "salesloft-new-email-activity-instant",
+  "name": "New Email Activity (Instant)",
+  "description": "Emit new event when an email is updated in Salesloft. [See the documentation](https://developers.salesloft.com/docs/api/webhook-subscriptions/)",
+  "type": "source",
+  "version": "0.0.1"
+}

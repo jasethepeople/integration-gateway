@@ -1,0 +1,7 @@
+{
+  "key": "trello-delete-checklist",
+  "name": "Delete Checklist",
+  "description": "Deletes the specified checklist. [See the documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-checklists/#api-checklists-id-delete).",
+  "type": "action",
+  "version": "0.2.7"
+}

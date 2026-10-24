@@ -1,0 +1,7 @@
+{
+  "key": "hana-generate-completion",
+  "name": "Generate Completion",
+  "description": "Generate a completion using the Hana API. [See the documentation](https://docs.hanabot.ai/docs/tutorial-connectors/hana-api#chat-completion)",
+  "type": "action",
+  "version": "0.0.1"
+}

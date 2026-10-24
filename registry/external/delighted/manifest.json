@@ -1,0 +1,17 @@
+{
+  "app": "delighted",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "delighted-sending-to-people"
+  ],
+  "npmImports": [
+    "delighted"
+  ]
+}

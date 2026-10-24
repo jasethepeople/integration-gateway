@@ -1,0 +1,7 @@
+{
+  "key": "signerx-new-package-signed",
+  "name": "New Package Signed",
+  "description": "Emit new event when a package has been signed.",
+  "type": "source",
+  "version": "0.0.1"
+}

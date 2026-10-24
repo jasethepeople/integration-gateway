@@ -1,0 +1,7 @@
+{
+  "key": "topdesk-update-incident",
+  "name": "Update Incident",
+  "description": "Updates an existing incident. [See the documentation](https://developers.topdesk.com/explorer/?page=incident#/incident/patchIncident)",
+  "type": "action",
+  "version": "0.0.3"
+}

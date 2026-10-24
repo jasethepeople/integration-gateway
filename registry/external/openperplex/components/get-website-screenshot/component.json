@@ -1,0 +1,7 @@
+{
+  "key": "openperplex-get-website-screenshot",
+  "name": "Get Website Screenshot",
+  "description": "Get a screenshot of a website using Openperplex. [See the documentation](https://docs.openperplex.com/api-reference/endpoint/get-website-screenshot)",
+  "type": "action",
+  "version": "0.0.2"
+}

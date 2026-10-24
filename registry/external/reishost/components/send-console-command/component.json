@@ -1,0 +1,7 @@
+{
+  "key": "reishost-send-console-command",
+  "name": "Send Console Command",
+  "description": "Runs a command on your server's console, providing direct command execution flexibility.",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,51 @@
+{
+  "app": "sevdesk",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "addressCountryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "invoiceId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "originId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "paymentMethodId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taxSetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sevdesk-cancel-invoice",
+    "sevdesk-create-contact",
+    "sevdesk-create-invoice",
+    "sevdesk-get-invoice",
+    "sevdesk-get-invoices",
+    "sevdesk-list-address-country-id-options",
+    "sevdesk-list-contact-id-options",
+    "sevdesk-list-origin-id-options",
+    "sevdesk-list-payment-method-id-options",
+    "sevdesk-list-tax-set-id-options",
+    "sevdesk-send-invoice-email",
+    "sevdesk-new-contact",
+    "sevdesk-new-order",
+    "sevdesk-new-voucher"
+  ]
+}

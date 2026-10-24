@@ -1,0 +1,7 @@
+{
+  "key": "flippingbook-list-flipbook-id-options",
+  "name": "List Flipbook ID Options",
+  "description": "Retrieves available options for the Flipbook ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

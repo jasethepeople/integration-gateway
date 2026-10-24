@@ -1,0 +1,7 @@
+{
+  "key": "gotowebinar-list-organizer-key-options",
+  "name": "List Organizer Key Options",
+  "description": "Retrieves available options for the Organizer Key field.",
+  "type": "action",
+  "version": "0.0.1"
+}

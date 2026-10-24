@@ -1,0 +1,7 @@
+{
+  "key": "apollo_io-list-email-account-id-options",
+  "name": "List Email Account ID Options",
+  "description": "Retrieves available options for the Email Account ID field.",
+  "type": "action",
+  "version": "0.0.2"
+}

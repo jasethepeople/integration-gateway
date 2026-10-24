@@ -1,0 +1,164 @@
+{
+  "app": "zoho_desk",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "orgId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "portalId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "departmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ticketId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "threadId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "attachmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "supportEmailAddress": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ticketStatus": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "articleId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "categoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "commentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "ticketPriority": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "assigneeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "channel": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ticketSortBy": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "from": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "category": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subCategory": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "classification": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dueDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zoho_desk-add-ticket-attachment",
+    "zoho_desk-add-ticket-comment",
+    "zoho_desk-create-account",
+    "zoho_desk-create-contact",
+    "zoho_desk-create-ticket",
+    "zoho_desk-delete-ticket-comment",
+    "zoho_desk-download-thread-attachment",
+    "zoho_desk-find-contact",
+    "zoho_desk-find-or-create-contact",
+    "zoho_desk-get-article",
+    "zoho_desk-get-thread-details",
+    "zoho_desk-get-ticket-comment-history",
+    "zoho_desk-get-ticket-comment",
+    "zoho_desk-get-ticket-details",
+    "zoho_desk-list-articles",
+    "zoho_desk-list-channel-options",
+    "zoho_desk-list-classification-options",
+    "zoho_desk-list-conversations",
+    "zoho_desk-list-departments",
+    "zoho_desk-list-help-centers",
+    "zoho_desk-list-org-id-options",
+    "zoho_desk-list-root-categories",
+    "zoho_desk-list-ticket-attachments",
+    "zoho_desk-list-ticket-comments",
+    "zoho_desk-list-ticket-fields",
+    "zoho_desk-list-ticket-priority-options",
+    "zoho_desk-list-ticket-status-options",
+    "zoho_desk-list-ticket-threads",
+    "zoho_desk-list-tickets",
+    "zoho_desk-search-articles",
+    "zoho_desk-search-ticket",
+    "zoho_desk-send-email-reply",
+    "zoho_desk-update-contact",
+    "zoho_desk-update-ticket-comment",
+    "zoho_desk-update-ticket",
+    "zoho_desk-changed-ticket-status",
+    "zoho_desk-deleted-article-instant",
+    "zoho_desk-new-account",
+    "zoho_desk-new-agent",
+    "zoho_desk-new-article-instant",
+    "zoho_desk-new-contact",
+    "zoho_desk-new-ticket-attachment",
+    "zoho_desk-new-ticket-comment",
+    "zoho_desk-new-ticket-message",
+    "zoho_desk-new-ticket",
+    "zoho_desk-updated-article-instant",
+    "zoho_desk-updated-ticket"
+  ],
+  "npmImports": [
+    "async-retry",
+    "file-type",
+    "form-data",
+    "fs",
+    "stream",
+    "util"
+  ]
+}

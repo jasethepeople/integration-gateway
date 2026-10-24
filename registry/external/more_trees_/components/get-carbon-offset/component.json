@@ -1,0 +1,7 @@
+{
+  "key": "more_trees_-get-carbon-offset",
+  "name": "Get Carbon Offset",
+  "description": "Get the total carbon offset. [See the documentation](https://moretrees.eco/user-guide/api/#KB30)",
+  "type": "action",
+  "version": "0.0.2"
+}

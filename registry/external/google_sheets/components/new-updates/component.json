@@ -1,0 +1,7 @@
+{
+  "key": "google_sheets-new-updates",
+  "name": "New Updates (Instant)",
+  "description": "Emit new event each time a row or cell is updated in a spreadsheet.",
+  "type": "source",
+  "version": "0.3.8"
+}

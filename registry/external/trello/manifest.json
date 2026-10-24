@@ -1,0 +1,208 @@
+{
+  "app": "trello",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "board": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cards": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "boardFields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "cardFields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "lists": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "idOrganizations": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "modelTypes": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "partial": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "label": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "member": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "searchMemberId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "checklist": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customFieldIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mimeType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "file": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "desc": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pos": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "due": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dueComplete": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "address": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "locationName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "coordinates": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cardFilter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "listFilter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customFieldItems": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "checklistItemId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cardAttachmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fileType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "actions": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "checklistFields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "labels": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "oauth_uid": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_signer_uri": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "trello-add-attachment-to-card",
+    "trello-add-checklist",
+    "trello-add-comment",
+    "trello-add-existing-label-to-card",
+    "trello-add-member-to-card",
+    "trello-archive-card",
+    "trello-complete-checklist-item",
+    "trello-create-board",
+    "trello-create-card",
+    "trello-create-checklist-item",
+    "trello-create-label",
+    "trello-create-list",
+    "trello-delete-checklist-item",
+    "trello-delete-checklist",
+    "trello-find-labels",
+    "trello-find-list",
+    "trello-get-board",
+    "trello-get-card-checklists",
+    "trello-get-card-comments",
+    "trello-get-card",
+    "trello-get-cards-in-list",
+    "trello-get-cards-on-board",
+    "trello-get-list",
+    "trello-get-member",
+    "trello-list-boards",
+    "trello-list-id-organizations-options",
+    "trello-move-card-to-list",
+    "trello-remove-label-from-card",
+    "trello-rename-list",
+    "trello-search-boards",
+    "trello-search-cards",
+    "trello-search-checklists",
+    "trello-search-members",
+    "trello-update-card",
+    "trello-update-checklist-item",
+    "trello-card-archived",
+    "trello-card-moved",
+    "trello-card-updates",
+    "trello-custom-webhook-events",
+    "trello-new-activity",
+    "trello-new-attachment",
+    "trello-new-board",
+    "trello-new-card",
+    "trello-new-checklist",
+    "trello-new-comment-added-to-card",
+    "trello-new-label-added-to-card",
+    "trello-new-label",
+    "trello-new-member-on-card",
+    "trello-new-notification"
+  ],
+  "npmImports": [
+    "crypto",
+    "form-data",
+    "lodash-es",
+    "mime"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "gosquared-track-event",
+  "name": "Track Event",
+  "description": "Track an event in GoSquared. Events are a versatile way of tracking anything that is happening on your site or app. [See the documentation](https://www.gosquared.com/docs/tracking/event/)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "serenity_ai_hub-get-initial-conversation-info",
+  "name": "Get Initial Conversation Info",
+  "description": "Gets initial conversation information. [See the documentation](https://docs.serenitystar.ai/docs/api/aihub/get-initial-conversation-info-by-agent-code)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zoho_books-create-customer",
+  "name": "Create Customer",
+  "description": "Creates a new customer. [See the documentation](https://www.zoho.com/books/api/v3/items/#create-an-item)",
+  "type": "action",
+  "version": "0.0.2"
+}

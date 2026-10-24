@@ -1,0 +1,16 @@
+{
+  "app": "statuscake",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "statuscake-list-uptime-id-options",
+    "statuscake-new-uptime-alert",
+    "statuscake-new-uptime"
+  ]
+}

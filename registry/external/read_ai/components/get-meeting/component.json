@@ -1,0 +1,7 @@
+{
+  "key": "read_ai-get-meeting",
+  "name": "Get Meeting",
+  "description": "Retrieves complete details for a single Read AI meeting, including optional content expansions.",
+  "type": "action",
+  "version": "0.0.2"
+}

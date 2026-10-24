@@ -1,0 +1,7 @@
+{
+  "key": "wubook_ratechecker-get-stays",
+  "name": "Get Stays",
+  "description": "Retrieve a list of stays from a competitor. [See the docs](https://wubook.net/wrpeeker/ratechecker/api_examples)",
+  "type": "action",
+  "version": "0.0.2"
+}

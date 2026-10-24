@@ -1,0 +1,7 @@
+{
+  "key": "memberspot-delete-access",
+  "name": "Delete Access",
+  "description": "Delete access of a user by email. [See the documentation](https://api.memberspot.de/api/#/users/UsersApiController_setOfferState)",
+  "type": "action",
+  "version": "0.0.2"
+}

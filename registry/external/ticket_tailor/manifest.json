@@ -1,0 +1,12 @@
+{
+  "app": "ticket_tailor",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "ticket_tailor-new-action"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

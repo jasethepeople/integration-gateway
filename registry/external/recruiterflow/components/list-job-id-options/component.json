@@ -1,0 +1,7 @@
+{
+  "key": "recruiterflow-list-job-id-options",
+  "name": "List Job ID Options",
+  "description": "Retrieves available options for the Job ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

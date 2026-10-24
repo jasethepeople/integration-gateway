@@ -1,0 +1,7 @@
+{
+  "key": "alt_text_generator_ai-generate-alt-text",
+  "name": "Generate Alt Text",
+  "description": "Generate alt text for an image. [See the documentation](https://alttextgeneratorai.com/api-docs)",
+  "type": "action",
+  "version": "0.0.2"
+}

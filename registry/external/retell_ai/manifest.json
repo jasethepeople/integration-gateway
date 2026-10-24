@@ -1,0 +1,22 @@
+{
+  "app": "retell_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "agentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "retell_ai-list-agent-id-options",
+    "retell_ai-new-webhook-event"
+  ],
+  "npmImports": [
+    "retell-sdk"
+  ]
+}

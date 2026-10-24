@@ -1,0 +1,7 @@
+{
+  "key": "strava-activity-deleted",
+  "name": "New Activity Deleted Event",
+  "description": "Emit new event when an activity is deleted",
+  "type": "source",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "workday-list-job-change-reason-id-options",
+  "name": "List Job Change Reason ID Options",
+  "description": "Retrieves available options for the Job Change Reason ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

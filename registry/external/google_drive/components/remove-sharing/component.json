@@ -1,0 +1,7 @@
+{
+  "key": "google_drive-remove-sharing",
+  "name": "Remove Sharing",
+  "description": "Remove a sharing permission from a file or folder in Google Drive.",
+  "type": "action",
+  "version": "0.0.9"
+}

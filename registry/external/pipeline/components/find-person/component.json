@@ -1,0 +1,7 @@
+{
+  "key": "pipeline-find-person",
+  "name": "Find Person",
+  "description": "Find an existing person in your Pipeline account. [See the docs here](https://app.pipelinecrm.com/api/docs#tag/People/paths/~1people/get)",
+  "type": "action",
+  "version": "0.0.2"
+}

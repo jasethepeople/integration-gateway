@@ -1,0 +1,7 @@
+{
+  "key": "twitch-new-subscriber",
+  "name": "New Subscriber",
+  "description": "Emit new event when a new user subscribes to your channel.",
+  "type": "source",
+  "version": "0.1.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "rex-new-contact-created",
+  "name": "New Contact Created (Instant)",
+  "description": "Emit new event for each new contact created in Rex.",
+  "type": "source",
+  "version": "0.0.1"
+}

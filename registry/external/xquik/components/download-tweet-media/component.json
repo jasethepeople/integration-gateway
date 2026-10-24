@@ -1,0 +1,7 @@
+{
+  "key": "xquik-download-tweet-media",
+  "name": "Download Tweet Media",
+  "description": "Download images and videos from a public X/Twitter post with Xquik. [See the documentation](https://docs.xquik.com/api-reference/x/download-media)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-get-job-material",
+  "name": "Get Job Material",
+  "description": "Get a job material by UUID. [See the documentation](https://developer.servicem8.com/reference/getjobmaterials)",
+  "type": "action",
+  "version": "0.0.1"
+}

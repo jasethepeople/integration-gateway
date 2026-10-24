@@ -1,0 +1,7 @@
+{
+  "key": "proxycurl-find-social-media-profiles-from-email",
+  "name": "Find Social Media Profiles from Email",
+  "description": "Find Social Media Profiles from Email. Cost: 3 credit/successful request [See the documentation](https://nubela.co/proxycurl/docs#contact-api).",
+  "type": "action",
+  "version": "0.0.3"
+}

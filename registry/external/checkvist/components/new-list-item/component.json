@@ -1,0 +1,7 @@
+{
+  "key": "checkvist-new-list-item",
+  "name": "New List Item Added",
+  "description": "Emit new event when a new list item is added in a selected list.",
+  "type": "source",
+  "version": "0.0.1"
+}

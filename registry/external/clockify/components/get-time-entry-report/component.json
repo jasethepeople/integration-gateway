@@ -1,0 +1,7 @@
+{
+  "key": "clockify-get-time-entry-report",
+  "name": "Get Time Entry Report",
+  "description": "Get a time entry report. [See the documentation](https://docs.clockify.me/#tag/Time-Entry-Report/operation/generateDetailedReport)",
+  "type": "action",
+  "version": "0.0.3"
+}

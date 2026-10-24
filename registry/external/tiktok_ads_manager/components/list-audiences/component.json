@@ -1,0 +1,7 @@
+{
+  "key": "tiktok_ads_manager-list-audiences",
+  "name": "List Audiences",
+  "description": "List custom audiences in a TikTok Ads account.",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "nationalize-get-nationality-from-names",
+  "name": "Get Nationality From Names (Batch)",
+  "description": "Estimate the nationality of up to 10 names in a single batch request. [See the documentation](https://nationalize.io/documentation#batch-usage)",
+  "type": "action",
+  "version": "0.0.1"
+}

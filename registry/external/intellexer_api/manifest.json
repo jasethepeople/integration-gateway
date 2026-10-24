@@ -1,0 +1,45 @@
+{
+  "app": "intellexer_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "structure": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "loadConceptsTree": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "loadNamedEntityTree": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "summaryRestriction": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "returnedTopicsCount": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "fullTextTrees": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "wrapConcepts": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "intellexer_api-detect-language",
+    "intellexer_api-extract-named-entities",
+    "intellexer_api-summarize-document",
+    "intellexer_api-summarize-text"
+  ]
+}

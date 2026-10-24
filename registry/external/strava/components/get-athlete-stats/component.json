@@ -1,0 +1,7 @@
+{
+  "key": "strava-get-athlete-stats",
+  "name": "Get Athlete Stats",
+  "description": "Get the authenticated athlete's recent, year-to-date, and all-time stats — including totals for runs, rides, and swims.",
+  "type": "action",
+  "version": "0.0.2"
+}

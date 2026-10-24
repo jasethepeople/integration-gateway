@@ -1,0 +1,18 @@
+{
+  "app": "blotato",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "blotato-create-post",
+    "blotato-create-video",
+    "blotato-delete-video",
+    "blotato-get-video",
+    "blotato-upload-media"
+  ]
+}

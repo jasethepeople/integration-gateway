@@ -1,0 +1,7 @@
+{
+  "key": "mindbody-search-clients",
+  "name": "Search Clients",
+  "description": "Searches for client (member) records by name, email address, or phone number.",
+  "type": "action",
+  "version": "0.0.3"
+}

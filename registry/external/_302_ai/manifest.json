@@ -1,0 +1,33 @@
+{
+  "app": "_302_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "modelId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "chatCompletionModelId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "embeddingsModelId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "_302_ai-chat-using-functions",
+    "_302_ai-chat-with-302-ai",
+    "_302_ai-classify-items",
+    "_302_ai-create-embeddings",
+    "_302_ai-list-chat-completion-model-id-options",
+    "_302_ai-list-embeddings-model-id-options",
+    "_302_ai-list-model-id-options",
+    "_302_ai-summarize-text"
+  ]
+}

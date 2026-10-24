@@ -1,0 +1,7 @@
+{
+  "key": "trengo-new-outbound-message",
+  "name": "New Outbound Message Event (Instant)",
+  "description": "Emit new event when an outbound message sent. [See the documentation](https://developers.trengo.com/docs/webhooks)",
+  "type": "source",
+  "version": "0.0.12"
+}

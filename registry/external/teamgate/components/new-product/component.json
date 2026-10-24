@@ -1,0 +1,7 @@
+{
+  "key": "teamgate-new-product",
+  "name": "New Product",
+  "description": "Emit new event when a new product is created. [See docs here](https://developers.teamgate.com/#95a7d362-2789-4608-9ea4-b3c72f1a6406)",
+  "type": "source",
+  "version": "0.0.1"
+}

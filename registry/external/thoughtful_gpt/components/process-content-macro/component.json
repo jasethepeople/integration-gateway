@@ -1,0 +1,7 @@
+{
+  "key": "thoughtful_gpt-process-content-macro",
+  "name": "Process Content Macro",
+  "description": "Processes given content using a specified macro. [See the documentation](https://docs.thoughtfulgpt.com/thoughtfulgpt-documentation/product-guide/api-reference)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "elastic_security-add-case-comment",
+  "name": "Add Case Comment",
+  "description": "Add a user comment to an Elastic Security case via POST /api/cases/{caseId}/comments.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zoho_desk-list-channel-options",
+  "name": "List Channel Options",
+  "description": "Retrieves available options for the Channel field.",
+  "type": "action",
+  "version": "0.0.1"
+}

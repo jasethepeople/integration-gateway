@@ -1,0 +1,7 @@
+{
+  "key": "simplero-new-invoice",
+  "name": "New Invoice",
+  "description": "Emit new event when a new invoice is created. [See the documentation](https://github.com/Simplero/Simplero-API?tab=readme-ov-file#invoices)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "streamlabs-send-test-alert",
+  "name": "Send Test Alert",
+  "description": "Send a test alert to the stream overlay in StreamLabs. [See the documentation](https://dev.streamlabs.com/reference/alertssend_test_alert)",
+  "type": "action",
+  "version": "0.0.2"
+}

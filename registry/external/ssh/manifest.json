@@ -1,0 +1,29 @@
+{
+  "app": "ssh",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "port": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "host": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "privateKey": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ssh-execute-command"
+  ],
+  "npmImports": [
+    "node-ssh"
+  ]
+}

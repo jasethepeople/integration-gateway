@@ -1,0 +1,207 @@
+{
+  "app": "quickbooks",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "termIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "vendorIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "accountIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "classIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "employeeIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "departmentIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "itemId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "billId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "purchaseOrderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "salesReceiptId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timeActivityId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "paymentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taxCodeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taxClassificationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lineItemsAsObjects": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "accountingMethod": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "columns": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "billingStreetAddress": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "billingCity": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "billingState": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "billingZip": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "billingLatitude": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "billingLongitude": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shippingStreetAddress": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shippingCity": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shippingState": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shippingZip": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shippingLatitude": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shippingLongitude": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "company_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "quickbooks-create-ap-aging-report",
+    "quickbooks-create-bill",
+    "quickbooks-create-customer",
+    "quickbooks-create-estimate",
+    "quickbooks-create-invoice",
+    "quickbooks-create-payment",
+    "quickbooks-create-pl-report",
+    "quickbooks-create-purchase-order",
+    "quickbooks-create-purchase",
+    "quickbooks-create-sales-receipt",
+    "quickbooks-delete-purchase",
+    "quickbooks-get-balance-sheet-report",
+    "quickbooks-get-bill",
+    "quickbooks-get-cash-flow-report",
+    "quickbooks-get-customer",
+    "quickbooks-get-invoice",
+    "quickbooks-get-my-company",
+    "quickbooks-get-payment",
+    "quickbooks-get-purchase-order",
+    "quickbooks-get-purchase",
+    "quickbooks-get-sales-receipt",
+    "quickbooks-get-time-activity",
+    "quickbooks-list-account-ids-options",
+    "quickbooks-list-bill-id-options",
+    "quickbooks-list-class-ids-options",
+    "quickbooks-list-currency-options",
+    "quickbooks-list-customer-options",
+    "quickbooks-list-customer-type-options",
+    "quickbooks-list-department-ids-options",
+    "quickbooks-list-employee-ids-options",
+    "quickbooks-list-estimate-id-options",
+    "quickbooks-list-invoice-id-options",
+    "quickbooks-list-item-id-options",
+    "quickbooks-list-open-invoices",
+    "quickbooks-list-past-due-invoices",
+    "quickbooks-list-payment-id-options",
+    "quickbooks-list-payment-method-options",
+    "quickbooks-list-purchase-id-options",
+    "quickbooks-list-purchase-order-id-options",
+    "quickbooks-list-sales-receipt-id-options",
+    "quickbooks-list-tax-classification-id-options",
+    "quickbooks-list-tax-code-id-options",
+    "quickbooks-list-term-ids-options",
+    "quickbooks-list-time-activity-id-options",
+    "quickbooks-list-vendor-ids-options",
+    "quickbooks-list-vendor-options",
+    "quickbooks-search-accounts",
+    "quickbooks-search-customers",
+    "quickbooks-search-invoices",
+    "quickbooks-search-items",
+    "quickbooks-search-products",
+    "quickbooks-search-purchases",
+    "quickbooks-search-query",
+    "quickbooks-search-services",
+    "quickbooks-search-time-activities",
+    "quickbooks-search-vendors",
+    "quickbooks-send-estimate",
+    "quickbooks-send-invoice",
+    "quickbooks-sparse-update-invoice",
+    "quickbooks-update-customer",
+    "quickbooks-update-estimate",
+    "quickbooks-update-invoice",
+    "quickbooks-update-item",
+    "quickbooks-void-invoice",
+    "quickbooks-new-customer-created",
+    "quickbooks-new-customer-updated",
+    "quickbooks-new-employee-created",
+    "quickbooks-new-employee-updated",
+    "quickbooks-new-invoice-created",
+    "quickbooks-new-invoice-updated",
+    "quickbooks-new-item-created",
+    "quickbooks-new-item-updated",
+    "quickbooks-new-purchase-created",
+    "quickbooks-new-purchase-updated"
+  ]
+}

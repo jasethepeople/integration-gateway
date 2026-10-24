@@ -1,0 +1,7 @@
+{
+  "key": "onenote-get-page-content",
+  "name": "Get Page Content",
+  "description": "Retrieve the body content of a OneNote page as HTML or Markdown.",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "real_id-get-id-check",
+  "name": "Get ID Check",
+  "description": "Retrieve an ID check. [See the documentation](https://getverdict.com/help/docs/api/checks#retrieve-an-id-check).",
+  "type": "action",
+  "version": "0.0.2"
+}

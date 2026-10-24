@@ -1,0 +1,31 @@
+{
+  "app": "insightly",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "categoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recordType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pod": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "insightly-create-contact",
+    "insightly-create-task",
+    "insightly-list-category-id-options",
+    "insightly-deleted-record",
+    "insightly-new-record",
+    "insightly-updated-record"
+  ]
+}

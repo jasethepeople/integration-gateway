@@ -1,0 +1,16 @@
+{
+  "app": "documint",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "documint-create-document",
+    "documint-list-template-id-options",
+    "documint-list-templates"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "app": "clearly_defined",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "provider": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "namespace": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "revision": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sort": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sortDirection": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "form": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "environment": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "clearly_defined-create-definition",
+    "clearly_defined-get-definitions",
+    "clearly_defined-get-harvests"
+  ]
+}

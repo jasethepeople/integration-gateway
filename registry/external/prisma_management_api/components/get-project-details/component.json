@@ -1,0 +1,7 @@
+{
+  "key": "prisma_management_api-get-project-details",
+  "name": "Get Project details",
+  "description": "Get project details of a particular project in Prisma Workspace via Prisma Management API. [See docs here](https://www.prisma.io/docs/postgres/introduction/management-api)",
+  "type": "action",
+  "version": "1.0.2"
+}

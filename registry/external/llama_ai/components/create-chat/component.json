@@ -1,0 +1,7 @@
+{
+  "key": "llama_ai-create-chat",
+  "name": "Create Chat",
+  "description": "Creates a new chat. [See the documentation](https://docs.llama-api.com/api-reference/endpoint/create)",
+  "type": "action",
+  "version": "0.0.2"
+}

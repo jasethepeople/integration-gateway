@@ -1,0 +1,7 @@
+{
+  "key": "orshot-list-templates",
+  "name": "List Templates",
+  "description": "Retrieve a list of available library templates from Orshot. [See templates](https://orshot.com/templates)",
+  "type": "action",
+  "version": "0.0.3"
+}

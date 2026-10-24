@@ -1,0 +1,7 @@
+{
+  "key": "gocanvas-new-submission-received",
+  "name": "New Submission Recieved",
+  "description": "Emit new event when a new submission is uploaded to GoCanvas.",
+  "type": "source",
+  "version": "0.0.1"
+}

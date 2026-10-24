@@ -1,0 +1,7 @@
+{
+  "key": "asana-tags-added-to-any-task",
+  "name": "New Tags added to any task (Instant)",
+  "description": "Emit new event each time a tag is added to any task, optionally filtering by a given set of tags.",
+  "type": "source",
+  "version": "0.0.14"
+}

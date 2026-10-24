@@ -1,0 +1,7 @@
+{
+  "key": "zoom_admin-account-updated",
+  "name": "Account Updated",
+  "description": "Emits an event each time your master account or sub-account profile is updated",
+  "type": "source",
+  "version": "0.1.9"
+}

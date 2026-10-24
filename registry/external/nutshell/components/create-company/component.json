@@ -1,0 +1,7 @@
+{
+  "key": "nutshell-create-company",
+  "name": "Create Company",
+  "description": "Create a new company (account) in Nutshell. [See the documentation](https://developers.nutshell.com/reference/0e0199fef8e93c05437d3a33104886d1)",
+  "type": "action",
+  "version": "1.0.1"
+}

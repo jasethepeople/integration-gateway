@@ -1,0 +1,7 @@
+{
+  "key": "openweather_api-get-current-weather-by-location",
+  "name": "Get Current Weather by Location",
+  "description": "",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,32 @@
+{
+  "app": "cloudtables",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "datasetID": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "rowID": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "cloudtables-add-single-row",
+    "cloudtables-delete-row",
+    "cloudtables-list-dataset-id-options",
+    "cloudtables-update-row"
+  ],
+  "npmImports": [
+    "qs"
+  ]
+}

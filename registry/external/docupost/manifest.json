@@ -1,0 +1,63 @@
+{
+  "app": "docupost",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "toName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "toAddress1": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "toAddress2": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "toCity": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "toState": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "toZip": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fromName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fromAddress1": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fromAddress2": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fromCity": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fromState": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fromZip": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "docupost-mail-letter",
+    "docupost-mail-postcard"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "miro_custom_app-create-shape",
+  "name": "Create Shape",
+  "description": "Creates a shape on a Miro board. [See the docs](https://developers.miro.com/reference/create-shape-item).",
+  "type": "action",
+  "version": "0.0.3"
+}

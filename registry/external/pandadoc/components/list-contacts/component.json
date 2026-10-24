@@ -1,0 +1,7 @@
+{
+  "key": "pandadoc-list-contacts",
+  "name": "List Contacts",
+  "description": "List all contacts within an account. [See the documentation here](https://developers.pandadoc.com/reference/list-contacts)",
+  "type": "action",
+  "version": "0.0.9"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "add_to_calendar_pro-list-custom-domain-id-options",
+  "name": "List Custom Domain ID Options",
+  "description": "Retrieves available options for the Custom Domain ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

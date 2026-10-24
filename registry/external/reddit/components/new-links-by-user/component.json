@@ -1,0 +1,7 @@
+{
+  "key": "reddit-new-links-by-user",
+  "name": "New Links by User",
+  "description": "Emit new event each time a user posts a new link.",
+  "type": "source",
+  "version": "0.1.3"
+}

@@ -1,0 +1,18 @@
+{
+  "app": "alerty",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "notification_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "alerty-notify-devices"
+  ]
+}

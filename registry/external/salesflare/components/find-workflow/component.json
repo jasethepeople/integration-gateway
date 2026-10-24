@@ -1,0 +1,7 @@
+{
+  "key": "salesflare-find-workflow",
+  "name": "Find Workflow",
+  "description": "Finds workflows according to props configured, if no prop configured returns all workflows, [See the docs here](https://api.salesflare.com/docs#operation/getWorkflows)",
+  "type": "action",
+  "version": "0.0.2"
+}

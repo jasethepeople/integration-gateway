@@ -1,0 +1,7 @@
+{
+  "key": "fortnox-get-supplier-invoice",
+  "name": "Get Supplier Invoice",
+  "description": "Retrieve a supplier invoice. [See the documentation](https://api.fortnox.se/apidocs#tag/fortnox_SupplierInvoices/operation/get_39)",
+  "type": "action",
+  "version": "0.0.1"
+}

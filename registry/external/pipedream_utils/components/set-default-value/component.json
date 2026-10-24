@@ -1,0 +1,7 @@
+{
+  "key": "pipedream_utils-set-default-value",
+  "name": "Formatting - [Text] Set Default Value",
+  "description": "Return a default value if the text is empty",
+  "type": "action",
+  "version": "0.0.6"
+}

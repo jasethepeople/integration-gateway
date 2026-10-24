@@ -1,0 +1,7 @@
+{
+  "key": "typeform-new-submission",
+  "name": "New Submission",
+  "description": "Emit new submission",
+  "type": "source",
+  "version": "0.0.8"
+}

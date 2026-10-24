@@ -1,0 +1,7 @@
+{
+  "key": "miro_custom_app-update-board",
+  "name": "Update Board",
+  "description": "Updates a Miro board. [See the docs](https://developers.miro.com/reference/update-board).",
+  "type": "action",
+  "version": "0.0.3"
+}

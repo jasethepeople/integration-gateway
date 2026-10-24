@@ -1,0 +1,7 @@
+{
+  "key": "pagerduty-list-users",
+  "name": "List Users",
+  "description": "List users in the PagerDuty account, searchable by name or email.",
+  "type": "action",
+  "version": "0.0.2"
+}

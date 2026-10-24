@@ -1,0 +1,22 @@
+{
+  "app": "bitport",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "folderCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "bitport-add-item",
+    "bitport-list-folder-code-options",
+    "bitport-search",
+    "bitport-new-file",
+    "bitport-new-media"
+  ]
+}

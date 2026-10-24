@@ -1,0 +1,7 @@
+{
+  "key": "spotify-add-items-to-playlist",
+  "name": "Add Items to a Playlist",
+  "description": "Add tracks or podcast episodes to an existing Spotify playlist that the current user can modify.",
+  "type": "action",
+  "version": "0.2.0"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "overloop-mark-deal-won",
+  "name": "Mark Deal as Won",
+  "description": "Marks a deal as won. [See the docs](https://apidoc.overloop.com/#mark-as-won)",
+  "type": "action",
+  "version": "0.0.2"
+}

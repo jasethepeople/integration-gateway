@@ -1,0 +1,7 @@
+{
+  "key": "talenthr-list-emergency-contact-relationship-type-id-options",
+  "name": "List Emergency Contact Relationship Type Options",
+  "description": "Retrieves available options for the Emergency Contact Relationship Type field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "hex-get-run-status",
+  "name": "Get Run Status",
+  "description": "Get the status of a specific run. [See the documentation](https://learn.hex.tech/docs/api/api-reference#operation/GetRunStatus)",
+  "type": "action",
+  "version": "0.0.1"
+}

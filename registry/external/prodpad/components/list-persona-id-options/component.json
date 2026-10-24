@@ -1,0 +1,7 @@
+{
+  "key": "prodpad-list-persona-id-options",
+  "name": "List Persona ID Options",
+  "description": "Retrieves available options for the Persona ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

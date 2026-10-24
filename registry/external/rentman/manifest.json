@@ -1,0 +1,22 @@
+{
+  "app": "rentman",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "itemType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "rentman-create-item",
+    "rentman-find-item",
+    "rentman-update-item",
+    "rentman-new-file-updated",
+    "rentman-new-item-created"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "app": "humanitix",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "eventId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "overrideLocation": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "since": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "humanitix-get-events",
+    "humanitix-get-orders",
+    "humanitix-get-tickets",
+    "humanitix-list-event-id-options",
+    "humanitix-new-event-created",
+    "humanitix-new-order-created",
+    "humanitix-new-ticket-created"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "social_fetch-search-tiktok-users",
+  "name": "Search TikTok Users",
+  "description": "Searches TikTok for user accounts matching a query. [See the documentation](https://app.socialfetch.dev/playground?path=/v1/tiktok/users/search&method=GET)",
+  "type": "action",
+  "version": "0.0.1"
+}

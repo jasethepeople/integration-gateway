@@ -1,0 +1,7 @@
+{
+  "key": "help_scout_api_keys-list-site-id-options",
+  "name": "List Site ID Options",
+  "description": "Retrieves available options for the Site ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

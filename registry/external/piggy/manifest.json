@@ -1,0 +1,17 @@
+{
+  "app": "piggy",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "piggy-create-contact-attribute",
+    "piggy-find-or-create-contact",
+    "piggy-list-contact-id-options",
+    "piggy-new-contact-created"
+  ]
+}

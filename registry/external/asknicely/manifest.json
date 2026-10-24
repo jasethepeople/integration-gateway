@@ -1,0 +1,38 @@
+{
+  "app": "asknicely",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "customFields": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "segment": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "asknicely-add-contact",
+    "asknicely-get-contact",
+    "asknicely-get-responses",
+    "asknicely-send-survey",
+    "asknicely-survey-response-received"
+  ]
+}

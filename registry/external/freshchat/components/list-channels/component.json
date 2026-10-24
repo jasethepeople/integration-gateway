@@ -1,0 +1,7 @@
+{
+  "key": "freshchat-list-channels",
+  "name": "List Channels",
+  "description": "Lists all channels in Freshchat. [See the documentation](https://developers.freshchat.com/api/#channels-(topics))",
+  "type": "action",
+  "version": "0.0.5"
+}

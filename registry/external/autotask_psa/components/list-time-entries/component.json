@@ -1,0 +1,7 @@
+{
+  "key": "autotask_psa-list-time-entries",
+  "name": "List Time Entries",
+  "description": "Query time entries from Autotask PSA. [See the documentation](https://www.autotask.net/help/DeveloperHelp/Content/APIs/REST/Entities/TimeEntriesEntity.htm)",
+  "type": "action",
+  "version": "0.0.1"
+}

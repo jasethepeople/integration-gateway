@@ -1,0 +1,127 @@
+{
+  "app": "chartmogul",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "attributes": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "city": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "company": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "custom": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dataSourceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "externalId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "freeTrialStartedAt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "geo": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "interval": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "leadCreatedAt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "plans": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "source": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "state": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "zip": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "account_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "secret_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "chartmogul-add-custom-attributes-via-email",
+    "chartmogul-add-custom-attributes-via-uuid",
+    "chartmogul-add-tags-via-email",
+    "chartmogul-add-tags-via-uuid",
+    "chartmogul-create-customer",
+    "chartmogul-list-customer-email-options",
+    "chartmogul-list-customer-id-options",
+    "chartmogul-list-data-source-id-options",
+    "chartmogul-merge-customers",
+    "chartmogul-retrieve-all-key-metrics",
+    "chartmogul-retrieve-arpa",
+    "chartmogul-retrieve-arr",
+    "chartmogul-retrieve-asp",
+    "chartmogul-retrieve-customer-churn-rate",
+    "chartmogul-retrieve-customer-count",
+    "chartmogul-retrieve-customer-profile",
+    "chartmogul-retrieve-ltv",
+    "chartmogul-retrieve-mrr-churn-reate",
+    "chartmogul-retrieve-mrr",
+    "chartmogul-search-customers-via-email",
+    "chartmogul-search-customers-via-external-id",
+    "chartmogul-update-customer"
+  ]
+}

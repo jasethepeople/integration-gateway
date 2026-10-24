@@ -1,0 +1,7 @@
+{
+  "key": "convertkit-list-subscribers",
+  "name": "List subscribers",
+  "description": "Returns a list of your subscribers. [See docs here](https://developers.convertkit.com/#list-subscribers)",
+  "type": "action",
+  "version": "0.0.3"
+}

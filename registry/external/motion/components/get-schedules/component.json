@@ -1,0 +1,7 @@
+{
+  "key": "motion-get-schedules",
+  "name": "Retrieve Schedules",
+  "description": "Get a list of schedules for your user. [See the documentation](https://docs.usemotion.com/docs/motion-rest-api/f9fec7bb61c6f-get-schedules)",
+  "type": "action",
+  "version": "0.0.2"
+}

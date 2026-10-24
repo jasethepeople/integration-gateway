@@ -1,0 +1,7 @@
+{
+  "key": "pingdom-list-team-ids-options",
+  "name": "List Team Ids Options",
+  "description": "Retrieves available options for the Team Ids field.",
+  "type": "action",
+  "version": "0.0.1"
+}

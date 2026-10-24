@@ -1,0 +1,7 @@
+{
+  "key": "sign_plus-create-envelope-from-template",
+  "name": "Create Envelope From Template",
+  "description": "Creates a new envelope from a template. [See the documentation](https://apidoc.sign.plus/api-reference/endpoints/signplus/create-new-envelope-from-template)",
+  "type": "action",
+  "version": "0.0.1"
+}

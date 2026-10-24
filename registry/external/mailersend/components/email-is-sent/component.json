@@ -1,0 +1,7 @@
+{
+  "key": "mailersend-email-is-sent",
+  "name": "New Email Is Sent (Instant)",
+  "description": "Emit new event when your email is sent from the sending servers. [See the documentation](https://developers.mailersend.com/api/v1/webhooks.html#webhooks-overview)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zoom-list-channels",
+  "name": "List Channels",
+  "description": "List a user's chat channels.",
+  "type": "action",
+  "version": "0.1.6"
+}

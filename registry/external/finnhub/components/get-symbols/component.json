@@ -1,0 +1,7 @@
+{
+  "key": "finnhub-get-symbols",
+  "name": "Get Symbols",
+  "description": "Get a list of supported stock symbols. [See the documentation](https://finnhub.io/docs/api/stock-symbols)",
+  "type": "action",
+  "version": "0.0.1"
+}

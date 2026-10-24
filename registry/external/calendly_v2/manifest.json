@@ -1,0 +1,86 @@
+{
+  "app": "calendly_v2",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "organization": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "user": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eventId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eventType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "inviteeEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxEventCount": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "paginate": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "scope": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "listEventsScope": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "listEventsAlert": {
+      "kind": "propDefinition",
+      "type": "alert"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "calendly_v2-cancel-event",
+    "calendly_v2-create-invitee-no-show",
+    "calendly_v2-create-scheduling-link",
+    "calendly_v2-get-event",
+    "calendly_v2-get-invitee",
+    "calendly_v2-list-event-invitees",
+    "calendly_v2-list-event-types",
+    "calendly_v2-list-events",
+    "calendly_v2-list-groups",
+    "calendly_v2-list-organization-members",
+    "calendly_v2-list-user-availability-schedules",
+    "calendly_v2-list-webhook-subscriptions",
+    "calendly_v2-invitee-canceled",
+    "calendly_v2-invitee-created",
+    "calendly_v2-new-event-scheduled",
+    "calendly_v2-routing-form-submission-created"
+  ],
+  "npmImports": [
+    "crypto",
+    "url",
+    "uuid"
+  ]
+}

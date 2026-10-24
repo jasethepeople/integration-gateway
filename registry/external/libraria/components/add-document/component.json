@@ -1,0 +1,7 @@
+{
+  "key": "libraria-add-document",
+  "name": "Add Document",
+  "description": "Add a document. [See the documentation](https://docs.libraria.dev/api-reference/library/create-document)",
+  "type": "action",
+  "version": "0.0.2"
+}

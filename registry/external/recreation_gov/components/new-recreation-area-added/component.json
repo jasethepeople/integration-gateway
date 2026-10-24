@@ -1,0 +1,7 @@
+{
+  "key": "recreation_gov-new-recreation-area-added",
+  "name": "New Recreation Area Added Event",
+  "description": "Emit new events when a new recreation area is added to the Recreation.gov database. [See the documentation](https://ridb.recreation.gov/docs#/Recreation%20Areas/getRecAreas)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zoho_inventory-new-invoice",
+  "name": "New Invoice",
+  "description": "Emit new event each time a new invoice is created in Zoho Inventory",
+  "type": "source",
+  "version": "0.0.4"
+}

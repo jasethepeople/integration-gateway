@@ -1,0 +1,7 @@
+{
+  "key": "habitica-create-challenge",
+  "name": "Create Challenge",
+  "description": "Creates a challenge. [See the documentation](https://habitica.com/apidoc/#api-Challenge-CreateChallenge)",
+  "type": "action",
+  "version": "0.0.2"
+}

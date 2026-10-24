@@ -1,0 +1,7 @@
+{
+  "key": "trello-get-list",
+  "name": "Get List",
+  "description": "Get information about a List. [See the documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-lists/#api-lists-id-get).",
+  "type": "action",
+  "version": "0.1.7"
+}

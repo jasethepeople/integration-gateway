@@ -1,0 +1,7 @@
+{
+  "key": "gagelist-update-gage",
+  "name": "Update Gage",
+  "description": "Updates a specific gage using its ID on GageList. [See the documentation](https://gagelist.com/developer-resources/update-gage-record/)",
+  "type": "action",
+  "version": "0.0.2"
+}

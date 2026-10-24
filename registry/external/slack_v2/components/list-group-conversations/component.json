@@ -1,0 +1,7 @@
+{
+  "key": "slack_v2-list-group-conversations",
+  "name": "List Group Conversations",
+  "description": "Return a list of multi-person direct message (group DM) conversations the connected",
+  "type": "action",
+  "version": "0.0.11"
+}

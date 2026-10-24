@@ -1,0 +1,7 @@
+{
+  "key": "freshdesk-reply-to-forward",
+  "name": "Reply to Forward",
+  "description": "Reply to a previously forwarded ticket email. [See the documentation](https://developers.freshdesk.com/api/#reply_to_forward).",
+  "type": "action",
+  "version": "0.0.5"
+}

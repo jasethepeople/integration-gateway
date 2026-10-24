@@ -1,0 +1,7 @@
+{
+  "key": "twilio-list-parent-call-sid-options",
+  "name": "List Parent Call SID Options",
+  "description": "Retrieves available options for the Parent Call SID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

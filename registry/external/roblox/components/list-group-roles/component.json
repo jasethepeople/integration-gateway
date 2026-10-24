@@ -1,0 +1,7 @@
+{
+  "key": "roblox-list-group-roles",
+  "name": "List Group Roles",
+  "description": "List the roles of a Roblox group. [See the documentation](https://create.roblox.com/docs/cloud/reference/GroupRole#Cloud_ListGroupRoles)",
+  "type": "action",
+  "version": "0.0.1"
+}

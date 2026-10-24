@@ -1,0 +1,7 @@
+{
+  "key": "google_search_console-list-sites",
+  "name": "List Sites",
+  "description": "Lists every Google Search Console property the connected Google account can access, ",
+  "type": "action",
+  "version": "0.0.1"
+}

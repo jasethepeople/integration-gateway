@@ -1,0 +1,7 @@
+{
+  "key": "ewebinar-new-registration",
+  "name": "New Registration",
+  "description": "Emit new event when a registrant submits a completed registration form.",
+  "type": "source",
+  "version": "0.0.1"
+}

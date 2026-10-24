@@ -1,0 +1,44 @@
+{
+  "app": "revolt",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "users": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "nsfw": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "target": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "member": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "username": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "revolt-add-group-member",
+    "revolt-create-group",
+    "revolt-send-friend-request"
+  ]
+}

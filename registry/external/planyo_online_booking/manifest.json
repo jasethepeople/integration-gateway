@@ -1,0 +1,78 @@
+{
+  "app": "planyo_online_booking",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "resourceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "quantity": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "address": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "city": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "zip": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "state": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phonePrefix": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phoneNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "planyo_online_booking-create-reservation",
+    "planyo_online_booking-create-user",
+    "planyo_online_booking-create-vacation",
+    "planyo_online_booking-list-resource-id-options",
+    "planyo_online_booking-list-user-id-options"
+  ]
+}

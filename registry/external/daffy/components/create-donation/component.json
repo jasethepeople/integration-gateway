@@ -1,0 +1,7 @@
+{
+  "key": "daffy-create-donation",
+  "name": "Create Donation",
+  "description": "Create a new donation. [See the documentation](https://docs.daffy.org/ref/donations#create-donation)",
+  "type": "action",
+  "version": "0.0.2"
+}

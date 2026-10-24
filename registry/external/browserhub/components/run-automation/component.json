@@ -1,0 +1,7 @@
+{
+  "key": "browserhub-run-automation",
+  "name": "Run Automation",
+  "description": "Triggers a pre-built automation by providing the scraper ID. [See the documentation](https://developer.browserhub.io/runs/#create-a-run)",
+  "type": "action",
+  "version": "0.0.2"
+}

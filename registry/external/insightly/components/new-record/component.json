@@ -1,0 +1,7 @@
+{
+  "key": "insightly-new-record",
+  "name": "New Record",
+  "description": "Emit new event when a new record is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

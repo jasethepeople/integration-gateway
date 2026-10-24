@@ -1,0 +1,7 @@
+{
+  "key": "telnyx-send-fax",
+  "name": "Send Fax",
+  "description": "Sends a PDF document to a specified fax number using the Telnyx Fax API. [See the documentation](https://developers.telnyx.com/api/programmable-fax/send-fax)",
+  "type": "action",
+  "version": "0.0.2"
+}

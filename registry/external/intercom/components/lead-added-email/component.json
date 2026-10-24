@@ -1,0 +1,7 @@
+{
+  "key": "intercom-lead-added-email",
+  "name": "Lead Added Email",
+  "description": "Emit new event each time a lead adds their email address.",
+  "type": "source",
+  "version": "0.0.9"
+}

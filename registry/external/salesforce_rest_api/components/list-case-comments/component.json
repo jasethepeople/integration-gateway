@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-list-case-comments",
+  "name": "List Case Comments",
+  "description": "List the comments on a Salesforce case, newest first.",
+  "type": "action",
+  "version": "0.1.3"
+}

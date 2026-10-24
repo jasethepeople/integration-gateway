@@ -1,0 +1,7 @@
+{
+  "key": "helpspot-list-x-request-options",
+  "name": "List Request Id Options",
+  "description": "Retrieves available options for the Request Id field.",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,24 @@
+{
+  "app": "airplane",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "runId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "promptId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "airplane-execute-runbook",
+    "airplane-execute-task",
+    "airplane-submit-prompt"
+  ]
+}

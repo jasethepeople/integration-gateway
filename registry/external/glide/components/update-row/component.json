@@ -1,0 +1,7 @@
+{
+  "key": "glide-update-row",
+  "name": "Update Row",
+  "description": "Update an existing row in a table. [See the documentation](https://apidocs.glideapps.com/api-reference/v2/tables/patch-update-row)",
+  "type": "action",
+  "version": "0.0.1"
+}

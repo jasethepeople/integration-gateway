@@ -1,0 +1,7 @@
+{
+  "key": "podio-item-updated",
+  "name": "New Item Updated Event",
+  "description": "Emit new events when an item is updated. [See the documentation](https://developers.podio.com/doc/hooks)",
+  "type": "source",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "dev_to-fresh-stories-by-tag",
+  "name": "New Stories for a Tag",
+  "description": "Emit new event for each new story that has a matching tag (e.g., javascript)",
+  "type": "source",
+  "version": "0.0.3"
+}

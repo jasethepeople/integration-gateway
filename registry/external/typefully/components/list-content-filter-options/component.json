@@ -1,0 +1,7 @@
+{
+  "key": "typefully-list-content-filter-options",
+  "name": "List Content Filter Options",
+  "description": "Retrieves available options for the Content Filter field.",
+  "type": "action",
+  "version": "0.0.1"
+}

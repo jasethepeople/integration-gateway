@@ -1,0 +1,7 @@
+{
+  "key": "invoiced-create-customer",
+  "name": "Create Customer",
+  "description": "Creates a new customer in Invoiced. [See the documentation](https://developer.invoiced.com/api/customers#create-a-customer)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "smartsuite-record-updated-instant",
+  "name": "Record Updated (Instant)",
+  "description": "Emit new event when an existing record is updated",
+  "type": "source",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "alegra-list-seller-options",
+  "name": "List Seller Options",
+  "description": "Retrieves available options for the Seller field.",
+  "type": "action",
+  "version": "0.0.1"
+}

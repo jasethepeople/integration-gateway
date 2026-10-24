@@ -1,0 +1,7 @@
+{
+  "key": "qstash-publish-topic-message",
+  "name": "Publish Topic Message",
+  "description": "Publish a message to a topic",
+  "type": "action",
+  "version": "0.0.2"
+}

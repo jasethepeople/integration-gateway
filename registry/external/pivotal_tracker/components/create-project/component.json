@@ -1,0 +1,7 @@
+{
+  "key": "pivotal_tracker-create-project",
+  "name": "Create Project",
+  "description": "Create a new project. [See the docs here](https://www.pivotaltracker.com/help/api/rest/v5#projects_post)",
+  "type": "action",
+  "version": "0.0.2"
+}

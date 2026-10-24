@@ -1,0 +1,7 @@
+{
+  "key": "pdf_co-barcode-generator",
+  "name": "Barcode Generator",
+  "description": "Generate high quality barcode images. Supports QR Code, DataMatrix, Code 39, Code 128, PDF417 and many other barcode types. [See docs here](https://apidocs.pdf.co/40-barcode-generator)",
+  "type": "action",
+  "version": "0.0.3"
+}

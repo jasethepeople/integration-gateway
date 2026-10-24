@@ -1,0 +1,7 @@
+{
+  "key": "deepgram-get-project",
+  "name": "Get Project",
+  "description": "Retrieves basic information about the specified project. [See the documentation](https://developers.deepgram.com/api-reference/projects/#get-projects)",
+  "type": "action",
+  "version": "0.0.3"
+}

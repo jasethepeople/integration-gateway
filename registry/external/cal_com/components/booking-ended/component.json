@@ -1,0 +1,7 @@
+{
+  "key": "cal_com-booking-ended",
+  "name": "Booking Ended",
+  "description": "Emit new event when a booking ends.",
+  "type": "source",
+  "version": "1.0.0"
+}

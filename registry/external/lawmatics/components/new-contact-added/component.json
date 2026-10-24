@@ -1,0 +1,7 @@
+{
+  "key": "lawmatics-new-contact-added",
+  "name": "New Contact Added",
+  "description": "Emit new event when a contact is added. [See the documentation](https://docs.lawmatics.com/#555909b6-ebb0-4b8b-9e56-1dceb1abb7b7)",
+  "type": "source",
+  "version": "0.0.1"
+}

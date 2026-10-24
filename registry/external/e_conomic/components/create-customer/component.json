@@ -1,0 +1,7 @@
+{
+  "key": "e_conomic-create-customer",
+  "name": "Create Customer",
+  "description": "Creates a new customer. [See the documentation](https://restdocs.e-conomic.com/#post-customers)",
+  "type": "action",
+  "version": "0.0.1"
+}

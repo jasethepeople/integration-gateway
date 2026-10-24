@@ -1,0 +1,7 @@
+{
+  "key": "waiverfile-list-waiver-form-ids-options",
+  "name": "List Waiver Form IDs Options",
+  "description": "Retrieves available options for the Waiver Form IDs field.",
+  "type": "action",
+  "version": "0.0.1"
+}

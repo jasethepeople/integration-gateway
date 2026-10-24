@@ -1,0 +1,19 @@
+{
+  "app": "melo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "environment": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "melo-search-properties",
+    "melo-new-property-created"
+  ]
+}

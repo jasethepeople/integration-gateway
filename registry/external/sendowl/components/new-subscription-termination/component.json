@@ -1,0 +1,7 @@
+{
+  "key": "sendowl-new-subscription-termination",
+  "name": "New Subscription Termination",
+  "description": "Emit new event for each subscription termination.",
+  "type": "source",
+  "version": "0.0.2"
+}

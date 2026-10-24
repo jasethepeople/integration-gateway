@@ -1,0 +1,7 @@
+{
+  "key": "mindbody-book-appointment",
+  "name": "Book Appointment",
+  "description": "Books a client into a one-on-one service appointment (personal training, massage, etc.).",
+  "type": "action",
+  "version": "0.0.3"
+}

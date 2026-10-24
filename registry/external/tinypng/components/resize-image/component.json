@@ -1,0 +1,7 @@
+{
+  "key": "tinypng-resize-image",
+  "name": "Resize Image",
+  "description": "Create resized versions of your uploaded image. [See the documentation](https://tinypng.com/developers/reference#resizing-images)",
+  "type": "action",
+  "version": "0.0.4"
+}

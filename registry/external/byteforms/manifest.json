@@ -1,0 +1,19 @@
+{
+  "app": "byteforms",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "formId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "byteforms-list-form-id-options",
+    "byteforms-new-submission"
+  ]
+}

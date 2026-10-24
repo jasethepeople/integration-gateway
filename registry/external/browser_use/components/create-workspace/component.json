@@ -1,0 +1,7 @@
+{
+  "key": "browser_use-create-workspace",
+  "name": "Create Workspace",
+  "description": "Create a Browser Use workspace for persistent shared file storage across sessions. [See the documentation](https://docs.browser-use.com/cloud/api-v3/workspaces/create-workspace)",
+  "type": "action",
+  "version": "0.0.1"
+}

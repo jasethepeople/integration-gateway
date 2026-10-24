@@ -1,0 +1,7 @@
+{
+  "key": "adalo-create-record",
+  "name": "Create Record",
+  "description": "Create a new record. [See docs here](https://help.adalo.com/integrations/the-adalo-api/collections)",
+  "type": "action",
+  "version": "0.0.3"
+}

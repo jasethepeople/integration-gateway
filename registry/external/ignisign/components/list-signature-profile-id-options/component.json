@@ -1,0 +1,7 @@
+{
+  "key": "ignisign-list-signature-profile-id-options",
+  "name": "List Signature Profile ID Options",
+  "description": "Retrieves available options for the Signature Profile ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

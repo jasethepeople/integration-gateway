@@ -1,0 +1,7 @@
+{
+  "key": "firecrawl-crawl-url",
+  "name": "Crawl URL",
+  "description": "Crawls a given URL and returns the contents of sub-pages. [See the documentation](https://docs.firecrawl.dev/api-reference/endpoint/crawl-post)",
+  "type": "action",
+  "version": "1.1.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "little_green_light-list-gift-type-id-options",
+  "name": "List Gift Type ID Options",
+  "description": "Retrieves available options for the Gift Type ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

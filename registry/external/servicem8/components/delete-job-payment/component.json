@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-delete-job-payment",
+  "name": "Delete Job Payment",
+  "description": "Delete a job payment by UUID. [See the documentation](https://developer.servicem8.com/reference/deletejobpayments)",
+  "type": "action",
+  "version": "0.0.1"
+}

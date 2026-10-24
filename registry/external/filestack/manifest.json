@@ -1,0 +1,32 @@
+{
+  "app": "filestack",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "fileOrUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "uploadedImageUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "outputFilename": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "filestack-filter-image",
+    "filestack-resize-image",
+    "filestack-rotate-image",
+    "filestack-upload-image"
+  ],
+  "npmImports": [
+    "fs"
+  ]
+}

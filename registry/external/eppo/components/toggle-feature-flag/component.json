@@ -1,0 +1,7 @@
+{
+  "key": "eppo-toggle-feature-flag",
+  "name": "Toggle Feature Flag",
+  "description": "Enable or disable a feature flag in a specific environment in Eppo.",
+  "type": "action",
+  "version": "0.0.2"
+}

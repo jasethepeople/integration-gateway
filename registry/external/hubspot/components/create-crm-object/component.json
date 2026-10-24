@@ -1,0 +1,7 @@
+{
+  "key": "hubspot-create-crm-object",
+  "name": "Create CRM Object",
+  "description": "Create a new CRM record (contact, company, deal, ticket, etc.).",
+  "type": "action",
+  "version": "0.0.8"
+}

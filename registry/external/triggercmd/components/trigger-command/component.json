@@ -1,0 +1,7 @@
+{
+  "key": "triggercmd-trigger-command",
+  "name": "Trigger a command",
+  "description": "Runs a command on a computer. Refer to the [TRIGGERcmd Forum](https://triggercmd.com/forum) to learn more.",
+  "type": "action",
+  "version": "0.0.2"
+}

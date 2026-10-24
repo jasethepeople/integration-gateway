@@ -1,0 +1,7 @@
+{
+  "key": "dynalist-insert-document-content",
+  "name": "Insert Document Content",
+  "description": "Inserts content to a specific document. If the document has existing content, the new content will be appended. [See the documentation](https://apidocs.dynalist.io/)",
+  "type": "action",
+  "version": "0.0.3"
+}

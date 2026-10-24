@@ -1,0 +1,7 @@
+{
+  "key": "monta-create-shipping-label",
+  "name": "Create Shipping Label",
+  "description": "Generate a shipping label for an order in a supported output format (`pdf` or `zpl`). Use this when an order is ready to ship and needs a carrier label. [See the documentation](https://api-v6.monta.nl/index.html#tag/Order/paths/~1order~1%7Bwebshoporderid%7D~1shippinglabels/post)",
+  "type": "action",
+  "version": "0.0.2"
+}

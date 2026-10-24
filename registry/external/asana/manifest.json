@@ -1,0 +1,68 @@
+{
+  "app": "asana",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "taskTemplate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "optFields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "portfolioId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "asana-add-task-to-section",
+    "asana-create-project",
+    "asana-create-subtask",
+    "asana-create-task-comment",
+    "asana-create-task-from-template",
+    "asana-create-task",
+    "asana-delete-task",
+    "asana-find-task-by-id",
+    "asana-get-portfolio",
+    "asana-get-tasks-from-task-list",
+    "asana-list-organizations-options",
+    "asana-list-portfolio-items",
+    "asana-list-portfolios",
+    "asana-list-tags",
+    "asana-list-task-stories",
+    "asana-list-task-templates",
+    "asana-list-teams",
+    "asana-list-users",
+    "asana-list-workspaces",
+    "asana-search-projects",
+    "asana-search-sections",
+    "asana-search-tasks-premium",
+    "asana-search-tasks",
+    "asana-search-user-projects",
+    "asana-update-task",
+    "asana-new-completed-task",
+    "asana-new-project",
+    "asana-new-story",
+    "asana-new-subtask",
+    "asana-new-tag",
+    "asana-new-task",
+    "asana-new-team",
+    "asana-new-user",
+    "asana-new-workspace",
+    "asana-tag-added-to-task",
+    "asana-tags-added-to-any-task",
+    "asana-task-assigned-in-project",
+    "asana-task-field-updated-in-project",
+    "asana-task-updated-in-project"
+  ]
+}

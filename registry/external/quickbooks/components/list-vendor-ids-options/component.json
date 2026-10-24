@@ -1,0 +1,7 @@
+{
+  "key": "quickbooks-list-vendor-ids-options",
+  "name": "List Vendor IDs Options",
+  "description": "Retrieves available options for the Vendor IDs field.",
+  "type": "action",
+  "version": "0.0.1"
+}

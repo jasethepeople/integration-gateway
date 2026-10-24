@@ -1,0 +1,29 @@
+{
+  "app": "filepost",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "fileId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "filePath": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "filepost-delete-file",
+    "filepost-get-file",
+    "filepost-list-file-id-options",
+    "filepost-list-files",
+    "filepost-upload-file"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

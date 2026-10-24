@@ -1,0 +1,7 @@
+{
+  "key": "explorium-match-prospect-id",
+  "name": "Match Prospect ID",
+  "description": "Match individual prospects to unique identifiers using email addresses. [See the documentation](https://developers.explorium.ai/reference/match_prospects-1)",
+  "type": "action",
+  "version": "0.0.2"
+}

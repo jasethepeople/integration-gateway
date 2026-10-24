@@ -1,0 +1,7 @@
+{
+  "key": "prodpad-find-idea",
+  "name": "Find Idea",
+  "description": "Finds an idea. [See the docs](https://app.swaggerhub.com/apis-docs/ProdPad/prodpad/1.0#/Ideas/GetIdeas).",
+  "type": "action",
+  "version": "0.0.2"
+}

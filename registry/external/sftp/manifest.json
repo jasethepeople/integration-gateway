@@ -1,0 +1,19 @@
+{
+  "app": "sftp",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "file": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sftp-upload-file",
+    "sftp-watch-remote-directory"
+  ],
+  "npmImports": [
+    "crypto",
+    "ssh2-sftp-client"
+  ]
+}

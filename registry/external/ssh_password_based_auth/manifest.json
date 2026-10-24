@@ -1,0 +1,7 @@
+{
+  "app": "ssh_password_based_auth",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": []
+}

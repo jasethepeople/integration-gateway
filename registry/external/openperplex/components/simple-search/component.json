@@ -1,0 +1,7 @@
+{
+  "key": "openperplex-simple-search",
+  "name": "Simple Search",
+  "description": "Perform a simple search using Openperplex. [See the documentation](https://docs.openperplex.com/api-reference/endpoint/search-simple)",
+  "type": "action",
+  "version": "0.0.2"
+}

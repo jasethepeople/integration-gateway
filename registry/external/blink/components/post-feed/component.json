@@ -1,0 +1,7 @@
+{
+  "key": "blink-post-feed",
+  "name": "Post feed",
+  "description": "Send feed events to users. [See the documentation](https://developer.joinblink.com/reference/send-feed-event)",
+  "type": "action",
+  "version": "0.0.3"
+}

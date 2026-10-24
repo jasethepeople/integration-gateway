@@ -1,0 +1,7 @@
+{
+  "key": "getprospect-new-contact-created",
+  "name": "New Contact Created",
+  "description": "Emit new event when a new contact is created in GetProspect. [See the documentation](https://getprospect.readme.io/reference/contactcontroller_search)",
+  "type": "source",
+  "version": "0.0.1"
+}

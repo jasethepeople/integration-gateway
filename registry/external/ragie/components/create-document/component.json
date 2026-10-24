@@ -1,0 +1,7 @@
+{
+  "key": "ragie-create-document",
+  "name": "Create Document",
+  "description": "Creates a new document in Ragie. [See the documentation](https://docs.ragie.ai/reference/createdocument)",
+  "type": "action",
+  "version": "0.1.3"
+}

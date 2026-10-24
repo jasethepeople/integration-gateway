@@ -1,0 +1,7 @@
+{
+  "key": "pushbullet-list-device-options",
+  "name": "List Device Options",
+  "description": "Retrieves available options for the Device field.",
+  "type": "action",
+  "version": "0.0.1"
+}

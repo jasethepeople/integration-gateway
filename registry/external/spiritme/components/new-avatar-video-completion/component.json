@@ -1,0 +1,7 @@
+{
+  "key": "spiritme-new-avatar-video-completion",
+  "name": "New Avatar Video Completion",
+  "description": "Emit new event when an avatar video completes rendering.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "dealmachine-add-lead",
+  "name": "Add Lead",
+  "description": "Add a lead to your team's account. [See the documentation](https://docs.dealmachine.com/#1f003772-6a7b-43f6-8839-1f30bed55b19)",
+  "type": "action",
+  "version": "0.0.2"
+}

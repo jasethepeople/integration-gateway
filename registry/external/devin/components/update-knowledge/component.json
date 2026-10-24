@@ -1,0 +1,7 @@
+{
+  "key": "devin-update-knowledge",
+  "name": "Update Knowledge",
+  "description": "Update an existing knowledge object. [See the documentation](https://docs.devin.ai/api-reference/knowledge/update-knowledge)",
+  "type": "action",
+  "version": "0.0.2"
+}

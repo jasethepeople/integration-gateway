@@ -1,0 +1,7 @@
+{
+  "key": "teamgate-list-leads-options",
+  "name": "List Leads Options",
+  "description": "Retrieves available options for the Leads field.",
+  "type": "action",
+  "version": "0.0.1"
+}

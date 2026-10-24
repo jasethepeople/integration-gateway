@@ -1,0 +1,7 @@
+{
+  "key": "hookdeck-retrieve-request-events",
+  "name": "Retrieve Request Events",
+  "description": "This endpoint retries the events associated with a request. [See the documentation](https://hookdeck.com/api-ref#retrieve-request-events).",
+  "type": "action",
+  "version": "0.0.2"
+}

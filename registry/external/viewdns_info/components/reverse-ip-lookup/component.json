@@ -1,0 +1,7 @@
+{
+  "key": "viewdns_info-reverse-ip-lookup",
+  "name": "Reverse IP Lookup",
+  "description": "Performs a reverse IP lookup to find domains hosted on the same IP address. [See the documentation](https://viewdns.info/api/reverse-ip-lookup/)",
+  "type": "action",
+  "version": "0.0.2"
+}

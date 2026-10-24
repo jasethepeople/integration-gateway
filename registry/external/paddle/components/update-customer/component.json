@@ -1,0 +1,7 @@
+{
+  "key": "paddle-update-customer",
+  "name": "Update Customer",
+  "description": "Update the customer with the specified ID. [See the documentation](https://developer.paddle.com/api-reference/customers/update-customer)",
+  "type": "action",
+  "version": "0.0.1"
+}

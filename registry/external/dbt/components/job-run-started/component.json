@@ -1,0 +1,7 @@
+{
+  "key": "dbt-job-run-started",
+  "name": "Job Run Started (Instant)",
+  "description": "Emit new event when a job run has started.",
+  "type": "source",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "shopify-add-product-to-custom-collection",
+  "name": "Add Products to Custom Collection",
+  "description": "Adds a product or products to a custom collection. [See the documentation](https://shopify.dev/docs/api/admin-graphql/latest/mutations/collectionAddProductsV2)",
+  "type": "action",
+  "version": "0.0.17"
+}

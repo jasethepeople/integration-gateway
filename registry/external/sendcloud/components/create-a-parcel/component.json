@@ -1,0 +1,7 @@
+{
+  "key": "sendcloud-create-a-parcel",
+  "name": "Create a Parcel",
+  "description": "Creates a new parcel under your Sendcloud API credentials. [See the documentation](https://api.sendcloud.dev/docs/sendcloud-public-api/parcels/operations/create-a-parcel)",
+  "type": "action",
+  "version": "0.0.4"
+}

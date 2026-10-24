@@ -1,0 +1,7 @@
+{
+  "key": "urlbae-shorten-url",
+  "name": "Shorten URL",
+  "description": "Creates a shorten URL. [See the documentation](https://urlbae.com/developers#shorten-a-link)",
+  "type": "action",
+  "version": "0.0.2"
+}

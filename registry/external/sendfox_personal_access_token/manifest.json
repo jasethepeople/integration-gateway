@@ -1,0 +1,9 @@
+{
+  "app": "sendfox_personal_access_token",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "sendfox_personal_access_token-create-contact"
+  ]
+}

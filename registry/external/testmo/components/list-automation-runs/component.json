@@ -1,0 +1,7 @@
+{
+  "key": "testmo-list-automation-runs",
+  "name": "List Automation Runs",
+  "description": "List all automation runs for a project. [See the documentation](https://docs.testmo.com/api/reference/automation-runs#get-projects-project_id-automation-runs)",
+  "type": "action",
+  "version": "0.0.3"
+}

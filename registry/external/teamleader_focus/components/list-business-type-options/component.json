@@ -1,0 +1,7 @@
+{
+  "key": "teamleader_focus-list-business-type-options",
+  "name": "List Business Type Options",
+  "description": "Retrieves available options for the Business Type field.",
+  "type": "action",
+  "version": "0.0.1"
+}

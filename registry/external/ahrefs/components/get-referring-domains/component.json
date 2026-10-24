@@ -1,0 +1,7 @@
+{
+  "key": "ahrefs-get-referring-domains",
+  "name": "Get Referring Domains",
+  "description": "Get the referring domains that contain backlinks to the target URL or domain. [See the documentation](https://docs.ahrefs.com/docs/api/site-explorer/operations/list-refdomains)",
+  "type": "action",
+  "version": "0.0.18"
+}

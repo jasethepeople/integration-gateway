@@ -1,0 +1,26 @@
+{
+  "app": "stripo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "emailId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "stripo-get-raw-html",
+    "stripo-list-email-id-options",
+    "stripo-remove-email",
+    "stripo-search-emails",
+    "stripo-new-email-created"
+  ]
+}

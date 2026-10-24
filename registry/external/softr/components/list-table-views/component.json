@@ -1,0 +1,7 @@
+{
+  "key": "softr-list-table-views",
+  "name": "List Table Views",
+  "description": "Retrieve a list of all views in a table. [See the documentation](https://docs.softr.io/softr-api/softr-database-api/tables/get-table-views)",
+  "type": "action",
+  "version": "0.0.1"
+}

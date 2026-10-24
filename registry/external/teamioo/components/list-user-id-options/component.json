@@ -1,0 +1,7 @@
+{
+  "key": "teamioo-list-user-id-options",
+  "name": "List Assigned User Options",
+  "description": "Retrieves available options for the Assigned User field.",
+  "type": "action",
+  "version": "0.0.1"
+}

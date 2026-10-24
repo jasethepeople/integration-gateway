@@ -1,0 +1,7 @@
+{
+  "key": "opnform-new-submission-instant",
+  "name": "New Submission Instant",
+  "description": "Emit new event when a form receives a submission.",
+  "type": "source",
+  "version": "0.0.1"
+}

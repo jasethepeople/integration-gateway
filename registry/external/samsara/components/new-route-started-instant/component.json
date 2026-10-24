@@ -1,0 +1,7 @@
+{
+  "key": "samsara-new-route-started-instant",
+  "name": "New Route Started (Instant)",
+  "description": "Emit new event when a new route is stated.",
+  "type": "source",
+  "version": "0.0.1"
+}

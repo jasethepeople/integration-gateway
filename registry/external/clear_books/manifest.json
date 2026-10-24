@@ -1,0 +1,28 @@
+{
+  "app": "clear_books",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "supplierId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "purchaseType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "clear_books-create-customer",
+    "clear_books-create-purchase-document",
+    "clear_books-create-supplier",
+    "clear_books-list-supplier-id-options",
+    "clear_books-new-customer-created",
+    "clear_books-new-purchase-document-created",
+    "clear_books-new-transaction-created"
+  ]
+}

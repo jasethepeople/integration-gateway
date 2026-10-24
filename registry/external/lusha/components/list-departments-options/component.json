@@ -1,0 +1,7 @@
+{
+  "key": "lusha-list-departments-options",
+  "name": "List Contact Departments Options",
+  "description": "Retrieves available options for the Contact Departments field.",
+  "type": "action",
+  "version": "0.0.1"
+}

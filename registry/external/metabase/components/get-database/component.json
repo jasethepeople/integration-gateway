@@ -1,0 +1,7 @@
+{
+  "key": "metabase-get-database",
+  "name": "Get Database",
+  "description": "Retrieve database information. [See the documentation](https://www.metabase.com/docs/latest/api#tag/apidatabase/get/api/database/{id}).",
+  "type": "action",
+  "version": "0.0.4"
+}

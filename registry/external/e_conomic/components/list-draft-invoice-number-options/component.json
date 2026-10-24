@@ -1,0 +1,7 @@
+{
+  "key": "e_conomic-list-draft-invoice-number-options",
+  "name": "List Draft Invoice Number Options",
+  "description": "Retrieves available options for the Draft Invoice Number field.",
+  "type": "action",
+  "version": "0.0.1"
+}

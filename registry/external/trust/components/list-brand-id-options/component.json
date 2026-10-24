@@ -1,0 +1,7 @@
+{
+  "key": "trust-list-brand-id-options",
+  "name": "List Brand ID Options",
+  "description": "Retrieves available options for the Brand ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

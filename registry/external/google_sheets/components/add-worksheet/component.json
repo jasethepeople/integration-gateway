@@ -1,0 +1,7 @@
+{
+  "key": "google_sheets-add-worksheet",
+  "name": "Add Worksheet",
+  "description": "Add a new worksheet (tab) to an existing spreadsheet.",
+  "type": "action",
+  "version": "0.0.4"
+}

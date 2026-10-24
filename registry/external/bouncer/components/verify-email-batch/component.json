@@ -1,0 +1,7 @@
+{
+  "key": "bouncer-verify-email-batch",
+  "name": "Verify Email Batch",
+  "description": "Verify multiple emails. [See the documentation](https://docs.usebouncer.com/#b9296001-fa52-459d-997b-bc0663f352d9)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "thinkific-lesson-completed-instant",
+  "name": "New Lesson Completed (Instant)",
+  "description": "Emit new event when a user completes a lesson in a course.",
+  "type": "source",
+  "version": "0.0.2"
+}

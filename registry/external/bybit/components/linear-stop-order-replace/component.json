@@ -1,0 +1,7 @@
+{
+  "key": "bybit-linear-stop-order-replace",
+  "name": "ByBit Linear Stop Order Replace",
+  "description": "Replace conditional order.",
+  "type": "action",
+  "version": "0.0.2"
+}

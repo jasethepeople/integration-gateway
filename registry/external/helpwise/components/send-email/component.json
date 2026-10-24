@@ -1,0 +1,7 @@
+{
+  "key": "helpwise-send-email",
+  "name": "Send Email",
+  "description": "Sends an email to a contact from Helpwise using the legacy send-mail API. [See the documentation](https://documenter.getpostman.com/view/29744652/2s9YC5yYKf#intro)",
+  "type": "action",
+  "version": "0.0.1"
+}

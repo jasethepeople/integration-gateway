@@ -1,0 +1,26 @@
+{
+  "app": "centralstationcrm",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "responsibleUserId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "account_name": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "centralstationcrm-create-deal",
+    "centralstationcrm-create-person",
+    "centralstationcrm-list-responsible-user-id-options",
+    "centralstationcrm-new-deal-created",
+    "centralstationcrm-new-person-created"
+  ]
+}

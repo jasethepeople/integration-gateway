@@ -1,0 +1,7 @@
+{
+  "app": "microsoft_graph_api_daemon_app",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": []
+}

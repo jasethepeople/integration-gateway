@@ -1,0 +1,7 @@
+{
+  "key": "universal_summarizer_by_kagi-summarize-document",
+  "name": "Summarize Document",
+  "description": "Summarizes the content of a URL. [See the documentation](https://help.kagi.com/kagi/api/summarizer.html#summarize-document)",
+  "type": "action",
+  "version": "0.0.2"
+}

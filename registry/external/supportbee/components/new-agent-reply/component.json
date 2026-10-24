@@ -1,0 +1,7 @@
+{
+  "key": "supportbee-new-agent-reply",
+  "name": "New Agent Reply",
+  "description": "Emit new event on each new agent reply a ticket.",
+  "type": "source",
+  "version": "0.0.2"
+}

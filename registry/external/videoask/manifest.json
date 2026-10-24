@@ -1,0 +1,28 @@
+{
+  "app": "videoask",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "organizationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "formId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "videoask-create-contact",
+    "videoask-create-form",
+    "videoask-create-question",
+    "videoask-list-organization-id-options",
+    "videoask-new-contact-message",
+    "videoask-new-form-response",
+    "videoask-new-response-transcribed"
+  ]
+}

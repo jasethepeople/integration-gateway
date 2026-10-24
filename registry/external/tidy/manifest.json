@@ -1,0 +1,31 @@
+{
+  "app": "tidy",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "addressId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "toDoListIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "tidy-create-address",
+    "tidy-list-address-id-options",
+    "tidy-list-job-id-options",
+    "tidy-update-job",
+    "tidy-new-address-created",
+    "tidy-new-job-created"
+  ]
+}

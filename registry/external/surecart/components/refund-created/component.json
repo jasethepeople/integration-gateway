@@ -1,0 +1,7 @@
+{
+  "key": "surecart-refund-created",
+  "name": "New Refund Created (Instant)",
+  "description": "Emit new event when a refund is created. [See the documentation](https://developer.surecart.com/api-reference/webhook-endpoints/create)",
+  "type": "source",
+  "version": "0.0.3"
+}

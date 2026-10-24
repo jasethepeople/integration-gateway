@@ -1,0 +1,12 @@
+{
+  "app": "arxiv",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "arxiv-search-articles"
+  ],
+  "npmImports": [
+    "fs"
+  ]
+}

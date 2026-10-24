@@ -1,0 +1,7 @@
+{
+  "key": "filepost-get-file",
+  "name": "Get File",
+  "description": "Retrieve details of a specific file by its ID. [See the documentation](https://filepost.dev/docs#get-file)",
+  "type": "action",
+  "version": "0.0.1"
+}

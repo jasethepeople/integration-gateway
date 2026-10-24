@@ -1,0 +1,7 @@
+{
+  "key": "whop-new-payment-failed-instant",
+  "name": "New Payment Failed (Instant)",
+  "description": "Emit new event when a payment attempt fails.",
+  "type": "source",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "satuit-new-opportunity",
+  "name": "New Opportunity",
+  "description": "Emit new event when a new opportunity is created in Satuit. [See the documentation](https://satuittechnologies.zendesk.com/hc/en-us/articles/360055725213-Satuit-REST-API-Postman-Documentation)",
+  "type": "source",
+  "version": "0.0.1"
+}

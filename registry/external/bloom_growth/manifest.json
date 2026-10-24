@@ -1,0 +1,32 @@
+{
+  "app": "bloom_growth",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "meetingId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "ownerId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "bloom_growth-create-issue",
+    "bloom_growth-create-to-do",
+    "bloom_growth-list-meeting-id-options",
+    "bloom_growth-list-owner-id-options",
+    "bloom_growth-new-issue-created",
+    "bloom_growth-new-todo-completed",
+    "bloom_growth-new-todo-created"
+  ]
+}

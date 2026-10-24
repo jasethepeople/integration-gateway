@@ -1,0 +1,20 @@
+{
+  "app": "appointedd",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "appointedd-cancelled-booking-with-customer",
+    "appointedd-new-booking-with-customer",
+    "appointedd-new-customer"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "intellihr-new-job-instant",
+  "name": "New Job (Instant)",
+  "description": "Emit new event when a new job is created in intellihr. [See the documentation](https://developers.intellihr.io/docs/v1/#tag/Webhooks)",
+  "type": "source",
+  "version": "0.0.1"
+}

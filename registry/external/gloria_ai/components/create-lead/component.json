@@ -1,0 +1,7 @@
+{
+  "key": "gloria_ai-create-lead",
+  "name": "Create Lead",
+  "description": "Creates a new lead/contact in Gloria.ai. [See the documentation](https://api.iamgloria.com/api).",
+  "type": "action",
+  "version": "0.0.2"
+}

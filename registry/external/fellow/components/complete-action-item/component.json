@@ -1,0 +1,7 @@
+{
+  "key": "fellow-complete-action-item",
+  "name": "Complete Action Item",
+  "description": "Complete an action item. [See the documentation](https://developers.fellow.ai/reference/apps_developer_api_api_mark_action_item_complete)",
+  "type": "action",
+  "version": "0.0.1"
+}

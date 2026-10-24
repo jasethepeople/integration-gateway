@@ -1,0 +1,26 @@
+{
+  "app": "botstar",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "botId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "entityId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "botstar-list-bot-id-options",
+    "botstar-send-message",
+    "botstar-new-bot-created",
+    "botstar-new-cms-entity-created",
+    "botstar-new-cms-entity-item-created"
+  ]
+}

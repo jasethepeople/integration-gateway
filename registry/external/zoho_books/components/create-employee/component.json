@@ -1,0 +1,7 @@
+{
+  "key": "zoho_books-create-employee",
+  "name": "Create Employee",
+  "description": "Creates an employee for an expense. [See the documentation](https://www.zoho.com/books/api/v3/expenses/#create-an-employee)",
+  "type": "action",
+  "version": "0.3.1"
+}

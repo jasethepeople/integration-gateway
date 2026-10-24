@@ -1,0 +1,7 @@
+{
+  "key": "reward_sciences-track-activity",
+  "name": "Track Activity",
+  "description": "Records an activity for a participant in Reward Sciences. [See the documentation](https://developers.rewardsciences.com/api/docs)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "outreach-create-prospect",
+  "name": "Create Prospect",
+  "description": "Creates a new prospect in Outreach. [See the documentation](https://developers.outreach.io/api/reference/tag/Prospect/#tag/Prospect/paths/~1prospects/post)",
+  "type": "action",
+  "version": "0.0.2"
+}

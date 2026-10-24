@@ -1,0 +1,7 @@
+{
+  "key": "teamwork_desk-ticket-created",
+  "name": "New Ticket Created",
+  "description": "Emit new event when a new ticket is created.",
+  "type": "source",
+  "version": "0.0.2"
+}

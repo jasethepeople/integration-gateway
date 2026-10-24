@@ -1,0 +1,7 @@
+{
+  "key": "neo4j_auradb-create-node",
+  "name": "Create Node",
+  "description": "Creates a new node in the Neo4j AuraDB instance. [See the documentation](https://neo4j.com/docs/query-api/current/query/)",
+  "type": "action",
+  "version": "0.0.2"
+}

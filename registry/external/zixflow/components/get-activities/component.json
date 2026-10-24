@@ -1,0 +1,7 @@
+{
+  "key": "zixflow-get-activities",
+  "name": "Get Activities",
+  "description": "Retrieve a list of activities. [See the documentation](https://docs.zixflow.com/api-reference/activity-list/get#body)",
+  "type": "action",
+  "version": "0.0.2"
+}

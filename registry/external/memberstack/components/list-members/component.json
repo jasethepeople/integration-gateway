@@ -1,0 +1,7 @@
+{
+  "key": "memberstack-list-members",
+  "name": "List Members",
+  "description": "Retrieve a list of all members connected to your application. [See the docs](https://memberstack.notion.site/Admin-API-5b9233507d734091bd6ed604fb893bb8)",
+  "type": "action",
+  "version": "0.0.2"
+}

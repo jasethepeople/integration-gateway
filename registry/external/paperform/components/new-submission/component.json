@@ -1,0 +1,7 @@
+{
+  "key": "paperform-new-submission",
+  "name": "New Submission",
+  "description": "Emit new event when a new submission is made on the specified form in Paperform. [See the documentation](https://paperform.readme.io/reference/listformsubmissions)",
+  "type": "source",
+  "version": "0.0.2"
+}

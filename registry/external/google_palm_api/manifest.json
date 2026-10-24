@@ -1,0 +1,20 @@
+{
+  "app": "google_palm_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "palm_api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "google_palm_api-chat",
+    "google_palm_api-generate-embeddings",
+    "google_palm_api-generate-text"
+  ],
+  "npmImports": [
+    "@google-ai/generativelanguage",
+    "google-auth-library"
+  ]
+}

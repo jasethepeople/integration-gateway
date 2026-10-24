@@ -1,0 +1,7 @@
+{
+  "key": "azure_sql-new-column",
+  "name": "New Column",
+  "description": "Triggers when a new column is added to a table.",
+  "type": "source",
+  "version": "0.0.6"
+}

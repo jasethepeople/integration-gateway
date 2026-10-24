@@ -1,0 +1,24 @@
+{
+  "app": "scrapecreators",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "platform": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "profileId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "scrapecreators-fetch-creator-profile",
+    "scrapecreators-search-creators",
+    "scrapecreators-new-profile-update"
+  ]
+}

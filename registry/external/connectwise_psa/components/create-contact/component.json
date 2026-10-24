@@ -1,0 +1,7 @@
+{
+  "key": "connectwise_psa-create-contact",
+  "name": "Create Contact",
+  "description": "Creates a new contact in Connectwise. [See the documentation](https://developer.connectwise.com/Products/ConnectWise_PSA/REST#/Contacts/postCompanyContacts)",
+  "type": "action",
+  "version": "0.1.3"
+}

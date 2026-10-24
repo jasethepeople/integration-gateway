@@ -1,0 +1,7 @@
+{
+  "key": "frontapp-create-inbox",
+  "name": "Create Inbox",
+  "description": "Create an inbox in the default team (workspace). [See the documentation](https://dev.frontapp.com/reference/create-inbox).",
+  "type": "action",
+  "version": "0.0.6"
+}

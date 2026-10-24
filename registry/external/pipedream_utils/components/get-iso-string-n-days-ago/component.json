@@ -1,0 +1,7 @@
+{
+  "key": "pipedream_utils-get-iso-string-n-days-ago",
+  "name": "Helper Functions - Get ISO String N Days Ago",
+  "description": "Returns an ISO string (UTC TZ) N days ago",
+  "type": "action",
+  "version": "0.0.2"
+}

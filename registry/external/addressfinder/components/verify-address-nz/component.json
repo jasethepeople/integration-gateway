@@ -1,0 +1,7 @@
+{
+  "key": "addressfinder-verify-address-nz",
+  "name": "Verify New Zealand Address",
+  "description": "Validates a New Zealand address. [See the documentation](https://addressfinder.com.au/api/nz/address/verification/)",
+  "type": "action",
+  "version": "0.0.2"
+}

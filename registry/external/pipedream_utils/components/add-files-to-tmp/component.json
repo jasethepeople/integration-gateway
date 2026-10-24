@@ -1,0 +1,7 @@
+{
+  "key": "pipedream_utils-add-files-to-tmp",
+  "name": "Add Files To /tmp",
+  "description": "Adds a list of files to [your workflow's /tmp directory](https://pipedream.com/docs/code/nodejs/working-with-files/#the-tmp-directory)",
+  "type": "action",
+  "version": "0.0.2"
+}

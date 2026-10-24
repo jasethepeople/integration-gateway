@@ -1,0 +1,7 @@
+{
+  "key": "awork-create-project",
+  "name": "Create Project",
+  "description": "Creates a project. [See docs here](https://openapi.awork.io/#/Projects/post_projects)",
+  "type": "action",
+  "version": "0.0.3"
+}

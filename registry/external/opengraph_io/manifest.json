@@ -1,0 +1,27 @@
+{
+  "app": "opengraph_io",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "properties": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "opengraph_io-batch-scrape",
+    "opengraph_io-extract-data",
+    "opengraph_io-scrape-url"
+  ],
+  "npmImports": [
+    "opengraph-io"
+  ]
+}

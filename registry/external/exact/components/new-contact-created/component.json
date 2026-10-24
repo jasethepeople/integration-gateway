@@ -1,0 +1,7 @@
+{
+  "key": "exact-new-contact-created",
+  "name": "New Contact Created",
+  "description": "Emit new event each time a new contact is created. [See the docs](https://start.exactonline.nl/docs/HlpRestAPIResourcesDetails.aspx?name=CRMContacts)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "flodesk-list-segment-ids-options",
+  "name": "List Segments Options",
+  "description": "Retrieves available options for the Segments field.",
+  "type": "action",
+  "version": "0.0.1"
+}

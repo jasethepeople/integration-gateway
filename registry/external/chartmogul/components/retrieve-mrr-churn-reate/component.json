@@ -1,0 +1,7 @@
+{
+  "key": "chartmogul-retrieve-mrr-churn-reate",
+  "name": "Retrieve MRR Churn Rate",
+  "description": "Retrieves the Net MRR Churn Rate, for the specified time period. [See the docs here](https://dev.chartmogul.com/reference/retrieve-mrr-churn-rate)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "apollo_io_oauth-create-or-update-opportunity",
+  "name": "Create or Update Opportunity",
+  "description": "Creates a new opportunity (deal) or updates an existing",
+  "type": "action",
+  "version": "0.0.2"
+}

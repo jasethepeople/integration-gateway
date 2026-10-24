@@ -1,0 +1,7 @@
+{
+  "key": "plainly-list-render-id-options",
+  "name": "List Render ID Options",
+  "description": "Retrieves available options for the Render ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

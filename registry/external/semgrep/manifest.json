@@ -1,0 +1,30 @@
+{
+  "app": "semgrep",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "deploymentSlug": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "semgrep-get-deployments",
+    "semgrep-get-findings",
+    "semgrep-get-projects",
+    "semgrep-list-deployment-slug-options",
+    "semgrep-update-project"
+  ]
+}

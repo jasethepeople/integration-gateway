@@ -1,0 +1,7 @@
+{
+  "key": "bol_com-list-invoice-requests",
+  "name": "List Invoice Requests",
+  "description": "List invoice requests. [See the documentation](https://api.bol.com/retailer/public/redoc/v10/retailer.html#tag/Shipments/operation/get-invoice-requests)",
+  "type": "action",
+  "version": "0.0.1"
+}

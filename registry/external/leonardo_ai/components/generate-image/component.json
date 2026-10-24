@@ -1,0 +1,7 @@
+{
+  "key": "leonardo_ai-generate-image",
+  "name": "Generate Image",
+  "description": "Generates new images using Leonardo AI's image generation API.  [See the documentation](https://docs.leonardo.ai/reference/creategeneration)",
+  "type": "action",
+  "version": "0.0.3"
+}

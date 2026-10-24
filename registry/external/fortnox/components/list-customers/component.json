@@ -1,0 +1,7 @@
+{
+  "key": "fortnox-list-customers",
+  "name": "List Customers",
+  "description": "List all customers in Fortnox. [See the documentation](https://api.fortnox.se/apidocs#tag/fortnox_Customers/operation/list_15)",
+  "type": "action",
+  "version": "0.0.1"
+}

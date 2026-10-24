@@ -1,0 +1,7 @@
+{
+  "key": "trengo-list-help-center-id-options",
+  "name": "List Help Center ID Options",
+  "description": "Retrieves available options for the Help Center ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

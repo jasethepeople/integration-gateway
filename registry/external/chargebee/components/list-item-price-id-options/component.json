@@ -1,0 +1,7 @@
+{
+  "key": "chargebee-list-item-price-id-options",
+  "name": "List Plan Item Price ID Options",
+  "description": "Retrieves available options for the Plan Item Price ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

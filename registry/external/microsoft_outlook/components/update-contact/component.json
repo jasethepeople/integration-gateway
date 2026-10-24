@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_outlook-update-contact",
+  "name": "Update Contact",
+  "description": "Update an existing contact, [See the docs](https://docs.microsoft.com/en-us/graph/api/user-post-contacts)",
+  "type": "action",
+  "version": "0.0.34"
+}

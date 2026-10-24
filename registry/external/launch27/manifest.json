@@ -1,0 +1,26 @@
+{
+  "app": "launch27",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "frequencyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "launch27-get-booking-spots",
+    "launch27-get-next-booking-date",
+    "launch27-get-policy",
+    "launch27-list-frequency-id-options",
+    "launch27-list-services"
+  ]
+}

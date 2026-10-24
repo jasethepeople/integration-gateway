@@ -1,0 +1,7 @@
+{
+  "key": "bybit-linear-position-list",
+  "name": "ByBit Linear Position List",
+  "description": "Get Positions List",
+  "type": "action",
+  "version": "0.0.2"
+}

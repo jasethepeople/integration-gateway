@@ -1,0 +1,7 @@
+{
+  "key": "regal-add-contact-to-event",
+  "name": "Add Contact to Event",
+  "description": "Add a contact to an event. [See the documentation](https://developer.regal.io/reference/api)",
+  "type": "action",
+  "version": "0.0.2"
+}

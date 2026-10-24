@@ -1,0 +1,58 @@
+{
+  "app": "zendesk_sell",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "leadId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dealId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "isOrganization": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zendesk_sell-create-contact",
+    "zendesk_sell-create-lead",
+    "zendesk_sell-create-task",
+    "zendesk_sell-list-contact-id-options",
+    "zendesk_sell-list-deal-id-options",
+    "zendesk_sell-list-lead-id-options",
+    "zendesk_sell-new-contact-created",
+    "zendesk_sell-new-deal-created",
+    "zendesk_sell-new-lead-created"
+  ]
+}

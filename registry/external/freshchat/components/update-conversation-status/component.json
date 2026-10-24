@@ -1,0 +1,7 @@
+{
+  "key": "freshchat-update-conversation-status",
+  "name": "Update Conversation",
+  "description": "Updates a conversation's status, assignment, or properties. [See the documentation](https://developers.freshchat.com/api/#update_a_conversation)",
+  "type": "action",
+  "version": "0.0.6"
+}

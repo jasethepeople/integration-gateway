@@ -1,0 +1,7 @@
+{
+  "key": "dixa-close-conversation",
+  "name": "Close Conversation",
+  "description": "Mark a conversation as closed by providing its id. [See the documentation](https://docs.dixa.io/openapi/dixa-api/v1/tag/Conversations/#tag/Conversations/operation/putConversationsConversationidClose)",
+  "type": "action",
+  "version": "0.0.1"
+}

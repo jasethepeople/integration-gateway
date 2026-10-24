@@ -1,0 +1,7 @@
+{
+  "key": "hookdeck-new-event-received",
+  "name": "New Event Received (Instant)",
+  "description": "Emit new event when a new event is received from a HookDeck source.",
+  "type": "source",
+  "version": "0.0.3"
+}

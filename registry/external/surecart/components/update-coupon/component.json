@@ -1,0 +1,7 @@
+{
+  "key": "surecart-update-coupon",
+  "name": "Update Coupon",
+  "description": "Update an existing coupon. [See the documentation](https://developer.surecart.com/api-reference/coupons/update)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zep-create-session",
+  "name": "Create Session",
+  "description": "Creates a new session in Zep. [See the documentation](https://help.getzep.com/api-reference/memory/add-session)",
+  "type": "action",
+  "version": "0.0.3"
+}

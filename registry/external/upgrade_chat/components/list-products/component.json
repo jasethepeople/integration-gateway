@@ -1,0 +1,7 @@
+{
+  "key": "upgrade_chat-list-products",
+  "name": "List Products",
+  "description": "Retrieve a list of products. [See the documentation](https://upgrade.chat/developers/documentation)",
+  "type": "action",
+  "version": "0.0.1"
+}

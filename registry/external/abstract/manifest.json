@@ -1,0 +1,22 @@
+{
+  "app": "abstract",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "emailAddress": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "autoCorrect": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "email_validation_api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "abstract-validate-email"
+  ]
+}

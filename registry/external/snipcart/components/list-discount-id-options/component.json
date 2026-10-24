@@ -1,0 +1,7 @@
+{
+  "key": "snipcart-list-discount-id-options",
+  "name": "List Discount ID Options",
+  "description": "Retrieves available options for the Discount ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

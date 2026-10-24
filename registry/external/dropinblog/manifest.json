@@ -1,0 +1,33 @@
+{
+  "app": "dropinblog",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "content": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "categoryId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "authorId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "blog_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dropinblog-create-post",
+    "dropinblog-list-author-id-options",
+    "dropinblog-list-category-id-options",
+    "dropinblog-new-post-published"
+  ]
+}

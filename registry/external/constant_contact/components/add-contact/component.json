@@ -1,0 +1,7 @@
+{
+  "key": "constant_contact-add-contact",
+  "name": "Add Contact",
+  "description": "Add a single contact. [See the documentation](https://developer.constantcontact.com/api_reference/index.html#!/Contacts/createContact)",
+  "type": "action",
+  "version": "0.0.4"
+}

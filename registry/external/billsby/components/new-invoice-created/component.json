@@ -1,0 +1,7 @@
+{
+  "key": "billsby-new-invoice-created",
+  "name": "New Invoice Created",
+  "description": "Emit new event when a new company invoice is created. [See the documentation](https://support.billsby.com/reference/get-company-credit-notes)",
+  "type": "source",
+  "version": "0.0.1"
+}

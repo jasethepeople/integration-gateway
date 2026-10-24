@@ -1,0 +1,60 @@
+{
+  "app": "rentcast",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "zipCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "infoAlert": {
+      "kind": "propDefinition",
+      "type": "alert"
+    },
+    "address": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "latitude": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "longitude": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "propertyType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "bedrooms": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "bathrooms": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "squareFootage": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxRadius": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "daysOld": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "rentcast-find-rental-listings",
+    "rentcast-get-market-statistics",
+    "rentcast-get-rent-estimate"
+  ]
+}

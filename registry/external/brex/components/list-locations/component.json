@@ -1,0 +1,7 @@
+{
+  "key": "brex-list-locations",
+  "name": "List Locations",
+  "description": "Lists the office locations configured in the Brex account with their ID and name. Results are capped at `maxResults` (default `100`) — check `$summary` for a truncation notice and raise `maxResults` if it's truncated. This is how you turn a location name into the location ID that **Invite User** requires. [See the documentation](https://developer.brex.com/openapi/team_api/locations/listlocations)",
+  "type": "action",
+  "version": "0.0.1"
+}

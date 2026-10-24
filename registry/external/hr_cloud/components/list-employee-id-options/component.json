@@ -1,0 +1,7 @@
+{
+  "key": "hr_cloud-list-employee-id-options",
+  "name": "List Employee Options",
+  "description": "Retrieves available options for the Employee field.",
+  "type": "action",
+  "version": "0.0.1"
+}

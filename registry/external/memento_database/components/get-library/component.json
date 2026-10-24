@@ -1,0 +1,7 @@
+{
+  "key": "memento_database-get-library",
+  "name": "Get Library",
+  "description": "Get a library by ID on Memento Database. [See the documentation](https://mementodatabase.docs.apiary.io/#reference/0/library/get-a-library)",
+  "type": "action",
+  "version": "0.0.1"
+}

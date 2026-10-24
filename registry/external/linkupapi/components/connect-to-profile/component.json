@@ -1,0 +1,7 @@
+{
+  "key": "linkupapi-connect-to-profile",
+  "name": "Connect To Profile",
+  "description": "Send a connection invitation to a LinkedIn profile. [See the documentation](https://docs.linkupapi.com/api-reference/v2/network/invite)",
+  "type": "action",
+  "version": "1.0.1"
+}

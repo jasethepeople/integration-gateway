@@ -1,0 +1,7 @@
+{
+  "key": "payrexx-create-manual-payout",
+  "name": "Create Manual Payout",
+  "description": "Create a manual payout. [See the documentation](https://developers.payrexx.com/reference/create-manual-payout)",
+  "type": "action",
+  "version": "0.0.1"
+}

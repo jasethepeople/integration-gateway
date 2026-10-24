@@ -1,0 +1,7 @@
+{
+  "key": "google_postmaster_tools_api-new-matched-traffic-stats",
+  "name": "New Matched Traffic Stats",
+  "description": "Emits a new event when traffic stats match certain criteria. [See the documentation](https://developers.google.com/gmail/postmaster/reference/rest)",
+  "type": "source",
+  "version": "0.1.0"
+}

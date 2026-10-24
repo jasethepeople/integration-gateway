@@ -1,0 +1,7 @@
+{
+  "key": "slack-new-message-in-channels",
+  "name": "New Message In Channels",
+  "description": "Emit new event when a new message is posted to one or more channels (polling via conversations.history)",
+  "type": "source",
+  "version": "1.1.16"
+}

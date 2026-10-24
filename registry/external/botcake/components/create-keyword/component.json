@@ -1,0 +1,7 @@
+{
+  "key": "botcake-create-keyword",
+  "name": "Create Keyword",
+  "description": "Create a new Keyword. [See the documentation](https://docs.botcake.io/english/api-reference#create-keyword)",
+  "type": "action",
+  "version": "0.0.2"
+}

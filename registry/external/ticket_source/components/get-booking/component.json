@@ -1,0 +1,7 @@
+{
+  "key": "ticket_source-get-booking",
+  "name": "Get Booking",
+  "description": "Retrieves details of a specific booking. [See the documentation](https://reference.ticketsource.io/#/operations/get-booking)",
+  "type": "action",
+  "version": "0.0.1"
+}

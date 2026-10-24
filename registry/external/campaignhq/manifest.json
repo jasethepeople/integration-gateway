@@ -1,0 +1,21 @@
+{
+  "app": "campaignhq",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "listId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "campaignhq-create-contact",
+    "campaignhq-create-list",
+    "campaignhq-get-all-contacts",
+    "campaignhq-get-all-lists"
+  ]
+}

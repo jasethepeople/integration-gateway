@@ -1,0 +1,7 @@
+{
+  "key": "quickbooks-list-term-ids-options",
+  "name": "List Term IDs Options",
+  "description": "Retrieves available options for the Term IDs field.",
+  "type": "action",
+  "version": "0.0.1"
+}

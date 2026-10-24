@@ -1,0 +1,60 @@
+{
+  "app": "hellosign",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "role": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "signers": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "fileUrls": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "ccEmailAddresses": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "allowDecline": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "message": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subject": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "testMode": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_uid": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "hellosign-list-template-id-options",
+    "hellosign-send-signature-request-from-template",
+    "hellosign-send-signature-request"
+  ]
+}

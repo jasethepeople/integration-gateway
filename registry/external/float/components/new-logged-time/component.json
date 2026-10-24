@@ -1,0 +1,7 @@
+{
+  "key": "float-new-logged-time",
+  "name": "New Logged Time",
+  "description": "Emit new event when a new logged time entry is created. [See the documentation](https://developer.float.com/api_reference.html#!/Logged_Time/getLoggedTimes)",
+  "type": "source",
+  "version": "0.0.1"
+}

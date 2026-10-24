@@ -1,0 +1,7 @@
+{
+  "key": "awork-new-task",
+  "name": "New Task (Instant)",
+  "description": "Emit new event on each created task.",
+  "type": "source",
+  "version": "0.0.2"
+}

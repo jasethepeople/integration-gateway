@@ -1,0 +1,7 @@
+{
+  "key": "heartbeat-user-updated-instant",
+  "name": "User Updated (Instant)",
+  "description": "Emit new event when a user is updated. [See the documentation](https://heartbeat.readme.io/reference/createwebhook)",
+  "type": "source",
+  "version": "0.0.1"
+}

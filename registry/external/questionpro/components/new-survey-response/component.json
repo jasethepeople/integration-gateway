@@ -1,0 +1,7 @@
+{
+  "key": "questionpro-new-survey-response",
+  "name": "New Survey Response (Instant)",
+  "description": "Emit new event when a new survey response is received. [See the documentation](https://www.questionpro.com/api/create-webhook.html)",
+  "type": "source",
+  "version": "0.0.1"
+}

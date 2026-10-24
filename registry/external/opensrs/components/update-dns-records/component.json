@@ -1,0 +1,7 @@
+{
+  "key": "opensrs-update-dns-records",
+  "name": "Update DNS Records",
+  "description": "Update DNS records for a specified domain. [See the documentation](https://domains.opensrs.guide/docs/set_dns_zone-).",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "papertrail-new-log-events",
+  "name": "New Log Events",
+  "description": "Emit new log lines by polling the Papertrail search API (live-tail style using `min_id`). Optional search query, system, or group scope. [See the documentation](https://www.papertrail.com/help/search-api/)",
+  "type": "source",
+  "version": "0.0.1"
+}

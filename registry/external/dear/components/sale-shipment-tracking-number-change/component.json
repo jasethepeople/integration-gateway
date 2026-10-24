@@ -1,0 +1,7 @@
+{
+  "key": "dear-sale-shipment-tracking-number-change",
+  "name": "New Shipment Tracking Number Change",
+  "description": "Emit new event when a shipment tracking number changes. [See the documentation](https://dearinventory.docs.apiary.io/#reference/webhooks)",
+  "type": "source",
+  "version": "0.0.2"
+}

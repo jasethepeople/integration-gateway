@@ -1,0 +1,7 @@
+{
+  "key": "harvest-get-time-report",
+  "name": "Get Time Report",
+  "description": "The dimension to group the report by. One of: `clients`, `projects`, `tasks`, `team`.",
+  "type": "action",
+  "version": "0.0.1"
+}

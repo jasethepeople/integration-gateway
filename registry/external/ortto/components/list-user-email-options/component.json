@@ -1,0 +1,7 @@
+{
+  "key": "ortto-list-user-email-options",
+  "name": "List User Email Options",
+  "description": "Retrieves available options for the User Email field.",
+  "type": "action",
+  "version": "0.0.1"
+}

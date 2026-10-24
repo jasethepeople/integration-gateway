@@ -1,0 +1,7 @@
+{
+  "key": "browser_use-get-workspace-size",
+  "name": "Get Workspace Size",
+  "description": "Get storage usage for a Browser Use workspace. [See the documentation](https://docs.browser-use.com/cloud/api-v3/workspaces/get-workspace-size)",
+  "type": "action",
+  "version": "0.0.1"
+}

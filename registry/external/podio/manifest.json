@@ -1,0 +1,52 @@
+{
+  "app": "podio",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "orgId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "spaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "appId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "itemId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "reminder": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "podio-attach-file",
+    "podio-create-item",
+    "podio-create-status",
+    "podio-create-task",
+    "podio-find-item",
+    "podio-list-org-id-options",
+    "podio-update-item",
+    "podio-upload-file",
+    "podio-upload-from-url",
+    "podio-item-updated",
+    "podio-new-application-created",
+    "podio-new-item-created",
+    "podio-new-organization-created",
+    "podio-new-task-created",
+    "podio-new-view-created",
+    "podio-new-workspace-created"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

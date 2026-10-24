@@ -1,0 +1,7 @@
+{
+  "key": "botpenguin-add-whatsapp-contact",
+  "name": "Add WhatsApp Contact",
+  "description": "Adds a new WhatsApp contact to your BotPenguin account. [See the documentation](https://help.botpenguin.com/api-references/contacts-and-chats-apis/add-whatsapp-contact)",
+  "type": "action",
+  "version": "0.0.2"
+}

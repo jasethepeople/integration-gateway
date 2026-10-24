@@ -1,0 +1,7 @@
+{
+  "key": "simla_com-updated-customer",
+  "name": "Updated Customer",
+  "description": "Emit new event when a customer is updated. [See the documentation](https://docs.simla.com/Developers/API/APIVersions/APIv5#get--api-v5-customers).",
+  "type": "source",
+  "version": "0.0.1"
+}

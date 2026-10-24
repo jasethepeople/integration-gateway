@@ -1,0 +1,7 @@
+{
+  "key": "notion-create-database",
+  "name": "Create Database",
+  "description": "Create a new Notion database (data source) as a subpage of a parent page, defining its column schema.",
+  "type": "action",
+  "version": "1.0.2"
+}

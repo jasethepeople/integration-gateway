@@ -1,0 +1,7 @@
+{
+  "key": "dataforseo-list-location-code-options",
+  "name": "List Location Code Options",
+  "description": "Retrieves available options for the Location Code field.",
+  "type": "action",
+  "version": "0.0.1"
+}

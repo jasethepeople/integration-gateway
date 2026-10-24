@@ -1,0 +1,7 @@
+{
+  "key": "modeck-create-render",
+  "name": "Create Render",
+  "description": "Create a new edit with the data supplied. [See the documentation](https://modeck.io/docs#modeckapi)",
+  "type": "action",
+  "version": "0.0.2"
+}

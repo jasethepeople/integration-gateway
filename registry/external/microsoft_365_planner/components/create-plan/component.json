@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_365_planner-create-plan",
+  "name": "Create Plan",
+  "description": "Create a new plan in Microsoft 365 Planner. [See the documentation](https://learn.microsoft.com/en-us/graph/api/planner-post-plans)",
+  "type": "action",
+  "version": "0.0.5"
+}

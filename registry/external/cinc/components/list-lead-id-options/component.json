@@ -1,0 +1,7 @@
+{
+  "key": "cinc-list-lead-id-options",
+  "name": "List Lead Identifier Options",
+  "description": "Retrieves available options for the Lead Identifier field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "teamgate-new-lost-deal",
+  "name": "New Lost Deal",
+  "description": "Emit new event when a deal is lost. [See docs here](https://developers.teamgate.com/#8f23eadd-e356-4b45-bdbe-b1122da6f762)",
+  "type": "source",
+  "version": "0.0.1"
+}

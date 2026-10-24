@@ -1,0 +1,7 @@
+{
+  "key": "podio-create-item",
+  "name": "Create an Item",
+  "description": "Adds a new item to the given app. [See the documentation](https://developers.podio.com/doc/items/add-new-item-22362)",
+  "type": "action",
+  "version": "0.0.5"
+}

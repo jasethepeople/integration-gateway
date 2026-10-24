@@ -1,0 +1,7 @@
+{
+  "key": "rinkel-get-call-recording",
+  "name": "Get Call Recording",
+  "description": "Get a call recording. [See the documentation](https://developers.rinkel.com/docs/api/get-a-recording)",
+  "type": "action",
+  "version": "0.0.2"
+}

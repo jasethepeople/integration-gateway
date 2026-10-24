@@ -1,0 +1,7 @@
+{
+  "key": "eventee-new-registration-created",
+  "name": "New Registration Created",
+  "description": "Emit new event when a new registration is created. [See the documentation](https://publiceventeeapi.docs.apiary.io/#reference/registrations/get-all-registrations/get-all)",
+  "type": "source",
+  "version": "0.0.1"
+}

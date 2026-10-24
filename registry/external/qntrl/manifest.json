@@ -1,0 +1,30 @@
+{
+  "app": "qntrl",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "orgId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "formId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "qntrl-create-job",
+    "qntrl-list-org-id-options",
+    "qntrl-post-comment",
+    "qntrl-new-job-comment",
+    "qntrl-new-job-created"
+  ]
+}

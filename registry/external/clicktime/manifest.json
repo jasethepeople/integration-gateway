@@ -1,0 +1,102 @@
+{
+  "app": "clicktime",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "accountingPackageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "billingRate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "clientNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "isActive": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "isEligibleTimeOffAllocation": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "notes": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shortName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "clientId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "includeInRm": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "isBillable": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "jobNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timeRequiresApproval": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "useCompanyBillingRate": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "costModel": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "costRate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "employmentTypeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "role": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "clicktime-create-client",
+    "clicktime-create-job",
+    "clicktime-create-user",
+    "clicktime-list-client-id-options",
+    "clicktime-list-employment-type-id-options"
+  ]
+}

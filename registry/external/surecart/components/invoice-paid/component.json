@@ -1,0 +1,7 @@
+{
+  "key": "surecart-invoice-paid",
+  "name": "New Invoice Paid (Instant)",
+  "description": "Emit new event when an invoice is paid. [See the documentation](https://developer.surecart.com/api-reference/webhook-endpoints/create)",
+  "type": "source",
+  "version": "0.0.3"
+}

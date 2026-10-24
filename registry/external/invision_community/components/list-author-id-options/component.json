@@ -1,0 +1,7 @@
+{
+  "key": "invision_community-list-author-id-options",
+  "name": "List Author Id Options",
+  "description": "Retrieves available options for the Author Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "codemagic-list-application",
+  "name": "List Applications",
+  "description": "List applications in codemagic. [See the documentation](https://docs.codemagic.io/rest-api/applications/#retrieve-all-applications)",
+  "type": "action",
+  "version": "0.0.2"
+}

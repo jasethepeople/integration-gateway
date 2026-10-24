@@ -1,0 +1,7 @@
+{
+  "key": "slite-fetch-sub-docs",
+  "name": "Fetch Sub-Documents",
+  "description": "Fetches a certain number of sub-documents related to a parent document in Slite. [See the documentation](https://developers.slite.com/reference/getnotechildren)",
+  "type": "action",
+  "version": "0.0.2"
+}

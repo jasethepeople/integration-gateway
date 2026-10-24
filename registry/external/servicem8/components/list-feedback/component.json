@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-list-feedback",
+  "name": "List Feedback",
+  "description": "List feedback with optional filters. [See the documentation](https://developer.servicem8.com/reference/listfeedback)",
+  "type": "action",
+  "version": "0.0.1"
+}

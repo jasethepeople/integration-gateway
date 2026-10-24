@@ -1,0 +1,7 @@
+{
+  "key": "cal_com-get-booking",
+  "name": "Get Booking",
+  "description": "Retrieve a booking by its UID. [See the documentation](https://cal.com/docs/api-reference/v2/bookings/get-a-booking)",
+  "type": "action",
+  "version": "1.0.0"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "jibble-list-activity-id-options",
+  "name": "List Activity ID Options",
+  "description": "Retrieves available options for the Activity ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

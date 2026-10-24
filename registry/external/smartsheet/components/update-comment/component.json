@@ -1,0 +1,7 @@
+{
+  "key": "smartsheet-update-comment",
+  "name": "Update Comment",
+  "description": "Updates the text of an existing comment on a Smartsheet sheet",
+  "type": "action",
+  "version": "0.0.2"
+}

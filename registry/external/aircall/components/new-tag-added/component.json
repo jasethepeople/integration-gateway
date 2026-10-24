@@ -1,0 +1,7 @@
+{
+  "key": "aircall-new-tag-added",
+  "name": "New Tag Added",
+  "description": "Emit new event when a tag is added to a call",
+  "type": "source",
+  "version": "0.0.5"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "bybit-generic-market-account-ratio",
+  "name": "ByBit Generic Market Account Ratio",
+  "description": "Gets the Bybit user accounts' long-short ratio.",
+  "type": "action",
+  "version": "0.0.2"
+}

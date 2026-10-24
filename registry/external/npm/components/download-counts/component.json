@@ -1,0 +1,7 @@
+{
+  "key": "npm-download-counts",
+  "name": "New Download Counts",
+  "description": "Emit new event with the latest count of downloads for an npm package. [See the documentation](https://github.com/npm/registry/blob/main/docs/download-counts.md).",
+  "type": "source",
+  "version": "0.1.0"
+}

@@ -1,0 +1,31 @@
+{
+  "app": "zoho_sign",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "documentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "base_api_uri": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zoho_sign-get-document-details",
+    "zoho_sign-get-document-form-detail",
+    "zoho_sign-send-document",
+    "zoho_sign-document-completed",
+    "zoho_sign-document-created",
+    "zoho_sign-document-signed"
+  ]
+}

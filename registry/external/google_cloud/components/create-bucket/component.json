@@ -1,0 +1,7 @@
+{
+  "key": "google_cloud-create-bucket",
+  "name": "Create Bucket",
+  "description": "Creates a bucket on Google Cloud Storage [See the docs](https://googleapis.dev/nodejs/storage/latest/Bucket.html#create)",
+  "type": "action",
+  "version": "0.0.6"
+}

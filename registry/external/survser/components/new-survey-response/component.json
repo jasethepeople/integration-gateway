@@ -1,0 +1,7 @@
+{
+  "key": "survser-new-survey-response",
+  "name": "New Survey Response",
+  "description": "Emit new event when a new survey response is received. [See the documentation](https://docs.survser.com/docs/api)",
+  "type": "source",
+  "version": "0.0.1"
+}

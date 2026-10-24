@@ -1,0 +1,7 @@
+{
+  "key": "rescuetime-new-daily-summary-report-created",
+  "name": "New Daily Summary Report Created",
+  "description": "Emit new event each time a new daily summary report is available. [See the docs here](https://www.rescuetime.com/rtx/developers#daily-summary-feed-reference)",
+  "type": "source",
+  "version": "0.0.1"
+}

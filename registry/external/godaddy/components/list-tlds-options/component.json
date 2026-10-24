@@ -1,0 +1,7 @@
+{
+  "key": "godaddy-list-tlds-options",
+  "name": "List TLDs Options",
+  "description": "Retrieves available options for the TLDs field.",
+  "type": "action",
+  "version": "0.0.1"
+}

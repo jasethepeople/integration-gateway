@@ -1,0 +1,7 @@
+{
+  "key": "decision_journal-list-decision-id-options",
+  "name": "List Decision ID Options",
+  "description": "Retrieves available options for the Decision ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "drip-custom-event-performed",
+  "name": "New Custom Event Performed (Instant)",
+  "description": "Emit new event when a custom event is performed for a subscriber",
+  "type": "source",
+  "version": "0.0.1"
+}

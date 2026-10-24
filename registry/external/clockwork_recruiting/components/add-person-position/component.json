@@ -1,0 +1,7 @@
+{
+  "key": "clockwork_recruiting-add-person-position",
+  "name": "Add Position",
+  "description": "Add a position to a specific person. [See the documentation](https://app.swaggerhub.com/apis-docs/clockwork-recruiting/cw-public-api/3.0.0#/Person%20Positions/post_people__person_id__positions)",
+  "type": "action",
+  "version": "0.0.2"
+}

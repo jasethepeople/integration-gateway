@@ -1,0 +1,7 @@
+{
+  "key": "dataforseo-get-keyword-difficulty",
+  "name": "Get Keyword Difficulty",
+  "description": "Get Keyword Difficulty. [See the documentation](https://docs.dataforseo.com/v3/dataforseo_labs/google/bulk_keyword_difficulty/live/?bash)",
+  "type": "action",
+  "version": "0.0.4"
+}

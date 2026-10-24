@@ -1,0 +1,7 @@
+{
+  "key": "quickbooks-list-purchase-id-options",
+  "name": "List Purchase ID Options",
+  "description": "Retrieves available options for the Purchase ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

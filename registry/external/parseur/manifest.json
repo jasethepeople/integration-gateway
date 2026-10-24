@@ -1,0 +1,30 @@
+{
+  "app": "parseur",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "parserId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "parserField": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "parseur-list-parser-id-options",
+    "parseur-new-document-not-processed",
+    "parseur-new-document-processed-with-list-items",
+    "parseur-new-document-processed",
+    "parseur-new-mailbox-created",
+    "parseur-new-table-processed"
+  ],
+  "npmImports": [
+    "uuid"
+  ]
+}

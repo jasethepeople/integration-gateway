@@ -1,0 +1,7 @@
+{
+  "key": "reflect-new-link-created",
+  "name": "New Link Created",
+  "description": "Emit new event when a new link is created. [See the documentation](https://openpm.ai/apis/reflect#/graphs/{graphId}/links)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,179 @@
+{
+  "app": "todoist",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "includeResourceTypes": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "selectProjects": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "project": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "section": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "label": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "labelString": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "task": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "completedTask": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "assignee": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "filter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "commentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "order": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "color": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "favorite": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "content": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "priority": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "dueString": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dueDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dueDatetime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dueLang": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "createIfNotFound": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "path": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "todoist-create-filter",
+    "todoist-create-label",
+    "todoist-create-project-comment",
+    "todoist-create-project",
+    "todoist-create-section",
+    "todoist-create-task-comment",
+    "todoist-create-task",
+    "todoist-delete-comment",
+    "todoist-delete-filter",
+    "todoist-delete-label",
+    "todoist-delete-project",
+    "todoist-delete-section",
+    "todoist-delete-task",
+    "todoist-export-tasks",
+    "todoist-find-project",
+    "todoist-find-task",
+    "todoist-find-user",
+    "todoist-get-label",
+    "todoist-get-project-comment",
+    "todoist-get-project",
+    "todoist-get-section",
+    "todoist-get-task-comment",
+    "todoist-get-task",
+    "todoist-import-tasks",
+    "todoist-invite-user-to-project",
+    "todoist-list-filters",
+    "todoist-list-include-resource-types-options",
+    "todoist-list-label-string-options",
+    "todoist-list-labels",
+    "todoist-list-project-comments",
+    "todoist-list-projects",
+    "todoist-list-sections",
+    "todoist-list-select-projects-options",
+    "todoist-list-task-comments",
+    "todoist-list-uncompleted-tasks",
+    "todoist-mark-task-completed",
+    "todoist-move-task-to-section",
+    "todoist-search-tasks",
+    "todoist-uncomplete-task",
+    "todoist-update-comment",
+    "todoist-update-filter",
+    "todoist-update-label",
+    "todoist-update-project",
+    "todoist-update-section",
+    "todoist-update-task",
+    "todoist-completed-task",
+    "todoist-incomplete-task",
+    "todoist-new-or-modified-project",
+    "todoist-new-or-modified-task",
+    "todoist-new-project",
+    "todoist-new-section",
+    "todoist-new-task",
+    "todoist-sync-resources"
+  ],
+  "npmImports": [
+    "${this.path}",
+    "crypto",
+    "fs",
+    "json-2-csv",
+    "query-string",
+    "tmp-promise",
+    "uuid"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "flodesk-add-subscriber-to-segments",
+  "name": "Add Subscriber To Segments",
+  "description": "Add a subscriber to one or more segments in Flodesk. [See the documentation](https://developers.flodesk.com/#tag/subscriber/operation/addSubscriberToSegments)",
+  "type": "action",
+  "version": "0.0.2"
+}

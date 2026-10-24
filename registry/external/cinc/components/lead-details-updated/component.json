@@ -1,0 +1,7 @@
+{
+  "key": "cinc-lead-details-updated",
+  "name": "Lead Details Updated",
+  "description": "Emit new event when a lead's information is updated in Cinc",
+  "type": "source",
+  "version": "0.0.1"
+}

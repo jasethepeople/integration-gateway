@@ -1,0 +1,7 @@
+{
+  "key": "sendbird-list-messages",
+  "name": "List messages",
+  "description": "Retrieves a list of past messages of a specific channel. [See the docs here](https://sendbird.com/docs/chat/v3/platform-api/message/messaging-basics/list-messages)",
+  "type": "action",
+  "version": "0.0.2"
+}

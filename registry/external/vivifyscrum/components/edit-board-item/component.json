@@ -1,0 +1,7 @@
+{
+  "key": "vivifyscrum-edit-board-item",
+  "name": "Edit Board Item",
+  "description": "Updates an existing board item in VivifyScrum. [See the documentation](https://github.com/Vivify-Ideas/vivify-cli)",
+  "type": "action",
+  "version": "0.0.1"
+}

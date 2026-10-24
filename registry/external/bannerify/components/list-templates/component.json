@@ -1,0 +1,7 @@
+{
+  "key": "bannerify-list-templates",
+  "name": "List Templates",
+  "description": "List templates in the connected Bannerify project. [See the documentation](https://bannerify.co/docs/api-reference/endpoint/template-list/)",
+  "type": "action",
+  "version": "0.0.1"
+}

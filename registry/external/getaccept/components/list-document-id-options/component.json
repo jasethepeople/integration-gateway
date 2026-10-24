@@ -1,0 +1,7 @@
+{
+  "key": "getaccept-list-document-id-options",
+  "name": "List Document Id Options",
+  "description": "Retrieves available options for the Document Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

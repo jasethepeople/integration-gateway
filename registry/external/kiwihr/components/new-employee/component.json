@@ -1,0 +1,7 @@
+{
+  "key": "kiwihr-new-employee",
+  "name": "New Employee",
+  "description": "Emit new event when a new employee is added to KiwiHR.",
+  "type": "source",
+  "version": "1.0.0"
+}

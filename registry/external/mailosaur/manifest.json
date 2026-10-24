@@ -1,0 +1,27 @@
+{
+  "app": "mailosaur",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "serverId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emailId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mailosaur-create-email",
+    "mailosaur-delete-email",
+    "mailosaur-list-server-id-options",
+    "mailosaur-search-email",
+    "mailosaur-new-email-matching-criteria",
+    "mailosaur-new-message"
+  ]
+}

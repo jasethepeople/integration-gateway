@@ -1,0 +1,53 @@
+{
+  "app": "html_to_image",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "htmlContent": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cssContent": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "quality": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "paperSize": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "landscape": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "displayHeaderFooter": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "printBackground": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "waitUntil": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "html_to_image-convert-html-to-image",
+    "html_to_image-convert-html-to-pdf",
+    "html_to_image-convert-url-to-image",
+    "html_to_image-convert-url-to-pdf"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "clio-update-matter",
+  "name": "Update Matter",
+  "description": "Updates an existing matter in Clio. [See the documentation](https://docs.developers.clio.com/api-reference/#tag/Matters/operation/Matter#update)",
+  "type": "action",
+  "version": "0.0.2"
+}

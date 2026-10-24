@@ -1,0 +1,7 @@
+{
+  "key": "lever-list-feedback-templates",
+  "name": "List Feedback Templates",
+  "description": "Returns the feedback form templates configured in the Lever account, including each template's field definitions.",
+  "type": "action",
+  "version": "0.0.2"
+}

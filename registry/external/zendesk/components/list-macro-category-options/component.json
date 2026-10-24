@@ -1,0 +1,7 @@
+{
+  "key": "zendesk-list-macro-category-options",
+  "name": "List Macro Category Options",
+  "description": "Retrieves available options for the Macro Category field.",
+  "type": "action",
+  "version": "0.0.8"
+}

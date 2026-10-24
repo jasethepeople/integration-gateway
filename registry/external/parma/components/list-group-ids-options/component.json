@@ -1,0 +1,7 @@
+{
+  "key": "parma-list-group-ids-options",
+  "name": "List Group Ids Options",
+  "description": "Retrieves available options for the Group Ids field.",
+  "type": "action",
+  "version": "0.0.1"
+}

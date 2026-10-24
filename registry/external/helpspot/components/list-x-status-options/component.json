@@ -1,0 +1,7 @@
+{
+  "key": "helpspot-list-x-status-options",
+  "name": "List Status Options",
+  "description": "Retrieves available options for the Status field.",
+  "type": "action",
+  "version": "0.0.2"
+}

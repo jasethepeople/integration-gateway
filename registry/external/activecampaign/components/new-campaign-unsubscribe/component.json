@@ -1,0 +1,7 @@
+{
+  "key": "activecampaign-new-campaign-unsubscribe",
+  "name": "New Campaign Unsubscribe (Instant)",
+  "description": "Emit new event when a contact unsubscribes as a result of a campaign email sent to them.",
+  "type": "source",
+  "version": "0.0.7"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "frontapp-list-ticket-statuses",
+  "name": "List Ticket Statuses",
+  "description": "List the ticket statuses available for your company. [See the documentation](https://dev.frontapp.com/reference/list-company-ticket-statuses)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "vitel_phone-send-message",
+  "name": "Send Message",
+  "description": "Send a new message. [See the documentation](https://www.vitelglobal.com)",
+  "type": "action",
+  "version": "0.0.2"
+}

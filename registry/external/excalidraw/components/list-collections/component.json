@@ -1,0 +1,7 @@
+{
+  "key": "excalidraw-list-collections",
+  "name": "List Collections",
+  "description": "Returns all collections (folders) in the Excalidraw Plus workspace.",
+  "type": "action",
+  "version": "0.0.2"
+}

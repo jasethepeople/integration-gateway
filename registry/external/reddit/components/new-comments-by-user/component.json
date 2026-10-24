@@ -1,0 +1,7 @@
+{
+  "key": "reddit-new-comments-by-user",
+  "name": "New Comments by User",
+  "description": "Emit new event each time a user posts a new comment.",
+  "type": "source",
+  "version": "0.1.3"
+}

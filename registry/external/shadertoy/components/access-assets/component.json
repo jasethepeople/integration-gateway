@@ -1,0 +1,7 @@
+{
+  "key": "shadertoy-access-assets",
+  "name": "Access Shader Assets",
+  "description": "Accesses an asset from source. [See the documentation](https://www.shadertoy.com/howto)",
+  "type": "action",
+  "version": "0.0.2"
+}

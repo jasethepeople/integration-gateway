@@ -1,0 +1,7 @@
+{
+  "key": "outreach-new-task-instant",
+  "name": "New Task Event (Instant)",
+  "description": "Emit new event when a task is created, updated, destroyed or completed.",
+  "type": "source",
+  "version": "0.0.1"
+}

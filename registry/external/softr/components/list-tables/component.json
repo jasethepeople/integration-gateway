@@ -1,0 +1,7 @@
+{
+  "key": "softr-list-tables",
+  "name": "List Tables",
+  "description": "Retrieve a list of all tables in a database. [See the documentation](https://docs.softr.io/softr-api/softr-database-api/tables/get-tables)",
+  "type": "action",
+  "version": "0.0.1"
+}

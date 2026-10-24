@@ -1,0 +1,34 @@
+{
+  "app": "manychat",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tagId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customFieldId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customFieldValue": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "manychat-add-tag-user",
+    "manychat-find-user-custom-field",
+    "manychat-list-tag-id-options",
+    "manychat-send-dynamic-message-user",
+    "manychat-new-or-updated-custom-field"
+  ]
+}

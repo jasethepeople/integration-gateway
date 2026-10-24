@@ -1,0 +1,7 @@
+{
+  "key": "gainsight_px-delete-user",
+  "name": "Delete User",
+  "description": "Deletes a user with he specified identifyId. [See the documentation](https://gainsightpx.docs.apiary.io/#reference/users/v1usersdelete/delete-user)",
+  "type": "action",
+  "version": "0.0.2"
+}

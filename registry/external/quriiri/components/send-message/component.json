@@ -1,0 +1,7 @@
+{
+  "key": "quriiri-send-message",
+  "name": "Send Message",
+  "description": "Sends an SMS message using the Quriiri API. [See the documentation](https://docs.quriiri.fi/docs/quriiri/send-sms/operations/create-a)",
+  "type": "action",
+  "version": "0.0.3"
+}

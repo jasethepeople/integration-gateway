@@ -1,0 +1,7 @@
+{
+  "key": "freshchat-list-agents",
+  "name": "List Agents",
+  "description": "Lists all agents in Freshchat. [See the documentation](https://developers.freshchat.com/api/#list_all_agents)",
+  "type": "action",
+  "version": "0.0.5"
+}

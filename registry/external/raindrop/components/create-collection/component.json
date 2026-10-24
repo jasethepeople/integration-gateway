@@ -1,0 +1,7 @@
+{
+  "key": "raindrop-create-collection",
+  "name": "Create New Collection",
+  "description": "Creates an additional collection. [See the docs here](https://developer.raindrop.io/v1/collections/methods#create-collection)",
+  "type": "action",
+  "version": "0.0.6"
+}

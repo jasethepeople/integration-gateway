@@ -1,0 +1,7 @@
+{
+  "key": "lightspeed_ecom_c_series-find-product",
+  "name": "Find Product",
+  "description": "Find an product by ID. [See the documentation](https://developers.lightspeedhq.com/ecom/endpoints/product/#get-all-products)",
+  "type": "action",
+  "version": "0.0.1"
+}

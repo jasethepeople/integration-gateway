@@ -1,0 +1,499 @@
+{
+  "app": "surecart",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "abandonedCheckoutId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "checkoutId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "invoiceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lineItemId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "purchaseId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "refundItemId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "refundId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cancellationActId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cancellationReasonId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "periodId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subscriptionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fulfillmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "returnRequestId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shipmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "trackingId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "couponId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "promotionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "variantId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ids": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "checkoutIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "customerIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "productIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "liveMode": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "couponName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "couponAmountOff": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "couponPercentOff": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "couponDuration": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "couponDurationInMonths": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "couponMaxRedemptions": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "couponMaxRedemptionsPerCustomer": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "couponMaxSubtotalAmount": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "couponMinSubtotalAmount": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "couponProductIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "couponRedeemBy": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "couponArchived": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "couponMetadata": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "productName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productDescription": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productStatus": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productSku": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productSlug": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productRecurring": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "productFeatured": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "productTaxEnabled": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "productTaxCategory": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productShippingEnabled": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "productWeight": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productWeightUnit": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productStockEnabled": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "productStockAdjustment": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "productAllowOutOfStockPurchases": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "productPurchaseLimit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "productReviewsEnabled": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "productLicensingEnabled": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "productLicenseActivationLimit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "productProductGroup": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productShippingProfile": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productProductCollections": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "productMetadata": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "variantProduct": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "variantOption1": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "variantOption2": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "variantOption3": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "variantAmount": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "variantSku": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "variantPosition": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "variantPurchaseLimit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "variantStockEnabled": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "variantStockAdjustment": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "variantShippingEnabled": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "variantTaxEnabled": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "variantTaxCategory": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "variantAllowOutOfStockPurchases": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "variantAutoFulfillEnabled": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "variantDownloadsEnabled": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "variantLicenseActivationLimit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "variantImage": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "promotionCoupon": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "promotionCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "promotionMaxRedemptions": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "promotionRedeemBy": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "promotionCustomer": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "promotionArchived": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "promotionMetadata": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "secret_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "surecart-create-checkout",
+    "surecart-create-coupon",
+    "surecart-create-customer",
+    "surecart-create-fulfillment",
+    "surecart-create-invoice",
+    "surecart-create-line-item",
+    "surecart-create-media",
+    "surecart-create-price",
+    "surecart-create-product",
+    "surecart-create-promotion",
+    "surecart-create-refund",
+    "surecart-create-return-request",
+    "surecart-create-subscription",
+    "surecart-create-variant",
+    "surecart-delete-coupon",
+    "surecart-delete-customer",
+    "surecart-delete-fulfillment",
+    "surecart-delete-product",
+    "surecart-delete-promotion",
+    "surecart-delete-return-request",
+    "surecart-delete-variant",
+    "surecart-expose-customer-media",
+    "surecart-list-abandoned-checkouts",
+    "surecart-list-cancellation-acts",
+    "surecart-list-cancellation-reasons",
+    "surecart-list-charges",
+    "surecart-list-checkouts",
+    "surecart-list-coupons",
+    "surecart-list-customers",
+    "surecart-list-fulfillments",
+    "surecart-list-invoices",
+    "surecart-list-line-items",
+    "surecart-list-media",
+    "surecart-list-orders",
+    "surecart-list-periods",
+    "surecart-list-prices",
+    "surecart-list-products",
+    "surecart-list-promotions",
+    "surecart-list-purchases",
+    "surecart-list-refund-items",
+    "surecart-list-refunds",
+    "surecart-list-return-requests",
+    "surecart-list-shipments",
+    "surecart-list-subscriptions",
+    "surecart-list-trackings",
+    "surecart-list-variants",
+    "surecart-retrieve-abandoned-checkout",
+    "surecart-retrieve-cancellation-act",
+    "surecart-retrieve-cancellation-reason",
+    "surecart-retrieve-charge",
+    "surecart-retrieve-checkout",
+    "surecart-retrieve-coupon",
+    "surecart-retrieve-customer",
+    "surecart-retrieve-fulfillment",
+    "surecart-retrieve-invoice",
+    "surecart-retrieve-line-item",
+    "surecart-retrieve-order",
+    "surecart-retrieve-price",
+    "surecart-retrieve-product",
+    "surecart-retrieve-promotion",
+    "surecart-retrieve-purchase",
+    "surecart-retrieve-refund-item",
+    "surecart-retrieve-refund",
+    "surecart-retrieve-return-request",
+    "surecart-retrieve-shipment",
+    "surecart-retrieve-subscription-protocol",
+    "surecart-retrieve-subscription",
+    "surecart-retrieve-tracking",
+    "surecart-retrieve-variant",
+    "surecart-update-checkout",
+    "surecart-update-coupon",
+    "surecart-update-customer",
+    "surecart-update-fulfillment",
+    "surecart-update-line-item",
+    "surecart-update-product",
+    "surecart-update-promotion",
+    "surecart-update-purchase",
+    "surecart-update-return-request",
+    "surecart-update-shipment",
+    "surecart-update-subscription",
+    "surecart-update-variant",
+    "surecart-abandoned-checkout-recovered",
+    "surecart-checkout-abandoned",
+    "surecart-customer-created",
+    "surecart-customer-updated",
+    "surecart-fulfillment-created",
+    "surecart-fulfillment-deleted",
+    "surecart-fulfillment-updated",
+    "surecart-invoice-created",
+    "surecart-invoice-deleted",
+    "surecart-invoice-made-draft",
+    "surecart-invoice-opened",
+    "surecart-invoice-paid",
+    "surecart-invoice-updated",
+    "surecart-order-created",
+    "surecart-order-delivered",
+    "surecart-order-fulfilled",
+    "surecart-order-made-processing",
+    "surecart-order-paid",
+    "surecart-order-partially-fulfilled",
+    "surecart-order-partially-shipped",
+    "surecart-order-payment-failed",
+    "surecart-order-shipped",
+    "surecart-order-unfulfilled",
+    "surecart-order-unshipped",
+    "surecart-order-voided",
+    "surecart-price-created",
+    "surecart-price-deleted",
+    "surecart-price-updated",
+    "surecart-product-created",
+    "surecart-product-deleted",
+    "surecart-product-stock-adjusted",
+    "surecart-product-updated",
+    "surecart-purchase-created",
+    "surecart-purchase-invoked",
+    "surecart-purchase-revoked",
+    "surecart-purchase-updated",
+    "surecart-refund-created",
+    "surecart-refund-succeeded",
+    "surecart-return-request-completed",
+    "surecart-return-request-created",
+    "surecart-return-request-deleted",
+    "surecart-return-request-opened",
+    "surecart-return-request-updated",
+    "surecart-subscription-canceled",
+    "surecart-subscription-completed",
+    "surecart-subscription-created",
+    "surecart-subscription-made-active",
+    "surecart-subscription-made-trialing",
+    "surecart-subscription-renewal-reminder-sent",
+    "surecart-subscription-renewed",
+    "surecart-subscription-set-to-cancel",
+    "surecart-subscription-updated",
+    "surecart-variant-stock-adjusted"
+  ]
+}

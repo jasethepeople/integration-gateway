@@ -1,0 +1,7 @@
+{
+  "key": "echtpost_postcards-create-contact",
+  "name": "Create Contact",
+  "description": "Creates a new contact within the EchtPost app. [See the documentation](https://hilfe.echtpost.de/article/20/postkartenversand-uber-api-programmierschnittstelle)",
+  "type": "action",
+  "version": "0.0.2"
+}

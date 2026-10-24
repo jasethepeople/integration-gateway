@@ -1,0 +1,20 @@
+{
+  "app": "expofp",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "expofp-add-exhibitor-booth",
+    "expofp-add-exhibitor",
+    "expofp-get-booth",
+    "expofp-get-exhibitor",
+    "expofp-list-all-events",
+    "expofp-update-booth",
+    "expofp-update-exhibitor"
+  ]
+}

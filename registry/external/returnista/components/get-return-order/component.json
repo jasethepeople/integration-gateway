@@ -1,0 +1,7 @@
+{
+  "key": "returnista-get-return-order",
+  "name": "Get Return Order",
+  "description": "Gets the full details of a single return order by ID.",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "reachmail-new-click-instant",
+  "name": "New Click Instant",
+  "description": "Emit new event when a recipient clicks on an email.",
+  "type": "source",
+  "version": "0.0.1"
+}

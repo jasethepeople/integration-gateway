@@ -1,0 +1,7 @@
+{
+  "key": "slack_v2-add-reaction",
+  "name": "Add Reaction",
+  "description": "Add an emoji reaction to a message.",
+  "type": "action",
+  "version": "0.0.14"
+}

@@ -1,0 +1,32 @@
+{
+  "app": "v7_go",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "workspaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "entityId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "v7_go-create-entity",
+    "v7_go-create-project",
+    "v7_go-list-workspace-id-options",
+    "v7_go-update-entity",
+    "v7_go-complete-entity-instant",
+    "v7_go-complete-field-instant",
+    "v7_go-new-entity-instant"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "nextcloud-create-share",
+  "name": "Create Share",
+  "description": "Creates a new share link from the specified path in Nextcloud. [See the documentation](https://docs.nextcloud.com/server/latest/developer_manual/_static/openapi.html#/operations/files_sharing-shareapi-create-share)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "reddit-new-links-on-a-subreddit",
+  "name": "New Links on a Subreddit",
+  "description": "Emit new event each time a new link is added to a subreddit",
+  "type": "source",
+  "version": "0.1.3"
+}

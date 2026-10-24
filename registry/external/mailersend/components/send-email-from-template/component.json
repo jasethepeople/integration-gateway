@@ -1,0 +1,7 @@
+{
+  "key": "mailersend-send-email-from-template",
+  "name": "Send Email From Template",
+  "description": "This action sends a personalized e-mail to the specified recipient using templates. [See the documentation](https://developers.mailersend.com/api/v1/email.html#send-an-email)",
+  "type": "action",
+  "version": "0.0.2"
+}

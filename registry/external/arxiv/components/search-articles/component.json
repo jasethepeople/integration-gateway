@@ -1,0 +1,7 @@
+{
+  "key": "arxiv-search-articles",
+  "name": "Search Articles",
+  "description": "Search for articles on arXiv. [See the documentation](https://info.arxiv.org/help/api/user-manual.html#2-api-quickstart)",
+  "type": "action",
+  "version": "0.0.2"
+}

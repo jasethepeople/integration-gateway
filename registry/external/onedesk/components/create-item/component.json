@@ -1,0 +1,7 @@
+{
+  "key": "onedesk-create-item",
+  "name": "Create Item",
+  "description": "Creates a new item. [See the documentation](https://www.onedesk.com/dev/).",
+  "type": "action",
+  "version": "0.0.3"
+}

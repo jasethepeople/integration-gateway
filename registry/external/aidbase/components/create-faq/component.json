@@ -1,0 +1,7 @@
+{
+  "key": "aidbase-create-faq",
+  "name": "Create FAQ",
+  "description": "Create a new frequently asked questions (FAQ) list on your Aidbase account. [See the documentation](https://docs.aidbase.ai/apis/knowledge-api/reference/#post-knowledgefaq)",
+  "type": "action",
+  "version": "0.0.2"
+}

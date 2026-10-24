@@ -1,0 +1,7 @@
+{
+  "key": "venly-create-mint-nft",
+  "name": "Create and Mint NFT",
+  "description": "Creates a template or token type that allows for minting of new NFTs. [See the documentation](https://docs.venly.io/reference/definetokentype_1_1)",
+  "type": "action",
+  "version": "0.0.2"
+}

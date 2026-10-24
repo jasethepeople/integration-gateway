@@ -1,0 +1,7 @@
+{
+  "key": "suitedash-list-company-id-options",
+  "name": "List Company ID Options",
+  "description": "Retrieves available options for the Company ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

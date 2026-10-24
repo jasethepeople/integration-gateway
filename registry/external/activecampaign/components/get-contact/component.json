@@ -1,0 +1,7 @@
+{
+  "key": "activecampaign-get-contact",
+  "name": "Get Contact",
+  "description": "Retrieves an existing contact. See the docs [here](https://developers.activecampaign.com/reference/get-contact).",
+  "type": "action",
+  "version": "0.2.2"
+}

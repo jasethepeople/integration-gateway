@@ -1,0 +1,7 @@
+{
+  "key": "docnify-list-document-id-options",
+  "name": "List Document ID Options",
+  "description": "Retrieves available options for the Document ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

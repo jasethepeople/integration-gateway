@@ -1,0 +1,7 @@
+{
+  "key": "mailgun-new-bounce",
+  "name": "New Bounce (Instant)",
+  "description": "Emit new event when the email recipient could not be reached.",
+  "type": "source",
+  "version": "0.0.2"
+}

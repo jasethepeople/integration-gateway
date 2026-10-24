@@ -1,0 +1,7 @@
+{
+  "key": "clientify-create-task",
+  "name": "Create Task",
+  "description": "Add a new task. [See the documentation](https://developer.clientify.com/#1ee10d02-b3d8-4373-afa4-08d7b678bb26)",
+  "type": "action",
+  "version": "0.0.3"
+}

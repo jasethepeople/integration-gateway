@@ -1,0 +1,7 @@
+{
+  "key": "sendowl-new-refund",
+  "name": "New Refund",
+  "description": "Emit new event for each refund.",
+  "type": "source",
+  "version": "0.0.2"
+}

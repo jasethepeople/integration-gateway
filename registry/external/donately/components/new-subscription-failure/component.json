@@ -1,0 +1,7 @@
+{
+  "key": "donately-new-subscription-failure",
+  "name": "New Subscription Failure (Instant)",
+  "description": "Emit new event when a subscription fails. [See the documentation](https://developer.donate.ly/api/#webhooks)",
+  "type": "source",
+  "version": "0.0.1"
+}

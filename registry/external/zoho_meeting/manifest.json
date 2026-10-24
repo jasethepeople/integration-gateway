@@ -1,0 +1,21 @@
+{
+  "app": "zoho_meeting",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "base_api_uri": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zoho_meeting-create-meeting",
+    "zoho_meeting-create-webinar",
+    "zoho_meeting-get-meetings",
+    "zoho_meeting-get-webinars"
+  ]
+}

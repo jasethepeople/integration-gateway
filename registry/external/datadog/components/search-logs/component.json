@@ -1,0 +1,7 @@
+{
+  "key": "datadog-search-logs",
+  "name": "Search Logs",
+  "description": "Search Datadog logs matching a query with support",
+  "type": "action",
+  "version": "1.0.2"
+}

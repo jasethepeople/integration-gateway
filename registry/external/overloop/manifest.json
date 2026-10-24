@@ -1,0 +1,108 @@
+{
+  "app": "overloop",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "automationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "organizationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dealId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "stageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "listNames": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "value": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "overloop-add-contact-to-campaign",
+    "overloop-create-contact",
+    "overloop-create-deal",
+    "overloop-create-organization",
+    "overloop-enroll-contact",
+    "overloop-enroll-deal",
+    "overloop-enroll-organization",
+    "overloop-exclude-contact",
+    "overloop-get-contact",
+    "overloop-get-deal",
+    "overloop-get-organization",
+    "overloop-list-contact-id-options",
+    "overloop-list-deal-id-options",
+    "overloop-list-list-names-options",
+    "overloop-list-organization-id-options",
+    "overloop-list-stage-id-options",
+    "overloop-list-user-id-options",
+    "overloop-mark-deal-lost",
+    "overloop-mark-deal-won",
+    "overloop-move-deal",
+    "overloop-update-contact",
+    "overloop-update-deal",
+    "overloop-update-organization",
+    "overloop-new-campaign-created",
+    "overloop-new-contact-created",
+    "overloop-new-contact-replied",
+    "overloop-new-deal-created",
+    "overloop-new-deal-lost",
+    "overloop-new-deal-won",
+    "overloop-new-exclusion-list-item-created",
+    "overloop-new-list-created",
+    "overloop-new-organization-created",
+    "overloop-new-pipeline-created",
+    "overloop-new-stage-created",
+    "overloop-new-user-created",
+    "overloop-new-workflow-created"
+  ],
+  "npmImports": [
+    "lodash.pickby"
+  ]
+}

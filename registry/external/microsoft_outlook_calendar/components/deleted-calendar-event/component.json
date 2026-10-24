@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_outlook_calendar-deleted-calendar-event",
+  "name": "Calendar Event Deleted (Instant)",
+  "description": "Optional user ID or principal name for delegated/admin scenarios. When provided, subscribes to `/users/{userId}/events` instead of `/me/events`.",
+  "type": "source",
+  "version": "0.0.1"
+}

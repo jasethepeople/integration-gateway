@@ -1,0 +1,25 @@
+{
+  "app": "_46elks",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "number": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "message": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "webhookUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "_46elks-make-phone-call",
+    "_46elks-send-sms",
+    "_46elks-new-account-data-change",
+    "_46elks-new-incoming-sms-instant"
+  ]
+}

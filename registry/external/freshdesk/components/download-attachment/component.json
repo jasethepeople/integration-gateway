@@ -1,0 +1,7 @@
+{
+  "key": "freshdesk-download-attachment",
+  "name": "Download Attachment",
+  "description": "Download an attachment from a ticket. [See the documentation](https://developers.freshdesk.com/api/#view_a_ticket)",
+  "type": "action",
+  "version": "0.0.11"
+}

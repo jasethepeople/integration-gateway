@@ -1,0 +1,7 @@
+{
+  "key": "snowflake-updated-user",
+  "name": "New Update User",
+  "description": "Emit new event when a user is updated",
+  "type": "source",
+  "version": "0.1.5"
+}

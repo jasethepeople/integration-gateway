@@ -1,0 +1,7 @@
+{
+  "key": "commerce_tools-get-order-by-order-number",
+  "name": "Get Order by Order Number",
+  "description": "Retrieve an Order by its `orderNumber`. [See the documentation](https://docs.commercetools.com/api/projects/orders#get-order-by-ordernumber).",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "thinkific-new-order-instant",
+  "name": "New Order (Instant)",
+  "description": "Emit new event when a new purchase has been made.)",
+  "type": "source",
+  "version": "0.0.2"
+}

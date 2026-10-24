@@ -1,0 +1,7 @@
+{
+  "key": "dub-create-link",
+  "name": "Create Link",
+  "description": "Creates a link. [See the documentation](https://dub.co/docs/api-reference/endpoint/create-a-new-link)",
+  "type": "action",
+  "version": "0.0.8"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "indiefunnels-new-order-instant",
+  "name": "New Order (Instant)",
+  "description": "Emit new event when a new order is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

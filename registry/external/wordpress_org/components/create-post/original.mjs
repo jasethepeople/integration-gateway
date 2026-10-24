@@ -1,0 +1,138 @@
+import wordpress from "../../app.mjs";
+import utils from "../../shared/common/utils.mjs";
+
+export default {
+  key: "wordpress_org-create-post",
+  name: "Create Post",
+  description: "Create a new WordPress post using the REST API directly. [See the documentation](https://developer.wordpress.org/rest-api/reference/posts/#create-a-post)",
+  version: "0.0.6",
+  annotations: {
+    destructiveHint: false,
+    openWorldHint: true,
+    readOnlyHint: false,
+  },
+  type: "action",
+  props: {
+    wordpress,
+    title: {
+      propDefinition: [
+        wordpress,
+        "title",
+      ],
+    },
+    content: {
+      propDefinition: [
+        wordpress,
+        "content",
+      ],
+    },
+    excerpt: {
+      propDefinition: [
+        wordpress,
+        "excerpt",
+      ],
+    },
+    status: {
+      propDefinition: [
+        wordpress,
+        "status",
+      ],
+      default: "publish",
+    },
+    commentStatus: {
+      propDefinition: [
+        wordpress,
+        "commentStatus",
+      ],
+    },
+    author: {
+      propDefinition: [
+        wordpress,
+        "author",
+      ],
+    },
+    categories: {
+      propDefinition: [
+        wordpress,
+        "categories",
+      ],
+    },
+    tags: {
+      propDefinition: [
+        wordpress,
+        "tags",
+      ],
+    },
+    featuredMedia: {
+      propDefinition: [
+        wordpress,
+        "media",
+      ],
+    },
+    meta: {
+      propDefinition: [
+        wordpress,
+        "meta",
+      ],
+    },
+  },
+  async run({ $ }) {
+    // Prepare post data
+    const postData = {
+      title: this.title,
+      content: this.content,
+      status: this.status,
+    };
+
+    // Add optional fields if provided
+    if (this.excerpt) {
+      postData.excerpt = this.excerpt;
+    }
+
+    if (this.author) {
+      const parsedAuthor = parseInt(this.author, 10);
+      if (!Number.isNaN(parsedAuthor)) {
+        postData.author = parsedAuthor;
+      }
+    }
+
+    if (this.commentStatus) {
+      postData.comment_status = this.commentStatus;
+    }
+
+    if (this.categories && this.categories.length > 0) {
+      const parsedCategories = this.categories
+        .map((cat) => parseInt(cat, 10))
+        .filter((val) => !Number.isNaN(val));
+      if (parsedCategories.length > 0) {
+        postData.categories = parsedCategories;
+      }
+    }
+
+    if (this.tags && this.tags.length > 0) {
+      const parsedTags = this.tags
+        .map((tag) => parseInt(tag, 10))
+        .filter((val) => !Number.isNaN(val));
+      if (parsedTags.length > 0) {
+        postData.tags = parsedTags;
+      }
+    }
+
+    if (this.featuredMedia) {
+      const parsedMedia = parseInt(this.featuredMedia, 10);
+      if (!Number.isNaN(parsedMedia)) {
+        postData.featured_media = parsedMedia;
+      }
+    }
+
+    if (this.meta) {
+      postData.meta = utils.parseObj(this.meta);
+    }
+
+    const response = await this.wordpress.createPost(postData);
+
+    $.export("$summary", `Successfully created post: "${response?.title?.rendered || response?.id || "New Post"}"`);
+
+    return response;
+  },
+};

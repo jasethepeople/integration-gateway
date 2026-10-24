@@ -1,0 +1,7 @@
+{
+  "key": "shadertoy-get-shader",
+  "name": "Get Shader",
+  "description": "Returns a specific shader based on an ID. [See the documentation](https://www.shadertoy.com/howto)",
+  "type": "action",
+  "version": "0.0.2"
+}

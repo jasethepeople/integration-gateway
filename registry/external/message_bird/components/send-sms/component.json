@@ -1,0 +1,7 @@
+{
+  "key": "message_bird-send-sms",
+  "name": "Send SMS",
+  "description": "Sends an SMS message. [See the documentation](https://developers.messagebird.com/api/sms-messaging/#send-outbound-sms)",
+  "type": "action",
+  "version": "0.0.2"
+}

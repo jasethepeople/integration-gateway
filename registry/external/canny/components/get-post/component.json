@@ -1,0 +1,7 @@
+{
+  "key": "canny-get-post",
+  "name": "Get Post",
+  "description": "Get a post. [See the documentation](https://developers.canny.io/api-reference#retrieve_post)",
+  "type": "action",
+  "version": "0.0.1"
+}

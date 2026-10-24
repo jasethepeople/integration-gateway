@@ -1,0 +1,7 @@
+{
+  "key": "memberstack-new-member-created",
+  "name": "New Member Created",
+  "description": "Emit new event when a new member is created. [See the docs](https://memberstack.notion.site/Admin-API-5b9233507d734091bd6ed604fb893bb8)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,58 @@
+{
+  "app": "taleez",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "jobId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "candidateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "unitId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recruiterId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contract": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "city": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyLabel": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tag": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "secret_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "taleez-add-candidate-to-job",
+    "taleez-create-candidate",
+    "taleez-list-candidate-id-options",
+    "taleez-list-job-id-options",
+    "taleez-list-jobs",
+    "taleez-list-recruiter-id-options",
+    "taleez-list-unit-id-options",
+    "taleez-new-candidate-created",
+    "taleez-new-job-listed"
+  ]
+}

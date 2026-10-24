@@ -1,0 +1,7 @@
+{
+  "key": "illumidesk-create-course-lesson",
+  "name": "Create Course Lesson",
+  "description": "Create a new lesson in a course. [See the documentation](https://developers.illumidesk.com/reference/courses_lessons_create)",
+  "type": "action",
+  "version": "0.0.2"
+}

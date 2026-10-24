@@ -1,0 +1,7 @@
+{
+  "key": "flutterwave-list-transaction-options",
+  "name": "List Transaction Options",
+  "description": "Retrieves available options for the Transaction field.",
+  "type": "action",
+  "version": "0.0.1"
+}

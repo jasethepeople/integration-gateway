@@ -1,0 +1,7 @@
+{
+  "key": "flowla-create-flow-from-template",
+  "name": "Create Flow From Template",
+  "description": "Create a new flow in Flowla from a pre-existing template. [See the documentation](https://api.flowla.com/docs#/default/ApiV1Controller_useTemplate)",
+  "type": "action",
+  "version": "0.0.1"
+}

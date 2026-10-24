@@ -1,0 +1,7 @@
+{
+  "key": "acuity_scheduling-get-appointment-types",
+  "name": "Get Appointment Types",
+  "description": "Return a list ofappointment types. [See the documentation](https://developers.acuityscheduling.com/reference/appointment-types)",
+  "type": "action",
+  "version": "0.0.2"
+}

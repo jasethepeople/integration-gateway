@@ -1,0 +1,7 @@
+{
+  "key": "fogbugz-list-ix-category-id-options",
+  "name": "List Ix Category Id Options",
+  "description": "Retrieves available options for the Ix Category Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

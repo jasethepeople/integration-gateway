@@ -1,0 +1,7 @@
+{
+  "key": "invoiced-invoice-fully-paid",
+  "name": "Invoice Fully Paid",
+  "description": "Emit new event when an invoice is paid in full. [See the documentation](https://developer.invoiced.com/api/invoices#list-all-invoices)",
+  "type": "source",
+  "version": "0.0.1"
+}

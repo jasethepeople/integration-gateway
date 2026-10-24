@@ -1,0 +1,7 @@
+{
+  "key": "adyen-submit-details",
+  "name": "Submit Additional Payment Details",
+  "description": "Submits additional details for a payment. [See the documentation](https://docs.adyen.com/api-explorer/Checkout/71/post/payments/details)",
+  "type": "action",
+  "version": "0.0.3"
+}

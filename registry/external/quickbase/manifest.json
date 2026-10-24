@@ -1,0 +1,33 @@
+{
+  "app": "quickbase",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "appId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tableId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recordId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "hostname": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "user_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "quickbase-create-record",
+    "quickbase-delete-record",
+    "quickbase-update-record",
+    "quickbase-new-record"
+  ]
+}

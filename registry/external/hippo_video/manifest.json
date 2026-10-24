@@ -1,0 +1,35 @@
+{
+  "app": "hippo_video",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "listIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "videoId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "hippo_video-create-contact",
+    "hippo_video-list-list-ids-options",
+    "hippo_video-list-video-id-options",
+    "hippo_video-send-personalization-request",
+    "hippo_video-upload-video",
+    "hippo_video-new-triggered-event-instant"
+  ],
+  "npmImports": [
+    "form-data",
+    "uuid"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "bugbug-list-test-options",
+  "name": "List Test Options",
+  "description": "Retrieves available options for the Test field.",
+  "type": "action",
+  "version": "0.0.1"
+}

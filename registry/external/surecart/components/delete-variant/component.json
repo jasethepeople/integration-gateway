@@ -1,0 +1,7 @@
+{
+  "key": "surecart-delete-variant",
+  "name": "Delete Variant",
+  "description": "Delete a variant by ID. [See the documentation](https://developer.surecart.com/api-reference/variants/delete)",
+  "type": "action",
+  "version": "0.0.1"
+}

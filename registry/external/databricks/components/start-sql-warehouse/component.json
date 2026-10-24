@@ -1,0 +1,7 @@
+{
+  "key": "databricks-start-sql-warehouse",
+  "name": "Start SQL Warehouse",
+  "description": "Starts a SQL Warehouse by ID. [See the documentation](https://docs.databricks.com/api/workspace/warehouses/start)",
+  "type": "action",
+  "version": "0.0.6"
+}

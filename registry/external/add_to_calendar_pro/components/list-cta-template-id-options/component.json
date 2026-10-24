@@ -1,0 +1,7 @@
+{
+  "key": "add_to_calendar_pro-list-cta-template-id-options",
+  "name": "List CTA Template ID Options",
+  "description": "Retrieves available options for the CTA Template ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,51 @@
+import common, { getProps } from "../../shared/actions/common/base-create-update.mjs";
+import lead from "../../shared/common/sobjects/lead.mjs";
+
+const docsLink = "https://developer.salesforce.com/docs/atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_lead.htm";
+
+export default {
+  ...common,
+  key: "salesforce_rest_api-create-lead",
+  name: "Create Lead",
+  description: "Create a Salesforce lead (an unqualified prospect not yet linked to an account)."
+    + " Use **Create Contact** instead when the person already belongs to a known account."
+    + " Use **Add Lead to Campaign** afterwards to attribute the lead to a campaign."
+    + " "
+    + `[See the documentation](${docsLink})`,
+  version: "0.4.1",
+  annotations: {
+    destructiveHint: false,
+    openWorldHint: true,
+    readOnlyHint: false,
+  },
+  type: "action",
+  ai: "optimized",
+  methods: {
+    ...common.methods,
+  },
+  props: getProps({
+    objType: lead,
+    docsLink,
+  }),
+  async run({ $ }) {
+    /* eslint-disable no-unused-vars */
+    const {
+      salesforce,
+      getAdditionalFields,
+      formatDateTimeProps,
+      docsInfo,
+      additionalFields,
+      ...data
+    } = this;
+    /* eslint-enable no-unused-vars */
+    const response = await salesforce.createRecord("Lead", {
+      $,
+      data: {
+        ...data,
+        ...getAdditionalFields(),
+      },
+    });
+    $.export("$summary", `Successfully created lead "${this.LastName}"`);
+    return response;
+  },
+};

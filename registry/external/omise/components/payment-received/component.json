@@ -1,0 +1,7 @@
+{
+  "key": "omise-payment-received",
+  "name": "New Payment Received",
+  "description": "Emit new event for each payment received through the OPN platform.",
+  "type": "source",
+  "version": "0.0.1"
+}

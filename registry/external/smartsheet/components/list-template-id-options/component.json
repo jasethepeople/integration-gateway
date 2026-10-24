@@ -1,0 +1,7 @@
+{
+  "key": "smartsheet-list-template-id-options",
+  "name": "List Template ID Options",
+  "description": "Retrieves `{ label, value }` pairs for populating a Template dropdown, across every workspace.",
+  "type": "action",
+  "version": "0.0.6"
+}

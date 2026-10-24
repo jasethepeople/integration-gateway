@@ -1,0 +1,7 @@
+{
+  "key": "mailchimp-new-open",
+  "name": "New Open",
+  "description": "Emit new event when a recipient opens an email in a specific campaign.",
+  "type": "source",
+  "version": "0.0.3"
+}

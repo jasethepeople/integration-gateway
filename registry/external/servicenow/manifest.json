@@ -1,0 +1,121 @@
+{
+  "app": "servicenow",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "table": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recordId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "excludeReferenceLinks": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "responseFields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "queryNoDomain": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "fields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "catalogItemSysId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "quantity": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "variables": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "requestedFor": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "guideSysId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "guideItems": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "itemType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "variableSysId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "requestNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "incidentNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "instance_name": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "servicenow-add-item-to-cart",
+    "servicenow-check-order-status",
+    "servicenow-checkout-cart",
+    "servicenow-checkout-order-guide",
+    "servicenow-create-table-record",
+    "servicenow-delete-cart-item",
+    "servicenow-delete-table-record",
+    "servicenow-empty-cart",
+    "servicenow-find-users",
+    "servicenow-get-article-attachment",
+    "servicenow-get-article",
+    "servicenow-get-catalog-item-variables",
+    "servicenow-get-catalog-ui-policies",
+    "servicenow-get-current-user",
+    "servicenow-get-incident",
+    "servicenow-get-question-choices",
+    "servicenow-get-record-counts-by-field",
+    "servicenow-get-requested-items",
+    "servicenow-get-table-record-by-id",
+    "servicenow-get-table-records",
+    "servicenow-list-knowledge-bases",
+    "servicenow-list-tables",
+    "servicenow-order-catalog-item",
+    "servicenow-search-catalog-items",
+    "servicenow-search-configuration-items",
+    "servicenow-search-knowledge-base",
+    "servicenow-search-records-by-keyword",
+    "servicenow-submit-cart-order",
+    "servicenow-submit-order-guide",
+    "servicenow-submit-record-producer",
+    "servicenow-update-table-record",
+    "servicenow-view-cart"
+  ],
+  "npmImports": [
+    "fs",
+    "path"
+  ]
+}

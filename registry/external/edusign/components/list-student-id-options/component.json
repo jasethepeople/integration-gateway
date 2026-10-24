@@ -1,0 +1,7 @@
+{
+  "key": "edusign-list-student-id-options",
+  "name": "List Student ID Options",
+  "description": "Retrieves available options for the Student ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

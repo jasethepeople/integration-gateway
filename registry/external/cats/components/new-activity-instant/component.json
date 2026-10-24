@@ -1,0 +1,7 @@
+{
+  "key": "cats-new-activity-instant",
+  "name": "New Activity (Instant)",
+  "description": "Emit new event when an activity related to a cat is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

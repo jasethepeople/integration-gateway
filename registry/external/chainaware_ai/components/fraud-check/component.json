@@ -1,0 +1,7 @@
+{
+  "key": "chainaware_ai-fraud-check",
+  "name": "Comprehensive Fraud Check",
+  "description": "Conducts a comprehensive fraud check. [See the documentation](https://learn.chainaware.ai/api/fraud-detection-api).",
+  "type": "action",
+  "version": "0.0.2"
+}

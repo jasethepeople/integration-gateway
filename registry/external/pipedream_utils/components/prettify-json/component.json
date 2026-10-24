@@ -1,0 +1,7 @@
+{
+  "key": "pipedream_utils-prettify-json",
+  "name": "Helper Functions - Pretty Print JSON",
+  "description": "Pretty print a JavaScript object or value",
+  "type": "action",
+  "version": "0.0.3"
+}

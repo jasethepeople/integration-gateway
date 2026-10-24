@@ -1,0 +1,7 @@
+{
+  "key": "google_gemini-generate-embeddings",
+  "name": "Generate Embeddings",
+  "description": "Generate embeddings from text input using Google Gemini. [See the documentation](https://ai.google.dev/gemini-api/docs/embeddings)",
+  "type": "action",
+  "version": "0.0.2"
+}

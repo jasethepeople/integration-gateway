@@ -1,0 +1,53 @@
+{
+  "app": "mode",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "reportToken": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "spaceToken": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "queryToken": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dataSourceId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "workspace": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "password": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mode-create-query",
+    "mode-delete-query",
+    "mode-delete-report",
+    "mode-get-account",
+    "mode-get-data-source",
+    "mode-get-query",
+    "mode-get-report-run",
+    "mode-get-report",
+    "mode-list-data-sources",
+    "mode-list-queries",
+    "mode-list-report-runs",
+    "mode-list-reports",
+    "mode-list-spaces",
+    "mode-run-report",
+    "mode-update-query",
+    "mode-update-report"
+  ]
+}

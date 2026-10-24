@@ -1,0 +1,7 @@
+{
+  "key": "planyo_online_booking-list-resource-id-options",
+  "name": "List Resource ID Options",
+  "description": "Retrieves available options for the Resource ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

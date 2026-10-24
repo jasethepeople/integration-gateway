@@ -1,0 +1,85 @@
+{
+  "app": "upkeep",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "priority": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "respectivePartQuantityUsed": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "purchaseOrderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "categoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "locationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "assetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "teamId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "parts": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "downtimeStatus": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "upkeep-create-purchase-order",
+    "upkeep-create-request",
+    "upkeep-create-work-order",
+    "upkeep-find-asset",
+    "upkeep-find-location",
+    "upkeep-find-part",
+    "upkeep-find-user",
+    "upkeep-find-vendor",
+    "upkeep-list-asset-id-options",
+    "upkeep-list-category-id-options",
+    "upkeep-list-downtime-status-options",
+    "upkeep-list-location-id-options",
+    "upkeep-list-parts-options",
+    "upkeep-list-purchase-order-id-options",
+    "upkeep-list-team-id-options",
+    "upkeep-list-user-id-options",
+    "upkeep-update-purchase-order",
+    "upkeep-custom-events",
+    "upkeep-new-purchase-order",
+    "upkeep-new-request",
+    "upkeep-new-work-order",
+    "upkeep-purchase-order-status-change",
+    "upkeep-request-approved",
+    "upkeep-work-order-status-change"
+  ]
+}

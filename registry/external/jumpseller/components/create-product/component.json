@@ -1,0 +1,7 @@
+{
+  "key": "jumpseller-create-product",
+  "name": "Create Product",
+  "description": "Create a new product in Jumpseller. [See the documentation](https://jumpseller.com/support/api/#tag/Products/paths/~1products.json/post)",
+  "type": "action",
+  "version": "0.0.2"
+}

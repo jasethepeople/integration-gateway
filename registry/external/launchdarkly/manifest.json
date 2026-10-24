@@ -1,0 +1,58 @@
+{
+  "app": "launchdarkly",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "project": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "environment": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "flag": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contextKind": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "context": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "memberId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "launchdarkly-evaluate-feature-flag",
+    "launchdarkly-get-feature-flag-status",
+    "launchdarkly-get-feature-flag",
+    "launchdarkly-get-project",
+    "launchdarkly-list-environments",
+    "launchdarkly-list-feature-flags",
+    "launchdarkly-list-members",
+    "launchdarkly-list-projects",
+    "launchdarkly-toggle-feature-flag",
+    "launchdarkly-update-feature-flag",
+    "launchdarkly-new-access-token-event",
+    "launchdarkly-new-flag-event",
+    "launchdarkly-new-user-event"
+  ],
+  "npmImports": [
+    "crypto",
+    "uuid"
+  ]
+}

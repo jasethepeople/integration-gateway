@@ -1,0 +1,7 @@
+{
+  "key": "hostaway-list-listing-id-options",
+  "name": "List Listing Options",
+  "description": "Retrieves available options for the Listing field.",
+  "type": "action",
+  "version": "0.0.1"
+}

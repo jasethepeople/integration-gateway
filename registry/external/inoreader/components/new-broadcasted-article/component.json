@@ -1,0 +1,7 @@
+{
+  "key": "inoreader-new-broadcasted-article",
+  "name": "New Broadcasted Article",
+  "description": "Emit new event when a new broadcasted article is added. [See the Documentation](https://www.inoreader.com/developers/stream-contents)",
+  "type": "source",
+  "version": "0.0.1"
+}

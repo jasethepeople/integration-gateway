@@ -1,0 +1,7 @@
+{
+  "key": "craftboxx-new-customer",
+  "name": "New Customer",
+  "description": "Emit new event when a new customer is created in Craftboxx. [See the documentation](https://api.craftboxx.de/docs/docs.json)",
+  "type": "source",
+  "version": "0.0.2"
+}

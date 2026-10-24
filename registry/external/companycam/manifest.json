@@ -1,0 +1,43 @@
+{
+  "app": "companycam",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "coordinateLat": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "coordinateLon": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "companycam-add-photo",
+    "companycam-add-project",
+    "companycam-find-or-create-project",
+    "companycam-find-project",
+    "companycam-new-document-created",
+    "companycam-new-photo-created",
+    "companycam-new-project-created",
+    "companycam-photo-tagged",
+    "companycam-project-labeled",
+    "companycam-todo-list-completed"
+  ],
+  "npmImports": [
+    "crypto",
+    "uuid"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "app": "twist",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "workspace": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "channel": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "thread": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "conversation": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eventType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "twist-add-comment",
+    "twist-add-message-to-conversation",
+    "twist-add-thread",
+    "twist-get-current-user",
+    "twist-get-thread",
+    "twist-get-user-by-email",
+    "twist-get-workspace-users",
+    "twist-new-channel",
+    "twist-new-comment",
+    "twist-new-event",
+    "twist-new-group-user",
+    "twist-new-group",
+    "twist-new-message",
+    "twist-new-thread"
+  ]
+}

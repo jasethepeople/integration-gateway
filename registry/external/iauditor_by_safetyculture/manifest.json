@@ -1,0 +1,59 @@
+{
+  "app": "iauditor_by_safetyculture",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "inspectionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "seatType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "iauditor_by_safetyculture-create-inspection",
+    "iauditor_by_safetyculture-create-user",
+    "iauditor_by_safetyculture-export-inspection",
+    "iauditor_by_safetyculture-generate-pdf-report",
+    "iauditor_by_safetyculture-list-group-id-options",
+    "iauditor_by_safetyculture-list-inspection-id-options",
+    "iauditor_by_safetyculture-list-template-id-options",
+    "iauditor_by_safetyculture-share-inspection",
+    "iauditor_by_safetyculture-update-user",
+    "iauditor_by_safetyculture-action-created",
+    "iauditor_by_safetyculture-inspection-completed"
+  ],
+  "npmImports": [
+    "lodash.pickby"
+  ]
+}

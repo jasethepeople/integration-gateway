@@ -1,0 +1,34 @@
+{
+  "app": "supabase_management_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectRef": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "organizationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "region": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "instanceSize": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "supabase_management_api-create-project",
+    "supabase_management_api-generate-typescript-types",
+    "supabase_management_api-list-organization-id-options",
+    "supabase_management_api-list-project-ref-options",
+    "supabase_management_api-new-backup-completed"
+  ]
+}

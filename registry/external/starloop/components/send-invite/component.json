@@ -1,0 +1,7 @@
+{
+  "key": "starloop-send-invite",
+  "name": "Send Invite",
+  "description": "Creates a new recipient and sends a Starloop invite (Email | SMS | both) to your customer to leave a review. [See the documentation](https://help.starloop.com/article/46-api-documentation)",
+  "type": "action",
+  "version": "0.0.2"
+}

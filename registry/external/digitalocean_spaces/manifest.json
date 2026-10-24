@@ -1,0 +1,51 @@
+{
+  "app": "digitalocean_spaces",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "files": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "prefix": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "acl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contentType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "metadata": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "region": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "digitalocean_spaces-delete-files",
+    "digitalocean_spaces-list-files",
+    "digitalocean_spaces-upload-file-base64",
+    "digitalocean_spaces-upload-file",
+    "digitalocean_spaces-file-deleted",
+    "digitalocean_spaces-file-uploaded"
+  ],
+  "npmImports": [
+    "@aws-sdk/client-s3",
+    "path"
+  ]
+}

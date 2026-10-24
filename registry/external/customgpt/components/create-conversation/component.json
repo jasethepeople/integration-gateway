@@ -1,0 +1,7 @@
+{
+  "key": "customgpt-create-conversation",
+  "name": "Create Conversation",
+  "description": "Create a new conversation for an agent (formerly known as project) identified by its unique projectId. [See the documentation](https://docs.customgpt.ai/reference/post_api-v1-projects-projectid-conversations)",
+  "type": "action",
+  "version": "0.0.1"
+}

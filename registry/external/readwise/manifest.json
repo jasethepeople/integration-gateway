@@ -1,0 +1,30 @@
+{
+  "app": "readwise",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "bookId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "highlightId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "readwise-get-highlight-details",
+    "readwise-list-book-id-options",
+    "readwise-list-highlights",
+    "readwise-new-documents",
+    "readwise-new-highlights"
+  ]
+}

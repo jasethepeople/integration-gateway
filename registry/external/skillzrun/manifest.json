@@ -1,0 +1,52 @@
+{
+  "app": "skillzrun",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "isActive": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "seesAllSubjects": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "ignoreNotOpenLevels": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "ignoreStopItems": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "noteAboutUser": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "offerIds": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "skillzrun-create-user-with-offers",
+    "skillzrun-upsert-user",
+    "skillzrun-new-user-created"
+  ]
+}

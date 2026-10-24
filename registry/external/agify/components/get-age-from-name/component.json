@@ -1,0 +1,7 @@
+{
+  "key": "agify-get-age-from-name",
+  "name": "Get Age From Name",
+  "description": "Estimate the age of a name. [See the documentation](https://agify.io/documentation)",
+  "type": "action",
+  "version": "0.0.1"
+}

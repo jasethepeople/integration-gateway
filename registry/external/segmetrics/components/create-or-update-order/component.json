@@ -1,0 +1,7 @@
+{
+  "key": "segmetrics-create-or-update-order",
+  "name": "Create Or Update Order",
+  "description": "Creates a client. [See documentation here](https://developers.segmetrics.io/#orders)",
+  "type": "action",
+  "version": "0.0.4"
+}

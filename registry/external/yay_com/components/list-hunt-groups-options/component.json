@@ -1,0 +1,7 @@
+{
+  "key": "yay_com-list-hunt-groups-options",
+  "name": "List Target Hunt Groups Options",
+  "description": "Retrieves available options for the Target Hunt Groups field.",
+  "type": "action",
+  "version": "0.0.1"
+}

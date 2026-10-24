@@ -1,0 +1,7 @@
+{
+  "key": "trust-update-testimonial",
+  "name": "Update Testimonial",
+  "description": "Update an existing testimonial within the Trust platform. [See the documentation](https://api-docs.usetrust.io/)",
+  "type": "action",
+  "version": "0.0.2"
+}

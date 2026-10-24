@@ -1,0 +1,7 @@
+{
+  "key": "lever-search-opportunities",
+  "name": "Search Opportunities",
+  "description": "Searches and filters opportunities (candidate applications) in Lever.",
+  "type": "action",
+  "version": "0.0.2"
+}

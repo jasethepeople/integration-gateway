@@ -1,0 +1,7 @@
+{
+  "key": "sdk-nuxtjs-event-received",
+  "name": "NuxtJS",
+  "description": "Emit a new event via the Nuxt.js Pipedream SDK.",
+  "type": "source",
+  "version": "0.0.2"
+}

@@ -1,0 +1,18 @@
+{
+  "app": "algomo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "chatbot_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "algomo-send-message-to-chatbot"
+  ]
+}

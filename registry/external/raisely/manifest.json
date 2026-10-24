@@ -1,0 +1,26 @@
+{
+  "app": "raisely",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "raisely-create-or-update-user",
+    "raisely-list-campaign-id-options",
+    "raisely-list-donations",
+    "raisely-donation-refunded",
+    "raisely-donation-succeeded",
+    "raisely-new-user-created"
+  ],
+  "npmImports": [
+    "lodash.pickby"
+  ]
+}

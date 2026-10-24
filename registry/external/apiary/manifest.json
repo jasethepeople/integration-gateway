@@ -1,0 +1,37 @@
+{
+  "app": "apiary",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "apiSubdomain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "public": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "desiredName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "code": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "apiary-create-api-project",
+    "apiary-fetch-blueprint",
+    "apiary-list-api-subdomain-options",
+    "apiary-publish-blueprint"
+  ]
+}

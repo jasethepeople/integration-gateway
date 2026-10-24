@@ -1,0 +1,21 @@
+{
+  "app": "foursquare",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "venueId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "foursquare-create-check-in",
+    "foursquare-create-tip",
+    "foursquare-new-check-in",
+    "foursquare-new-tip"
+  ]
+}

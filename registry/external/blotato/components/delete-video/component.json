@@ -1,0 +1,7 @@
+{
+  "key": "blotato-delete-video",
+  "name": "Delete Video",
+  "description": "Delete a video, carousel, or graphic. [See documentation](https://help.blotato.com/api/api-reference/delete-video)",
+  "type": "action",
+  "version": "0.0.1"
+}

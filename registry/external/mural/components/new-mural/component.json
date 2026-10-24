@@ -1,0 +1,7 @@
+{
+  "key": "mural-new-mural",
+  "name": "New Mural Created",
+  "description": "Emit new event when a new mural is created.",
+  "type": "source",
+  "version": "0.0.2"
+}

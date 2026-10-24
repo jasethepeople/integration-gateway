@@ -1,0 +1,7 @@
+{
+  "key": "workiz-new-job-created",
+  "name": "New Job Created",
+  "description": "Emit new event when a new job is created in Workiz. [See the documentation](https://developer.workiz.com/)",
+  "type": "source",
+  "version": "0.0.1"
+}

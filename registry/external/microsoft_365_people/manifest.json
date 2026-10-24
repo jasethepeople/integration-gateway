@@ -1,0 +1,71 @@
+{
+  "app": "microsoft_365_people",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "folderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mobilePhone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "homePhones": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "street": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "city": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "state": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "postalCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "countryOrRegion": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "microsoft_365_people-create-contact-folder",
+    "microsoft_365_people-create-contact",
+    "microsoft_365_people-list-folder-id-options",
+    "microsoft_365_people-update-contact",
+    "microsoft_365_people-new-contact-created"
+  ],
+  "npmImports": [
+    "@microsoft/microsoft-graph-client",
+    "isomorphic-fetch",
+    "lodash.pickby"
+  ]
+}

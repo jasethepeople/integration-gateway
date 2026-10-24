@@ -1,0 +1,7 @@
+{
+  "key": "renderio-delete-stored-file",
+  "name": "Delete Stored File",
+  "description": "Delete a stored file by ID. [See the documentation](https://renderio.dev/docs/api-reference/files/delete-file)",
+  "type": "action",
+  "version": "0.0.2"
+}

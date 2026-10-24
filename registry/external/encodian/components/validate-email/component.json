@@ -1,0 +1,7 @@
+{
+  "key": "encodian-validate-email",
+  "name": "Validate Email",
+  "description": "Validate the syntax of an email address. [See the documentation](https://api.apps-encodian.com/index.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

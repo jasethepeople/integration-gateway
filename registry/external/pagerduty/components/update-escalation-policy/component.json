@@ -1,0 +1,7 @@
+{
+  "key": "pagerduty-update-escalation-policy",
+  "name": "Update Escalation Policy",
+  "description": "Update an escalation policy's name, description, loop count, or escalation rules.",
+  "type": "action",
+  "version": "0.0.2"
+}

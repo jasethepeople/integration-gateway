@@ -1,0 +1,16 @@
+{
+  "app": "playwright",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "playwright-get-page-html",
+    "playwright-get-page-title",
+    "playwright-page-pdf",
+    "playwright-take-screenshot"
+  ],
+  "npmImports": [
+    "@sparticuz/chromium",
+    "playwright-core"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "paazl-get-shipment-labels",
+  "name": "Get Specific Shipment Label",
+  "description": "Retrieves a specific shipment's labels. [See the documentation](https://support.paazl.com/hc/en-us/articles/360008633973-REST-API-reference#/Shipments/getShipmentLabelsUsingGet)",
+  "type": "action",
+  "version": "0.0.2"
+}

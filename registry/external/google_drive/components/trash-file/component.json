@@ -1,0 +1,7 @@
+{
+  "key": "google_drive-trash-file",
+  "name": "Trash File",
+  "description": "Move a file or folder to the trash in Google Drive.",
+  "type": "action",
+  "version": "0.0.9"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zoho_inventory-create-item",
+  "name": "Create Item",
+  "description": "Creates a new item in Zoho Inventory. [See the documentation](https://www.zoho.com/inventory/api/v1/items/#create-an-item)",
+  "type": "action",
+  "version": "0.0.1"
+}

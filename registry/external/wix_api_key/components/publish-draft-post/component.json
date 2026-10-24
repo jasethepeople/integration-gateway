@@ -1,0 +1,7 @@
+{
+  "key": "wix_api_key-publish-draft-post",
+  "name": "Publish Draft Post",
+  "description": "Publish a draft blog post [See the documentation](https://dev.wix.com/docs/rest/business-solutions/blog/draft-posts/publish-draft-post)",
+  "type": "action",
+  "version": "0.0.2"
+}

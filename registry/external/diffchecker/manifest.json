@@ -1,0 +1,35 @@
+{
+  "app": "diffchecker",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "outputType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "diffLevel": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "environment": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "email": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "diffchecker-compare-image",
+    "diffchecker-compare-pdf",
+    "diffchecker-compare-text"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

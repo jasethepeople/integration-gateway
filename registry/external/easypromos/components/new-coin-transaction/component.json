@@ -1,0 +1,7 @@
+{
+  "key": "easypromos-new-coin-transaction",
+  "name": "New Coin Transaction",
+  "description": "Emit new event when a user earns or spends coins.",
+  "type": "source",
+  "version": "0.0.1"
+}

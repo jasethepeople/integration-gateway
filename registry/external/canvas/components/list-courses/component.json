@@ -1,0 +1,7 @@
+{
+  "key": "canvas-list-courses",
+  "name": "List Courses",
+  "description": "List all the courses associated with a given user. [See the documentation](https://mitt.uib.no/doc/api/all_resources.html#method.courses.user_index)",
+  "type": "action",
+  "version": "0.0.1"
+}

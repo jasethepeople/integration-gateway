@@ -1,0 +1,7 @@
+{
+  "key": "clevertap-stop-campaign",
+  "name": "Stop Campaign",
+  "description": "Stop a running campaign. [See the documentation](https://developer.clevertap.com/docs/stop-campaign-api)",
+  "type": "action",
+  "version": "0.0.2"
+}

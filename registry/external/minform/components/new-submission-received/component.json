@@ -1,0 +1,7 @@
+{
+  "key": "minform-new-submission-received",
+  "name": "New Submission Received (Instant)",
+  "description": "Emit new event when a new form submission is received. [See the documentation](https://minform-pipedream-api-docs.solutionportal.workers.dev/webhooks/)",
+  "type": "source",
+  "version": "0.0.1"
+}

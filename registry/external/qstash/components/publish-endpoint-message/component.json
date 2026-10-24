@@ -1,0 +1,7 @@
+{
+  "key": "qstash-publish-endpoint-message",
+  "name": "Publish Endpoint Message",
+  "description": "Publish a message a callback endpoint",
+  "type": "action",
+  "version": "0.0.2"
+}

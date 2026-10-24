@@ -1,0 +1,7 @@
+{
+  "key": "habitica-list-challenge-id-options",
+  "name": "List Challenge ID Options",
+  "description": "Retrieves available options for the Challenge ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

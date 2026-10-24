@@ -1,0 +1,7 @@
+{
+  "key": "paystack-update-virtual-terminal",
+  "name": "Update Virtual Terminal",
+  "description": "Update a Virtual Terminal on your integration. [See the documentation](https://paystack.com/docs/api/virtual-terminal/#update)",
+  "type": "action",
+  "version": "0.0.2"
+}

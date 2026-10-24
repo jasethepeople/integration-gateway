@@ -1,0 +1,34 @@
+{
+  "app": "convertkit",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "subscriber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "form": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "tag": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "convertkit-add-subscriber-to-form",
+    "convertkit-add-tag-to-subscriber",
+    "convertkit-list-form-options",
+    "convertkit-list-subscribers",
+    "convertkit-list-tag-options",
+    "convertkit-view-single-subscribers",
+    "convertkit-new-subscriber-instant",
+    "convertkit-new-unsubscription-instant",
+    "convertkit-webhook-events"
+  ]
+}

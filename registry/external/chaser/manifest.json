@@ -1,0 +1,28 @@
+{
+  "app": "chaser",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "customerExternalId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "host": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "chaser-create-customer",
+    "chaser-create-invoice",
+    "chaser-list-customer-external-id-options"
+  ]
+}

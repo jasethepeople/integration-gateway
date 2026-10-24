@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-get-company",
+  "name": "Get Company",
+  "description": "Get a company by UUID. [See the documentation](https://developer.servicem8.com/reference/getclients)",
+  "type": "action",
+  "version": "0.0.1"
+}

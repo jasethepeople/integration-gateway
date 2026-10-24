@@ -1,0 +1,7 @@
+{
+  "key": "prisma_management_api-list-projects-in-prisma-workspace",
+  "name": "List Projects in Prisma Workspace",
+  "description": "List Projects in a Prisma Workspace via Prisma Management API. [See docs here](https://www.prisma.io/docs/postgres/introduction/management-api)",
+  "type": "action",
+  "version": "1.0.2"
+}

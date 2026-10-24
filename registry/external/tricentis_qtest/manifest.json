@@ -1,0 +1,53 @@
+{
+  "app": "tricentis_qtest",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "parentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "requirementId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "defectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "properties": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "qtest_base_uri": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "tricentis_qtest-create-requirement",
+    "tricentis_qtest-get-defect",
+    "tricentis_qtest-get-requirement",
+    "tricentis_qtest-list-defect-fields",
+    "tricentis_qtest-list-defects",
+    "tricentis_qtest-list-modules",
+    "tricentis_qtest-list-project-id-options",
+    "tricentis_qtest-list-requirement-fields",
+    "tricentis_qtest-list-requirements",
+    "tricentis_qtest-submit-defect",
+    "tricentis_qtest-update-defect",
+    "tricentis_qtest-update-requirement"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "morningmate-create-schedule",
+  "name": "Create Schedule",
+  "description": "Creates a new schedule for a specific project. [See the documentation](https://api.morningmate.com/docs/api/posts#createSchedule-metadata)",
+  "type": "action",
+  "version": "0.0.2"
+}

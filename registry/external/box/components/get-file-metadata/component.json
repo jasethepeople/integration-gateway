@@ -1,0 +1,7 @@
+{
+  "key": "box-get-file-metadata",
+  "name": "Get File Metadata",
+  "description": "Retrieves metadata for a file (name, size, timestamps, path, and more). Optionally request specific fields. Use **List File Versions** for version history, or **Download File** for content. [See the documentation](https://developer.box.com/reference/get-files-id/).",
+  "type": "action",
+  "version": "0.0.2"
+}

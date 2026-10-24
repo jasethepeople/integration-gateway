@@ -1,0 +1,7 @@
+{
+  "key": "letzai-new-image-edit",
+  "name": "New Image Edit Created",
+  "description": "Emit new event when a new image edit is created in LetzAI. [See the documentation](https://api.letz.ai/doc#/image-edit/image_edit_find)",
+  "type": "source",
+  "version": "0.0.1"
+}

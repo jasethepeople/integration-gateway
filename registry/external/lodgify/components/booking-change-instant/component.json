@@ -1,0 +1,7 @@
+{
+  "key": "lodgify-booking-change-instant",
+  "name": "Booking Change (Instant)",
+  "description": "Emit new event when an existing booking is updated.",
+  "type": "source",
+  "version": "0.0.1"
+}

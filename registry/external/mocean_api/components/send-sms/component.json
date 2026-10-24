@@ -1,0 +1,7 @@
+{
+  "key": "mocean_api-send-sms",
+  "name": "Send SMS",
+  "description": "Send an outbound SMS from your Mocean account. [See the documentation](https://moceanapi.com/docs/#send-sms)",
+  "type": "action",
+  "version": "0.0.2"
+}

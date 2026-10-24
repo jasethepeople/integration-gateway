@@ -1,0 +1,7 @@
+{
+  "key": "decision_journal-create-review-decision",
+  "name": "Create Review Decision",
+  "description": "Creates a review for a decision in Decision Journal. [See the documentation](https://openpm.ai/apis/decision-journal#/decisions/{decisionId}/reviews)",
+  "type": "action",
+  "version": "0.0.2"
+}

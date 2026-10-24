@@ -1,0 +1,29 @@
+{
+  "app": "product_hunt",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "topic": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "username": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "product_hunt-list-topic-options",
+    "product_hunt-new-product-added",
+    "product_hunt-new-product-trending",
+    "product_hunt-new-product-upvoted"
+  ],
+  "npmImports": [
+    "graphql",
+    "graphql-request"
+  ]
+}

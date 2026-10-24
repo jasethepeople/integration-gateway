@@ -1,0 +1,7 @@
+{
+  "key": "clickup-get-list",
+  "name": "Get List",
+  "description": "Get a list. [See the documentation](https://clickup.com/api) in **Lists / Get List** section.",
+  "type": "action",
+  "version": "0.0.12"
+}

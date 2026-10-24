@@ -1,0 +1,25 @@
+{
+  "app": "bilflo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "clientId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "company_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "bilflo-assign-contract-job-to-invoice",
+    "bilflo-create-client",
+    "bilflo-create-contract-job",
+    "bilflo-list-client-id-options"
+  ]
+}

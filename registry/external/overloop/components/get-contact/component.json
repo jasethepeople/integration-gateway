@@ -1,0 +1,7 @@
+{
+  "key": "overloop-get-contact",
+  "name": "Get Contact",
+  "description": "Retrieves a contact by id. [See the docs](https://apidoc.overloop.com/#retrieve-a-contact)",
+  "type": "action",
+  "version": "0.0.2"
+}

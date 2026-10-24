@@ -1,0 +1,41 @@
+{
+  "app": "spamcheck_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "reportId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ip": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "desiredOutcome": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "result": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "notes": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "spamcheck_ai-delete-spam-report",
+    "spamcheck_ai-list-report-id-options",
+    "spamcheck_ai-post-spam-check",
+    "spamcheck_ai-post-spam-report"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "coinmarketcap-latest-listings",
+  "name": "Get Latest Listings",
+  "description": "Returns a paginated list of all active cryptocurrencies with latest market data. [See the documentation](https://coinmarketcap.com/api/documentation/v1/#operation/getV1CryptocurrencyListingsLatest)",
+  "type": "action",
+  "version": "0.1.3"
+}

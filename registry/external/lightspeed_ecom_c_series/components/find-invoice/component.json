@@ -1,0 +1,7 @@
+{
+  "key": "lightspeed_ecom_c_series-find-invoice",
+  "name": "Find Invoice",
+  "description": "Find an invoice by ID. [See the documentation](https://developers.lightspeedhq.com/ecom/endpoints/invoice/#get-all-invoices)",
+  "type": "action",
+  "version": "0.0.1"
+}

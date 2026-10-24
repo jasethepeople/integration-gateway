@@ -1,0 +1,7 @@
+{
+  "key": "heartbeat-send-direct-message",
+  "name": "Send Direct Message",
+  "description": "Send a direct message in Heartbeat. [See the documentation](https://heartbeat.readme.io/reference/createdirectmessage)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "gocanvas-delete-dispatch",
+  "name": "Delete Dispatch",
+  "description": "Removes a specific dispatch from GoCanvas. [See the documentation](https://help.gocanvas.com/hc/en-us/article_attachments/26468076609559)",
+  "type": "action",
+  "version": "0.0.2"
+}

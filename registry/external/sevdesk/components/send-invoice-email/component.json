@@ -1,0 +1,7 @@
+{
+  "key": "sevdesk-send-invoice-email",
+  "name": "Send Invoice Email",
+  "description": "Sends an invoice via email. [See the documentation](https://api.sevdesk.de/#tag/Invoice/operation/sendInvoiceViaEMail)",
+  "type": "action",
+  "version": "0.0.3"
+}

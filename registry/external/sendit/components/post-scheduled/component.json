@@ -1,0 +1,7 @@
+{
+  "key": "sendit-post-scheduled",
+  "name": "New Post Scheduled",
+  "description": "Emit new event when a post is scheduled. [See the documentation](https://sendit.infiniteappsai.com/docs/api)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "bitly-shorten",
+  "name": "Shorten a Link",
+  "description": "Converts a long url to a Bitlink.",
+  "type": "action",
+  "version": "0.2.2"
+}

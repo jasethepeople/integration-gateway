@@ -1,0 +1,7 @@
+{
+  "key": "e_conomic-create-invoice",
+  "name": "Create Invoice",
+  "description": "Creates a new draft invoice. [See the documentation](https://restdocs.e-conomic.com/#post-invoices-drafts)",
+  "type": "action",
+  "version": "0.0.2"
+}

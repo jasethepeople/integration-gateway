@@ -1,0 +1,26 @@
+{
+  "app": "leiga",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "issueTypeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "leiga-create-issue",
+    "leiga-list-project-id-options",
+    "leiga-deleted-issue-instant",
+    "leiga-new-issue-instant",
+    "leiga-updated-issue-instant"
+  ]
+}

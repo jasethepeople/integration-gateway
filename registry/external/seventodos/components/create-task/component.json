@@ -1,0 +1,7 @@
+{
+  "key": "seventodos-create-task",
+  "name": "Create a task",
+  "description": "Create a task. [See the docs](https://www.7todos.com/app/api).",
+  "type": "action",
+  "version": "0.0.2"
+}

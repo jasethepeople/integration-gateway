@@ -1,0 +1,7 @@
+{
+  "key": "smslink_nc-delete-contact",
+  "name": "Delete Contact",
+  "description": "Deletes a contact. [See the documentation](https://api.smslink.nc/api/documentation)",
+  "type": "action",
+  "version": "0.0.2"
+}

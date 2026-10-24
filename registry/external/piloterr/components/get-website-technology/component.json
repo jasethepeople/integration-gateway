@@ -1,0 +1,7 @@
+{
+  "key": "piloterr-get-website-technology",
+  "name": "Get Website Technology",
+  "description": "Retrieves the core technology used on a designated website. (CMS, Framework, Analytics, CDN, Hosting, etc.) [See the documentation](https://docs.piloterr.com/v2/api-reference/website/technology)",
+  "type": "action",
+  "version": "0.0.2"
+}

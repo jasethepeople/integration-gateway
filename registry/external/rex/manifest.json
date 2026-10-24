@@ -1,0 +1,57 @@
+{
+  "app": "rex",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sourceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "listingId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "propertyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectStageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "region": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "rex-create-contact",
+    "rex-create-lead",
+    "rex-create-reminder",
+    "rex-list-contact-id-options",
+    "rex-list-listing-id-options",
+    "rex-list-project-id-options",
+    "rex-list-project-stage-id-options",
+    "rex-list-property-id-options",
+    "rex-list-source-id-options",
+    "rex-list-user-id-options",
+    "rex-new-contact-created",
+    "rex-new-lead-created"
+  ]
+}

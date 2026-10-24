@@ -1,0 +1,7 @@
+{
+  "key": "granola-list-folders",
+  "name": "List Folders",
+  "description": "List accessible folders. Includes folder hierarchy via `parent_folder_id`. [See the documentation](https://docs.granola.ai/api-reference/list-folders)",
+  "type": "action",
+  "version": "0.0.1"
+}

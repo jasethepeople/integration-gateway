@@ -1,0 +1,7 @@
+{
+  "key": "form_io-list-form-actions",
+  "name": "List Form Actions",
+  "description": "List all actions attached to a Form.io form. Use **List Forms** to find the form ID. Form.io returns up to `limit` records (default 10); if you receive a full page there may be more — raise `limit` (up to 1000) or page with `skip` to retrieve them all. [See the documentation](https://apidocs.form.io/#3f2531ad-bd2e-4e8e-889f-1bce44ce9651).",
+  "type": "action",
+  "version": "0.0.1"
+}

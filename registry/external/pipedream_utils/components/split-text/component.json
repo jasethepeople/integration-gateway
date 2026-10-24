@@ -1,0 +1,7 @@
+{
+  "key": "pipedream_utils-split-text",
+  "name": "Formatting - [Text] Split Text",
+  "description": "Split the text on a character or word and return one or all segments",
+  "type": "action",
+  "version": "0.0.6"
+}

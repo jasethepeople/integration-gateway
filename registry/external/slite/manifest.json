@@ -1,0 +1,28 @@
+{
+  "app": "slite",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "markdown": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "noteId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "slite-create-doc",
+    "slite-fetch-sub-docs",
+    "slite-update-doc"
+  ]
+}

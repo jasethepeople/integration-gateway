@@ -1,0 +1,7 @@
+{
+  "key": "retently-add-tags-to-response",
+  "name": "Add Tags to Response",
+  "description": "Adds tags to a response. [See the documentation](https://www.retently.com/api/#api-add-response-tags-post)",
+  "type": "action",
+  "version": "0.0.2"
+}

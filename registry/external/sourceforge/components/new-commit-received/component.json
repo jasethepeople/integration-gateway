@@ -1,0 +1,7 @@
+{
+  "key": "sourceforge-new-commit-received",
+  "name": "New Commit Received (Instant)",
+  "description": "Emit new event when a repository receives a new commit.",
+  "type": "source",
+  "version": "0.0.1"
+}

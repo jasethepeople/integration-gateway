@@ -1,0 +1,7 @@
+{
+  "key": "api4ai-nsfw-image-recognition",
+  "name": "NSFW Image Recognition",
+  "description": "Content moderation solution for NSFW (Not Safe For Work) sexual images identification. Powered by API4AI.",
+  "type": "action",
+  "version": "0.0.6"
+}

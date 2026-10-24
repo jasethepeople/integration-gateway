@@ -1,0 +1,7 @@
+{
+  "key": "timetonic-row-updated",
+  "name": "Row Updated",
+  "description": "Emit new event when a row is updated in a table.",
+  "type": "source",
+  "version": "0.0.1"
+}

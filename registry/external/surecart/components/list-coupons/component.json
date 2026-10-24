@@ -1,0 +1,7 @@
+{
+  "key": "surecart-list-coupons",
+  "name": "List Coupons",
+  "description": "Return a list of coupons. [See the documentation](https://developer.surecart.com/api-reference/coupons/list)",
+  "type": "action",
+  "version": "0.0.1"
+}

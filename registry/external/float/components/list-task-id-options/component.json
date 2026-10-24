@@ -1,0 +1,7 @@
+{
+  "key": "float-list-task-id-options",
+  "name": "List Task Options",
+  "description": "Retrieves available options for the Task field.",
+  "type": "action",
+  "version": "0.0.1"
+}

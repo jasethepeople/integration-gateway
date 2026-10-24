@@ -1,0 +1,7 @@
+{
+  "key": "wistia-new-project",
+  "name": "New Project",
+  "description": "Emit new event for each created project.",
+  "type": "source",
+  "version": "0.0.3"
+}

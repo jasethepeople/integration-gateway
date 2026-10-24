@@ -1,0 +1,7 @@
+{
+  "key": "planview_leankit-card-entered-a-lane",
+  "name": "New Card Entered a Specific Lane",
+  "description": "Emit new event when a card enters a specific lane.",
+  "type": "source",
+  "version": "0.0.5"
+}

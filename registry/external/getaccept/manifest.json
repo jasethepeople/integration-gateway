@@ -1,0 +1,28 @@
+{
+  "app": "getaccept",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "documentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "senderEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "getaccept-create-contact",
+    "getaccept-create-document",
+    "getaccept-list-document-id-options",
+    "getaccept-list-sender-email-options",
+    "getaccept-send-reminder",
+    "getaccept-document-signed",
+    "getaccept-document-viewed"
+  ]
+}

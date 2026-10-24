@@ -1,0 +1,61 @@
+{
+  "app": "exhibitday",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "eventId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskSectionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "assigneeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eventFormat": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "participationType": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "taskName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "isCompleted": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "dueDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "details": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "exhibitday-create-event",
+    "exhibitday-create-task",
+    "exhibitday-list-assignee-id-options",
+    "exhibitday-list-event-id-options",
+    "exhibitday-update-task",
+    "exhibitday-new-event",
+    "exhibitday-new-task-assigned",
+    "exhibitday-task-completed"
+  ]
+}

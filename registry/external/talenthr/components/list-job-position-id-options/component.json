@@ -1,0 +1,7 @@
+{
+  "key": "talenthr-list-job-position-id-options",
+  "name": "List Job Position Options",
+  "description": "Retrieves available options for the Job Position field.",
+  "type": "action",
+  "version": "0.0.1"
+}

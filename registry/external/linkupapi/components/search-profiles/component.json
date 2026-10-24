@@ -1,0 +1,7 @@
+{
+  "key": "linkupapi-search-profiles",
+  "name": "Search Profiles",
+  "description": "Search for LinkedIn people. [See the documentation](https://docs.linkupapi.com/api-reference/v2/profiles/search-people)",
+  "type": "action",
+  "version": "1.0.0"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "sharepoint-updated-list-item",
+  "name": "Updated List Item",
+  "description": "Emit new event when a list item is updated in Microsoft Sharepoint.",
+  "type": "source",
+  "version": "0.0.16"
+}

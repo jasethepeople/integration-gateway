@@ -1,0 +1,7 @@
+{
+  "key": "upsales-create-order",
+  "name": "Create Order",
+  "description": "Creates a new order in Upsales. [See the documentation](https://api.upsales.com/#9c402e62-1951-4b50-9372-6f2664736431)",
+  "type": "action",
+  "version": "0.0.1"
+}

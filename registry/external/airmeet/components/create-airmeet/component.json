@@ -1,0 +1,7 @@
+{
+  "key": "airmeet-create-airmeet",
+  "name": "Create Airmeet",
+  "description": "Creates an airmeet. [See the documentation](https://help.airmeet.com/support/solutions/articles/82000467794-airmeet-public-apis-v2-0#6.1-Create-Airmeet)",
+  "type": "action",
+  "version": "0.0.2"
+}

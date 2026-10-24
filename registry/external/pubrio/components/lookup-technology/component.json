@@ -1,0 +1,7 @@
+{
+  "key": "pubrio-lookup-technology",
+  "name": "Lookup Technology",
+  "description": "Look up technologies used by a company. [See the documentation](https://docs.pubrio.com/en/api-reference/endpoint/companies/technology_lookup)",
+  "type": "action",
+  "version": "0.0.1"
+}

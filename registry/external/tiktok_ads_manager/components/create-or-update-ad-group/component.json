@@ -1,0 +1,7 @@
+{
+  "key": "tiktok_ads_manager-create-or-update-ad-group",
+  "name": "Create or Update Ad Group",
+  "description": "Create a new TikTok ad group or update an existing one.",
+  "type": "action",
+  "version": "0.0.2"
+}

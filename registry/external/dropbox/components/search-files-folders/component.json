@@ -1,0 +1,7 @@
+{
+  "key": "dropbox-search-files-folders",
+  "name": "Search files and folders",
+  "description": "Searches for files and folders by name. [See the documentation](https://dropbox.github.io/dropbox-sdk-js/Dropbox.html#filesSearchV2__anchor)",
+  "type": "action",
+  "version": "0.0.15"
+}

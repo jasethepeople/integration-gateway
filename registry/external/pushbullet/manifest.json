@@ -1,0 +1,20 @@
+{
+  "app": "pushbullet",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pushbullet-delete-push",
+    "pushbullet-list-device-options",
+    "pushbullet-list-push-options",
+    "pushbullet-send-push"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

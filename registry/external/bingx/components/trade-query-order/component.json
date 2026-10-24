@@ -1,0 +1,7 @@
+{
+  "key": "bingx-trade-query-order",
+  "name": "BingX Trade Query Order",
+  "description": "Query Order Details [See the documentation](https://bingx-api.github.io/docs/#/swapV2/trade-api.html#Query%20Order).",
+  "type": "action",
+  "version": "0.0.5"
+}

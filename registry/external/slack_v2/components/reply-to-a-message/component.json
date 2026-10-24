@@ -1,0 +1,7 @@
+{
+  "key": "slack_v2-reply-to-a-message",
+  "name": "Reply to a Message Thread",
+  "description": "Send a message as a threaded reply to an existing message.",
+  "type": "action",
+  "version": "0.3.2"
+}

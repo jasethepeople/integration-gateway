@@ -1,0 +1,7 @@
+{
+  "key": "ionos_hosting_services-update-dns-zone",
+  "name": "Update DNS Zone (Full Replace)",
+  "description": "Replace ALL records in a DNS zone with the provided record set (HTTP PUT / full zone overwrite). Any existing record not present in the payload is permanently removed. For a partial update that only replaces records sharing the same name and type, use **Patch DNS Zone** instead. Run **List DNS Zones** to find the zone ID and **Get DNS Zone** to inspect current records first. [See the documentation](https://developer.hosting.ionos.com/docs/dns).",
+  "type": "action",
+  "version": "0.0.2"
+}

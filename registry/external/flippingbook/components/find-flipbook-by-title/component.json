@@ -1,0 +1,7 @@
+{
+  "key": "flippingbook-find-flipbook-by-title",
+  "name": "Find Flipbook by Title",
+  "description": "Locates a specific flipbook using the provided title. [See the documentation](https://apidocs.flippingbook.com/#list-filtered-and-or-paged-publications-in-the-account)",
+  "type": "action",
+  "version": "0.0.3"
+}

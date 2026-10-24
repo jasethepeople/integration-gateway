@@ -1,0 +1,7 @@
+{
+  "key": "mailerlite-create-subscriber",
+  "name": "Create Subscriber",
+  "description": "Create a new subscriber. [See the documentation](https://developers.mailerlite.com/docs/subscribers.html#create-update-subscriber)",
+  "type": "action",
+  "version": "0.0.5"
+}

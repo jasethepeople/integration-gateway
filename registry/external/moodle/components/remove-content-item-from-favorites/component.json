@@ -1,0 +1,7 @@
+{
+  "key": "moodle-remove-content-item-from-favorites",
+  "name": "Remove a Content Item from Favourites",
+  "description": "Removes a specific content item from a user's list of favourites in Moodle. [See the documentation](https://moodledev.io/docs/5.2)",
+  "type": "action",
+  "version": "0.0.1"
+}

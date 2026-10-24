@@ -1,0 +1,19 @@
+{
+  "app": "obolus",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "apiKey": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "obolus-berechne",
+    "obolus-taxcompare"
+  ]
+}

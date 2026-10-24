@@ -1,0 +1,21 @@
+{
+  "app": "brevo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "listIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "brevo-add-or-update-contact",
+    "brevo-send-transactional-email",
+    "brevo-marketing-webhook",
+    "brevo-transactional-webhook"
+  ]
+}

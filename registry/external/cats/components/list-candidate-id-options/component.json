@@ -1,0 +1,7 @@
+{
+  "key": "cats-list-candidate-id-options",
+  "name": "List Candidate ID Options",
+  "description": "Retrieves available options for the Candidate ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

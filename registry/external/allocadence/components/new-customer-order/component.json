@@ -1,0 +1,7 @@
+{
+  "key": "allocadence-new-customer-order",
+  "name": "New Customer Order Created",
+  "description": "Emit new event when a new customer order is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

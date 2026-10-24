@@ -1,0 +1,7 @@
+{
+  "key": "videoask-create-form",
+  "name": "Create Form",
+  "description": "Creates a new form in VideoAsk. [See the documentation](https://developers.videoask.com/#a9237dfd-e0c1-4099-a9f1-e035d95797a1)",
+  "type": "action",
+  "version": "0.0.1"
+}

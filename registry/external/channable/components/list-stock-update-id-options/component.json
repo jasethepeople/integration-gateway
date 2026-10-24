@@ -1,0 +1,7 @@
+{
+  "key": "channable-list-stock-update-id-options",
+  "name": "List Stock Update ID Options",
+  "description": "Retrieves available options for the Stock Update ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

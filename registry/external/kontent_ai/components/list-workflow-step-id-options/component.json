@@ -1,0 +1,7 @@
+{
+  "key": "kontent_ai-list-workflow-step-id-options",
+  "name": "List Workflow Step Id Options",
+  "description": "Retrieves available options for the Workflow Step Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "mailgun-new-log-data",
+  "name": "New Log Data",
+  "description": "Emit new event when new data is logged in Mailgun's Control Panel. Occurs for most actions within the associated Mailgun account.",
+  "type": "source",
+  "version": "0.0.3"
+}

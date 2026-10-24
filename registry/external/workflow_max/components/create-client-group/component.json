@@ -1,0 +1,7 @@
+{
+  "key": "workflow_max-create-client-group",
+  "name": "Create Client Group",
+  "description": "Creates a new Client Group in Workflow Max. [See the documentation](https://app.swaggerhub.com/apis-docs/WorkflowMax-BlueRock/WorkflowMax-BlueRock-OpenAPI3/0.1#/Client/createClient)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "hive-new-action-updated",
+  "name": "New Action Updated",
+  "description": "Emit new event when an action is updated.",
+  "type": "source",
+  "version": "0.0.1"
+}

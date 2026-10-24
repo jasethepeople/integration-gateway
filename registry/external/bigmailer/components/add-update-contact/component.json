@@ -1,0 +1,7 @@
+{
+  "key": "bigmailer-add-update-contact",
+  "name": "Add or Update Contact",
+  "description": "Creates or updates a contact within a brand. [See the documentation](https://docs.bigmailer.io/reference/upsertcontact)",
+  "type": "action",
+  "version": "0.0.2"
+}

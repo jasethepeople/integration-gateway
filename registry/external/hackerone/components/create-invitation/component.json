@@ -1,0 +1,7 @@
+{
+  "key": "hackerone-create-invitation",
+  "name": "Create Invitation",
+  "description": "Invite a recipient to an organization using their email address. [See the documentation](https://api.hackerone.com/customer-resources/?shell#organizations-create-an-invitation)",
+  "type": "action",
+  "version": "0.0.2"
+}

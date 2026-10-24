@@ -1,0 +1,7 @@
+{
+  "key": "announcekit-new-comment",
+  "name": "New Comment",
+  "description": "Emit new event when a new comment is created. [See the documentation](https://announcekit.app/docs/graphql-api)",
+  "type": "source",
+  "version": "0.0.1"
+}

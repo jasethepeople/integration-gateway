@@ -1,0 +1,7 @@
+{
+  "key": "smartsheet-list-folder-id-options",
+  "name": "List Folder Options",
+  "description": "Retrieves `{ label, value }` pairs for populating a Folder dropdown, for one workspace.",
+  "type": "action",
+  "version": "1.1.3"
+}

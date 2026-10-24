@@ -1,0 +1,31 @@
+{
+  "app": "chatbot_builder",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tagId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "chatbot_builder-create-tag",
+    "chatbot_builder-delete-tag",
+    "chatbot_builder-list-tags"
+  ],
+  "npmImports": [
+    "qs"
+  ]
+}

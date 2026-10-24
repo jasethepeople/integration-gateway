@@ -1,0 +1,7 @@
+{
+  "key": "xola-add-event-guide",
+  "name": "Add Event Guide",
+  "description": "Adds a guide to an event. [See the documentation](https://xola.github.io/xola-docs/#tag/events/operation/addEventGuide)",
+  "type": "action",
+  "version": "0.0.1"
+}

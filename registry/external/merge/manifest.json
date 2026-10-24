@@ -1,0 +1,71 @@
+{
+  "app": "merge",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "user": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "activityType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subject": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "body": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "visibility": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "candidate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "remoteUserId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "canEmail": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "emailAddress": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emailType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "account_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "merge-create-activity",
+    "merge-create-candidate",
+    "merge-list-candidate-options",
+    "merge-list-remote-user-id-options",
+    "merge-list-user-options",
+    "merge-update-candidate"
+  ]
+}

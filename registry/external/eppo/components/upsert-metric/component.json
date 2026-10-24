@@ -1,0 +1,7 @@
+{
+  "key": "eppo-upsert-metric",
+  "name": "Upsert Metric",
+  "description": "Create or update a metric in Eppo. Omit `metricId` to create a new metric; provide `metricId` to update an existing one.",
+  "type": "action",
+  "version": "0.0.2"
+}

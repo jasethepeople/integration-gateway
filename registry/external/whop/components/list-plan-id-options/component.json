@@ -1,0 +1,7 @@
+{
+  "key": "whop-list-plan-id-options",
+  "name": "List Plan Id Options",
+  "description": "Retrieves available options for the Plan Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

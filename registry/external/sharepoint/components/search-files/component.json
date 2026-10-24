@@ -1,0 +1,7 @@
+{
+  "key": "sharepoint-search-files",
+  "name": "Search Files",
+  "description": "Search for files across the tenant.",
+  "type": "action",
+  "version": "0.0.10"
+}

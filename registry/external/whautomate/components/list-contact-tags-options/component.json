@@ -1,0 +1,7 @@
+{
+  "key": "whautomate-list-contact-tags-options",
+  "name": "List Contact Tags Options",
+  "description": "Retrieves available options for the Contact Tags field.",
+  "type": "action",
+  "version": "0.0.1"
+}

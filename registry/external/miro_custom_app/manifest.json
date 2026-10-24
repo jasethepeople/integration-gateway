@@ -1,0 +1,98 @@
+{
+  "app": "miro_custom_app",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "content": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shape": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "x": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "y": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "teamId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cardTitle": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cardDescription": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dueDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cardTheme": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "height": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "rotation": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "width": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "boardId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "itemId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "miro_custom_app-create-board",
+    "miro_custom_app-create-card-item",
+    "miro_custom_app-create-shape",
+    "miro_custom_app-create-sticky-note",
+    "miro_custom_app-delete-board",
+    "miro_custom_app-delete-item",
+    "miro_custom_app-get-board",
+    "miro_custom_app-get-items",
+    "miro_custom_app-get-specific-item",
+    "miro_custom_app-list-boards",
+    "miro_custom_app-update-board",
+    "miro_custom_app-update-card-item",
+    "miro_custom_app-update-shape",
+    "miro_custom_app-update-sticky-note",
+    "miro_custom_app-card-item-updated",
+    "miro_custom_app-item-position-changed",
+    "miro_custom_app-new-card-item-created"
+  ]
+}

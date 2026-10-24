@@ -1,0 +1,7 @@
+{
+  "key": "videoask-create-contact",
+  "name": "Create Contact",
+  "description": "Creates a new contact directly in VideoAsk. [See the documentation](https://developers.videoask.com/#48ed4b01-13f2-4596-9612-b60825a91511)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "sendloop-new-email-opened",
+  "name": "New Email Opened",
+  "description": "Emit new event when a subscriber opens an email.",
+  "type": "source",
+  "version": "0.0.1"
+}

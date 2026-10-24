@@ -1,0 +1,7 @@
+{
+  "key": "woocommerce-list-payment-method-options",
+  "name": "List Payment Method Options",
+  "description": "Retrieves available options for the Payment Method field.",
+  "type": "action",
+  "version": "0.0.1"
+}

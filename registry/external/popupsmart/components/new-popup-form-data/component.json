@@ -1,0 +1,7 @@
+{
+  "key": "popupsmart-new-popup-form-data",
+  "name": "New Popup Form Data",
+  "description": "Emit new event when a new popup form data is received. [See the documentation](https://popupsmart.com/help/detail/how-to-auto-download-leads-using-an-api)",
+  "type": "source",
+  "version": "0.0.1"
+}

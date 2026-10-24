@@ -1,0 +1,7 @@
+{
+  "key": "postgresql-execute-custom-query",
+  "name": "Execute SQL Query",
+  "description": "Execute a custom PostgreSQL query. See [our docs](https://pipedream.com/docs/databases/working-with-sql) to learn more about working with SQL in Pipedream.",
+  "type": "action",
+  "version": "3.0.5"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "elastic_security-find-detection-rules",
+  "name": "Find Detection Rules",
+  "description": "Find and list Elastic Security detection rules via GET /api/detection_engine/rules/_find, or fetch a single rule directly via GET /api/detection_engine/rules when `id` or `ruleId` is provided.",
+  "type": "action",
+  "version": "0.0.1"
+}

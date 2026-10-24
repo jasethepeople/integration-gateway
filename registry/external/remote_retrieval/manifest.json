@@ -1,0 +1,104 @@
+{
+  "app": "remote_retrieval",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "orderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "typeOfEquipment": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "addressLine1": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "addressLine2": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "addressCity": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "addressState": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "addressCountry": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "addressZip": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "returnPersonName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "returnCompanyName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "returnAddressLine1": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "returnAddressLine2": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "returnAddressCity": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "returnAddressState": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "returnAddressCountry": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "returnAddressZip": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyPhone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "remote_retrieval-create-order",
+    "remote_retrieval-get-order-details",
+    "remote_retrieval-get-orders"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "recruit_crm-task-updated",
+  "name": "Task Updated (Instant)",
+  "description": "Triggers when a task is updated. [See the documentation](https://docs.recruitcrm.io/docs/rcrm-api-reference/5e7ebc825ccf9-creates-a-new-subscription)",
+  "type": "source",
+  "version": "0.0.1"
+}

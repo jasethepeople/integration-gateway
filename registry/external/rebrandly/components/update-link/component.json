@@ -1,0 +1,7 @@
+{
+  "key": "rebrandly-update-link",
+  "name": "Update Link",
+  "description": "Updates a link. [See docs here](https://developers.rebrandly.com/docs/update-a-link)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "fortnox-list-customer-number-options",
+  "name": "List Customer Number Options",
+  "description": "Retrieves available options for the Customer Number field.",
+  "type": "action",
+  "version": "0.0.1"
+}

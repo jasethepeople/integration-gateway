@@ -1,0 +1,7 @@
+{
+  "key": "ngrok-update-https-edge",
+  "name": "Update HTTPS Edge",
+  "description": "Updates an HTTPS Edge. [See the documentation](https://ngrok.com/docs/api/resources/edges-https/#update-https-edge).",
+  "type": "action",
+  "version": "0.0.2"
+}

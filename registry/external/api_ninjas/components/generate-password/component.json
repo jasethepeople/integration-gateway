@@ -1,0 +1,7 @@
+{
+  "key": "api_ninjas-generate-password",
+  "name": "Generate Password",
+  "description": "Returns a random password string adhering to the specified parameters. [See the documentation](https://api-ninjas.com/api/passwordgenerator)",
+  "type": "action",
+  "version": "0.0.1"
+}

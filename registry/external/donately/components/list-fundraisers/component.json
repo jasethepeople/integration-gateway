@@ -1,0 +1,7 @@
+{
+  "key": "donately-list-fundraisers",
+  "name": "List Fundraisers",
+  "description": "List fundraisers for an account. [See the documentation](https://developer.donate.ly/api/#fundraisers)",
+  "type": "action",
+  "version": "0.0.1"
+}

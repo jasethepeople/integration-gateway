@@ -1,0 +1,7 @@
+{
+  "key": "agile_crm-new-contact",
+  "name": "New Contact",
+  "description": "Emit new event when a new contact is created",
+  "type": "source",
+  "version": "0.0.4"
+}

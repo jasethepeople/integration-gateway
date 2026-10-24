@@ -1,0 +1,7 @@
+{
+  "key": "excalidraw-create-collection",
+  "name": "Create Collection",
+  "description": "Creates a new collection (folder) in the Excalidraw Plus workspace for organizing scenes.",
+  "type": "action",
+  "version": "0.0.2"
+}

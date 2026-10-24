@@ -1,0 +1,84 @@
+{
+  "app": "spotify",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "market": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "playlistTracksUris": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "savedUserTracksId": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "artistId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "playlistId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "categoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "trackId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "uris": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "offset": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "genres": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "spotify-add-items-to-playlist",
+    "spotify-create-playlist",
+    "spotify-get-album-tracks",
+    "spotify-get-all-tracks-by-artist",
+    "spotify-get-artist-top-tracks",
+    "spotify-get-audio-features-for-a-track",
+    "spotify-get-categorys-playlist",
+    "spotify-get-currently-playing-track",
+    "spotify-get-playlist-items",
+    "spotify-get-playlist",
+    "spotify-get-recommendations",
+    "spotify-get-track",
+    "spotify-list-category-id-options",
+    "spotify-list-genres-options",
+    "spotify-list-playlist-id-options",
+    "spotify-list-saved-user-tracks-id-options",
+    "spotify-remove-items-from-playlist",
+    "spotify-remove-user-saved-tracks",
+    "spotify-save-track",
+    "spotify-search",
+    "spotify-new-playlist",
+    "spotify-new-saved-track",
+    "spotify-new-track-by-artist",
+    "spotify-new-track-in-playlist"
+  ],
+  "npmImports": [
+    "util"
+  ]
+}

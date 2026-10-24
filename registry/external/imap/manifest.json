@@ -1,0 +1,21 @@
+{
+  "app": "imap",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "mailbox": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "imap-list-mailbox-options",
+    "imap-new-email"
+  ],
+  "npmImports": [
+    "imap",
+    "mailparser",
+    "stream",
+    "util"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "bamboohr-get-time-off-balance",
+  "name": "Get Time Off Balance",
+  "description": "Get time off balances for an employee as of a date. Returns one entry per assigned policy. Run **Get Employees Directory** to find the employee ID. [See the documentation](https://documentation.bamboohr.com/reference/get-time-off-balance)",
+  "type": "action",
+  "version": "0.0.1"
+}

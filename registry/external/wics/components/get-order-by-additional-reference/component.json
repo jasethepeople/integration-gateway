@@ -1,0 +1,7 @@
+{
+  "key": "wics-get-order-by-additional-reference",
+  "name": "Get Order by Additional Reference",
+  "description": "Get an order by its additional reference. [See the documentation](https://docs.wics.nl/test-environment.html#orders-list-orders)",
+  "type": "action",
+  "version": "0.0.3"
+}

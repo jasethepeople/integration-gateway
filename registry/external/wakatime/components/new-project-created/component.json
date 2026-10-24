@@ -1,0 +1,7 @@
+{
+  "key": "wakatime-new-project-created",
+  "name": "New Project Created",
+  "description": "Emit new event when a new project is created in WakaTime. [See the documentation](https://wakatime.com/developers#projects)",
+  "type": "source",
+  "version": "0.0.1"
+}

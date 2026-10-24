@@ -1,0 +1,44 @@
+{
+  "app": "zenkit",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "workspaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "listId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "entryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sortOrder": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zenkit-add-entry-comment",
+    "zenkit-create-entry",
+    "zenkit-get-entry",
+    "zenkit-get-list",
+    "zenkit-get-user",
+    "zenkit-list-workspace-id-options",
+    "zenkit-update-entry",
+    "zenkit-new-activity",
+    "zenkit-new-entry",
+    "zenkit-new-notification",
+    "zenkit-updated-entry"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "app": "highlevel_oauth",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "locationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "highlevel_oauth-add-contact-to-campaign",
+    "highlevel_oauth-create-contact",
+    "highlevel_oauth-list-businesses",
+    "highlevel_oauth-list-campaign-id-options",
+    "highlevel_oauth-update-contact",
+    "highlevel_oauth-upsert-contact",
+    "highlevel_oauth-new-contact-created",
+    "highlevel_oauth-new-form-submission"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pdf_co-custom-api-call",
+  "name": "Custom API Call",
+  "description": "Custom API Call. [See docs here](https://apidocs.pdf.co/)",
+  "type": "action",
+  "version": "0.0.2"
+}

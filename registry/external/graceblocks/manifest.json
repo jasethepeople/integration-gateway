@@ -1,0 +1,49 @@
+{
+  "app": "graceblocks",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "recordId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "attachments": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "priority": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "block_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "graceblocks-create-record",
+    "graceblocks-list-record-id-options",
+    "graceblocks-update-record",
+    "graceblocks-new-record-created",
+    "graceblocks-record-updated"
+  ],
+  "npmImports": [
+    "md5"
+  ]
+}

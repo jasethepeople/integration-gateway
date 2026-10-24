@@ -1,0 +1,24 @@
+{
+  "app": "cufinder",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "companyName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "cufinder-find-company-email",
+    "cufinder-find-company-phone",
+    "cufinder-find-company-website"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "coda-create-doc",
+  "name": "Create Doc",
+  "description": "Creates a new doc. [See docs](https://coda.io/developers/apis/v1#operation/createDoc)",
+  "type": "action",
+  "version": "0.0.6"
+}

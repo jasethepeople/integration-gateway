@@ -1,0 +1,7 @@
+{
+  "key": "cloudpress-list-document-reference-options",
+  "name": "List Document Reference Options",
+  "description": "Retrieves available options for the Document Reference field.",
+  "type": "action",
+  "version": "0.0.1"
+}

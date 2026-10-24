@@ -1,0 +1,15 @@
+{
+  "app": "offlight",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "offlight-create-task",
+    "offlight-new-task-done-instant"
+  ]
+}

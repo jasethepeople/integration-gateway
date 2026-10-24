@@ -1,0 +1,122 @@
+{
+  "app": "social_fetch",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "platform": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "postPlatform": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "listPlatform": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "transcriptPlatform": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "handle": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "profileUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "postUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mediaUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contentType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cursor": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "searchQuery": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "hashtag": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "subreddit": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subredditUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sort": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timeframe": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "redditPostUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "trim": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "language": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "social_fetch-get-credit-balance",
+    "social_fetch-get-post",
+    "social_fetch-get-profile",
+    "social_fetch-get-reddit-post-transcript",
+    "social_fetch-get-subreddit",
+    "social_fetch-get-tiktok-trending-feed",
+    "social_fetch-get-transcript",
+    "social_fetch-get-youtube-trending-shorts",
+    "social_fetch-list-profile-posts",
+    "social_fetch-list-reddit-post-comments",
+    "social_fetch-list-subreddit-posts",
+    "social_fetch-search-instagram-reels",
+    "social_fetch-search-linkedin-people",
+    "social_fetch-search-reddit-content",
+    "social_fetch-search-reddit-subreddits",
+    "social_fetch-search-threads-content",
+    "social_fetch-search-threads-users",
+    "social_fetch-search-tiktok-content",
+    "social_fetch-search-tiktok-hashtags",
+    "social_fetch-search-tiktok-shop-products",
+    "social_fetch-search-tiktok-users",
+    "social_fetch-search-twitter-content",
+    "social_fetch-search-twitter-hashtags",
+    "social_fetch-search-youtube-content",
+    "social_fetch-search-youtube-hashtags",
+    "social_fetch-new-profile-update"
+  ],
+  "npmImports": [
+    "node:crypto"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "mailerlite-subscriber-created",
+  "name": "New Subscriber Created (Instant)",
+  "description": "Emit new event when a new subscriber is created.",
+  "type": "source",
+  "version": "0.0.2"
+}

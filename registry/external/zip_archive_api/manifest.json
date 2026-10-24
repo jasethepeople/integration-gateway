@@ -1,0 +1,38 @@
+{
+  "app": "zip_archive_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "uploadType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "archiveName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "compressionLevel": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "password": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "files": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zip_archive_api-compress-files"
+  ],
+  "npmImports": [
+    "form-data",
+    "fs"
+  ]
+}

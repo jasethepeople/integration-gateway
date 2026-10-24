@@ -1,0 +1,7 @@
+{
+  "key": "judge_me-new-review",
+  "name": "New Review (Instant)",
+  "description": "Emit new event when a new review is posted. [See the documentation](https://judge.me/api/docs#tag/Webhooks/operation/webhooks#create)",
+  "type": "source",
+  "version": "0.0.1"
+}

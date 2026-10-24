@@ -1,0 +1,7 @@
+{
+  "key": "rhombus-reboot-camera",
+  "name": "Reboot Camera",
+  "description": "Reboot a camera. [See the documentation](https://apidocs.rhombus.com/reference/rebootcamera)",
+  "type": "action",
+  "version": "0.0.2"
+}

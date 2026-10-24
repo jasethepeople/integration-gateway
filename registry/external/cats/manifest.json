@@ -1,0 +1,140 @@
+{
+  "app": "cats",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "candidateId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "companyId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "ownerId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "customFields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "jobId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "middleName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "checkDuplicate": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emails": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "isHot": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "phones": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "addressStreet": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "addressCity": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "addressState": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "addressPostalCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "countryCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "socialMediaUrls": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "notes": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "bestTimeToCall": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "currentEmployer": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "desiredPay": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "isWillingToRelocate": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "keySkills": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "source": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workHistory": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "cats-add-candidate-pipeline",
+    "cats-create-candidate",
+    "cats-create-contact",
+    "cats-list-candidate-id-options",
+    "cats-list-company-id-options",
+    "cats-list-contact-id-options",
+    "cats-list-custom-fields-options",
+    "cats-list-job-id-options",
+    "cats-list-owner-id-options",
+    "cats-new-activity-instant",
+    "cats-new-candidate-instant",
+    "cats-new-contact-instant"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

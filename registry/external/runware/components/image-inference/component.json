@@ -1,0 +1,7 @@
+{
+  "key": "runware-image-inference",
+  "name": "Image Inference",
+  "description": "Request an image inference task to be processed by the Runware API. [See the documentation](https://docs.runware.ai/en/image-inference/api-reference).",
+  "type": "action",
+  "version": "0.0.2"
+}

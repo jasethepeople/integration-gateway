@@ -1,0 +1,7 @@
+{
+  "key": "slack_v2-get-user-details",
+  "name": "Get User Details",
+  "description": "**Use when the user asks who am I, what's my user ID, what's my username, which workspace",
+  "type": "action",
+  "version": "0.0.14"
+}

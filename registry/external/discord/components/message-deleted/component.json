@@ -1,0 +1,7 @@
+{
+  "key": "discord-message-deleted",
+  "name": "Message Deleted (Instant)",
+  "description": "Emit new event for each message deleted",
+  "type": "source",
+  "version": "0.0.3"
+}

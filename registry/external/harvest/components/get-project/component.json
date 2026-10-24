@@ -1,0 +1,7 @@
+{
+  "key": "harvest-get-project",
+  "name": "Get Project",
+  "description": "Retrieve a single project by ID. Example: call with projectId set to a known project's ID to see its client, budget, and billing method. [See the documentation](https://help.getharvest.com/api-v2/projects-api/projects/projects/#retrieve-a-project).",
+  "type": "action",
+  "version": "0.0.1"
+}

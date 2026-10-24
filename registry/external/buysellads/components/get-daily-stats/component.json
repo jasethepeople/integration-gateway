@@ -1,0 +1,7 @@
+{
+  "key": "buysellads-get-daily-stats",
+  "name": "Get Daily Stats",
+  "description": "Returns the daily stats for active line items. [See the documentation](https://docs.buysellads.com/advertiser-api/endpoints#daily-stats)",
+  "type": "action",
+  "version": "0.0.2"
+}

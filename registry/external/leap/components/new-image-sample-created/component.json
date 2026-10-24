@@ -1,0 +1,7 @@
+{
+  "key": "leap-new-image-sample-created",
+  "name": "New Image Sample Created",
+  "description": "Emit new event when a new image sample is created for a model. [See the documentation](https://docs.tryleap.ai/reference/samplescontroller_findall-1)",
+  "type": "source",
+  "version": "0.0.1"
+}

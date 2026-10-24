@@ -1,0 +1,7 @@
+{
+  "key": "intercom-new-lead",
+  "name": "New Leads",
+  "description": "Emit new event each time a new lead is added.",
+  "type": "source",
+  "version": "0.0.9"
+}

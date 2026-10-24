@@ -1,0 +1,7 @@
+{
+  "key": "salesflare-find-contact",
+  "name": "Find Contact",
+  "description": "Finds contacts according to props configured, if no prop configured returns all contacts [See the docs here](https://api.salesflare.com/docs#operation/getContacts)",
+  "type": "action",
+  "version": "0.0.2"
+}

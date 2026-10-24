@@ -1,0 +1,7 @@
+{
+  "key": "bridge_interactive_platform-get-listings",
+  "name": "Get Listings",
+  "description": "Get MLS listings from a dataset. [See the documentation](https://bridgedataoutput.com/docs/explorer/mls-data)",
+  "type": "action",
+  "version": "0.0.2"
+}

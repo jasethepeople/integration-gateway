@@ -1,0 +1,7 @@
+{
+  "key": "workamajig-create-activity",
+  "name": "Create Activity",
+  "description": "Initiates the creation of a fresh activity in Workamajig. [See the documentation](https://app6.workamajig.com/platinum/?aid=common.apidocs)",
+  "type": "action",
+  "version": "0.0.2"
+}

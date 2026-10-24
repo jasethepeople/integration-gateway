@@ -1,0 +1,29 @@
+{
+  "app": "dust",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "assistantId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dataSourceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workspace_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dust-list-assistant-id-options",
+    "dust-list-data-source-id-options",
+    "dust-talk-assistant",
+    "dust-upsert-document"
+  ]
+}

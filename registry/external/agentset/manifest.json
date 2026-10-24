@@ -1,0 +1,26 @@
+{
+  "app": "agentset",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "namespaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "statuses": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "agentset-create-ingest-job",
+    "agentset-create-namespace",
+    "agentset-search-namespace",
+    "agentset-new-document-created",
+    "agentset-new-ingest-job-created"
+  ]
+}

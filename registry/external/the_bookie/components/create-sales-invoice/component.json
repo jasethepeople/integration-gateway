@@ -1,0 +1,7 @@
+{
+  "key": "the_bookie-create-sales-invoice",
+  "name": "Create Sales Invoice",
+  "description": "Creates a new sales invoice. [See the documentation](https://app.thebookie.nl/nl/help/article/api-documentatie/#salesentry_create)",
+  "type": "action",
+  "version": "0.0.5"
+}

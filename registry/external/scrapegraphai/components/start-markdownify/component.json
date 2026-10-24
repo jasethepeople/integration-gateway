@@ -1,0 +1,7 @@
+{
+  "key": "scrapegraphai-start-markdownify",
+  "name": "Start Markdownify",
+  "description": "Convert any webpage into clean, readable Markdown format. [See the documentation](https://docs.scrapegraphai.com/api-reference/endpoint/markdownify/start)",
+  "type": "action",
+  "version": "0.0.2"
+}

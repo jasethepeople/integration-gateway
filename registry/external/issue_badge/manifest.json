@@ -1,0 +1,25 @@
+{
+  "app": "issue_badge",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "badgeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "issue_badge-create-badge",
+    "issue_badge-create-issue",
+    "issue_badge-create-organization",
+    "issue_badge-get-all-badges",
+    "issue_badge-get-all-organizations"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

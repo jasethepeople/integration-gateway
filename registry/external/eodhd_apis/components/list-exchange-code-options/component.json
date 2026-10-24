@@ -1,0 +1,7 @@
+{
+  "key": "eodhd_apis-list-exchange-code-options",
+  "name": "List Exchange Code Options",
+  "description": "Retrieves available options for the Exchange Code field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "miro_custom_app-create-sticky-note",
+  "name": "Create Sticky Note",
+  "description": "Creates a sticky note on a Miro board. [See the docs](https://developers.miro.com/reference/create-sticky-note-item).",
+  "type": "action",
+  "version": "0.0.3"
+}

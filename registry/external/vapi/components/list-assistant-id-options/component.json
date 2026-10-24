@@ -1,0 +1,7 @@
+{
+  "key": "vapi-list-assistant-id-options",
+  "name": "List Assistant ID Options",
+  "description": "Retrieves available options for the Assistant ID field. [See the documentation](https://docs.vapi.ai/api-reference/assistants/list)",
+  "type": "action",
+  "version": "0.0.3"
+}

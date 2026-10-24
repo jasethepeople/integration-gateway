@@ -1,0 +1,7 @@
+{
+  "key": "smartsheet-list-sheet-id-options",
+  "name": "List Sheet Options",
+  "description": "Retrieves a single page of label/value pairs used to populate a Sheet dropdown field.",
+  "type": "action",
+  "version": "0.0.6"
+}

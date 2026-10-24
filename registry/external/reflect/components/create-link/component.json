@@ -1,0 +1,7 @@
+{
+  "key": "reflect-create-link",
+  "name": "Create Link",
+  "description": "Create a new link. [See the documentation](https://openpm.ai/apis/reflect#/graphs/{graphId}/links)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "originality_ai-detect-ai-from-url",
+  "name": "Detect AI From URL",
+  "description": "Scans a webpage for AI generated content. [See the documentation](https://docs.originality.ai/api-v1-0-reference/scan/ai-url-scan)",
+  "type": "action",
+  "version": "0.0.2"
+}

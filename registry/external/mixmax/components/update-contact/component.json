@@ -1,0 +1,7 @@
+{
+  "key": "mixmax-update-contact",
+  "name": "Update Contact",
+  "description": "Update a specific contact. [See the docs here](https://developer.mixmax.com/reference/contactsid-1)",
+  "type": "action",
+  "version": "0.0.2"
+}

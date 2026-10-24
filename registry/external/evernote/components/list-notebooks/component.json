@@ -1,0 +1,7 @@
+{
+  "key": "evernote-list-notebooks",
+  "name": "List Notebooks",
+  "description": "List all notebooks in Evernote. [See the documentation](https://dev.evernote.com/doc/reference/NoteStore.html#Fn_NoteStore_listNotebooks).",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,79 @@
+{
+  "app": "databricks",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "jobId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "runId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endpointName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "warehouseId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "indexName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "databricks-cancel-all-runs",
+    "databricks-cancel-run",
+    "databricks-create-endpoint",
+    "databricks-create-job",
+    "databricks-create-sql-warehouse",
+    "databricks-create-vector-search-index",
+    "databricks-delete-endpoint",
+    "databricks-delete-job",
+    "databricks-delete-run",
+    "databricks-delete-sql-warehouse",
+    "databricks-delete-vector-search-index-data",
+    "databricks-delete-vector-search-index",
+    "databricks-edit-sql-warehouse",
+    "databricks-export-run",
+    "databricks-get-endpoint",
+    "databricks-get-job-permissions",
+    "databricks-get-job",
+    "databricks-get-run-output",
+    "databricks-get-run",
+    "databricks-get-sql-warehouse-config",
+    "databricks-get-sql-warehouse-permissions",
+    "databricks-get-sql-warehouse",
+    "databricks-get-vector-search-index",
+    "databricks-list-endpoints",
+    "databricks-list-jobs",
+    "databricks-list-runs",
+    "databricks-list-sql-warehouses",
+    "databricks-list-vector-search-indexes",
+    "databricks-query-vector-search-index-next-page",
+    "databricks-query-vector-search-index",
+    "databricks-repair-run",
+    "databricks-reset-job",
+    "databricks-run-job-now",
+    "databricks-scan-vector-search-index",
+    "databricks-set-job-permissions",
+    "databricks-set-sql-warehouse-config",
+    "databricks-set-sql-warehouse-permissions",
+    "databricks-start-sql-warehouse",
+    "databricks-stop-sql-warehouse",
+    "databricks-sync-vector-search-index",
+    "databricks-update-job",
+    "databricks-upsert-vector-search-index-data"
+  ]
+}

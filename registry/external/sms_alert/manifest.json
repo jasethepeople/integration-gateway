@@ -1,0 +1,40 @@
+{
+  "app": "sms_alert",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "groupName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "senderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "messageText": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "scheduleTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mobileNumber": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "contactName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sms_alert-create-contact",
+    "sms_alert-schedule-sms",
+    "sms_alert-send-sms"
+  ]
+}

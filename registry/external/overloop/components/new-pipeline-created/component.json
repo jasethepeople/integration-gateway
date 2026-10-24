@@ -1,0 +1,7 @@
+{
+  "key": "overloop-new-pipeline-created",
+  "name": "New Pipeline Created",
+  "description": "Emit new event each time a list is created. [See the docs](https://apidoc.overloop.com/#list-pipelines)",
+  "type": "source",
+  "version": "0.0.1"
+}

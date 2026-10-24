@@ -1,0 +1,7 @@
+{
+  "key": "pcloud-upload-file",
+  "name": "Upload File",
+  "description": "Upload a file to the specified folder. [See the docs here](https://docs.pcloud.com/methods/file/uploadfile.html)",
+  "type": "action",
+  "version": "0.0.5"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "trello-create-checklist-item",
+  "name": "Create a Checklist Item",
+  "description": "Creates a new checklist item in a card. [See the documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-checklists/#api-checklists-id-checkitems-post).",
+  "type": "action",
+  "version": "0.3.5"
+}

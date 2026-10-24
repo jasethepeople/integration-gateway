@@ -1,0 +1,20 @@
+{
+  "app": "kingsumo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "giveawayId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "kingsumo-get-giveaway",
+    "kingsumo-list-contestants",
+    "kingsumo-list-giveaway-id-options"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "walletap-get-pass",
+  "name": "Get Pass",
+  "description": "Gets a Walletap pass by ID. [See the documentation](https://walletap.io/docs/api#tag/Pass/operation/getPass)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "campaignhq-create-contact",
+  "name": "Create Contact",
+  "description": "Create Contact [See the documentation](https://campaignhq.docs.apiary.io/#reference/0/contacts-collection/create-a-new-contact).",
+  "type": "action",
+  "version": "0.0.2"
+}

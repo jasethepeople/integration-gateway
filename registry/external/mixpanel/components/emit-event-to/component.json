@@ -1,0 +1,7 @@
+{
+  "key": "mixpanel-emit-event-to",
+  "name": "Track Event",
+  "description": "Send a single event to Mixpanel, attributing it to a user. To query analytics (event counts, funnels, retention, user profiles), connect the separate Mixpanel (Service Account) app, since Mixpanel's query APIs do not accept a project token. [See the documentation](https://docs.mixpanel.com/reference/track-event)",
+  "type": "action",
+  "version": "0.4.0"
+}

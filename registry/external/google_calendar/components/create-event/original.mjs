@@ -1,0 +1,226 @@
+import googleCalendar from "../../app.mjs";
+import createEventCommon from "../../shared/actions/common/create-event-common.mjs";
+import { v4 as uuidv4 } from "uuid";
+import constants from "../../shared/common/constants.mjs";
+
+export default {
+  key: "google_calendar-create-event",
+  name: "Create Event",
+  description: "Create a new event on a Google Calendar — a single or recurring appointment at a specific date/time (optionally with attendees, location, and description). Use this whenever the user wants to add something to their calendar. This creates calendar EVENTS only: it cannot configure calendar settings, working hours, availability, or default preferences, and it cannot create a new calendar. Do not represent any of those requests as an event — creating an event named after the request does not fulfill it. [See the documentation](https://developers.google.com/calendar/api/v3/reference/events/insert)",
+  version: "1.2.1",
+  annotations: {
+    destructiveHint: false,
+    openWorldHint: true,
+    readOnlyHint: false,
+  },
+  type: "action",
+  ai: "optimized",
+  props: {
+    googleCalendar,
+    calendarId: {
+      propDefinition: [
+        googleCalendar,
+        "calendarId",
+      ],
+    },
+    summary: {
+      label: "Event Title",
+      type: "string",
+      description: "Enter a title for the event, (e.g., `My event`)",
+    },
+    eventStartDate: {
+      label: "Event Start Date",
+      type: "string",
+      description: "For all-day events, enter the date in the format `yyyy-mm-dd` (e.g., `2025-01-15`). For events with time, format according to [RFC3339](https://www.rfc-editor.org/rfc/rfc3339.html#section-1): `yyyy-mm-ddThh:mm:ss+01:00` (e.g., `2025-01-15T10:00:00-05:00`). A time zone offset is required unless a time zone is explicitly specified in timeZone.",
+    },
+    eventEndDate: {
+      label: "Event End Date",
+      type: "string",
+      description: "For all-day events, enter the date in the format `yyyy-mm-dd` (e.g., `2025-01-15`). For events with time, format according to [RFC3339](https://www.rfc-editor.org/rfc/rfc3339.html#section-1): `yyyy-mm-ddThh:mm:ss+01:00` (e.g., `2025-01-15T11:00:00-05:00`). A time zone offset is required unless a time zone is explicitly specified in timeZone.",
+    },
+    location: {
+      label: "Event Location",
+      type: "string",
+      description: "Specify the location of the event",
+      optional: true,
+    },
+    description: {
+      label: "Event Description",
+      type: "string",
+      description: "Enter a description for the event",
+      optional: true,
+    },
+    attendees: {
+      label: "Attendees",
+      type: "string[]",
+      description: "An array of email addresses (e.g., `[\"alice@example.com\", \"bob@example.com\"]`)",
+      optional: true,
+    },
+    addSelfAsAttendee: {
+      type: "boolean",
+      label: "Add Self as Attendee",
+      description: "Whether to add the authenticated user (the event organizer) to the guest list. Default is `true`, which mirrors the Google Calendar web UI behavior of adding the creator as an attendee.",
+      optional: true,
+      default: true,
+    },
+    colorId: {
+      propDefinition: [
+        googleCalendar,
+        "colorId",
+      ],
+    },
+    timeZone: {
+      propDefinition: [
+        googleCalendar,
+        "timeZone",
+      ],
+    },
+    sendUpdates: {
+      propDefinition: [
+        googleCalendar,
+        "sendUpdates",
+      ],
+    },
+    createMeetRoom: {
+      type: "boolean",
+      label: "Create Meet Room",
+      description: "Whether to create a Google Meet room for this event.",
+      optional: true,
+    },
+    visibility: {
+      type: "string",
+      label: "Visibility",
+      description: "Visibility of the event",
+      options: [
+        "default",
+        "public",
+        "private",
+        "confidential",
+      ],
+      optional: true,
+    },
+    transparency: {
+      propDefinition: [
+        googleCalendar,
+        "transparency",
+      ],
+    },
+    repeatFrequency: {
+      type: "string",
+      label: "Repeat Frequency",
+      description: "Select a frequency to make this event repeating",
+      optional: true,
+      options: Object.keys(constants.REPEAT_FREQUENCIES),
+    },
+    repeatInterval: {
+      type: "integer",
+      label: "Repeat Interval",
+      description: "Enter 1 to \"repeat every day\", enter 2 to \"repeat every other day\", etc. Defaults to 1.",
+      optional: true,
+    },
+    repeatSpecificDays: {
+      type: "string[]",
+      label: "Repeat Specific Days",
+      description: "The event will repeat on these days of the week. Repeat Frequency must be `WEEKLY`.",
+      optional: true,
+      options: constants.DAYS_OF_WEEK,
+    },
+    repeatUntil: {
+      type: "string",
+      label: "Repeat Until",
+      description: "The event will repeat only until this date, if set. Only one of `Repeat Until` or Repeat `How Many Times` may be entered.",
+      optional: true,
+    },
+    repeatTimes: {
+      type: "integer",
+      label: "Repeat How Many Times?",
+      description: "Limit the number of times this event will occur. Only one of `Repeat Until` or Repeat `How Many Times` may be entered.",
+      optional: true,
+    },
+  },
+  methods: {
+    ...createEventCommon.methods,
+  },
+  async run({ $ }) {
+    const timeZone = await this.getTimeZone(this.timeZone);
+    const attendees = this.formatAttendees(this.attendees);
+
+    if (this.addSelfAsAttendee) {
+      const { id: selfEmail } = await this.googleCalendar.getCalendar({
+        calendarId: "primary",
+      });
+      const selfEmailLower = selfEmail?.toLowerCase();
+      const alreadyAttendee = attendees.some(
+        ({ email }) => email?.toLowerCase() === selfEmailLower,
+      );
+      if (selfEmail && !alreadyAttendee) {
+        attendees.push({
+          email: selfEmail,
+          responseStatus: "accepted",
+        });
+      }
+    }
+
+    const recurrence = this.formatRecurrence({
+      repeatFrequency: this.repeatFrequency,
+      repeatInterval: this.repeatInterval,
+      repeatTimes: this.repeatTimes,
+      repeatUntil: this.repeatUntil,
+      repeatSpecificDays: this.repeatSpecificDays,
+    });
+
+    const trimmedStart = this.eventStartDate?.trim();
+    const trimmedEnd = this.eventEndDate?.trim();
+
+    const data = {
+      calendarId: this.calendarId,
+      sendUpdates: this.sendUpdates || undefined,
+      resource: {
+        summary: this.summary,
+        location: this.location,
+        description: this.description,
+        start: {
+          date: trimmedStart?.length <= 10
+            ? trimmedStart
+            : undefined,
+          dateTime: trimmedStart?.length > 10
+            ? trimmedStart
+            : undefined,
+          timeZone,
+        },
+        end: {
+          date: trimmedEnd?.length <= 10
+            ? trimmedEnd
+            : undefined,
+          dateTime: trimmedEnd?.length > 10
+            ? trimmedEnd
+            : undefined,
+          timeZone,
+        },
+        recurrence,
+        attendees,
+        colorId: this.colorId || undefined,
+        visibility: this.visibility || undefined,
+        transparency: this.transparency || undefined,
+      },
+    };
+
+    if (this.createMeetRoom) {
+      data.conferenceDataVersion = 1;
+      data.resource.conferenceData = {
+        createRequest: {
+          requestId: uuidv4(),
+          conferenceSolutionKey: {
+            type: "hangoutsMeet",
+          },
+        },
+      };
+    }
+
+    const response = await this.googleCalendar.createEvent(data);
+
+    $.export("$summary", `Successfully created event with ID: "${response.id}"`);
+
+    return response;
+  },
+};

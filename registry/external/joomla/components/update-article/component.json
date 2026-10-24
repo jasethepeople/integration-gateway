@@ -1,0 +1,7 @@
+{
+  "key": "joomla-update-article",
+  "name": "Update Article",
+  "description": "Update an article. See the docs [here](https://docs.joomla.org/J4.x:Joomla_Core_APIs#Update_Article)",
+  "type": "action",
+  "version": "0.0.2"
+}

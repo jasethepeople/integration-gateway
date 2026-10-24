@@ -1,0 +1,7 @@
+{
+  "key": "little_green_light-list-constituent-id-options",
+  "name": "List Constituent ID Options",
+  "description": "Retrieves available options for the Constituent ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

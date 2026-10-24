@@ -1,0 +1,27 @@
+{
+  "app": "documentpro",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "document": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "parserId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "documentpro-list-parser-id-options",
+    "documentpro-new-document",
+    "documentpro-new-document-updated-instant"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

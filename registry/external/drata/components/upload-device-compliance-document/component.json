@@ -1,0 +1,7 @@
+{
+  "key": "drata-upload-device-compliance-document",
+  "name": "Upload Device Compliance Document",
+  "description": "The user document type",
+  "type": "action",
+  "version": "0.0.4"
+}

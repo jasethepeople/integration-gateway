@@ -1,0 +1,7 @@
+{
+  "key": "xero_accounting_api-create-item",
+  "name": "Create Item",
+  "description": "Creates a new item.",
+  "type": "action",
+  "version": "0.1.4"
+}

@@ -1,0 +1,115 @@
+{
+  "app": "scrapeninja",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "headers": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "retryNum": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "geo": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "proxy": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "followRedirects": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "timeout": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "textNotExpected": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "statusNotExpected": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "extractor": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "waitForSelector": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "postWaitTime": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "dumpIframe": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "waitForSelectorIframe": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "extractorTargetIframe": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "blockImages": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "blockMedia": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "screenshot": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "catchAjaxHeadersUrlMask": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "viewportWidth": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "viewportHeight": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "viewportDeviceScaleFactor": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "viewportHasTouch": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "viewportIsMobile": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "viewportIsLandscape": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "rapid_api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "scrapeninja-scrape-with-js-rendering",
+    "scrapeninja-scrape-without-js"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "agility_cms-get-content-items",
+  "name": "Get Content Items",
+  "description": "Retrieves all content items. [See the documentation](https://api.aglty.io/swagger/index.html#operations-Sync-get__guid___apitype___locale__sync_items)",
+  "type": "action",
+  "version": "0.0.2"
+}

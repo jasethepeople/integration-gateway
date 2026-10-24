@@ -1,0 +1,7 @@
+{
+  "key": "azure_openai_service-create-image",
+  "name": "Create Image",
+  "description": "Creates an image given a prompt, and returns a URL to the image. [See the documentation](https://learn.microsoft.com/en-us/azure/ai-services/openai/reference#image-generation)",
+  "type": "action",
+  "version": "0.0.3"
+}

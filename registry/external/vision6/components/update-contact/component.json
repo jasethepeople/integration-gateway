@@ -1,0 +1,7 @@
+{
+  "key": "vision6-update-contact",
+  "name": "Update Contact",
+  "description": "Update an existing contact. [See the docs here](https://api.vision6.com/#update-contacts)",
+  "type": "action",
+  "version": "0.0.2"
+}

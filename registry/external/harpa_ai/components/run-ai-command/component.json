@@ -1,0 +1,7 @@
+{
+  "key": "harpa_ai-run-ai-command",
+  "name": "Run AI Command",
+  "description": "Run an AI command. [See the documentation](https://harpa.ai/grid/grid-rest-api-reference#run-ai-command)",
+  "type": "action",
+  "version": "0.0.2"
+}

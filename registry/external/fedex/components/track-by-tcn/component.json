@@ -1,0 +1,7 @@
+{
+  "key": "fedex-track-by-tcn",
+  "name": "Track by TCN",
+  "description": "Tracks a package by transportation control number. [See the documentation](https://developer.fedex.com/api/en-us/catalog/track/v1/docs.html#operation/f1f9080e8452d9ac903f562a2d2626d0)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "documenso-send-document",
+  "name": "Send Document",
+  "description": "Send a document within Documenso for signing. [See the documentation](https://app.documenso.com/api/v1/openapi)",
+  "type": "action",
+  "version": "0.0.2"
+}

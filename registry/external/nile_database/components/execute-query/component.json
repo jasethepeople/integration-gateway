@@ -1,0 +1,7 @@
+{
+  "key": "nile_database-execute-query",
+  "name": "Execute Query",
+  "description": "Execute a custom PostgreSQL query.",
+  "type": "action",
+  "version": "0.0.3"
+}

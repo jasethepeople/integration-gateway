@@ -1,0 +1,7 @@
+{
+  "key": "crisp-create-contact",
+  "name": "Create Contact",
+  "description": "Create a new contact. [See the documentation](https://docs.crisp.chat/references/rest-api/v1/#add-new-people-profile)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "insighto_ai-new-contact",
+  "name": "New Contact Created",
+  "description": "Emit new event when a new contact is created in Insighto AI. [See the documentation](https://api.insighto.ai/docs#/contact/read_contact_list_api_v1_contact_list_get)",
+  "type": "source",
+  "version": "0.0.1"
+}

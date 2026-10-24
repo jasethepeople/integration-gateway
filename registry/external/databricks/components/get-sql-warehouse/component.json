@@ -1,0 +1,7 @@
+{
+  "key": "databricks-get-sql-warehouse",
+  "name": "Get SQL Warehouse",
+  "description": "Retrieves details for a specific SQL Warehouse. [See docs](https://docs.databricks.com/api/workspace/warehouses/get)",
+  "type": "action",
+  "version": "0.0.6"
+}

@@ -1,0 +1,52 @@
+{
+  "app": "bot9",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "chatbotId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "source": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "externalSessionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userExternalId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userEmailId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "conversationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "message": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "bot9-init-chat",
+    "bot9-list-chatbot-id-options",
+    "bot9-send-chat-message"
+  ]
+}

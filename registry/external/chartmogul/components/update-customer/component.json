@@ -1,0 +1,7 @@
+{
+  "key": "chartmogul-update-customer",
+  "name": "Update Customer",
+  "description": "Updates certain modifiable attributes of a `customer` object in your ChartMogul account. [See the docs here](https://dev.chartmogul.com/reference/update-a-customer)",
+  "type": "action",
+  "version": "0.0.3"
+}

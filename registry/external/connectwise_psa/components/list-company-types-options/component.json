@@ -1,0 +1,7 @@
+{
+  "key": "connectwise_psa-list-company-types-options",
+  "name": "List Types Options",
+  "description": "Retrieves available options for the Types field.",
+  "type": "action",
+  "version": "0.0.1"
+}

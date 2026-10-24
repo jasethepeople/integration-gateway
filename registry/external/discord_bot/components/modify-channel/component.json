@@ -1,0 +1,7 @@
+{
+  "key": "discord_bot-modify-channel",
+  "name": "Modify Channel",
+  "description": "Update a channel's settings. [See the docs here](https://discord.com/developers/docs/resources/channel#modify-channel)",
+  "type": "action",
+  "version": "1.0.1"
+}

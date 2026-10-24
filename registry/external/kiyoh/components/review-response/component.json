@@ -1,0 +1,7 @@
+{
+  "key": "kiyoh-review-response",
+  "name": "Review Response",
+  "description": "Submits a response to a shop review",
+  "type": "action",
+  "version": "0.0.1"
+}

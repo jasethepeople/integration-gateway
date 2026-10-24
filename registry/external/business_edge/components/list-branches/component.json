@@ -1,0 +1,7 @@
+{
+  "key": "business_edge-list-branches",
+  "name": "List Branches",
+  "description": "Retrieve branches from Business Edge via `POST /masterfiles/branch/export.json`. [See the documentation](https://hangerbolt.ci-inc.com/apilist/export)",
+  "type": "action",
+  "version": "0.0.2"
+}

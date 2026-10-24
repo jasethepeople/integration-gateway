@@ -1,0 +1,7 @@
+{
+  "key": "acuity_scheduling-book-appointment",
+  "name": "Book Appointment",
+  "description": "Book an appointment. [See the documentation](https://developers.acuityscheduling.com/reference/post-appointments)",
+  "type": "action",
+  "version": "0.0.2"
+}

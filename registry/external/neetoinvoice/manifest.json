@@ -1,0 +1,19 @@
+{
+  "app": "neetoinvoice",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "organization_name": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "neetoinvoice-new-client",
+    "neetoinvoice-new-invoice"
+  ]
+}

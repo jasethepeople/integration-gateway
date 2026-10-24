@@ -1,0 +1,7 @@
+{
+  "key": "snappy-new-ticket-assigned-to-me",
+  "name": "New Ticket Assigned To Me",
+  "description": "Emit new event when a new ticket is assigned to me.",
+  "type": "source",
+  "version": "0.0.1"
+}

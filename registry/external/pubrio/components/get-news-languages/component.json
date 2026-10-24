@@ -1,0 +1,7 @@
+{
+  "key": "pubrio-get-news-languages",
+  "name": "Get News Languages",
+  "description": "Get available news language codes for filtering. [See the documentation](https://docs.pubrio.com/en/api-reference/endpoint/news/languages)",
+  "type": "action",
+  "version": "0.0.1"
+}

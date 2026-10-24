@@ -1,0 +1,19 @@
+{
+  "app": "poper",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "poperId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "poper-list-poper-id-options",
+    "poper-new-lead"
+  ]
+}

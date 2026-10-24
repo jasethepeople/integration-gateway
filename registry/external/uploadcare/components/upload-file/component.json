@@ -1,0 +1,7 @@
+{
+  "key": "uploadcare-upload-file",
+  "name": "Upload File",
+  "description": "Upload a file. [See docs here](https://uploadcare.com/api-refs/upload-api/#operation/fromURLUpload)",
+  "type": "action",
+  "version": "0.0.2"
+}

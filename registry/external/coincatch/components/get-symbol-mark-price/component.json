@@ -1,0 +1,7 @@
+{
+  "key": "coincatch-get-symbol-mark-price",
+  "name": "Get Symbol Mark Price",
+  "description": "Get symbol mark price. [See the documentation](https://coincatch.github.io/github.io/en/mix/#get-symbol-mark-price)",
+  "type": "action",
+  "version": "0.0.1"
+}

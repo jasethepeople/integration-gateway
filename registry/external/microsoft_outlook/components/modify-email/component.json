@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_outlook-modify-email",
+  "name": "Modify Email",
+  "description": "Apply one or more state mutations to an email message: mark read/unread, add/remove categories, move to a folder, or change the flag status.",
+  "type": "action",
+  "version": "0.0.6"
+}

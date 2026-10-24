@@ -1,0 +1,10 @@
+{
+  "app": "sftp_password_based_auth",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "sftp_password_based_auth-upload-file",
+    "sftp_password_based_auth-watch-remote-directory"
+  ]
+}

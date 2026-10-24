@@ -1,0 +1,44 @@
+{
+  "app": "vercel_token_auth",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "project": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "deployment": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "team": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "state": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "max": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "personal_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "vercel_token_auth-cancel-deployment",
+    "vercel_token_auth-create-deployment",
+    "vercel_token_auth-list-deployments",
+    "vercel_token_auth-deployment-canceled-instant",
+    "vercel_token_auth-deployment-error-instant",
+    "vercel_token_auth-deployment-succeeded-instant",
+    "vercel_token_auth-new-deployment-instant",
+    "vercel_token_auth-new-deployment"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

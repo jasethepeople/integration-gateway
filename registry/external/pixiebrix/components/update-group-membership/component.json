@@ -1,0 +1,7 @@
+{
+  "key": "pixiebrix-update-group-membership",
+  "name": "Update Group Membership",
+  "description": "Updates the memberships of a group in PixieBrix. [See the documentation](https://docs.pixiebrix.com/developer-api/team-management-apis#update-group-membership)",
+  "type": "action",
+  "version": "0.0.2"
+}

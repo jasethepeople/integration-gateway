@@ -1,0 +1,7 @@
+{
+  "key": "schedule-daily",
+  "name": "Daily schedule",
+  "description": "Trigger your workflow every day.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zoho_crm-new-user",
+  "name": "New User",
+  "description": "Emits an event each time a new user is created in Zoho CRM",
+  "type": "source",
+  "version": "0.0.11"
+}

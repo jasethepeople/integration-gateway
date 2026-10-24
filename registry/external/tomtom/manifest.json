@@ -1,0 +1,44 @@
+{
+  "app": "tomtom",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "language": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lat": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lon": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "radius": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "extension": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "tomtom-autocomplete-search",
+    "tomtom-nearby-search",
+    "tomtom-poi-search"
+  ]
+}

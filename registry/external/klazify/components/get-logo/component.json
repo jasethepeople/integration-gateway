@@ -1,0 +1,7 @@
+{
+  "key": "klazify-get-logo",
+  "name": "Get Logo",
+  "description": "Get the logo of a company. [See the documentation](https://www.klazify.com/category#docs).",
+  "type": "action",
+  "version": "0.0.2"
+}

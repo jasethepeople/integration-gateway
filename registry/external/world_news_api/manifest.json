@@ -1,0 +1,77 @@
+{
+  "app": "world_news_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "text": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sourceCountries": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "language": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "minSentiment": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxSentiment": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "earliestPublishedDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "latestPublishedDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "newsSources": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "authors": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "entities": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "locationFilter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sort": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sortDirection": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "offset": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "number": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "world_news_api-extract-news",
+    "world_news_api-get-geo-coordinates",
+    "world_news_api-search-news",
+    "world_news_api-published-news"
+  ]
+}

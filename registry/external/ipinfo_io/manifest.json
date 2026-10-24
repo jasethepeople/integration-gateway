@@ -1,0 +1,15 @@
+{
+  "app": "ipinfo_io",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ipinfo_io-lookup-asn",
+    "ipinfo_io-lookup-ip"
+  ]
+}

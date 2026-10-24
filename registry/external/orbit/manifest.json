@@ -1,0 +1,30 @@
+{
+  "app": "orbit",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "workspaceSlug": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workspaceMemberSlug": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "activityType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "orbit-create-activity",
+    "orbit-create-member-note",
+    "orbit-create-member",
+    "orbit-get-member-by-identity",
+    "orbit-list-workspace-slug-options"
+  ]
+}

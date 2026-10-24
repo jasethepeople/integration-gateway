@@ -1,0 +1,7 @@
+{
+  "key": "onedesk-create-message",
+  "name": "Create Message",
+  "description": "Creates a message or comment. [See the documentation](https://www.onedesk.com/dev/).",
+  "type": "action",
+  "version": "0.0.3"
+}

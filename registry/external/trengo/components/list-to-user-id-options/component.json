@@ -1,0 +1,7 @@
+{
+  "key": "trengo-list-to-user-id-options",
+  "name": "List To User ID Options",
+  "description": "Retrieves available options for the To User ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

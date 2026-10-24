@@ -1,0 +1,7 @@
+{
+  "key": "rydoo-set-expense-to-reimbursed",
+  "name": "Set Expense to Reimbursed",
+  "description": "Sets an expense as reimbursed. [See the documentation](https://developers.rydoo.com/reference/v2expensesreimburseexpense)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "geoapify-get-ip-location",
+  "name": "Get IP Location",
+  "description": "Retrieves geographical coordinates for a given IP address. [See the documentation](https://apidocs.geoapify.com/docs/ip-geolocation/)",
+  "type": "action",
+  "version": "0.0.2"
+}

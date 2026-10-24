@@ -1,0 +1,49 @@
+{
+  "app": "google_search_console",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "siteUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sitemapUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "searchType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "filterDimension": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "filterOperator": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "filterValue": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "advancedDimensionFilters": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "google_search_console-compare-search-analytics",
+    "google_search_console-delete-sitemap",
+    "google_search_console-inspect-urls",
+    "google_search_console-list-sitemaps",
+    "google_search_console-list-sites",
+    "google_search_console-retrieve-site-performance-data",
+    "google_search_console-submit-sitemap",
+    "google_search_console-submit-url-for-indexing"
+  ]
+}

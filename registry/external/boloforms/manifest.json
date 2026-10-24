@@ -1,0 +1,46 @@
+{
+  "app": "boloforms",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "formId": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "documentId": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "subject": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "message": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "workspace_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "email": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "boloforms-list-form-id-options",
+    "boloforms-send-form",
+    "boloforms-send-template-signature",
+    "boloforms-new-response-instant",
+    "boloforms-new-signature-completed-instant",
+    "boloforms-new-template-response-instant"
+  ],
+  "npmImports": [
+    "uuid"
+  ]
+}

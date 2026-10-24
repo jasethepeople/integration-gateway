@@ -1,0 +1,7 @@
+{
+  "key": "rocket_chat-send-direct-message",
+  "name": "Send Direct Message",
+  "description": "Sends a new direct message to a specific user. [See the documentation](https://developer.rocket.chat/reference/api/rest-api/endpoints/messaging/chat-endpoints/postmessage)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "metabase-list-collection-id-options",
+  "name": "List Collection ID Options",
+  "description": "Retrieves available options for the Collection ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

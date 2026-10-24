@@ -1,0 +1,34 @@
+{
+  "app": "freshsales",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "dealId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "ownerId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "bundle_alias": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "freshsales-create-contact",
+    "freshsales-create-deal",
+    "freshsales-list-all-contacts",
+    "freshsales-list-all-deals",
+    "freshsales-list-owner-id-options"
+  ]
+}

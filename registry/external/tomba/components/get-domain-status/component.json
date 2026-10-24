@@ -1,0 +1,7 @@
+{
+  "key": "tomba-get-domain-status",
+  "name": "Get Domain Status",
+  "description": "Find domain status if is webmail or disposable. [See the documentation](https://docs.tomba.io/api/~endpoints#domain-status)",
+  "type": "action",
+  "version": "0.0.1"
+}

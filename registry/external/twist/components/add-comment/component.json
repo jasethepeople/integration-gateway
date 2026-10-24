@@ -1,0 +1,7 @@
+{
+  "key": "twist-add-comment",
+  "name": "Add Comment",
+  "description": "Adds a new comment to a thread.",
+  "type": "action",
+  "version": "0.2.3"
+}

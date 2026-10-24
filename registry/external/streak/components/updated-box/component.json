@@ -1,0 +1,7 @@
+{
+  "key": "streak-updated-box",
+  "name": "Updated Box (Instant)",
+  "description": "Emit new event when a box is updated in a pipeline.",
+  "type": "source",
+  "version": "0.0.2"
+}

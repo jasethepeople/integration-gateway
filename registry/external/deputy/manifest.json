@@ -1,0 +1,33 @@
+{
+  "app": "deputy",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "locationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "employeeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endpoint": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "deputy-create-employee",
+    "deputy-create-location",
+    "deputy-list-employee-id-options",
+    "deputy-list-location-id-options",
+    "deputy-start-shift",
+    "deputy-new-colleague-created",
+    "deputy-new-post-created",
+    "deputy-new-timesheet-saved"
+  ]
+}

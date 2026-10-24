@@ -1,0 +1,52 @@
+{
+  "app": "rhombus",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "cameraUuid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "doorUuid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "audioGatewayUuid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "audioUploadUuid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "doorbellCameraUuid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "rhombus-create-camera-clip",
+    "rhombus-create-custom-footage-seekpoints",
+    "rhombus-create-shared-live-video-stream",
+    "rhombus-list-audio-gateway-uuid-options",
+    "rhombus-list-audio-upload-uuid-options",
+    "rhombus-list-camera-uuid-options",
+    "rhombus-list-door-uuid-options",
+    "rhombus-list-doorbell-camera-uuid-options",
+    "rhombus-play-audio-upload",
+    "rhombus-reboot-camera",
+    "rhombus-toggle-audio-gateway-recording",
+    "rhombus-unlock-access-controlled-door",
+    "rhombus-new-audit-record-created",
+    "rhombus-new-button-event-instant",
+    "rhombus-new-camera-clip-created",
+    "rhombus-new-door-sensor-event-instant",
+    "rhombus-new-environmental-sensor-event-instant",
+    "rhombus-new-rule-event-instant",
+    "rhombus-new-seekpoint-created"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "app": "docugenerate",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "docugenerate-create-template",
+    "docugenerate-delete-document",
+    "docugenerate-delete-template",
+    "docugenerate-generate-document",
+    "docugenerate-get-document",
+    "docugenerate-get-template",
+    "docugenerate-list-documents",
+    "docugenerate-list-templates",
+    "docugenerate-update-document",
+    "docugenerate-new-document",
+    "docugenerate-new-template"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

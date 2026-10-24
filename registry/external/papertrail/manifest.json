@@ -1,0 +1,29 @@
+{
+  "app": "papertrail",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "systemId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "papertrail-get-system",
+    "papertrail-list-groups",
+    "papertrail-list-systems",
+    "papertrail-register-system",
+    "papertrail-search-events",
+    "papertrail-new-group",
+    "papertrail-new-log-events",
+    "papertrail-new-system"
+  ]
+}

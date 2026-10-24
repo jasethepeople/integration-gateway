@@ -1,0 +1,7 @@
+{
+  "key": "klaviyo-get-lists",
+  "name": "Get Lists",
+  "description": "Get a listing of all of the lists in an account. [See the documentation](https://developers.klaviyo.com/en/reference/get_lists)",
+  "type": "action",
+  "version": "0.0.6"
+}

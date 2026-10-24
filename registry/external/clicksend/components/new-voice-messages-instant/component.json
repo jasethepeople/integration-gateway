@@ -1,0 +1,7 @@
+{
+  "key": "clicksend-new-voice-messages-instant",
+  "name": "New Voice Messages (Instant)",
+  "description": "Emit new event when a new voice message is received or sent. [See the documentation](https://developers.clicksend.com/docs/rest/v3/#view-voice-receipts)",
+  "type": "source",
+  "version": "0.0.2"
+}

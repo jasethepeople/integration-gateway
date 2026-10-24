@@ -1,0 +1,7 @@
+{
+  "key": "control_d-create-profile",
+  "name": "Create Profile",
+  "description": "Create a profile. [See the documentation](https://docs.controld.com/reference/post_profiles)",
+  "type": "action",
+  "version": "0.0.2"
+}

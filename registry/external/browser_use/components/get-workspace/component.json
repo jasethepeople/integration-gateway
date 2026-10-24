@@ -1,0 +1,7 @@
+{
+  "key": "browser_use-get-workspace",
+  "name": "Get Workspace",
+  "description": "Get a Browser Use workspace by ID. [See the documentation](https://docs.browser-use.com/cloud/api-v3/workspaces/get-workspace)",
+  "type": "action",
+  "version": "0.0.1"
+}

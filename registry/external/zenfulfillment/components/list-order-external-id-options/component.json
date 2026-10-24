@@ -1,0 +1,7 @@
+{
+  "key": "zenfulfillment-list-order-external-id-options",
+  "name": "List Order External ID Options",
+  "description": "Retrieves available options for the Order External ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

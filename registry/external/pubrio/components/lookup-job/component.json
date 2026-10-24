@@ -1,0 +1,7 @@
+{
+  "key": "pubrio-lookup-job",
+  "name": "Lookup Job",
+  "description": "Look up detailed job posting information by job search ID. [See the documentation](https://docs.pubrio.com/en/api-reference/endpoint/companies/job_lookup)",
+  "type": "action",
+  "version": "0.0.1"
+}

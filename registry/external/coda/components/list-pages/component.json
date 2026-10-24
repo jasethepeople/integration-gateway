@@ -1,0 +1,7 @@
+{
+  "key": "coda-list-pages",
+  "name": "List Pages",
+  "description": "List all pages in a document. [See docs](https://coda.io/developers/apis/v1#tag/Pages/operation/listPages)",
+  "type": "action",
+  "version": "0.0.2"
+}

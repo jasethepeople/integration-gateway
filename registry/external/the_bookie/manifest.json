@@ -1,0 +1,28 @@
+{
+  "app": "the_bookie",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "admin_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "the_bookie-create-contact",
+    "the_bookie-create-sales-invoice",
+    "the_bookie-find-contact",
+    "the_bookie-list-contact-id-options",
+    "the_bookie-new-contact-created",
+    "the_bookie-new-invoice-created",
+    "the_bookie-new-invoice-paid"
+  ]
+}

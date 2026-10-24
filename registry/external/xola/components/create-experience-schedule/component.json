@@ -1,0 +1,7 @@
+{
+  "key": "xola-create-experience-schedule",
+  "name": "Create Experience Schedule",
+  "description": "Creates a new schedule for an experience. [See the documentation](https://xola.github.io/xola-docs/#tag/schedules/operation/createExperienceSchedule)",
+  "type": "action",
+  "version": "0.0.1"
+}

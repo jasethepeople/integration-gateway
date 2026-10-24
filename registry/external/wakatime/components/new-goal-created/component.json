@@ -1,0 +1,7 @@
+{
+  "key": "wakatime-new-goal-created",
+  "name": "New Goal Created",
+  "description": "Emit new event when a new goal is created in WakaTime. [See the documentation](https://wakatime.com/developers#goals)",
+  "type": "source",
+  "version": "0.0.1"
+}

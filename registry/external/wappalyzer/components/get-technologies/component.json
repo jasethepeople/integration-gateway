@@ -1,0 +1,7 @@
+{
+  "key": "wappalyzer-get-technologies",
+  "name": "Get Technologies",
+  "description": "Returns the details of technologies used on a specific URL. [See the documentation](https://www.wappalyzer.com/docs/api/v2/lookup/)",
+  "type": "action",
+  "version": "0.0.3"
+}

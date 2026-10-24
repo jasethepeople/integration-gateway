@@ -1,0 +1,7 @@
+{
+  "key": "attio-new-record-created-instant",
+  "name": "New Record Created (Instant)",
+  "description": "Emit new event when new record, such as person, company or deal gets created",
+  "type": "source",
+  "version": "0.0.6"
+}

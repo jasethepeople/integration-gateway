@@ -1,0 +1,55 @@
+{
+  "app": "wealthbox",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "opportunityStage": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskCategory": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "wealthbox-add-member-to-household",
+    "wealthbox-create-contact",
+    "wealthbox-create-event",
+    "wealthbox-create-note",
+    "wealthbox-create-opportunity",
+    "wealthbox-create-task",
+    "wealthbox-find-contact",
+    "wealthbox-list-contact-id-options",
+    "wealthbox-list-contact-type-options",
+    "wealthbox-list-households",
+    "wealthbox-list-opportunity-stage-options",
+    "wealthbox-list-task-category-options",
+    "wealthbox-list-workflow-templates",
+    "wealthbox-start-workflow",
+    "wealthbox-new-comment",
+    "wealthbox-new-contact-created",
+    "wealthbox-new-event-created",
+    "wealthbox-new-note",
+    "wealthbox-new-opportunity-created",
+    "wealthbox-new-task-created",
+    "wealthbox-new-workflow",
+    "wealthbox-task-completed",
+    "wealthbox-workflow-step-completed"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

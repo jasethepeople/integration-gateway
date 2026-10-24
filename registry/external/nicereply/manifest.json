@@ -1,0 +1,20 @@
+{
+  "app": "nicereply",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "private_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "nicereply-new-ces-rating",
+    "nicereply-new-csat-rating",
+    "nicereply-new-customer-rating",
+    "nicereply-new-nps-rating",
+    "nicereply-new-survey-rating",
+    "nicereply-new-team-rating",
+    "nicereply-new-user-rating"
+  ]
+}

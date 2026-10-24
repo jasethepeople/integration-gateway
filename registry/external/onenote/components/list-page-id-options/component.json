@@ -1,0 +1,7 @@
+{
+  "key": "onenote-list-page-id-options",
+  "name": "List Page ID Options",
+  "description": "Retrieves available options for the Page ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

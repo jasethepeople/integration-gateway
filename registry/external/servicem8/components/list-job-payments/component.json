@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-list-job-payments",
+  "name": "List Job Payments",
+  "description": "List job payments with optional filters. [See the documentation](https://developer.servicem8.com/reference/listjobpayments)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "engage-add-customer",
+  "name": "Add Customer",
+  "description": "Adds Customer to Accounts. [See the documentation](https://docs.engage.so/en-us/a/62bbdd015bfea4dca4834042-users#add-customer-to-accounts)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zoho_books-list-tax-authority-id-options",
+  "name": "List Tax Authority Id Options",
+  "description": "Retrieves available options for the Tax Authority Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

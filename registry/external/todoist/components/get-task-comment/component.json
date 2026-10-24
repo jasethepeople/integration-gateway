@@ -1,0 +1,7 @@
+{
+  "key": "todoist-get-task-comment",
+  "name": "Get Task Comment",
+  "description": "Returns info about a task comment. [See the documentation](https://developer.todoist.com/api/v1#tag/Comments/operation/get_comment_api_v1_comments__comment_id__get)",
+  "type": "action",
+  "version": "0.0.10"
+}

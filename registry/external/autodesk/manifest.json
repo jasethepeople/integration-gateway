@@ -1,0 +1,31 @@
+{
+  "app": "autodesk",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "hubId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "folderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "autodesk-create-folder",
+    "autodesk-list-hub-id-options",
+    "autodesk-upload-file",
+    "autodesk-new-folder-instant",
+    "autodesk-new-project-created",
+    "autodesk-new-version-instant"
+  ]
+}

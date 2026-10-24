@@ -1,0 +1,35 @@
+{
+  "app": "ispring_learn",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "courseIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "departmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ispring_learn-enroll-users-in-courses",
+    "ispring_learn-list-enrollments",
+    "ispring_learn-update-user",
+    "ispring_learn-new-completion-instant",
+    "ispring_learn-new-enrollment-instant",
+    "ispring_learn-new-registration-instant"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "upsales-get-user",
+  "name": "Get User",
+  "description": "Retrieves a single user by ID from Upsales. [See the documentation](https://api.upsales.com/#07e5839b-2043-4d89-97c3-61be8b8ffe93)",
+  "type": "action",
+  "version": "0.0.1"
+}

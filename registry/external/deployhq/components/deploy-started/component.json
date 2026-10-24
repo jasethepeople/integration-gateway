@@ -1,0 +1,7 @@
+{
+  "key": "deployhq-deploy-started",
+  "name": "New Deploy Started",
+  "description": "Emit new event when a deploy starts",
+  "type": "source",
+  "version": "0.0.2"
+}

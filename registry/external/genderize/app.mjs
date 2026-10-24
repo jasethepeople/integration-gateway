@@ -1,0 +1,58 @@
+import { axios } from "../_platform-shim.mjs";
+
+const __pdApp = {
+  type: "app",
+  app: "genderize",
+  propDefinitions: {
+    name: {
+      type: "string",
+      label: "Name",
+      description: "Name that will be checked",
+    },
+    names: {
+      type: "string[]",
+      label: "Names",
+      description: "Up to 10 names to check in a single batch request",
+    },
+    countryId: {
+      type: "string",
+      label: "Country",
+      description: "Optional ISO 3166-1 alpha-2 country code (e.g. `US`, `GB`, `DE`) to constrain the prediction to a specific country's name distribution.",
+      optional: true,
+    },
+  },
+  methods: {
+    _baseUrl() {
+      return "https://api.genderize.io";
+    },
+    async _makeRequest(opts = {}) {
+      const {
+        $ = this,
+        params,
+        ...otherOpts
+      } = opts;
+      return axios($, {
+        ...otherOpts,
+        url: this._baseUrl(),
+        params: {
+          api_key: `${this.$auth.api_key}`,
+          ...params,
+        },
+      });
+    },
+    async getGenderFromName(args = {}) {
+      return this._makeRequest({
+        ...args,
+      });
+    },
+    async getGenderFromNames(args = {}) {
+      return this._makeRequest({
+        ...args,
+      });
+    },
+  },
+};
+
+export default __pdApp;
+import { __pdBindAuth as __pdBind } from "../_platform-shim.mjs";
+__pdBind(__pdApp, "genderize");

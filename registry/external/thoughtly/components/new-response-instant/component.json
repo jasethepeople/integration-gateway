@@ -1,0 +1,7 @@
+{
+  "key": "thoughtly-new-response-instant",
+  "name": "New Response (Instant)",
+  "description": "Emit new event when a thoughtly gets a new response.",
+  "type": "source",
+  "version": "0.0.1"
+}

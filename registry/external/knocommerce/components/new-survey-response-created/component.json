@@ -1,0 +1,7 @@
+{
+  "key": "knocommerce-new-survey-response-created",
+  "name": "New Survey Response Created (Instant)",
+  "description": "Emit new event when a new survey response is created. [See the documentation](https://developers.knocommerce.com/#645e16d0-be4f-4cd7-8d81-1a7cfee5f911)",
+  "type": "source",
+  "version": "0.0.1"
+}

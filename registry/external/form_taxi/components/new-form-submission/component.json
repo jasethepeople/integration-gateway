@@ -1,0 +1,7 @@
+{
+  "key": "form_taxi-new-form-submission",
+  "name": "New Form Submission",
+  "description": "Emit new event when Form.taxi receives a new form submission. [About Form.taxi](https://form.taxi/en/backend)",
+  "type": "source",
+  "version": "0.0.1"
+}

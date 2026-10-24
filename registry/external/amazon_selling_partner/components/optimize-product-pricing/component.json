@@ -1,0 +1,7 @@
+{
+  "key": "amazon_selling_partner-optimize-product-pricing",
+  "name": "Optimize Product Pricing",
+  "description": "Retrieves pricing data to adjust product prices dynamically based on market trends. [See the documentation](https://developer-docs.amazon.com/sp-api/reference/getcompetitivepricing)",
+  "type": "action",
+  "version": "0.0.5"
+}

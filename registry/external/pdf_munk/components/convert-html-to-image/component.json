@@ -1,0 +1,7 @@
+{
+  "key": "pdf_munk-convert-html-to-image",
+  "name": "Convert HTML to Image",
+  "description": "Converts HTML/CSS content to an image. [See documentation](https://pdfmunk.com/api-docs#:~:text=Image%20Generation)",
+  "type": "action",
+  "version": "0.0.2"
+}

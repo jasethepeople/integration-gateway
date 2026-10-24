@@ -1,0 +1,28 @@
+{
+  "app": "airparser",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "inboxId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "documentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "airparser-extract-data-document",
+    "airparser-list-inbox-id-options",
+    "airparser-upload-document-parse",
+    "airparser-new-document-parsed"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

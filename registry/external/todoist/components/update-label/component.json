@@ -1,0 +1,7 @@
+{
+  "key": "todoist-update-label",
+  "name": "Update Label",
+  "description": "Updates a label. [See the documentation](https://developer.todoist.com/api/v1#tag/Labels/operation/update_label_api_v1_labels__label_id__post)",
+  "type": "action",
+  "version": "0.0.10"
+}

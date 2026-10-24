@@ -1,0 +1,7 @@
+{
+  "key": "nicereply-new-survey-rating",
+  "name": "New Survey Rating",
+  "description": "Emit new event on each new survey rating.",
+  "type": "source",
+  "version": "0.0.2"
+}

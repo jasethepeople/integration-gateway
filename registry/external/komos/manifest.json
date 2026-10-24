@@ -1,0 +1,33 @@
+{
+  "app": "komos",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "runId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "inputs": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "clientRequestId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "komos-get-task-run",
+    "komos-list-task-runs",
+    "komos-list-tasks",
+    "komos-queue-task-run"
+  ]
+}

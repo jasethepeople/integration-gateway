@@ -1,0 +1,7 @@
+{
+  "key": "mux-live-stream-active",
+  "name": "New Live Stream Active",
+  "description": "Emit new event when a live-stream is set to active status.",
+  "type": "source",
+  "version": "0.0.2"
+}

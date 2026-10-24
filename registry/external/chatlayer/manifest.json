@@ -1,0 +1,33 @@
+{
+  "app": "chatlayer",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "botId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sessionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "version": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "chatlayer-get-conversations",
+    "chatlayer-get-session-data",
+    "chatlayer-list-bot-id-options",
+    "chatlayer-list-messages"
+  ]
+}

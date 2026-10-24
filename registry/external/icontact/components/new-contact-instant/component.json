@@ -1,0 +1,7 @@
+{
+  "key": "icontact-new-contact-instant",
+  "name": "New Contact Created (Instant)",
+  "description": "Emit new event when a contact is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "activecampaign-new-automation-webhook",
+  "name": "New Automation Webhook",
+  "description": "Emit new event each time an automation sends out webhook data.",
+  "type": "source",
+  "version": "0.0.8"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "social_fetch-get-tiktok-trending-feed",
+  "name": "Get TikTok Trending Feed",
+  "description": "Fetches the current TikTok trending feed for a given region. [See the documentation](https://app.socialfetch.dev/playground?path=/v1/tiktok/feed/trending&method=GET)",
+  "type": "action",
+  "version": "0.0.1"
+}

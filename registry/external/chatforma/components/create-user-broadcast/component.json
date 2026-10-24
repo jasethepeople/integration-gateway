@@ -1,0 +1,7 @@
+{
+  "key": "chatforma-create-user-broadcast",
+  "name": "Create User Broadcast",
+  "description": "Sends a broadcast message to a specific user. [See the documentation](https://docs.chatforma.com/#/developers/post_bots__botId__dispatch_user__botUserId_)",
+  "type": "action",
+  "version": "0.0.1"
+}

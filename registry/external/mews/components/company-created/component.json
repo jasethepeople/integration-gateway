@@ -1,0 +1,7 @@
+{
+  "key": "mews-company-created",
+  "name": "New Company",
+  "description": "Emit new event when a company is created. [See the documentation](https://mews-systems.gitbook.io/connector-api/operations/companies#get-all-companies)",
+  "type": "source",
+  "version": "0.0.2"
+}

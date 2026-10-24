@@ -1,0 +1,7 @@
+{
+  "key": "vercel_token_auth-list-deployments",
+  "name": "List Deployments",
+  "description": "List deployments under the account corresponding to the API token. [See the documentation](https://vercel.com/docs/rest-api/endpoints/deployments#list-deployments)",
+  "type": "action",
+  "version": "0.0.6"
+}

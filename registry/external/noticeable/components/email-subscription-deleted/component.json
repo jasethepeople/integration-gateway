@@ -1,0 +1,7 @@
+{
+  "key": "noticeable-email-subscription-deleted",
+  "name": "New Email Subscription Deleted Event",
+  "description": "Emit new events when an email subscription is deleted. [See the docs](https://graphdoc.noticeable.io/emailsubscription.doc.html)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "sendoso-list-sends",
+  "name": "List Sends",
+  "description": "Retrieve a list of all sends/gifts with optional filters. [See the documentation](https://developer.sendoso.com/rest-api/reference/sends/get-sends)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "wrike-list-contact-id-options",
+  "name": "List Contact ID Options",
+  "description": "Retrieves available contacts so callers can copy an ID into free-form responsibles or contactId props in other actions. [See the documentation](https://developers.wrike.com/reference/getcontactsempty)",
+  "type": "action",
+  "version": "0.1.1"
+}

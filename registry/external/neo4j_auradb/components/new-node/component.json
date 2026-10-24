@@ -1,0 +1,7 @@
+{
+  "key": "neo4j_auradb-new-node",
+  "name": "New Node Created",
+  "description": "Emit new event when a new node is created in the Neo4j AuraDB instance.",
+  "type": "source",
+  "version": "0.0.1"
+}

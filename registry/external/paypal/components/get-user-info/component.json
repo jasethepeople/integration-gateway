@@ -1,0 +1,7 @@
+{
+  "key": "paypal-get-user-info",
+  "name": "Get User Info",
+  "description": "Shows user profile information. [See docs here](https://developer.paypal.com/docs/api/identity/v1)",
+  "type": "action",
+  "version": "0.2.1"
+}

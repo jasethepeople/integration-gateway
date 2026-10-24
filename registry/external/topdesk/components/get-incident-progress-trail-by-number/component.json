@@ -1,0 +1,7 @@
+{
+  "key": "topdesk-get-incident-progress-trail-by-number",
+  "name": "Get Incident Progress Trail By Number",
+  "description": "Get incident progress trail by incident number. [See the documentation](https://developers.topdesk.com/explorer/?page=incident#/progress%20trail%20%2F%20actions%20%2F%20requests/getIncidentProgressTrailByNumber)",
+  "type": "action",
+  "version": "0.0.1"
+}

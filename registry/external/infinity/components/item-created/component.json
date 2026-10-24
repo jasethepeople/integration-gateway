@@ -1,0 +1,7 @@
+{
+  "key": "infinity-item-created",
+  "name": "New Item Created",
+  "description": "Emit new event when an item is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

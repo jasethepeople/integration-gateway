@@ -1,0 +1,7 @@
+{
+  "key": "ticketsauce-get-orders",
+  "name": "Get Orders",
+  "description": "Get a list of orders from the specified event. [See documentation](https://speca.io/ticketsauce/ticketsauce-public-api?key=204000d6bda66da78315e721920f43aa#orders)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "vapi-new-conversation",
+  "name": "New Conversation Started",
+  "description": "Emit new event when a voicebot starts a conversation.",
+  "type": "source",
+  "version": "0.0.3"
+}

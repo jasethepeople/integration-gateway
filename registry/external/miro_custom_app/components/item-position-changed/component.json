@@ -1,0 +1,7 @@
+{
+  "key": "miro_custom_app-item-position-changed",
+  "name": "Item Position Changed",
+  "description": "Emit new event when an item's position changes in a Miro Custom App.",
+  "type": "source",
+  "version": "0.0.2"
+}

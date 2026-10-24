@@ -1,0 +1,26 @@
+{
+  "app": "govee",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "deviceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "commandType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "govee-control-device",
+    "govee-retrieve-device-info"
+  ],
+  "npmImports": [
+    "uuid"
+  ]
+}

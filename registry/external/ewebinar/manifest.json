@@ -1,0 +1,23 @@
+{
+  "app": "ewebinar",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "webinarId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sessions": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ewebinar-new-registration",
+    "ewebinar-webinar-joined"
+  ]
+}

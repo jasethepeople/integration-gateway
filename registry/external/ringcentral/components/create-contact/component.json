@@ -1,0 +1,7 @@
+{
+  "key": "ringcentral-create-contact",
+  "name": "Create Contact",
+  "description": "Creates a user personal contact. [See the documentation](https://developers.ringcentral.com/api-reference/External-Contacts/createContact)",
+  "type": "action",
+  "version": "0.0.2"
+}

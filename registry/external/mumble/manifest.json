@@ -1,0 +1,62 @@
+{
+  "app": "mumble",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "labelName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerPhone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "source": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "utmSource": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "utmMedium": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "utmCampaign": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "gclid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "currentUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "labelNameList": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mumble-add-new-customer",
+    "mumble-add-new-label",
+    "mumble-delete-label",
+    "mumble-edit-customer",
+    "mumble-list-label-name-list-options"
+  ]
+}

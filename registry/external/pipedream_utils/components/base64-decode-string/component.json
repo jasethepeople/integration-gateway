@@ -1,0 +1,7 @@
+{
+  "key": "pipedream_utils-base64-decode-string",
+  "name": "Helper Functions - Base64 Decode String",
+  "description": "Accepts a base64-encoded string, returns a decoded UTF-8 string",
+  "type": "action",
+  "version": "0.0.2"
+}

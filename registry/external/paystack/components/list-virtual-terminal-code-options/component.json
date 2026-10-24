@@ -1,0 +1,7 @@
+{
+  "key": "paystack-list-virtual-terminal-code-options",
+  "name": "List Virtual Terminal Code Options",
+  "description": "Retrieves available options for the Virtual Terminal Code field.",
+  "type": "action",
+  "version": "0.0.1"
+}

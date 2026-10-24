@@ -1,0 +1,51 @@
+{
+  "app": "guru",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "collection": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "folderIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "cardId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "folderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "guru-add-tag-to-card",
+    "guru-create-card",
+    "guru-export-card-to-pdf",
+    "guru-list-collection-options",
+    "guru-list-folder-ids-options",
+    "guru-list-tags-options",
+    "guru-announcement-read-instant",
+    "guru-card-updated-instant",
+    "guru-new-card-instant"
+  ],
+  "npmImports": [
+    "fs",
+    "stream",
+    "util"
+  ]
+}

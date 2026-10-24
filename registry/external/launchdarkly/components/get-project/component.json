@@ -1,0 +1,7 @@
+{
+  "key": "launchdarkly-get-project",
+  "name": "Get Project",
+  "description": "Get a project by key. [See the documentation](https://launchdarkly.com/docs/api/projects/get-project).",
+  "type": "action",
+  "version": "0.0.2"
+}

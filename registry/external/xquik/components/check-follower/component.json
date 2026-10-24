@@ -1,0 +1,7 @@
+{
+  "key": "xquik-check-follower",
+  "name": "Check Follower",
+  "description": "Check if one public X/Twitter user follows another with Xquik. [See the documentation](https://docs.xquik.com/api-reference/x/check-follower)",
+  "type": "action",
+  "version": "0.0.1"
+}

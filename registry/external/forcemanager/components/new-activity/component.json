@@ -1,0 +1,7 @@
+{
+  "key": "forcemanager-new-activity",
+  "name": "New Activity",
+  "description": "Emit new event when a new activity is created. [See the documentation](https://developer.forcemanager.com/#eadff4f2-ef77-44f3-ac48-16fe732ea127)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "bybit-linear-order-cancel-all",
+  "name": "ByBit Linear Order Cancel All",
+  "description": "Cancel All Active Orders.",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,58 @@
+{
+  "app": "drata",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "workspaceId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "personnelId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "vendorId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "controlId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "deviceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "drata-create-asset",
+    "drata-create-control",
+    "drata-create-vendor",
+    "drata-find-controls",
+    "drata-find-personnel",
+    "drata-find-vendors",
+    "drata-list-control-id-options",
+    "drata-list-device-id-options",
+    "drata-list-vendor-id-options",
+    "drata-list-workspace-id-options",
+    "drata-update-vendor",
+    "drata-upload-background-check",
+    "drata-upload-device-compliance-document",
+    "drata-upload-user-compliance-document",
+    "drata-failed-monitor",
+    "drata-new-asset-added",
+    "drata-new-control-added",
+    "drata-new-evidence-added",
+    "drata-new-personnel-added",
+    "drata-new-vendor-added",
+    "drata-terminated-employee",
+    "drata-vendor-updated"
+  ],
+  "npmImports": [
+    "lodash"
+  ]
+}

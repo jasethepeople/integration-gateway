@@ -1,0 +1,7 @@
+{
+  "key": "acumbamail-get-campaigns",
+  "name": "Get Campaigns",
+  "description": "Get a list of campaigns. [See the documentation](https://acumbamail.com/en/apidoc/function/getCampaigns/)",
+  "type": "action",
+  "version": "0.0.1"
+}

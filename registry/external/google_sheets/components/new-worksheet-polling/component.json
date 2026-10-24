@@ -1,0 +1,7 @@
+{
+  "key": "google_sheets-new-worksheet-polling",
+  "name": "New Worksheet (Polling)",
+  "description": "Emit new event each time a new worksheet is created in a spreadsheet.",
+  "type": "source",
+  "version": "0.0.5"
+}

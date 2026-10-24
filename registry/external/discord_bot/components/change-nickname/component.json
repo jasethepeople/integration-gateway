@@ -1,0 +1,7 @@
+{
+  "key": "discord_bot-change-nickname",
+  "name": "Change Nickname",
+  "description": "Modifies the nickname of the current user in a guild.",
+  "type": "action",
+  "version": "1.0.1"
+}

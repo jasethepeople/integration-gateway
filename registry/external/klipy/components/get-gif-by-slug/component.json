@@ -1,0 +1,7 @@
+{
+  "key": "klipy-get-gif-by-slug",
+  "name": "Get GIF by Slug",
+  "description": "Get a specific GIF idendified by its slug. [See the documentation](https://docs.klipy.com/gifs-api/gifs-search-api)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "defastra-deep-email-check",
+  "name": "Deep Email Check",
+  "description": "Performs a risk analysis on a given email address and provides a risk score indicating if the email is disposable, risky, or safe. [See the documentation](https://docs.defastra.com/reference/deep-email-check)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "salesflare-update-contact",
+  "name": "Update Contact",
+  "description": "Updates a contact. [See the docs here](https://api.salesflare.com/docs#operation/putContactsContact_id)",
+  "type": "action",
+  "version": "0.0.2"
+}

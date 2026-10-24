@@ -1,0 +1,7 @@
+{
+  "key": "asana-new-tag",
+  "name": "New Tag",
+  "description": "Emit new event for each tag created in a workspace.",
+  "type": "source",
+  "version": "0.0.17"
+}

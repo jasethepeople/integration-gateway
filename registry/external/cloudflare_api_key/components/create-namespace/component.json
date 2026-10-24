@@ -1,0 +1,7 @@
+{
+  "key": "cloudflare_api_key-create-namespace",
+  "name": "Create Namespace",
+  "description": "Create a new Namespace in an account. [See the documentation](https://developers.cloudflare.com/api/node/resources/kv/subresources/namespaces/methods/create/)",
+  "type": "action",
+  "version": "0.0.5"
+}

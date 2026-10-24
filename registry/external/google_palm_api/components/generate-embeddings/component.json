@@ -1,0 +1,7 @@
+{
+  "key": "google_palm_api-generate-embeddings",
+  "name": "Generate Embeddings",
+  "description": "Generate embeddings using Google PaLM. [See the docs here](https://developers.generativeai.google/api/python/google/generativeai/generate_embeddings)",
+  "type": "action",
+  "version": "0.0.2"
+}

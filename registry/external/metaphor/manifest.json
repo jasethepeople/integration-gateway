@@ -1,0 +1,60 @@
+{
+  "app": "metaphor",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "endCrawlDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endPublishedDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "excludeDomains": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "includeDomains": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "numResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startCrawlDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startPublishedDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "useAutoprompt": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "metaphor-find-similar-links",
+    "metaphor-get-documents-content",
+    "metaphor-search"
+  ]
+}

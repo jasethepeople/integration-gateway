@@ -1,0 +1,20 @@
+{
+  "app": "zenrows",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zenrows-get-api-usage",
+    "zenrows-scrape-url-autoparse",
+    "zenrows-scrape-url-css-selectors"
+  ]
+}

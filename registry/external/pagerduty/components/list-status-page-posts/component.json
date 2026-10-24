@@ -1,0 +1,7 @@
+{
+  "key": "pagerduty-list-status-page-posts",
+  "name": "List Status Page Posts",
+  "description": "List posts on a PagerDuty status page.",
+  "type": "action",
+  "version": "0.0.2"
+}

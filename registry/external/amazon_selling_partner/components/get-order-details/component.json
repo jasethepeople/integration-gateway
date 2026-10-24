@@ -1,0 +1,7 @@
+{
+  "key": "amazon_selling_partner-get-order-details",
+  "name": "Get Order Details",
+  "description": "Fetches detailed information about a specific order using its order ID. [See the documentation](https://developer-docs.amazon.com/sp-api/reference/getorder)",
+  "type": "action",
+  "version": "0.0.4"
+}

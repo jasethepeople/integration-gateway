@@ -1,0 +1,7 @@
+{
+  "key": "refiner-list-segment-id-options",
+  "name": "List Segment ID Options",
+  "description": "Retrieves available options for the Segment ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

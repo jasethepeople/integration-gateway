@@ -1,0 +1,7 @@
+{
+  "key": "google_sheets-add-rows",
+  "name": "Add Rows",
+  "description": "Append one or more rows to a Google Sheets worksheet.",
+  "type": "action",
+  "version": "0.0.4"
+}

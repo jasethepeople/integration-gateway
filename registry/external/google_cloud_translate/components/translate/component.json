@@ -1,0 +1,7 @@
+{
+  "key": "google_cloud_translate-translate",
+  "name": "Translate",
+  "description": "Translate text using Google Cloud Translate",
+  "type": "action",
+  "version": "0.0.4"
+}

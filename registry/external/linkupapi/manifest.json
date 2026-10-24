@@ -1,0 +1,83 @@
+{
+  "app": "linkupapi",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "password": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "code": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "linkedinUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "conversationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "messageText": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "location": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "companyUrl": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "keyword": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "totalResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "identifier": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "profileUrn": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "linkupapi-connect-account",
+    "linkupapi-connect-to-profile",
+    "linkupapi-create-comment",
+    "linkupapi-get-account-details",
+    "linkupapi-get-company-info",
+    "linkupapi-get-conversation-messages",
+    "linkupapi-get-invitations-status",
+    "linkupapi-get-profile-info",
+    "linkupapi-list-accounts",
+    "linkupapi-list-inbox",
+    "linkupapi-search-companies",
+    "linkupapi-search-profiles",
+    "linkupapi-send-message",
+    "linkupapi-verify-code"
+  ]
+}

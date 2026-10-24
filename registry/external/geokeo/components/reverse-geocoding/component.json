@@ -1,0 +1,7 @@
+{
+  "key": "geokeo-reverse-geocoding",
+  "name": "Reverse geocoding",
+  "description": "Convert geographic coordinates to address data. [See the documentation](https://geokeo.com/documentation.php#request-reverse-geocoding)",
+  "type": "action",
+  "version": "0.0.2"
+}

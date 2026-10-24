@@ -1,0 +1,7 @@
+{
+  "key": "monta-create-order",
+  "name": "Create Order",
+  "description": "Create a new order in Monta for fulfillment. Provide the recipient's delivery address (which needs a Company or Last Name) and at least one order line; validate the address first with **Validate Address** if needed. [See the documentation](https://api-v6.monta.nl/index.html#tag/Order/paths/~1order/post)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "greenhouse-watch-candidates",
+  "name": "New Candidate Watching",
+  "description": "Emit new event when a candidate's application or status changes.",
+  "type": "source",
+  "version": "0.0.1"
+}

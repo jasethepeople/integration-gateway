@@ -1,0 +1,7 @@
+{
+  "key": "statuspage-update-incident",
+  "name": "Update Incident",
+  "description": "Updates an existing incident. [See the documentation](https://developer.statuspage.io/#update-an-incident)",
+  "type": "action",
+  "version": "0.0.6"
+}

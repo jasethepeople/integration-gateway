@@ -1,0 +1,7 @@
+{
+  "key": "overloop-exclude-contact",
+  "name": "Exclude Contact",
+  "description": "Add a contact to the exclusion list. [See the docs](https://apidoc.overloop.com/#create-an-exclusion-list-item)",
+  "type": "action",
+  "version": "0.0.2"
+}

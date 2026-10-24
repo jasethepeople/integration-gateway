@@ -1,0 +1,199 @@
+{
+  "app": "picqer",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "orderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shippingProviderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "warehouseId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fulfillmentCustomerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "returnId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "picklistId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "deliveryName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "deliveryContactName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "deliveryAddress": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "deliveryAddress2": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "deliveryZipcode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "deliveryCity": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "deliveryRegion": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "deliveryCountry": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "invoiceName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "invoiceContactName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "invoiceAddress": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "invoiceAddress2": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "invoiceZipcode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "invoiceCity": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "invoiceRegion": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "invoiceCountry": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "telephone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emailAddress": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "discount": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "preferredDeliveryDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerRemarks": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "reference": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "invoiced": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "partialDelivery": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "language": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "commentBody": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "showAtRelated": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "isVisibleFulfillment": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "tagId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "picqer-add-order-comment",
+    "picqer-add-order-tags",
+    "picqer-add-product-to-order",
+    "picqer-add-return-comment",
+    "picqer-cancel-order",
+    "picqer-change-order-to-concept",
+    "picqer-create-order",
+    "picqer-get-customer",
+    "picqer-get-order-comments",
+    "picqer-get-order-tags",
+    "picqer-get-order",
+    "picqer-get-picklist",
+    "picqer-get-status-per-order-line",
+    "picqer-list-customer-id-options",
+    "picqer-list-fulfillment-customer-id-options",
+    "picqer-list-picklist-id-options",
+    "picqer-list-product-id-options",
+    "picqer-list-return-id-options",
+    "picqer-list-shipping-provider-id-options",
+    "picqer-list-tag-id-options",
+    "picqer-list-template-id-options",
+    "picqer-list-warehouse-id-options",
+    "picqer-pause-order",
+    "picqer-process-order",
+    "picqer-search-orders",
+    "picqer-update-order",
+    "picqer-new-event-instant"
+  ],
+  "npmImports": [
+    "crypto-js"
+  ]
+}

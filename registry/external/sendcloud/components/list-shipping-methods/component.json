@@ -1,0 +1,7 @@
+{
+  "key": "sendcloud-list-shipping-methods",
+  "name": "List Shipping Methods",
+  "description": "List shipping methods. [See the documentation](https://api.sendcloud.dev/docs/sendcloud-public-api/branches/v2/shipping-methods/operations/list-shipping-methods)",
+  "type": "action",
+  "version": "0.0.4"
+}

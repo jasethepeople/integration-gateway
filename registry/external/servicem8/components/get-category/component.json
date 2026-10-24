@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-get-category",
+  "name": "Get Category",
+  "description": "Get a category by UUID. [See the documentation](https://developer.servicem8.com/reference/getcategories)",
+  "type": "action",
+  "version": "0.0.1"
+}

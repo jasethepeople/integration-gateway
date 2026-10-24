@@ -1,0 +1,7 @@
+{
+  "key": "prisma_management_api-list-database-connection-strings",
+  "name": "List Database Connection Strings",
+  "description": "Retrieves a list of all connection strings for a specific database via Prisma Management API. [See docs here](https://www.prisma.io/docs/postgres/introduction/management-api)",
+  "type": "action",
+  "version": "1.0.2"
+}

@@ -1,0 +1,43 @@
+{
+  "app": "agiled",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "designationId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "departmentId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "currencyId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "brand": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "agiled-create-contact",
+    "agiled-create-invoice",
+    "agiled-create-project",
+    "agiled-list-currency-id-options",
+    "agiled-list-department-id-options",
+    "agiled-list-designation-id-options",
+    "agiled-list-user-id-options",
+    "agiled-new-document-created",
+    "agiled-new-estimate-created",
+    "agiled-new-invoice-created"
+  ]
+}

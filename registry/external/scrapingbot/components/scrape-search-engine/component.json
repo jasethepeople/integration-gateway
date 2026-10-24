@@ -1,0 +1,7 @@
+{
+  "key": "scrapingbot-scrape-search-engine",
+  "name": "Scrape Search Engine",
+  "description": "Use ScrapingBot API to extract specific data from Google or Bing search results. [See the documentation](https://www.scraping-bot.io/web-scraping-documentation/)",
+  "type": "action",
+  "version": "0.0.2"
+}

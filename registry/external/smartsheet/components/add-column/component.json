@@ -1,0 +1,7 @@
+{
+  "key": "smartsheet-add-column",
+  "name": "Add Column",
+  "description": "Add a single column to an existing sheet, at the end or at a chosen position.",
+  "type": "action",
+  "version": "1.0.2"
+}

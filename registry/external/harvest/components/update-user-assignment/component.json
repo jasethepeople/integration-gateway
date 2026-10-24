@@ -1,0 +1,7 @@
+{
+  "key": "harvest-update-user-assignment",
+  "name": "Update User Assignment",
+  "description": "Update a user assignment on a project. Use **List User Assignments** to find IDs. Example: call with projectId, userAssignmentId, and hourlyRate=\"150\" to set that person's custom billing rate on the project. [See the documentation](https://help.getharvest.com/api-v2/projects-api/projects/user-assignments/#update-a-user-assignment).",
+  "type": "action",
+  "version": "0.0.1"
+}

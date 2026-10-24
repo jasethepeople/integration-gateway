@@ -1,0 +1,7 @@
+{
+  "key": "cloud_convert-create-job",
+  "name": "Create Job",
+  "description": "Creates a new job for one or more tasks. [See the documentation](https://cloudconvert.com/api/v2/jobs#jobs-create)",
+  "type": "action",
+  "version": "0.0.1"
+}

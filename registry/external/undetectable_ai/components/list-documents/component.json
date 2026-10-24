@@ -1,0 +1,7 @@
+{
+  "key": "undetectable_ai-list-documents",
+  "name": "List Documents",
+  "description": "Retrieve the IDs of documents associated with your account. [See the documentation](https://docs.undetectable.ai/#list-documents)",
+  "type": "action",
+  "version": "0.0.2"
+}

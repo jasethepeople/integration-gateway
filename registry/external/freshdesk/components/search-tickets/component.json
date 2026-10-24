@@ -1,0 +1,7 @@
+{
+  "key": "freshdesk-search-tickets",
+  "name": "Search Tickets",
+  "description": "Search for tickets in Freshdesk using a structured filter query. [See the documentation](https://developers.freshdesk.com/api/#filter_tickets)",
+  "type": "action",
+  "version": "0.0.4"
+}

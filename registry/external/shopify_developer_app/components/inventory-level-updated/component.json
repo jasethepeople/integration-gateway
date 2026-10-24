@@ -1,0 +1,7 @@
+{
+  "key": "shopify_developer_app-inventory-level-updated",
+  "name": "Inventory Level Updated (Instant)",
+  "description": "Emit new event when an inventory level is updated.",
+  "type": "source",
+  "version": "0.0.9"
+}

@@ -1,0 +1,29 @@
+{
+  "app": "process_street",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "workflowId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workflowRunId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "process_street-list-workflow-id-options",
+    "process_street-start-workflow-run",
+    "process_street-task-checked",
+    "process_street-workflow-run-completed",
+    "process_street-workflow-run-created"
+  ],
+  "npmImports": [
+    "lodash"
+  ]
+}

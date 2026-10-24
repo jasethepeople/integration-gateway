@@ -1,0 +1,7 @@
+{
+  "key": "zoom_admin-webinar-ended",
+  "name": "Webinar Ended",
+  "description": "Emits an event each time a webinar ends in your Zoom account",
+  "type": "source",
+  "version": "0.1.9"
+}

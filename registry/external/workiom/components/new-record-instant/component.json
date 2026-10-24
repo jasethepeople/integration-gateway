@@ -1,0 +1,7 @@
+{
+  "key": "workiom-new-record-instant",
+  "name": "New Record (Instant)",
+  "description": "Emit new event when a new record is created in a Workiom list. [See the documentation](https://help.workiom.com/article/workiom-webhooks)",
+  "type": "source",
+  "version": "0.0.1"
+}

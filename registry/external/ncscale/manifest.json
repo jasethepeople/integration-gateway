@@ -1,0 +1,14 @@
+{
+  "app": "ncscale",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "logs_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ncscale-push-log"
+  ]
+}

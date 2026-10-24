@@ -1,0 +1,7 @@
+{
+  "key": "pingback-create-subscriber",
+  "name": "Create Subscriber",
+  "description": "Create a new subscriber [See the documentation](https://developer.pingback.com/docs/api/create-subscriber)",
+  "type": "action",
+  "version": "0.0.2"
+}

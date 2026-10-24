@@ -1,0 +1,7 @@
+{
+  "key": "talend-get-plan-execution-status",
+  "name": "Get Plan Execution Status",
+  "description": "Get detailed status of one plan execution. [See the documentation](https://api.talend.com/apis/processing/2021-03/#operation_get-plan-execution-status).",
+  "type": "action",
+  "version": "0.0.2"
+}

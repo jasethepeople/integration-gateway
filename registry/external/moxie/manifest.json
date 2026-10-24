@@ -1,0 +1,34 @@
+{
+  "app": "moxie",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "clientName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "base_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "moxie-create-client",
+    "moxie-create-task",
+    "moxie-list-client-name-options",
+    "moxie-search-contacts",
+    "moxie-new-client-added",
+    "moxie-new-project-created"
+  ],
+  "npmImports": [
+    "currency-codes"
+  ]
+}

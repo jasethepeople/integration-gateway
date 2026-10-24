@@ -1,0 +1,7 @@
+{
+  "key": "mixpanel_service_account-list-saved-cohorts",
+  "name": "List Saved Cohorts",
+  "description": "List the cohorts saved in this Mixpanel project, with each cohort's ID, name, description, and current member count. [See the documentation](https://docs.mixpanel.com/reference/cohorts-list)",
+  "type": "action",
+  "version": "0.0.1"
+}

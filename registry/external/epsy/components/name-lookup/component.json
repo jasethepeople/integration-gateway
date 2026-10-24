@@ -1,0 +1,7 @@
+{
+  "key": "epsy-name-lookup",
+  "name": "Name Lookup",
+  "description": "Request a lookup for the provided name. [See the documentation](https://irbis.espysys.com/developer/)",
+  "type": "action",
+  "version": "0.0.2"
+}

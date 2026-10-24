@@ -1,0 +1,7 @@
+{
+  "key": "talend-list-environment-id-options",
+  "name": "List Environment Options",
+  "description": "Retrieves available options for the Environment field.",
+  "type": "action",
+  "version": "0.0.1"
+}

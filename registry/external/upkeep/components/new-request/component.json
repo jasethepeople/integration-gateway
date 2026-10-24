@@ -1,0 +1,7 @@
+{
+  "key": "upkeep-new-request",
+  "name": "New Request Event",
+  "description": "Emit new event when a request is created.",
+  "type": "source",
+  "version": "0.0.2"
+}

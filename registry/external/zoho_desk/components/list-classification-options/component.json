@@ -1,0 +1,7 @@
+{
+  "key": "zoho_desk-list-classification-options",
+  "name": "List Classification Options",
+  "description": "Retrieves available options for the Classification field.",
+  "type": "action",
+  "version": "0.0.1"
+}

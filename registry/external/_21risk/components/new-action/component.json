@@ -1,0 +1,7 @@
+{
+  "key": "_21risk-new-action",
+  "name": "New Action Created",
+  "description": "Emit new event when a new action is created due to non-compliance in a risk-model category during an audit.",
+  "type": "source",
+  "version": "0.0.1"
+}

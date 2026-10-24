@@ -1,0 +1,7 @@
+{
+  "key": "gmail-delete-label",
+  "name": "Delete Label",
+  "description": "Immediately and permanently delete a user-created label from the authenticated Gmail mailbox, removing it from every message and thread it was applied to.",
+  "type": "action",
+  "version": "0.0.4"
+}

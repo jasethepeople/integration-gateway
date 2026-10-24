@@ -1,0 +1,7 @@
+{
+  "key": "braintree-create-customer",
+  "name": "Create Customer",
+  "description": "Create a new customer in Braintree. [See the documentation](https://developer.paypal.com/braintree/graphql/guides/customers/#create)",
+  "type": "action",
+  "version": "0.0.1"
+}

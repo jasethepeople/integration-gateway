@@ -1,0 +1,7 @@
+{
+  "key": "teamwork_desk-list-priority-id-options",
+  "name": "List Priority Id Options",
+  "description": "Retrieves available options for the Priority Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

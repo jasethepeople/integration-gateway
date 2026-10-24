@@ -1,0 +1,7 @@
+{
+  "key": "featherless-create-text-completion",
+  "name": "Create Text Completion",
+  "description": "Generate a text completion from a raw prompt using a Featherless-hosted model (POST /v1/completions). Returns a completion object whose `choices[0].text` holds the generated text, plus a `usage` token breakdown. This is a distinct legacy-style completion endpoint from **Create Chat Completion**. Use **List Models** first to discover valid model IDs. Example: `model=Qwen/Qwen3-0.6B`, `prompt=\"The capital of France is\"` returns ` Paris` in `choices[0].text`. [See the documentation](https://featherless.ai/docs/completions).",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "wistia-new-visitor",
+  "name": "New Visitor",
+  "description": "Emit new event for each visitor.",
+  "type": "source",
+  "version": "0.0.3"
+}

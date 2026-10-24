@@ -1,0 +1,105 @@
+{
+  "app": "microsoft_outlook",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "files": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "label": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "messageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "folderIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "attachmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sharedFolderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "folderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "search": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "filter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderBy": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "microsoft_outlook-add-label-to-email",
+    "microsoft_outlook-create-contact",
+    "microsoft_outlook-create-draft-email",
+    "microsoft_outlook-create-draft-reply",
+    "microsoft_outlook-download-attachment",
+    "microsoft_outlook-find-contacts",
+    "microsoft_outlook-find-email",
+    "microsoft_outlook-find-shared-folder-email",
+    "microsoft_outlook-get-current-user",
+    "microsoft_outlook-get-folder",
+    "microsoft_outlook-get-message",
+    "microsoft_outlook-get-shared-folder",
+    "microsoft_outlook-list-contact-options",
+    "microsoft_outlook-list-contacts",
+    "microsoft_outlook-list-folder-ids-options",
+    "microsoft_outlook-list-folders",
+    "microsoft_outlook-list-important-mail",
+    "microsoft_outlook-list-labels",
+    "microsoft_outlook-list-shared-folders",
+    "microsoft_outlook-modify-email",
+    "microsoft_outlook-move-email-to-folder",
+    "microsoft_outlook-remove-label-from-email",
+    "microsoft_outlook-reply-to-email",
+    "microsoft_outlook-save-contact",
+    "microsoft_outlook-send-email",
+    "microsoft_outlook-update-contact",
+    "microsoft_outlook-new-attachment-received",
+    "microsoft_outlook-new-contact",
+    "microsoft_outlook-new-email-in-shared-folder",
+    "microsoft_outlook-new-email"
+  ],
+  "npmImports": [
+    "@microsoft/microsoft-graph-client",
+    "@sparticuz/chromium",
+    "fs",
+    "isomorphic-fetch",
+    "lodash.pickby",
+    "mammoth",
+    "md5",
+    "mime-types",
+    "path",
+    "pdfkit",
+    "puppeteer-core",
+    "stream"
+  ]
+}

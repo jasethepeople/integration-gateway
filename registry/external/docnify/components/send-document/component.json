@@ -1,0 +1,7 @@
+{
+  "key": "docnify-send-document",
+  "name": "Send Document",
+  "description": "Send a document within Docnify for signing. [See the documentation](https://app.docnify.io/api/v1/openapi)",
+  "type": "action",
+  "version": "0.0.2"
+}

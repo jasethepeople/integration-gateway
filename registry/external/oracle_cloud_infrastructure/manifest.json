@@ -1,0 +1,53 @@
+{
+  "app": "oracle_cloud_infrastructure",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "compartmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "namespaceName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "bucketName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "objectName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "putObjectBody": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "instanceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tenancy_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "oracle_cloud_infrastructure-create-update-object",
+    "oracle_cloud_infrastructure-delete-object",
+    "oracle_cloud_infrastructure-list-compartment-id-options",
+    "oracle_cloud_infrastructure-new-autonomous-database-created-instant",
+    "oracle_cloud_infrastructure-new-instance-state-change-instant",
+    "oracle_cloud_infrastructure-new-object-storage-object-instant"
+  ],
+  "npmImports": [
+    "bunyan",
+    "oci-common",
+    "oci-core",
+    "oci-datacatalog",
+    "oci-events",
+    "oci-identity",
+    "oci-objectstorage",
+    "oci-ons"
+  ]
+}

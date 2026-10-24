@@ -1,0 +1,7 @@
+{
+  "key": "revolt-create-group",
+  "name": "Create Group",
+  "description": "Create a new group channel. [See the documentation](https://developers.revolt.chat/developers/api/reference.html#tag/groups/post/channels/create)",
+  "type": "action",
+  "version": "0.0.2"
+}

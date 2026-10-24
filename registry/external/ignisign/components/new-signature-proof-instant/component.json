@@ -1,0 +1,7 @@
+{
+  "key": "ignisign-new-signature-proof-instant",
+  "name": "New Signature Proof Instant",
+  "description": "Emit new event when a signature proof is generated. [See the documentation](https://ignisign.io/docs/webhooks/signatureproof)",
+  "type": "source",
+  "version": "0.0.1"
+}

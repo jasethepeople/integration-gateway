@@ -1,0 +1,7 @@
+{
+  "key": "peerdom-new-role",
+  "name": "New Role Created",
+  "description": "Emit new event when a new role is created in a circle. [See the documentation](https://api.peerdom.org/v1/docs)",
+  "type": "source",
+  "version": "0.0.1"
+}

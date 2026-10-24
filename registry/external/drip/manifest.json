@@ -1,0 +1,36 @@
+{
+  "app": "drip",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "workflowId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "campaign": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "drip-activate-workflow",
+    "drip-create-or-update-subscriber",
+    "drip-list-campaign-options",
+    "drip-list-email-options",
+    "drip-list-subscribers",
+    "drip-list-workflow-id-options",
+    "drip-start-someone-on-workflow",
+    "drip-custom-event-performed",
+    "drip-new-campaign-subscription-added",
+    "drip-new-subscriber-added",
+    "drip-new-tag-applied"
+  ]
+}

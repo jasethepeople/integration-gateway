@@ -1,0 +1,7 @@
+{
+  "key": "gmail-create-filter",
+  "name": "Create Filter",
+  "description": "Create a Gmail filter that automatically acts on incoming mail matching the given criteria. Provide at least one criterion and at least one action.",
+  "type": "action",
+  "version": "0.0.1"
+}

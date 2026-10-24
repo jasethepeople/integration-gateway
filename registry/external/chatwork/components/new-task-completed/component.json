@@ -1,0 +1,7 @@
+{
+  "key": "chatwork-new-task-completed",
+  "name": "New Task Completed",
+  "description": "Emit new event each time a task is completed.",
+  "type": "source",
+  "version": "0.0.1"
+}

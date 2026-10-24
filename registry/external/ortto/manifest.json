@@ -1,0 +1,38 @@
+{
+  "app": "ortto",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "userEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "activityId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fields": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "attributes": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "region": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ortto-create-custom-activity",
+    "ortto-create-person",
+    "ortto-list-user-email-options",
+    "ortto-opt-out-sms",
+    "ortto-new-contact-created"
+  ]
+}

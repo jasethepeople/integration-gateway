@@ -1,0 +1,7 @@
+{
+  "key": "microsofttodo-create-list",
+  "name": "Create List",
+  "description": "Create a new task list in Microsoft To Do. [See the documentation](https://learn.microsoft.com/en-us/graph/api/todo-post-lists).",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "loggly_send_data-send-event",
+  "name": "Send Event",
+  "description": "Send events to Loggly, with tags. [See the docs](https://documentation.solarwinds.com/en/success_center/loggly/content/admin/http-endpoint.htm) for more details",
+  "type": "action",
+  "version": "0.0.2"
+}

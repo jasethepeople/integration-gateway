@@ -1,0 +1,7 @@
+{
+  "key": "upsales-upload-document",
+  "name": "Upload Document",
+  "description": "Uploads a document to Upsales. [See the documentation](https://api.upsales.com/#d9d71f21-919a-4ebc-b8e4-84c25b70de99)",
+  "type": "action",
+  "version": "0.0.1"
+}

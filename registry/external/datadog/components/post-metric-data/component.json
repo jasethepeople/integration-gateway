@@ -1,0 +1,7 @@
+{
+  "key": "datadog-post-metric-data",
+  "name": "Post Metric Data",
+  "description": "Post custom time-series metric data points to",
+  "type": "action",
+  "version": "1.0.2"
+}

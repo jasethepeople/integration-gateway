@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-delete-crm-record",
+  "name": "Delete CRM Record",
+  "description": "Delete a Salesforce record. This moves it to the Recycle Bin, where it stays recoverable for up to 15 days - storage limits can purge it sooner.",
+  "type": "action",
+  "version": "0.0.4"
+}

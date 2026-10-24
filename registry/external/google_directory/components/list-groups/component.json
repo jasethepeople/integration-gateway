@@ -1,0 +1,7 @@
+{
+  "key": "google_directory-list-groups",
+  "name": "List Groups",
+  "description": "Retrieves a list of directory groups. [See the documentation](https://developers.google.com/admin-sdk/directory/reference/rest/v1/groups/list)",
+  "type": "action",
+  "version": "0.0.3"
+}

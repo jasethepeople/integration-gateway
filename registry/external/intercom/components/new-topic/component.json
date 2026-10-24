@@ -1,0 +1,7 @@
+{
+  "key": "intercom-new-topic",
+  "name": "New Topic (Instant)",
+  "description": "Emit new event for each new topic that you subscribed in your webhook. [See more here](https://developers.intercom.com/building-apps/docs/setting-up-webhooks).",
+  "type": "source",
+  "version": "0.0.6"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "sharepoint-list-sites",
+  "name": "List Sites",
+  "description": "List sites across the tenant.",
+  "type": "action",
+  "version": "0.0.10"
+}

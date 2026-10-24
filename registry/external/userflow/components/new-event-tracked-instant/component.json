@@ -1,0 +1,7 @@
+{
+  "key": "userflow-new-event-tracked-instant",
+  "name": "New Event Tracked (Instant)",
+  "description": "Emit new new event when an event is tracked in Userflow. [See the documentation](https://userflow.com/docs/api)",
+  "type": "source",
+  "version": "0.0.1"
+}

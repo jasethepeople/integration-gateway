@@ -1,0 +1,7 @@
+{
+  "key": "amilia-list-accounts",
+  "name": "List Accounts",
+  "description": "List all (client) accounts in an organization. [See the docs here](https://www.amilia.com/ApiDocs/v3org#GetAccounts)",
+  "type": "action",
+  "version": "0.0.2"
+}

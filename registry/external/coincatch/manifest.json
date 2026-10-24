@@ -1,0 +1,62 @@
+{
+  "app": "coincatch",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "productType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "marginCoin": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "symbol": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pageSize": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "pageNumber": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "startTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "access_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "secret_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "passphrase": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "coincatch-get-candle-data",
+    "coincatch-get-depth",
+    "coincatch-get-history-funding-rate",
+    "coincatch-get-history-orders",
+    "coincatch-get-open-orders",
+    "coincatch-get-position-tier",
+    "coincatch-get-single-account",
+    "coincatch-get-single-symbol-ticker",
+    "coincatch-get-symbol-mark-price",
+    "coincatch-list-symbols"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

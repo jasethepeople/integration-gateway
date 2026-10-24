@@ -1,0 +1,7 @@
+{
+  "key": "trengo-get-help-center",
+  "name": "Get Help Center",
+  "description": "Get a specific help center. [See the documentation](https://developers.trengo.com/reference/get-a-help-center)",
+  "type": "action",
+  "version": "0.0.5"
+}

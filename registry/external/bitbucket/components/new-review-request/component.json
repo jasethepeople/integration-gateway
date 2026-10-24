@@ -1,0 +1,7 @@
+{
+  "key": "bitbucket-new-review-request",
+  "name": "New Review Request (Instant)",
+  "description": "Emit new event when a reviewer is added to a pull request.",
+  "type": "source",
+  "version": "0.0.4"
+}

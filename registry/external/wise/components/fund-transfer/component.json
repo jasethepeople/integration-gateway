@@ -1,0 +1,7 @@
+{
+  "key": "wise-fund-transfer",
+  "name": "Fund Transfer",
+  "description": "Funds a transfer. [See docs here](https://api-docs.transferwise.com/api-reference/transfer#fund)",
+  "type": "action",
+  "version": "0.0.5"
+}

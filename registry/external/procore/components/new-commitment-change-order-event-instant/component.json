@@ -1,0 +1,7 @@
+{
+  "key": "procore-new-commitment-change-order-event-instant",
+  "name": "New Commitment Change Order Event (Instant)",
+  "description": "Emit new event when a new commitment change order event is created. [See the documentation](https://developers.procore.com/reference/rest/hooks?version=latest).",
+  "type": "source",
+  "version": "0.0.1"
+}

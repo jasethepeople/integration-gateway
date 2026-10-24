@@ -1,0 +1,7 @@
+{
+  "key": "recreation_gov-list-campsite-id-options",
+  "name": "List Campsite Id Options",
+  "description": "Retrieves available options for the Campsite Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

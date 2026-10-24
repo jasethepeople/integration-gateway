@@ -1,0 +1,7 @@
+{
+  "key": "cloudtables-update-row",
+  "name": "Update Row",
+  "description": "Update a row in a CloudTable data set",
+  "type": "action",
+  "version": "0.0.2"
+}

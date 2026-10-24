@@ -1,0 +1,7 @@
+{
+  "key": "peerdom-create-role",
+  "name": "Create Role",
+  "description": "Create a new role within a specified circle. [See the documentation](https://api.peerdom.org/v1/docs)",
+  "type": "action",
+  "version": "0.0.2"
+}

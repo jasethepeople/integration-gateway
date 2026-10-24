@@ -1,0 +1,7 @@
+{
+  "key": "paystack-initialize-direct-debit",
+  "name": "Initialize Direct Debit",
+  "description": "Initialize the process of linking an account to a customer for Direct Debit transactions. [See the documentation](https://paystack.com/docs/api/customer/#initialize-direct-debit)",
+  "type": "action",
+  "version": "0.0.1"
+}

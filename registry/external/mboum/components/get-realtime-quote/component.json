@@ -1,0 +1,7 @@
+{
+  "key": "mboum-get-realtime-quote",
+  "name": "Get Realtime Quote",
+  "description": "Get real-time stock quote data including current price, volume, and market data. [See the documentation](https://docs.mboum.com/#stocks-options-small-stylecolor-f8f2f2background-fa256fpadding-1px-4pxborder-radius-3pxhotsmall-GETapi-v1-markets-quote)",
+  "type": "action",
+  "version": "0.0.2"
+}

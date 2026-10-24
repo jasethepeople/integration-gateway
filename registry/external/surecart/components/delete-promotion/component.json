@@ -1,0 +1,7 @@
+{
+  "key": "surecart-delete-promotion",
+  "name": "Delete Promotion",
+  "description": "Delete a promotion by ID. [See the documentation](https://developer.surecart.com/api-reference/promotions/delete)",
+  "type": "action",
+  "version": "0.0.1"
+}

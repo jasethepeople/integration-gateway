@@ -1,0 +1,7 @@
+{
+  "key": "centralstationcrm-create-person",
+  "name": "Create Person",
+  "description": "Creates a new person in CentralStationCRM. [See the documentation](https://api.centralstationcrm.net/api-docs/index.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "mode-get-report",
+  "name": "Get Report",
+  "description": "Retrieve a single report by its token. [See the documentation](https://mode.com/developer/api-reference/analytics/reports/#getReport)",
+  "type": "action",
+  "version": "0.0.1"
+}

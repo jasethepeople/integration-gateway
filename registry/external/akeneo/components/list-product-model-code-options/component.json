@@ -1,0 +1,7 @@
+{
+  "key": "akeneo-list-product-model-code-options",
+  "name": "List Product Model Code Options",
+  "description": "Retrieves available options for the Product Model Code field.",
+  "type": "action",
+  "version": "0.0.1"
+}

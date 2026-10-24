@@ -1,0 +1,7 @@
+{
+  "key": "hansei-get-bot-conversations",
+  "name": "Get Bot Conversations",
+  "description": "Retrieves a list of conversations with the specified Bot in Hansei. [See the documentation](hhttps://developers.hansei.app/operation/operation-getbotconversations)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "change_photos-transform-image",
+  "name": "Transform Image",
+  "description": "Transforms an image with various effects and optimizations. [See the documentation](https://www.change.photos/api-docs)",
+  "type": "action",
+  "version": "0.0.3"
+}

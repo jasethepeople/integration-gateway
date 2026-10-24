@@ -1,0 +1,7 @@
+{
+  "key": "pdffiller-list-fillable-form-id-options",
+  "name": "List Fillable Form ID Options",
+  "description": "Retrieves available options for the Fillable Form ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

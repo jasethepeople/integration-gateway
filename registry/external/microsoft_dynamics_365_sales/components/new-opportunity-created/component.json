@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_dynamics_365_sales-new-opportunity-created",
+  "name": "New Opportunity Created",
+  "description": "Emit new event when a new opportunity is created.",
+  "type": "source",
+  "version": "0.0.6"
+}

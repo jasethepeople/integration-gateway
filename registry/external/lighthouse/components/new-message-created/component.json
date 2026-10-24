@@ -1,0 +1,7 @@
+{
+  "key": "lighthouse-new-message-created",
+  "name": "New Message Created",
+  "description": "Emit new event for each new message created.",
+  "type": "source",
+  "version": "0.0.1"
+}

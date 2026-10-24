@@ -1,0 +1,50 @@
+{
+  "app": "firebase_admin_sdk",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "path": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "collection": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "document": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "data": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "databaseRegion": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "firebase_admin_sdk-create-document",
+    "firebase_admin_sdk-create-realtime-db-record",
+    "firebase_admin_sdk-get-document",
+    "firebase_admin_sdk-list-documents",
+    "firebase_admin_sdk-replicate-event-firestore",
+    "firebase_admin_sdk-update-document",
+    "firebase_admin_sdk-new-child-object",
+    "firebase_admin_sdk-new-doc-in-firestore-collection"
+  ],
+  "npmImports": [
+    "firebase-admin@13.10.0",
+    "google-auth-library@7.14.1",
+    "lodash"
+  ]
+}

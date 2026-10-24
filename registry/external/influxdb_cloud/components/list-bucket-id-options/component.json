@@ -1,0 +1,7 @@
+{
+  "key": "influxdb_cloud-list-bucket-id-options",
+  "name": "List Bucket ID Options",
+  "description": "Retrieves available options for the Bucket ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

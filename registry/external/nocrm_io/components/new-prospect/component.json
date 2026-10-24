@@ -1,0 +1,7 @@
+{
+  "key": "nocrm_io-new-prospect",
+  "name": "New Prospect",
+  "description": "Emit new event on each prospect created.",
+  "type": "source",
+  "version": "0.0.1"
+}

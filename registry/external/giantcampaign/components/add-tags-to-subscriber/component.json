@@ -1,0 +1,7 @@
+{
+  "key": "giantcampaign-add-tags-to-subscriber",
+  "name": "Add Tags to Subscriber",
+  "description": "Add tags to a new subscriber [See the documentation](https://giantcampaign.com/developers/#add-tags-to-subscriber).",
+  "type": "action",
+  "version": "0.0.3"
+}

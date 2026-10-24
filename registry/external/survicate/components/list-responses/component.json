@@ -1,0 +1,7 @@
+{
+  "key": "survicate-list-responses",
+  "name": "List Responses",
+  "description": "Fetches the list of responses for a specific survey identified by its unique ID. [See the documentation](https://developers.survicate.com/data-export/response/)",
+  "type": "action",
+  "version": "0.0.1"
+}

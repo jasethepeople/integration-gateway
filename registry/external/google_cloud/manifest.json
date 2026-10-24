@@ -1,0 +1,57 @@
+{
+  "app": "google_cloud",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "datasetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tableId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "key_json": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "google_cloud-bigquery-insert-rows",
+    "google_cloud-create-bucket",
+    "google_cloud-create-scheduled-query",
+    "google_cloud-delete-object",
+    "google_cloud-generate-signed-url",
+    "google_cloud-get-bucket",
+    "google_cloud-get-object",
+    "google_cloud-list-bucket-name-options",
+    "google_cloud-list-buckets",
+    "google_cloud-list-dataset-id-options",
+    "google_cloud-list-zone-name-options",
+    "google_cloud-logging-delete-log",
+    "google_cloud-logging-list-logs",
+    "google_cloud-logging-list-sinks",
+    "google_cloud-logging-read-log-entries",
+    "google_cloud-logging-write-log",
+    "google_cloud-pubsub-list-topics",
+    "google_cloud-pubsub-publish-message",
+    "google_cloud-run-query",
+    "google_cloud-search-objects",
+    "google_cloud-switch-instance-boot-status",
+    "google_cloud-upload-object",
+    "google_cloud-bigquery-new-row",
+    "google_cloud-bigquery-query-results",
+    "google_cloud-new-pubsub-messages"
+  ],
+  "npmImports": [
+    "@google-cloud/bigquery",
+    "@google-cloud/bigquery-data-transfer",
+    "@google-cloud/compute",
+    "@google-cloud/logging",
+    "@google-cloud/pubsub",
+    "@google-cloud/storage",
+    "crypto",
+    "lodash-es",
+    "uuid"
+  ]
+}

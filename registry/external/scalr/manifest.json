@@ -1,0 +1,25 @@
+{
+  "app": "scalr",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "scalr-list-account-id-options",
+    "scalr-new-run-completed",
+    "scalr-new-run-errored",
+    "scalr-new-run-needs-attention"
+  ]
+}

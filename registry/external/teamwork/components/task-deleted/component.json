@@ -1,0 +1,7 @@
+{
+  "key": "teamwork-task-deleted",
+  "name": "New Task Deleted (Instant)",
+  "description": "Emit new event when a new task is deleted",
+  "type": "source",
+  "version": "0.0.3"
+}

@@ -1,0 +1,90 @@
+{
+  "app": "search_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "q": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dataType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "time": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "device": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "size": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "color": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timePeriod": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "hl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "gl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobsGl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "location": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "locationsLimit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "nextPageToken": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "geo": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cat": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "num": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "search_api-google-images",
+    "search_api-google-jobs",
+    "search_api-google-search",
+    "search_api-google-trends",
+    "search_api-list-locations"
+  ]
+}

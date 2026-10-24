@@ -1,0 +1,7 @@
+{
+  "key": "better_stack-acknowledge-incident",
+  "name": "Acknowledge Incident",
+  "description": "Acknowledges an incident, marking it as acknowledged in Better Stack. [See the documentation](https://betterstack.com/docs/uptime/api/acknowledge-an-ongoing-incident/)",
+  "type": "action",
+  "version": "0.0.2"
+}

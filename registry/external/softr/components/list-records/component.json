@@ -1,0 +1,7 @@
+{
+  "key": "softr-list-records",
+  "name": "List Records",
+  "description": "Retrieve a list of all records in a table. [See the documentation](https://docs.softr.io/softr-api/softr-database-api/records/get-records)",
+  "type": "action",
+  "version": "0.0.1"
+}

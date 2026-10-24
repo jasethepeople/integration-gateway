@@ -1,0 +1,7 @@
+{
+  "key": "bouncer-verify-email",
+  "name": "Verify Email",
+  "description": "Verify an email. [See the documentation](https://docs.usebouncer.com/#d253aed7-e0aa-4d09-82c2-0352cc109477)",
+  "type": "action",
+  "version": "0.0.2"
+}

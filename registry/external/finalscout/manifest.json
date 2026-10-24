@@ -1,0 +1,29 @@
+{
+  "app": "finalscout",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "webhookUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "metadata": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "finalscout-find-email-linkedin",
+    "finalscout-find-email-news-article",
+    "finalscout-find-email-professional",
+    "finalscout-get-single-task"
+  ]
+}

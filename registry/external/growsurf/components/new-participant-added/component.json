@@ -1,0 +1,7 @@
+{
+  "key": "growsurf-new-participant-added",
+  "name": "New Participant Added",
+  "description": "Emit new event when a new participant is added to a campaign. [See the documentation](https://docs.growsurf.com/developer-tools/rest-api/api-reference#get-participants)",
+  "type": "source",
+  "version": "0.0.1"
+}

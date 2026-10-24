@@ -1,0 +1,7 @@
+{
+  "key": "lightspeed_vt-list-location-id-options",
+  "name": "List Location Id Options",
+  "description": "Retrieves available options for the Location Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

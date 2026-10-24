@@ -1,0 +1,7 @@
+{
+  "key": "renderform-new-render-result",
+  "name": "New Render Result",
+  "description": "Emit new event when a new render result is ready in RenderForm.",
+  "type": "source",
+  "version": "0.0.1"
+}

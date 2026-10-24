@@ -1,0 +1,7 @@
+{
+  "key": "offorte-list-users",
+  "name": "List Users",
+  "description": "List all users in Offorte. [See the documentation](https://www.offorte.com/api-docs/api#tag/Account/operation/usersList)",
+  "type": "action",
+  "version": "0.0.2"
+}

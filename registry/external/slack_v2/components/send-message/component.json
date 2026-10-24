@@ -1,0 +1,7 @@
+{
+  "key": "slack_v2-send-message",
+  "name": "Send Message",
+  "description": "Send a message to a user, group, private channel or public channel.",
+  "type": "action",
+  "version": "1.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "bannerbear-create-image",
+  "name": "Create an Image",
+  "description": "Create an image using template and modifications. [See the docs](https://developers.bannerbear.com/#post-v2-images)",
+  "type": "action",
+  "version": "0.0.4"
+}

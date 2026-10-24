@@ -1,0 +1,7 @@
+{
+  "key": "jo4-create-short-url",
+  "name": "Create Short URL",
+  "description": "Create a new shortened URL. [See the documentation](https://jo4.io/docs)",
+  "type": "action",
+  "version": "0.0.2"
+}

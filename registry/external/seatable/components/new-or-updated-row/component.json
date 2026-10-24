@@ -1,0 +1,7 @@
+{
+  "key": "seatable-new-or-updated-row",
+  "name": "New or Updated Row (Instant)",
+  "description": "Emit new event when a row is added or updated in a table.",
+  "type": "source",
+  "version": "0.0.1"
+}

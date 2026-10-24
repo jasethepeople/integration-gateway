@@ -1,0 +1,7 @@
+{
+  "key": "deel-create-shift-rate",
+  "name": "Create Shift Rate",
+  "description": "Create a named shift rate for GP (Global Payroll) time tracking in Deel.",
+  "type": "action",
+  "version": "0.0.2"
+}

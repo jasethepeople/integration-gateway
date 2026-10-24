@@ -1,0 +1,7 @@
+{
+  "key": "docsumo-list-document-type-options",
+  "name": "List Document Type Options",
+  "description": "Retrieves available options for the Document Type field.",
+  "type": "action",
+  "version": "0.0.1"
+}

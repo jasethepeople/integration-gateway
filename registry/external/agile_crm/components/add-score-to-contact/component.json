@@ -1,0 +1,7 @@
+{
+  "key": "agile_crm-add-score-to-contact",
+  "name": "Add Score to Contact",
+  "description": "Used to change the score of a contact. [See the documentation](https://github.com/agilecrm/rest-api#15-update-lead-score-by-id)",
+  "type": "action",
+  "version": "0.0.2"
+}

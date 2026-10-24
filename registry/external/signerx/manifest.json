@@ -1,0 +1,26 @@
+{
+  "app": "signerx",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "packageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "signerx-list-package-id-options",
+    "signerx-send-template-signatures",
+    "signerx-upload-package",
+    "signerx-new-package-created",
+    "signerx-new-package-published",
+    "signerx-new-package-signed"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "meistertask-get-attachment",
+  "name": "Get Attachment",
+  "description": "Retrieves information about an attachment. [See the docs](https://developers.meistertask.com/reference/get-attachment)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "beekeeper-list-stream-id-options",
+  "name": "List Stream ID Options",
+  "description": "Retrieves available options for the Stream ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

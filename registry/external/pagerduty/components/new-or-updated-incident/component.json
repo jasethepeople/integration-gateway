@@ -1,0 +1,7 @@
+{
+  "key": "pagerduty-new-or-updated-incident",
+  "name": "New or Updated Incident",
+  "description": "Emit new event each time an incident is created or updated",
+  "type": "source",
+  "version": "0.1.2"
+}

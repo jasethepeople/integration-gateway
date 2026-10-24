@@ -1,0 +1,7 @@
+{
+  "key": "teamleader_focus-create-deal",
+  "name": "Create Deal",
+  "description": "Add a new deal. [See the documentation](https://developer.teamleader.eu/#/reference/deals/deals/deals.create)",
+  "type": "action",
+  "version": "0.1.3"
+}

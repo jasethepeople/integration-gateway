@@ -1,0 +1,7 @@
+{
+  "key": "weaviate-create-class",
+  "name": "Create Class",
+  "description": "Create a new class in Weaviate. [See the documentation](https://docs.weaviate.io/weaviate/api/rest#tag/schema/post/schema)",
+  "type": "action",
+  "version": "0.0.2"
+}

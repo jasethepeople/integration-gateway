@@ -1,0 +1,7 @@
+{
+  "key": "streamtime-update-to-do",
+  "name": "Update To-Do",
+  "description": "Update an existing To Do in Streamtime. [See the documentation](https://documenter.getpostman.com/view/802974/RWgtSwbn?version=latest#5fb593b9-a83c-4e01-8206-5a56f005825a).",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "deputy-new-timesheet-saved",
+  "name": "New Timesheet Saved (Instant)",
+  "description": "Emit new event when a new timesheet has been saved",
+  "type": "source",
+  "version": "0.0.1"
+}

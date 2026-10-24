@@ -1,0 +1,7 @@
+{
+  "key": "moxie-create-client",
+  "name": "Create Client",
+  "description": "Create a new client. [See the documentation](https://help.withmoxie.com/en/articles/8160175-create-client)",
+  "type": "action",
+  "version": "0.0.2"
+}

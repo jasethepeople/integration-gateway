@@ -1,0 +1,43 @@
+{
+  "app": "slab",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "postId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "topicId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "first": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "after": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "slab-add-topic-to-post",
+    "slab-create-post",
+    "slab-get-posts",
+    "slab-list-posts",
+    "slab-list-topics",
+    "slab-list-users",
+    "slab-remove-topic-from-post",
+    "slab-search-posts",
+    "slab-update-post-content",
+    "slab-update-post"
+  ]
+}

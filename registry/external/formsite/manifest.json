@@ -1,0 +1,22 @@
+{
+  "app": "formsite",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "formDir": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "formsite-list-form-dir-options",
+    "formsite-new-form-result-instant"
+  ],
+  "npmImports": [
+    "qs"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "screendesk-list-uuid-options",
+  "name": "List UUID Options",
+  "description": "Retrieves available options for the UUID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

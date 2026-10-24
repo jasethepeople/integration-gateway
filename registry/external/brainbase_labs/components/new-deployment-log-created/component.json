@@ -1,0 +1,7 @@
+{
+  "key": "brainbase_labs-new-deployment-log-created",
+  "name": "New Deployment Log Created",
+  "description": "Emit new event when a new deployment log is created. [See the documentation](https://docs.usebrainbase.com/api-reference/voice-deployment-logs/list-voice-deployment-logs-for-a-worker-with-optional-filtering-and-pagination)",
+  "type": "source",
+  "version": "0.0.1"
+}

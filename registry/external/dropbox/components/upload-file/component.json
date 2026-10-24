@@ -1,0 +1,7 @@
+{
+  "key": "dropbox-upload-file",
+  "name": "Upload a File",
+  "description": "Uploads a file to a selected folder. [See the documentation](https://dropbox.github.io/dropbox-sdk-js/Dropbox.html#filesUpload__anchor)",
+  "type": "action",
+  "version": "1.0.5"
+}

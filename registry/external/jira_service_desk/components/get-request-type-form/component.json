@@ -1,0 +1,7 @@
+{
+  "key": "jira_service_desk-get-request-type-form",
+  "name": "Get Request Type Form",
+  "description": "Gets the form attached to a request type, so you can ask the user each question and pass their answers in the `form` argument of **Create Request**.",
+  "type": "action",
+  "version": "0.0.1"
+}

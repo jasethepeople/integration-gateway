@@ -1,0 +1,7 @@
+{
+  "key": "keboola-retrieve-buckets",
+  "name": "Retrieve Buckets",
+  "description": "Lists all buckets in your Keboola project. [See the documentation](https://keboola.docs.apiary.io/#reference/buckets/create-or-list-buckets/list-all-buckets)",
+  "type": "action",
+  "version": "0.0.2"
+}

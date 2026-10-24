@@ -1,0 +1,7 @@
+{
+  "key": "elastic_email-list-list-names-options",
+  "name": "List List Names Options",
+  "description": "Retrieves available options for the List Names field.",
+  "type": "action",
+  "version": "0.0.1"
+}

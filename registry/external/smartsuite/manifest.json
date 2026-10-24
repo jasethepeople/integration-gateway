@@ -1,0 +1,35 @@
+{
+  "app": "smartsuite",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "tableId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fieldIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "solutionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "account_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "smartsuite-create-record",
+    "smartsuite-find-records",
+    "smartsuite-list-solution-id-options",
+    "smartsuite-list-table-id-options",
+    "smartsuite-new-record-created-instant",
+    "smartsuite-record-updated-instant"
+  ]
+}

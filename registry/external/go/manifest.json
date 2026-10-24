@@ -1,0 +1,9 @@
+{
+  "app": "go",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "go-run-go-code"
+  ]
+}

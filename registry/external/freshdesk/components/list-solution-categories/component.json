@@ -1,0 +1,7 @@
+{
+  "key": "freshdesk-list-solution-categories",
+  "name": "List Solution Categories",
+  "description": "List solution categories in Freshdesk. [See the documentation](https://developers.freshdesk.com/api/#solution_category_attributes)",
+  "type": "action",
+  "version": "0.0.10"
+}

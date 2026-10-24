@@ -1,0 +1,63 @@
+{
+  "app": "procore",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "companyId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "resourceName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eventTypes": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "locationId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "rfiPotentialManagerId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "potentialAssigneeId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "procore-create-incident",
+    "procore-create-manpower-log",
+    "procore-create-rfi",
+    "procore-create-submittal",
+    "procore-create-timesheet",
+    "procore-list-company-id-options",
+    "procore-new-budget-snapshot-event-instant",
+    "procore-new-change-order-package-event-instant",
+    "procore-new-commitment-change-order-event-instant",
+    "procore-new-event-instant",
+    "procore-new-prime-contract-event-instant",
+    "procore-new-purchase-order-event-instant",
+    "procore-new-rfi-event-instant",
+    "procore-new-submittal-event-instant",
+    "procore-new-timecard-entry-event-instant"
+  ],
+  "npmImports": [
+    "uuid"
+  ]
+}

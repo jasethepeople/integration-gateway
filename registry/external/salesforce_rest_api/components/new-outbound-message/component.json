@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-new-outbound-message",
+  "name": "New Outbound Message (Instant)",
+  "description": "Emit new event when a new outbound message is received in Salesforce. [See the documentation](https://developer.salesforce.com/docs/atlas.en-us.api.meta/api/sforce_api_om_outboundmessaging_notifications.htm)",
+  "type": "source",
+  "version": "1.0.0"
+}

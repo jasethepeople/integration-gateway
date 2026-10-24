@@ -1,0 +1,66 @@
+{
+  "app": "baremetrics",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "notes": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startedAt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "currency": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "amount": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "interval": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "intervalCount": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sourceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerOid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "planOid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "baremetrics-create-customer",
+    "baremetrics-create-plan",
+    "baremetrics-create-subscription",
+    "baremetrics-list-source-id-options",
+    "baremetrics-update-customer"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "app": "ashby_job_postings_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "includeCompensation": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "jobUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ashby_job_postings_api-get-job-posting",
+    "ashby_job_postings_api-list-job-postings"
+  ]
+}

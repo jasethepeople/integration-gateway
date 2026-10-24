@@ -1,0 +1,7 @@
+{
+  "key": "pointagram-list-players",
+  "name": "List Players",
+  "description": "List all players. [See the docs here](https://www.pointagram.com/custom-integration-gamification/)",
+  "type": "action",
+  "version": "0.1.2"
+}

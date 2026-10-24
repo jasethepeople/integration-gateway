@@ -1,0 +1,7 @@
+{
+  "key": "token_metrics-get-ai-reports",
+  "name": "Get AI Reports",
+  "description": "Select Token IDs to get AI reports for. Example: `37493,3484`",
+  "type": "action",
+  "version": "0.1.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "newsman-create-subscriber",
+  "name": "Create Subscriber",
+  "description": "Create a new subscriber in Newsman. [See the documentation](https://kb.newsman.com/api/1.2/subscriber.saveSubscribe)",
+  "type": "action",
+  "version": "0.0.1"
+}

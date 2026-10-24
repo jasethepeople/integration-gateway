@@ -1,0 +1,7 @@
+{
+  "key": "codex-get-token-events",
+  "name": "Get Token Events",
+  "description": "Returns on-chain trading events (swaps, mints, burns) for a token or pair address.",
+  "type": "action",
+  "version": "0.0.2"
+}

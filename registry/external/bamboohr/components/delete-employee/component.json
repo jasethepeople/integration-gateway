@@ -1,0 +1,7 @@
+{
+  "key": "bamboohr-delete-employee",
+  "name": "Delete Employee",
+  "description": "Permanently delete an employee record and all associated data. This cannot be undone. Use **Get Employees Directory** or **Get Employee** to find the employee ID first. [See the documentation](https://documentation.bamboohr.com/reference/delete-employee)",
+  "type": "action",
+  "version": "0.0.1"
+}

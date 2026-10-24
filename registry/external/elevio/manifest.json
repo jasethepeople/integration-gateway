@@ -1,0 +1,64 @@
+{
+  "app": "elevio",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "articleId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "restriction": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "discoverable": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "isInternal": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "notes": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "body": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "categoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "externalId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "keywords": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    }
+  },
+  "categories": [],
+  "components": [
+    "elevio-create-article",
+    "elevio-delete-article",
+    "elevio-list-article-id-options",
+    "elevio-list-category-id-options",
+    "elevio-update-article",
+    "elevio-new-article-created",
+    "elevio-new-feedback-created"
+  ]
+}

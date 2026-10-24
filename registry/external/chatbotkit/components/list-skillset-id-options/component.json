@@ -1,0 +1,7 @@
+{
+  "key": "chatbotkit-list-skillset-id-options",
+  "name": "List Skillset ID Options",
+  "description": "Retrieves available options for the Skillset ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

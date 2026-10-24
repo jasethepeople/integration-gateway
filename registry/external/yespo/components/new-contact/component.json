@@ -1,0 +1,7 @@
+{
+  "key": "yespo-new-contact",
+  "name": "New Contact Added to Yespo",
+  "description": "Emit new event when a new contact is added to Yespo.",
+  "type": "source",
+  "version": "0.0.1"
+}

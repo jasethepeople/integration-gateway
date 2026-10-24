@@ -1,0 +1,7 @@
+{
+  "key": "dust-talk-assistant",
+  "name": "Talk to Assistant",
+  "description": "Send a message to an assistant on Dust and receive an answer. [See the documentation](https://docs.dust.tt/reference/post_api-v1-w-wid-assistant-conversations-cid-messages)",
+  "type": "action",
+  "version": "0.0.2"
+}

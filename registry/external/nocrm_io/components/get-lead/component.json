@@ -1,0 +1,7 @@
+{
+  "key": "nocrm_io-get-lead",
+  "name": "Get Lead",
+  "description": "Get a lead. [See docs here](https://www.nocrm.io/api#leads)",
+  "type": "action",
+  "version": "0.0.2"
+}

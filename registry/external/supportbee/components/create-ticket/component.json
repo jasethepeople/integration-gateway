@@ -1,0 +1,7 @@
+{
+  "key": "supportbee-create-ticket",
+  "name": "Create Ticket",
+  "description": "Creates a client. [See docs here](https://supportbee.com/api#create_ticket)",
+  "type": "action",
+  "version": "0.0.2"
+}

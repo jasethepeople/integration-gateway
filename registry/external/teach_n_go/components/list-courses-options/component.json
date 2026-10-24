@@ -1,0 +1,7 @@
+{
+  "key": "teach_n_go-list-courses-options",
+  "name": "List Courses Options",
+  "description": "Retrieves available options for the Courses field.",
+  "type": "action",
+  "version": "0.0.1"
+}

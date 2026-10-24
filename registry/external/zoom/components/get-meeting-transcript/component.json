@@ -1,0 +1,7 @@
+{
+  "key": "zoom-get-meeting-transcript",
+  "name": "Get Meeting Transcript",
+  "description": "Get the transcript of a past meeting.",
+  "type": "action",
+  "version": "0.2.0"
+}

@@ -1,0 +1,26 @@
+{
+  "app": "agrello",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "folderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "documentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "agrello-get-document",
+    "agrello-list-folder-id-options",
+    "agrello-new-document",
+    "agrello-new-signature-instant",
+    "agrello-new-signed-document-instant"
+  ]
+}

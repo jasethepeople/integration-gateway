@@ -1,0 +1,7 @@
+{
+  "key": "zoho_books-list-currency-id-options",
+  "name": "List Currency Id Options",
+  "description": "Retrieves available options for the Currency Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

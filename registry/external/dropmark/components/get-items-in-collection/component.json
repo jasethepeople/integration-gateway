@@ -1,0 +1,7 @@
+{
+  "key": "dropmark-get-items-in-collection",
+  "name": "Get Items in Collection",
+  "description": "Retrieves a list of items in a specific collection. [See the documentation](https://support.dropmark.com/article/96-api)",
+  "type": "action",
+  "version": "0.0.2"
+}

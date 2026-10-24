@@ -1,0 +1,7 @@
+{
+  "key": "kingsumo-list-contestants",
+  "name": "List Contestants",
+  "description": "List contestants for specified giveaway. [See the documentation](https://kingsumo.com/account/oauth)",
+  "type": "action",
+  "version": "0.0.2"
+}

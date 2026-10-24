@@ -1,0 +1,7 @@
+{
+  "key": "rendex-list-watch-runs",
+  "name": "List Watch Runs",
+  "description": "List the run history for a watch (most recent first). [See the documentation](https://rendex.dev/docs/watch#reading-run-history).",
+  "type": "action",
+  "version": "0.0.1"
+}

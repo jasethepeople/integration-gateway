@@ -1,0 +1,7 @@
+{
+  "key": "omnisend-new-order-completed",
+  "name": "New Order Completed",
+  "description": "Emit new event for each new completed order in Omnisend.",
+  "type": "source",
+  "version": "0.0.1"
+}

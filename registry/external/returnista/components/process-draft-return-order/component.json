@@ -1,0 +1,7 @@
+{
+  "key": "returnista-process-draft-return-order",
+  "name": "Process Draft Return Order",
+  "description": "Accepts or rejects a draft return order.",
+  "type": "action",
+  "version": "0.0.2"
+}

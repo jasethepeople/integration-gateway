@@ -1,0 +1,7 @@
+{
+  "key": "spotify-list-playlist-id-options",
+  "name": "List Playlist ID Options",
+  "description": "List playlists owned or followed by the current user, as `{ label, value }` options where `value` is the playlist ID (e.g. `3cEYpjA9oz9GiPac4AsH4n`).",
+  "type": "action",
+  "version": "0.0.4"
+}

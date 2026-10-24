@@ -1,0 +1,7 @@
+{
+  "key": "launchdarkly-list-projects",
+  "name": "List Projects",
+  "description": "List all projects. [See the documentation](https://launchdarkly.com/docs/api/projects/get-projects).",
+  "type": "action",
+  "version": "0.0.3"
+}

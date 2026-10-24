@@ -1,0 +1,7 @@
+{
+  "key": "teamgate-update-deal",
+  "name": "Update Deal",
+  "description": "Update a specific deal. [See the docs here](https://developers.teamgate.com/#fe590427-fcb9-4689-9671-7d3daa235b1a)",
+  "type": "action",
+  "version": "0.0.2"
+}

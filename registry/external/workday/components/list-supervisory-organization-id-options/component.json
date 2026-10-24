@@ -1,0 +1,7 @@
+{
+  "key": "workday-list-supervisory-organization-id-options",
+  "name": "List Supervisory Organization ID Options",
+  "description": "Retrieves available options for the Supervisory Organization ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

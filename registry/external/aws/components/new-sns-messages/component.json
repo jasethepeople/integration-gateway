@@ -1,0 +1,7 @@
+{
+  "key": "aws-new-sns-messages",
+  "name": "New SNS Messages",
+  "description": "",
+  "type": "source",
+  "version": "0.4.3"
+}

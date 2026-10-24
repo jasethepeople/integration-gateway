@@ -1,0 +1,19 @@
+{
+  "app": "wistia",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "wistia-list-project-id-options",
+    "wistia-upload-media",
+    "wistia-new-project",
+    "wistia-new-video",
+    "wistia-new-viewing-session",
+    "wistia-new-visitor"
+  ]
+}

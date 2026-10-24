@@ -1,0 +1,7 @@
+{
+  "key": "pitchlane-new-video-rendered",
+  "name": "New Video Rendered (Instant)",
+  "description": "Emit new event when a video is rendered in Pitchlane. [See the documentation](https://docs.pitchlane.com/reference#tag/webhooks/POST/webhooks)",
+  "type": "source",
+  "version": "0.0.1"
+}

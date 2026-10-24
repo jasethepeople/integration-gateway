@@ -1,0 +1,7 @@
+{
+  "key": "smoove-find-or-create-subscriber",
+  "name": "Find Or Create Subscriber",
+  "description": "Checks if a contact exists in your account otherwise will create a contact. [See the docs](https://rest.smoove.io/#!/Contacts/Contacts_Exists).",
+  "type": "action",
+  "version": "0.0.2"
+}

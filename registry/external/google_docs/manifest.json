@@ -1,0 +1,114 @@
+{
+  "app": "google_docs",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "fields": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "documentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "position": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "documentFolderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "imageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tabId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "imageUri": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "text": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "appendAtBeginning": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "matchCase": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "findText": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "occurrence": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startIndex": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "endIndex": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "styleTabId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contentTabId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "replacementFormat": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "google_docs-append-text",
+    "google_docs-apply-bullets",
+    "google_docs-create-document-from-template",
+    "google_docs-create-document",
+    "google_docs-create-tab",
+    "google_docs-delete-table",
+    "google_docs-export-document",
+    "google_docs-find-document",
+    "google_docs-format-paragraph",
+    "google_docs-format-table-cell",
+    "google_docs-format-text",
+    "google_docs-get-document",
+    "google_docs-get-profile",
+    "google_docs-insert-image",
+    "google_docs-insert-page-break",
+    "google_docs-insert-table",
+    "google_docs-insert-text",
+    "google_docs-list-comments",
+    "google_docs-list-tabs",
+    "google_docs-remove-bullets",
+    "google_docs-replace-image",
+    "google_docs-replace-text",
+    "google_docs-set-table-column-width",
+    "google_docs-write-table",
+    "google_docs-new-document-created",
+    "google_docs-new-or-updated-document"
+  ],
+  "npmImports": [
+    "@googleapis/docs",
+    "fs",
+    "markdown-it",
+    "stream",
+    "util"
+  ]
+}

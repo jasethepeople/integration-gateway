@@ -1,0 +1,7 @@
+{
+  "key": "simplero-subscribe-to-list",
+  "name": "Subscribe To List",
+  "description": "Subscribe a contact to a list. [See the documentation](https://github.com/Simplero/Simplero-API?tab=readme-ov-file#subscribe-to-list)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "superdocu-new-event",
+  "name": "New Event",
+  "description": "Emit new events from Superdocu. You can configure your webhook [here](https://www.superdocu.com/en/c/settings/api)",
+  "type": "source",
+  "version": "0.0.2"
+}

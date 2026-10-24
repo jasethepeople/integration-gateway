@@ -1,0 +1,7 @@
+{
+  "key": "hana-search-report-group-messages",
+  "name": "Search Report Group Messages",
+  "description": "Search for report group messages. [See the documentation](https://docs.hanabot.ai/docs/tutorial-connectors/hana-api#get-report-group-messages)",
+  "type": "action",
+  "version": "0.0.1"
+}

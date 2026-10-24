@@ -1,0 +1,7 @@
+{
+  "key": "workbooks_crm-posted-credit-note",
+  "name": "New Posted Credit Note (Instant)",
+  "description": "Emit new event when a new credit note is posted.",
+  "type": "source",
+  "version": "0.0.1"
+}

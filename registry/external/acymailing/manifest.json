@@ -1,0 +1,33 @@
+{
+  "app": "acymailing",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "listIds": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "emails": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "acymailing-add-update-user",
+    "acymailing-email-user",
+    "acymailing-list-emails-options",
+    "acymailing-list-list-ids-options",
+    "acymailing-subscribe-user",
+    "acymailing-new-confirmed-user",
+    "acymailing-new-subscribed-user",
+    "acymailing-new-unsubscribed-user"
+  ]
+}

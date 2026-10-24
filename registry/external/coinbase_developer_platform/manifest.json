@@ -1,0 +1,30 @@
+{
+  "app": "coinbase_developer_platform",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "walletAddress": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "networkId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "secret_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "coinbase_developer_platform-list-network-id-options",
+    "coinbase_developer_platform-new-wallet-event"
+  ],
+  "npmImports": [
+    "@coinbase/coinbase-sdk"
+  ]
+}

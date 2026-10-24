@@ -1,0 +1,7 @@
+{
+  "key": "webvizio-project-updated",
+  "name": "Project Updated",
+  "description": "Emit new event when a project is updated. [See the documentation](https://webvizio.com/help-center/outgoing-webhooks/)",
+  "type": "source",
+  "version": "0.0.1"
+}

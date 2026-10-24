@@ -1,0 +1,7 @@
+{
+  "key": "seven-new-incoming-call-instant",
+  "name": "New Incoming Call (Instant)",
+  "description": "Emit new event when a voice call occurs. [See the documentation](https://docs.seven.io/en/rest-api/endpoints/webhooks#register-webhook)",
+  "type": "source",
+  "version": "0.0.1"
+}

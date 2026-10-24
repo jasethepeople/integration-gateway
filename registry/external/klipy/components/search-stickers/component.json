@@ -1,0 +1,7 @@
+{
+  "key": "klipy-search-stickers",
+  "name": "Search Stickers",
+  "description": "Search and retrieve stickers from Klipy's database. [See the documentation](https://docs.klipy.com/stickers-api/stickers-search-api).",
+  "type": "action",
+  "version": "0.0.2"
+}

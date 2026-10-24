@@ -1,0 +1,97 @@
+{
+  "app": "venly",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "symbol": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "image": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "externalUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "media": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "owner": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "autoApprovedAddressesLocked": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "storageType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "storageLocation": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "chain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contractId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "fungible": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "burnable": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "backgroundColor": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxSupply": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "animationUrls": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "attributes": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "destinations": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "service_environment": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "venly-create-contract",
+    "venly-create-mint-nft",
+    "venly-list-chain-options",
+    "venly-list-contract-id-options"
+  ]
+}

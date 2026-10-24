@@ -1,0 +1,7 @@
+{
+  "key": "pdf_api_io-get-template",
+  "name": "Get Template",
+  "description": "Get a template by its ID. [See the documentation](https://pdf-api.io/en/docs/api/get-template)",
+  "type": "action",
+  "version": "0.0.1"
+}

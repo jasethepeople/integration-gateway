@@ -1,0 +1,7 @@
+{
+  "key": "dart-new-doc-updated",
+  "name": "New Document Updated",
+  "description": "Emit new event when any document is updated.",
+  "type": "source",
+  "version": "0.0.3"
+}

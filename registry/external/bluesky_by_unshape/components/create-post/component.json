@@ -1,0 +1,7 @@
+{
+  "key": "bluesky_by_unshape-create-post",
+  "name": "Create Post",
+  "description": "Creates a new post in Bluesky. [See the documentation](https://unshape.readme.io/reference/post_bluesky-create-post)",
+  "type": "action",
+  "version": "0.0.2"
+}

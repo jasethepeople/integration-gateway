@@ -1,0 +1,7 @@
+{
+  "key": "x_ai-post-completion",
+  "name": "Post Completion",
+  "description": "Create a language model response for a given prompt. [See the documentation](https://docs.x.ai/api/endpoints#completions)",
+  "type": "action",
+  "version": "0.0.3"
+}

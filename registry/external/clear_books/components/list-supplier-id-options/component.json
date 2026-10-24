@@ -1,0 +1,7 @@
+{
+  "key": "clear_books-list-supplier-id-options",
+  "name": "List Supplier ID Options",
+  "description": "Retrieves available options for the Supplier ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

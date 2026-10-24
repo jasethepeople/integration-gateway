@@ -1,0 +1,7 @@
+{
+  "key": "instantly-new-background-job-completed",
+  "name": "New Background Job Completed",
+  "description": "Emit new event when a new background job has completed. [See the documentation](https://developer.instantly.ai/api/v2/backgroundjob/listbackgroundjob)",
+  "type": "source",
+  "version": "0.0.1"
+}

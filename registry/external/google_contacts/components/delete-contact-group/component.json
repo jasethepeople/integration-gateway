@@ -1,0 +1,7 @@
+{
+  "key": "google_contacts-delete-contact-group",
+  "name": "Delete Contact Group",
+  "description": "Deletes an existing contact group. [See the documentation](https://developers.google.com/people/api/rest/v1/contactGroups/delete)",
+  "type": "action",
+  "version": "0.0.2"
+}

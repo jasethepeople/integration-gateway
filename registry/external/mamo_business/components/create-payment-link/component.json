@@ -1,0 +1,7 @@
+{
+  "key": "mamo_business-create-payment-link",
+  "name": "Create Payment Link",
+  "description": "Generate a vanilla or subscription payment link. [See the documentation](https://mamopay.readme.io/reference/post_links)",
+  "type": "action",
+  "version": "0.0.2"
+}

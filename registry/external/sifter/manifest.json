@@ -1,0 +1,23 @@
+{
+  "app": "sifter",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "account_subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "access_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sifter-list-project-id-options",
+    "sifter-new-issue"
+  ]
+}

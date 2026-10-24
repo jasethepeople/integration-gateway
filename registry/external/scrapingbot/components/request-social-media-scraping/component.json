@@ -1,0 +1,7 @@
+{
+  "key": "scrapingbot-request-social-media-scraping",
+  "name": "Request Social Media Scraping",
+  "description": "Use ScrapingBot API to initiate scraping data from a social media site. [See the documentation](https://www.scraping-bot.io/web-scraping-documentation/)",
+  "type": "action",
+  "version": "0.0.2"
+}

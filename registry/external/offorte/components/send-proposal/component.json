@@ -1,0 +1,7 @@
+{
+  "key": "offorte-send-proposal",
+  "name": "Send Proposal",
+  "description": "Send a proposal in Offorte. [See the documentation](https://www.offorte.com/api-docs/api#tag/Proposals/operation/sendProposal)",
+  "type": "action",
+  "version": "0.0.2"
+}

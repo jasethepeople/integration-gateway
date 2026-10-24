@@ -1,0 +1,7 @@
+{
+  "key": "redmine-issue-created",
+  "name": "New Issue Created",
+  "description": "Emit new event when a new issue is created in Redmine",
+  "type": "source",
+  "version": "0.0.1"
+}

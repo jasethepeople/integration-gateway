@@ -1,0 +1,7 @@
+{
+  "key": "evernote-list-tag-guids-options",
+  "name": "List Tag IDs Options",
+  "description": "Retrieves available options for the Tag IDs field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,20 @@
+{
+  "app": "more_trees_",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "treeTypeSlug": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "public_validation_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "more_trees_-get-carbon-offset",
+    "more_trees_-list-tree-type-slug-options",
+    "more_trees_-plant-tree"
+  ]
+}

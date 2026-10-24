@@ -1,0 +1,13 @@
+{
+  "app": "memberful",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "memberful-new-webhook-event"
+  ],
+  "npmImports": [
+    "crypto",
+    "uuid"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "app": "microsofttodo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskListId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dueDateTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "reminderDateTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "isReminderOn": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "importance": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timeZone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "microsofttodo-create-list",
+    "microsofttodo-create-task",
+    "microsofttodo-list-task-lists",
+    "microsofttodo-list-tasks",
+    "microsofttodo-list-time-zone-options",
+    "microsofttodo-update-task",
+    "microsofttodo-new-list-created",
+    "microsofttodo-new-task-created"
+  ]
+}

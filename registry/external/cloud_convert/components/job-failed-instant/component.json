@@ -1,0 +1,7 @@
+{
+  "key": "cloud_convert-job-failed-instant",
+  "name": "Job Failed (Instant)",
+  "description": "Emit new event when a CloudConvert job has failed. [See the documentation](https://cloudconvert.com/api/v2/webhooks#webhooks-events)",
+  "type": "source",
+  "version": "0.0.1"
+}

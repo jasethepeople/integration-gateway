@@ -1,0 +1,7 @@
+{
+  "key": "albus-ask-question",
+  "name": "Ask Question",
+  "description": "Ask a question to Albus and receive a response.",
+  "type": "action",
+  "version": "0.0.2"
+}

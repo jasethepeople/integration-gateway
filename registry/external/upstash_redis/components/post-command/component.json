@@ -1,0 +1,7 @@
+{
+  "key": "upstash_redis-post-command",
+  "name": "Post Command",
+  "description": "Post a command to a Redis database. [See the documentation](https://upstash.com/docs/redis/features/restapi#post-command-in-body)",
+  "type": "action",
+  "version": "0.0.2"
+}

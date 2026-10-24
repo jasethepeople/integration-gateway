@@ -1,0 +1,7 @@
+{
+  "key": "securitytrails-get-domain-details",
+  "name": "Get Domain Details",
+  "description": "Returns the current data about the given hostname. [See the documentation](https://docs.securitytrails.com/reference/domain-details)",
+  "type": "action",
+  "version": "0.0.2"
+}

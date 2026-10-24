@@ -1,0 +1,44 @@
+{
+  "app": "zulip",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "channelId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "topic": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "content": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "email": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zulip-list-channel-id-options",
+    "zulip-list-user-id-options",
+    "zulip-send-message"
+  ]
+}

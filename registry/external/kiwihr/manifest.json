@@ -1,0 +1,116 @@
+{
+  "app": "kiwihr",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workPhones": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "employmentStartDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "aboutMe": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "gender": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "managerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "nationality": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "teamIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "positionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "locationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "birthDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "personalPhone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "personalEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "addressStreet": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "addressCity": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "addressState": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "addressPostalCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "addressCountry": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pronouns": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "employeeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "kiwihr-create-employee",
+    "kiwihr-list-employee-id-options",
+    "kiwihr-list-location-id-options",
+    "kiwihr-list-manager-id-options",
+    "kiwihr-list-position-id-options",
+    "kiwihr-list-team-ids-options",
+    "kiwihr-update-employee-record",
+    "kiwihr-new-employee"
+  ],
+  "npmImports": [
+    "graphql-request"
+  ]
+}

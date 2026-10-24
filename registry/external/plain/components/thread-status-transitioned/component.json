@@ -1,0 +1,7 @@
+{
+  "key": "plain-thread-status-transitioned",
+  "name": "Thread Status Changed",
+  "description": "Emit new event when a thread's status is transitioned.",
+  "type": "source",
+  "version": "0.0.1"
+}

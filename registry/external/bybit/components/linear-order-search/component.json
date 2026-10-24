@@ -1,0 +1,7 @@
+{
+  "key": "bybit-linear-order-search",
+  "name": "ByBit Linear Order Search",
+  "description": "Query Active Order.",
+  "type": "action",
+  "version": "0.0.2"
+}

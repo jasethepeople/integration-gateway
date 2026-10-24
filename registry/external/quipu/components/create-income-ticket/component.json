@@ -1,0 +1,7 @@
+{
+  "key": "quipu-create-income-ticket",
+  "name": "Create Income Ticket",
+  "description": "Creates a new income ticket. [See the docs](http://quipuapp.github.io/api-v1-docs/#creating-a-ticket).",
+  "type": "action",
+  "version": "0.0.2"
+}

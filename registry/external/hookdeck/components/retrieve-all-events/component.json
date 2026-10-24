@@ -1,0 +1,7 @@
+{
+  "key": "hookdeck-retrieve-all-events",
+  "name": "Retrieve all Events",
+  "description": "This endpoint lists all events, or a subset of events. [See the documentation](https://hookdeck.com/api-ref#retrieve-all-events).",
+  "type": "action",
+  "version": "0.0.2"
+}

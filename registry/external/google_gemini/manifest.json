@@ -1,0 +1,35 @@
+{
+  "app": "google_gemini",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "text": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mediaPaths": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "model": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "responseFormat": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "google_gemini-generate-content-from-text-and-image",
+    "google_gemini-generate-content-from-text",
+    "google_gemini-generate-embeddings"
+  ],
+  "npmImports": [
+    "mime"
+  ]
+}

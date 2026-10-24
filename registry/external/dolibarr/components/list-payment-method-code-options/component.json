@@ -1,0 +1,7 @@
+{
+  "key": "dolibarr-list-payment-method-code-options",
+  "name": "List Payment Method Code Options",
+  "description": "Retrieves available options for the Payment Method Code field.",
+  "type": "action",
+  "version": "0.0.1"
+}

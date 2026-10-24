@@ -1,0 +1,7 @@
+{
+  "key": "nyckel-classify-image",
+  "name": "Classify Image",
+  "description": "Classifies image data based on pre-trained classifiers in Nyckel. [See the documentation](https://www.nyckel.com/docs#invoke-image)",
+  "type": "action",
+  "version": "0.1.1"
+}

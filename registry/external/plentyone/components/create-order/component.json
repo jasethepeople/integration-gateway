@@ -1,0 +1,7 @@
+{
+  "key": "plentyone-create-order",
+  "name": "Create Order",
+  "description": "Creates a new order in PlentyONE. [See the documentation](https://developers.plentymarkets.com/en-gb/plentymarkets-rest-api/index.html#/Order/post_rest_orders)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "komos-queue-task-run",
+  "name": "Queue Task Run",
+  "description": "Queue a saved Komos task run with optional inputs. [See the documentation](https://docs.komos.ai/api-reference/task-runs/queue)",
+  "type": "action",
+  "version": "0.0.1"
+}

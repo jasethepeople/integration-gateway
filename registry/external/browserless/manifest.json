@@ -1,0 +1,24 @@
+{
+  "app": "browserless",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "base_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "browserless-convert-html-to-pdf",
+    "browserless-scrape-url-list",
+    "browserless-scrape-url",
+    "browserless-take-screenshot"
+  ],
+  "npmImports": [
+    "fs"
+  ]
+}

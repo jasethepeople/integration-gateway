@@ -1,0 +1,7 @@
+{
+  "key": "http-watch-url",
+  "name": "New event when the content of the URL changes.",
+  "description": "Emit new event when the content of the URL changes.",
+  "type": "source",
+  "version": "0.0.3"
+}

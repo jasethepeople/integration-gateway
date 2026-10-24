@@ -1,0 +1,7 @@
+{
+  "key": "summit-new-model-added",
+  "name": "New Model Added",
+  "description": "Emit new event when a new model is added to your organization in Summit. [See the documentation](https://summit.readme.io/reference/apps)",
+  "type": "source",
+  "version": "0.0.1"
+}

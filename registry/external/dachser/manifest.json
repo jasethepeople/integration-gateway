@@ -1,0 +1,24 @@
+{
+  "app": "dachser",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "trackingNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "acceptLanguage": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dachser-get-delivery-order-status",
+    "dachser-get-shipment-history",
+    "dachser-get-shipment-status"
+  ]
+}

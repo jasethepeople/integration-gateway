@@ -1,0 +1,7 @@
+{
+  "key": "yahoo_fantasy_sports-new-baseball-league-transactions",
+  "name": "New Baseball League Transactions",
+  "description": "Emit new event when a new baseball league transaction occurs",
+  "type": "source",
+  "version": "0.0.1"
+}

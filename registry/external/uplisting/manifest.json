@@ -1,0 +1,22 @@
+{
+  "app": "uplisting",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "propertyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "uplisting-create-booking",
+    "uplisting-list-property-id-options",
+    "uplisting-new-booking-created",
+    "uplisting-new-booking-removed",
+    "uplisting-new-booking-updated"
+  ]
+}

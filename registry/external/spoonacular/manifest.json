@@ -1,0 +1,16 @@
+{
+  "app": "spoonacular",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "spoonacular-convert-measurements",
+    "spoonacular-create-meal-plan",
+    "spoonacular-search-recipes"
+  ]
+}

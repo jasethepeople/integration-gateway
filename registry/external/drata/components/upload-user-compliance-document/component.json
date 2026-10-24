@@ -1,0 +1,7 @@
+{
+  "key": "drata-upload-user-compliance-document",
+  "name": "Upload User Compliance Document",
+  "description": "The user document type",
+  "type": "action",
+  "version": "0.0.4"
+}

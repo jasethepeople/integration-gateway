@@ -1,0 +1,7 @@
+{
+  "key": "dealcloud-delete-records",
+  "name": "Delete Record(s)",
+  "description": "Deletes one or more records (entries) from DealCloud. [See the documentation](https://api.docs.dealcloud.com/docs/data/delete)",
+  "type": "action",
+  "version": "0.0.1"
+}

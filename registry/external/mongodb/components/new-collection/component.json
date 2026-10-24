@@ -1,0 +1,7 @@
+{
+  "key": "mongodb-new-collection",
+  "name": "New Collection",
+  "description": "Emit new an event when a new collection is added to a database",
+  "type": "source",
+  "version": "0.0.7"
+}

@@ -1,0 +1,20 @@
+{
+  "app": "segmetrics",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "account_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "segmetrics-create-or-update-contact",
+    "segmetrics-create-or-update-order",
+    "segmetrics-create-or-update-subscription"
+  ]
+}

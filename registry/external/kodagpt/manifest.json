@@ -1,0 +1,26 @@
+{
+  "app": "kodagpt",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "question": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "chatbotId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "chatbot_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "kodagpt-semantic-search"
+  ]
+}

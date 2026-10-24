@@ -1,0 +1,7 @@
+{
+  "key": "screenshotone-take-animated-screenshot",
+  "name": "Take Animated Screenshot",
+  "description": "Takes and returns an animated screenshot of the given site with specified options. [See the documentation](https://screenshotone.com/docs/animated-screenshots/)",
+  "type": "action",
+  "version": "0.0.3"
+}

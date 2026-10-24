@@ -1,0 +1,7 @@
+{
+  "key": "google_cloud-bigquery-new-row",
+  "name": "BigQuery - New Row",
+  "description": "Emit new events when a new row is added to a table",
+  "type": "source",
+  "version": "0.1.10"
+}

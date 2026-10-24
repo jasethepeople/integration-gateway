@@ -1,0 +1,7 @@
+{
+  "key": "gmail-send-email",
+  "name": "Send Email",
+  "description": "Send a new email OR reply to an existing thread from the authenticated Gmail account.",
+  "type": "action",
+  "version": "0.3.4"
+}

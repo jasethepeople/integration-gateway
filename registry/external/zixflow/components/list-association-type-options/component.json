@@ -1,0 +1,7 @@
+{
+  "key": "zixflow-list-association-type-options",
+  "name": "List Association Type Options",
+  "description": "Retrieves available options for the Association Type field.",
+  "type": "action",
+  "version": "0.0.1"
+}

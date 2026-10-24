@@ -1,0 +1,7 @@
+{
+  "key": "fogbugz-new-caseevent",
+  "name": "New Case Event",
+  "description": "Emit new event instantaneously when something significant happens to a case.",
+  "type": "source",
+  "version": "0.0.1"
+}

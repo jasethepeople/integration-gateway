@@ -1,0 +1,7 @@
+{
+  "key": "wics-update-order",
+  "name": "Update Order",
+  "description": "Update an order. [See the documentation](https://docs.wics.nl/test-environment.html#orders-update-order)",
+  "type": "action",
+  "version": "0.0.3"
+}

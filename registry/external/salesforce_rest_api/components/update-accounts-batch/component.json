@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-update-accounts-batch",
+  "name": "Update Accounts (Batch)",
+  "description": "Update many Salesforce accounts in one job using Bulk API 2.0.",
+  "type": "action",
+  "version": "0.0.8"
+}

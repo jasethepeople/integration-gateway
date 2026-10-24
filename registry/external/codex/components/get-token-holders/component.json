@@ -1,0 +1,7 @@
+{
+  "key": "codex-get-token-holders",
+  "name": "Get Token Holders",
+  "description": "Returns the list of token holders with their balances and the top-10 holder concentration percentage.",
+  "type": "action",
+  "version": "0.0.2"
+}

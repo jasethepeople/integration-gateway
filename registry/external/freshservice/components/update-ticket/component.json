@@ -1,0 +1,7 @@
+{
+  "key": "freshservice-update-ticket",
+  "name": "Update Ticket",
+  "description": "Update a ticket. [See the documentation](https://api.freshservice.com/#update_ticket_priority)",
+  "type": "action",
+  "version": "0.0.2"
+}

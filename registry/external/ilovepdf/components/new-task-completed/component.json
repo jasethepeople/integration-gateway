@@ -1,0 +1,7 @@
+{
+  "key": "ilovepdf-new-task-completed",
+  "name": "New Task Completed",
+  "description": "Emit new event for each new task. [See the documentation](https://developer.ilovepdf.com/docs/api-reference#task)",
+  "type": "source",
+  "version": "0.0.2"
+}

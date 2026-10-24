@@ -1,0 +1,7 @@
+{
+  "key": "_2chat-create-contact",
+  "name": "Create Contact",
+  "description": "Creates a new contact in 2Chat. [See the documentation](https://developers.2chat.co/docs/API/Contacts/create-contact)",
+  "type": "action",
+  "version": "0.0.2"
+}

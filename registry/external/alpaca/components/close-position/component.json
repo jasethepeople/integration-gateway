@@ -1,0 +1,7 @@
+{
+  "key": "alpaca-close-position",
+  "name": "Close Position",
+  "description": "Closes (liquidates) the account’s open position. Works for both long and short positions, [See the docs](https://alpaca.markets/docs/api-references/trading-api/positions/#close-a-position)",
+  "type": "action",
+  "version": "0.0.2"
+}

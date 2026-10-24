@@ -1,0 +1,7 @@
+{
+  "key": "instagram_business-create-comment",
+  "name": "Create Comment",
+  "description": "Creates a comment on a media object. [See the documentation](https://developers.facebook.com/docs/instagram-api/reference/ig-media/comments#creating)",
+  "type": "action",
+  "version": "0.0.2"
+}

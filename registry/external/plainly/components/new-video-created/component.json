@@ -1,0 +1,7 @@
+{
+  "key": "plainly-new-video-created",
+  "name": "New Video Created",
+  "description": "Emit new event when a video is created or uploaded in Plainly.",
+  "type": "source",
+  "version": "0.0.1"
+}

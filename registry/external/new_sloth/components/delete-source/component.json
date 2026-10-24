@@ -1,0 +1,7 @@
+{
+  "key": "new_sloth-delete-source",
+  "name": "Delete Source",
+  "description": "Delete a source in New Sloth. [See the documentation](https://app.newsloth.com/api-reference#deletesource)",
+  "type": "action",
+  "version": "0.0.1"
+}

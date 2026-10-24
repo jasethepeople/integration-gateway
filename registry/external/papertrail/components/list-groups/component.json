@@ -1,0 +1,7 @@
+{
+  "key": "papertrail-list-groups",
+  "name": "List Groups",
+  "description": "List all groups and the systems they contain. [See the documentation](https://www.papertrail.com/help/settings-api/#list-groups)",
+  "type": "action",
+  "version": "0.0.1"
+}

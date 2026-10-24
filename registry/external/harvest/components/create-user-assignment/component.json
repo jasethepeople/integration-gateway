@@ -1,0 +1,7 @@
+{
+  "key": "harvest-create-user-assignment",
+  "name": "Create User Assignment",
+  "description": "Assign a user to a project. Use **Get Projects** to find a project ID, and **List Users** to find user IDs. Example: call with projectId and userId set to staff that person on the project. [See the documentation](https://help.getharvest.com/api-v2/projects-api/projects/user-assignments/#create-a-user-assignment).",
+  "type": "action",
+  "version": "0.0.1"
+}

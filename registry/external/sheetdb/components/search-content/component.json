@@ -1,0 +1,7 @@
+{
+  "key": "sheetdb-search-content",
+  "name": "Search Content",
+  "description": "Search for content in a Google Sheet using the SheetDB API. [See the documentation](https://docs.sheetdb.io/sheetdb-api/search)",
+  "type": "action",
+  "version": "0.0.2"
+}

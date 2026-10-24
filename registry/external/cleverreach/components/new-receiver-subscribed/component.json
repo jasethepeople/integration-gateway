@@ -1,0 +1,7 @@
+{
+  "key": "cleverreach-new-receiver-subscribed",
+  "name": "New Receiver Subscribed",
+  "description": "Emit new event when a new subscriber is added to a selected group. [See the documentation](https://rest.cleverreach.com/explorer/v3/#!/groups-v3/list_groups_get)",
+  "type": "source",
+  "version": "0.0.1"
+}

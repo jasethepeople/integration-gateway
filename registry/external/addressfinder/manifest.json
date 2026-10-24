@@ -1,0 +1,24 @@
+{
+  "app": "addressfinder",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "domain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "secret": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "addressfinder-verify-address-au",
+    "addressfinder-verify-address-nz",
+    "addressfinder-verify-email"
+  ]
+}

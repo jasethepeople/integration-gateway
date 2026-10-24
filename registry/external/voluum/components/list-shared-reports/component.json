@@ -1,0 +1,7 @@
+{
+  "key": "voluum-list-shared-reports",
+  "name": "List Shared Reports",
+  "description": "Retrieves a list of shared reports. [See the API documentation](https://developers.voluum.com/#!/Shared32reports/get_shared_report)",
+  "type": "action",
+  "version": "0.0.1"
+}

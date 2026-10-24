@@ -1,0 +1,7 @@
+{
+  "key": "zoho_notebook-create-notebook",
+  "name": "Create Notebook",
+  "description": "Creates a new notebook.",
+  "type": "action",
+  "version": "0.0.2"
+}

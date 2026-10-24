@@ -1,0 +1,78 @@
+{
+  "app": "thinkific",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "courseId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "password": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "roles": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "company": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "headline": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "affiliateCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "affiliateCommission": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "affiliateCommissionType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "affiliatePayoutEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "thinkific-create-user",
+    "thinkific-enroll-user",
+    "thinkific-list-course-id-options",
+    "thinkific-list-user-id-options",
+    "thinkific-update-user",
+    "thinkific-lesson-completed-instant",
+    "thinkific-new-event-instant",
+    "thinkific-new-full-enrollment-instant",
+    "thinkific-new-order-instant"
+  ]
+}

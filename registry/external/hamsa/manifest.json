@@ -1,0 +1,31 @@
+{
+  "app": "hamsa",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "jobId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "voiceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "webhookUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "hamsa-create-content",
+    "hamsa-list-job-id-options",
+    "hamsa-list-jobs",
+    "hamsa-list-voice-id-options",
+    "hamsa-synthesize-voice",
+    "hamsa-transcribe-video"
+  ]
+}

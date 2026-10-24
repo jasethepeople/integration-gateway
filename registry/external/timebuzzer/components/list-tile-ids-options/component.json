@@ -1,0 +1,7 @@
+{
+  "key": "timebuzzer-list-tile-ids-options",
+  "name": "List Tile IDs Options",
+  "description": "Retrieves available options for the Tile IDs field.",
+  "type": "action",
+  "version": "0.0.1"
+}

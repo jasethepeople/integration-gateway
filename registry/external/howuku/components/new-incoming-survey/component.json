@@ -1,0 +1,7 @@
+{
+  "key": "howuku-new-incoming-survey",
+  "name": "New Incoming Survey",
+  "description": "Emit new event when a new incoming survey is received. [See the documentation](https://rest.howuku.com/#survey)",
+  "type": "source",
+  "version": "0.0.1"
+}

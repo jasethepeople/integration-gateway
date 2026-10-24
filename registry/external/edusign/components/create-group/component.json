@@ -1,0 +1,7 @@
+{
+  "key": "edusign-create-group",
+  "name": "Create Group",
+  "description": "Create a new group. [See the documentation](https://developers.edusign.com/reference/postv1group)",
+  "type": "action",
+  "version": "0.0.1"
+}

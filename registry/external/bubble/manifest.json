@@ -1,0 +1,32 @@
+{
+  "app": "bubble",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "typeName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "thingId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fields": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "root_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "bubble-create-thing",
+    "bubble-get-thing",
+    "bubble-search-things"
+  ]
+}

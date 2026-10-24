@@ -1,0 +1,7 @@
+{
+  "key": "zoom-delete-user",
+  "name": "Delete User",
+  "description": "Disassociates (unlinks) a user from the associated account or permanently deletes a user.",
+  "type": "action",
+  "version": "0.2.6"
+}

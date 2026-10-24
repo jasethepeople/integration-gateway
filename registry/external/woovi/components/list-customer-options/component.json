@@ -1,0 +1,7 @@
+{
+  "key": "woovi-list-customer-options",
+  "name": "List Customer Options",
+  "description": "Retrieves available options for the Customer field.",
+  "type": "action",
+  "version": "0.0.1"
+}

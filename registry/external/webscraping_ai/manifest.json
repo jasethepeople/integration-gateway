@@ -1,0 +1,72 @@
+{
+  "app": "webscraping_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "targetUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "headers": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "timeout": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "js": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "jsTimeout": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "waitFor": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "proxy": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customProxy": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "device": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "errorOn404": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "errorOnRedirect": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "jsScript": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "format": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "webscraping_ai-ask-question",
+    "webscraping_ai-scrape-website-html",
+    "webscraping_ai-scrape-website-text"
+  ]
+}

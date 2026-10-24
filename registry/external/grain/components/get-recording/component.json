@@ -1,0 +1,7 @@
+{
+  "key": "grain-get-recording",
+  "name": "Get Recording",
+  "description": "Fetches a specific recording by its ID from Grain, returning its metadata (title, times, URL, tags, teams, meeting type).",
+  "type": "action",
+  "version": "1.0.2"
+}

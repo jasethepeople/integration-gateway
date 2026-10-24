@@ -1,0 +1,7 @@
+{
+  "key": "aws-list-region-options",
+  "name": "List AWS Region Options",
+  "description": "Retrieves available options for the AWS Region field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,15 @@
+{
+  "app": "autoblogger",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "autoblogger-get-blogposts",
+    "autoblogger-validate-api-key"
+  ]
+}

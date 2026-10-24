@@ -1,0 +1,7 @@
+{
+  "key": "sunshine_conversations-list-conversations",
+  "name": "List Conversations",
+  "description": "List all conversations that a user is part of. [See the documentation](https://developer.zendesk.com/api-reference/conversations/#tag/Conversations/operation/ListConversations)",
+  "type": "action",
+  "version": "0.0.1"
+}

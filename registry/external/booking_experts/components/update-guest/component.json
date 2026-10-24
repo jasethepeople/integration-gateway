@@ -1,0 +1,7 @@
+{
+  "key": "booking_experts-update-guest",
+  "name": "Update Guest",
+  "description": "Update a guest for a reservation. [See the documentation](https://developers.bookingexperts.com/reference/administration-reservation-guests-update)",
+  "type": "action",
+  "version": "1.0.1"
+}

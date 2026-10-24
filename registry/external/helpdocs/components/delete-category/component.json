@@ -1,0 +1,7 @@
+{
+  "key": "helpdocs-delete-category",
+  "name": "Delete Category",
+  "description": "Delete a category from your HelpDocs knowledge base. [See the documentation](https://apidocs.helpdocs.io/article/Hw8fVbXt1V-deleting-a-category)",
+  "type": "action",
+  "version": "0.0.2"
+}

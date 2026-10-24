@@ -1,0 +1,7 @@
+{
+  "key": "drift-new-conversation",
+  "name": "New Conversation",
+  "description": "Emit new when a new conversation is started in Drift. [See the documentations](https://devdocs.drift.com/docs/retrieve-a-conversation)",
+  "type": "source",
+  "version": "0.0.1"
+}

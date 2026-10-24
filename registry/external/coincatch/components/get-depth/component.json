@@ -1,0 +1,7 @@
+{
+  "key": "coincatch-get-depth",
+  "name": "Get Depth",
+  "description": "Gets depth data. [See the documentation](https://coincatch.github.io/github.io/en/mix/#get-depth)",
+  "type": "action",
+  "version": "0.0.1"
+}

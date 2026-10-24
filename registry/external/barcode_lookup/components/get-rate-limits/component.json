@@ -1,0 +1,7 @@
+{
+  "key": "barcode_lookup-get-rate-limits",
+  "name": "Get Rate Limits",
+  "description": "Retrieve the current API rate limits for your account. [See the documentation](https://www.barcodelookup.com/api-documentation#endpoints)",
+  "type": "action",
+  "version": "0.0.1"
+}

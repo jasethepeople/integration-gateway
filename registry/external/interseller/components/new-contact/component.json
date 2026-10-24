@@ -1,0 +1,7 @@
+{
+  "key": "interseller-new-contact",
+  "name": "New Contact",
+  "description": "Emit new event when a new contact is created in Interseller.",
+  "type": "source",
+  "version": "0.0.1"
+}

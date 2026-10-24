@@ -1,0 +1,15 @@
+{
+  "app": "github",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "commit": "d5872355ef27b4efa769f05352f2820c299a456e",
+  "upstreamPaths": {
+    "github-get-repository": "components/github/actions/get-repository/get-repository.mjs",
+    "github-create-issue": "components/github/actions/create-issue/create-issue.mjs",
+    "github-new-or-updated-issue": "components/github/sources/new-or-updated-issue/new-or-updated-issue.mjs"
+  },
+  "components": [
+    "github-get-repository",
+    "github-create-issue",
+    "github-new-or-updated-issue"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pennylane-new-billing-subscription",
+  "name": "New Billing Subscription Created",
+  "description": "Emit new event when a billing subscription is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

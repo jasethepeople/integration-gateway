@@ -1,0 +1,7 @@
+{
+  "key": "shopify-new-page",
+  "name": "New Page",
+  "description": "Emit new event for each new page published.",
+  "type": "source",
+  "version": "0.0.28"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "patreon-member-deleted",
+  "name": "Member Deleted",
+  "description": "Emit new event for each deleted member",
+  "type": "source",
+  "version": "0.0.1"
+}

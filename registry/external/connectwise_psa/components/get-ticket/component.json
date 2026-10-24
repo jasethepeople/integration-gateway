@@ -1,0 +1,7 @@
+{
+  "key": "connectwise_psa-get-ticket",
+  "name": "Get Ticket",
+  "description": "Retrieves details of a specific ticket. [See the documentation](https://developer.connectwise.com/Products/ConnectWise_PSA/REST#/Tickets/getServiceTicketsById)",
+  "type": "action",
+  "version": "0.0.1"
+}

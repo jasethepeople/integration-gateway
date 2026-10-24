@@ -1,0 +1,7 @@
+{
+  "key": "webscraping_ai-scrape-website-text",
+  "name": "Scrape Website Text",
+  "description": "Returns the visible text content of a webpage specified by the URL. [See the documentation](https://webscraping.ai/docs#tag/Text/operation/getText).",
+  "type": "action",
+  "version": "0.0.2"
+}

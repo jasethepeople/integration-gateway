@@ -1,0 +1,7 @@
+{
+  "key": "webflow-update-item-inventory",
+  "name": "Update Item Inventory",
+  "description": "Update the inventory of a specific item. [See the documentation](https://developers.webflow.com/data/reference/ecommerce/inventory/update)",
+  "type": "action",
+  "version": "2.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "elorus-get-tasks",
+  "name": "Get Tasks",
+  "description": "Get a list of tasks from Elorus. [See the documentation](https://developer.elorus.com/#operation/tasks_list)",
+  "type": "action",
+  "version": "0.0.2"
+}

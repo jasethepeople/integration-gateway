@@ -1,0 +1,7 @@
+{
+  "key": "tubular-create-lead",
+  "name": "Create Lead",
+  "description": "Create lead and return its ID. [See the documentation](https://developer.tubular.io/examples/#create-lead-and-return-its-id)",
+  "type": "action",
+  "version": "0.0.2"
+}

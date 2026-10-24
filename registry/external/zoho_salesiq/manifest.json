@@ -1,0 +1,42 @@
+{
+  "app": "zoho_salesiq",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "screenName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "conversationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "articleCategoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "departmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "appIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "base_api_uri": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zoho_salesiq-create-article",
+    "zoho_salesiq-get-visitor-feedback",
+    "zoho_salesiq-list-feedback",
+    "zoho_salesiq-list-screen-name-options",
+    "zoho_salesiq-conversation-created"
+  ]
+}

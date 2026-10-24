@@ -1,0 +1,7 @@
+{
+  "key": "scraptio-scrape-url",
+  "name": "Scrape URL",
+  "description": "Scrape the provided URL. [See the documentation](https://scraptio.notion.site/how-to-use-scraptio-with-rest-api-caf0b6d5c6e342cd9a3ac9062ab1ae6d)",
+  "type": "action",
+  "version": "0.0.2"
+}

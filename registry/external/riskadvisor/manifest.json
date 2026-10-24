@@ -1,0 +1,69 @@
+{
+  "app": "riskadvisor",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "clientId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phoneNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "middleName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "suffix": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dateOfBirth": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactPreference": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "gender": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "education": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "occupation": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "riskadvisor-create-client",
+    "riskadvisor-create-risk-profile",
+    "riskadvisor-update-client",
+    "riskadvisor-client-updated",
+    "riskadvisor-new-client-created"
+  ],
+  "npmImports": [
+    "lodash"
+  ]
+}

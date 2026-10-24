@@ -1,0 +1,7 @@
+{
+  "key": "shopify_developer_app-new-paid-order",
+  "name": "New Paid Order (Instant)",
+  "description": "Emit new event each time a new order is paid.",
+  "type": "source",
+  "version": "0.0.21"
+}

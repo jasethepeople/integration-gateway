@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-list-job-activities",
+  "name": "List Job Activities",
+  "description": "List job activities with optional filters. [See the documentation](https://developer.servicem8.com/reference/listjobactivities)",
+  "type": "action",
+  "version": "0.0.1"
+}

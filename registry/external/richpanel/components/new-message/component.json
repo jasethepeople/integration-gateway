@@ -1,0 +1,7 @@
+{
+  "key": "richpanel-new-message",
+  "name": "New Message in Ticket",
+  "description": "Emit new event when a new message is sent on an existing or new ticket.",
+  "type": "source",
+  "version": "0.0.1"
+}

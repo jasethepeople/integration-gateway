@@ -1,0 +1,7 @@
+{
+  "key": "justcall-new-text-received",
+  "name": "New Text Received (Instant)",
+  "description": "Emit new event when a new text message is received.",
+  "type": "source",
+  "version": "0.1.0"
+}

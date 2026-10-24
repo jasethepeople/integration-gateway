@@ -1,0 +1,7 @@
+{
+  "key": "paperform-list-form-id-options",
+  "name": "List Form ID Options",
+  "description": "Retrieves available options for the Form ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "renderio-run-multiple-ffmpeg-commands",
+  "name": "Run Multiple FFmpeg Commands",
+  "description": "Execute multiple independent FFmpeg commands in one request. [See the documentation](https://renderio.dev/docs/api-reference/commands/run-multiple-commands)",
+  "type": "action",
+  "version": "0.0.2"
+}

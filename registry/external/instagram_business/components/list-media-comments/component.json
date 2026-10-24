@@ -1,0 +1,7 @@
+{
+  "key": "instagram_business-list-media-comments",
+  "name": "List Media Comments",
+  "description": "List comments on a media object. [See the documentation](https://developers.facebook.com/docs/instagram-api/reference/ig-media/comments#reading)",
+  "type": "action",
+  "version": "0.0.2"
+}

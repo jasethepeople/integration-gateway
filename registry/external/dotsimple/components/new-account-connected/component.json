@@ -1,0 +1,7 @@
+{
+  "key": "dotsimple-new-account-connected",
+  "name": "New Account Connected",
+  "description": "Emit new event when a new account is connected. [See the documentation](https://help.dotsimple.io/en/articles/65-accounts).",
+  "type": "source",
+  "version": "0.0.1"
+}

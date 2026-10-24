@@ -1,0 +1,7 @@
+{
+  "key": "accelo-list-request-type-id-options",
+  "name": "List Request Type ID Options",
+  "description": "Retrieves available options for the Request Type ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

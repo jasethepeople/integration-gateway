@@ -1,0 +1,7 @@
+{
+  "key": "zoho_bugtracker-get-bug-details",
+  "name": "Get Bug Details",
+  "description": "Get details from a specific bug. [See the documentation](https://projects.zoho.com/api-docs#issues#get-issue-details)",
+  "type": "action",
+  "version": "0.0.4"
+}

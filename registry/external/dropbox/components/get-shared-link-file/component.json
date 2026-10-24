@@ -1,0 +1,7 @@
+{
+  "key": "dropbox-get-shared-link-file",
+  "name": "Get Shared Link File",
+  "description": "Get a file from a shared link. [See the documentation](https://www.dropbox.com/developers/documentation/http/documentation#sharing-get_shared_link_file)",
+  "type": "action",
+  "version": "0.0.3"
+}

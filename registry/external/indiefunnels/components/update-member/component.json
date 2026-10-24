@@ -1,0 +1,7 @@
+{
+  "key": "indiefunnels-update-member",
+  "name": "Update Member",
+  "description": "Updates a Member specified by ID. [See the documentation](https://websitebuilder.docs.apiary.io/#reference/members/single-member/update-member)",
+  "type": "action",
+  "version": "0.0.2"
+}

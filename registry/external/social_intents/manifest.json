@@ -1,0 +1,19 @@
+{
+  "app": "social_intents",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "account_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "social_intents-new-chat-closed",
+    "social_intents-new-event-emitted"
+  ]
+}

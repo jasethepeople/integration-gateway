@@ -1,0 +1,7 @@
+{
+  "key": "echtpost_postcards-create-card",
+  "name": "Create and Schedule a Postcard",
+  "description": "This action creates and schedules a postcard for delivery. [See the documentation](https://hilfe.echtpost.de/article/20/postkartenversand-uber-api-programmierschnittstelle)",
+  "type": "action",
+  "version": "0.0.2"
+}

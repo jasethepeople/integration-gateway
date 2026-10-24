@@ -1,0 +1,7 @@
+{
+  "key": "tomba-find-email",
+  "name": "Find Email",
+  "description": "Generate or retrieve the most likely email address from a domain name, a first name and a last name. [See the documentation](https://docs.tomba.io/api/finder#email-finder)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "ikas-new-customer-instant",
+  "name": "New Customer (Instant)",
+  "description": "Emit new event when a customer account is created on ikas. **You can only have one webhook of each type at the same time.**",
+  "type": "source",
+  "version": "0.0.1"
+}

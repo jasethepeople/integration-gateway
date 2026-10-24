@@ -1,0 +1,7 @@
+{
+  "key": "heartbeat-add-to-group",
+  "name": "Add To Group",
+  "description": "Add user(s) to a Heartbeat group. [See the documentation](https://heartbeat.readme.io/reference/addtogroup)",
+  "type": "action",
+  "version": "0.0.1"
+}

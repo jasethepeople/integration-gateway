@@ -1,0 +1,80 @@
+{
+  "app": "dataforb2b",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "filters": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "count": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "offset": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "enrichLive": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "lookalikeProfile": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lookalikeUseCase": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "category": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "profileIdentifier": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyIdentifier": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "enrichProfile": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "enrichWorkEmail": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "enrichPersonalEmail": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "enrichPhone": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "enrichGithub": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dataforb2b-agent-search",
+    "dataforb2b-enrich-company",
+    "dataforb2b-enrich-profile",
+    "dataforb2b-reasoning-search",
+    "dataforb2b-search-company",
+    "dataforb2b-search-people",
+    "dataforb2b-text-to-filters"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "upwave-create-card",
+  "name": "Create Card",
+  "description": "Create a new card. [See the documentation](https://upwavehq.github.io/api/#creating-a-new-card)",
+  "type": "action",
+  "version": "0.0.2"
+}

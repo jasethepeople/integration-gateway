@@ -1,0 +1,7 @@
+{
+  "key": "emboss-list-forms",
+  "name": "List Forms",
+  "description": "List the forms in your Emboss account. Each form is returned with its `id`, `title` and `status` — pass a returned `id` as the Form ID for **Fill Existing Form**, instead of typing it in by hand. [See the documentation](https://getemboss.ai/docs/reference/create-form)",
+  "type": "action",
+  "version": "0.0.2"
+}

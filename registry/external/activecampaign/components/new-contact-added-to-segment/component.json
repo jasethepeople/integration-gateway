@@ -1,0 +1,7 @@
+{
+  "key": "activecampaign-new-contact-added-to-segment",
+  "name": "New Contact Added to Segment",
+  "description": "Emit new event each time a new contact is added to a segment.",
+  "type": "source",
+  "version": "0.0.2"
+}

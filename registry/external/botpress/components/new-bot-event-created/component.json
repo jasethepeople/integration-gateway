@@ -1,0 +1,7 @@
+{
+  "key": "botpress-new-bot-event-created",
+  "name": "New Bot Event Created",
+  "description": "Emit new event from bot is created. [See the documentation](https://botpress.com/docs/api-documentation/#list-events)",
+  "type": "source",
+  "version": "0.0.1"
+}

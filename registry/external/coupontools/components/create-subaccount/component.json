@@ -1,0 +1,7 @@
+{
+  "key": "coupontools-create-subaccount",
+  "name": "Create Subaccount",
+  "description": "Create a subaccount. [See the documentation](https://docs.coupontools.com/api/account#create-subaccount)",
+  "type": "action",
+  "version": "0.0.1"
+}

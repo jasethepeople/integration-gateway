@@ -1,0 +1,7 @@
+{
+  "key": "americommerce-list-customer-type-id-options",
+  "name": "List Customer Type ID Options",
+  "description": "Retrieves available options for the Customer Type ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

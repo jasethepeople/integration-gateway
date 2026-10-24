@@ -1,0 +1,7 @@
+{
+  "key": "freshdesk-set-ticket-tags",
+  "name": "Set Ticket Tags",
+  "description": "Set tags on a ticket (replaces all existing tags). [See the documentation](https://developers.freshdesk.com/api/#update_ticket)",
+  "type": "action",
+  "version": "0.0.13"
+}

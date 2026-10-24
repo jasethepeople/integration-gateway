@@ -1,0 +1,7 @@
+{
+  "key": "zixflow-create-activity",
+  "name": "Create Activity",
+  "description": "Creates a new activity or task within Zixflow. [See the documentation](https://docs.zixflow.com/api-reference/activity-list/create)",
+  "type": "action",
+  "version": "0.0.2"
+}

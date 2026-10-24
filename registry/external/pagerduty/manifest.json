@@ -1,0 +1,105 @@
+{
+  "app": "pagerduty",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "incidentTitle": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "incidentUrgency": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "incidentKey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "incidentBodyDetails": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "incidentConferenceBridgeNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "incidentConferenceBridgeUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "escalationPolicyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "serviceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "incidentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oncallScheduleId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oncallSince": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oncallUntil": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "webhookEvent": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pagerduty-acknowledge-incident",
+    "pagerduty-add-note-to-incident",
+    "pagerduty-create-incident",
+    "pagerduty-create-schedule-override",
+    "pagerduty-create-service",
+    "pagerduty-find-oncall-user",
+    "pagerduty-get-event-orchestration-service",
+    "pagerduty-get-incident",
+    "pagerduty-get-service-analytics",
+    "pagerduty-list-escalation-policies",
+    "pagerduty-list-escalation-policy-id-options",
+    "pagerduty-list-incident-change-events",
+    "pagerduty-list-incident-workflows",
+    "pagerduty-list-incidents",
+    "pagerduty-list-log-entries",
+    "pagerduty-list-oncall-schedule-id-options",
+    "pagerduty-list-oncalls",
+    "pagerduty-list-priorities",
+    "pagerduty-list-schedules",
+    "pagerduty-list-service-id-options",
+    "pagerduty-list-services",
+    "pagerduty-list-status-page-posts",
+    "pagerduty-list-status-pages",
+    "pagerduty-list-teams",
+    "pagerduty-list-user-id-options",
+    "pagerduty-list-users",
+    "pagerduty-resolve-incident",
+    "pagerduty-start-incident-workflow",
+    "pagerduty-trigger-incident",
+    "pagerduty-update-escalation-policy",
+    "pagerduty-update-incident",
+    "pagerduty-new-oncall-rotation",
+    "pagerduty-new-or-updated-incident"
+  ],
+  "npmImports": [
+    "lodash.differenceby"
+  ]
+}

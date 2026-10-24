@@ -1,0 +1,7 @@
+{
+  "key": "google_tag_manager-get-tags",
+  "name": "Get Tags",
+  "description": "Get all tags of an workspace. [See the documentation](https://developers.google.com/tag-platform/tag-manager/api/v2/reference/accounts/containers/workspaces/tags/list)",
+  "type": "action",
+  "version": "0.0.3"
+}

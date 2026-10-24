@@ -1,0 +1,7 @@
+{
+  "key": "icypeas-new-single-result",
+  "name": "New Single Search Result",
+  "description": "Emit new event when a single search result comes in.",
+  "type": "source",
+  "version": "0.0.1"
+}

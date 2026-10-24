@@ -1,0 +1,7 @@
+{
+  "key": "bamboohr-list-application-id-options",
+  "name": "List Application ID Options",
+  "description": "Retrieves available application IDs for use with applicant-tracking actions. [See the documentation](https://documentation.bamboohr.com/reference/get-applications)",
+  "type": "action",
+  "version": "0.0.2"
+}

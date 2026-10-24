@@ -1,0 +1,7 @@
+{
+  "key": "digistore24-subscription-status-changed",
+  "name": "New Subscription Status Change",
+  "description": "Emit new event when a subscription status changes (e.g., cancelled, paused, resumed, expired). [See the documentation](https://dev.digistore24.com/hc/en-us/articles/38492246374673-API-reference-A-Z)",
+  "type": "source",
+  "version": "0.0.1"
+}

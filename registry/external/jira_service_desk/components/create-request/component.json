@@ -1,0 +1,7 @@
+{
+  "key": "jira_service_desk-create-request",
+  "name": "Create Request",
+  "description": "Creates a customer request (ticket) in a Jira Service Management service desk.",
+  "type": "action",
+  "version": "1.3.0"
+}

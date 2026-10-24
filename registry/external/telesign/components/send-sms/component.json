@@ -1,0 +1,7 @@
+{
+  "key": "telesign-send-sms",
+  "name": "Send SMS",
+  "description": "Sends a text message to a provided phone number. [See the documentation](https://developer.telesign.com/enterprise/docs/sms-get-started)",
+  "type": "action",
+  "version": "0.0.1"
+}

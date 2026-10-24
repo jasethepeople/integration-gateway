@@ -1,0 +1,176 @@
+{
+  "app": "indiefunnels",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "memberId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "groups": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "subscriberLists": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "note": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "address": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "city": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "state": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "zip": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "properties": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "subscribed": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "approved": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "billingPhone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "billingCompanyName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "billingCompanyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "billingCountry": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "billingState": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "billingCity": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "billingZipCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "billingAddress": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "billingAddress2": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shippingPhone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shippingCompanyName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shippingCompanyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shippingCountry": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shippingState": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shippingCity": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shippingZipCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shippingAddress": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shippingAddress2": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "indiefunnels-create-contact",
+    "indiefunnels-create-member",
+    "indiefunnels-list-contact-id-options",
+    "indiefunnels-list-groups-options",
+    "indiefunnels-list-member-id-options",
+    "indiefunnels-list-subscriber-lists-options",
+    "indiefunnels-update-contact",
+    "indiefunnels-update-member",
+    "indiefunnels-contact-updated-instant",
+    "indiefunnels-new-booking-session-instant",
+    "indiefunnels-new-form-submission-instant",
+    "indiefunnels-new-order-instant"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

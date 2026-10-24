@@ -1,0 +1,7 @@
+{
+  "key": "agendor-create-person",
+  "name": "Create Person",
+  "description": "Create Person [See the documentation](https://api.agendor.com.br/docs/#operation/Create%20person).",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "edusign-new-group-created",
+  "name": "New Group Created",
+  "description": "Emit new event when a new group is created. [See the documentation](https://developers.edusign.com/reference/getv1group)",
+  "type": "source",
+  "version": "0.0.1"
+}

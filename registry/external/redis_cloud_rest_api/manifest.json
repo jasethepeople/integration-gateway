@@ -1,0 +1,7 @@
+{
+  "app": "redis_cloud_rest_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": []
+}

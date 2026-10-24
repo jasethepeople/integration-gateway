@@ -1,0 +1,7 @@
+{
+  "key": "ghost_org_admin_api-list-member-options",
+  "name": "List Member Options",
+  "description": "Retrieves available options for the Member field.",
+  "type": "action",
+  "version": "0.0.1"
+}

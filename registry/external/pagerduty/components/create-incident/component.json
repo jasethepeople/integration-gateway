@@ -1,0 +1,7 @@
+{
+  "key": "pagerduty-create-incident",
+  "name": "Create Incident",
+  "description": "Trigger a new incident on a PagerDuty service.",
+  "type": "action",
+  "version": "0.0.2"
+}

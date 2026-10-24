@@ -1,0 +1,68 @@
+{
+  "app": "elastic_email",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "listNames": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "templateName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "unsubscribeEmails": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "campaign": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contact": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "segmentNames": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "campaignStatus": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactStatus": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "elastic_email-add-contact",
+    "elastic_email-create-campaign",
+    "elastic_email-create-contact",
+    "elastic_email-create-segment",
+    "elastic_email-list-campaign-options",
+    "elastic_email-list-campaigns",
+    "elastic_email-list-contact-options",
+    "elastic_email-list-contacts",
+    "elastic_email-list-list-names-options",
+    "elastic_email-list-segment-names-options",
+    "elastic_email-list-template-name-options",
+    "elastic_email-send-email",
+    "elastic_email-unsubscribe-contact",
+    "elastic_email-update-campaign",
+    "elastic_email-update-contact",
+    "elastic_email-new-contact-added",
+    "elastic_email-new-delivery-event",
+    "elastic_email-new-email-click",
+    "elastic_email-new-email-open"
+  ]
+}

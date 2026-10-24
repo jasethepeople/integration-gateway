@@ -1,0 +1,14 @@
+{
+  "app": "rescuetime",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "rescuetime-new-daily-summary-report-created"
+  ]
+}

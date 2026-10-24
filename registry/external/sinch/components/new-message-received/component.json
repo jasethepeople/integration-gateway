@@ -1,0 +1,7 @@
+{
+  "key": "sinch-new-message-received",
+  "name": "New Message Received (Instant)",
+  "description": "Emit new event when a new message is received. [See the documentation](https://developers.sinch.com/docs/conversation/api-reference/conversation/tag/Webhooks/#tag/Webhooks/operation/Webhooks_CreateWebhook)",
+  "type": "source",
+  "version": "0.0.1"
+}

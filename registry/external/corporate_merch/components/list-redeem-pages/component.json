@@ -1,0 +1,7 @@
+{
+  "key": "corporate_merch-list-redeem-pages",
+  "name": "List Redeem Pages",
+  "description": "Retrieve a list of private-enabled redeem pages. [See the documentation](https://corporatemerch.readme.io/reference/retrieve-a-list-of-links)",
+  "type": "action",
+  "version": "0.0.1"
+}

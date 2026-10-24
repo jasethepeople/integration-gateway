@@ -1,0 +1,7 @@
+{
+  "key": "awork-create-client",
+  "name": "Create Client",
+  "description": "Creates a client. [See docs here](https://openapi.awork.io/#/Companies/post_companies)",
+  "type": "action",
+  "version": "0.0.3"
+}

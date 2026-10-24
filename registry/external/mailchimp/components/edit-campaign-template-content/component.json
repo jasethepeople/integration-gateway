@@ -1,0 +1,7 @@
+{
+  "key": "mailchimp-edit-campaign-template-content",
+  "name": "Edit A Campaign Template Content",
+  "description": "Edits a defined content area of a custom HTML template. [See docs here](https://mailchimp.com/developer/marketing/api/campaign-content/set-campaign-content/)",
+  "type": "action",
+  "version": "0.0.3"
+}

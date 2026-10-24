@@ -1,0 +1,14 @@
+{
+  "app": "loggly_send_data",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "loggly_send_data-send-event"
+  ]
+}

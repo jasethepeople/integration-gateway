@@ -1,0 +1,20 @@
+{
+  "app": "retriever",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "orderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "retriever-create-device-return",
+    "retriever-get-order",
+    "retriever-new-device-return-order"
+  ]
+}

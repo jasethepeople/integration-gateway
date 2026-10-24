@@ -1,0 +1,7 @@
+{
+  "key": "lighthouse-create-milestone",
+  "name": "Create Milestone",
+  "description": "Creates a milestone. [See docs here](http://help.lighthouseapp.com/kb/api/milestones#create-milestone-code-post-projects-project_id-milestones-xml-code-)",
+  "type": "action",
+  "version": "0.0.2"
+}

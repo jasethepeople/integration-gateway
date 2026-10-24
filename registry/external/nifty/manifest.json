@@ -1,0 +1,56 @@
+{
+  "app": "nifty",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "appId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "memberId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "milestoneId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskGroupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "labelIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "nifty-assign-task",
+    "nifty-create-message",
+    "nifty-create-project",
+    "nifty-create-task",
+    "nifty-list-app-id-options",
+    "nifty-list-label-ids-options",
+    "nifty-list-member-id-options",
+    "nifty-list-project-id-options",
+    "nifty-list-template-id-options",
+    "nifty-new-message-posted",
+    "nifty-new-task-created"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-create-casecomment",
+  "name": "Create Case Comment",
+  "description": "Add a comment to an existing Salesforce case.",
+  "type": "action",
+  "version": "0.3.9"
+}

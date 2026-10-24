@@ -1,0 +1,70 @@
+{
+  "app": "grain",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "recordingId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "highlights": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "participants": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "calendarEvent": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "hubspot": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "aiActionItems": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "aiSummary": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "transcript": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "speakers": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "grain-download-recording",
+    "grain-get-recording",
+    "grain-get-transcript",
+    "grain-list-meeting-types",
+    "grain-list-recordings",
+    "grain-list-teams",
+    "grain-list-users",
+    "grain-manage-recording-sharing",
+    "grain-update-recording",
+    "grain-new-highlight-instant",
+    "grain-new-recording-instant",
+    "grain-new-story-instant",
+    "grain-removed-highlight-instant",
+    "grain-removed-recording-instant",
+    "grain-removed-story-instant",
+    "grain-updated-highlight-instant",
+    "grain-updated-recording-instant",
+    "grain-updated-story-instant"
+  ],
+  "npmImports": [
+    "fs"
+  ]
+}

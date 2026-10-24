@@ -1,0 +1,7 @@
+{
+  "key": "jira_service_desk-manage-request-attachment",
+  "name": "Manage Request Attachment",
+  "description": "Adds, replaces, or deletes a single attachment on a customer request (ticket) that already exists.",
+  "type": "action",
+  "version": "0.0.3"
+}

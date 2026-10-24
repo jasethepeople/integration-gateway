@@ -1,0 +1,7 @@
+{
+  "key": "square-list-location-options",
+  "name": "List Location Options",
+  "description": "Retrieves available options for the Location field.",
+  "type": "action",
+  "version": "0.0.1"
+}

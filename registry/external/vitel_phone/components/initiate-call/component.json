@@ -1,0 +1,7 @@
+{
+  "key": "vitel_phone-initiate-call",
+  "name": "Initiate Call",
+  "description": "Initiate a call. [See the documentation](https://www.vitelglobal.com)",
+  "type": "action",
+  "version": "0.0.2"
+}

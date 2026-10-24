@@ -1,0 +1,7 @@
+{
+  "key": "hedy-get-highlight",
+  "name": "Get Highlight",
+  "description": "Retrieves full details for a single AI-generated highlight by ID, including the raw quote, cleaned quote, main idea, and AI insight.",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "ip2location-query-ip-info",
+  "name": "Query IP address",
+  "description": "Query IP address using IP2Location API. [See the docs here](https://www.ip2location.com/web-service/ip2location) for how to use this API.",
+  "type": "action",
+  "version": "0.0.4"
+}

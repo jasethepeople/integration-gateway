@@ -1,0 +1,26 @@
+{
+  "app": "botconversa",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "subscriberId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tagId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "botconversa-add-tag",
+    "botconversa-create-subscriber",
+    "botconversa-list-subscriber-id-options",
+    "botconversa-list-tag-id-options",
+    "botconversa-send-message"
+  ]
+}

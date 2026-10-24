@@ -1,0 +1,34 @@
+{
+  "app": "lnk_bio",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "link": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "image": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "linkId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "lnk_bio-create-link",
+    "lnk_bio-delete-link"
+  ],
+  "npmImports": [
+    "querystring"
+  ]
+}

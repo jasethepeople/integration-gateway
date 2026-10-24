@@ -1,0 +1,7 @@
+{
+  "key": "peakon_employee_voice-get-engagement-overview",
+  "name": "Get Engagement Overview",
+  "description": "Returns the engagement score, response rate, NPS breakdown, and favorability data ",
+  "type": "action",
+  "version": "0.0.2"
+}

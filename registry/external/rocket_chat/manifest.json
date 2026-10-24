@@ -1,0 +1,29 @@
+{
+  "app": "rocket_chat",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "username": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "channelId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "rocket_chat-create-channel",
+    "rocket_chat-list-channel-id-options",
+    "rocket_chat-list-username-options",
+    "rocket_chat-send-direct-message",
+    "rocket_chat-set-status",
+    "rocket_chat-new-channel-created",
+    "rocket_chat-new-message-public-channel",
+    "rocket_chat-new-user-created"
+  ]
+}

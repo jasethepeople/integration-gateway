@@ -1,0 +1,15 @@
+{
+  "app": "syncmate_by_assitro",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "syncmate_by_assitro-send-bulk-messages",
+    "syncmate_by_assitro-send-message"
+  ]
+}

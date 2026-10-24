@@ -1,0 +1,7 @@
+{
+  "key": "zoho_notebook-list-notebooks",
+  "name": "List Notebooks",
+  "description": "Retrieve a list of all notebooks created by the user.",
+  "type": "action",
+  "version": "0.0.2"
+}

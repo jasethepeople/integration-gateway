@@ -1,0 +1,7 @@
+{
+  "key": "roundtable-design-architecture",
+  "name": "Design Architecture",
+  "description": "Get architectural recommendations from multiple AI models for system design decisions. [See the documentation](https://roundtable.now)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,39 @@
+{
+  "app": "actitime",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workflowStatusId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "typeOfWorkId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "leaveTypeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "url": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "actitime-create-customer",
+    "actitime-create-task",
+    "actitime-modify-leave-time",
+    "actitime-new-customer-instant",
+    "actitime-new-task-instant",
+    "actitime-updated-time-track-instant"
+  ]
+}

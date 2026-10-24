@@ -1,0 +1,104 @@
+{
+  "app": "talenthr",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "hireDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "employmentStatusId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "employeeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timeOffRequestId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobTitleId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobLocationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "divisionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "departmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "address": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "nationality": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emergencyContactRelationshipTypeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobPositionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dataFields": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "requestId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "responseStatus": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "talenthr-create-employee",
+    "talenthr-list-country-options",
+    "talenthr-list-department-id-options",
+    "talenthr-list-division-id-options",
+    "talenthr-list-emergency-contact-relationship-type-id-options",
+    "talenthr-list-employee-id-options",
+    "talenthr-list-employment-status-id-options",
+    "talenthr-list-job-location-id-options",
+    "talenthr-list-job-position-id-options",
+    "talenthr-list-job-title-id-options",
+    "talenthr-list-nationality-options",
+    "talenthr-respond-time-off-request",
+    "talenthr-update-employee",
+    "talenthr-new-ats-application",
+    "talenthr-new-employee"
+  ]
+}

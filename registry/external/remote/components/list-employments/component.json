@@ -1,0 +1,7 @@
+{
+  "key": "remote-list-employments",
+  "name": "List Employments",
+  "description": "List employments in Remote. [See the documentation](https://developer.remote.com/reference/get_index_employment)",
+  "type": "action",
+  "version": "0.0.1"
+}

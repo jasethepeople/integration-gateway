@@ -1,0 +1,7 @@
+{
+  "key": "google_drive-list-shared-drives",
+  "name": "List Shared Drives",
+  "description": "List shared drives accessible to the authenticated user.",
+  "type": "action",
+  "version": "0.0.9"
+}

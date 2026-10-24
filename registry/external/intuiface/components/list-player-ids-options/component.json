@@ -1,0 +1,7 @@
+{
+  "key": "intuiface-list-player-ids-options",
+  "name": "List Player IDs Options",
+  "description": "Retrieves available options for the Player IDs field.",
+  "type": "action",
+  "version": "0.0.1"
+}

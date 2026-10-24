@@ -1,0 +1,7 @@
+{
+  "key": "zoom-meeting-created",
+  "name": "Meeting Created (Instant)",
+  "description": "Emit new event each time a meeting is created where you're the host",
+  "type": "source",
+  "version": "0.1.12"
+}

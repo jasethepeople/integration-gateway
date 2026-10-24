@@ -1,0 +1,19 @@
+{
+  "app": "chatbot",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "developer_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "chatbot-create-user",
+    "chatbot-get-users",
+    "chatbot-new-event"
+  ],
+  "npmImports": [
+    "uuid"
+  ]
+}

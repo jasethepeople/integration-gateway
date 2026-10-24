@@ -1,0 +1,7 @@
+{
+  "key": "mailchimp-new-or-updated-list-segment",
+  "name": "New or Updated List Segment",
+  "description": "Emit new event when segment is either created or updated.",
+  "type": "source",
+  "version": "0.0.3"
+}

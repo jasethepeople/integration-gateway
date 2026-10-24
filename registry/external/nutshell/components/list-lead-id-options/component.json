@@ -1,0 +1,7 @@
+{
+  "key": "nutshell-list-lead-id-options",
+  "name": "List Lead ID Options",
+  "description": "Retrieves available options for the Lead ID field.",
+  "type": "action",
+  "version": "1.0.0"
+}

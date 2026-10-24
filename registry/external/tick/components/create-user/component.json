@@ -1,0 +1,7 @@
+{
+  "key": "tick-create-user",
+  "name": "Create User",
+  "description": "Creates a user. [See docs here](https://github.com/tick/tick-api/blob/master/sections/users.md#create-user)",
+  "type": "action",
+  "version": "0.0.2"
+}

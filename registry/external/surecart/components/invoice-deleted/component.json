@@ -1,0 +1,7 @@
+{
+  "key": "surecart-invoice-deleted",
+  "name": "New Invoice Deleted (Instant)",
+  "description": "Emit new event when an invoice is deleted. [See the documentation](https://developer.surecart.com/api-reference/webhook-endpoints/create)",
+  "type": "source",
+  "version": "0.0.1"
+}

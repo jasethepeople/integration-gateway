@@ -1,0 +1,17 @@
+{
+  "app": "trackingtime",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "app_password": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "trackingtime-list-project-id-options",
+    "trackingtime-list-task-id-options",
+    "trackingtime-start-tracking-time",
+    "trackingtime-stop-tracking-time"
+  ]
+}

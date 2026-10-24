@@ -1,0 +1,7 @@
+{
+  "key": "payrexx-create-gateway",
+  "name": "Create Gateway",
+  "description": "Create a new gateway. [See the documentation](https://developers.payrexx.com/reference/create-a-gateway)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,40 @@
+{
+  "app": "upbooks",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "salaryComponentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "expenseIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "organization_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "upbooks-add-employee",
+    "upbooks-create-expense-category",
+    "upbooks-list-account-id-options",
+    "upbooks-list-expense-ids-options",
+    "upbooks-list-salary-component-id-options",
+    "upbooks-record-outward-payment",
+    "upbooks-new-data"
+  ]
+}

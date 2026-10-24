@@ -1,0 +1,7 @@
+{
+  "key": "order_desk-list-orders",
+  "name": "List Orders",
+  "description": "List Orders based on a search criteria [See the documentation](https://apidocs.orderdesk.com/#get-multiple-orders).",
+  "type": "action",
+  "version": "0.0.2"
+}

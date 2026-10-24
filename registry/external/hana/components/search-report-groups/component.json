@@ -1,0 +1,7 @@
+{
+  "key": "hana-search-report-groups",
+  "name": "Search Report Groups",
+  "description": "Search for report groups. [See the documentation](https://docs.hanabot.ai/docs/tutorial-connectors/hana-api#get-report-groups)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "vc_deal_flow_signal-new-trending-startup",
+  "name": "New Trending Startup",
+  "description": "Emit new event for each new startup that enters the top 20 by engineering acceleration. Polls weekly. Dedupes by `period + name`.",
+  "type": "source",
+  "version": "0.0.1"
+}

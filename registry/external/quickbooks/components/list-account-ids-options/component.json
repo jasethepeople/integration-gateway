@@ -1,0 +1,7 @@
+{
+  "key": "quickbooks-list-account-ids-options",
+  "name": "List Account IDs Options",
+  "description": "Retrieves available options for the Account IDs field.",
+  "type": "action",
+  "version": "0.0.1"
+}

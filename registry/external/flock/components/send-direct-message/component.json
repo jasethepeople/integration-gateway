@@ -1,0 +1,7 @@
+{
+  "key": "flock-send-direct-message",
+  "name": "Send Direct Message",
+  "description": "Send a direct message to a user. [See the documentation](https://docs.flock.com/display/flockos/chat.sendMessage)",
+  "type": "action",
+  "version": "0.0.1"
+}

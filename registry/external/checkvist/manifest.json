@@ -1,0 +1,31 @@
+{
+  "app": "checkvist",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "listId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "parentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "checkvist-create-list-item",
+    "checkvist-create-multiple-list-items",
+    "checkvist-create-new-list",
+    "checkvist-list-list-id-options",
+    "checkvist-new-list-item",
+    "checkvist-new-list"
+  ]
+}

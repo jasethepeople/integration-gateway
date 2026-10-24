@@ -1,0 +1,7 @@
+{
+  "key": "google_drive-new-or-modified-folders",
+  "name": "New or Modified Folders (Instant)",
+  "description": "Emit new event when a folder is created or modified in the selected Drive",
+  "type": "source",
+  "version": "1.0.0"
+}

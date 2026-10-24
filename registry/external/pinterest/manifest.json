@@ -1,0 +1,50 @@
+{
+  "app": "pinterest",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "boardId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "boardSectionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "link": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "altText": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "media": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pinterest-create-pin",
+    "pinterest-new-board",
+    "pinterest-new-pin"
+  ],
+  "npmImports": [
+    "fs",
+    "js-base64",
+    "mime-types",
+    "url-exist"
+  ]
+}

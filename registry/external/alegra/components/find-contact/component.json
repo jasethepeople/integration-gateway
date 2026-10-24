@@ -1,0 +1,7 @@
+{
+  "key": "alegra-find-contact",
+  "name": "Find Contact",
+  "description": "Search for an existing contact in Alegra based on name or identification. [See the documentation](https://developer.alegra.com/reference/listcontacts-1)",
+  "type": "action",
+  "version": "0.0.2"
+}

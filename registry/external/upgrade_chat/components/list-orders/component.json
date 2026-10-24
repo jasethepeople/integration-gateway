@@ -1,0 +1,7 @@
+{
+  "key": "upgrade_chat-list-orders",
+  "name": "List Orders",
+  "description": "Retrieve a list of orders. [See the documentation](https://upgrade.chat/developers/documentation)",
+  "type": "action",
+  "version": "0.0.1"
+}

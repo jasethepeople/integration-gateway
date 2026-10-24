@@ -1,0 +1,7 @@
+{
+  "key": "planview_leankit-unblock-card",
+  "name": "Unblock Card (Or Task)",
+  "description": "Unlock a card or a task. [See the docs here](https://success.planview.com/Planview_AgilePlace/AgilePlace_API/01_v2/card/update)",
+  "type": "action",
+  "version": "0.0.3"
+}

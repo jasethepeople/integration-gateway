@@ -1,0 +1,28 @@
+{
+  "app": "coinmarketcal",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "categories": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "coins": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "coinmarketcal-list-categories",
+    "coinmarketcal-list-coins",
+    "coinmarketcal-search-events",
+    "coinmarketcal-event-added"
+  ],
+  "npmImports": [
+    "moment"
+  ]
+}

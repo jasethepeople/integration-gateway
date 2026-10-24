@@ -1,0 +1,7 @@
+{
+  "key": "postgresql-upsert-row",
+  "name": "Upsert Row",
+  "description": "Adds a new row or updates an existing row. [See the documentation](https://node-postgres.com/features/queries)",
+  "type": "action",
+  "version": "2.0.9"
+}

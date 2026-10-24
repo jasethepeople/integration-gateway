@@ -1,0 +1,26 @@
+{
+  "app": "reform",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "document": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "reform-extract-data-from-document",
+    "reform-extract-data-from-text"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "app": "google_safebrowsing",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "threatTypes": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "platformTypes": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "threatEntryTypes": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "threatLists": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "google_safebrowsing-check-url-safety",
+    "google_safebrowsing-get-threat-list-updates",
+    "google_safebrowsing-list-threat-lists-options",
+    "google_safebrowsing-list-threat-types-options",
+    "google_safebrowsing-threat-list-updated"
+  ]
+}

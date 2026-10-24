@@ -1,0 +1,7 @@
+{
+  "key": "dear-new-sale-full-payment-received",
+  "name": "New Sale Full Payment Received",
+  "description": "Emit new event when a sale full payment is received",
+  "type": "source",
+  "version": "0.0.1"
+}

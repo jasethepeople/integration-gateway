@@ -1,0 +1,7 @@
+{
+  "key": "resource_guru-list-booking-id-options",
+  "name": "List Booking Id Options",
+  "description": "Retrieves available options for the Booking Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

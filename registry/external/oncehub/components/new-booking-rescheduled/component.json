@@ -1,0 +1,7 @@
+{
+  "key": "oncehub-new-booking-rescheduled",
+  "name": "New Booking Recheduled (Instant)",
+  "description": "Emit new event when a booking is rescheduled. [See the docs](https://developers.oncehub.com/reference/create-a-webhook)",
+  "type": "source",
+  "version": "0.0.1"
+}

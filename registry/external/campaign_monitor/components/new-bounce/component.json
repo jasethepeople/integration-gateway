@@ -1,0 +1,7 @@
+{
+  "key": "campaign_monitor-new-bounce",
+  "name": "New Bounce",
+  "description": "Emit new event when a campaign email bounces",
+  "type": "source",
+  "version": "0.0.1"
+}

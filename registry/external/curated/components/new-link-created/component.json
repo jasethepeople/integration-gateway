@@ -1,0 +1,7 @@
+{
+  "key": "curated-new-link-created",
+  "name": "New Link Created",
+  "description": "Emit new event when a link is created.",
+  "type": "source",
+  "version": "0.0.2"
+}

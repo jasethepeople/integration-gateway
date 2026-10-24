@@ -1,0 +1,7 @@
+{
+  "key": "teamgate-list-industry-id-options",
+  "name": "List Industry Id Options",
+  "description": "Retrieves available options for the Industry Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

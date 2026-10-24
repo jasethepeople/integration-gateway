@@ -1,0 +1,39 @@
+{
+  "app": "upgrade_chat",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "orderUuid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productUuid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "offset": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "upgrade_chat-get-order",
+    "upgrade_chat-get-product",
+    "upgrade_chat-list-order-uuid-options",
+    "upgrade_chat-list-orders",
+    "upgrade_chat-list-product-uuid-options",
+    "upgrade_chat-list-products",
+    "upgrade_chat-new-order-created",
+    "upgrade_chat-new-product-created",
+    "upgrade_chat-order-updated",
+    "upgrade_chat-product-updated"
+  ]
+}

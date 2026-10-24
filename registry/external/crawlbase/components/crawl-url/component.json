@@ -1,0 +1,7 @@
+{
+  "key": "crawlbase-crawl-url",
+  "name": "Crawl URL",
+  "description": "Crawl a URL. [See the documentation](https://crawlbase.com/docs/crawling-api/)",
+  "type": "action",
+  "version": "0.0.1"
+}

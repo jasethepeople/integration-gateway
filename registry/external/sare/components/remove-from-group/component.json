@@ -1,0 +1,7 @@
+{
+  "key": "sare-remove-from-group",
+  "name": "Remove Email from Groups",
+  "description": "Remove email from specified groups in SARE. [See the documentation](https://dev.sare.pl/rest-api/other/index.html#post-/group/remove_emails)",
+  "type": "action",
+  "version": "0.0.2"
+}

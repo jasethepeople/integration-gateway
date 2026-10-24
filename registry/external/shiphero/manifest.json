@@ -1,0 +1,28 @@
+{
+  "app": "shiphero",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "orderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "shiphero-get-order",
+    "shiphero-list-products",
+    "shiphero-update-order",
+    "shiphero-order-allocated-instant",
+    "shiphero-order-deallocated-instant",
+    "shiphero-order-packed-out-instant"
+  ],
+  "npmImports": [
+    "crypto",
+    "graphql",
+    "graphql-request"
+  ]
+}

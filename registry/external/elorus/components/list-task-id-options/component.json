@@ -1,0 +1,7 @@
+{
+  "key": "elorus-list-task-id-options",
+  "name": "List Task Id Options",
+  "description": "Retrieves available options for the Task Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

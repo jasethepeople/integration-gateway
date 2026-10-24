@@ -1,0 +1,7 @@
+{
+  "key": "billbee-list-cloud-storage-id-options",
+  "name": "List Cloud Storage ID Options",
+  "description": "Retrieves available options for the Cloud Storage ID field.",
+  "type": "action",
+  "version": "0.0.2"
+}

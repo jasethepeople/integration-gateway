@@ -1,0 +1,7 @@
+{
+  "key": "boloforms-new-template-response-instant",
+  "name": "New Template Response (Instant)",
+  "description": "Emit new event when a new form template response is filled.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "lusha-single-contact-search",
+  "name": "Search Single Contact",
+  "description": "Search for a single contact using various filters. [See the documentation](https://docs.lusha.com/apis/index2/person/personcontroller_searchsinglecontact)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "orbit-list-workspace-slug-options",
+  "name": "List Workspace Slug Options",
+  "description": "Retrieves available options for the Workspace Slug field.",
+  "type": "action",
+  "version": "0.0.1"
+}

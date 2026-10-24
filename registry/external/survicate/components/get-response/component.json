@@ -1,0 +1,7 @@
+{
+  "key": "survicate-get-response",
+  "name": "Get Response",
+  "description": "Retrieves detailed information about a specific response. [See the documentation](https://developers.survicate.com/data-export/response/)",
+  "type": "action",
+  "version": "0.0.1"
+}

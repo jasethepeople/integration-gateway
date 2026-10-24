@@ -1,0 +1,7 @@
+{
+  "key": "frontapp-list-comment-mentions",
+  "name": "List Comment Mentions",
+  "description": "List the teammates mentioned in a comment. [See the documentation](https://dev.frontapp.com/reference/list-comment-mentions)",
+  "type": "action",
+  "version": "0.0.7"
+}

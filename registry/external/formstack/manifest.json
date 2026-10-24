@@ -1,0 +1,27 @@
+{
+  "app": "formstack",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "formId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "formstack-create-form-submission",
+    "formstack-create-form",
+    "formstack-get-form",
+    "formstack-list-form-id-options",
+    "formstack-new-form-submission",
+    "formstack-new-form"
+  ],
+  "npmImports": [
+    "crypto",
+    "uuid"
+  ]
+}

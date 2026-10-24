@@ -1,0 +1,7 @@
+{
+  "key": "beebole_app-list-untimed-employees",
+  "name": "List untimed employees",
+  "description": "Get a list of employees without any time entry for a given period of time",
+  "type": "action",
+  "version": "0.0.2"
+}

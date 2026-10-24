@@ -1,0 +1,7 @@
+{
+  "key": "zoho_sign-document-created",
+  "name": "New Document Created",
+  "description": "Emit new event when a new document is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

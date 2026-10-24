@@ -1,0 +1,25 @@
+{
+  "app": "meetingpulse",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "meetingId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pollId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "meetingpulse-list-meeting-id-options",
+    "meetingpulse-new-contribution-to-topic",
+    "meetingpulse-new-lead-generated",
+    "meetingpulse-new-poll-data"
+  ]
+}

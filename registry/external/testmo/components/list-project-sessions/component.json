@@ -1,0 +1,7 @@
+{
+  "key": "testmo-list-project-sessions",
+  "name": "List Project Sessions",
+  "description": "List all sessions for a project. [See the documentation](https://docs.testmo.com/api/reference/sessions#get-projects-project_id-sessions)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "confluence-search-content",
+  "name": "Search Content",
+  "description": "Searches for content using the Confluence Query Language (CQL). [See the documentation](https://developer.atlassian.com/cloud/confluence/rest/v1/api-group-search#api-wiki-rest-api-search-get)",
+  "type": "action",
+  "version": "0.0.7"
+}

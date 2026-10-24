@@ -1,0 +1,53 @@
+{
+  "app": "sapling_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "text": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sessionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lang": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "autoApply": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "medical": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "editId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "completionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sapling_ai-accept-completion",
+    "sapling_ai-accept-edit",
+    "sapling_ai-reject-edit",
+    "sapling_ai-request-completion",
+    "sapling_ai-request-edits"
+  ],
+  "npmImports": [
+    "uuid"
+  ]
+}

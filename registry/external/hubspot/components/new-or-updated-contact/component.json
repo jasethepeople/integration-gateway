@@ -1,0 +1,7 @@
+{
+  "key": "hubspot-new-or-updated-contact",
+  "name": "New or Updated Contact",
+  "description": "Emit new event for each new or updated contact in Hubspot.",
+  "type": "source",
+  "version": "0.0.36"
+}

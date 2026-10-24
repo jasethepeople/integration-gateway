@@ -1,0 +1,7 @@
+{
+  "key": "roll-create-company",
+  "name": "Create Company",
+  "description": "Create a new company [See the docs here](https://docs.rollhq.com/docs/roll-api#api-url)",
+  "type": "action",
+  "version": "0.0.2"
+}

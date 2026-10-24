@@ -1,0 +1,36 @@
+{
+  "app": "flowla",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "companyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "labelId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "statusId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "flowla-create-flow-from-template",
+    "flowla-list-company-id-options",
+    "flowla-list-label-id-options",
+    "flowla-list-status-id-options",
+    "flowla-list-user-id-options",
+    "flowla-flow-updated",
+    "flowla-new-flow-created"
+  ]
+}

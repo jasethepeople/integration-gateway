@@ -1,0 +1,7 @@
+{
+  "key": "little_green_light-new-constituent-created",
+  "name": "New Constituent Created",
+  "description": "Emit new event for each new constituent created in Little Green Light.",
+  "type": "source",
+  "version": "0.0.1"
+}

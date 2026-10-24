@@ -1,0 +1,7 @@
+{
+  "key": "pagerduty-create-schedule-override",
+  "name": "Create Schedule Override",
+  "description": "Override a schedule layer to assign a specific user for a time window.",
+  "type": "action",
+  "version": "0.0.2"
+}

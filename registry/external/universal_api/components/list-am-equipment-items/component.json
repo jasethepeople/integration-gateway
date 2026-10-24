@@ -1,0 +1,7 @@
+{
+  "key": "universal_api-list-am-equipment-items",
+  "name": "List Asset Management Equipment Items",
+  "description": "List equipment items from the Asset Management (AM) API on Universal API. Returns an array of equipment item objects (paginated internally, up to `maxResults`). [See the documentation](https://docs.universalapi.io/reference/list-equipment-items).",
+  "type": "action",
+  "version": "0.0.1"
+}

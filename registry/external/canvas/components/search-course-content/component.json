@@ -1,0 +1,7 @@
+{
+  "key": "canvas-search-course-content",
+  "name": "Search Course Content",
+  "description": "Search for content in a course. [See the documentation](https://mitt.uib.no/doc/api/all_resources.html#method.smart_search.search)",
+  "type": "action",
+  "version": "0.0.1"
+}

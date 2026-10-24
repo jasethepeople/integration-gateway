@@ -1,0 +1,54 @@
+{
+  "app": "freshchat",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "conversationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "agentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "actorId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "chat_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "freshchat-fetch-conversation-details",
+    "freshchat-get-user",
+    "freshchat-list-agent-id-options",
+    "freshchat-list-agents",
+    "freshchat-list-all-conversation-properties",
+    "freshchat-list-channels",
+    "freshchat-list-group-id-options",
+    "freshchat-list-messages",
+    "freshchat-list-user-id-options",
+    "freshchat-send-message-in-chat",
+    "freshchat-update-conversation-status",
+    "freshchat-new-conversation-started",
+    "freshchat-new-message-received"
+  ]
+}

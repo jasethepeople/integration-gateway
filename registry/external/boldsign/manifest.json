@@ -1,0 +1,41 @@
+{
+  "app": "boldsign",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "brandId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "labels": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "cc": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "sentBy": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "boldsign-list-brand-id-options",
+    "boldsign-list-cc-options",
+    "boldsign-list-sent-by-options",
+    "boldsign-list-template-id-options",
+    "boldsign-send-document-template",
+    "boldsign-new-document-completed",
+    "boldsign-new-document-declined",
+    "boldsign-new-document-sent"
+  ]
+}

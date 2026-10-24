@@ -1,0 +1,7 @@
+{
+  "key": "freshdesk-create-contact",
+  "name": "Create a Contact",
+  "description": "Create a contact. [See the documentation](https://developers.freshdesk.com/api/#create_contact)",
+  "type": "action",
+  "version": "0.0.16"
+}

@@ -1,0 +1,43 @@
+{
+  "app": "facebook_marketing",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerFileSource": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "adAccountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customAudienceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "facebook_marketing-add-email-to-custom-audience",
+    "facebook_marketing-create-custom-audience",
+    "facebook_marketing-list-ad-account-id-options"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

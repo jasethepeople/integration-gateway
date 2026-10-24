@@ -1,0 +1,19 @@
+{
+  "app": "omniconvert",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_user": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "omniconvert-new-ab-test-created",
+    "omniconvert-new-survey-created"
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "app": "aws",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "region": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workgroupName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "database": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "schema": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "table": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "uniqueColumn": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eventData": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "objectKey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sqlParameters": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "info": {
+      "kind": "propDefinition",
+      "type": "alert"
+    },
+    "accessKeyId": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "secretAccessKey": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "aws-cloudwatch-logs-put-log-event",
+    "aws-dynamodb-create-table",
+    "aws-dynamodb-execute-statement",
+    "aws-dynamodb-get-item",
+    "aws-dynamodb-put-item",
+    "aws-dynamodb-query",
+    "aws-dynamodb-scan",
+    "aws-dynamodb-update-item",
+    "aws-dynamodb-update-table",
+    "aws-eventbridge-send-event",
+    "aws-lambda-create-function",
+    "aws-lambda-invoke-function",
+    "aws-list-region-options",
+    "aws-redshift-create-rows",
+    "aws-redshift-delete-rows",
+    "aws-redshift-query-database",
+    "aws-redshift-update-rows",
+    "aws-s3-download-file-to-tmp",
+    "aws-s3-generate-presigned-url",
+    "aws-s3-upload-base64-as-file",
+    "aws-s3-upload-files",
+    "aws-sns-send-message",
+    "aws-sqs-send-message",
+    "aws-new-dynamodb-stream-event",
+    "aws-new-emails-sent-to-ses-catch-all-domain",
+    "aws-new-records-returned-by-cloudwatch-logs-insights-query",
+    "aws-new-sns-messages",
+    "aws-rds-new-event",
+    "aws-redshift-new-row",
+    "aws-redshift-updated-row",
+    "aws-s3-deleted-file",
+    "aws-s3-new-event",
+    "aws-s3-new-file",
+    "aws-s3-restored-file"
+  ],
+  "npmImports": [
+    "@aws-sdk/client-cloudwatch-logs",
+    "@aws-sdk/client-dynamodb",
+    "@aws-sdk/client-dynamodb-streams",
+    "@aws-sdk/client-ec2",
+    "@aws-sdk/client-eventbridge",
+    "@aws-sdk/client-iam",
+    "@aws-sdk/client-lambda",
+    "@aws-sdk/client-rds",
+    "@aws-sdk/client-redshift-data",
+    "@aws-sdk/client-redshift-serverless",
+    "@aws-sdk/client-s3",
+    "@aws-sdk/client-ses",
+    "@aws-sdk/client-sfn",
+    "@aws-sdk/client-sns",
+    "@aws-sdk/client-sqs",
+    "@aws-sdk/client-sts",
+    "@aws-sdk/lib-storage",
+    "@aws-sdk/s3-request-presigner",
+    "@aws-sdk/signature-v4-crt",
+    "adm-zip",
+    "dedent",
+    "file-type",
+    "fs",
+    "mailparser",
+    "nanoid",
+    "path",
+    "stream",
+    "uuid"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "tuya-new-device-parameter-updated",
+  "name": "New Device Parameter Updated",
+  "description": "Emit new event when the specified device parameter is updated. [See the documentation](https://developer.tuya.com/en/docs/cloud/device-management?id=K9g6rfntdz78a#title-10-Get%20a%20list%20of%20devices%20under%20a%20specified%20user)",
+  "type": "source",
+  "version": "0.0.1"
+}

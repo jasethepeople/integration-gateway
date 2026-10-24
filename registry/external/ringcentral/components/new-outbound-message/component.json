@@ -1,0 +1,7 @@
+{
+  "key": "ringcentral-new-outbound-message",
+  "name": "New Outbound Message Event (Instant)",
+  "description": "Emit new event for each outbound message event. This only includes the event, not the actual message.",
+  "type": "source",
+  "version": "0.1.4"
+}

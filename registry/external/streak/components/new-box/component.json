@@ -1,0 +1,7 @@
+{
+  "key": "streak-new-box",
+  "name": "New Box (Instant)",
+  "description": "Emit new event when a new box is created in a pipeline.",
+  "type": "source",
+  "version": "0.0.2"
+}

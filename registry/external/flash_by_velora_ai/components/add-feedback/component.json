@@ -1,0 +1,7 @@
+{
+  "key": "flash_by_velora_ai-add-feedback",
+  "name": "Add Feedback",
+  "description": "Adds customer feedback.",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "sendit-post-published",
+  "name": "New Post Published",
+  "description": "Emit new event when a post is successfully published. [See the documentation](https://sendit.infiniteappsai.com/docs/api)",
+  "type": "source",
+  "version": "0.0.1"
+}

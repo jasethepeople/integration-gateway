@@ -1,0 +1,7 @@
+{
+  "key": "seqera-list-platform-id-options",
+  "name": "List Platform ID Options",
+  "description": "Retrieves available options for the Platform ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

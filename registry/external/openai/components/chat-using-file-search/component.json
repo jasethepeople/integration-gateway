@@ -1,0 +1,7 @@
+{
+  "key": "openai-chat-using-file-search",
+  "name": "Chat using File Search",
+  "description": "Chat with your files knowledge base (vector stores). [See the documentation](https://platform.openai.com/docs/guides/tools-file-search)",
+  "type": "action",
+  "version": "0.0.10"
+}

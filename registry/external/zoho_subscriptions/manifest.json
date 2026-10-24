@@ -1,0 +1,57 @@
+{
+  "app": "zoho_subscriptions",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "cardId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactPersonId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customFields": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "organizationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "paymentTerms": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "paymentTermsLabel": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "planCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zoho_subscriptions-create-customer",
+    "zoho_subscriptions-create-subscription",
+    "zoho_subscriptions-list-organization-id-options",
+    "zoho_subscriptions-payment-failure",
+    "zoho_subscriptions-subscription-created"
+  ],
+  "npmImports": [
+    "moment"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "app": "campaign_cleaner",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "campaign_cleaner-get-campaign-status",
+    "campaign_cleaner-send-campaign"
+  ]
+}

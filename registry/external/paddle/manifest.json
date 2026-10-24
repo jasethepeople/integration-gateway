@@ -1,0 +1,36 @@
+{
+  "app": "paddle",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customData": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "auth_code": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "paddle-create-customer",
+    "paddle-get-customers",
+    "paddle-update-customer"
+  ]
+}

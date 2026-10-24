@@ -1,0 +1,7 @@
+{
+  "key": "mews-fetch-products",
+  "name": "Fetch Products",
+  "description": "Retrieve products using Mews Connector API. [See the documentation](https://mews-systems.gitbook.io/connector-api/operations/products#get-all-products)",
+  "type": "action",
+  "version": "0.1.0"
+}

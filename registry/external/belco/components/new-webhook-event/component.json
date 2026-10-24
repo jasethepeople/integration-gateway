@@ -1,0 +1,7 @@
+{
+  "key": "belco-new-webhook-event",
+  "name": "New Webhook Event (Instant)",
+  "description": "Emit new event for each new webhook event",
+  "type": "source",
+  "version": "0.0.3"
+}

@@ -1,0 +1,30 @@
+{
+  "app": "customgpt",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "conversationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "customgpt-create-conversation",
+    "customgpt-create-project",
+    "customgpt-list-project-id-options",
+    "customgpt-send-message",
+    "customgpt-new-conversation",
+    "customgpt-new-message"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

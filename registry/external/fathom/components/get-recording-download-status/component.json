@@ -1,0 +1,7 @@
+{
+  "key": "fathom-get-recording-download-status",
+  "name": "Get Recording Download Status",
+  "description": "Check the status of a previously requested recording download and, once `completed`, get the signed video/audio download URLs. Use **Request Recording Download** first to obtain a Download ID. [See the documentation](https://developers.fathom.ai/api-reference/recordings/get-download-status)",
+  "type": "action",
+  "version": "0.0.2"
+}

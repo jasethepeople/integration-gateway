@@ -1,0 +1,7 @@
+{
+  "key": "pdf_api_io-render-template",
+  "name": "Render Template",
+  "description": "Dynamically create a PDF document from a template. Returns a URL to the PDF document. [See the documentation](https://pdf-api.io/en/docs/api/render-pdf)",
+  "type": "action",
+  "version": "0.0.1"
+}

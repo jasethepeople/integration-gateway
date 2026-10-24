@@ -1,0 +1,7 @@
+{
+  "key": "harvest-list-task-assignments",
+  "name": "List Task Assignments",
+  "description": "Optional free-form project ID, e.g. `14308069`. When set, routes to the per-project endpoint `/projects/{project_id}/task_assignments`; when omitted uses the global `/task_assignments`. Run **Get Projects** first to find valid IDs.",
+  "type": "action",
+  "version": "0.0.1"
+}

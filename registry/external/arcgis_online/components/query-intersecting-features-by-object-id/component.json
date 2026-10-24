@@ -1,0 +1,7 @@
+{
+  "key": "arcgis_online-query-intersecting-features-by-object-id",
+  "name": "Find Intersecting Features by Object ID",
+  "description": "Load a feature by OBJECTID from the source layer, then query target layers in the same Feature Service for spatially intersecting features. Returns per-layer attribute arrays. [See the documentation](https://developers.arcgis.com/rest/services-reference/enterprise/query-feature-service-layer-.htm)",
+  "type": "action",
+  "version": "0.1.1"
+}

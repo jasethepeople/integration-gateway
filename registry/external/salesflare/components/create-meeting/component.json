@@ -1,0 +1,7 @@
+{
+  "key": "salesflare-create-meeting",
+  "name": "Create Meeting",
+  "description": "Create a meeting [See the docs here](https://api.salesflare.com/docs#operation/postMeetings)",
+  "type": "action",
+  "version": "0.0.2"
+}

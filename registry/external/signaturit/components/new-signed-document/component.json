@@ -1,0 +1,7 @@
+{
+  "key": "signaturit-new-signed-document",
+  "name": "New Signed Document",
+  "description": "Emit new event when a document has been newly signed.",
+  "type": "source",
+  "version": "0.0.2"
+}

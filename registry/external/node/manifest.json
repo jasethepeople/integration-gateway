@@ -1,0 +1,9 @@
+{
+  "app": "node",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "node-run-node-code"
+  ]
+}

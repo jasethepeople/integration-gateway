@@ -1,0 +1,26 @@
+{
+  "app": "pingdom",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "teamIds": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "userIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pingdom-create-http-check",
+    "pingdom-list-team-ids-options",
+    "pingdom-list-user-ids-options",
+    "pingdom-new-alert",
+    "pingdom-new-check"
+  ]
+}

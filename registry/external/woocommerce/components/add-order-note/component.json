@@ -1,0 +1,7 @@
+{
+  "key": "woocommerce-add-order-note",
+  "name": "Add Order Note",
+  "description": "Create a new note for an order. [See the docs](https://woocommerce.github.io/woocommerce-rest-api-docs/#create-an-order-note)",
+  "type": "action",
+  "version": "0.0.1"
+}

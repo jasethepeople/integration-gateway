@@ -1,0 +1,7 @@
+{
+  "key": "uberduck-list-voicemodel-uuid-options",
+  "name": "List Voice Model UUID Options",
+  "description": "Retrieves available options for the Voice Model UUID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

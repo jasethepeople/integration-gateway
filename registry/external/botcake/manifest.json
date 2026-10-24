@@ -1,0 +1,30 @@
+{
+  "app": "botcake",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "flowId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "keywordId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "page_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "botcake-create-keyword",
+    "botcake-get-tools",
+    "botcake-list-flow-id-options",
+    "botcake-list-keyword-id-options",
+    "botcake-update-keyword"
+  ]
+}

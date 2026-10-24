@@ -1,0 +1,41 @@
+{
+  "app": "screenshotbase",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "filename": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "format": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "quality": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "fullPage": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "viewportWidth": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "viewportHeight": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "screenshotbase-take-screenshot"
+  ],
+  "npmImports": [
+    "fs"
+  ]
+}

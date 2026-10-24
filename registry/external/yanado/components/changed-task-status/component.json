@@ -1,0 +1,7 @@
+{
+  "key": "yanado-changed-task-status",
+  "name": "Changed Task Status",
+  "description": "Emit new event when a task status changes",
+  "type": "source",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "codex-get-token-details",
+  "name": "Get Token Details",
+  "description": "Fetches current price, market cap, volume, liquidity, and metadata for one or more specific tokens by contract address.",
+  "type": "action",
+  "version": "0.0.2"
+}

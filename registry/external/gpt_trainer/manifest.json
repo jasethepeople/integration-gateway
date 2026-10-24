@@ -1,0 +1,25 @@
+{
+  "app": "gpt_trainer",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "chatbotUuid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sessionUuid": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "gpt_trainer-create-chatbot",
+    "gpt_trainer-create-message",
+    "gpt_trainer-create-session",
+    "gpt_trainer-list-chatbot-uuid-options"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "app": "outscraper",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timeInterval": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "links": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "placeIds": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "domain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "coordinates": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "outscraper-reverse-geocoding",
+    "outscraper-scrape-emails-contacts",
+    "outscraper-search-places",
+    "outscraper-new-task-finished"
+  ]
+}

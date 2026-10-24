@@ -1,0 +1,7 @@
+{
+  "key": "codereadr-generate-qr-code",
+  "name": "Generate QR Code",
+  "description": "Generates a unique QR code. [See the documentation](https://secure.codereadr.com/apidocs/BarcodeGenerator.md#generate)",
+  "type": "action",
+  "version": "0.0.3"
+}

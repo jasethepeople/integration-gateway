@@ -1,0 +1,7 @@
+{
+  "key": "vbout-list-audiences-options",
+  "name": "List Audiences Options",
+  "description": "Retrieves available options for the Audiences field.",
+  "type": "action",
+  "version": "0.0.1"
+}

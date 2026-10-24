@@ -1,0 +1,7 @@
+{
+  "key": "salesflare-new-opportunity",
+  "name": "New Opportunity Event",
+  "description": "Emit new events when new opportunities are created. [See the docs](https://api.salesflare.com/docs#operation/getOpportunities)",
+  "type": "source",
+  "version": "0.0.1"
+}

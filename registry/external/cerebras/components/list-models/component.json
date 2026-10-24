@@ -1,0 +1,7 @@
+{
+  "key": "cerebras-list-models",
+  "name": "List Models",
+  "description": "List all available Cerebras models. [See the documentation](https://inference-docs.cerebras.ai/api-reference/models)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "bunnydoc-new-completed-request-instant",
+  "name": "New Completed Signature Request (Instant)",
+  "description": "Emit new event each time a signature request is completed.",
+  "type": "source",
+  "version": "0.0.1"
+}

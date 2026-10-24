@@ -1,0 +1,7 @@
+{
+  "key": "klipfolio-list-datasource-id-options",
+  "name": "List Datasource ID Options",
+  "description": "Retrieves available options for the Datasource ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,184 @@
+{
+  "app": "shopify",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "blogId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "articleId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productVariantId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "collectionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "metaobjectType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "metaobjectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "locationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "inventoryItemId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productOptionIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "sortKey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "reverse": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "metafields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "orderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "draftOrderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fulfillmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fulfillmentOrderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "priceRuleId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "discountCodeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "shop_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "shopify-add-product-to-custom-collection",
+    "shopify-add-tags",
+    "shopify-bulk-import",
+    "shopify-cancel-fulfillment-order",
+    "shopify-cancel-fulfillment",
+    "shopify-cancel-order",
+    "shopify-create-article",
+    "shopify-create-blog",
+    "shopify-create-custom-collection",
+    "shopify-create-discount-codes-batch",
+    "shopify-create-gift-card",
+    "shopify-create-metafield",
+    "shopify-create-metaobject",
+    "shopify-create-order",
+    "shopify-create-page",
+    "shopify-create-product-variant",
+    "shopify-create-product",
+    "shopify-create-refund",
+    "shopify-create-return",
+    "shopify-create-smart-collection",
+    "shopify-delete-article",
+    "shopify-delete-blog",
+    "shopify-delete-discount-code",
+    "shopify-delete-metafield",
+    "shopify-delete-page",
+    "shopify-get-articles",
+    "shopify-get-assigned-fulfillment-orders",
+    "shopify-get-customer",
+    "shopify-get-customers",
+    "shopify-get-discount-code",
+    "shopify-get-draft-order",
+    "shopify-get-draft-orders",
+    "shopify-get-fulfillment-order",
+    "shopify-get-fulfillment-orders",
+    "shopify-get-fulfillment",
+    "shopify-get-metafields",
+    "shopify-get-metaobjects",
+    "shopify-get-pages",
+    "shopify-hold-fulfillment-order",
+    "shopify-list-discount-codes",
+    "shopify-list-price-rules",
+    "shopify-refund-return",
+    "shopify-search-custom-collection-by-name",
+    "shopify-search-orders",
+    "shopify-search-product-variant",
+    "shopify-search-products",
+    "shopify-send-order-invoice",
+    "shopify-submit-cancellation-request",
+    "shopify-update-article",
+    "shopify-update-discount-code",
+    "shopify-update-inventory-level",
+    "shopify-update-metafield",
+    "shopify-update-metaobject",
+    "shopify-update-order",
+    "shopify-update-page",
+    "shopify-update-product-variant",
+    "shopify-update-product",
+    "shopify-collection-updated",
+    "shopify-customer-data-request",
+    "shopify-new-abandoned-cart",
+    "shopify-new-article",
+    "shopify-new-event-emitted",
+    "shopify-new-page",
+    "shopify-new-product-created"
+  ],
+  "npmImports": [
+    "async-retry",
+    "crypto",
+    "form-data",
+    "lodash.get",
+    "shopify-api-node"
+  ]
+}

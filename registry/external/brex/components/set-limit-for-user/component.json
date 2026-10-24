@@ -1,0 +1,7 @@
+{
+  "key": "brex-set-limit-for-user",
+  "name": "Set Limit for User",
+  "description": "Sets a user's recurring monthly spend limit, replacing any limit already in place. This governs corporate cards (`Limit Type` = `USER`); vendor cards carry their own limit set on the card itself. Use **List Users** to find the user ID and **Get User Limit** to read the current limit. [See the documentation](https://developer.brex.com/openapi/team_api/users/setuserlimit)",
+  "type": "action",
+  "version": "0.1.3"
+}

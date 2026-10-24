@@ -1,0 +1,7 @@
+{
+  "key": "lucca-update-user-info",
+  "name": "Update User Info",
+  "description": "Update profile or HR information for an existing user. [See the documentation](https://developers.lucca.fr/api-reference/legacy/directory/update-a-user-by-id)",
+  "type": "action",
+  "version": "0.0.2"
+}

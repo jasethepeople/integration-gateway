@@ -1,0 +1,53 @@
+{
+  "app": "bybit",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "secret_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "bybit-generic-api-call",
+    "bybit-generic-market-account-ratio",
+    "bybit-generic-market-big-deal",
+    "bybit-generic-market-open-interest",
+    "bybit-generic-market-order-book",
+    "bybit-generic-market-symbols",
+    "bybit-generic-market-tickers",
+    "bybit-generic-wallet-balance",
+    "bybit-linear-market-previous-funding-rate",
+    "bybit-linear-market-query-kline",
+    "bybit-linear-market-recent-trading-records",
+    "bybit-linear-order-cancel-all",
+    "bybit-linear-order-cancel",
+    "bybit-linear-order-create",
+    "bybit-linear-order-list",
+    "bybit-linear-order-replace",
+    "bybit-linear-order-search",
+    "bybit-linear-position-list",
+    "bybit-linear-position-set-auto-margin",
+    "bybit-linear-position-set-leverage",
+    "bybit-linear-position-set-trading-stop",
+    "bybit-linear-position-switch-isolated",
+    "bybit-linear-position-switch-mode",
+    "bybit-linear-position-tpsl-switch-mode",
+    "bybit-linear-position-update-margin",
+    "bybit-linear-stop-order-cancel-all",
+    "bybit-linear-stop-order-cancel",
+    "bybit-linear-stop-order-create",
+    "bybit-linear-stop-order-list",
+    "bybit-linear-stop-order-replace",
+    "bybit-linear-stop-order-search",
+    "bybit-list-coin-options",
+    "bybit-list-symbol-options"
+  ],
+  "npmImports": [
+    "crypto-js"
+  ]
+}

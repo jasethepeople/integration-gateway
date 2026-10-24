@@ -1,0 +1,7 @@
+{
+  "key": "pipeline-create-event",
+  "name": "Create Event",
+  "description": "Creates a new calendar event in your Pipeline account. [See the docs here](https://app.pipelinecrm.com/api/docs#tag/Calendar-Entries-(Tasks-and-Events)/paths/~1calendar_entries/post)",
+  "type": "action",
+  "version": "0.0.2"
+}

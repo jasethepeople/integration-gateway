@@ -1,0 +1,7 @@
+{
+  "key": "roundtable-review-code",
+  "name": "Review Code",
+  "description": "Get a multi-perspective code review from multiple AI models. [See the documentation](https://roundtable.now)",
+  "type": "action",
+  "version": "0.0.1"
+}

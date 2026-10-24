@@ -1,0 +1,7 @@
+{
+  "key": "crowdin-list-mt-id-options",
+  "name": "List Machine Translation ID Options",
+  "description": "Retrieves available options for the Machine Translation ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "fitbit-get-sleep-data",
+  "name": "Get Sleep Data",
+  "description": "Get sleep data for a date, including duration, stages, and sleep score when available. [See the Fitbit Web API documentation](https://dev.fitbit.com/build/reference/web-api/)",
+  "type": "action",
+  "version": "0.0.1"
+}

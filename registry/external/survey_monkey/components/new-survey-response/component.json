@@ -1,0 +1,7 @@
+{
+  "key": "survey_monkey-new-survey-response",
+  "name": "New Survey Response",
+  "description": "Emit new survey response",
+  "type": "source",
+  "version": "0.0.3"
+}

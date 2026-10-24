@@ -1,0 +1,116 @@
+{
+  "app": "dispatch",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "organizationId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "vehicleType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pickupBusinessName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pickupContactName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pickupContactPhoneNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pickupAddress1": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pickupAddress2": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pickupCity": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pickupStateProvinceCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pickupPostalCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pickupDateTimeUtc": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pickupNotes": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dropOffBusinessName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dropOffContactName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dropOffContactPhoneNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dropOffAddress1": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dropOffAddress2": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dropOffCity": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dropOffStateProvinceCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dropOffPostalCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dropOffDateTimeUtc": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dropOffNotes": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "estimatedWeight": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "addOns": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "dedicatedVehicle": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "environment": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dispatch-create-estimate",
+    "dispatch-create-order",
+    "dispatch-list-organization-id-options"
+  ]
+}

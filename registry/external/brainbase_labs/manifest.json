@@ -1,0 +1,64 @@
+{
+  "app": "brainbase_labs",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "workerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "flowId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "deploymentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "integrationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phoneNumberId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "voiceDeploymentLogId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "brainbase_labs-create-flow",
+    "brainbase_labs-create-twilio-integration",
+    "brainbase_labs-create-voice-deployment",
+    "brainbase_labs-create-worker",
+    "brainbase_labs-delete-flow",
+    "brainbase_labs-delete-integration",
+    "brainbase_labs-delete-phone-number",
+    "brainbase_labs-delete-voice-deployment",
+    "brainbase_labs-delete-worker",
+    "brainbase_labs-get-flow",
+    "brainbase_labs-get-integration",
+    "brainbase_labs-get-phone-numbers",
+    "brainbase_labs-get-team",
+    "brainbase_labs-get-voice-deployment-log",
+    "brainbase_labs-get-voice-deployment",
+    "brainbase_labs-get-worker",
+    "brainbase_labs-list-flows",
+    "brainbase_labs-list-integrations",
+    "brainbase_labs-list-voice-deployment-logs",
+    "brainbase_labs-list-voice-deployments",
+    "brainbase_labs-list-workers",
+    "brainbase_labs-make-voice-batch-calls",
+    "brainbase_labs-register-phone-number",
+    "brainbase_labs-update-flow",
+    "brainbase_labs-update-voice-deployment",
+    "brainbase_labs-update-worker",
+    "brainbase_labs-new-deployment-log-created"
+  ]
+}

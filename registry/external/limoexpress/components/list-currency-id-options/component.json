@@ -1,0 +1,7 @@
+{
+  "key": "limoexpress-list-currency-id-options",
+  "name": "List Currency ID Options",
+  "description": "Retrieves available options for the Currency ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

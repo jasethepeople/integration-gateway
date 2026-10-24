@@ -1,0 +1,7 @@
+{
+  "key": "shopify_developer_app-new-customer-created",
+  "name": "New Customer Created (Instant)",
+  "description": "Emit new event for each new customer added to a store.",
+  "type": "source",
+  "version": "0.0.21"
+}

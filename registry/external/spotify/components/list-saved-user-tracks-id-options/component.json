@@ -1,0 +1,7 @@
+{
+  "key": "spotify-list-saved-user-tracks-id-options",
+  "name": "List Track ID Options",
+  "description": "List tracks saved in the current user's Liked Songs, as `{ label, value }` options where `value` is the track ID (e.g. `4iV5W9uYEdYUVa79Axb7Rh`). Use it to find track IDs to pass to actions such as **Remove User's Saved Tracks**.",
+  "type": "action",
+  "version": "0.0.4"
+}

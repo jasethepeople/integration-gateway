@@ -1,0 +1,7 @@
+{
+  "key": "kustomer-update-customer",
+  "name": "Update Customer",
+  "description": "Updates an existing customer in Kustomer. [See the documentation](https://developer.kustomer.com/kustomer-api-docs/reference/updatecustomer)",
+  "type": "action",
+  "version": "0.0.3"
+}

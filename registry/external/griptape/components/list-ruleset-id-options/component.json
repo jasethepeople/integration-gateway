@@ -1,0 +1,7 @@
+{
+  "key": "griptape-list-ruleset-id-options",
+  "name": "List Ruleset ID Options",
+  "description": "Retrieves available options for the Ruleset ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

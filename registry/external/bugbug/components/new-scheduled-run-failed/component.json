@@ -1,0 +1,7 @@
+{
+  "key": "bugbug-new-scheduled-run-failed",
+  "name": "New Scheduled Run Failed",
+  "description": "Emit new event when any scheduled cloud run fails",
+  "type": "source",
+  "version": "0.0.1"
+}

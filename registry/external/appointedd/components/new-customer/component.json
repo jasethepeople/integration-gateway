@@ -1,0 +1,7 @@
+{
+  "key": "appointedd-new-customer",
+  "name": "New Customer",
+  "description": "Emit new event when a new customer is created in one of your Appointedd organisations. [See the documentation](https://developers.appointedd.com/reference/get-customers)",
+  "type": "source",
+  "version": "0.0.1"
+}

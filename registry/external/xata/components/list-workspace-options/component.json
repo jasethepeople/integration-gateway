@@ -1,0 +1,7 @@
+{
+  "key": "xata-list-workspace-options",
+  "name": "List Workspace ID Options",
+  "description": "Retrieves available options for the Workspace ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

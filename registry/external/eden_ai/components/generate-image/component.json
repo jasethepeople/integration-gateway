@@ -1,0 +1,7 @@
+{
+  "key": "eden_ai-generate-image",
+  "name": "Generate Image",
+  "description": "Generates an image from the provided description. [See the documentation](https://docs.edenai.co/reference/image_generation_create)",
+  "type": "action",
+  "version": "0.0.4"
+}

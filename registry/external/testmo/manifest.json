@@ -1,0 +1,47 @@
+{
+  "app": "testmo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "milestoneId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "source": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "automationRunId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "threadId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "artifacts": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "sitename": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "testmo-append-to-automation-run",
+    "testmo-append-to-thread",
+    "testmo-create-automation-run",
+    "testmo-list-automation-runs",
+    "testmo-list-project-id-options",
+    "testmo-list-project-sessions"
+  ]
+}

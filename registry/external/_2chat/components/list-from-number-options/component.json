@@ -1,0 +1,7 @@
+{
+  "key": "_2chat-list-from-number-options",
+  "name": "List From Phone Number Options",
+  "description": "Retrieves available options for the From Phone Number field.",
+  "type": "action",
+  "version": "0.0.1"
+}

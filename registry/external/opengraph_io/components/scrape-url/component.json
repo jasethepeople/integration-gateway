@@ -1,0 +1,7 @@
+{
+  "key": "opengraph_io-scrape-url",
+  "name": "Scrape Url",
+  "description": "Retrieve OpenGraph data from a specified URL using the OpenGraph.io API. [See the docs here](https://www.opengraph.io/documentation)",
+  "type": "action",
+  "version": "0.0.2"
+}

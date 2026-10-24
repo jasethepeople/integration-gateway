@@ -1,0 +1,7 @@
+{
+  "key": "teamwork_desk-create-customer",
+  "name": "Create Customer",
+  "description": "Create a new customer [See the documentation](https://apidocs.teamwork.com/docs/desk/fe69a0fb1007a-create-a-new-customer)",
+  "type": "action",
+  "version": "0.0.3"
+}

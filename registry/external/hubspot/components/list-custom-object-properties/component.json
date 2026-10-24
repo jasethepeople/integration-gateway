@@ -1,0 +1,7 @@
+{
+  "key": "hubspot-list-custom-object-properties",
+  "name": "List Custom Object Properties",
+  "description": "List all property definitions for a specific custom object type.",
+  "type": "action",
+  "version": "0.0.4"
+}

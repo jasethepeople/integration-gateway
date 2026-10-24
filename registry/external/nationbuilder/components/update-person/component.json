@@ -1,0 +1,7 @@
+{
+  "key": "nationbuilder-update-person",
+  "name": "Update Person",
+  "description": "Update a specific person with the provided data. [See the documentation](https://nationbuilder.com/people_api)",
+  "type": "action",
+  "version": "0.0.2"
+}

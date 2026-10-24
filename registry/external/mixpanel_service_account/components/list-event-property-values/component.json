@@ -1,0 +1,7 @@
+{
+  "key": "mixpanel_service_account-list-event-property-values",
+  "name": "List Event Property Values",
+  "description": "List the most common values a single property takes on a single event. Use this to find the exact literal to compare against in a `where` or `on` expression, rather than guessing at spellings or casing. [See the documentation](https://docs.mixpanel.com/reference/query-events-top-property-values)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "updown_io-new-event-instant",
+  "name": "New Event (Instant)",
+  "description": "Emit new event when a new webhook event occurs. [See the documentation](https://updown.io/api#webhooks)",
+  "type": "source",
+  "version": "0.0.1"
+}

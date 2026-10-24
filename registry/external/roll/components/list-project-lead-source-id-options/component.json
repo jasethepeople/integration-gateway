@@ -1,0 +1,7 @@
+{
+  "key": "roll-list-project-lead-source-id-options",
+  "name": "List Lead Source Id Options",
+  "description": "Retrieves available options for the Lead Source Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

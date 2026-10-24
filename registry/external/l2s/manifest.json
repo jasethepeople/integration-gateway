@@ -1,0 +1,14 @@
+{
+  "app": "l2s",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "l2s-create-shortened-url"
+  ]
+}

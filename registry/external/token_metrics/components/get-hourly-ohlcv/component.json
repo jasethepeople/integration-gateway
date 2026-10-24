@@ -1,0 +1,7 @@
+{
+  "key": "token_metrics-get-hourly-ohlcv",
+  "name": "Get Hourly OHLCV",
+  "description": "Select crypto asset names to filter results. Example: `Bitcoin`",
+  "type": "action",
+  "version": "0.1.1"
+}

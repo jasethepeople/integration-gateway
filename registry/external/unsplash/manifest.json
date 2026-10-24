@@ -1,0 +1,20 @@
+{
+  "app": "unsplash",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "photoId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "unsplash-get-photo",
+    "unsplash-list-photo-id-options",
+    "unsplash-search-photos"
+  ]
+}

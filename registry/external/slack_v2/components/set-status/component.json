@@ -1,0 +1,7 @@
+{
+  "key": "slack_v2-set-status",
+  "name": "Set Status",
+  "description": "Set the current status for a user. [See the documentation](https://api.slack.com/methods/users.profile.set)",
+  "type": "action",
+  "version": "0.0.26"
+}

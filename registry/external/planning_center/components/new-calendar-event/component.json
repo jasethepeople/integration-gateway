@@ -1,0 +1,7 @@
+{
+  "key": "planning_center-new-calendar-event",
+  "name": "New Calendar Event",
+  "description": "Emit new event when a new calendar event is created. [See the documentation](https://developer.planning.center/docs/#/apps/calendar/2022-07-07/vertices/event)",
+  "type": "source",
+  "version": "0.0.1"
+}

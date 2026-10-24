@@ -1,0 +1,7 @@
+{
+  "key": "flutterwave-new-transaction",
+  "name": "New Transaction",
+  "description": "Emit new event when a new transaction is added.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,38 @@
+{
+  "app": "canvas",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "courseId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "assignmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "canvas-list-account-id-options",
+    "canvas-list-assignments",
+    "canvas-list-courses",
+    "canvas-search-course-content",
+    "canvas-update-assignment"
+  ]
+}

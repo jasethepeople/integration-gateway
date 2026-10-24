@@ -1,0 +1,7 @@
+{
+  "key": "productboard-get-feature",
+  "name": "Get Feature",
+  "description": "Retrieve a feature by ID. [See the docs here](https://developer.productboard.com/#operation/getFeature)",
+  "type": "action",
+  "version": "0.0.2"
+}

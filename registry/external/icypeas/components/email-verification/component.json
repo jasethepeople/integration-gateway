@@ -1,0 +1,7 @@
+{
+  "key": "icypeas-email-verification",
+  "name": "Email Verification",
+  "description": "Performs an email verification check. [See the documentation](https://api-doc.icypeas.com/find-emails/single-search/email-verification)",
+  "type": "action",
+  "version": "0.0.2"
+}

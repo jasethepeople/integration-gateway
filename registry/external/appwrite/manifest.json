@@ -1,0 +1,45 @@
+{
+  "app": "appwrite",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "teamId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "password": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "roles": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "project_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "appwrite-create-account",
+    "appwrite-create-team",
+    "appwrite-get-members",
+    "appwrite-list-team-id-options"
+  ]
+}

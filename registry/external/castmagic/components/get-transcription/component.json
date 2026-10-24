@@ -1,0 +1,7 @@
+{
+  "key": "castmagic-get-transcription",
+  "name": "Get Transcription",
+  "description": "Retrieves details for a transcript given an identifier. [See the documentation](https://docs.castmagic.io/endpoints/transcripts)",
+  "type": "action",
+  "version": "0.0.2"
+}

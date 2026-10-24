@@ -1,0 +1,27 @@
+{
+  "app": "polygon",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "stockTicker": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "adjusted": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "polygon-get-company-financials",
+    "polygon-get-historical-prices",
+    "polygon-get-stock-price",
+    "polygon-new-market-news",
+    "polygon-new-stock-price-summary",
+    "polygon-new-stock-trade"
+  ]
+}

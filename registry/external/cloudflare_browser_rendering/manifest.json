@@ -1,0 +1,65 @@
+{
+  "app": "cloudflare_browser_rendering",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "html": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "viewportHeight": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "viewportWidth": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "viewportDeviceScaleFactor": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "viewportHasTouch": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "viewportIsLandscape": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "viewportIsMobile": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "userAgent": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "additionalSettings": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "account_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "cloudflare_browser_rendering-get-html-content",
+    "cloudflare_browser_rendering-get-pdf",
+    "cloudflare_browser_rendering-get-screenshot",
+    "cloudflare_browser_rendering-scrape"
+  ],
+  "npmImports": [
+    "fs",
+    "path"
+  ]
+}

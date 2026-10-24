@@ -1,0 +1,7 @@
+{
+  "key": "sendfox_personal_access_token-create-contact",
+  "name": "Create contact",
+  "description": "Creates new contact",
+  "type": "action",
+  "version": "0.1.2"
+}

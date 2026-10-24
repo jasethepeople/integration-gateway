@@ -1,0 +1,7 @@
+{
+  "key": "rkvst-create-asset",
+  "name": "Create Asset",
+  "description": "Allows for the addition of a new asset into the RKVST system. [See the documentation](https://docs.datatrails.ai/developers/api-reference/assets-api/)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "confluence-new-page-or-blog-post",
+  "name": "New Page or Blog Post",
+  "description": "Emit new event whenever a new page or blog post is created in a specified space",
+  "type": "source",
+  "version": "0.0.7"
+}

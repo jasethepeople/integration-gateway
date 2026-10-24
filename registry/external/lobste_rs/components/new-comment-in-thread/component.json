@@ -1,0 +1,7 @@
+{
+  "key": "lobste_rs-new-comment-in-thread",
+  "name": "New Comment in Thread",
+  "description": "Emit new event when a new comment is added to a thread.",
+  "type": "source",
+  "version": "0.0.1"
+}

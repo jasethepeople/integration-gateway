@@ -1,0 +1,7 @@
+{
+  "key": "overloop-get-organization",
+  "name": "Get Organization",
+  "description": "Retrieves an organization by id. [See the docs](https://apidoc.overloop.com/#retrieve-an-organization)",
+  "type": "action",
+  "version": "0.0.2"
+}

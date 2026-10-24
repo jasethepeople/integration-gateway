@@ -1,0 +1,7 @@
+{
+  "key": "contentstack-list-content-type-options",
+  "name": "List Content Type Options",
+  "description": "Retrieves available options for the Content Type field.",
+  "type": "action",
+  "version": "0.0.1"
+}

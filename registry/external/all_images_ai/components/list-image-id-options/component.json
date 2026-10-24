@@ -1,0 +1,7 @@
+{
+  "key": "all_images_ai-list-image-id-options",
+  "name": "List Image Id Options",
+  "description": "Retrieves available options for the Image Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

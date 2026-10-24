@@ -1,0 +1,7 @@
+{
+  "key": "recruitis-create-answer",
+  "name": "Create Answer",
+  "description": "Create a new answer for a job. [See the documentation](https://docs.recruitis.io/api/#tag/Candidates/paths/~1answers/post)",
+  "type": "action",
+  "version": "0.0.2"
+}

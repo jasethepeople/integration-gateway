@@ -1,0 +1,50 @@
+{
+  "app": "barcode_lookup",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "barcode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mpn": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "asin": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "category": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "manufacturer": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "brand": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "search": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "barcode_lookup-batch-barcode-lookup",
+    "barcode_lookup-get-product-by-barcode",
+    "barcode_lookup-get-products",
+    "barcode_lookup-get-rate-limits",
+    "barcode_lookup-search-products-by-parameters"
+  ]
+}

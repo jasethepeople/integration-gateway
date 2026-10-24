@@ -1,0 +1,42 @@
+{
+  "app": "freedcamp",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskGroupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "freedcamp-add-comment",
+    "freedcamp-create-project",
+    "freedcamp-create-task",
+    "freedcamp-list-group-id-options",
+    "freedcamp-list-project-id-options",
+    "freedcamp-new-project-created"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "rendi-new-ffmpeg-command",
+  "name": "New FFmpeg Command",
+  "description": "Emit new event when a new FFmpeg command is submitted. [See the documentation](https://docs.rendi.dev/api-reference/endpoint/list-commands)",
+  "type": "source",
+  "version": "0.0.1"
+}

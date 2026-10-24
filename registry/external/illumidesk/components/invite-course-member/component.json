@@ -1,0 +1,7 @@
+{
+  "key": "illumidesk-invite-course-member",
+  "name": "Invite Course Member",
+  "description": "Invites a user to a selected course. [See the documentation](https://developers.illumidesk.com/reference/courses_invitations_create)",
+  "type": "action",
+  "version": "0.0.3"
+}

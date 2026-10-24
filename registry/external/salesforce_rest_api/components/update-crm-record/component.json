@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-update-crm-record",
+  "name": "Update CRM Record",
+  "description": "Update an existing Salesforce record. Only pass fields you want to change — unspecified fields remain unchanged.",
+  "type": "action",
+  "version": "0.0.4"
+}

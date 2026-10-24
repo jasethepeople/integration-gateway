@@ -1,0 +1,7 @@
+{
+  "key": "connectwise_psa-list-reports",
+  "name": "List Reports",
+  "description": "Retrieves a list of available reports. [See the documentation](https://developer.connectwise.com/Products/ConnectWise_PSA/REST#/Reports/getSystemReports)",
+  "type": "action",
+  "version": "0.0.2"
+}

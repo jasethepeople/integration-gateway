@@ -1,0 +1,7 @@
+{
+  "key": "smartsuite-create-record",
+  "name": "Create Record",
+  "description": "Creates a new record. [See the documentation](https://developers.smartsuite.com/docs/solution-data/records/create-record)",
+  "type": "action",
+  "version": "0.0.2"
+}

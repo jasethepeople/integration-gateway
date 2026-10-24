@@ -1,0 +1,7 @@
+{
+  "key": "lokalise-download-files",
+  "name": "Download Files",
+  "description": "Retrieves and downloads files from a specified Lokalise project. [See the documentation](https://developers.lokalise.com/reference/download-files)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,19 @@
+{
+  "app": "ably",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key_initial": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key_remaining": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ably-publish-message",
+    "ably-publish-push-notification"
+  ]
+}

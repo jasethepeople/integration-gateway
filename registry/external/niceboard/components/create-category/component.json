@@ -1,0 +1,7 @@
+{
+  "key": "niceboard-create-category",
+  "name": "Create Category",
+  "description": "Creates a new job category within Niceboard.",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "timing-new-time-entry",
+  "name": "New Time Entry",
+  "description": "Emit new event each time a new time entry is created in Timing",
+  "type": "source",
+  "version": "0.0.1"
+}

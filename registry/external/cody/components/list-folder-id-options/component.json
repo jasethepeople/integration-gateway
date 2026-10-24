@@ -1,0 +1,7 @@
+{
+  "key": "cody-list-folder-id-options",
+  "name": "List Folder Id Options",
+  "description": "Retrieves available options for the Folder Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

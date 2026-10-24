@@ -1,0 +1,7 @@
+{
+  "key": "are_na-get-authenticated-user",
+  "name": "Get Authenticated User",
+  "description": "Returns the currently authenticated user",
+  "type": "action",
+  "version": "0.0.3"
+}

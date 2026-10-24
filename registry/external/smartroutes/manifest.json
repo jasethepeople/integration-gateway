@@ -1,0 +1,29 @@
+{
+  "app": "smartroutes",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "customerAccount": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customFields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "capacities": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "smartroutes-create-order",
+    "smartroutes-list-capacities-options",
+    "smartroutes-list-custom-fields-options",
+    "smartroutes-list-customer-account-options"
+  ]
+}

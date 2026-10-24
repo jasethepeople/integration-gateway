@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-list-company-contacts",
+  "name": "List Company Contacts",
+  "description": "List company contacts with optional filters. [See the documentation](https://developer.servicem8.com/reference/listcompanycontacts)",
+  "type": "action",
+  "version": "0.0.1"
+}

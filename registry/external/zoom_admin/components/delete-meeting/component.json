@@ -1,0 +1,7 @@
+{
+  "key": "zoom_admin-delete-meeting",
+  "name": "Delete meeting",
+  "description": "Delete a meeting. [See the documentation](https://marketplace.zoom.us/docs/api-reference/zoom-api/meetings/meetingdelete)",
+  "type": "action",
+  "version": "0.1.8"
+}

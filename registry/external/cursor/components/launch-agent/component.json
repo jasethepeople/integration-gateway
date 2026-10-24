@@ -1,0 +1,7 @@
+{
+  "key": "cursor-launch-agent",
+  "name": "Launch Agent",
+  "description": "Launch a Cursor agent. [See the documentation](https://cursor.com/docs/cloud-agent/api/endpoints#launch-an-agent)",
+  "type": "action",
+  "version": "0.0.2"
+}

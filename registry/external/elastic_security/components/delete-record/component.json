@@ -1,0 +1,7 @@
+{
+  "key": "elastic_security-delete-record",
+  "name": "Delete Record",
+  "description": "Permanently delete an Elastic Security case or detection rule by ID.",
+  "type": "action",
+  "version": "0.0.1"
+}

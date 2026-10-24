@@ -1,0 +1,7 @@
+{
+  "key": "zoho_meeting-get-webinars",
+  "name": "Get Webinars",
+  "description": "Get a list of webinars. [See the documentation](https://www.zoho.com/meeting/api-integration/webinar-api/list-of-webinar-api.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

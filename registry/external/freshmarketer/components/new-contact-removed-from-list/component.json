@@ -1,0 +1,7 @@
+{
+  "key": "freshmarketer-new-contact-removed-from-list",
+  "name": "New Contact Removed From List",
+  "description": "Emit new event as soon as a contact is removed from a list.",
+  "type": "source",
+  "version": "0.0.1"
+}

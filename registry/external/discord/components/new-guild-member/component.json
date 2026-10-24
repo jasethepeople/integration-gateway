@@ -1,0 +1,7 @@
+{
+  "key": "discord-new-guild-member",
+  "name": "New Guild Member (Instant)",
+  "description": "Emit new event for each new member added to a guild",
+  "type": "source",
+  "version": "0.0.3"
+}

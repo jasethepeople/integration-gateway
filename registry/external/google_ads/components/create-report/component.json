@@ -1,0 +1,7 @@
+{
+  "key": "google_ads-create-report",
+  "name": "Create Report",
+  "description": "Generates a report from your Google Ads data. [See the documentation](https://developers.google.com/google-ads/api/reference/rpc/v25/GoogleAdsService/Search?transport=rest)",
+  "type": "action",
+  "version": "0.3.3"
+}

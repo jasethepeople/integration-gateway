@@ -1,0 +1,7 @@
+{
+  "key": "open_exchange_rates-retrieve-current-rates",
+  "name": "Retrieve Current Rates",
+  "description": "Get the latest exchange rates available. [See the documentation](https://docs.openexchangerates.org/reference/latest-json)",
+  "type": "action",
+  "version": "0.0.2"
+}

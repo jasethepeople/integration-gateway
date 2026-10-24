@@ -1,0 +1,7 @@
+{
+  "key": "social_fetch-new-profile-update",
+  "name": "New Profile Update",
+  "description": "Emit new event when a monitored profile changes. [See the documentation](https://www.socialfetch.dev/docs/api)",
+  "type": "source",
+  "version": "0.0.3"
+}

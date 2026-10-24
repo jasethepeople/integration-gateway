@@ -1,0 +1,7 @@
+{
+  "key": "sendsms-send-message",
+  "name": "Send Message",
+  "description": "This action sends an SMS message using the SendSMS.ro API. [See the documentation](https://www.sendsms.ro/api/#send-message)",
+  "type": "action",
+  "version": "0.0.3"
+}

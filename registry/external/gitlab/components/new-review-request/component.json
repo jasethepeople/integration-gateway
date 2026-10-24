@@ -1,0 +1,7 @@
+{
+  "key": "gitlab-new-review-request",
+  "name": "New Review Request (Instant)",
+  "description": "Emit new event when a reviewer is added to a merge request",
+  "type": "source",
+  "version": "0.1.3"
+}

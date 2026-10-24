@@ -1,0 +1,7 @@
+{
+  "key": "digistore24-new-rebilling-payment",
+  "name": "New Rebilling Payment",
+  "description": "Emit new event when a new recurring subscription payment is processed. [See the documentation](https://dev.digistore24.com/hc/en-us/articles/38492246374673-API-reference-A-Z)",
+  "type": "source",
+  "version": "0.0.1"
+}

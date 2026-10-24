@@ -1,0 +1,7 @@
+{
+  "key": "notion-updated-page-id",
+  "name": "Page Updated",
+  "description": "Emit new event when a selected page is updated. [See the documentation](https://developers.notion.com/reference/page)",
+  "type": "source",
+  "version": "0.0.14"
+}

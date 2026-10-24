@@ -1,0 +1,22 @@
+{
+  "app": "vtiger_crm",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "instance": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "access_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "vtiger_crm-new-lead-created"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "daytona-get-sandbox",
+  "name": "Get Sandbox",
+  "description": "Get a sandbox on Daytona. [See the documentation](https://www.daytona.io/docs/en/typescript-sdk/daytona/#get)",
+  "type": "action",
+  "version": "0.0.2"
+}

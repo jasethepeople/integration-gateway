@@ -1,0 +1,7 @@
+{
+  "key": "bubble-create-thing",
+  "name": "Create Thing",
+  "description": "Creates a new thing (record) in your Bubble app's database. [See the documentation](https://manual.bubble.io/core-resources/api/the-bubble-api/the-data-api/data-api-requests#create-a-thing)",
+  "type": "action",
+  "version": "0.0.1"
+}

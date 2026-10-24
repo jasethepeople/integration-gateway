@@ -1,0 +1,7 @@
+{
+  "key": "glide-list-tables",
+  "name": "List Big Tables",
+  "description": "List all Big Tables associated with your Glide team. [See the documentation](https://apidocs.glideapps.com/api-reference/v2/tables/get-tables)",
+  "type": "action",
+  "version": "0.0.1"
+}

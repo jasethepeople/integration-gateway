@@ -1,0 +1,43 @@
+{
+  "app": "pidj",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "surveyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fromNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "toNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "account_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pidj-create-contact",
+    "pidj-initiate-survey",
+    "pidj-list-contact-id-options",
+    "pidj-list-group-id-options",
+    "pidj-list-survey-id-options",
+    "pidj-send-message"
+  ]
+}

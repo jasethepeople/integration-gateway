@@ -1,0 +1,7 @@
+{
+  "key": "facebook_marketing-list-ad-account-id-options",
+  "name": "List Ad Account ID Options",
+  "description": "Retrieves available options for the Ad Account ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

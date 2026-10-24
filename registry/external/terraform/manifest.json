@@ -1,0 +1,29 @@
+{
+  "app": "terraform",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "orgId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workspaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "configurationVersion": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "terraform-create-run",
+    "terraform-list-org-id-options",
+    "terraform-list-runs",
+    "terraform-new-run-created"
+  ]
+}

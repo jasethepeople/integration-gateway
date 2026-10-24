@@ -1,0 +1,7 @@
+{
+  "key": "dynalist-get-document-content",
+  "name": "Get Document Content",
+  "description": "Fetches the content of a specific document. [See the documentation](https://apidocs.dynalist.io/#get-content-of-a-document)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "favro-list-users",
+  "name": "List Users",
+  "description": "List all users in the organization. [See the documentation](https://favro.com/developer/#get-all-users)",
+  "type": "action",
+  "version": "0.0.2"
+}

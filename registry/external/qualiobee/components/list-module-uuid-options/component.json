@@ -1,0 +1,7 @@
+{
+  "key": "qualiobee-list-module-uuid-options",
+  "name": "List Module UUID Options",
+  "description": "Retrieves available options for the Module UUID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

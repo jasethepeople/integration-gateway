@@ -1,0 +1,54 @@
+{
+  "app": "diabatix_coldstream",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "caseId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "organizationId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "caseType": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "asyncProjectId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "asyncCaseId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "caseName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "caseStatus": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "diabatix_coldstream-fetch-simulation-results",
+    "diabatix_coldstream-list-organization-id-options",
+    "diabatix_coldstream-run-simulation",
+    "diabatix_coldstream-update-project",
+    "diabatix_coldstream-project-upgraded",
+    "diabatix_coldstream-simulation-completed"
+  ],
+  "npmImports": [
+    "lodash"
+  ]
+}

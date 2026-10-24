@@ -1,0 +1,7 @@
+{
+  "key": "databricks-delete-vector-search-index",
+  "name": "Delete Vector Search Index",
+  "description": "Deletes a vector search index in Databricks. [See the documentation](https://docs.databricks.com/api/workspace/vectorsearchindexes/deleteindex)",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "jibble-list-schedule-id-options",
+  "name": "List Schedule ID Options",
+  "description": "Retrieves available options for the Schedule ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,51 @@
+{
+  "app": "crowdin",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "directoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sourceLanguageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "storageId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "branchId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "attachLabelIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "mtId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "crowdin-add-file",
+    "crowdin-create-project",
+    "crowdin-list-mt-id-options",
+    "crowdin-list-project-id-options",
+    "crowdin-list-source-language-id-options",
+    "crowdin-list-storage-id-options",
+    "crowdin-translate-via-machine-translation",
+    "crowdin-file-approved-instant",
+    "crowdin-new-comment-issue-instant",
+    "crowdin-new-directory"
+  ]
+}

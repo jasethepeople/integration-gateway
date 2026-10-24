@@ -1,0 +1,7 @@
+{
+  "key": "pipedream_utils-parse-json",
+  "name": "Formatting - [Data] Parse JSON",
+  "description": "Parse a JSON string",
+  "type": "action",
+  "version": "0.0.6"
+}

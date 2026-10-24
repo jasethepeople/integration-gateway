@@ -1,0 +1,7 @@
+{
+  "key": "quickbooks-list-payment-id-options",
+  "name": "List Payment ID Options",
+  "description": "Retrieves available options for the Payment ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

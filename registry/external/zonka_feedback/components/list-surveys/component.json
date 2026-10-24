@@ -1,0 +1,7 @@
+{
+  "key": "zonka_feedback-list-surveys",
+  "name": "List Surveys",
+  "description": "List surveys from Zonka Feedback. You can filter surveys based on their status.",
+  "type": "action",
+  "version": "0.0.2"
+}

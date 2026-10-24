@@ -1,0 +1,7 @@
+{
+  "key": "zenkit-updated-entry",
+  "name": "Updated Entry (Instant)",
+  "description": "Emit new event when an entry is updated in Zenkit",
+  "type": "source",
+  "version": "0.0.1"
+}

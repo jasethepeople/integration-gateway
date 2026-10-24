@@ -1,0 +1,7 @@
+{
+  "key": "rydoo-update-user-profile",
+  "name": "Update User Profile",
+  "description": "Modifies existing user details like names, nationality, or status. [See the documentation](https://developers.rydoo.com/reference/v2userupdateuser)",
+  "type": "action",
+  "version": "0.0.2"
+}

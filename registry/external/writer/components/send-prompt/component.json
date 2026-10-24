@@ -1,0 +1,7 @@
+{
+  "key": "writer-send-prompt",
+  "name": "Send Prompt",
+  "description": "Generate text with Writer's chat completion API. ",
+  "type": "action",
+  "version": "1.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "frontapp-create-message",
+  "name": "Create Message",
+  "description": "Send a new message from a channel. [See the documentation](https://dev.frontapp.com/reference/create-message).",
+  "type": "action",
+  "version": "0.0.5"
+}

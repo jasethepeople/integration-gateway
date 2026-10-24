@@ -1,0 +1,7 @@
+{
+  "key": "merge-update-candidate",
+  "name": "Update Candidate",
+  "description": "Update a candidate profile with the specified ID. [See the documentation](https://docs.merge.dev/ats/candidates/#candidates_partial_update)",
+  "type": "action",
+  "version": "0.0.2"
+}

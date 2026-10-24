@@ -1,0 +1,7 @@
+{
+  "key": "sproutgigs-get-categories",
+  "name": "Get Categories",
+  "description": "Get a list of categories from Sproutgigs. [See the documentation](https://sproutgigs.com/api/documentation.php#gigs-categories)",
+  "type": "action",
+  "version": "0.0.2"
+}

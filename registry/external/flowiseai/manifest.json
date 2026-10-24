@@ -1,0 +1,30 @@
+{
+  "app": "flowiseai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "flowId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "question": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "history": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "flowiseai-make-prediction"
+  ]
+}

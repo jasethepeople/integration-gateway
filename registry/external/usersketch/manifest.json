@@ -1,0 +1,15 @@
+{
+  "app": "usersketch",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "usersketch-create-event",
+    "usersketch-create-user"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "phaxio-send-fax",
+  "name": "Send Fax",
+  "description": "Sends a fax. [See docs here](https://www.phaxio.com/docs/api/v2.1/faxes/create_and_send_fax)",
+  "type": "action",
+  "version": "0.0.2"
+}

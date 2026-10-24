@@ -1,0 +1,7 @@
+{
+  "key": "kontent_ai-content-item-unpublished",
+  "name": "New Content Item Unpublished (Instant)",
+  "description": "Emit new event when a content item is unpublished.",
+  "type": "source",
+  "version": "0.0.1"
+}

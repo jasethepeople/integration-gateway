@@ -1,0 +1,7 @@
+{
+  "key": "terraform-new-run-created",
+  "name": "New Run Createe",
+  "description": "Emit new event when a new run is created in Terraform.",
+  "type": "source",
+  "version": "0.0.1"
+}

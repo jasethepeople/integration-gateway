@@ -1,0 +1,7 @@
+{
+  "key": "neuronwriter-new-query-processed",
+  "name": "New Query Processed",
+  "description": "Emit new event when a query is processed by NeuronWriter API and results are ready.",
+  "type": "source",
+  "version": "0.0.1"
+}

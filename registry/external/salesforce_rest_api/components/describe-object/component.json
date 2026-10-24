@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-describe-object",
+  "name": "Describe Object",
+  "description": "Get field metadata for a Salesforce object type, including field names, types, required status, and picklist values.",
+  "type": "action",
+  "version": "0.0.4"
+}

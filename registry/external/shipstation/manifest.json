@@ -1,0 +1,27 @@
+{
+  "app": "shipstation",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "shipstation-create-order",
+    "shipstation-get-order",
+    "shipstation-list-customer-email-options",
+    "shipstation-list-orders",
+    "shipstation-list-store-id-options",
+    "shipstation-new-event",
+    "shipstation-order-status-updated"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

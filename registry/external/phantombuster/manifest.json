@@ -1,0 +1,20 @@
+{
+  "app": "phantombuster",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "agentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "phantombuster-launch-phantom",
+    "phantombuster-list-agent-id-options",
+    "phantombuster-new-output"
+  ]
+}

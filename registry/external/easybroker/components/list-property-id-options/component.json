@@ -1,0 +1,7 @@
+{
+  "key": "easybroker-list-property-id-options",
+  "name": "List Property ID Options",
+  "description": "Retrieves available options for the Property ID field.",
+  "type": "action",
+  "version": "0.0.2"
+}

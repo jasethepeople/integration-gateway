@@ -1,0 +1,7 @@
+{
+  "key": "workbooks_crm-new-organisation",
+  "name": "New Organisation (Instant)",
+  "description": "Emit new event when a new organisation is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

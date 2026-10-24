@@ -1,0 +1,7 @@
+{
+  "key": "fraudlabs_pro-verify-otp",
+  "name": "Get Verification Result",
+  "description": "Verify that an OTP sent by the Send SMS Verification API is valid. [See the documentation](https://www.fraudlabspro.com/developer/api/get-sms-verification-result)",
+  "type": "action",
+  "version": "0.0.7"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "insightly-create-task",
+  "name": "Create Task",
+  "description": "Creates a new task. [See documentation](https://api.insightly.com/v3.1/Help?#!/Tasks/AddEntity)",
+  "type": "action",
+  "version": "0.0.2"
+}

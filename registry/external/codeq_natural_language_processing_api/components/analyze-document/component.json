@@ -1,0 +1,7 @@
+{
+  "key": "codeq_natural_language_processing_api-analyze-document",
+  "name": "Analyze Document",
+  "description": "Receives a text and returns a JSON object containing a list of analyzed sentences. [See the docs here](https://api.codeq.com/api)",
+  "type": "action",
+  "version": "0.0.2"
+}

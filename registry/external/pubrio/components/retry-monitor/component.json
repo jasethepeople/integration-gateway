@@ -1,0 +1,7 @@
+{
+  "key": "pubrio-retry-monitor",
+  "name": "Retry Monitor",
+  "description": "Retry a failed monitor process. [See the documentation](https://docs.pubrio.com/en/api-reference/endpoint/monitors/process_retry)",
+  "type": "action",
+  "version": "0.0.1"
+}

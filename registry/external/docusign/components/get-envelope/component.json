@@ -1,0 +1,7 @@
+{
+  "key": "docusign-get-envelope",
+  "name": "Get Envelope",
+  "description": "Get details for a DocuSign envelope by ID. Use **List Envelopes** first if you need to find an envelope ID. [See the documentation](https://developers.docusign.com/docs/esign-rest-api/reference/envelopes/envelopes/get/)",
+  "type": "action",
+  "version": "0.0.3"
+}

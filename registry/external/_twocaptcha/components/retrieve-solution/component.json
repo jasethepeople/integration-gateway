@@ -1,0 +1,7 @@
+{
+  "key": "_twocaptcha-retrieve-solution",
+  "name": "Retrieve Captcha Solution",
+  "description": "Fetch the solution of a previously submitted captcha from the 2Captcha service.",
+  "type": "action",
+  "version": "0.0.2"
+}

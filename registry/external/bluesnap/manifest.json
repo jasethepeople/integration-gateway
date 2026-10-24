@@ -1,0 +1,84 @@
+{
+  "app": "bluesnap",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "transactionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "vaultedShopperId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "amount": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "currency": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "period": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "city": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "state": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "zip": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "password": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "bluesnap-create-transaction",
+    "bluesnap-create-vaulted-shopper",
+    "bluesnap-get-transaction",
+    "bluesnap-get-vaulted-shopper",
+    "bluesnap-list-transactions",
+    "bluesnap-refund-transaction",
+    "bluesnap-update-vaulted-shopper"
+  ]
+}

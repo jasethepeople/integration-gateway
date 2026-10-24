@@ -1,0 +1,33 @@
+{
+  "app": "codereadr",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "status": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "databaseId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "value": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "codereadr-add-update-barcode-value",
+    "codereadr-create-database",
+    "codereadr-generate-qr-code",
+    "codereadr-list-database-id-options",
+    "codereadr-new-scan"
+  ],
+  "npmImports": [
+    "xml2json-light"
+  ]
+}

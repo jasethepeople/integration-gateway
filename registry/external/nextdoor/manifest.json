@@ -1,0 +1,80 @@
+{
+  "app": "nextdoor",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "websiteUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "categoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "advertiserId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "objective": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "adGroupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "creativeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "schedule": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recipientEmails": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "dimensionGranularity": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "timeGranularity": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "metrics": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "authorization_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "nextdoor-create-ad-group",
+    "nextdoor-create-ad",
+    "nextdoor-create-advertiser",
+    "nextdoor-create-campaign",
+    "nextdoor-create-scheduled-report",
+    "nextdoor-list-advertiser-id-options",
+    "nextdoor-list-category-id-options"
+  ]
+}

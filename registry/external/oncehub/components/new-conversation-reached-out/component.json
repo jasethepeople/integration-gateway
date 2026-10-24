@@ -1,0 +1,7 @@
+{
+  "key": "oncehub-new-conversation-reached-out",
+  "name": "New Conversation Reached Out (Instant)",
+  "description": "Emit new event when a chatbot reaches out to a website visitor. [See the docs](https://developers.oncehub.com/reference/create-a-webhook)",
+  "type": "source",
+  "version": "0.0.1"
+}

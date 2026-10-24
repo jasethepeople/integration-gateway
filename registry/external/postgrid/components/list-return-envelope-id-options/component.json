@@ -1,0 +1,7 @@
+{
+  "key": "postgrid-list-return-envelope-id-options",
+  "name": "List Return Envelope Options",
+  "description": "Retrieves available options for the Return Envelope field.",
+  "type": "action",
+  "version": "0.0.1"
+}

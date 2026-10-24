@@ -1,0 +1,7 @@
+{
+  "key": "twenty-list-record-id-options",
+  "name": "List Record ID Options",
+  "description": "Retrieves available options for the Record ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

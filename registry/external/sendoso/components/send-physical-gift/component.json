@@ -1,0 +1,7 @@
+{
+  "key": "sendoso-send-physical-gift",
+  "name": "Send a Physical Gift",
+  "description": "Send a physical gift. [See the documentation](https://developer.sendoso.com/rest-api/reference/sends/physical/physical)",
+  "type": "action",
+  "version": "0.0.1"
+}

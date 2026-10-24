@@ -1,0 +1,27 @@
+{
+  "app": "mapbox",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "transportationMode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "exclude": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mapbox-create-tileset",
+    "mapbox-generate-directions",
+    "mapbox-geocode-address"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "buildkite-rebuild-build",
+  "name": "Rebuild Build",
+  "description": "Creates a new build from an existing build, preserving lineage. [See the documentation](https://buildkite.com/docs/apis/rest-api/builds#rebuild-a-build)",
+  "type": "action",
+  "version": "0.0.1"
+}

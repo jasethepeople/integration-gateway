@@ -1,0 +1,38 @@
+{
+  "app": "tapfiliate",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "affiliateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "referralCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "programId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "conversionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "tapfiliate-add-commission-conversion",
+    "tapfiliate-create-customer",
+    "tapfiliate-list-affiliate-id-options",
+    "tapfiliate-list-conversion-id-options",
+    "tapfiliate-list-program-id-options",
+    "tapfiliate-set-parent-affiliate",
+    "tapfiliate-new-affiliate-added-to-program",
+    "tapfiliate-new-affiliate",
+    "tapfiliate-new-conversion"
+  ]
+}

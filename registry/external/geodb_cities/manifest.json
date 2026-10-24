@@ -1,0 +1,28 @@
+{
+  "app": "geodb_cities",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "countryCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "regionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "languageCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "geodb_cities-find-cities",
+    "geodb_cities-get-country-details",
+    "geodb_cities-get-region-details"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "activecampaign-list-campaigns",
+  "name": "List Campaigns",
+  "description": "List Campaigns. See the docs [here](https://developers.activecampaign.com/reference#list-all-campaigns).",
+  "type": "action",
+  "version": "0.0.5"
+}

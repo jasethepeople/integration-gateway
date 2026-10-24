@@ -1,0 +1,7 @@
+{
+  "key": "ghost_org_admin_api-create-post",
+  "name": "Create post",
+  "description": "Create a post. [See the documentation](https://ghost.org/docs/admin-api/#creating-a-post).",
+  "type": "action",
+  "version": "0.0.6"
+}

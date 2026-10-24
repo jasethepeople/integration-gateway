@@ -1,0 +1,7 @@
+{
+  "key": "google_drive-get-file",
+  "name": "Get File",
+  "description": "Get full metadata for a file or folder by its ID.",
+  "type": "action",
+  "version": "0.0.9"
+}

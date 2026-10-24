@@ -1,0 +1,7 @@
+{
+  "key": "trint-list-transcript-id-options",
+  "name": "List Transcript ID Options",
+  "description": "Retrieves available options for the Transcript ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,95 @@
+{
+  "app": "dart",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "dartboard": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "assigneeIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "docId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "priority": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "size": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startAt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dueAt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "folder": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "text": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customProperties": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "dart-create-doc",
+    "dart-create-task",
+    "dart-delete-doc",
+    "dart-find-or-create-task",
+    "dart-list-assignee-ids-options",
+    "dart-list-dartboard-options",
+    "dart-list-doc-id-options",
+    "dart-list-priority-options",
+    "dart-list-size-options",
+    "dart-list-status-options",
+    "dart-list-tags-options",
+    "dart-list-task-id-options",
+    "dart-list-type-options",
+    "dart-update-doc",
+    "dart-update-task",
+    "dart-new-doc-created",
+    "dart-new-doc-updated",
+    "dart-new-task-created"
+  ]
+}

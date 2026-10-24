@@ -1,0 +1,7 @@
+{
+  "key": "vercel_token_auth-new-deployment",
+  "name": "New Deployment",
+  "description": "Emit new event when a deployment is created",
+  "type": "source",
+  "version": "0.0.5"
+}

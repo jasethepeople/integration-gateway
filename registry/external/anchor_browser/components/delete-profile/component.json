@@ -1,0 +1,7 @@
+{
+  "key": "anchor_browser-delete-profile",
+  "name": "Delete Profile",
+  "description": "Deletes an existing profile by its name. [See the documentation](https://docs.anchorbrowser.io/api-reference/profiles/delete-profile).",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "picqer-list-picklist-id-options",
+  "name": "List Picklist ID Options",
+  "description": "Retrieves available options for the Picklist ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

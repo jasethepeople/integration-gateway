@@ -1,0 +1,7 @@
+{
+  "key": "visualping-list-workspace-id-options",
+  "name": "List Workspace ID Options",
+  "description": "Discovers the valid `workspaceId` (and, for business/team accounts,",
+  "type": "action",
+  "version": "1.0.0"
+}

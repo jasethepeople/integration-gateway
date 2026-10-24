@@ -1,0 +1,22 @@
+{
+  "app": "reishost",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "command": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endpoint_structure": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "reishost-send-console-command"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_dynamics_365_sales-opportunity-contact-changed",
+  "name": "Opportunity Contact Changed",
+  "description": "Emit new event when an opportunity's contact is changed.",
+  "type": "source",
+  "version": "0.1.3"
+}

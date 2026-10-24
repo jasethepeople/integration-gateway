@@ -1,0 +1,82 @@
+{
+  "app": "pdfcrowd",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "htmlString": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "outputFilename": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pageSize": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pageWidth": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pageHeight": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orientation": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "marginTop": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "marginRight": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "marginBottom": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "marginLeft": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contentViewportWidth": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customCss": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customJavascript": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "elementToConvert": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pdfcrowd-html-to-pdf"
+  ],
+  "npmImports": [
+    "fs",
+    "path"
+  ]
+}

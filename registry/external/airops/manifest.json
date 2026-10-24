@@ -1,0 +1,14 @@
+{
+  "app": "airops",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "workspace_api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "airops-run-workflow"
+  ]
+}

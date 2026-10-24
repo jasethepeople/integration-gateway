@@ -1,0 +1,7 @@
+{
+  "key": "nordigen-list-requisition-id-options",
+  "name": "List Requisition Id Options",
+  "description": "Retrieves available options for the Requisition Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

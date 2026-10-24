@@ -1,0 +1,7 @@
+{
+  "key": "visualping-new-alert-received",
+  "name": "New Alert Received",
+  "description": "Emit new event when a change alert is sent.",
+  "type": "source",
+  "version": "0.0.2"
+}

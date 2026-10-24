@@ -1,0 +1,7 @@
+{
+  "key": "openai-convert-text-to-speech",
+  "name": "Convert Text to Speech (TTS)",
+  "description": "Generates audio from the input text. [See the documentation](https://platform.openai.com/docs/api-reference/audio/createSpeech)",
+  "type": "action",
+  "version": "0.0.19"
+}

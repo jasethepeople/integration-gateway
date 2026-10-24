@@ -1,0 +1,7 @@
+{
+  "key": "wonderchat-ask-question",
+  "name": "Ask Question",
+  "description": "Ask a question to a WonderChat chatbot and receive a response. [See the documentation](https://docs.wonderchat.io/api-reference/chat)",
+  "type": "action",
+  "version": "0.0.1"
+}

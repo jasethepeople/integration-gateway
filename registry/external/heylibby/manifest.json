@@ -1,0 +1,15 @@
+{
+  "app": "heylibby",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "heylibby-list-qualified-leads",
+    "heylibby-new-qualified-lead-created"
+  ]
+}

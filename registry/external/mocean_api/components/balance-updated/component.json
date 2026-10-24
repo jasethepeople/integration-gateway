@@ -1,0 +1,7 @@
+{
+  "key": "mocean_api-balance-updated",
+  "name": "Balance Updated",
+  "description": "Emit new event when the account balance has been updated. [See the documentation](https://moceanapi.com/docs/#get-balance)",
+  "type": "source",
+  "version": "0.0.1"
+}

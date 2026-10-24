@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_outlook-save-contact",
+  "name": "Save Contact",
+  "description": "Create or update an Outlook contact (upsert).",
+  "type": "action",
+  "version": "0.0.6"
+}

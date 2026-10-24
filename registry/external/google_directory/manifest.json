@@ -1,0 +1,28 @@
+{
+  "app": "google_directory",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "user": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "group": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "google_directory-add-member-to-group",
+    "google_directory-create-group",
+    "google_directory-create-user",
+    "google_directory-get-group",
+    "google_directory-get-user",
+    "google_directory-list-groups",
+    "google_directory-list-users"
+  ]
+}

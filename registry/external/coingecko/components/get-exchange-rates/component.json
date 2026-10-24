@@ -1,0 +1,7 @@
+{
+  "key": "coingecko-get-exchange-rates",
+  "name": "Get Exchange Rates",
+  "description": "Get BTC-to-currency exchange rates for currencies recognized by CoinGecko. [See the documentation](https://docs.coingecko.com/v3.0.1/reference/exchange-rates)",
+  "type": "action",
+  "version": "0.0.1"
+}

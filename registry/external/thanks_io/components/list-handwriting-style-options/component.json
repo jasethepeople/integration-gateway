@@ -1,0 +1,7 @@
+{
+  "key": "thanks_io-list-handwriting-style-options",
+  "name": "List Handwriting Style Options",
+  "description": "Retrieves available options for the Handwriting Style field.",
+  "type": "action",
+  "version": "0.0.1"
+}

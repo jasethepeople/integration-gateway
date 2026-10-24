@@ -1,0 +1,7 @@
+{
+  "key": "browser_use-get-browser-session",
+  "name": "Get Browser Session",
+  "description": "Get details for a standalone Browser Use browser session, including live URL, CDP URL, status, timeout, and cost fields. [See the documentation](https://docs.browser-use.com/cloud/api-v3/browsers/get-browser-session)",
+  "type": "action",
+  "version": "0.0.1"
+}

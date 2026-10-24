@@ -1,0 +1,7 @@
+{
+  "key": "siteleaf-create-document",
+  "name": "Create Document",
+  "description": "Create a new document. [See the docs here](https://learn.siteleaf.com/api/documents/#create-a-document)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "mx_technologies-new-user-created",
+  "name": "New User Created",
+  "description": "Emit new event for each new user created.",
+  "type": "source",
+  "version": "0.0.1"
+}

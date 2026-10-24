@@ -1,0 +1,7 @@
+{
+  "key": "nextlead-new-lead-updated",
+  "name": "New Lead Updated",
+  "description": "Emit new event when a lead is updated in NextLead. [See the documentation](https://dashboard.nextlead.app/en/api-documentation#edited)",
+  "type": "source",
+  "version": "0.0.1"
+}

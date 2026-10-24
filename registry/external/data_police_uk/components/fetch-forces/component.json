@@ -1,0 +1,7 @@
+{
+  "key": "data_police_uk-fetch-forces",
+  "name": "Fetch Forces",
+  "description": "Get a list of police forces and contact information within a particular area. [See the docs here](https://data.police.uk/docs/method/force)",
+  "type": "action",
+  "version": "0.0.2"
+}

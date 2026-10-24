@@ -1,0 +1,7 @@
+{
+  "key": "dealcloud-get-records",
+  "name": "Get Record(s)",
+  "description": "Retrieves one or more records (entries) from DealCloud. [See the documentation](https://api.docs.dealcloud.com/docs/data/rows/get)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pipedream_utils-convert-html-to-slack-mrkdwn",
+  "name": "Helper Functions - Convert HTML to Slack mrkdwn format",
+  "description": "Converts an HTML string to the Slack mrkdwn format using",
+  "type": "action",
+  "version": "0.0.2"
+}

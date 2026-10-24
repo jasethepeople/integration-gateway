@@ -1,0 +1,37 @@
+{
+  "app": "explorium",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "size": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "revenue": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "explorium-enrich-business",
+    "explorium-enrich-prospect",
+    "explorium-fetch-businesses",
+    "explorium-fetch-prospects",
+    "explorium-match-business-id",
+    "explorium-match-prospect-id",
+    "explorium-new-business-event",
+    "explorium-new-prospect-event"
+  ]
+}

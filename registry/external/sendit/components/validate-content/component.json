@@ -1,0 +1,7 @@
+{
+  "key": "sendit-validate-content",
+  "name": "Validate Content",
+  "description": "Check if content meets platform requirements before publishing. [See the documentation](https://sendit.infiniteappsai.com/docs/api)",
+  "type": "action",
+  "version": "0.0.1"
+}

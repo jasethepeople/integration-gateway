@@ -1,0 +1,7 @@
+{
+  "key": "postgresql-new-or-updated-row",
+  "name": "New or Updated Row",
+  "description": "Emit new event when a row is added or modified. [See the documentation](https://node-postgres.com/features/queries)",
+  "type": "source",
+  "version": "2.0.9"
+}

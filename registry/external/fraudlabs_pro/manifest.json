@@ -1,0 +1,20 @@
+{
+  "app": "fraudlabs_pro",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "format": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "fraudlabs_pro-send-sms-verification",
+    "fraudlabs_pro-verify-otp",
+    "fraudlabs_pro-status-changed"
+  ]
+}

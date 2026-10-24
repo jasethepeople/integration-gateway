@@ -1,0 +1,32 @@
+{
+  "app": "firecrawl",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "additionalOptions": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "crawlId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "firecrawl-crawl-url",
+    "firecrawl-extract-data",
+    "firecrawl-get-crawl-status",
+    "firecrawl-get-extract-status",
+    "firecrawl-map-url",
+    "firecrawl-scrape-page",
+    "firecrawl-search"
+  ]
+}

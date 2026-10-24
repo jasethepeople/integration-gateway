@@ -1,0 +1,7 @@
+{
+  "key": "postman-run-monitor",
+  "name": "Run Monitor",
+  "description": "Run a specific monitor in Postman. [See the documentation](https://learning.postman.com/docs/developer/postman-api/intro-api/)",
+  "type": "action",
+  "version": "0.0.2"
+}

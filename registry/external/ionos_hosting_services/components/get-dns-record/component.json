@@ -1,0 +1,7 @@
+{
+  "key": "ionos_hosting_services-get-dns-record",
+  "name": "Get DNS Record",
+  "description": "Get a single DNS record from a zone by its record ID. Returns the record object, for example `{\"id\":\"rec-uuid\",\"name\":\"www.example.com\",\"type\":\"A\",\"content\":\"5.6.7.8\",\"ttl\":3600}` (full fields include `rootName`, `prio`, `disabled`, `changeDate`). Run **List DNS Zones** to find the zone ID and **Get DNS Zone** to find the record ID. [See the documentation](https://developer.hosting.ionos.com/docs/dns).",
+  "type": "action",
+  "version": "0.0.2"
+}

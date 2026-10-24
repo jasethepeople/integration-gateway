@@ -1,0 +1,7 @@
+{
+  "key": "mautic-updated-contact",
+  "name": "Updated Contact",
+  "description": "Emit new event when a contact is updated. [See the docs](https://developer.mautic.org/#webhooks)",
+  "type": "source",
+  "version": "0.0.1"
+}

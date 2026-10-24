@@ -1,0 +1,7 @@
+{
+  "key": "beekeeper-list-chat-id-options",
+  "name": "List Chat ID Options",
+  "description": "Retrieves available options for the Chat ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

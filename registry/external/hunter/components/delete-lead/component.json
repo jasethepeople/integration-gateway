@@ -1,0 +1,7 @@
+{
+  "key": "hunter-delete-lead",
+  "name": "Delete Lead",
+  "description": "Delete an existing lead from your Hunter account. [See the documentation](https://hunter.io/api-documentation/v2#delete-lead).",
+  "type": "action",
+  "version": "0.0.2"
+}

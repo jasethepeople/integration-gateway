@@ -1,0 +1,7 @@
+{
+  "key": "social_intents-new-chat-closed",
+  "name": "New Chat Closed",
+  "description": "Emit new event for each closed chat.",
+  "type": "source",
+  "version": "0.0.1"
+}

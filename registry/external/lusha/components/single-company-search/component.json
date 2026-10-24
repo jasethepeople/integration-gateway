@@ -1,0 +1,7 @@
+{
+  "key": "lusha-single-company-search",
+  "name": "Search Single Company",
+  "description": "Search for companies using various filters. [See the documentation](https://docs.lusha.com/apis/index2/company/companycontroller_searchsinglecompany)",
+  "type": "action",
+  "version": "0.0.1"
+}

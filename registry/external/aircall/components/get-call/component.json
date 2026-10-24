@@ -1,0 +1,7 @@
+{
+  "key": "aircall-get-call",
+  "name": "Get Call",
+  "description": "Retrieves details about a call. [See the docs here](https://developer.aircall.io/api-references/#retrieve-a-call)",
+  "type": "action",
+  "version": "0.0.5"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "simla_com-new-customer",
+  "name": "New Customer",
+  "description": "Emit new event when a new customer is created. [See the documentation](https://docs.simla.com/Developers/API/APIVersions/APIv5#get--api-v5-customers).",
+  "type": "source",
+  "version": "0.0.1"
+}

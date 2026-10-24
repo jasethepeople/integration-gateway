@@ -1,0 +1,7 @@
+{
+  "key": "toggl-new-start-time-entry",
+  "name": "New Start Time Entry (Instant)",
+  "description": "Emit new event when a time entry is started. [See docs here](https://github.com/toggl/toggl_api_docs/blob/master/webhooks.md)",
+  "type": "source",
+  "version": "0.0.5"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "wisepops-list-wisepop-id-options",
+  "name": "List Wisepop Id Options",
+  "description": "Retrieves available options for the Wisepop Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

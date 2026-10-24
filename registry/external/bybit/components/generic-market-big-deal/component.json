@@ -1,0 +1,7 @@
+{
+  "key": "bybit-generic-market-big-deal",
+  "name": "ByBit Generic Market Big Deal",
+  "description": "Obtain filled orders worth more than 500,000 USD within the last 24h. ",
+  "type": "action",
+  "version": "0.0.3"
+}

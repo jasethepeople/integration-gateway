@@ -1,0 +1,7 @@
+{
+  "key": "hedy-delete-session-context",
+  "name": "Delete Session Context",
+  "description": "Deletes a Hedy session context. This action is irreversible.",
+  "type": "action",
+  "version": "0.0.2"
+}

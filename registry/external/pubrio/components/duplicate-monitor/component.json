@@ -1,0 +1,7 @@
+{
+  "key": "pubrio-duplicate-monitor",
+  "name": "Duplicate Monitor",
+  "description": "Duplicate an existing signal monitor. [See the documentation](https://docs.pubrio.com/en/api-reference/endpoint/monitors/duplicate)",
+  "type": "action",
+  "version": "0.0.1"
+}

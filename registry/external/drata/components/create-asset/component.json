@@ -1,0 +1,7 @@
+{
+  "key": "drata-create-asset",
+  "name": "Create Asset",
+  "description": "The name of the asset",
+  "type": "action",
+  "version": "0.0.4"
+}

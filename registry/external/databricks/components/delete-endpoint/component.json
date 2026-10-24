@@ -1,0 +1,7 @@
+{
+  "key": "databricks-delete-endpoint",
+  "name": "Delete Endpoint",
+  "description": "Delete a vector search endpoint. [See the documentation](https://docs.databricks.com/api/workspace/vectorsearchendpoints/deleteendpoint)",
+  "type": "action",
+  "version": "0.0.5"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "bingx-trade-set-margin-mode",
+  "name": "BingX Trade Set Margin Mode",
+  "description": "Switch Margin Mode [See the documentation](https://bingx-api.github.io/docs/#/swapV2/trade-api.html#Switch%20Margin%20Mode).",
+  "type": "action",
+  "version": "0.0.5"
+}

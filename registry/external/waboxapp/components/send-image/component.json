@@ -1,0 +1,7 @@
+{
+  "key": "waboxapp-send-image",
+  "name": "Send Image",
+  "description": "Send an image in WhatsApp to a specific phone number. [See the documentation](https://www.waboxapp.com/assets/doc/waboxapp-API-v3.pdf)",
+  "type": "action",
+  "version": "0.0.2"
+}

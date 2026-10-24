@@ -1,0 +1,7 @@
+{
+  "key": "hubspot-create-association",
+  "name": "Create Association",
+  "description": "Create an association (link) between two CRM records.",
+  "type": "action",
+  "version": "0.0.8"
+}

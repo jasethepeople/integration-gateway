@@ -1,0 +1,111 @@
+{
+  "app": "google_sheets",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "cell": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cells": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "range": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "column": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "row": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "rows": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "rowsDescription": {
+      "kind": "propDefinition",
+      "type": "alert"
+    },
+    "headersDisplay": {
+      "kind": "propDefinition",
+      "type": "alert"
+    },
+    "sheetID": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "worksheetIDs": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "google_sheets-add-column",
+    "google_sheets-add-conditional-format-rule",
+    "google_sheets-add-conditional-formatting",
+    "google_sheets-add-multiple-rows",
+    "google_sheets-add-protected-range",
+    "google_sheets-add-rows",
+    "google_sheets-add-single-row",
+    "google_sheets-add-worksheet",
+    "google_sheets-clear-cell",
+    "google_sheets-clear-rows",
+    "google_sheets-copy-worksheet",
+    "google_sheets-create-spreadsheet",
+    "google_sheets-create-worksheet",
+    "google_sheets-delete-conditional-format-rule",
+    "google_sheets-delete-rows",
+    "google_sheets-delete-worksheet",
+    "google_sheets-find-row",
+    "google_sheets-find-rows",
+    "google_sheets-format-cells",
+    "google_sheets-format-worksheet",
+    "google_sheets-get-cell-formatting",
+    "google_sheets-get-cell",
+    "google_sheets-get-current-user",
+    "google_sheets-get-spreadsheet-by-id",
+    "google_sheets-get-spreadsheet-info",
+    "google_sheets-get-values-in-range",
+    "google_sheets-insert-anchored-note",
+    "google_sheets-insert-comment",
+    "google_sheets-insert-dimension",
+    "google_sheets-list-spreadsheets",
+    "google_sheets-list-worksheets",
+    "google_sheets-merge-cells",
+    "google_sheets-move-dimension",
+    "google_sheets-new-spreadsheet",
+    "google_sheets-read-rows",
+    "google_sheets-set-data-validation",
+    "google_sheets-update-cell",
+    "google_sheets-update-conditional-format-rule",
+    "google_sheets-update-formatting",
+    "google_sheets-update-multiple-rows",
+    "google_sheets-update-row",
+    "google_sheets-update-rows",
+    "google_sheets-upsert-row",
+    "google_sheets-new-comment-polling",
+    "google_sheets-new-comment",
+    "google_sheets-new-row-added-polling",
+    "google_sheets-new-row-added",
+    "google_sheets-new-updates-polling",
+    "google_sheets-new-updates",
+    "google_sheets-new-worksheet-polling",
+    "google_sheets-new-worksheet"
+  ],
+  "npmImports": [
+    "@googleapis/sheets",
+    "crypto",
+    "lodash",
+    "uuid",
+    "zlib"
+  ]
+}

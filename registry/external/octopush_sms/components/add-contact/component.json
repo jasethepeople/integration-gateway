@@ -1,0 +1,7 @@
+{
+  "key": "octopush_sms-add-contact",
+  "name": "Add Contact",
+  "description": "Adds a new contact to a list in the Octopush SMS Gateway. [See the documentation](https://dev.octopush.com/en/sms-gateway-api-documentation/add-a-contact/)",
+  "type": "action",
+  "version": "0.0.2"
+}

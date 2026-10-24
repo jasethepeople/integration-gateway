@@ -1,0 +1,7 @@
+{
+  "key": "wealthbox-new-task-created",
+  "name": "New Task Created",
+  "description": "Emit new event for each task created. [See the documentation](http://dev.wealthbox.com/#tasks-collection-get)",
+  "type": "source",
+  "version": "0.0.2"
+}

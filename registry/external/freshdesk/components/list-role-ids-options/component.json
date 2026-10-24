@@ -1,0 +1,7 @@
+{
+  "key": "freshdesk-list-role-ids-options",
+  "name": "List Role IDs Options",
+  "description": "Retrieves available options for the Role IDs field.",
+  "type": "action",
+  "version": "0.0.3"
+}

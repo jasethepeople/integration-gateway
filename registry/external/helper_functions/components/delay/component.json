@@ -1,0 +1,7 @@
+{
+  "key": "helper_functions-delay",
+  "name": "Delay by N milliseconds",
+  "description": "Delays the execution of your workflow for the specified number of milliseconds",
+  "type": "action",
+  "version": "0.1.2"
+}

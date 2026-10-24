@@ -1,0 +1,7 @@
+{
+  "key": "firebase_admin_sdk-list-documents",
+  "name": "List Documents",
+  "description": "Lists documents in a collection. [See the docs here](https://googleapis.dev/nodejs/firestore/latest/CollectionReference.html#listDocuments)",
+  "type": "action",
+  "version": "0.0.10"
+}

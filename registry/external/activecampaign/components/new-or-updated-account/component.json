@@ -1,0 +1,7 @@
+{
+  "key": "activecampaign-new-or-updated-account",
+  "name": "New or Updated Account",
+  "description": "Emit new event each time an account is added or updated.",
+  "type": "source",
+  "version": "0.0.6"
+}

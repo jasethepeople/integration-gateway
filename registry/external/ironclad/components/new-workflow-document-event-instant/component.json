@@ -1,0 +1,7 @@
+{
+  "key": "ironclad-new-workflow-document-event-instant",
+  "name": "New Workflow Document Event (Instant)",
+  "description": "Emit new event when a workflow document event is freshly established.",
+  "type": "source",
+  "version": "0.0.2"
+}

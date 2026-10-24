@@ -1,0 +1,7 @@
+{
+  "key": "line-send-notification-message",
+  "name": "Send Notification Message",
+  "description": "Sends notifications to users or groups from LINE Notify. [See docs](https://notify-bot.line.me/doc/en/)",
+  "type": "action",
+  "version": "0.0.4"
+}

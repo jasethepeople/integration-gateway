@@ -1,0 +1,30 @@
+{
+  "app": "orca_scan",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "sheetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "rowData": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "barcode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "orca_scan-add-update-row",
+    "orca_scan-find-row",
+    "orca_scan-list-sheet-id-options",
+    "orca_scan-new-row",
+    "orca_scan-new-sheet"
+  ]
+}

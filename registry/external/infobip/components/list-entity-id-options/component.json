@@ -1,0 +1,7 @@
+{
+  "key": "infobip-list-entity-id-options",
+  "name": "List Entity Id Options",
+  "description": "Retrieves available options for the Entity Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

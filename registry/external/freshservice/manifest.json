@@ -1,0 +1,68 @@
+{
+  "app": "freshservice",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "solutionCategoryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "solutionFolderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "solutionArticleId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ticketId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ticketSourceType": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "ticketStatus": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "ticketPriority": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "solutionArticleType": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "solutionArticleStatus": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "freshservice-create-solution-article",
+    "freshservice-create-ticket",
+    "freshservice-delete-solution-article",
+    "freshservice-get-solution-article",
+    "freshservice-get-ticket",
+    "freshservice-list-solution-articles",
+    "freshservice-list-solution-categories",
+    "freshservice-list-solution-category-id-options",
+    "freshservice-list-ticket-id-options",
+    "freshservice-update-solution-article",
+    "freshservice-update-ticket",
+    "freshservice-new-solution-article",
+    "freshservice-new-ticket",
+    "freshservice-solution-article-updated",
+    "freshservice-ticket-updated"
+  ]
+}

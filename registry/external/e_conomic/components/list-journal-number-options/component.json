@@ -1,0 +1,7 @@
+{
+  "key": "e_conomic-list-journal-number-options",
+  "name": "List Journal Number Options",
+  "description": "Retrieves available options for the Journal Number field.",
+  "type": "action",
+  "version": "0.0.1"
+}

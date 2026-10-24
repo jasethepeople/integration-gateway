@@ -1,0 +1,7 @@
+{
+  "key": "listmonk-list-list-ids-options",
+  "name": "List Lists Options",
+  "description": "Retrieves available options for the Lists field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "openum-list-config-id-options",
+  "name": "List Config ID Options",
+  "description": "Retrieves available options for the Config ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

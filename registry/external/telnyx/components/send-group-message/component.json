@@ -1,0 +1,7 @@
+{
+  "key": "telnyx-send-group-message",
+  "name": "Send Group Message",
+  "description": "Send a group MMS message. [See the documentation](https://developers.telnyx.com/api/messaging/create-group-mms-message)",
+  "type": "action",
+  "version": "0.0.4"
+}

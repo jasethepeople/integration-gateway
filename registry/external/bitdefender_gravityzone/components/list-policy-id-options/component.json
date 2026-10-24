@@ -1,0 +1,7 @@
+{
+  "key": "bitdefender_gravityzone-list-policy-id-options",
+  "name": "List Policy ID Options",
+  "description": "Retrieves available options for the Policy ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

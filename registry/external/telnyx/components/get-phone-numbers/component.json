@@ -1,0 +1,7 @@
+{
+  "key": "telnyx-get-phone-numbers",
+  "name": "Get Phone Numbers",
+  "description": "Get a list of phone numbers. [See the documentation](https://developers.telnyx.com/api/numbers/list-phone-numbers)",
+  "type": "action",
+  "version": "0.0.5"
+}

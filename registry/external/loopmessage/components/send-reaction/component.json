@@ -1,0 +1,7 @@
+{
+  "key": "loopmessage-send-reaction",
+  "name": "Send Reaction",
+  "description": "Action to send a reaction in iMessage or RCS.",
+  "type": "action",
+  "version": "0.0.4"
+}

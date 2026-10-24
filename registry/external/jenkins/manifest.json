@@ -1,0 +1,22 @@
+{
+  "app": "jenkins",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "jobName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "jenkins-list-job-name-options",
+    "jenkins-new-job-status-notification-instant"
+  ],
+  "npmImports": [
+    "fast-xml-parser"
+  ]
+}

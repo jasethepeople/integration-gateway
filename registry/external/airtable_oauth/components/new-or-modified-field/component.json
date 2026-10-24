@@ -1,0 +1,7 @@
+{
+  "key": "airtable_oauth-new-or-modified-field",
+  "name": "New or Modified Field (Instant)",
+  "description": "Emit new event when a field is created or updated in the selected table",
+  "type": "source",
+  "version": "1.0.6"
+}

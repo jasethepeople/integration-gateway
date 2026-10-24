@@ -1,0 +1,84 @@
+{
+  "app": "clerk",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "backupCodes": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "createdAt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "externalId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "password": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "primaryEmailAddressId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "primaryPhoneNumberId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "primaryWeb3WalletId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "privateMetadata": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "publicMetadata": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "skipPasswordChecks": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "totpSecret": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "unsafeMetadata": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "username": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "secret_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "clerk-create-user-invitation",
+    "clerk-create-user",
+    "clerk-delete-user",
+    "clerk-get-user-membership",
+    "clerk-get-user",
+    "clerk-list-user-id-options",
+    "clerk-update-user"
+  ]
+}

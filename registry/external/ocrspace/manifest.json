@@ -1,0 +1,50 @@
+{
+  "app": "ocrspace",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "file": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "language": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "isOverlayRequired": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "filetype": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "detectOrientation": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "scale": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "isTable": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "ocrEngine": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "apikey": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ocrspace-process-image",
+    "ocrspace-process-pdf"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

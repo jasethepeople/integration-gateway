@@ -1,0 +1,23 @@
+{
+  "app": "vero",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "id": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "auth_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "vero-create-or-update-user",
+    "vero-track-event-for-user"
+  ]
+}

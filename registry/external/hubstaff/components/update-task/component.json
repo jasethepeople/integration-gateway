@@ -1,0 +1,7 @@
+{
+  "key": "hubstaff-update-task",
+  "name": "Update Task",
+  "description": "Update a specific task within your Hubstaff organization. [See the documentation](https://developer.hubstaff.com/docs/hubstaff_v2#!/tasks/putV2TasksTaskId)",
+  "type": "action",
+  "version": "0.0.2"
+}

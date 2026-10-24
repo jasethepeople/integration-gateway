@@ -1,0 +1,7 @@
+{
+  "key": "testmonitor-find-test-result",
+  "name": "Find a Test Result",
+  "description": "Retrieve a list of test results. [See the docs here](https://docs.testmonitor.com/#tag/Test-Results/operation/GetTestResultCollection)",
+  "type": "action",
+  "version": "0.0.5"
+}

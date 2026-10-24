@@ -1,0 +1,7 @@
+{
+  "key": "picqer-cancel-order",
+  "name": "Cancel Order",
+  "description": "Removes orders with 'concept' or 'expected' status only. [See the documentation](https://picqer.com/en/api/orders)",
+  "type": "action",
+  "version": "0.0.2"
+}

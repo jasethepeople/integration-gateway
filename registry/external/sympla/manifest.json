@@ -1,0 +1,21 @@
+{
+  "app": "sympla",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "eventId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sympla-list-event-id-options",
+    "sympla-new-attendee",
+    "sympla-new-event",
+    "sympla-new-order"
+  ]
+}

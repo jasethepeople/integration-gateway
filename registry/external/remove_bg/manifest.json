@@ -1,0 +1,9 @@
+{
+  "app": "remove_bg",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "remove_bg-remove-background"
+  ]
+}

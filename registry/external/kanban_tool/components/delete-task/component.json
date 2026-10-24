@@ -1,0 +1,7 @@
+{
+  "key": "kanban_tool-delete-task",
+  "name": "Delete Task",
+  "description": "Soft deletes a task [See the docs here](https://kanbantool.com/developer/api-v3#deleting-tasks)",
+  "type": "action",
+  "version": "0.0.3"
+}

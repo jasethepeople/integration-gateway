@@ -1,0 +1,20 @@
+{
+  "app": "summit",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "model": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "summit-list-models",
+    "summit-run-model",
+    "summit-new-model-added"
+  ]
+}

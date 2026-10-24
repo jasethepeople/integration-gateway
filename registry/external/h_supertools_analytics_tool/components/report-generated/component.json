@@ -1,0 +1,7 @@
+{
+  "key": "h_supertools_analytics_tool-report-generated",
+  "name": "New Report Generated",
+  "description": "Emit new event when a new analytics report is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

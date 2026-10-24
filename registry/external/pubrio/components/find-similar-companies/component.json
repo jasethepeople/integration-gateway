@@ -1,0 +1,7 @@
+{
+  "key": "pubrio-find-similar-companies",
+  "name": "Find Similar Companies",
+  "description": "Find companies similar to a given company. [See the documentation](https://docs.pubrio.com/en/api-reference/endpoint/companies/similar)",
+  "type": "action",
+  "version": "0.0.1"
+}

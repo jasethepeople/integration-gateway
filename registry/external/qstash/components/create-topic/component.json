@@ -1,0 +1,7 @@
+{
+  "key": "qstash-create-topic",
+  "name": "Create Topic",
+  "description": "Create a new QStash topic that emits to multiple endpoints.",
+  "type": "action",
+  "version": "0.0.2"
+}

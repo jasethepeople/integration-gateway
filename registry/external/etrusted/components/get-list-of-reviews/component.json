@@ -1,0 +1,7 @@
+{
+  "key": "etrusted-get-list-of-reviews",
+  "name": "Get List of Reviews",
+  "description": "Get a list of reviews for a specific channel, a set of channels or for your entire account. [See the documentation](https://developers.etrusted.com/reference/getreviews)",
+  "type": "action",
+  "version": "0.0.3"
+}

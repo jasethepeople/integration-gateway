@@ -1,0 +1,24 @@
+{
+  "app": "_2markdown",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "filePath": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "_2markdown-html-file-to-markdown",
+    "_2markdown-html-to-markdown",
+    "_2markdown-pdf-to-markdown",
+    "_2markdown-url-to-markdown"
+  ],
+  "npmImports": [
+    "form-data"
+  ]
+}

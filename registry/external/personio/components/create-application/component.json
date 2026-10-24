@@ -1,0 +1,7 @@
+{
+  "key": "personio-create-application",
+  "name": "Create Application",
+  "description": "Creates a new application. [See the documentation](https://developer.personio.de/reference/post_v1-recruiting-applications)",
+  "type": "action",
+  "version": "0.0.2"
+}

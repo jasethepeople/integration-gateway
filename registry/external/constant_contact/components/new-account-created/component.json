@@ -1,0 +1,7 @@
+{
+  "key": "constant_contact-new-account-created",
+  "name": "New Account Created",
+  "description": "Emit new event when a new email account is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

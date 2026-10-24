@@ -1,0 +1,7 @@
+{
+  "key": "lever-create-opportunity",
+  "name": "Create Opportunity",
+  "description": "Creates a new opportunity (candidate + application) in Lever.",
+  "type": "action",
+  "version": "0.0.2"
+}

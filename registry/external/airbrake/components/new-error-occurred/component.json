@@ -1,0 +1,7 @@
+{
+  "key": "airbrake-new-error-occurred",
+  "name": "New Error Occurred",
+  "description": "Emit new event for each error occurred. [See docs here](https://docs.airbrake.io/docs/devops-tools/api/#list-notices-v4)",
+  "type": "source",
+  "version": "0.0.3"
+}

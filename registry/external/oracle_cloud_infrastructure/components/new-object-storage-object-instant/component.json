@@ -1,0 +1,7 @@
+{
+  "key": "oracle_cloud_infrastructure-new-object-storage-object-instant",
+  "name": "New Object Storage Object (Instant)",
+  "description": "Emit new event when a new object is uploaded to a specified Oracle Cloud Infrastructure Object Storage bucket. [See the documentation](https://docs.oracle.com/en-us/iaas/api/#/en/events/20181201/Rule/CreateRule).",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "sender-list-group-ids-options",
+  "name": "List Group IDs Options",
+  "description": "Retrieves available options for the Group IDs field.",
+  "type": "action",
+  "version": "0.0.1"
+}

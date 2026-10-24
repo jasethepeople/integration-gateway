@@ -1,0 +1,7 @@
+{
+  "key": "discord_bot-new-guild-member",
+  "name": "New Guild Member",
+  "description": "Emit new event for every member added to a guild. [See docs here](https://discord.com/developers/docs/resources/guild#list-guild-members)",
+  "type": "source",
+  "version": "1.0.0"
+}

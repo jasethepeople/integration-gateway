@@ -1,0 +1,7 @@
+{
+  "key": "bilig_workpaper-verify-formula-readback",
+  "name": "Verify Formula Readback",
+  "description": "Write a Bilig WorkPaper forecast input cell and return verified recalculated formula output. [See the documentation](https://github.com/proompteng/bilig/tree/main/integrations/pipedream-bilig-workpaper)",
+  "type": "action",
+  "version": "0.0.1"
+}

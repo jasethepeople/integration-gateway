@@ -1,0 +1,49 @@
+{
+  "app": "sare",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "gsm": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "groups": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "emails": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "subject": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "from": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "newsletter": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "uid": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sare-add-email",
+    "sare-list-groups-options",
+    "sare-remove-from-group",
+    "sare-send-email"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "_302_ai-summarize-text",
+  "name": "Summarize Text",
+  "description": "Summarize long-form text into concise, readable output using the 302.AI Chat API. Great for reports, content digestion, and executive briefs. [See documentation](https://doc.302.ai/147522039e0)",
+  "type": "action",
+  "version": "0.0.1"
+}

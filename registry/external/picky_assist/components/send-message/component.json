@@ -1,0 +1,7 @@
+{
+  "key": "picky_assist-send-message",
+  "name": "Send Message",
+  "description": "Sends a message. [See docs here](https://help.pickyassist.com/api-documentation-v2/push-api/sending-single-message-push)",
+  "type": "action",
+  "version": "0.0.2"
+}

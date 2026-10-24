@@ -1,0 +1,7 @@
+{
+  "key": "dreamstudio-modify-image",
+  "name": "Modify Image",
+  "description": "Modify an image based on a text prompt. [See the documentation](https://platform.stability.ai/docs/api-reference#tag/v1generation/operation/imageToImage)",
+  "type": "action",
+  "version": "1.0.3"
+}

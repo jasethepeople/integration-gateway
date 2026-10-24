@@ -1,0 +1,7 @@
+{
+  "key": "dropmark-new-item-in-collection",
+  "name": "New Item in Collection",
+  "description": "Emit new event when a new item is added to a collection in Dropmark. [See the documentation](https://support.dropmark.com/article/96-api)",
+  "type": "source",
+  "version": "0.0.1"
+}

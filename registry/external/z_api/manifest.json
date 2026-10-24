@@ -1,0 +1,48 @@
+{
+  "app": "z_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "message": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "action": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pageNum": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pageSize": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "chat": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "instance_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "token_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "account_security_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "z_api-get-contacts",
+    "z_api-modify-chat",
+    "z_api-send-text"
+  ]
+}

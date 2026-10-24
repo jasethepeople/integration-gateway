@@ -1,0 +1,72 @@
+{
+  "app": "testmonitor",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "filter": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "issueId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "order": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "max": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "testCaseId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "testRunId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "testResultStatusId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "testResultId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "with": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "testmonitor-create-test-result",
+    "testmonitor-find-issue",
+    "testmonitor-find-project",
+    "testmonitor-find-test-result",
+    "testmonitor-list-project-id-options",
+    "testmonitor-new-issue",
+    "testmonitor-new-test-result"
+  ],
+  "npmImports": [
+    "form-data",
+    "moment"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "slack_v2-send-message-advanced",
+  "name": "Send Message (Advanced)",
+  "description": "Customize advanced settings and send a message to a channel, group or user.",
+  "type": "action",
+  "version": "1.0.2"
+}

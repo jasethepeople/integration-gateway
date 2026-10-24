@@ -1,0 +1,7 @@
+{
+  "key": "drata-list-vendor-id-options",
+  "name": "List Vendor ID Options",
+  "description": "Retrieves available options for the Vendor ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "topdesk-list-impact-id-options",
+  "name": "List Impact ID Options",
+  "description": "Retrieves available options for the Impact ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

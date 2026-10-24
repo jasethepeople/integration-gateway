@@ -1,0 +1,7 @@
+{
+  "key": "krispcall-new-call-instant",
+  "name": "New Call (Instant)",
+  "description": "Emit new event when a new call is created.",
+  "type": "source",
+  "version": "0.0.5"
+}

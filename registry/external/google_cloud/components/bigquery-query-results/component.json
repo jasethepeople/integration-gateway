@@ -1,0 +1,7 @@
+{
+  "key": "google_cloud-bigquery-query-results",
+  "name": "BigQuery - Query Results",
+  "description": "Emit new events with the results of an arbitrary query",
+  "type": "source",
+  "version": "0.1.9"
+}

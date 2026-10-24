@@ -1,0 +1,7 @@
+{
+  "key": "formbricks-list-survey-ids-options",
+  "name": "List Survey IDs Options",
+  "description": "Retrieves available options for the Survey IDs field.",
+  "type": "action",
+  "version": "0.0.1"
+}

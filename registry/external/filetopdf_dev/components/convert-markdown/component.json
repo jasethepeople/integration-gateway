@@ -1,0 +1,7 @@
+{
+  "key": "filetopdf_dev-convert-markdown",
+  "name": "Convert Markdown to PDF",
+  "description": "Render Markdown (with optional CSS) into a clean PDF. [See the documentation](https://filetopdf.dev/markdown).",
+  "type": "action",
+  "version": "0.0.1"
+}

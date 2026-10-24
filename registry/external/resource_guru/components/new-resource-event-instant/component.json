@@ -1,0 +1,7 @@
+{
+  "key": "resource_guru-new-resource-event-instant",
+  "name": "New Resource Event (Instant)",
+  "description": "Emit new event when a resource is created, updated or deleted.",
+  "type": "source",
+  "version": "0.0.1"
+}

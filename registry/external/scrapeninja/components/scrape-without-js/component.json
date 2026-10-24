@@ -1,0 +1,7 @@
+{
+  "key": "scrapeninja-scrape-without-js",
+  "name": "Scrape without JS",
+  "description": "Use high-performance web scraping endpoint with Chrome browser TLS fingerprint, but without JavaScript execution and real browser overhead. [See the documentation](https://scrapeninja.net/docs/api-reference/scrape/)",
+  "type": "action",
+  "version": "0.0.2"
+}

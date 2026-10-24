@@ -1,0 +1,7 @@
+{
+  "key": "knack-create-record",
+  "name": "Create Record",
+  "description": "Create a Record for a Knack object [(See docs here)](https://docs.knack.com/docs/object-based-post)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,16 @@
+{
+  "app": "getemails",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "getemails-find-email",
+    "getemails-status-find-email",
+    "getemails-verify-email"
+  ]
+}

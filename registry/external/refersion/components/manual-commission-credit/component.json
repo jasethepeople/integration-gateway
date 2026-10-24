@@ -1,0 +1,7 @@
+{
+  "key": "refersion-manual-commission-credit",
+  "name": "Manual Comission Credit",
+  "description": "Allows you to manually credit an affiliate with any commission amount. [See the docs here](https://www.refersion.dev/reference/manual_commission_credit)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "twitch-get-clips",
+  "name": "Get Clips",
+  "description": "Gets clip information by clip ID, user ID, or game ID",
+  "type": "action",
+  "version": "0.1.6"
+}

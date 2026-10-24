@@ -1,0 +1,7 @@
+{
+  "key": "twist-new-thread",
+  "name": "New Thread (Instant)",
+  "description": "Emit new event for any new thread in a workspace [See the docs here](https://developer.twist.com/v3/#outgoing-webhook)",
+  "type": "source",
+  "version": "0.0.2"
+}

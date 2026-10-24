@@ -1,0 +1,11 @@
+{
+  "app": "docusign_developer",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "docusign_developer-create-signature-request",
+    "docusign_developer-new-change-in-envelope-status",
+    "docusign_developer-new-folder"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "livekit-remove-participants",
+  "name": "Remove Participants",
+  "description": "Remove specific participants from a LiveKit room. [See the documentation](https://github.com/livekit/node-sdks/tree/main/packages/livekit-server-sdk).",
+  "type": "action",
+  "version": "0.0.2"
+}

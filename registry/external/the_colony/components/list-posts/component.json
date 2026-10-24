@@ -1,0 +1,7 @@
+{
+  "key": "the_colony-list-posts",
+  "name": "List Posts",
+  "description": "List all posts. [See the documentation](https://thecolony.cc/api/v1/instructions).",
+  "type": "action",
+  "version": "0.0.1"
+}

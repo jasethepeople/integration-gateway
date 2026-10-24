@@ -1,0 +1,68 @@
+{
+  "app": "lmnt",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "format": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "length": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "returnDurations": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "seed": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "speed": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "text": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "voice": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "enhance": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "gender": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "lmnt-create-custom-voice",
+    "lmnt-generate-speech-from-text",
+    "lmnt-list-voice-options"
+  ],
+  "npmImports": [
+    "form-data",
+    "fs"
+  ]
+}

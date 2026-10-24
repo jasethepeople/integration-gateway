@@ -1,0 +1,28 @@
+{
+  "app": "assemblyai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "transcriptId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "languageCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subtitleFormat": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "assemblyai-create-captions",
+    "assemblyai-get-transcription",
+    "assemblyai-new-transcription-completed"
+  ]
+}

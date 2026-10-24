@@ -1,0 +1,7 @@
+{
+  "key": "domain_group-list-agency-id-options",
+  "name": "List Agency ID Options",
+  "description": "Retrieves available options for the Agency ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "msg91-launch-campaign",
+  "name": "Launch Campaign",
+  "description": "Launch a campaign using various communication channels (SMS, Email, WhatsApp, Voice, RCS). [See the documentation](https://docs.msg91.com/campaign/run-campaign)",
+  "type": "action",
+  "version": "0.0.2"
+}

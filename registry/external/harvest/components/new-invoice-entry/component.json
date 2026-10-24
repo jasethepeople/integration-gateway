@@ -1,0 +1,7 @@
+{
+  "key": "harvest-new-invoice-entry",
+  "name": "New Invoice Entry",
+  "description": "Emit new notifications when a new invoice is created",
+  "type": "source",
+  "version": "0.0.5"
+}

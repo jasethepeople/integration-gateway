@@ -1,0 +1,7 @@
+{
+  "key": "callpage-create-sms",
+  "name": "Create SMS",
+  "description": "Creates a new SMS in CallPage. [See the documentation](https://callpage.github.io/documentation-rest/)",
+  "type": "action",
+  "version": "0.0.2"
+}

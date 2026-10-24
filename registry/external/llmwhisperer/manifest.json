@@ -1,0 +1,21 @@
+{
+  "app": "llmwhisperer",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "whisperHash": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "llmwhisperer-extract-text",
+    "llmwhisperer-get-status",
+    "llmwhisperer-highlight-locations",
+    "llmwhisperer-retrieve-text"
+  ]
+}

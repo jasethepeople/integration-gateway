@@ -1,0 +1,27 @@
+{
+  "app": "genderize",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "names": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "countryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "genderize-get-gender-from-name",
+    "genderize-get-gender-from-names"
+  ]
+}

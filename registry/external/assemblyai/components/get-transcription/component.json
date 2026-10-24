@@ -1,0 +1,7 @@
+{
+  "key": "assemblyai-get-transcription",
+  "name": "Get Transcription",
+  "description": "Fetches a specific transcribed result from the AssemblyAI API. [See the documentation](https://www.assemblyai.com/docs/api-reference/transcripts/get)",
+  "type": "action",
+  "version": "0.1.1"
+}

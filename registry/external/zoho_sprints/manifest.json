@@ -1,0 +1,59 @@
+{
+  "app": "zoho_sprints",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "teamId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "statusId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "sprintId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "itemTypeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "priorityTypeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "assignees": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "epicId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "itemId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "base_api_uri": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zoho_sprints-create-item",
+    "zoho_sprints-delete-item",
+    "zoho_sprints-list-team-id-options",
+    "zoho_sprints-update-project-status",
+    "zoho_sprints-new-item-updated",
+    "zoho_sprints-new-project-created"
+  ]
+}

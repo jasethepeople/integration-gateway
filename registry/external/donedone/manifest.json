@@ -1,0 +1,62 @@
+{
+  "app": "donedone",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "assigneeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "statusId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "priorityId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "watcherIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "atMentionIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "linkableTaskIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "conversationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "donedone-add-people-to-project",
+    "donedone-create-task",
+    "donedone-list-account-id-options",
+    "donedone-new-conversation-created",
+    "donedone-new-task-created"
+  ]
+}

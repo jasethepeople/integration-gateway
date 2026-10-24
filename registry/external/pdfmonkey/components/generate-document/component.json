@@ -1,0 +1,7 @@
+{
+  "key": "pdfmonkey-generate-document",
+  "name": "Generate Document",
+  "description": "Generates a new document using a specified template. [See the documentation](https://docs.pdfmonkey.io/references/api/documents)",
+  "type": "action",
+  "version": "0.0.2"
+}

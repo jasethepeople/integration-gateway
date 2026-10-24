@@ -1,0 +1,7 @@
+{
+  "key": "precisefp-new-account-created",
+  "name": "New Account Created",
+  "description": "Trigger when a new account is created. [See the documentation](https://documenter.getpostman.com/view/6125750/UyrDEFnd#5e5ebc43-65a3-4b07-9f44-70833a44de9d)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "twitch-delete-video",
+  "name": "Delete Video",
+  "description": "Deletes a specified video",
+  "type": "action",
+  "version": "0.1.5"
+}

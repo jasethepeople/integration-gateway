@@ -1,0 +1,7 @@
+{
+  "key": "nextcloud-new-share-created",
+  "name": "New Share Created",
+  "description": "Emit new event whenever a share is created in Nextcloud. [See the documentation](https://docs.nextcloud.com/server/latest/developer_manual/_static/openapi.html#/operations/files_sharing-shareapi-get-shares)",
+  "type": "source",
+  "version": "0.0.1"
+}

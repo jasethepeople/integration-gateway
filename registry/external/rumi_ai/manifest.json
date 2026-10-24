@@ -1,0 +1,95 @@
+{
+  "app": "rumi_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "sessionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sessionRecurrenceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emails": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "domains": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "message": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sessionTitle": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "about": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startDateTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endDateTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "enableRecording": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "summaAI": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "recurring": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "requestId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tz": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sessions": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "rumi_ai-add-session-access",
+    "rumi_ai-ai-stream-query",
+    "rumi_ai-create-session",
+    "rumi_ai-get-current-user",
+    "rumi_ai-get-future-sessions",
+    "rumi_ai-get-meeting-types",
+    "rumi_ai-get-memory-threads",
+    "rumi_ai-get-past-sessions",
+    "rumi_ai-remove-session-access",
+    "rumi_ai-new-session-completed"
+  ]
+}

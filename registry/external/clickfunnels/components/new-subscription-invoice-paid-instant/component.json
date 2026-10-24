@@ -1,0 +1,7 @@
+{
+  "key": "clickfunnels-new-subscription-invoice-paid-instant",
+  "name": "New Subscription Invoice Paid (Instant)",
+  "description": "Emit new event when a subscription fee is paid by a customer.",
+  "type": "source",
+  "version": "0.0.1"
+}

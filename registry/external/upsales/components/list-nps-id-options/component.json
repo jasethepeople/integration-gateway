@@ -1,0 +1,7 @@
+{
+  "key": "upsales-list-nps-id-options",
+  "name": "List NPS ID Options",
+  "description": "Retrieves available options for the NPS ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

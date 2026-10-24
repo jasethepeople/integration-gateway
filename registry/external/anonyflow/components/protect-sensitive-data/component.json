@@ -1,0 +1,7 @@
+{
+  "key": "anonyflow-protect-sensitive-data",
+  "name": "Protect Sensitive Data",
+  "description": "Encrypts sensitive data using AnonyFlow encryption service with a unique private key managed by AnonyFlow. [See the documentation](https://anonyflow.com/api)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pitchlane-new-video-created",
+  "name": "New Video Created (Instant)",
+  "description": "Emit new event when a video is created in Pitchlane. [See the documentation](https://docs.pitchlane.com/reference#tag/webhooks/POST/webhooks)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "wealthbox-new-workflow",
+  "name": "New Workflow Enrollment",
+  "description": "Emit new event for each new workflow enrollment created in Wealthbox. Polls GET /workflows and tracks by `created_at`. Note: this triggers on workflow ENROLLMENT instances (a template applied to a record), not on new workflow templates. [See the documentation](http://dev.wealthbox.com/#workflows)",
+  "type": "source",
+  "version": "0.0.1"
+}

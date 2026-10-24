@@ -1,0 +1,7 @@
+{
+  "key": "overloop-new-organization-created",
+  "name": "New Organization Created",
+  "description": "Emit new event each time an organization is created. [See the docs](https://apidoc.overloop.com/#list-organizations)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "documenterra-create-page",
+  "name": "Create Page",
+  "description": "Creates a new page. [See the documentation](https://documenterra.ru/docs/user-manual/api-sozdaniye-stranitsy.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

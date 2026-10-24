@@ -1,0 +1,7 @@
+{
+  "key": "shortcut-new-event-received",
+  "name": "New Event Received (Instant)",
+  "description": "Emit new event when a new webhook event is received. [See the documentation](https://developer.shortcut.com/api/rest/v3#Create-Generic-Integration)",
+  "type": "source",
+  "version": "0.0.1"
+}

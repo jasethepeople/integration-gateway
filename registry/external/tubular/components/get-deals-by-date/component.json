@@ -1,0 +1,7 @@
+{
+  "key": "tubular-get-deals-by-date",
+  "name": "Get Deals By Date",
+  "description": "Get deals ordered by date of creation. [See the documentation](https://developer.tubular.io/examples/#get-deals-ordered-by-date-of-creation)",
+  "type": "action",
+  "version": "0.0.2"
+}

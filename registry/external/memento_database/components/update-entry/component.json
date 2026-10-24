@@ -1,0 +1,7 @@
+{
+  "key": "memento_database-update-entry",
+  "name": "Update Entry",
+  "description": "Update an entry in a library on Memento Database. [See the documentation](https://mementodatabase.docs.apiary.io/#reference/0/entry/edit-an-entry)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,20 @@
+{
+  "app": "ipbase",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "ip": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ipbase-check-ip-address",
+    "ipbase-get-asn-info",
+    "ipbase-list-domains"
+  ]
+}

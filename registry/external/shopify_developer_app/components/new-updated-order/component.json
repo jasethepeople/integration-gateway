@@ -1,0 +1,7 @@
+{
+  "key": "shopify_developer_app-new-updated-order",
+  "name": "New Updated Order (Instant)",
+  "description": "Emit new event each time an order is updated.",
+  "type": "source",
+  "version": "0.0.21"
+}

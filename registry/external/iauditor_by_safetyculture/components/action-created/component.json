@@ -1,0 +1,7 @@
+{
+  "key": "iauditor_by_safetyculture-action-created",
+  "name": "Action Created",
+  "description": "Emit new event when a new action is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

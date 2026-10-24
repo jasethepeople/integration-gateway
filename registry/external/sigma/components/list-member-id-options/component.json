@@ -1,0 +1,7 @@
+{
+  "key": "sigma-list-member-id-options",
+  "name": "List Member ID Options",
+  "description": "Retrieves available options for the Member ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

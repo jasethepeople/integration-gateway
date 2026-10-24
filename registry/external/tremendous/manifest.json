@@ -1,0 +1,29 @@
+{
+  "app": "tremendous",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "products": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "fundingSourceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "tremendous-create-order-email-reward",
+    "tremendous-list-campaign-id-options",
+    "tremendous-list-funding-source-id-options",
+    "tremendous-list-products-options"
+  ]
+}

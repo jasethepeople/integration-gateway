@@ -1,0 +1,16 @@
+{
+  "app": "passcreator",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "passcreator-new-pass-marked-voided",
+    "passcreator-new-pass-scanned",
+    "passcreator-new-wallet-pass-created"
+  ]
+}

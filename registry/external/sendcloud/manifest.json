@@ -1,0 +1,258 @@
+{
+  "app": "sendcloud",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "parcelId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "trackingNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "address": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "city": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "houseNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "postalCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "integrationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "currency": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "senderAddress": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "createdAt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customsInvoiceNr": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customsShipmentType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "externalOrderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "externalShipmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderStatusId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderStatusMessage": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "parcelItems": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "paymentStatusId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "paymentStatusMessage": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shippingMethodCheckoutName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "telephone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "toPostNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "servicePointId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "toState": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "totalOrderValue": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "updatedAt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "weight": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "checkoutPayload": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "customDetails": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "latitude": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "longitude": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "neLatitude": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "neLongitude": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "swLatitude": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "swLongitude": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "accessToken": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "returnId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "addressSetup": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "shipWith": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "dimensionsLength": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "dimensionsWidth": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "dimensionsHeight": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "dimensionsUnit": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "weightValue": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "weightUnit": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "brandDomain": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shippingMethodId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fromDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "toDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sendcloud-bulk-pdf-label-printing",
+    "sendcloud-create-a-parcel",
+    "sendcloud-create-return",
+    "sendcloud-create-update-integration-shipment",
+    "sendcloud-get-current-user",
+    "sendcloud-get-label",
+    "sendcloud-get-parcel",
+    "sendcloud-get-return-portal-settings",
+    "sendcloud-get-return",
+    "sendcloud-get-sender-address",
+    "sendcloud-get-service-point",
+    "sendcloud-get-shipping-method",
+    "sendcloud-get-tracking-info",
+    "sendcloud-list-integration-shipments",
+    "sendcloud-list-parcel-documents",
+    "sendcloud-list-parcel-statuses",
+    "sendcloud-list-parcels",
+    "sendcloud-list-returns",
+    "sendcloud-list-sender-addresses",
+    "sendcloud-list-service-point-carriers",
+    "sendcloud-list-service-points",
+    "sendcloud-list-shipping-methods",
+    "sendcloud-update-a-parcel",
+    "sendcloud-validate-return",
+    "sendcloud-parcel-created",
+    "sendcloud-parcel-status-changed",
+    "sendcloud-parcel-updated",
+    "sendcloud-return-created",
+    "sendcloud-return-updated"
+  ],
+  "npmImports": [
+    "fs",
+    "path"
+  ]
+}

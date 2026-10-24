@@ -1,0 +1,40 @@
+{
+  "app": "zoho_analytics",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "columns": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "dateFormat": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "viewId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workspaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "base_api_uri": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "organization_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zoho_analytics-add-row",
+    "zoho_analytics-list-workspace-id-options",
+    "zoho_analytics-update-row"
+  ]
+}

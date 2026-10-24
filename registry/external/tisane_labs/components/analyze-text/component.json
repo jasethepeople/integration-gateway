@@ -1,0 +1,7 @@
+{
+  "key": "tisane_labs-analyze-text",
+  "name": "Analyze Text",
+  "description": "Analyze text for language, entities, sentiment, and other insights. [See the documentation](https://docs.tisane.ai/#561264c5-6dbe-4bde-aba3-7defe837989f)",
+  "type": "action",
+  "version": "0.0.2"
+}

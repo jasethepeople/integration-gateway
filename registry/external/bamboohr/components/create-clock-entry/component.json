@@ -1,0 +1,7 @@
+{
+  "key": "bamboohr-create-clock-entry",
+  "name": "Create Clock Entry",
+  "description": "Create a manual/retroactive clock entry with explicit start and end. For real-time punches use **Clock In** / **Clock Out** instead. [See the documentation](https://documentation.bamboohr.com/reference/create-clock-entry)",
+  "type": "action",
+  "version": "0.0.1"
+}

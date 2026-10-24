@@ -1,0 +1,7 @@
+{
+  "key": "llmwhisperer-highlight-locations",
+  "name": "Highlight Locations",
+  "description": "Generate highlight locations for a search term in the document. [See the documentation](https://docs.unstract.com/llm_whisperer/apis/llm_whisperer_text_extraction_highlight_api)",
+  "type": "action",
+  "version": "0.0.2"
+}

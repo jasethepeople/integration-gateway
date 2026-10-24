@@ -1,0 +1,56 @@
+{
+  "app": "chmeetings",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "date": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "paymentMethod": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fundName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "amount": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mobile": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "birthDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "church": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "chmeetings-create-contribution",
+    "chmeetings-create-person",
+    "chmeetings-get-contributions"
+  ]
+}

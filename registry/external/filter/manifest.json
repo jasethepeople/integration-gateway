@@ -1,0 +1,12 @@
+{
+  "app": "filter",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "condition": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": []
+}

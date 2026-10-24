@@ -1,0 +1,7 @@
+{
+  "key": "zamzar-create-content-file",
+  "name": "Create Content File",
+  "description": "Creates a file from the provided content. [See the documentation](https://developers.zamzar.com/docs)",
+  "type": "action",
+  "version": "0.0.3"
+}

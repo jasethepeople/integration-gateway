@@ -1,0 +1,54 @@
+{
+  "app": "endorsal",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "avatar": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "campaignID": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "company": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contact": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "location": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "position": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "testimonial": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "endorsal-create-contact",
+    "endorsal-create-testimonial",
+    "endorsal-list-campaign-id-options",
+    "endorsal-list-testimonials",
+    "endorsal-new-approved-testimonial"
+  ]
+}

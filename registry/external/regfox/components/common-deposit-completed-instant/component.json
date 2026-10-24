@@ -1,0 +1,7 @@
+{
+  "key": "regfox-common-deposit-completed-instant",
+  "name": "New Deposit Completed (Instant)",
+  "description": "Emit new event when a subscription or deposit has been completed. [See docs here.](https://docs.webconnex.io/api/v2/#subscription-reoccurring-notification)",
+  "type": "source",
+  "version": "0.0.1"
+}

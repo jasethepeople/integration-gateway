@@ -1,0 +1,7 @@
+{
+  "key": "passcreator-new-pass-scanned",
+  "name": "New Pass Scanned (Instant)",
+  "description": "Emits a new event when a new app scan has been recorded in Passcreator. [See the documentation](https://developer.passcreator.com/space/API/23331116/Subscription+endpoint)",
+  "type": "source",
+  "version": "0.0.1"
+}

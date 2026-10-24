@@ -1,0 +1,7 @@
+{
+  "key": "dealcloud-update-record",
+  "name": "Update Record",
+  "description": "Updates a record (entry) in DealCloud. [See the documentation](https://api.docs.dealcloud.com/docs/data/cells/postput)",
+  "type": "action",
+  "version": "0.0.1"
+}

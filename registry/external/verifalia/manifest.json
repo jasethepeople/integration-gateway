@@ -1,0 +1,22 @@
+{
+  "app": "verifalia",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "password": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "verifalia-delete-job",
+    "verifalia-get-balance"
+  ],
+  "npmImports": [
+    "verifalia"
+  ]
+}

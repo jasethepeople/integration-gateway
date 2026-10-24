@@ -1,0 +1,7 @@
+{
+  "key": "quickbase-new-record",
+  "name": "New Record",
+  "description": "Emit new event each time a new record is created in a specified table in Quickbase.",
+  "type": "source",
+  "version": "0.0.1"
+}

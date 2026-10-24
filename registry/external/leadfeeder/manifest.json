@@ -1,0 +1,25 @@
+{
+  "app": "leadfeeder",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "leadId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "leadfeeder-find-lead",
+    "leadfeeder-list-account-id-options",
+    "leadfeeder-new-lead-created",
+    "leadfeeder-new-recurring-lead"
+  ]
+}

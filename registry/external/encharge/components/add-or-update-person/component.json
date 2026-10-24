@@ -1,0 +1,7 @@
+{
+  "key": "encharge-add-or-update-person",
+  "name": "Add or Update Person",
+  "description": "Add or update a person in Encharge. [See the documentation](https://app-encharge-resources.s3.amazonaws.com/redoc.html#/people/createupdatepeople)",
+  "type": "action",
+  "version": "0.0.1"
+}

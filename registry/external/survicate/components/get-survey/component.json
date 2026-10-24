@@ -1,0 +1,7 @@
+{
+  "key": "survicate-get-survey",
+  "name": "Get Survey",
+  "description": "Retrieves detailed information about a specific survey. [See the documentation](https://developers.survicate.com/data-export/survey/)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,23 @@
+{
+  "app": "regfox",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "forms": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "regfox-common-deposit-completed-instant",
+    "regfox-deposit-completed",
+    "regfox-common-form-published-instant",
+    "regfox-form-published",
+    "regfox-common-registrant-applied-instant",
+    "regfox-registrant-applied"
+  ]
+}

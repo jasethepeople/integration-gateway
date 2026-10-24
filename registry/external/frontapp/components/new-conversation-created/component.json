@@ -1,0 +1,7 @@
+{
+  "key": "frontapp-new-conversation-created",
+  "name": "New Conversation Created",
+  "description": "Emit new event when a conversation is created. [See the documentation](https://dev.frontapp.com/reference/list-conversations)",
+  "type": "source",
+  "version": "0.0.7"
+}

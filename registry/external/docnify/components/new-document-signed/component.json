@@ -1,0 +1,7 @@
+{
+  "key": "docnify-new-document-signed",
+  "name": "New Document Signed",
+  "description": "Emit new event when a document is signed by a recipient",
+  "type": "source",
+  "version": "0.0.1"
+}

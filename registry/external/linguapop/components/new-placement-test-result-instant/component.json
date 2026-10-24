@@ -1,0 +1,7 @@
+{
+  "key": "linguapop-new-placement-test-result-instant",
+  "name": "New Placement Test Result (Instant)",
+  "description": "Emit new event when a placement test is completed. Must setup the source's URL as the `callbackUrl` when sending the test invitation. [See the documentation](https://docs.linguapop.eu/api/#sendcreate-an-invitation-to-a-placement-test)",
+  "type": "source",
+  "version": "0.0.1"
+}

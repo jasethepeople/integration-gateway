@@ -1,0 +1,7 @@
+{
+  "key": "teamgate-list-activity-id-options",
+  "name": "List Activity Id Options",
+  "description": "Retrieves available options for the Activity Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

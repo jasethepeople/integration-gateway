@@ -1,0 +1,51 @@
+{
+  "app": "contentstack",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "branchIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "contentType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "entryId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "environments": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "locale": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "region": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "stack_api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "management_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "contentstack-create-entry",
+    "contentstack-list-branch-ids-options",
+    "contentstack-list-content-type-options",
+    "contentstack-list-environments-options",
+    "contentstack-list-locale-options",
+    "contentstack-publish-entry",
+    "contentstack-update-entry",
+    "contentstack-new-asset-instant",
+    "contentstack-new-entry-instant",
+    "contentstack-publish-entry-instant"
+  ]
+}

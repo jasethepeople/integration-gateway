@@ -1,0 +1,7 @@
+{
+  "key": "world_news_api-published-news",
+  "name": "Published News",
+  "description": "Emit new event whenever recent news are published. Calling this endpoint requires 1 point per page, up to 1000 news. [See the docs here](https://worldnewsapi.com/docs/#Search-News)",
+  "type": "source",
+  "version": "0.0.1"
+}

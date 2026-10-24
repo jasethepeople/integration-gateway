@@ -1,0 +1,7 @@
+{
+  "key": "kaleido-list-consortia-id-options",
+  "name": "List Consortia ID Options",
+  "description": "Retrieves available options for the Consortia ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

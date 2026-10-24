@@ -1,0 +1,7 @@
+{
+  "key": "gorgias_oauth-update-macro",
+  "name": "Update Macro",
+  "description": "Update a macro. [See the documentation](https://developers.gorgias.com/reference/update-macro)",
+  "type": "action",
+  "version": "0.0.8"
+}

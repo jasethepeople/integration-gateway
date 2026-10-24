@@ -1,0 +1,42 @@
+{
+  "app": "starloop",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "businessId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "profileId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "testMode": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "starloop-list-business-id-options",
+    "starloop-list-ids",
+    "starloop-list-profile-id-options",
+    "starloop-send-invite",
+    "starloop-new-profile-created"
+  ]
+}

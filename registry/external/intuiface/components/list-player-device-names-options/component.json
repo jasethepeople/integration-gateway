@@ -1,0 +1,7 @@
+{
+  "key": "intuiface-list-player-device-names-options",
+  "name": "List Player Device Names Options",
+  "description": "Retrieves available options for the Player Device Names field.",
+  "type": "action",
+  "version": "0.0.1"
+}

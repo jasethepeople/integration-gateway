@@ -1,0 +1,7 @@
+{
+  "key": "corporate_merch-create-contact",
+  "name": "Create Contact",
+  "description": "Create a new contact. [See the documentation](https://corporatemerch.readme.io/reference/create-a-contact)",
+  "type": "action",
+  "version": "0.0.1"
+}

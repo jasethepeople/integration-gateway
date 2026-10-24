@@ -1,0 +1,7 @@
+{
+  "key": "stripo-new-email-created",
+  "name": "New Email Created",
+  "description": "Emit new event when a new email is created in Stripo. [See the documentation](https://api.stripo.email/reference/findemails)",
+  "type": "source",
+  "version": "0.0.1"
+}

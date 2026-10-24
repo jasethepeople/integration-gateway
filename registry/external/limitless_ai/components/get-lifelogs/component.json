@@ -1,0 +1,7 @@
+{
+  "key": "limitless_ai-get-lifelogs",
+  "name": "Get Lifelogs",
+  "description": "Returns a list of lifelog entries based on specified time range or date. [See the documentation](https://www.limitless.ai/developers#get-lifelogs)",
+  "type": "action",
+  "version": "0.0.2"
+}

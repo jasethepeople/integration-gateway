@@ -1,0 +1,57 @@
+{
+  "app": "senta",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "clientViewId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "clientId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "clientState": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "clientType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "businessArea": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "telephone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "website": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subdomain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "senta-create-client",
+    "senta-update-client",
+    "senta-job-overdue",
+    "senta-new-client-created"
+  ]
+}

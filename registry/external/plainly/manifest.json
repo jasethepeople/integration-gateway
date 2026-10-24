@@ -1,0 +1,42 @@
+{
+  "app": "plainly",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "renderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "brandId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "articleId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "plainly-create-render-job",
+    "plainly-get-render-status",
+    "plainly-list-brand-id-options",
+    "plainly-list-project-id-options",
+    "plainly-list-render-id-options",
+    "plainly-list-templates",
+    "plainly-new-render-completed",
+    "plainly-new-render-failed",
+    "plainly-new-video-created"
+  ]
+}

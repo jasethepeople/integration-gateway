@@ -1,0 +1,7 @@
+{
+  "key": "wordpress_org-list-author-options",
+  "name": "List Author Options",
+  "description": "Retrieves available options for the Author field.",
+  "type": "action",
+  "version": "0.0.1"
+}

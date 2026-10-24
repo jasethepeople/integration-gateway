@@ -1,0 +1,7 @@
+{
+  "key": "drift-update-contact",
+  "name": "Update Contact",
+  "description": "Updates a contact in Drift using ID or email. Only changed attributes will be updated. [See Drift API documentation](https://devdocs.drift.com/docs/updating-a-contact)",
+  "type": "action",
+  "version": "0.0.2"
+}

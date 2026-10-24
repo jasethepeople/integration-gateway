@@ -1,0 +1,7 @@
+{
+  "key": "mailwizz-email-sent",
+  "name": "New Email Sent",
+  "description": "Emit new event when an email campaign is successfully sent.",
+  "type": "source",
+  "version": "0.0.1"
+}

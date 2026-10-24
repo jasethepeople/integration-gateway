@@ -1,0 +1,7 @@
+{
+  "key": "zoho_desk-list-ticket-status-options",
+  "name": "List Status Options",
+  "description": "Retrieves available options for the Status field.",
+  "type": "action",
+  "version": "0.0.1"
+}

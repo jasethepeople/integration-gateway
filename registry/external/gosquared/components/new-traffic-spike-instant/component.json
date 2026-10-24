@@ -1,0 +1,7 @@
+{
+  "key": "gosquared-new-traffic-spike-instant",
+  "name": "New Traffic Spike (Instant)",
+  "description": "Emit new event when a traffic spike is detected in GoSquared.",
+  "type": "source",
+  "version": "0.0.1"
+}

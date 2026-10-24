@@ -1,0 +1,7 @@
+{
+  "key": "campaign_monitor-new-email-open",
+  "name": "New Email Open",
+  "description": "Emit new event when an email from a campaign is opened",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "float-update-task",
+  "name": "Update Task",
+  "description": "Update an existing task (allocation). [See the documentation](https://developer.float.com/api_reference.html#!/Project_Tasks/updateProjectTask)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "google_sheets-merge-cells",
+  "name": "Merge Cells",
+  "description": "Merge a range of cells into a single cell. [See the documentation](https://developers.google.com/sheets/api/reference/rest/v4/spreadsheets/request#MergeCellsRequest)",
+  "type": "action",
+  "version": "0.0.4"
+}

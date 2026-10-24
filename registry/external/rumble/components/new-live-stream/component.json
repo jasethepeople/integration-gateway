@@ -1,0 +1,7 @@
+{
+  "key": "rumble-new-live-stream",
+  "name": "New Live Stream",
+  "description": "Emit new event when a livestream becomes live in Rumble. [See the documentation](https://rumblefaq.groovehq.com/help/how-to-use-rumble-s-live-stream-api)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "vectorshift-new-knowledge-base",
+  "name": "New Knowledge Base Created",
+  "description": "Emit new event when a knowledge base is created in Vectorshift.",
+  "type": "source",
+  "version": "0.0.1"
+}

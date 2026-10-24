@@ -1,0 +1,7 @@
+{
+  "key": "unsplash-list-photo-id-options",
+  "name": "List Photo ID Options",
+  "description": "Retrieves available options for the Photo ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

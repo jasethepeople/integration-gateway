@@ -1,0 +1,7 @@
+{
+  "key": "dropinblog-list-author-id-options",
+  "name": "List Author ID Options",
+  "description": "Retrieves available options for the Author ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

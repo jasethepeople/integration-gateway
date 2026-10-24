@@ -1,0 +1,23 @@
+{
+  "app": "zoho_cliq",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "base_api_url": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zoho_cliq-list-chat-options",
+    "zoho_cliq-send-bot-message",
+    "zoho_cliq-send-channel-message",
+    "zoho_cliq-send-direct-message",
+    "zoho_cliq-new-channel-message",
+    "zoho_cliq-new-direct-message"
+  ]
+}

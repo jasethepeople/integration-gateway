@@ -1,0 +1,7 @@
+{
+  "key": "picqer-pause-order",
+  "name": "Pause Order",
+  "description": "Suspends processing of orders with 'processing' status. Pauses underlying picklists. [See the documentation](https://picqer.com/en/api/orders)",
+  "type": "action",
+  "version": "0.0.1"
+}

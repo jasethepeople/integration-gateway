@@ -1,0 +1,7 @@
+{
+  "key": "blogger-list-blog-options",
+  "name": "List Blog Options",
+  "description": "Retrieves available options for the Blog field.",
+  "type": "action",
+  "version": "0.0.1"
+}

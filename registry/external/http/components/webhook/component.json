@@ -1,0 +1,7 @@
+{
+  "key": "http-webhook",
+  "name": "New Webhook Request",
+  "description": "Emit new event when an HTTP request is received at the webhook URL. Use as a trigger to run workflows from external services (GitHub, Stripe, n8n, etc.). Configure response code, body, and which HTTP methods to accept.",
+  "type": "source",
+  "version": "0.0.1"
+}

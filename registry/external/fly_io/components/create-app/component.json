@@ -1,0 +1,7 @@
+{
+  "key": "fly_io-create-app",
+  "name": "Create App",
+  "description": "Create an app with the specified details in the request body. [See the documentation](https://docs.machines.dev/#tag/apps/post/apps)",
+  "type": "action",
+  "version": "0.0.2"
+}

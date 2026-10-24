@@ -1,0 +1,7 @@
+{
+  "key": "smartroutes-create-order",
+  "name": "Create Order",
+  "description": "Creates a new order in the smartroutes. [See the documentation](https://api.smartroutes.io/v2/docs/api/#tag/Orders/paths/~1orders/post)",
+  "type": "action",
+  "version": "0.0.2"
+}

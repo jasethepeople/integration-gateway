@@ -1,0 +1,7 @@
+{
+  "key": "hr_cloud-new-applicant-created",
+  "name": "New Applicant Created",
+  "description": "Emit new event when a new applicant is created. [See the documentation](https://help.hrcloud.com/api/#/applicant#GET_applicants)",
+  "type": "source",
+  "version": "0.0.1"
+}

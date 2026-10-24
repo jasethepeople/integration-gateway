@@ -1,0 +1,7 @@
+{
+  "key": "corporate_merch-create-order",
+  "name": "Create Order",
+  "description": "Create a new order. [See the documentation](https://corporatemerch.readme.io/reference/create-orders)",
+  "type": "action",
+  "version": "0.0.1"
+}

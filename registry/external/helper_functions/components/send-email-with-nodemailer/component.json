@@ -1,0 +1,7 @@
+{
+  "key": "helper_functions-send-email-with-nodemailer",
+  "name": "Send email with Nodemailer",
+  "description": "Sends an email using the nodemailer package",
+  "type": "action",
+  "version": "0.2.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "surveysparrow-new-survey-response",
+  "name": "New Survey Response (Instant)",
+  "description": "Emit new event each time a the specified survey receives a response.",
+  "type": "source",
+  "version": "0.0.2"
+}

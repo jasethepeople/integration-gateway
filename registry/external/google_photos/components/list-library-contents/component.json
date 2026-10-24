@@ -1,0 +1,7 @@
+{
+  "key": "google_photos-list-library-contents",
+  "name": "List Library Contents",
+  "description": "Retrieves library contents [See the documentation](https://developers.google.com/photos/library/guides/list#listing-library-contents)",
+  "type": "action",
+  "version": "0.0.2"
+}

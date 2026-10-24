@@ -1,0 +1,7 @@
+{
+  "key": "sendy-create-draft-campaign",
+  "name": "Create Draft Campaign",
+  "description": "Creates a new draft campaign ready to be filled in with details. [See the documentation](https://sendy.co/api?app_path=https://sendy.email/dev2#create-send-campaigns)",
+  "type": "action",
+  "version": "0.0.2"
+}

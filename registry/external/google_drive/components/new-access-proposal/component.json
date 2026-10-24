@@ -1,0 +1,7 @@
+{
+  "key": "google_drive-new-access-proposal",
+  "name": "New Access Proposal",
+  "description": "Emit new event when a new access proposal is requested in Google Drive",
+  "type": "source",
+  "version": "0.0.21"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "token_metrics-get-indices",
+  "name": "Get Indices",
+  "description": "Filter to return indices by type: 'active' for actively managed, 'passive' for passively managed",
+  "type": "action",
+  "version": "0.1.1"
+}

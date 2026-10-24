@@ -1,0 +1,216 @@
+{
+  "app": "pipedrive",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "userId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "personId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "organizationId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "probability": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "lostReason": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "visibleTo": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "addTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dealTitle": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dealValue": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dealCurrency": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "stageId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectStatus": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectPhaseId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectBoardId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dealId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pipelineId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "leadId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "leadLabelIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "filterId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "emails": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "phones": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "isDeleted": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "isArchived": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "archiveTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "closeTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "wonTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lostTime": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "expectedCloseDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customFields": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "labelIds": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "personLabelIds": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "organizationLabelIds": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "includeAllCustomFields": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "entityId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "removeLabelIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_domain": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pipedrive-add-activity",
+    "pipedrive-add-deal",
+    "pipedrive-add-labels",
+    "pipedrive-add-lead",
+    "pipedrive-add-note",
+    "pipedrive-add-organization",
+    "pipedrive-add-person",
+    "pipedrive-create-project",
+    "pipedrive-create-task",
+    "pipedrive-delete-project",
+    "pipedrive-delete-task",
+    "pipedrive-get-all-leads",
+    "pipedrive-get-deal",
+    "pipedrive-get-lead-by-id",
+    "pipedrive-get-person-details",
+    "pipedrive-get-project",
+    "pipedrive-get-task",
+    "pipedrive-list-deals",
+    "pipedrive-list-filters",
+    "pipedrive-list-lead-label-ids-options",
+    "pipedrive-list-organization-label-ids-options",
+    "pipedrive-list-organizations",
+    "pipedrive-list-person-label-ids-options",
+    "pipedrive-list-persons",
+    "pipedrive-list-project-boards",
+    "pipedrive-list-project-phases",
+    "pipedrive-list-projects",
+    "pipedrive-list-tasks",
+    "pipedrive-list-user-id-options",
+    "pipedrive-merge-deals",
+    "pipedrive-merge-persons",
+    "pipedrive-remove-duplicate-notes",
+    "pipedrive-remove-labels",
+    "pipedrive-search-leads",
+    "pipedrive-search-notes",
+    "pipedrive-search-persons",
+    "pipedrive-update-deal",
+    "pipedrive-update-lead",
+    "pipedrive-update-person",
+    "pipedrive-update-project",
+    "pipedrive-update-task",
+    "pipedrive-new-deal-instant",
+    "pipedrive-new-event-instant",
+    "pipedrive-new-person-instant",
+    "pipedrive-updated-deal-instant",
+    "pipedrive-updated-lead-instant",
+    "pipedrive-updated-person-instant"
+  ],
+  "npmImports": [
+    "html-entities",
+    "pipedrive"
+  ]
+}

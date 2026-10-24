@@ -1,0 +1,32 @@
+{
+  "app": "myotp_app",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "otpValidity": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "phoneNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "messageID": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "otp": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "myotp_app-list-message-id-options",
+    "myotp_app-send-otp",
+    "myotp_app-verify-otp"
+  ]
+}

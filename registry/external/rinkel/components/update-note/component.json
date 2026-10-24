@@ -1,0 +1,7 @@
+{
+  "key": "rinkel-update-note",
+  "name": "Update Note",
+  "description": "Update a note on a call. [See the documentation](https://developers.rinkel.com/docs/api/update-a-note-in-a-call-detail-record)",
+  "type": "action",
+  "version": "0.0.2"
+}

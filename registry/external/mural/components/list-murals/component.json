@@ -1,0 +1,7 @@
+{
+  "key": "mural-list-murals",
+  "name": "List Murals",
+  "description": "List murals in a workspace. [See the documentation](https://developers.mural.co/public/reference/getworkspacemurals)",
+  "type": "action",
+  "version": "0.0.1"
+}

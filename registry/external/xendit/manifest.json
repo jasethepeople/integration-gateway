@@ -1,0 +1,24 @@
+{
+  "app": "xendit",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "paymentRequestId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "secret_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "xendit-create-invoice",
+    "xendit-create-payout",
+    "xendit-get-payment-status",
+    "xendit-new-invoice"
+  ],
+  "npmImports": [
+    "uuid"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "gosquared-new-live-chat-message-instant",
+  "name": "New Live Chat Message (Instant)",
+  "description": "Emit new event when a new live chat message is received in GoSquared.",
+  "type": "source",
+  "version": "0.0.1"
+}

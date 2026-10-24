@@ -1,0 +1,7 @@
+{
+  "key": "brex-create-card",
+  "name": "Create Card",
+  "description": "Issues a new virtual card to a Brex user. Physical cards are not supported — Brex requires a mailing address to ship one and this action does not collect it. A vendor card (`Limit Type` = `CARD`) carries its own spend limit set here; a corporate card (`Limit Type` = `USER`) draws on the cardholder's monthly limit instead, which **Set Limit for User** controls. Use **List Users** to find the cardholder. The returned card ID is what **Get Card**, **Freeze Card**, **Cancel Card**, and **Update Card Limit** take. [See the documentation](https://developer.brex.com/openapi/team_api/cards/createcard)",
+  "type": "action",
+  "version": "0.1.3"
+}

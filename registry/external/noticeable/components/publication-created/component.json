@@ -1,0 +1,7 @@
+{
+  "key": "noticeable-publication-created",
+  "name": "New Publication Created Event",
+  "description": "Emit new events when a new publication created. [See the docs](https://graphdoc.noticeable.io/publication.doc.html)",
+  "type": "source",
+  "version": "0.0.1"
+}

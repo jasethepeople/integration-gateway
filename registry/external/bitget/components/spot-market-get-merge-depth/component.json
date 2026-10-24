@@ -1,0 +1,7 @@
+{
+  "key": "bitget-spot-market-get-merge-depth",
+  "name": "Spot - Market - Get Merge Depth",
+  "description": "Retrieve merge depth for a specified symbol. [See the documentation](https://www.bitget.com/api-doc/spot/market/Merge-Orderbook)",
+  "type": "action",
+  "version": "0.0.3"
+}

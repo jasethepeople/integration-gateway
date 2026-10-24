@@ -1,0 +1,7 @@
+{
+  "key": "project_broadcast-list-keyword-id-options",
+  "name": "List Keyword ID Options",
+  "description": "Retrieves available options for the Keyword ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "connectwise_psa-list-priority-options",
+  "name": "List Priority Options",
+  "description": "Retrieves available options for the Priority field.",
+  "type": "action",
+  "version": "0.0.1"
+}

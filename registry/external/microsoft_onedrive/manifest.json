@@ -1,0 +1,68 @@
+{
+  "app": "microsoft_onedrive",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "folder": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fileTypes": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "sharedFolderReference": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fileId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "excelFileId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tableName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "excludeFolders": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "drive": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "microsoft_onedrive-create-folder",
+    "microsoft_onedrive-create-link",
+    "microsoft_onedrive-download-file",
+    "microsoft_onedrive-find-file-by-name",
+    "microsoft_onedrive-get-excel-table",
+    "microsoft_onedrive-get-file-by-id",
+    "microsoft_onedrive-list-files-in-folder",
+    "microsoft_onedrive-list-my-drives",
+    "microsoft_onedrive-list-shared-folder-reference-options",
+    "microsoft_onedrive-search-files",
+    "microsoft_onedrive-upload-file",
+    "microsoft_onedrive-new-file-created",
+    "microsoft_onedrive-new-folder-created"
+  ],
+  "npmImports": [
+    "@microsoft/microsoft-graph-client",
+    "bottleneck",
+    "fs",
+    "isomorphic-fetch",
+    "lodash.get",
+    "path",
+    "stream",
+    "util"
+  ]
+}

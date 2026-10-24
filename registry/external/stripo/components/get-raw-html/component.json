@@ -1,0 +1,7 @@
+{
+  "key": "stripo-get-raw-html",
+  "name": "Get Raw HTML & CSS",
+  "description": "Retrieves the HTML and CSS code of the selected email message in Stripo. [See the documentation](https://api.stripo.email/reference/getrawemail)",
+  "type": "action",
+  "version": "0.0.2"
+}

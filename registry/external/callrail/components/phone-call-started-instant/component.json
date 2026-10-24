@@ -1,0 +1,7 @@
+{
+  "key": "callrail-phone-call-started-instant",
+  "name": "Phone Call Started (Instant)",
+  "description": "Emit new event when an inbound phone call is received by CallRail. It contains the full data about the call.",
+  "type": "source",
+  "version": "0.0.1"
+}

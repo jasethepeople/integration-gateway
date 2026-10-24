@@ -1,0 +1,62 @@
+{
+  "app": "printify",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "blueprintId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "printAreas": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "variants": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "printAreaVariantId": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "printProviderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shopId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "printify-create-product",
+    "printify-list-blueprint-id-options",
+    "printify-list-shop-id-options",
+    "printify-submit-order",
+    "printify-update-product",
+    "printify-watch-events-instant"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

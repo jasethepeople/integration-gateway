@@ -1,0 +1,7 @@
+{
+  "key": "espocrm-list-accounts",
+  "name": "List Accounts",
+  "description": "Retrieves a list of accounts from Espo CRM. [See the documentation](https://docs.espocrm.com/development/api/account/#list)",
+  "type": "action",
+  "version": "0.0.2"
+}

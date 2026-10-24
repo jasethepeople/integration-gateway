@@ -1,0 +1,7 @@
+{
+  "key": "mailchimp-search-member",
+  "name": "Search Members/Subscribers",
+  "description": "The search query used to filter results. Query should be a valid email, or a string representing a contact's first or last name.",
+  "type": "action",
+  "version": "0.0.4"
+}

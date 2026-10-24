@@ -1,0 +1,30 @@
+{
+  "app": "tavily",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "searchDepth": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "includeImages": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "includeAnswer": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "tavily-send-query"
+  ]
+}

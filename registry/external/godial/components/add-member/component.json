@@ -1,0 +1,7 @@
+{
+  "key": "godial-add-member",
+  "name": "Add Member",
+  "description": "Adds a member. [See docs here](https://godial.stoplight.io/docs/godial/b3A6MzAzMTY1Ng-accounts-add)",
+  "type": "action",
+  "version": "0.0.3"
+}

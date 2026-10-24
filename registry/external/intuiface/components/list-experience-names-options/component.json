@@ -1,0 +1,7 @@
+{
+  "key": "intuiface-list-experience-names-options",
+  "name": "List Experience Names Options",
+  "description": "Retrieves available options for the Experience Names field.",
+  "type": "action",
+  "version": "0.0.1"
+}

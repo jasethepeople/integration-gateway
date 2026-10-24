@@ -1,0 +1,7 @@
+{
+  "key": "onesignal_rest_api-add-device",
+  "name": "Add Device",
+  "description": "Register a new device to your app. [See docs here](https://documentation.onesignal.com/reference/add-a-device)",
+  "type": "action",
+  "version": "0.1.0"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "klazify-get-domain-expiration",
+  "name": "Get Domain Expiration",
+  "description": "Get the expiration date of a domain. [See the documentation](https://www.klazify.com/category#docs).",
+  "type": "action",
+  "version": "0.0.2"
+}

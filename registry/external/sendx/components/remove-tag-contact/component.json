@@ -1,0 +1,7 @@
+{
+  "key": "sendx-remove-tag-contact",
+  "name": "Remove Tag from Contact",
+  "description": "De-associates a user-provided tag from a given contact in SendX.",
+  "type": "action",
+  "version": "0.0.2"
+}

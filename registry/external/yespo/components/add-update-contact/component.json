@@ -1,0 +1,7 @@
+{
+  "key": "yespo-add-update-contact",
+  "name": "Add or Update Contact",
+  "description": "Adds a new contact or updates an existing one. [See the documentation](https://docs.yespo.io/reference/addcontact-1)",
+  "type": "action",
+  "version": "0.0.2"
+}

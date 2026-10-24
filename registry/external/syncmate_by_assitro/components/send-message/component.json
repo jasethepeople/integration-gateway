@@ -1,0 +1,7 @@
+{
+  "key": "syncmate_by_assitro-send-message",
+  "name": "Send WhatsApp Message",
+  "description": "Send a single WhatsApp message using SyncMate by Assistro. [See the documentation](https://assistro.co/user-guide/connect-your-custom-app-with-syncmate/)",
+  "type": "action",
+  "version": "0.0.5"
+}

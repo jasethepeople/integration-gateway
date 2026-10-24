@@ -1,0 +1,7 @@
+{
+  "key": "returnista-get-return-orders",
+  "name": "Get Return Orders",
+  "description": "Gets a list of return orders for the given account. [See the documentation](https://platform.returnista.com/reference/rest-api/#get-/account/-accountId/return-orders)",
+  "type": "action",
+  "version": "0.0.2"
+}

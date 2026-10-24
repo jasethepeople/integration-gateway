@@ -1,0 +1,7 @@
+{
+  "key": "jooto-update-task",
+  "name": "Update Task",
+  "description": "Update a new task in the selected project. [See the documentation](https://www.jooto.com/api/reference/request/#/default/patch-boards-id-tasks-task_id)",
+  "type": "action",
+  "version": "0.0.2"
+}

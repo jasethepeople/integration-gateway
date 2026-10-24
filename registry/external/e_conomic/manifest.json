@@ -1,0 +1,109 @@
+{
+  "app": "e_conomic",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "customerNumber": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "journalNumber": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "draftInvoiceNumber": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "currencyCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerGroupNumber": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "paymentTermNumber": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "vatZoneNumber": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "layoutNumber": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "productNumbers": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "supplierNumber": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "ean": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mobilePhone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "website": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "streetAddress": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "city": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "zip": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "app_secret_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "agreement_grant_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "e_conomic-book-invoice",
+    "e_conomic-create-customer",
+    "e_conomic-create-invoice",
+    "e_conomic-create-voucher",
+    "e_conomic-list-currency-code-options",
+    "e_conomic-list-customer-group-number-options",
+    "e_conomic-list-customer-number-options",
+    "e_conomic-list-draft-invoice-number-options",
+    "e_conomic-list-invoices",
+    "e_conomic-list-journal-number-options",
+    "e_conomic-list-layout-number-options",
+    "e_conomic-list-payment-term-number-options",
+    "e_conomic-list-product-numbers-options",
+    "e_conomic-list-supplier-number-options",
+    "e_conomic-list-vat-zone-number-options",
+    "e_conomic-update-customer"
+  ]
+}

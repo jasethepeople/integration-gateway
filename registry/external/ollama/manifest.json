@@ -1,0 +1,55 @@
+{
+  "app": "ollama",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "model": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "prompt": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "suffix": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "images": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "options": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "insecure": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "stream": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "keepAlive": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "url": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ollama-copy-model",
+    "ollama-create-model",
+    "ollama-delete-model",
+    "ollama-generate-chat-completion",
+    "ollama-generate-completion",
+    "ollama-generate-embeddings",
+    "ollama-list-local-models",
+    "ollama-pull-model",
+    "ollama-push-model",
+    "ollama-show-model-information"
+  ]
+}

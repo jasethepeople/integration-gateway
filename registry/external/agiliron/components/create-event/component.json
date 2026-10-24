@@ -1,0 +1,7 @@
+{
+  "key": "agiliron-create-event",
+  "name": "Create Event",
+  "description": "Creates a new event within Agiliron. [See the documentation](https://api.agiliron.com/docs/add-event-2)",
+  "type": "action",
+  "version": "0.0.2"
+}

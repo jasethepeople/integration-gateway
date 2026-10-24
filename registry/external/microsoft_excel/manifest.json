@@ -1,0 +1,56 @@
+{
+  "app": "microsoft_excel",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "folderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sheetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "worksheet": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tableRowId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tableId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "values": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "microsoft_excel-add-a-worksheet-tablerow",
+    "microsoft_excel-add-row",
+    "microsoft_excel-find-row",
+    "microsoft_excel-get-columns",
+    "microsoft_excel-get-spreadsheet",
+    "microsoft_excel-get-table-rows",
+    "microsoft_excel-list-folder-id-options",
+    "microsoft_excel-update-cell",
+    "microsoft_excel-update-worksheet-tablerow",
+    "microsoft_excel-new-cell-value-changed",
+    "microsoft_excel-new-item-created",
+    "microsoft_excel-new-item-updated",
+    "microsoft_excel-new-row-added"
+  ],
+  "npmImports": [
+    "@microsoft/microsoft-graph-client",
+    "isomorphic-fetch",
+    "json-2-csv",
+    "moment"
+  ]
+}

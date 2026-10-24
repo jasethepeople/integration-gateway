@@ -1,0 +1,7 @@
+{
+  "key": "dolibarr-new-thirdparty-created",
+  "name": "New Third Party Created",
+  "description": "Emit new event when a new third party is created",
+  "type": "source",
+  "version": "0.0.2"
+}

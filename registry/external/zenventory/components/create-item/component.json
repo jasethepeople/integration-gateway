@@ -1,0 +1,7 @@
+{
+  "key": "zenventory-create-item",
+  "name": "Create Item",
+  "description": "Generates a new item. [See the documentation](https://docs.zenventory.com/#tag/items/paths/~1items/post)",
+  "type": "action",
+  "version": "0.0.4"
+}

@@ -1,0 +1,16 @@
+{
+  "app": "updown_io",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "updown_io-new-down-alert-instant",
+    "updown_io-new-event-instant",
+    "updown_io-ssl-expiration-instant"
+  ]
+}

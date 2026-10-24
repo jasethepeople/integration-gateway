@@ -1,0 +1,7 @@
+{
+  "key": "smstools-list-sender-options",
+  "name": "List Sender Options",
+  "description": "Retrieves available options for the Sender field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,9 @@
+{
+  "app": "sms",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "sms-send-sms"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "app": "seatable",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "tableName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "rowId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "account_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "base_name": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "workspace_id": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "seatable-create-row",
+    "seatable-delete-row",
+    "seatable-list-table-name-options",
+    "seatable-update-row",
+    "seatable-new-or-updated-row",
+    "seatable-new-row-created"
+  ]
+}

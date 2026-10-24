@@ -1,0 +1,7 @@
+{
+  "key": "intellihr-new-person-instant",
+  "name": "New Person (Instant)",
+  "description": "Emit new event when a new person is created in intellihr. [See the documentation](https://developers.intellihr.io/docs/v1/#tag/Webhooks)",
+  "type": "source",
+  "version": "0.0.1"
+}

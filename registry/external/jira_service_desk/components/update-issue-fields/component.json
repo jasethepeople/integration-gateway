@@ -1,0 +1,7 @@
+{
+  "key": "jira_service_desk-update-issue-fields",
+  "name": "Update Issue Fields",
+  "description": "Updates fields on an existing Jira Service Desk request via the Jira platform API.",
+  "type": "action",
+  "version": "0.1.6"
+}

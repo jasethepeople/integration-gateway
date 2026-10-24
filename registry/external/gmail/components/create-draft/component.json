@@ -1,0 +1,7 @@
+{
+  "key": "gmail-create-draft",
+  "name": "Create Draft",
+  "description": "Create an unsent draft in the authenticated Gmail account. Same parameter shape as **Send Email** — the difference is the message is saved to Drafts instead of being sent.",
+  "type": "action",
+  "version": "0.2.4"
+}

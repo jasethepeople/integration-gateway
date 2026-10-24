@@ -1,0 +1,7 @@
+{
+  "key": "bybit-linear-order-replace",
+  "name": "ByBit Linear Order Replace",
+  "description": "Replace active order.",
+  "type": "action",
+  "version": "0.0.2"
+}

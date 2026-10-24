@@ -1,0 +1,7 @@
+{
+  "key": "gtmetrix-list-page-id-options",
+  "name": "List Page Options",
+  "description": "Retrieves available options for the Page field.",
+  "type": "action",
+  "version": "0.0.1"
+}

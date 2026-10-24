@@ -1,0 +1,7 @@
+{
+  "key": "sendoso-send-status-updated",
+  "name": "New Send Status Updated",
+  "description": "Emit new event when a send status is updated. [See docs here](https://sendoso.docs.apiary.io/#reference/send-management/send-tracking/fetch-the-status-of-a-send)",
+  "type": "source",
+  "version": "0.0.2"
+}

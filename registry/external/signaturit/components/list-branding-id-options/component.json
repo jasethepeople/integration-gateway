@@ -1,0 +1,7 @@
+{
+  "key": "signaturit-list-branding-id-options",
+  "name": "List Branding ID Options",
+  "description": "Retrieves available options for the Branding ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

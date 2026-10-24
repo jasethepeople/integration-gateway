@@ -1,0 +1,7 @@
+{
+  "key": "elevenlabs-add-voice",
+  "name": "Add Voice",
+  "description": "Add a voice from one or more audio files. [See the documentation](https://elevenlabs.io/docs/api-reference/add-voice)",
+  "type": "action",
+  "version": "0.0.7"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "grain-download-recording",
+  "name": "Download Recording",
+  "description": "Downloads a Grain recording's media file (video or audio) and writes it to File Stash, returning `filePath`, `filename`, and `contentType`.",
+  "type": "action",
+  "version": "0.0.1"
+}

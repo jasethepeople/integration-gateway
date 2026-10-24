@@ -1,0 +1,7 @@
+{
+  "key": "scrapfly-scrape-page",
+  "name": "Scrape Page",
+  "description": "Extract data from a specified web page. [See the documentation](https://scrapfly.io/docs/scrape-api/getting-started)",
+  "type": "action",
+  "version": "0.0.2"
+}

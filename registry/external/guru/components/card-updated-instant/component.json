@@ -1,0 +1,7 @@
+{
+  "key": "guru-card-updated-instant",
+  "name": "Card Updated (Instant)",
+  "description": "Emit new event when a user makes an edit to a card. [See the documentation](https://developer.getguru.com/docs/creating-a-webhook)",
+  "type": "source",
+  "version": "0.0.1"
+}

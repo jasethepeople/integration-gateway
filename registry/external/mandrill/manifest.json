@@ -1,0 +1,14 @@
+{
+  "app": "mandrill",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "mandrill-send-email"
+  ]
+}

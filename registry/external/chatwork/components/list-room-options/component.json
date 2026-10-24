@@ -1,0 +1,7 @@
+{
+  "key": "chatwork-list-room-options",
+  "name": "List Room Options",
+  "description": "Retrieves available options for the Room field.",
+  "type": "action",
+  "version": "0.0.1"
+}

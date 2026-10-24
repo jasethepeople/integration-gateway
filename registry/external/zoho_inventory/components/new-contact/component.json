@@ -1,0 +1,7 @@
+{
+  "key": "zoho_inventory-new-contact",
+  "name": "New Contact",
+  "description": "Emit new event each time a new contact is created in Zoho Inventory",
+  "type": "source",
+  "version": "0.0.4"
+}

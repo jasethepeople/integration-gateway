@@ -1,0 +1,7 @@
+{
+  "key": "letterdrop-watch-added-subscribers-instant",
+  "name": "Watch Added Subscribers (Instant)",
+  "description": "Emit new event when a new subscriber gets added on Letterdrop. **After creating the source, access Letterdrop UI, go to `Settings > Integrations > API and Webhooks > Webhook Endpoints > Setup endpoints` and add your source endpoint URL to the respective webhook endpoint**. [See the documentation](https://docs.letterdrop.com/webhooks)",
+  "type": "source",
+  "version": "0.0.1"
+}

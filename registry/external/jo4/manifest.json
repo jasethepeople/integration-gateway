@@ -1,0 +1,23 @@
+{
+  "app": "jo4",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "urlSlug": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "jo4-create-short-url",
+    "jo4-get-url-statistics",
+    "jo4-list-url-slug-options",
+    "jo4-list-urls",
+    "jo4-new-referring-domain",
+    "jo4-new-url-created"
+  ]
+}

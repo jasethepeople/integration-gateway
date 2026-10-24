@@ -1,0 +1,24 @@
+{
+  "app": "small_improvements",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "meetingId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "participantId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "small_improvements-create-meeting-notes",
+    "small_improvements-list-participant-id-options",
+    "small_improvements-list-users"
+  ]
+}

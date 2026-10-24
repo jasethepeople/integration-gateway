@@ -1,0 +1,7 @@
+{
+  "key": "gagelist-list-manufacturer-options",
+  "name": "List Manufacturer Options",
+  "description": "Retrieves available options for the Manufacturer field.",
+  "type": "action",
+  "version": "0.0.1"
+}

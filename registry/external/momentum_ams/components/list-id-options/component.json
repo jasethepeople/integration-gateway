@@ -1,0 +1,7 @@
+{
+  "key": "momentum_ams-list-id-options",
+  "name": "List Client ID Options",
+  "description": "Retrieves available options for the Client ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

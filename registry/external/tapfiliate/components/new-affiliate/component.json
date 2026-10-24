@@ -1,0 +1,7 @@
+{
+  "key": "tapfiliate-new-affiliate",
+  "name": "New Affiliate",
+  "description": "Emit new event when a new affiliate is created. The affiliate is signed up or added by you. [See the documentation](https://tapfiliate.com/docs/rest/#affiliates-affiliates-collection-get)",
+  "type": "source",
+  "version": "0.0.1"
+}

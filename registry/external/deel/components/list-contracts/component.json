@@ -1,0 +1,7 @@
+{
+  "key": "deel-list-contracts",
+  "name": "List Contracts",
+  "description": "List and search all contracts in Deel across IC (independent contractor), EOR (employer of record),",
+  "type": "action",
+  "version": "0.0.2"
+}

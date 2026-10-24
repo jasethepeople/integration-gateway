@@ -1,0 +1,7 @@
+{
+  "key": "strava-update-activity",
+  "name": "Update Activity",
+  "description": "Update fields on an existing Strava activity owned by the authenticated athlete.",
+  "type": "action",
+  "version": "1.0.1"
+}

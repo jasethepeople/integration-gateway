@@ -1,0 +1,7 @@
+{
+  "key": "formstack-list-form-id-options",
+  "name": "List Forms Options",
+  "description": "Retrieves available options for the Forms field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "sendloop-new-subscriber-added",
+  "name": "New Subscriber Added",
+  "description": "Emit new event when a new subscriber is added to the list.",
+  "type": "source",
+  "version": "0.0.1"
+}

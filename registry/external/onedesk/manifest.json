@@ -1,0 +1,78 @@
+{
+  "app": "onedesk",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "containerType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "parentPortfolioExternalIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "userType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "teamId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "invoice": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "conversationExternalId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "itemType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "priority": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "itemId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "itemName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "itemDescription": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "onedesk-create-item",
+    "onedesk-create-message",
+    "onedesk-create-project",
+    "onedesk-create-user",
+    "onedesk-find-item",
+    "onedesk-find-project",
+    "onedesk-list-item-type-options",
+    "onedesk-list-user-type-options",
+    "onedesk-update-item",
+    "onedesk-new-item-created",
+    "onedesk-new-project-created",
+    "onedesk-new-timesheet-created",
+    "onedesk-new-user-created"
+  ]
+}

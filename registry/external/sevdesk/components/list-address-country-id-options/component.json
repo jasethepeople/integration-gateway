@@ -1,0 +1,7 @@
+{
+  "key": "sevdesk-list-address-country-id-options",
+  "name": "List Address Country ID Options",
+  "description": "Retrieves available options for the Address Country ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

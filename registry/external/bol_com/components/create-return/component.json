@@ -1,0 +1,7 @@
+{
+  "key": "bol_com-create-return",
+  "name": "Create Return",
+  "description": "Create a return. [See the documentation](https://api.bol.com/retailer/public/redoc/v10/retailer.html#tag/Returns/operation/create-return)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "fogbugz-list-ix-priority-id-options",
+  "name": "List Ix Priority Id Options",
+  "description": "Retrieves available options for the Ix Priority Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

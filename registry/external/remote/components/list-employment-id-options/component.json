@@ -1,0 +1,7 @@
+{
+  "key": "remote-list-employment-id-options",
+  "name": "List Employment ID Options",
+  "description": "Retrieves available options for the Employment ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

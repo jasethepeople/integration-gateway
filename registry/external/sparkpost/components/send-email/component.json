@@ -1,0 +1,7 @@
+{
+  "key": "sparkpost-send-email",
+  "name": "Send Email",
+  "description": "Send an email using a template in SparkPost. [See the documentation](https://developers.sparkpost.com/api/transmissions/#transmissions-post-send-a-template)",
+  "type": "action",
+  "version": "0.0.1"
+}

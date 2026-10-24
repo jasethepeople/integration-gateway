@@ -1,0 +1,7 @@
+{
+  "key": "zep-new-message",
+  "name": "New Message in Session",
+  "description": "Emit new event when a message is added to a session. [See the documentation](https://help.getzep.com/api-reference/memory/get-session-messages)",
+  "type": "source",
+  "version": "0.0.3"
+}

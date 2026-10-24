@@ -1,0 +1,34 @@
+{
+  "app": "pixiebrix",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "organizationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "groupId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "membershipId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "auth_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "pixiebrix-add-group-memberships",
+    "pixiebrix-delete-group-membership",
+    "pixiebrix-list-group-memberships",
+    "pixiebrix-list-organization-id-options",
+    "pixiebrix-update-group-membership"
+  ]
+}

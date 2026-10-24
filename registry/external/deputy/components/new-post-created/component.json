@@ -1,0 +1,7 @@
+{
+  "key": "deputy-new-post-created",
+  "name": "New Post Created (Instant)",
+  "description": "Emit new event when a new newsfeed post arrives",
+  "type": "source",
+  "version": "0.0.1"
+}

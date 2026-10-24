@@ -1,0 +1,7 @@
+{
+  "key": "fullenrich-get-current-credit-balance",
+  "name": "Get Current Credit Balance",
+  "description": "Provides the current balance of credits available in your workspace. [See the documentation](https://docs.fullenrich.com/getcredit).",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "hex-run-project",
+  "name": "Run Project",
+  "description": "Trigger a run of the latest published version of a project. [See the documentation](https://learn.hex.tech/docs/api/api-reference#operation/RunProject)",
+  "type": "action",
+  "version": "0.0.2"
+}

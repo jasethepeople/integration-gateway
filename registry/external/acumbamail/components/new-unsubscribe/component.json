@@ -1,0 +1,7 @@
+{
+  "key": "acumbamail-new-unsubscribe",
+  "name": "New Unsubscribe (Instant)",
+  "description": "Emit new event when a subscriber unsubscribes from a list. Note: Only one webhook can be configured per list. [See the documentation](https://acumbamail.com/en/apidoc/function/configListWebhook/)",
+  "type": "source",
+  "version": "0.0.1"
+}

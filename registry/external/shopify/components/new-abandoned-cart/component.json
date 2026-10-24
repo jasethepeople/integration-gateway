@@ -1,0 +1,7 @@
+{
+  "key": "shopify-new-abandoned-cart",
+  "name": "New Abandoned Cart",
+  "description": "Emit new event each time a user abandons their cart.",
+  "type": "source",
+  "version": "0.0.29"
+}

@@ -1,0 +1,18 @@
+{
+  "app": "form_taxi",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "form_code": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "form_taxi-new-form-submission"
+  ]
+}

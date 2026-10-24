@@ -1,0 +1,7 @@
+{
+  "key": "mapulus-new-location-added",
+  "name": "New Location Added",
+  "description": "Emit new event when a new location is added.",
+  "type": "source",
+  "version": "0.0.2"
+}

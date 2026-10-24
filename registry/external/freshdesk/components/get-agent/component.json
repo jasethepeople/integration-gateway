@@ -1,0 +1,7 @@
+{
+  "key": "freshdesk-get-agent",
+  "name": "Get Agent",
+  "description": "Retrieve a single agent by their ID. [See the documentation](https://developers.freshdesk.com/api/#view_agent)",
+  "type": "action",
+  "version": "0.0.4"
+}

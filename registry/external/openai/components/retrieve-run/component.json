@@ -1,0 +1,7 @@
+{
+  "key": "openai-retrieve-run",
+  "name": "Retrieve Run (Assistants)",
+  "description": "Retrieves a specific run within a thread. [See the documentation](https://platform.openai.com/docs/api-reference/runs/getRun)",
+  "type": "action",
+  "version": "0.0.19"
+}

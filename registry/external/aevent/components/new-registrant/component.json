@@ -1,0 +1,7 @@
+{
+  "key": "aevent-new-registrant",
+  "name": "New Registrant",
+  "description": "Emit new event when a new registrant is added. [See the Documentation](https://app.aevent.com/#/settings)",
+  "type": "source",
+  "version": "0.0.1"
+}

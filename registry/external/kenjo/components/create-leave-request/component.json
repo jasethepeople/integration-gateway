@@ -1,0 +1,7 @@
+{
+  "key": "kenjo-create-leave-request",
+  "name": "Create Leave Request",
+  "description": "Creates a new leave request in Kenjo. [See the documentation](https://kenjo.readme.io/reference/post_time-off-requests).",
+  "type": "action",
+  "version": "0.0.2"
+}

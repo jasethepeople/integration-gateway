@@ -1,0 +1,7 @@
+{
+  "key": "elevio-new-feedback-created",
+  "name": "New Feedback Created",
+  "description": "Emit new event each time new feedback is submitted by a user via the elevio widget. [See the documentation](https://api-docs.elevio.help/en/articles/85-rest-api-hub-cards).",
+  "type": "source",
+  "version": "0.0.1"
+}

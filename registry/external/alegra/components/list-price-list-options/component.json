@@ -1,0 +1,7 @@
+{
+  "key": "alegra-list-price-list-options",
+  "name": "List Price List Options",
+  "description": "Retrieves available options for the Price List field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,47 @@
+{
+  "app": "maestra",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "operationType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fileUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fileId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "targetLanguages": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "folderPath": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "channelId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "base_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "maestra-list-channel-id-options",
+    "maestra-list-file-id-options",
+    "maestra-list-folder-path-options",
+    "maestra-translate-file",
+    "maestra-upload-file",
+    "maestra-new-file-added"
+  ]
+}

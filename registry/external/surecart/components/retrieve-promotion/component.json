@@ -1,0 +1,7 @@
+{
+  "key": "surecart-retrieve-promotion",
+  "name": "Retrieve Promotion",
+  "description": "Retrieve a single promotion by its ID. Run **List Promotions** first to obtain a valid promotion ID. [See the documentation](https://developer.surecart.com/api-reference/promotions/retrieve)",
+  "type": "action",
+  "version": "0.0.2"
+}

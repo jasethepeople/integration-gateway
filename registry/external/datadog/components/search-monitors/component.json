@@ -1,0 +1,7 @@
+{
+  "key": "datadog-search-monitors",
+  "name": "Search Monitors",
+  "description": "Search Datadog monitors (alerting rules) including",
+  "type": "action",
+  "version": "1.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zoom_admin-list-cloud-recordings",
+  "name": "List Cloud Recordings",
+  "description": "Search cloud recordings from a meeting or webinar. [See the documentation](https://marketplace.zoom.us/docs/api-reference/zoom-api/cloud-recording/recordingslist)",
+  "type": "action",
+  "version": "0.2.5"
+}

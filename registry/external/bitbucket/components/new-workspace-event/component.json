@@ -1,0 +1,7 @@
+{
+  "key": "bitbucket-new-workspace-event",
+  "name": "New Workspace Event (Instant)",
+  "description": "Emit new event when a workspace-wide event occurs. [See docs here](https://developer.atlassian.com/cloud/bitbucket/rest/api-group-workspaces/#api-workspaces-workspace-hooks-post)",
+  "type": "source",
+  "version": "0.0.5"
+}

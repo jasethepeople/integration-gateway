@@ -1,0 +1,7 @@
+{
+  "key": "overloop-list-stage-id-options",
+  "name": "List Stage ID Options",
+  "description": "Retrieves available options for the Stage ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "codex-filter-tokens",
+  "name": "Filter Tokens",
+  "description": "Discovers and ranks tokens by on-chain signals such as volume, trending score, liquidity, or market cap.",
+  "type": "action",
+  "version": "0.0.2"
+}

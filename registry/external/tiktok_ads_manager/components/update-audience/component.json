@@ -1,0 +1,7 @@
+{
+  "key": "tiktok_ads_manager-update-audience",
+  "name": "Update Audience",
+  "description": "Update a TikTok custom audience — rename it, or add/remove/replace members via a file of hashed identifiers.",
+  "type": "action",
+  "version": "0.0.2"
+}

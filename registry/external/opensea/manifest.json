@@ -1,0 +1,18 @@
+{
+  "app": "opensea",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "opensea-new-collection-events"
+  ],
+  "npmImports": [
+    "bottleneck",
+    "md5"
+  ]
+}

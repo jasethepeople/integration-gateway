@@ -1,0 +1,34 @@
+{
+  "app": "renderform",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "renderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "filterName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "template": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "templateVariables": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "renderform-create-image",
+    "renderform-list-template-options",
+    "renderform-list-templates",
+    "renderform-take-screenshot",
+    "renderform-new-render-result"
+  ]
+}

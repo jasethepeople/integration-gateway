@@ -1,0 +1,7 @@
+{
+  "key": "slab-list-users",
+  "name": "List Users",
+  "description": "List all users in the Slab organization via the `organization { users }` GraphQL query, returning an array of user objects with `id`, `name`, and `email` (e.g. `[{\"id\":\"u1\",\"name\":\"Alice\",\"email\":\"alice@example.com\"}]`). This is the picker action agents should call to obtain a user ID for **Update Post**'s Owner ID. [See the documentation](https://studio.apollographql.com/public/Slab/variant/current/schema/reference/objects/Organization#users).",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "bloom_growth-new-todo-created",
+  "name": "New To-Do Created",
+  "description": "Emit new event when a new to-do is created.",
+  "type": "source",
+  "version": "0.0.2"
+}

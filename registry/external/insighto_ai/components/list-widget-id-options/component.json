@@ -1,0 +1,7 @@
+{
+  "key": "insighto_ai-list-widget-id-options",
+  "name": "List Widget ID Options",
+  "description": "Retrieves available options for the Widget ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

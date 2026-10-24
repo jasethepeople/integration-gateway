@@ -1,0 +1,105 @@
+{
+  "app": "lightspeed_ecom_c_series",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "customerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shipmentNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shipmentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "invoiceNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "brandId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "productId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "createdAtMin": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "createdAtMax": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "updatedAtMin": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "updatedAtMax": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cluster": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "lang": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "lightspeed_ecom_c_series-find-customers",
+    "lightspeed_ecom_c_series-find-invoice",
+    "lightspeed_ecom_c_series-find-order",
+    "lightspeed_ecom_c_series-find-product",
+    "lightspeed_ecom_c_series-find-shipment",
+    "lightspeed_ecom_c_series-get-order-products",
+    "lightspeed_ecom_c_series-get-order",
+    "lightspeed_ecom_c_series-get-product",
+    "lightspeed_ecom_c_series-get-shipment",
+    "lightspeed_ecom_c_series-list-brand-id-options",
+    "lightspeed_ecom_c_series-list-customer-email-options",
+    "lightspeed_ecom_c_series-list-customer-id-options",
+    "lightspeed_ecom_c_series-list-invoice-number-options",
+    "lightspeed_ecom_c_series-list-order-id-options",
+    "lightspeed_ecom_c_series-list-order-number-options",
+    "lightspeed_ecom_c_series-list-product-id-options",
+    "lightspeed_ecom_c_series-list-shipment-id-options",
+    "lightspeed_ecom_c_series-list-shipment-number-options",
+    "lightspeed_ecom_c_series-customer-updated",
+    "lightspeed_ecom_c_series-invoice-updated",
+    "lightspeed_ecom_c_series-new-customer-created",
+    "lightspeed_ecom_c_series-new-invoice-created",
+    "lightspeed_ecom_c_series-new-order-created",
+    "lightspeed_ecom_c_series-new-product-created",
+    "lightspeed_ecom_c_series-order-shipped",
+    "lightspeed_ecom_c_series-order-updated",
+    "lightspeed_ecom_c_series-product-deleted",
+    "lightspeed_ecom_c_series-product-updated"
+  ]
+}

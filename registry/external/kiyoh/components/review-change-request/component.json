@@ -1,0 +1,7 @@
+{
+  "key": "kiyoh-review-change-request",
+  "name": "Review Change Request",
+  "description": "Sends a request to the reviewer to update their shop review",
+  "type": "action",
+  "version": "0.0.1"
+}

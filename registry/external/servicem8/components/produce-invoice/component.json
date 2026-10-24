@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-produce-invoice",
+  "name": "Produce Invoice",
+  "description": "Job to produce the invoice for (search or paste UUID).",
+  "type": "action",
+  "version": "0.0.2"
+}

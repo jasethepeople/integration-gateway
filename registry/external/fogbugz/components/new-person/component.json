@@ -1,0 +1,7 @@
+{
+  "key": "fogbugz-new-person",
+  "name": "New Person Created",
+  "description": "Emit new event when a new person or a user is created in FogBugz. It effectively tracks the addition of new users in the system.",
+  "type": "source",
+  "version": "0.0.1"
+}

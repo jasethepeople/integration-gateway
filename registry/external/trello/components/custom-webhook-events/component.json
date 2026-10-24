@@ -1,0 +1,7 @@
+{
+  "key": "trello-custom-webhook-events",
+  "name": "Custom Webhook Events (Instant)",
+  "description": "Emit new events for activity matching a board, event types, lists and/or cards.",
+  "type": "source",
+  "version": "0.1.6"
+}

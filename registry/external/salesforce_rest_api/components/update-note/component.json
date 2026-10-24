@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-update-note",
+  "name": "Update Note",
+  "description": "Update a classic Salesforce note (up to 32 KB of plain text).",
+  "type": "action",
+  "version": "0.1.1"
+}

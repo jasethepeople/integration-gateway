@@ -1,0 +1,7 @@
+{
+  "key": "signerx-send-template-signatures",
+  "name": "Send Template Signatures",
+  "description": "Add a recipient to a template and invite to sign. [See the documentation](https://documenter.getpostman.com/view/13877745/2sa3xv9kni)",
+  "type": "action",
+  "version": "0.0.2"
+}

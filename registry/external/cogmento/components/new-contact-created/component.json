@@ -1,0 +1,7 @@
+{
+  "key": "cogmento-new-contact-created",
+  "name": "New Contact Created",
+  "description": "Emit new event when a new contact is added in Cogmento. [See the documentation](https://api.cogmento.com/static/swagger/index.html#/Contacts/get_contacts_)",
+  "type": "source",
+  "version": "0.0.1"
+}

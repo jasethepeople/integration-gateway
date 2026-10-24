@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_365_people-new-contact-created",
+  "name": "New Contact Created (Instant)",
+  "description": "Emit new event when a new contact is created in a folder.",
+  "type": "source",
+  "version": "0.0.3"
+}

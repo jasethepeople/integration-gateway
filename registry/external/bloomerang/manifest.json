@@ -1,0 +1,39 @@
+{
+  "app": "bloomerang",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "constituentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fundId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "appealId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "bloomerang-add-interaction",
+    "bloomerang-create-constituent",
+    "bloomerang-create-donation",
+    "bloomerang-list-appeal-id-options",
+    "bloomerang-list-campaign-id-options",
+    "bloomerang-list-constituent-id-options",
+    "bloomerang-list-fund-id-options",
+    "bloomerang-new-constituent",
+    "bloomerang-new-donation",
+    "bloomerang-new-interaction"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "connectwise_psa-list-relationship-options",
+  "name": "List Relationship Options",
+  "description": "Retrieves available options for the Relationship field.",
+  "type": "action",
+  "version": "0.0.1"
+}

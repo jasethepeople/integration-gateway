@@ -1,0 +1,7 @@
+{
+  "key": "deel-list-timesheets",
+  "name": "List Timesheets",
+  "description": "List IC contractor timesheets in Deel with optional filters for contract, status, date range,",
+  "type": "action",
+  "version": "0.0.2"
+}

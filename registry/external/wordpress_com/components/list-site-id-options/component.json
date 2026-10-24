@@ -1,0 +1,7 @@
+{
+  "key": "wordpress_com-list-site-id-options",
+  "name": "List Site ID or Domain Options",
+  "description": "Retrieves available options for the Site ID or Domain field.",
+  "type": "action",
+  "version": "0.0.1"
+}

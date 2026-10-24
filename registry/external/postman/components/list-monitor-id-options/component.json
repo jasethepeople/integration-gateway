@@ -1,0 +1,7 @@
+{
+  "key": "postman-list-monitor-id-options",
+  "name": "List Monitor ID Options",
+  "description": "Retrieves available options for the Monitor ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

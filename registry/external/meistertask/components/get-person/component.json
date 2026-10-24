@@ -1,0 +1,7 @@
+{
+  "key": "meistertask-get-person",
+  "name": "Get Person",
+  "description": "Retrieves information about a person. [See the docs](https://developers.meistertask.com/reference/get-person)",
+  "type": "action",
+  "version": "0.0.2"
+}

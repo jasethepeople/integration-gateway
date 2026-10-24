@@ -1,0 +1,7 @@
+{
+  "key": "dux_soup-message-profile",
+  "name": "Message Profile",
+  "description": "Queues a direct message that will be sent to the targeted profile. [See the documentation](https://support.dux-soup.com/article/115-remote-control-by-example)",
+  "type": "action",
+  "version": "0.0.3"
+}

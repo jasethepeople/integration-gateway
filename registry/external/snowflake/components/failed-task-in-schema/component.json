@@ -1,0 +1,7 @@
+{
+  "key": "snowflake-failed-task-in-schema",
+  "name": "Failed Task in Schema",
+  "description": "Watch for failed tasks on this schedule",
+  "type": "source",
+  "version": "0.1.5"
+}

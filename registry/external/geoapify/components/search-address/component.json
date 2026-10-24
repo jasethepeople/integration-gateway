@@ -1,0 +1,7 @@
+{
+  "key": "geoapify-search-address",
+  "name": "Search Address",
+  "description": "Retrieves geocoding information for a given address. [See the documentation](https://apidocs.geoapify.com/docs/geocoding/forward-geocoding/)",
+  "type": "action",
+  "version": "0.0.2"
+}

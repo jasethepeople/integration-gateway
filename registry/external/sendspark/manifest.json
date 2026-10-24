@@ -1,0 +1,31 @@
+{
+  "app": "sendspark",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "dynamicId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "workspace_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_secret_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sendspark-create-dynamic-video",
+    "sendspark-list-dynamic-id-options"
+  ]
+}

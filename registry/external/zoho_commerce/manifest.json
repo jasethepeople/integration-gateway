@@ -1,0 +1,25 @@
+{
+  "app": "zoho_commerce",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "orgId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "base_api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zoho_commerce-create-product",
+    "zoho_commerce-list-org-id-options",
+    "zoho_commerce-new-order-created",
+    "zoho_commerce-order-cancelled"
+  ]
+}

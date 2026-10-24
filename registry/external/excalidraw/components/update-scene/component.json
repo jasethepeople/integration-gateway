@@ -1,0 +1,7 @@
+{
+  "key": "excalidraw-update-scene",
+  "name": "Update Scene",
+  "description": "Updates an existing Excalidraw scene's name or collection membership.",
+  "type": "action",
+  "version": "0.0.2"
+}

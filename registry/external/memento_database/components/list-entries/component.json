@@ -1,0 +1,7 @@
+{
+  "key": "memento_database-list-entries",
+  "name": "List Entries",
+  "description": "List entries in a library on Memento Database. [See the documentation](https://mementodatabase.docs.apiary.io/#reference/0/entries/list-entries-on-a-library)",
+  "type": "action",
+  "version": "0.0.1"
+}

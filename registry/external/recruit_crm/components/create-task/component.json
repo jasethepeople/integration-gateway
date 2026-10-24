@@ -1,0 +1,7 @@
+{
+  "key": "recruit_crm-create-task",
+  "name": "Create Task",
+  "description": "Creates a new task. [See the documentation](https://docs.recruitcrm.io/docs/rcrm-api-reference/e9bb027660641-creates-a-new-task)",
+  "type": "action",
+  "version": "0.0.2"
+}

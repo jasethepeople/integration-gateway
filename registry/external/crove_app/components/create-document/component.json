@@ -1,0 +1,7 @@
+{
+  "key": "crove_app-create-document",
+  "name": "Create Document",
+  "description": "Create a new document.",
+  "type": "action",
+  "version": "1.0.3"
+}

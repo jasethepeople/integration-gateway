@@ -1,0 +1,7 @@
+{
+  "key": "simplero-tag-contact",
+  "name": "Tag Contact",
+  "description": "Add a tag to a contact. [See the documentation](https://github.com/Simplero/Simplero-API?tab=readme-ov-file#add-tag-to-contact)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "twitch-get-channel-teams",
+  "name": "Get Channel Teams",
+  "description": "Gets a list of teams to which a specified channel belongs",
+  "type": "action",
+  "version": "0.1.5"
+}

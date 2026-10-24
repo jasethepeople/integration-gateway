@@ -1,0 +1,7 @@
+{
+  "key": "smartsheet-create-sheet",
+  "name": "Create Sheet",
+  "description": "Create a new blank sheet with its column schema defined up front, inside a workspace or a folder.",
+  "type": "action",
+  "version": "1.0.2"
+}

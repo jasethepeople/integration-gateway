@@ -1,0 +1,7 @@
+{
+  "key": "leaddyno-retrieve-lead",
+  "name": "Retrieve Lead",
+  "description": "Retrieves information about a lead from LeadDyno. [See the documentation](https://app.theneo.io/leaddyno/leaddyno-rest-api/leads/retrieve-a-lead-by-id)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "cardly-list-art-id-options",
+  "name": "List Art Options",
+  "description": "Retrieves available options for the Art field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,25 @@
+{
+  "app": "sumup",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "statuses": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "paymentTypes": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sumup-get-merchant-profile",
+    "sumup-list-transactions",
+    "sumup-retrieve-dba",
+    "sumup-new-transaction"
+  ]
+}

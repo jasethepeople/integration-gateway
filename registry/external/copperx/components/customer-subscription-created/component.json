@@ -1,0 +1,7 @@
+{
+  "key": "copperx-customer-subscription-created",
+  "name": "New Customer Subscription Created (Instant)",
+  "description": "Emit new event when a new customer subcription is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

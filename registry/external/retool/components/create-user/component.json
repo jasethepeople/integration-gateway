@@ -1,0 +1,7 @@
+{
+  "key": "retool-create-user",
+  "name": "Create User",
+  "description": "Creates a new user. [See the documentation](https://docs.retool.com/api/create-user).",
+  "type": "action",
+  "version": "0.0.1"
+}

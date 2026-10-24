@@ -1,0 +1,7 @@
+{
+  "key": "mojo_helpdesk-new-ticket-with-scheduled-on-created",
+  "name": "New Ticket With Scheduled On Created",
+  "description": "Emit new event when a new unassigned ticket with a scheduled on date is created. [See the docs](https://github.com/mojohelpdesk/mojohelpdesk-api-doc#list-of-sortable-fields)",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,26 @@
+{
+  "app": "docusign",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "docusign-create-draft",
+    "docusign-create-envelope-from-file",
+    "docusign-create-envelope",
+    "docusign-create-recipient-view",
+    "docusign-create-signature-request",
+    "docusign-download-documents",
+    "docusign-get-envelope",
+    "docusign-list-accounts",
+    "docusign-list-documents",
+    "docusign-list-envelopes",
+    "docusign-list-recipients",
+    "docusign-send-envelope",
+    "docusign-void-envelope",
+    "docusign-new-change-in-envelope-status",
+    "docusign-new-folder"
+  ],
+  "npmImports": [
+    "fs"
+  ]
+}

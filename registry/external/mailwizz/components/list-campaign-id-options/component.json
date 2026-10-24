@@ -1,0 +1,7 @@
+{
+  "key": "mailwizz-list-campaign-id-options",
+  "name": "List Campaign UID Options",
+  "description": "Retrieves available options for the Campaign UID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

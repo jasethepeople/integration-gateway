@@ -1,0 +1,7 @@
+{
+  "key": "clickup-delete-checklist",
+  "name": "Delete Checklist",
+  "description": "Deletes a checklist in a task. [See the documentation](https://clickup.com/api) in **Checklists / Delete Checklist** section.",
+  "type": "action",
+  "version": "0.0.12"
+}

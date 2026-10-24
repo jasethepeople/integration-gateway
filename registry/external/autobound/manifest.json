@@ -1,0 +1,38 @@
+{
+  "app": "autobound",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contentType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "writingStyle": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "additionalContext": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "wordCount": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "autobound-write-personalized-content"
+  ]
+}

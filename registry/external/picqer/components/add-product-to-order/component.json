@@ -1,0 +1,7 @@
+{
+  "key": "picqer-add-product-to-order",
+  "name": "Add Product To Order",
+  "description": "Adds a single product to concept orders only. [See the documentation](https://picqer.com/en/api/orders)",
+  "type": "action",
+  "version": "0.0.1"
+}

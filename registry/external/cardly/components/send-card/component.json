@@ -1,0 +1,7 @@
+{
+  "key": "cardly-send-card",
+  "name": "Send Card",
+  "description": "Send a card in Cardly. [See the documentation](https://api.card.ly/v2/docs#endpoint-post-order-place)",
+  "type": "action",
+  "version": "0.0.2"
+}

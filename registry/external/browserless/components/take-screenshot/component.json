@@ -1,0 +1,7 @@
+{
+  "key": "browserless-take-screenshot",
+  "name": "Take a Screenshot",
+  "description": "Take a screenshot of a page. [See the documentation](https://www.browserless.io/docs/screenshot)",
+  "type": "action",
+  "version": "0.5.6"
+}

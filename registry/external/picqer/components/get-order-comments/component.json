@@ -1,0 +1,7 @@
+{
+  "key": "picqer-get-order-comments",
+  "name": "Get Order Comments",
+  "description": "Retrieves comments linked to an order. [See the documentation](https://picqer.com/en/api/orders)",
+  "type": "action",
+  "version": "0.0.1"
+}

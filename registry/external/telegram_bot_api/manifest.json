@@ -1,0 +1,171 @@
+{
+  "app": "telegram_bot_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "updateTypes": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "chatId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "text": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "parse_mode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "disable_notification": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "link_preview_options": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "reply_to_message_id": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "reply_markup": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "messageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fromChatId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "caption": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "filename": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "media": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "duration": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "performer": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contentType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "width": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "height": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "length": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "offset": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "autoPaging": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "until_date": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "link_name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "expire_date": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "member_limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "creates_join_request": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "telegram_bot_api-create-chat-invite-link",
+    "telegram_bot_api-delete-message",
+    "telegram_bot_api-download-voice-message",
+    "telegram_bot_api-edit-media-message",
+    "telegram_bot_api-edit-text-message",
+    "telegram_bot_api-export-chat-invite-link",
+    "telegram_bot_api-forward-message",
+    "telegram_bot_api-get-num-members-in-chat",
+    "telegram_bot_api-kick-chat-member",
+    "telegram_bot_api-list-administrators-in-chat",
+    "telegram_bot_api-list-chats",
+    "telegram_bot_api-list-commands-options",
+    "telegram_bot_api-list-updates",
+    "telegram_bot_api-pin-message",
+    "telegram_bot_api-promote-chat-member",
+    "telegram_bot_api-restrict-chat-member",
+    "telegram_bot_api-send-album",
+    "telegram_bot_api-send-audio-file",
+    "telegram_bot_api-send-document-or-image",
+    "telegram_bot_api-send-media-by-url-or-id",
+    "telegram_bot_api-send-photo",
+    "telegram_bot_api-send-sticker",
+    "telegram_bot_api-send-text-message-or-reply",
+    "telegram_bot_api-send-video-note",
+    "telegram_bot_api-send-video",
+    "telegram_bot_api-send-voice-message",
+    "telegram_bot_api-set-chat-permissions",
+    "telegram_bot_api-unpin-message",
+    "telegram_bot_api-channel-updates",
+    "telegram_bot_api-message-updates",
+    "telegram_bot_api-new-bot-command-received",
+    "telegram_bot_api-new-updates"
+  ],
+  "npmImports": [
+    "fs",
+    "node-telegram-bot-api@1.2.0",
+    "path",
+    "uuid"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "app": "replicate",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "collectionSlug": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "modelId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "modelVersion": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "predictionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "replicate-cancel-prediction",
+    "replicate-create-prediction",
+    "replicate-get-model",
+    "replicate-get-prediction"
+  ]
+}

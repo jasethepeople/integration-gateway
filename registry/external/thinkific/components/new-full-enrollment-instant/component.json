@@ -1,0 +1,7 @@
+{
+  "key": "thinkific-new-full-enrollment-instant",
+  "name": "New Full Enrollment (Instant)",
+  "description": "Emit new event when a user enrolls in your course.",
+  "type": "source",
+  "version": "0.0.2"
+}

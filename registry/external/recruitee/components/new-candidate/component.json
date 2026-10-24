@@ -1,0 +1,7 @@
+{
+  "key": "recruitee-new-candidate",
+  "name": "New Candidate Created",
+  "description": "Emit new event when a new candidate is created. [See the Documentation](https://api.recruitee.com/docs/index.html#candidate.web.candidate-candidate.web.candidate-get)",
+  "type": "source",
+  "version": "0.0.1"
+}

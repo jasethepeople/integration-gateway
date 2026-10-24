@@ -1,0 +1,7 @@
+{
+  "key": "newsman-update-subscriber",
+  "name": "Update Subscriber",
+  "description": "Update a subscriber in Newsman. [See the documentation](https://kb.newsman.com/api/1.2/subscriber.update)",
+  "type": "action",
+  "version": "0.0.1"
+}

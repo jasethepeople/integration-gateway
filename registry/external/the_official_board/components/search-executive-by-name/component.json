@@ -1,0 +1,7 @@
+{
+  "key": "the_official_board-search-executive-by-name",
+  "name": "Search Executive",
+  "description": "Search for executives by name. [See the documentation](https://rest.theofficialboard.com/rest/api/doc/#/Executives/get_executive_search)",
+  "type": "action",
+  "version": "0.0.2"
+}

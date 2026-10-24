@@ -1,0 +1,20 @@
+{
+  "app": "sitespeakai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "chatbotId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "sitespeakai-list-chatbot-id-options",
+    "sitespeakai-send-query",
+    "sitespeakai-new-lead-created"
+  ]
+}

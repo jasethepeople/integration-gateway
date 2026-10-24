@@ -1,0 +1,7 @@
+{
+  "key": "apiverve-get-dictionary-definition",
+  "name": "Get Dictionary Definition",
+  "description": "Get the definition of a word. [See the documentation](https://docs.apiverve.com/api/dictionary)",
+  "type": "action",
+  "version": "0.0.2"
+}

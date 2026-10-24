@@ -1,0 +1,39 @@
+{
+  "app": "lightspeed_vt",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contentRole": {
+      "kind": "propDefinition",
+      "type": "integer[]"
+    },
+    "jobPositionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "locationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "teamId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "lightspeed_vt-create-new-user",
+    "lightspeed_vt-list-content-role-options",
+    "lightspeed_vt-list-job-position-id-options",
+    "lightspeed_vt-list-location-id-options",
+    "lightspeed_vt-list-team-id-options",
+    "lightspeed_vt-new-user-added"
+  ]
+}

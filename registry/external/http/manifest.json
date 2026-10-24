@@ -1,0 +1,29 @@
+{
+  "app": "http",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "httpRequest": {
+      "kind": "propDefinition",
+      "type": "http_request"
+    },
+    "summary": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "http-custom-request",
+    "http-get-request",
+    "http-post-request",
+    "http-put-request",
+    "http-return-http-response",
+    "http-new-requests-payload-only",
+    "http-new-requests",
+    "http-watch-url",
+    "http-webhook"
+  ],
+  "npmImports": [
+    "object-hash"
+  ]
+}

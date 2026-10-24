@@ -1,0 +1,61 @@
+{
+  "app": "ayrshare",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "title": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "messagingActive": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "hideTopHeader": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "topHeader": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subHeader": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "disableSocial": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "team": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "profileKey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "profileToDelete": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ayrshare-create-user",
+    "ayrshare-delete-user",
+    "ayrshare-list-profile-to-delete-options",
+    "ayrshare-update-user"
+  ]
+}

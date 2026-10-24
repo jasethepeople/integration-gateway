@@ -1,0 +1,7 @@
+{
+  "key": "notion-retrieve-page",
+  "name": "Get Page",
+  "description": "Retrieve a Notion page: both its property values **and** its body content rendered as Markdown.",
+  "type": "action",
+  "version": "0.1.2"
+}

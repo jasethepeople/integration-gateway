@@ -1,0 +1,7 @@
+{
+  "key": "linkedin-list-organization-id-options",
+  "name": "List Organization Id Options",
+  "description": "Retrieves available options for the Organization Id field.",
+  "type": "action",
+  "version": "0.0.3"
+}

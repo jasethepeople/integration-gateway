@@ -1,0 +1,7 @@
+{
+  "key": "faceup-new-internal-comment-instant",
+  "name": "New Internal Comment (Instant)",
+  "description": "Emit new event when a new internal comment is created. Must create webhook within the Faceup UI and enter the URL of this source to receive events. [See the documentation](https://support.faceup.com/en/article/webhooks)",
+  "type": "source",
+  "version": "0.0.1"
+}

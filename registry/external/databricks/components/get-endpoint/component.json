@@ -1,0 +1,7 @@
+{
+  "key": "databricks-get-endpoint",
+  "name": "Get Endpoint",
+  "description": "Get details of a specific vector search endpoint. [See the documentation](https://docs.databricks.com/api/workspace/vectorsearchendpoints/getendpoint)",
+  "type": "action",
+  "version": "0.0.5"
+}

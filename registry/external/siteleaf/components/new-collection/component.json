@@ -1,0 +1,7 @@
+{
+  "key": "siteleaf-new-collection",
+  "name": "New Collection",
+  "description": "Emit new event when a new collection is created. [See the docs here](https://learn.siteleaf.com/api/collections/#list-collections)",
+  "type": "source",
+  "version": "0.0.2"
+}

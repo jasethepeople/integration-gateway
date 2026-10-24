@@ -1,0 +1,7 @@
+{
+  "key": "helpdocs-search-articles",
+  "name": "Search Articles",
+  "description": "Search for articles in your HelpDocs knowledge base. [See the documentation](https://apidocs.helpdocs.io/article/If1U9NNUpT-searching-for-articles)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "unisender-new-completed-campaign",
+  "name": "New Completed Campaign (Instant)",
+  "description": "Emit new event when all messages have been sent and analysis of the results is completed.",
+  "type": "source",
+  "version": "0.0.3"
+}

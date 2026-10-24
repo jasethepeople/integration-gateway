@@ -1,0 +1,7 @@
+{
+  "key": "deel-amend-eor-contract",
+  "name": "Amend EOR Contract",
+  "description": "Create a new amendment for an EOR (employer of record) Deel contract — change salary, currency,",
+  "type": "action",
+  "version": "0.0.2"
+}

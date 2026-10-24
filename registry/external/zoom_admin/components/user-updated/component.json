@@ -1,0 +1,7 @@
+{
+  "key": "zoom_admin-user-updated",
+  "name": "User Updated",
+  "description": "Emits an event each time a user's settings are updated in your Zoom account",
+  "type": "source",
+  "version": "0.1.9"
+}

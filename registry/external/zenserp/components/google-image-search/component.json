@@ -1,0 +1,7 @@
+{
+  "key": "zenserp-google-image-search",
+  "name": "Google Image Search",
+  "description": "Perform a Google image search using the Zenserp API. [See the documentation](https://app.zenserp.com/documentation#imageSearch)",
+  "type": "action",
+  "version": "0.0.1"
+}

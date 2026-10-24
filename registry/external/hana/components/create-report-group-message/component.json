@@ -1,0 +1,7 @@
+{
+  "key": "hana-create-report-group-message",
+  "name": "Create Report Group Message",
+  "description": "Create a report group message. [See the documentation](https://docs.hanabot.ai/docs/tutorial-connectors/hana-api#report-message-creation)",
+  "type": "action",
+  "version": "0.0.1"
+}

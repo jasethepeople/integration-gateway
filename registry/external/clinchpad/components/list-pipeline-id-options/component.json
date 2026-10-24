@@ -1,0 +1,7 @@
+{
+  "key": "clinchpad-list-pipeline-id-options",
+  "name": "List Pipeline ID Options",
+  "description": "Retrieves available options for the Pipeline ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

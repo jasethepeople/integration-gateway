@@ -1,0 +1,7 @@
+{
+  "key": "crove_app-generate-template-pdf",
+  "name": "Generate Document PDF From Template",
+  "description": "Generate PDF of a document created from the template",
+  "type": "action",
+  "version": "2.0.3"
+}

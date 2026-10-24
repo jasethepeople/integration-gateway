@@ -1,0 +1,28 @@
+{
+  "app": "cradl_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "modelId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "workflowId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "datasetId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "cradl_ai-parse-document-human-in-loop",
+    "cradl_ai-parse-document",
+    "cradl_ai-new-document-parsing-completed-instant"
+  ]
+}

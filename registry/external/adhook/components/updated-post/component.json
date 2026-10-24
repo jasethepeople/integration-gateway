@@ -1,0 +1,7 @@
+{
+  "key": "adhook-updated-post",
+  "name": "New Updated Post",
+  "description": "Emit new event when a post is updated.",
+  "type": "source",
+  "version": "0.0.1"
+}

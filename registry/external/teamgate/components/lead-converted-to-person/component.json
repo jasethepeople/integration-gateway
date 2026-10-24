@@ -1,0 +1,7 @@
+{
+  "key": "teamgate-lead-converted-to-person",
+  "name": "New Lead Converted To Person",
+  "description": "Emit new event when a lead is converted to person.",
+  "type": "source",
+  "version": "0.0.1"
+}

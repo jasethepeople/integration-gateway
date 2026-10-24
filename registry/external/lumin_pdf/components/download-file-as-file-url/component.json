@@ -1,0 +1,7 @@
+{
+  "key": "lumin_pdf-download-file-as-file-url",
+  "name": "Download File as File URL",
+  "description": "Get a download URL for a file. [See the documentation](https://developers.luminpdf.com/api/download-file-as-file-url/)",
+  "type": "action",
+  "version": "0.0.2"
+}

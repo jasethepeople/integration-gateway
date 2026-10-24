@@ -1,0 +1,7 @@
+{
+  "key": "kadoa-new-workflow-finished-instant",
+  "name": "New Workflow Finished (Instant)",
+  "description": "Emit new event when a Kadoa workflow finishes.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "qualiobee-new-learner-created",
+  "name": "New Learner Created",
+  "description": "Emit new event when a new learner is created in Qualiobee. [See the documentation](https://app.qualiobee.fr/api/doc/#/Learner/PublicLearnerController_getMany)",
+  "type": "source",
+  "version": "0.0.1"
+}

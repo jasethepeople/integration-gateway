@@ -1,0 +1,25 @@
+{
+  "app": "altoviz",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "invoiceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "altoviz-create-customer",
+    "altoviz-create-product",
+    "altoviz-find-product",
+    "altoviz-list-invoice-id-options",
+    "altoviz-send-sales-invoice",
+    "altoviz-new-contact-instant",
+    "altoviz-new-product-instant",
+    "altoviz-new-sales-invoice-instant"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "neon_postgres-new-row",
+  "name": "New Row",
+  "description": "Emit new event when a new row is added to a table. [See the documentation](https://node-postgres.com/features/queries)",
+  "type": "source",
+  "version": "0.0.1"
+}

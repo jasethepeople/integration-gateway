@@ -1,0 +1,33 @@
+{
+  "app": "coinmarketcap",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "convert": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "convertId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "aux": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "environment": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "coinmarketcap-get-cryptocurrency-metadata",
+    "coinmarketcap-id-map",
+    "coinmarketcap-latest-listings",
+    "coinmarketcap-latest-quotes"
+  ]
+}

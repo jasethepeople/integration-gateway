@@ -1,0 +1,7 @@
+{
+  "key": "sender-new-group",
+  "name": "New Group (Instant)",
+  "description": "Emit new event when a new group is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

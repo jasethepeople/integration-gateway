@@ -1,0 +1,7 @@
+{
+  "key": "chartmogul-add-custom-attributes-via-email",
+  "name": "Add Custom Attributes To Customer Via Email",
+  "description": "Adds custom attributes to customers that have the specified email address. [See the docs here](https://dev.chartmogul.com/reference/add-custom-attributes-to-customers-with-email)",
+  "type": "action",
+  "version": "0.0.2"
+}

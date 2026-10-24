@@ -1,0 +1,7 @@
+{
+  "key": "clinchpad-new-lead-created",
+  "name": "New Lead Created ",
+  "description": "Emit new event for each new created lead.",
+  "type": "source",
+  "version": "0.0.1"
+}

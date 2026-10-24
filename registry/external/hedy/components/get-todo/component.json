@@ -1,0 +1,7 @@
+{
+  "key": "hedy-get-todo",
+  "name": "Get Todo",
+  "description": "Retrieves a single action item (todo) by its ID within a session, returning text, completion status, due date, and associated topic.",
+  "type": "action",
+  "version": "0.0.2"
+}

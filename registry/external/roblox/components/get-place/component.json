@@ -1,0 +1,7 @@
+{
+  "key": "roblox-get-place",
+  "name": "Get Place",
+  "description": "Get information about a place within a Roblox universe. [See the documentation](https://create.roblox.com/docs/cloud/reference/Place#Cloud_GetPlace)",
+  "type": "action",
+  "version": "0.0.1"
+}

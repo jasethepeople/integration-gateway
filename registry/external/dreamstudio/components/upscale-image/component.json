@@ -1,0 +1,7 @@
+{
+  "key": "dreamstudio-upscale-image",
+  "name": "Upscale Image",
+  "description": "Create a higher resolution version of an input image. [See the documentation](https://platform.stability.ai/docs/api-reference#tag/v1generation/operation/upscaleImage)",
+  "type": "action",
+  "version": "1.0.3"
+}

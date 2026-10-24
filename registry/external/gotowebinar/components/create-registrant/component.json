@@ -1,0 +1,7 @@
+{
+  "key": "gotowebinar-create-registrant",
+  "name": "Create Registrant",
+  "description": "Register an attendee for a scheduled webinar. [See the documentation](https://developer.goto.com/GoToWebinarV2/#operation/createRegistrant)",
+  "type": "action",
+  "version": "0.0.2"
+}

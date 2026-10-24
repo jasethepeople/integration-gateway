@@ -1,0 +1,14 @@
+{
+  "app": "llama_ai",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "llama_ai-create-chat"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "buildkite-list-builds-for-pipeline",
+  "name": "List Builds for Pipeline",
+  "description": "Returns a list of a pipeline's builds, filterable by state, branch, and commit. [See the documentation](https://buildkite.com/docs/apis/rest-api/builds#list-builds-for-a-pipeline)",
+  "type": "action",
+  "version": "0.0.1"
+}

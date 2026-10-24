@@ -1,0 +1,24 @@
+{
+  "app": "code_climate",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "orgName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orgId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "personal_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "code_climate-create-organization",
+    "code_climate-get-members",
+    "code_climate-get-organizations"
+  ]
+}

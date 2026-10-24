@@ -1,0 +1,7 @@
+{
+  "key": "grain-removed-highlight-instant",
+  "name": "New Highlight Removed (Instant)",
+  "description": "Emit new event when a highlight is removed. [See the documentation](https://developers.grain.com/#create-hook)",
+  "type": "source",
+  "version": "1.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "visibot-create-video",
+  "name": "Create Video",
+  "description": "Process a video from a URL with custom caption settings. [See the documentation](https://dashboard.visibot.app/api-docs#video-api-POSTapi-video-create)",
+  "type": "action",
+  "version": "0.0.1"
+}

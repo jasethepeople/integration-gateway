@@ -1,0 +1,7 @@
+{
+  "key": "google_search_console-inspect-urls",
+  "name": "Inspect URLs",
+  "description": "Returns Google's index status, canonical selection and crawl state for 1-10 URLs of ",
+  "type": "action",
+  "version": "0.0.1"
+}

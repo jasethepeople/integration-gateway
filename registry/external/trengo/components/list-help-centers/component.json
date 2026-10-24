@@ -1,0 +1,7 @@
+{
+  "key": "trengo-list-help-centers",
+  "name": "List Help Centers",
+  "description": "List all help centers. [See the documentation](https://developers.trengo.com/reference/list-all-help-centers)",
+  "type": "action",
+  "version": "0.0.5"
+}

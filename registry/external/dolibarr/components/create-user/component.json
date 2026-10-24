@@ -1,0 +1,7 @@
+{
+  "key": "dolibarr-create-user",
+  "name": "Create User",
+  "description": "Create a new user in Dolibarr.",
+  "type": "action",
+  "version": "0.0.3"
+}

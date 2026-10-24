@@ -1,0 +1,7 @@
+{
+  "key": "crowdin-new-directory",
+  "name": "New Directory Created",
+  "description": "Emit new event when a new directory is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

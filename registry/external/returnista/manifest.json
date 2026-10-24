@@ -1,0 +1,163 @@
+{
+  "app": "returnista",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "consumerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "filter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "search": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sortBy": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "orderBy": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "returnOrderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "draftReturnOrderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "expand": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "street": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "houseNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "suffix": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "city": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "postalCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "countryCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "stateProvinceCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "attention": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "phoneNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "returnLocationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "returnRequestId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "purchaseId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "returnReasonId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "returnReasonComment": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "resolutionType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "exchangeProductId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "exchangeOptionSku": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "answers": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "returnista-create-draft-return-order",
+    "returnista-create-return-location",
+    "returnista-get-consumer-purchases",
+    "returnista-get-draft-return-orders",
+    "returnista-get-return-locations",
+    "returnista-get-return-order-emails",
+    "returnista-get-return-order",
+    "returnista-get-return-orders",
+    "returnista-get-return-reasons",
+    "returnista-get-return-request",
+    "returnista-get-return-requests",
+    "returnista-list-shipping-products",
+    "returnista-process-draft-return-order",
+    "returnista-resend-confirmation-email",
+    "returnista-update-return-location",
+    "returnista-new-return-order-created-instant",
+    "returnista-new-shipment-label-created-instant",
+    "returnista-return-order-completed-instant",
+    "returnista-return-order-confirmed-instant",
+    "returnista-sales-order-approved-or-denied-instant",
+    "returnista-shipment-received-tracking-updates-instant",
+    "returnista-tracking-update-delivered-instant"
+  ]
+}

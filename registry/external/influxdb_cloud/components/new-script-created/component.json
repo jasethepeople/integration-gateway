@@ -1,0 +1,7 @@
+{
+  "key": "influxdb_cloud-new-script-created",
+  "name": "New Script Created",
+  "description": "Emit new event when a new script is created. [See the documentation](https://docs.influxdata.com/influxdb3/cloud-serverless/api/v2/#operation/GetScripts)",
+  "type": "source",
+  "version": "0.0.1"
+}

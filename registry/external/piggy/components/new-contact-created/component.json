@@ -1,0 +1,7 @@
+{
+  "key": "piggy-new-contact-created",
+  "name": "New Contact Created",
+  "description": "Emit new event on each new contact.",
+  "type": "source",
+  "version": "0.0.1"
+}

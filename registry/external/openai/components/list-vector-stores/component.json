@@ -1,0 +1,7 @@
+{
+  "key": "openai-list-vector-stores",
+  "name": "List Vector Stores",
+  "description": "Returns a list of vector stores. [See the documentation](https://platform.openai.com/docs/api-reference/vector-stores/list)",
+  "type": "action",
+  "version": "0.0.9"
+}

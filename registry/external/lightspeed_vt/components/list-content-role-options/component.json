@@ -1,0 +1,7 @@
+{
+  "key": "lightspeed_vt-list-content-role-options",
+  "name": "List Content Role Id Options",
+  "description": "Retrieves available options for the Content Role Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

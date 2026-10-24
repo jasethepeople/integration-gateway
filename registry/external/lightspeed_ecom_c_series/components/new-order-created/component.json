@@ -1,0 +1,7 @@
+{
+  "key": "lightspeed_ecom_c_series-new-order-created",
+  "name": "New Order Created (Instant)",
+  "description": "Emit new event when an order is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

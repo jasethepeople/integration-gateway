@@ -1,0 +1,7 @@
+{
+  "key": "todoist-list-label-string-options",
+  "name": "List Labels Options",
+  "description": "Retrieves available options for the Labels field.",
+  "type": "action",
+  "version": "0.0.2"
+}

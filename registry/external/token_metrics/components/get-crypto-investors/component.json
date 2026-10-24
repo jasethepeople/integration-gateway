@@ -1,0 +1,7 @@
+{
+  "key": "token_metrics-get-crypto-investors",
+  "name": "Get Crypto Investors",
+  "description": "Limit the number of items in response. Defaults to 50",
+  "type": "action",
+  "version": "0.1.1"
+}

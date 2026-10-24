@@ -1,0 +1,7 @@
+{
+  "key": "announcekit-new-reaction",
+  "name": "New Reaction",
+  "description": "Emit new event when a new reaction is created. [See the documentation](https://announcekit.app/docs/graphql-api)",
+  "type": "source",
+  "version": "0.0.1"
+}

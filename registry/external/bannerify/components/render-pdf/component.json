@@ -1,0 +1,7 @@
+{
+  "key": "bannerify-render-pdf",
+  "name": "Render PDF",
+  "description": "Generate a PDF from a Bannerify template and return a hosted file URL. [See the documentation](https://bannerify.co/docs/api-reference/endpoint/create-pdf)",
+  "type": "action",
+  "version": "0.0.1"
+}

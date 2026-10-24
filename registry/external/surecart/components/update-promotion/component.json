@@ -1,0 +1,7 @@
+{
+  "key": "surecart-update-promotion",
+  "name": "Update Promotion",
+  "description": "Update an existing promotion. [See the documentation](https://developer.surecart.com/api-reference/promotions/update)",
+  "type": "action",
+  "version": "0.0.1"
+}

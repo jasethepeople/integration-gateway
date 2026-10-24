@@ -1,0 +1,7 @@
+{
+  "key": "loyverse-get-customer",
+  "name": "Get Customer(s)",
+  "description": "Retrieves details of one or more customers. [See the documentation](https://developer.loyverse.com/docs/#tag/Customers/paths/~1customers/get)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "cohere_platform-chat",
+  "name": "Chat",
+  "description": "Generates a text response to a user message. [See the documentation](https://docs.cohere.com/reference/chat)",
+  "type": "action",
+  "version": "0.0.2"
+}

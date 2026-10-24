@@ -1,0 +1,7 @@
+{
+  "key": "firebase_admin_sdk-update-document",
+  "name": "Update Document",
+  "description": "Updates a Document. [See the documentation](https://googleapis.dev/nodejs/firestore/latest/DocumentReference.html#update)",
+  "type": "action",
+  "version": "0.0.10"
+}

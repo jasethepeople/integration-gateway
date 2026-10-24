@@ -1,0 +1,31 @@
+{
+  "app": "logfire",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "read_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "write_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "logfire-record-log-entry",
+    "logfire-run-sql-query"
+  ],
+  "npmImports": [
+    "@opentelemetry/api",
+    "@opentelemetry/core",
+    "@opentelemetry/exporter-trace-otlp-proto",
+    "@opentelemetry/resources",
+    "@opentelemetry/sdk-trace-base",
+    "@opentelemetry/semantic-conventions"
+  ]
+}

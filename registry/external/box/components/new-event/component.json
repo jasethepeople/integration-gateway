@@ -1,0 +1,7 @@
+{
+  "key": "box-new-event",
+  "name": "New Event",
+  "description": "Emit new event when any of the selected event types occurs on the target file or folder, via a Box webhook. [See the documentation](https://developer.box.com/reference/post-webhooks)",
+  "type": "source",
+  "version": "0.0.10"
+}

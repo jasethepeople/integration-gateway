@@ -1,0 +1,7 @@
+{
+  "key": "afosto-add-note-to-cart",
+  "name": "Add Note to Cart",
+  "description": "Add a note to a cart. [See the documentation](https://afosto.com/docs/developers/storefront-js-client/custom-checkout/checkout-summary/)",
+  "type": "action",
+  "version": "0.0.2"
+}

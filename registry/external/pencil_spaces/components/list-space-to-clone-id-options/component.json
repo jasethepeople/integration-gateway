@@ -1,0 +1,7 @@
+{
+  "key": "pencil_spaces-list-space-to-clone-id-options",
+  "name": "List Space To Clone Id Options",
+  "description": "Retrieves available options for the Space To Clone Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "shopify_developer_app-refund-order",
+  "name": "Refund Order",
+  "description": "Refund an order. [See the documentation](https://shopify.dev/docs/api/admin-graphql/unstable/mutations/refundcreate)",
+  "type": "action",
+  "version": "0.0.10"
+}

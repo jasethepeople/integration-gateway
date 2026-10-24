@@ -1,0 +1,7 @@
+{
+  "key": "weaviate-get-schema",
+  "name": "Get Schema",
+  "description": "Get schema from Weaviate. [See the documentation](https://docs.weaviate.io/weaviate/api/rest#tag/schema/get/schema)",
+  "type": "action",
+  "version": "0.0.2"
+}

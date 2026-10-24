@@ -1,0 +1,15 @@
+{
+  "app": "businesslogic",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "live_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "businesslogic-describe-endpoint",
+    "businesslogic-execute-endpoint"
+  ]
+}

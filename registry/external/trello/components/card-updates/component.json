@@ -1,0 +1,7 @@
+{
+  "key": "trello-card-updates",
+  "name": "Card Updated (Instant)",
+  "description": "Emit new event for each update to a Trello card.",
+  "type": "source",
+  "version": "0.1.6"
+}

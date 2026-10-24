@@ -1,0 +1,7 @@
+{
+  "key": "freeagent-create-contact",
+  "name": "Create Contact",
+  "description": "Create a contact in FreeAgent. [See the documentation](https://dev.freeagent.com/docs/contacts#create-a-contact).",
+  "type": "action",
+  "version": "0.0.1"
+}

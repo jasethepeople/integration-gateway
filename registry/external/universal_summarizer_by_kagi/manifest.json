@@ -1,0 +1,34 @@
+{
+  "app": "universal_summarizer_by_kagi",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "url": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "engine": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "summaryType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "targetLanguage": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cache": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "universal_summarizer_by_kagi-summarize-document"
+  ]
+}

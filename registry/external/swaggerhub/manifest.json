@@ -1,0 +1,28 @@
+{
+  "app": "swaggerhub",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "owner": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "version": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "swaggerhub-clone-api-version",
+    "swaggerhub-delete-api-version",
+    "swaggerhub-api-version-created"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "discord_bot-new-thread-message",
+  "name": "New Thread Message",
+  "description": "Emit new event for each thread message posted.",
+  "type": "source",
+  "version": "1.0.0"
+}

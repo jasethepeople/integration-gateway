@@ -1,0 +1,40 @@
+{
+  "app": "splunk_http_event_collector",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "channel": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sourcetype": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "index": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "host": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "port": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "splunk_http_event_collector-check-health",
+    "splunk_http_event_collector-send-batch-events",
+    "splunk_http_event_collector-send-event"
+  ]
+}

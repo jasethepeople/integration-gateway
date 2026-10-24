@@ -1,0 +1,7 @@
+{
+  "key": "wics-list-order-shipments",
+  "name": "List Order Shipments",
+  "description": "List shipments for an order by reference. [See the documentation](https://docs.wics.nl/#orders-list-shipments-for-order)",
+  "type": "action",
+  "version": "0.0.2"
+}

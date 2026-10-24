@@ -1,0 +1,7 @@
+{
+  "key": "dispatch-create-estimate",
+  "name": "Create Estimate",
+  "description": "Create a delivery estimate to get pricing and timing options before placing an order. [See the documentation](https://api.dispatchit.com/docs/v1)",
+  "type": "action",
+  "version": "0.0.2"
+}

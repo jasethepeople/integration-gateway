@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-get-job-payment",
+  "name": "Get Job Payment",
+  "description": "Get a job payment by UUID. [See the documentation](https://developer.servicem8.com/reference/getjobpayments)",
+  "type": "action",
+  "version": "0.0.1"
+}

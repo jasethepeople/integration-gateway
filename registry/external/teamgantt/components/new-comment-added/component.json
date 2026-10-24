@@ -1,0 +1,7 @@
+{
+  "key": "teamgantt-new-comment-added",
+  "name": "New Comment Added",
+  "description": "Emit new event when a new comment is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

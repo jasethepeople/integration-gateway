@@ -1,0 +1,7 @@
+{
+  "key": "u301-list-domains",
+  "name": "List Domains",
+  "description": "List all available domains for URL shortening. [See the documentation](https://docs.u301.com/api-reference/endpoint/list-shorten-domains)",
+  "type": "action",
+  "version": "0.0.2"
+}

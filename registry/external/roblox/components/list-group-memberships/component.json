@@ -1,0 +1,7 @@
+{
+  "key": "roblox-list-group-memberships",
+  "name": "List Group Memberships",
+  "description": "List the memberships (members) of a Roblox group. [See the documentation](https://create.roblox.com/docs/cloud/reference/GroupMembership#Cloud_ListGroupMemberships)",
+  "type": "action",
+  "version": "0.0.1"
+}

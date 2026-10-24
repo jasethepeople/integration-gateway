@@ -1,0 +1,7 @@
+{
+  "key": "paystack-list-virtual-terminals",
+  "name": "List Virtual Terminals",
+  "description": "List Virtual Terminals on your integration. [See the documentation](https://paystack.com/docs/api/virtual-terminal/#list)",
+  "type": "action",
+  "version": "0.0.2"
+}

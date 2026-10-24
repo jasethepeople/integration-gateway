@@ -1,0 +1,7 @@
+{
+  "key": "testmonitor-find-project",
+  "name": "Find a Project",
+  "description": "Retrieve a list of projects. [See the docs here](https://docs.testmonitor.com/#tag/Projects/operation/GetProjectCollection)",
+  "type": "action",
+  "version": "0.0.5"
+}

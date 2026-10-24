@@ -1,0 +1,19 @@
+{
+  "app": "axonaut",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "axonaut-create-company",
+    "axonaut-create-employee",
+    "axonaut-list-company-id-options",
+    "axonaut-list-employee-id-options",
+    "axonaut-update-company",
+    "axonaut-update-employee"
+  ]
+}

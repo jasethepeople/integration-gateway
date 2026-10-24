@@ -1,0 +1,82 @@
+{
+  "app": "slicktext",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "listIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "mobileNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "firstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "lastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "birthdate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "address": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "city": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "state": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "zip": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timezone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "language": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "optInStatus": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "forceDoubleOptIn": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "public_api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "slicktext-add-contact-to-lists",
+    "slicktext-create-contact",
+    "slicktext-edit-contact",
+    "slicktext-list-contact-id-options",
+    "slicktext-list-list-ids-options"
+  ]
+}

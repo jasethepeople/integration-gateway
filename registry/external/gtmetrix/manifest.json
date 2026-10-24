@@ -1,0 +1,31 @@
+{
+  "app": "gtmetrix",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "locationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "browserId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "pageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "gtmetrix-get-performance-report",
+    "gtmetrix-list-browser-id-options",
+    "gtmetrix-list-location-id-options",
+    "gtmetrix-list-page-id-options",
+    "gtmetrix-run-performance-test",
+    "gtmetrix-new-test-completed"
+  ]
+}

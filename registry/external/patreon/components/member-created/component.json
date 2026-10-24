@@ -1,0 +1,7 @@
+{
+  "key": "patreon-member-created",
+  "name": "Member Created",
+  "description": "Emit new event for each created member",
+  "type": "source",
+  "version": "0.0.1"
+}

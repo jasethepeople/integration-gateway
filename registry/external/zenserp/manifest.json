@@ -1,0 +1,51 @@
+{
+  "app": "zenserp",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "q": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "searchEngine": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "country": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "language": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "num": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "start": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "device": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "timeframe": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "zenserp-google-image-search",
+    "zenserp-google-news-search",
+    "zenserp-google-search",
+    "zenserp-list-country-options",
+    "zenserp-list-language-options",
+    "zenserp-list-search-engine-options"
+  ]
+}

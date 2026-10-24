@@ -1,0 +1,7 @@
+{
+  "key": "rippling-get-user",
+  "name": "Get User",
+  "description": "Retrieves a specific user from Rippling. [See the documentation](https://developer.rippling.com/documentation/rest-api/reference/get-users)",
+  "type": "action",
+  "version": "0.0.2"
+}

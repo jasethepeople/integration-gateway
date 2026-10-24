@@ -1,0 +1,7 @@
+{
+  "key": "the_bookie-new-invoice-paid",
+  "name": "New Invoice Paid",
+  "description": "Emit new event when the state of an invoice is changed to 'paid'.",
+  "type": "source",
+  "version": "0.0.1"
+}

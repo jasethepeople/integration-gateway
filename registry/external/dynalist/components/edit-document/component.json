@@ -1,0 +1,7 @@
+{
+  "key": "dynalist-edit-document",
+  "name": "Edit Document Title",
+  "description": "Edits the title of a specific document in Dynalist. [See the documentation](https://apidocs.dynalist.io/)",
+  "type": "action",
+  "version": "0.0.2"
+}

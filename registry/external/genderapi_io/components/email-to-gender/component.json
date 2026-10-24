@@ -1,0 +1,7 @@
+{
+  "key": "genderapi_io-email-to-gender",
+  "name": "Email to Gender",
+  "description": "Send an Email to Gender request to GenderAPI. [See the documentation](https://www.genderapi.io/api-documentation#single-email)",
+  "type": "action",
+  "version": "0.0.2"
+}

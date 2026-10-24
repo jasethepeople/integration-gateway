@@ -1,0 +1,7 @@
+{
+  "key": "surveymethods-list-email-list-code-options",
+  "name": "List Email List Code Options",
+  "description": "Retrieves available options for the Email List Code field.",
+  "type": "action",
+  "version": "0.0.1"
+}

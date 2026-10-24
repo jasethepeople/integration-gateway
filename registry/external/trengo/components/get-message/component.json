@@ -1,0 +1,7 @@
+{
+  "key": "trengo-get-message",
+  "name": "Get Message",
+  "description": "Get a message by ID. [See the documentation](https://developers.trengo.com/reference/fetch-a-message)",
+  "type": "action",
+  "version": "0.0.8"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "mailmodo-add-contact-to-list",
+  "name": "Add Contact To List",
+  "description": "Adds a contact to a list [See the docs here](https://api.salesflare.com/docs#operation/postAccountsAccount_idContacts)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "serenity_ai_hub-execute-agent",
+  "name": "Execute Agent",
+  "description": "Executes an agent by its code with the provided parameters. [See the documentation](https://docs.serenitystar.ai/docs/api/aihub/execute-agent-with-code/)",
+  "type": "action",
+  "version": "0.0.1"
+}

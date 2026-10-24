@@ -1,0 +1,7 @@
+{
+  "key": "supabase-delete-row",
+  "name": "Delete Row",
+  "description": "Deletes row(s) in a database. [See the docs here](https://supabase.com/docs/reference/javascript/delete)",
+  "type": "action",
+  "version": "0.1.6"
+}

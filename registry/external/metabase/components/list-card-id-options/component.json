@@ -1,0 +1,7 @@
+{
+  "key": "metabase-list-card-id-options",
+  "name": "List Card ID Options",
+  "description": "Retrieves available options for the Card ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "lusha-contact-enrich",
+  "name": "Enrich Contacts",
+  "description": "Enriches contacts based on provided IDs. [See the documentation](https://docs.lusha.com/apis/openapi/contact-search-and-enrich/enrichprospectingcontacts)",
+  "type": "action",
+  "version": "0.0.5"
+}

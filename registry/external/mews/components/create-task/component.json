@@ -1,0 +1,7 @@
+{
+  "key": "mews-create-task",
+  "name": "Create New Task",
+  "description": "Create a new task in Mews. [See the documentation](https://mews-systems.gitbook.io/connector-api/operations/tasks#add-task)",
+  "type": "action",
+  "version": "0.0.3"
+}

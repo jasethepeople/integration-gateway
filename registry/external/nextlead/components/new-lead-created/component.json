@@ -1,0 +1,7 @@
+{
+  "key": "nextlead-new-lead-created",
+  "name": "New Lead Created",
+  "description": "Emit new event when a new lead is captured in NextLead. [See the documentation](https://dashboard.nextlead.app/en/api-documentation#created)",
+  "type": "source",
+  "version": "0.0.1"
+}

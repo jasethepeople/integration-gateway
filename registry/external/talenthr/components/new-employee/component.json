@@ -1,0 +1,7 @@
+{
+  "key": "talenthr-new-employee",
+  "name": "New Employee Created",
+  "description": "Emit new event whenever a new employee is created. [See the documentation](https://apidocs.talenthr.io/)",
+  "type": "source",
+  "version": "0.0.1"
+}

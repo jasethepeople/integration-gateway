@@ -1,0 +1,14 @@
+{
+  "app": "vitel_phone",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "vitel_phone-create-call-report",
+    "vitel_phone-initiate-call",
+    "vitel_phone-send-message"
+  ],
+  "npmImports": [
+    "xml2js"
+  ]
+}

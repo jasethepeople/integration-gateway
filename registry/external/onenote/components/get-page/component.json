@@ -1,0 +1,7 @@
+{
+  "key": "onenote-get-page",
+  "name": "Get Page",
+  "description": "Gets a page. [See the documentation](https://learn.microsoft.com/en-us/graph/api/page-get?view=graph-rest-1.0&tabs=http)",
+  "type": "action",
+  "version": "0.0.2"
+}

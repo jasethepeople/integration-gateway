@@ -1,0 +1,7 @@
+{
+  "key": "netsuite-get-sales-order",
+  "name": "Get Sales Order",
+  "description": "Retrieves a sales order by ID from NetSuite. [See the documentation](https://system.netsuite.com/help/helpcenter/en_US/APIs/REST_API_Browser/record/v1/2025.2/index.html#tag-salesOrder)",
+  "type": "action",
+  "version": "0.0.1"
+}

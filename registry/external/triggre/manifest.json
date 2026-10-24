@@ -1,0 +1,34 @@
+{
+  "app": "triggre",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "flowName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "flowData": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "triggre_application_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "application_environment": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "application_username": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "application_password": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "triggre-start-automation-flow"
+  ]
+}

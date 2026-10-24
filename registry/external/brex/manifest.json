@@ -1,0 +1,34 @@
+{
+  "app": "brex",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "brex-cancel-card",
+    "brex-create-card",
+    "brex-freeze-card",
+    "brex-get-card",
+    "brex-get-expense",
+    "brex-get-user-limit",
+    "brex-get-user",
+    "brex-invite-user",
+    "brex-list-card-accounts",
+    "brex-list-cards",
+    "brex-list-cash-accounts",
+    "brex-list-departments",
+    "brex-list-locations",
+    "brex-list-transactions-for-primary-card-account",
+    "brex-list-transactions-for-selected-cash-account",
+    "brex-list-users",
+    "brex-search-card-transactions",
+    "brex-search-expenses",
+    "brex-set-limit-for-user",
+    "brex-unfreeze-card",
+    "brex-update-card-limit",
+    "brex-new-transfer-event"
+  ],
+  "npmImports": [
+    "crypto",
+    "uuid"
+  ]
+}

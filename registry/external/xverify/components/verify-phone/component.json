@@ -1,0 +1,7 @@
+{
+  "key": "xverify-verify-phone",
+  "name": "Verify Phone",
+  "description": "Sends a phone verification request. [See the documentation](https://apidocs.xverify.com/#phone-verification-api-endpoint).",
+  "type": "action",
+  "version": "0.0.2"
+}

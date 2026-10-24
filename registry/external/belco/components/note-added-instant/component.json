@@ -1,0 +1,7 @@
+{
+  "key": "belco-note-added-instant",
+  "name": "Note Added (Instant)",
+  "description": "Emit new event for each new note added event",
+  "type": "source",
+  "version": "0.0.3"
+}

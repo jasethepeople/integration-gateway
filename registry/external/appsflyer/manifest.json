@@ -1,0 +1,19 @@
+{
+  "app": "appsflyer",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "appId": {
+      "kind": "propDefinition",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "appsflyer-get-event-types",
+    "appsflyer-get-message-fields",
+    "appsflyer-list-app-id-options",
+    "appsflyer-new-in-app-event-instant",
+    "appsflyer-new-install-instant",
+    "appsflyer-new-uninstall-instant"
+  ]
+}

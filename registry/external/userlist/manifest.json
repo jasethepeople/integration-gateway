@@ -1,0 +1,24 @@
+{
+  "app": "userlist",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "user": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "company": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "push_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "userlist-create-event",
+    "userlist-create-update-company",
+    "userlist-create-update-relationship"
+  ]
+}

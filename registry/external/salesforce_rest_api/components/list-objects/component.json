@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-list-objects",
+  "name": "List Objects",
+  "description": "List available Salesforce object types (SObjects) in the org.",
+  "type": "action",
+  "version": "0.0.4"
+}

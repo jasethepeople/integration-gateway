@@ -1,0 +1,7 @@
+{
+  "key": "surveybot-get-survey-respondent",
+  "name": "Get Survey Respondent",
+  "description": "Get a respondent for a survey from SurveyBot. [See the documentation](https://app.surveybot.io/accounts/api_use_cases)",
+  "type": "action",
+  "version": "0.0.1"
+}

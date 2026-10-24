@@ -1,0 +1,7 @@
+{
+  "key": "bigcommerce-custom-events",
+  "name": "New Custom Events",
+  "description": "Emit new custom webhook event",
+  "type": "source",
+  "version": "0.0.2"
+}

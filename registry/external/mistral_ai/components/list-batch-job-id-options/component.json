@@ -1,0 +1,7 @@
+{
+  "key": "mistral_ai-list-batch-job-id-options",
+  "name": "List Batch Job ID Options",
+  "description": "Retrieves available options for the Batch Job ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

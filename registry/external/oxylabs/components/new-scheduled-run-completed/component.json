@@ -1,0 +1,7 @@
+{
+  "key": "oxylabs-new-scheduled-run-completed",
+  "name": "New Scheduled Run Completed",
+  "description": "Emit new event when a new scheduled run is completed. [See the documentation](https://developers.oxylabs.io/scraping-solutions/web-scraper-api/features/scheduler#get-runs-information)",
+  "type": "source",
+  "version": "0.0.2"
+}

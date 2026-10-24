@@ -1,0 +1,7 @@
+{
+  "key": "hubspot-get-user-details",
+  "name": "Get User Details",
+  "description": "Get details about the current authenticated HubSpot user, including their owner ID, email, hub ID, and account info.",
+  "type": "action",
+  "version": "0.0.9"
+}

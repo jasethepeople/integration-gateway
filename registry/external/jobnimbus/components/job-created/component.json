@@ -1,0 +1,7 @@
+{
+  "key": "jobnimbus-job-created",
+  "name": "New Job Created Event",
+  "description": "Emit new events when a new job is created. [See the docs](https://documenter.getpostman.com/view/3919598/S11PpG4x#62c713fe-5d46-4fd6-9953-db49255fd5e0)",
+  "type": "source",
+  "version": "0.0.1"
+}

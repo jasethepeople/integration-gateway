@@ -1,0 +1,7 @@
+{
+  "key": "memento_database-entry-updated",
+  "name": "Entry Updated",
+  "description": "Emit new event when an entry is updated in Memento Database. [See the documentation](https://mementodatabase.docs.apiary.io/#reference/0/entries/list-entries-on-a-library)",
+  "type": "source",
+  "version": "0.0.1"
+}

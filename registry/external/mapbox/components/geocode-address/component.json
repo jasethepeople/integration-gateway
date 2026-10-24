@@ -1,0 +1,7 @@
+{
+  "key": "mapbox-geocode-address",
+  "name": "Geocode Address",
+  "description": "Retrieves the geocoded location for a given address. [See the documentation](https://docs.mapbox.com/api/search/geocoding/)",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "herobot_chatbot_marketing-create-user",
+  "name": "Create User",
+  "description": "Saves pertinent information about a new user. [See the documentation](https://my.herobot.app/api/swagger/#/Users/createNewContact)",
+  "type": "action",
+  "version": "0.0.2"
+}

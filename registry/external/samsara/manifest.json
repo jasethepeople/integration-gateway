@@ -1,0 +1,43 @@
+{
+  "app": "samsara",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "contactIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "driverId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tagIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "vehicleId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "externalIds": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "samsara-create-address",
+    "samsara-create-contact",
+    "samsara-create-route",
+    "samsara-list-contact-ids-options",
+    "samsara-list-driver-id-options",
+    "samsara-list-tag-ids-options",
+    "samsara-list-vehicle-id-options",
+    "samsara-new-document-submitted-instant",
+    "samsara-new-route-job-completion-instant",
+    "samsara-new-route-started-instant"
+  ]
+}

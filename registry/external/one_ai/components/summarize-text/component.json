@@ -1,0 +1,7 @@
+{
+  "key": "one_ai-summarize-text",
+  "name": "Summarize Text",
+  "description": "Summarize a given text. [See the documentation](https://docs.oneai.com/docs/synchronous-pipelines).",
+  "type": "action",
+  "version": "0.0.2"
+}

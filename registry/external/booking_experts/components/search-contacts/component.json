@@ -1,0 +1,7 @@
+{
+  "key": "booking_experts-search-contacts",
+  "name": "Search Contacts",
+  "description": "Search for contacts by email or phone. [See the documentation](https://developers.bookingexperts.com/reference/contact-search-first)",
+  "type": "action",
+  "version": "1.0.1"
+}

@@ -1,0 +1,36 @@
+{
+  "app": "signnow",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "documentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "documentName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "signnow-create-document-from-template",
+    "signnow-prefill-text-fields",
+    "signnow-send-field-invite",
+    "signnow-upload-document-with-tags",
+    "signnow-completed-document-instant",
+    "signnow-updated-document-instant"
+  ],
+  "npmImports": [
+    "crypto",
+    "form-data",
+    "uuid"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "app": "selzy",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "listId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "systemTemplateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "messageId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "messageContent": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "selzy-create-campaign",
+    "selzy-create-email-message",
+    "selzy-list-campaign-id-options",
+    "selzy-list-list-id-options",
+    "selzy-list-message-id-options",
+    "selzy-list-system-template-id-options",
+    "selzy-list-template-id-options",
+    "selzy-new-campaign-status-instant",
+    "selzy-new-campaign",
+    "selzy-new-subscriber-instant"
+  ]
+}

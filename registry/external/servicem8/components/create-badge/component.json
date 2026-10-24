@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-create-badge",
+  "name": "Create Badge",
+  "description": "Create a badge. [See the documentation](https://developer.servicem8.com/reference/createbadges)",
+  "type": "action",
+  "version": "0.0.2"
+}

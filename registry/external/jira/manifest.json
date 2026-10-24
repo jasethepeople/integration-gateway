@@ -1,0 +1,135 @@
+{
+  "app": "jira",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "cloudId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectID": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "issueType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "labels": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "issueIdOrKey": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "properties": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "expand": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jqlFilter": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "additionalProperties": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "transition": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fields": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "fieldId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contextId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "boardId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sprintId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "epicId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "commentId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "jira-add-attachment-to-issue",
+    "jira-add-comment-to-issue",
+    "jira-add-multiple-attachments-to-issue",
+    "jira-add-watcher-to-issue",
+    "jira-assign-issue",
+    "jira-check-issues-against-jql",
+    "jira-count-issues-using-jql",
+    "jira-create-custom-field-options-context",
+    "jira-create-future-sprint",
+    "jira-create-issue",
+    "jira-create-version",
+    "jira-delete-project",
+    "jira-download-attachment",
+    "jira-get-all-projects",
+    "jira-get-board",
+    "jira-get-cloud-id",
+    "jira-get-current-user",
+    "jira-get-issue-picker-suggestions",
+    "jira-get-issue-types",
+    "jira-get-issue",
+    "jira-get-sprint",
+    "jira-get-task",
+    "jira-get-transitions",
+    "jira-get-user",
+    "jira-get-users",
+    "jira-list-board-issues",
+    "jira-list-boards",
+    "jira-list-epic-issues",
+    "jira-list-epics",
+    "jira-list-issue-comments",
+    "jira-list-labels-options",
+    "jira-list-sprint-issues",
+    "jira-list-sprints",
+    "jira-move-issues-to-sprint",
+    "jira-search-issues-with-jql-post",
+    "jira-search-issues-with-jql",
+    "jira-transition-issue",
+    "jira-update-comment",
+    "jira-update-issue",
+    "jira-events",
+    "jira-issue-created",
+    "jira-issue-deleted",
+    "jira-issue-updated"
+  ],
+  "npmImports": [
+    "form-data",
+    "fs",
+    "path",
+    "stream",
+    "util"
+  ]
+}

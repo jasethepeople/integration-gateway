@@ -1,0 +1,7 @@
+{
+  "key": "short-list-link-options",
+  "name": "List Link Options",
+  "description": "Retrieves available options for the Link field.",
+  "type": "action",
+  "version": "0.0.1"
+}

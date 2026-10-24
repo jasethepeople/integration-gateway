@@ -1,0 +1,7 @@
+{
+  "key": "lever-add-note",
+  "name": "Add Note",
+  "description": "Adds a note to an opportunity.",
+  "type": "action",
+  "version": "0.0.2"
+}

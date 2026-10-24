@@ -1,0 +1,7 @@
+{
+  "key": "xero_accounting_api-delete-tracking-category-option",
+  "name": "Delete tracking category option",
+  "description": "Delete a tracking category option by ID [See the documentation](https://developer.xero.com/documentation/api/accounting/trackingcategories#delete-trackingcategories).",
+  "type": "action",
+  "version": "0.0.3"
+}

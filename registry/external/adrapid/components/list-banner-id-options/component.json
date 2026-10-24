@@ -1,0 +1,7 @@
+{
+  "key": "adrapid-list-banner-id-options",
+  "name": "List Banner Id Options",
+  "description": "Retrieves available options for the Banner Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

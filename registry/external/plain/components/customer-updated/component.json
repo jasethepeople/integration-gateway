@@ -1,0 +1,7 @@
+{
+  "key": "plain-customer-updated",
+  "name": "Customer Updated",
+  "description": "Emit new event when a customer is updated.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "proxycurl-lookup-email-from-linkedin-profile",
+  "name": "Look Up Email from LinkedIn Profile",
+  "description": "Lookup work email address of a LinkedIn Person Profile. If you provided a webhook in your request parameter, our application will call your webhook with the result once. Cost: 3 credit/successful request [See the documentation](https://nubela.co/proxycurl/docs#contact-api-work-email-lookup-endpoint).",
+  "type": "action",
+  "version": "0.0.3"
+}

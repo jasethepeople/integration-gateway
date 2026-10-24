@@ -1,0 +1,7 @@
+{
+  "key": "moxie-search-contacts",
+  "name": "Search Contacts",
+  "description": "Searches contacts in your workspace. [See the documentation](https://help.withmoxie.com/en/articles/8259974-search-contacts)",
+  "type": "action",
+  "version": "0.0.2"
+}

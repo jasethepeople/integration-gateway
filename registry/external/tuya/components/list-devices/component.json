@@ -1,0 +1,7 @@
+{
+  "key": "tuya-list-devices",
+  "name": "List Devices",
+  "description": "Get a list of devices associated with a home. [See the documentation](https://developer.tuya.com/en/docs/cloud/d7ee73aadb?id=Kawfjer0wkt2a)",
+  "type": "action",
+  "version": "0.0.2"
+}

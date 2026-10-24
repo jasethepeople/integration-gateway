@@ -1,0 +1,7 @@
+{
+  "key": "coda-list-columns",
+  "name": "List Columns",
+  "description": "Lists columns in a table. [See docs](https://coda.io/developers/apis/v1#operation/listColumns)",
+  "type": "action",
+  "version": "0.0.6"
+}

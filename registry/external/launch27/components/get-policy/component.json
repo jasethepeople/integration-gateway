@@ -1,0 +1,7 @@
+{
+  "key": "launch27-get-policy",
+  "name": "Get Policy",
+  "description": "Retrieves a policy. [See the documentation](https://bitbucket.org/awoo23/api-2.0/wiki/New_booking_policy)",
+  "type": "action",
+  "version": "0.0.1"
+}

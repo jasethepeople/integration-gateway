@@ -1,0 +1,47 @@
+{
+  "app": "lucca",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "leaveRequestId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "legalEntityId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "departmentId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "nationalityId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "lucca-approve-leave-request",
+    "lucca-list-department-id-options",
+    "lucca-list-leave-request-id-options",
+    "lucca-list-legal-entity-id-options",
+    "lucca-list-nationality-id-options",
+    "lucca-list-user-id-options",
+    "lucca-update-user-info",
+    "lucca-new-expense-report",
+    "lucca-new-leave-request",
+    "lucca-new-user"
+  ]
+}

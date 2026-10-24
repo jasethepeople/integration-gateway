@@ -1,0 +1,7 @@
+{
+  "key": "snowflake-insert-multiple-rows",
+  "name": "Insert Multiple Rows",
+  "description": "Insert multiple rows into a table",
+  "type": "action",
+  "version": "0.1.7"
+}

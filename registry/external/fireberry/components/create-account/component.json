@@ -1,0 +1,7 @@
+{
+  "key": "fireberry-create-account",
+  "name": "Create Account",
+  "description": "Creates a new account in Fireberry. [See the documentation](https://developers.fireberry.com/reference/create-an-account)",
+  "type": "action",
+  "version": "0.0.2"
+}

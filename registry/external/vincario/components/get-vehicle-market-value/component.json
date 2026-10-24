@@ -1,0 +1,7 @@
+{
+  "key": "vincario-get-vehicle-market-value",
+  "name": "Get Vehicle Market Value",
+  "description": "Get the market value of a vehicle. [See the documentation](https://vincario.com/api-docs/3.2/#api-endpoints)",
+  "type": "action",
+  "version": "0.0.1"
+}

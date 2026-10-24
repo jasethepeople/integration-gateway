@@ -1,0 +1,14 @@
+{
+  "app": "deployhq",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {},
+  "categories": [],
+  "components": [
+    "deployhq-deploy-complete",
+    "deployhq-deploy-failed",
+    "deployhq-deploy-started"
+  ],
+  "npmImports": [
+    "crypto"
+  ]
+}

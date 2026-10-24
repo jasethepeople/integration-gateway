@@ -1,0 +1,7 @@
+{
+  "key": "easypromos-new-user",
+  "name": "New User Registration",
+  "description": "Emit new event when a user registers in the promotion.",
+  "type": "source",
+  "version": "0.0.1"
+}

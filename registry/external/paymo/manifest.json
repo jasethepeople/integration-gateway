@@ -1,0 +1,41 @@
+{
+  "app": "paymo",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "clientId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskListId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "paymo-create-client",
+    "paymo-create-project",
+    "paymo-create-task",
+    "paymo-find-task",
+    "paymo-list-client-id-options",
+    "paymo-list-project-id-options",
+    "paymo-list-task-list-id-options",
+    "paymo-client-updated",
+    "paymo-new-client-created",
+    "paymo-new-project-created",
+    "paymo-new-task-created",
+    "paymo-project-updated"
+  ],
+  "npmImports": [
+    "crypto",
+    "uuid"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "fathom-get-recording-transcript",
+  "name": "Get Recording Transcript",
+  "description": "Get the transcript of a recording. [See the documentation](https://developers.fathom.ai/api-reference/recordings/get-transcript)",
+  "type": "action",
+  "version": "0.0.2"
+}

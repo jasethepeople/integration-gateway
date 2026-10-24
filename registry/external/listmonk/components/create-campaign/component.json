@@ -1,0 +1,7 @@
+{
+  "key": "listmonk-create-campaign",
+  "name": "Create Campaign",
+  "description": "Creates a new campaign in Listmonk. [See the documentation](https://listmonk.app/docs/apis/campaigns/#post-apicampaigns)",
+  "type": "action",
+  "version": "0.0.2"
+}

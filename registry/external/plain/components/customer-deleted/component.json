@@ -1,0 +1,7 @@
+{
+  "key": "plain-customer-deleted",
+  "name": "Customer Deleted",
+  "description": "Emit new event when a customer is deleted.",
+  "type": "source",
+  "version": "0.0.1"
+}

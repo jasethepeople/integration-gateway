@@ -1,0 +1,53 @@
+{
+  "app": "strava",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "activityId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sportType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "activityDescription": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "trainer": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "commute": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_uid": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "strava-create-activity",
+    "strava-get-activity-by-id",
+    "strava-get-activity-comments",
+    "strava-get-activity-kudoers",
+    "strava-get-activity-laps",
+    "strava-get-activity-list",
+    "strava-get-activity",
+    "strava-get-athlete-stats",
+    "strava-get-authenticated-athlete",
+    "strava-get-stats",
+    "strava-search-activities",
+    "strava-update-activity",
+    "strava-activity-created",
+    "strava-activity-deleted",
+    "strava-activity-updated",
+    "strava-custom-events"
+  ]
+}

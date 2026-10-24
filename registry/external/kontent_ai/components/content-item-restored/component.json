@@ -1,0 +1,7 @@
+{
+  "key": "kontent_ai-content-item-restored",
+  "name": "New Content Item Restored (Instant)",
+  "description": "Emit new event when a content item is retored in a specific language after deletion.",
+  "type": "source",
+  "version": "0.0.1"
+}

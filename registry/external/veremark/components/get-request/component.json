@@ -1,0 +1,7 @@
+{
+  "key": "veremark-get-request",
+  "name": "Get Background Check Request",
+  "description": "Retrieves the status and details of a background check request by its GUID.",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "wealthbox-new-note",
+  "name": "New Note",
+  "description": "Emit new event for each new note created in Wealthbox. Polls GET /notes ordered by `created_at`; the payload includes note id, content, and its linked resource. [See the documentation](https://dev.wealthbox.com/#notes-retrieve-all-notes-get)",
+  "type": "source",
+  "version": "0.0.1"
+}

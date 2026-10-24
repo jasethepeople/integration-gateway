@@ -1,0 +1,7 @@
+{
+  "key": "bingx-market-get-open-positions",
+  "name": "BingX Market Get Open Positions",
+  "description": "Get Swap Open Positions [See the documentation](https://bingx-api.github.io/docs/#/swapV2/market-api.html#Get%20Swap%20Open%20Positions).",
+  "type": "action",
+  "version": "0.0.5"
+}

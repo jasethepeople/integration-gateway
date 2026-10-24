@@ -1,0 +1,7 @@
+{
+  "key": "pointagram-add-points-to-player",
+  "name": "Add Points to Player",
+  "description": "Add points to a player. [See docs here](https://www.pointagram.com/points-score-series/)",
+  "type": "action",
+  "version": "0.0.2"
+}

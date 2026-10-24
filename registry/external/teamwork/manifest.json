@@ -1,0 +1,88 @@
+{
+  "app": "teamwork",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "page": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "tasklistId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "peopleId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "projectId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "columnId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "taskId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "companyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "content": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "priority": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "startDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dueDate": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "useDefaults": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "domain": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "teamwork-create-task",
+    "teamwork-create-user",
+    "teamwork-delete-task",
+    "teamwork-get-user",
+    "teamwork-list-company-id-options",
+    "teamwork-list-people-id-options",
+    "teamwork-list-project-tasks",
+    "teamwork-list-users",
+    "teamwork-update-task",
+    "teamwork-update-user",
+    "teamwork-new-task",
+    "teamwork-new-user-created",
+    "teamwork-task-deleted",
+    "teamwork-task-updated",
+    "teamwork-user-updated"
+  ],
+  "npmImports": [
+    "crypto",
+    "uuid"
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "app": "activecampaign",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "eventType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sources": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "automations": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "campaigns": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "contacts": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "deals": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "lists": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "segments": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "segment": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "accountName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "accountUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactEmail": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactFirstName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactLastName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contactPhone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dealTitle": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dealDescription": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dealValue": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "dealCurrency": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dealPipelineId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "status": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "fields": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "tags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "contactTags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "base_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "activecampaign-add-contact-to-automation",
+    "activecampaign-create-account",
+    "activecampaign-create-contact",
+    "activecampaign-create-deal",
+    "activecampaign-create-note",
+    "activecampaign-create-or-update-contact",
+    "activecampaign-create-tracked-event",
+    "activecampaign-find-contact",
+    "activecampaign-find-deal",
+    "activecampaign-get-all-lists",
+    "activecampaign-get-contact-by-email",
+    "activecampaign-get-contact",
+    "activecampaign-get-deal",
+    "activecampaign-get-tags-for-contact",
+    "activecampaign-list-all-contacts",
+    "activecampaign-list-campaigns",
+    "activecampaign-list-event-type-options",
+    "activecampaign-remove-tag-from-contact",
+    "activecampaign-tag-contact",
+    "activecampaign-update-deal",
+    "activecampaign-campaign-bounce",
+    "activecampaign-campaign-link-clicked",
+    "activecampaign-campaign-opened",
+    "activecampaign-campaign-starts-sending",
+    "activecampaign-contact-added-to-list",
+    "activecampaign-new-automation-webhook",
+    "activecampaign-new-campaign-unsubscribe",
+    "activecampaign-new-contact-added-to-segment",
+    "activecampaign-new-contact-note",
+    "activecampaign-new-contact-task",
+    "activecampaign-new-deal-note",
+    "activecampaign-new-deal-task",
+    "activecampaign-new-event",
+    "activecampaign-new-or-updated-account",
+    "activecampaign-new-or-updated-calendar-feed",
+    "activecampaign-new-or-updated-contact",
+    "activecampaign-new-or-updated-deal",
+    "activecampaign-updated-contact"
+  ],
+  "npmImports": [
+    "inflection"
+  ]
+}

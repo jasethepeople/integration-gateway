@@ -1,0 +1,7 @@
+{
+  "key": "slack_v2-get-channel-history",
+  "name": "Get Channel History",
+  "description": "Read the recent message history from a specific channel or direct message (DM).",
+  "type": "action",
+  "version": "0.2.12"
+}

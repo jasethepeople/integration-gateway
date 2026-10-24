@@ -1,0 +1,7 @@
+{
+  "key": "spotify-get-audio-features-for-a-track",
+  "name": "Get Audio Features for a Track",
+  "description": "Get audio feature information for a single track identified by its unique Spotify ID. [See the docs here](https://developer.spotify.com/documentation/web-api/reference/#/operations/get-audio-features).",
+  "type": "action",
+  "version": "0.1.8"
+}

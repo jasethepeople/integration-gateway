@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-delete-opportunity",
+  "name": "Delete Opportunity",
+  "description": "Delete a Salesforce opportunity.",
+  "type": "action",
+  "version": "0.3.7"
+}

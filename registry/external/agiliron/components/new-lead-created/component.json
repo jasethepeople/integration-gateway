@@ -1,0 +1,7 @@
+{
+  "key": "agiliron-new-lead-created",
+  "name": "New Lead Created",
+  "description": "Emit new event when a new lead is created in Agiliron.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "upkeep-list-team-id-options",
+  "name": "List Team Options",
+  "description": "Retrieves available options for the Team field.",
+  "type": "action",
+  "version": "0.0.1"
+}

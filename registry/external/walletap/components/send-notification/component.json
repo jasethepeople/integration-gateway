@@ -1,0 +1,7 @@
+{
+  "key": "walletap-send-notification",
+  "name": "Send Notification",
+  "description": "Sends a notification to all pass users. [See the documentation](https://walletap.io/docs/api#tag/Template/operation/sendNotification)",
+  "type": "action",
+  "version": "0.0.1"
+}

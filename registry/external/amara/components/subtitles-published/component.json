@@ -1,0 +1,7 @@
+{
+  "key": "amara-subtitles-published",
+  "name": "Subtitles Published",
+  "description": "Emit new event when subtitles have been published. [See the docs here](https://apidocs.amara.org/#video-notifications)",
+  "type": "source",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "eventee-invite-attendees",
+  "name": "Invite Attendees",
+  "description": "Invite attendees to your event in Eventee. [See the documentation](https://publiceventeeapi.docs.apiary.io/#reference/participants/invite-attendees/invite)",
+  "type": "action",
+  "version": "0.0.1"
+}

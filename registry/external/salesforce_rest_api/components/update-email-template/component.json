@@ -1,0 +1,7 @@
+{
+  "key": "salesforce_rest_api-update-email-template",
+  "name": "Update Email Template",
+  "description": "Update an existing Salesforce email template.",
+  "type": "action",
+  "version": "1.0.1"
+}

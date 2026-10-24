@@ -1,0 +1,29 @@
+{
+  "app": "google_appsheet",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "tableName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "row": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "app_id": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "google_appsheet-add-row",
+    "google_appsheet-delete-row",
+    "google_appsheet-get-rows",
+    "google_appsheet-update-row"
+  ]
+}

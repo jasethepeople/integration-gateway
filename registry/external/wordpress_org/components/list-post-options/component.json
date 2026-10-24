@@ -1,0 +1,7 @@
+{
+  "key": "wordpress_org-list-post-options",
+  "name": "List Post Options",
+  "description": "Retrieves available options for the Post field.",
+  "type": "action",
+  "version": "0.0.1"
+}

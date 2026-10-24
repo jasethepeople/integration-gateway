@@ -1,0 +1,7 @@
+{
+  "key": "helpspace-update-customer",
+  "name": "Update Customer",
+  "description": "Updates a customer's details in Helpspace. [See the documentation](https://documentation.helpspace.com/api-customers)",
+  "type": "action",
+  "version": "0.0.2"
+}

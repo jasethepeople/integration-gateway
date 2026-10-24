@@ -1,0 +1,40 @@
+{
+  "app": "questionpro",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "organizationId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "surveyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "emailListId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "templateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "environment": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "questionpro-create-contact",
+    "questionpro-send-survey",
+    "questionpro-new-survey-response"
+  ]
+}

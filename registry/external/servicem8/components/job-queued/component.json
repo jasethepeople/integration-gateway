@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-job-queued",
+  "name": "New Job Queued (Instant)",
+  "description": "Emit new event when a job is queued. By creating this trigger, any other `Job` triggers will stop working as ServiceM8 will replace any previous ones.",
+  "type": "source",
+  "version": "0.0.3"
+}

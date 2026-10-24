@@ -1,0 +1,33 @@
+{
+  "app": "ngrok",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "hostports": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "metadata": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "edgeId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "ngrok-create-https-edge",
+    "ngrok-delete-https-edge",
+    "ngrok-get-https-edge",
+    "ngrok-update-https-edge"
+  ]
+}

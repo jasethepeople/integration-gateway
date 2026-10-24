@@ -1,0 +1,56 @@
+{
+  "app": "shopware",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "orderId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tagIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "ruleIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "currencyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "salesChannelId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "stateId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerAddressId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "server_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "shopware-create-order",
+    "shopware-get-order",
+    "shopware-list-currency-id-options",
+    "shopware-list-customer-address-id-options",
+    "shopware-list-orders",
+    "shopware-list-payment-methods",
+    "shopware-list-rule-ids-options",
+    "shopware-list-sales-channel-id-options",
+    "shopware-list-shipping-methods",
+    "shopware-list-tag-ids-options",
+    "shopware-update-order"
+  ]
+}

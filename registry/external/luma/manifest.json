@@ -1,0 +1,45 @@
+{
+  "app": "luma",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "eventId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "paginationCursor": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "paginationLimit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "sortDirection": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "guestsJson": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxPages": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "luma-add-guests",
+    "luma-create-event",
+    "luma-get-event",
+    "luma-get-guest",
+    "luma-get-guests",
+    "luma-list-events",
+    "luma-list-ticket-types",
+    "luma-send-invites"
+  ]
+}

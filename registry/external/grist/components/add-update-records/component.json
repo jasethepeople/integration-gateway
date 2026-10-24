@@ -1,0 +1,7 @@
+{
+  "key": "grist-add-update-records",
+  "name": "Add Or Update Records",
+  "description": "Add records in a specified table or updates existing matching records. [See the documentation](https://support.getgrist.com/api/#tag/records/operation/replaceRecords)",
+  "type": "action",
+  "version": "0.0.3"
+}

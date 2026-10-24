@@ -1,0 +1,7 @@
+{
+  "key": "are_na-list-channel-slug-options",
+  "name": "List Channel Slug Options",
+  "description": "Retrieves available options for the Channel Slug field.",
+  "type": "action",
+  "version": "0.0.1"
+}

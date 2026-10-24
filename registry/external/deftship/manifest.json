@@ -1,0 +1,96 @@
+{
+  "app": "deftship",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "serviceCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fromName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fromAttention": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fromStreet": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fromCity": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fromState": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fromZip": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fromCountry": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fromTelephone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "toName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "toAttention": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "toStreet": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "toCity": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "toState": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "toZip": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "toCountry": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "toTelephone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "itemCount": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "additionalFields": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "environment": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "deftship-create-freight-order",
+    "deftship-create-parcel-order",
+    "deftship-get-insurance-rate"
+  ]
+}

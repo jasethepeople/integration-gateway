@@ -1,0 +1,35 @@
+{
+  "app": "proxy_spider",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "limit": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "countryCode": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "responseTime": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "protocols": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "proxy_spider-list-proxies",
+    "proxy_spider-ping-server"
+  ]
+}

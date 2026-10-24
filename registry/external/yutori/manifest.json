@@ -1,0 +1,36 @@
+{
+  "app": "yutori",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "query": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userTimezone": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userLocation": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "webhookUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "yutori-get-browsing-task-result",
+    "yutori-get-research-task-result",
+    "yutori-get-scout-updates",
+    "yutori-get-scout",
+    "yutori-run-browsing-task",
+    "yutori-run-research-task",
+    "yutori-new-scout-update"
+  ]
+}

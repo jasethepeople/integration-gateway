@@ -1,0 +1,7 @@
+{
+  "key": "deel-create-gp-contract",
+  "name": "Create Global Payroll Contract",
+  "description": "Create a Global Payroll (GP) contract in Deel to add an employee to your domestic payroll system.",
+  "type": "action",
+  "version": "0.0.2"
+}

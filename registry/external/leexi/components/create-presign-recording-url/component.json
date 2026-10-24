@@ -1,0 +1,7 @@
+{
+  "key": "leexi-create-presign-recording-url",
+  "name": "Create Presigned Recording URL",
+  "description": "Creates a presigned URL for uploading a call recording. [See the documentation](https://developer.leexi.ai/)",
+  "type": "action",
+  "version": "0.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "trello-new-activity",
+  "name": "New Board Activity (Instant)",
+  "description": "Emit new event for new activity on a board.",
+  "type": "source",
+  "version": "0.1.6"
+}

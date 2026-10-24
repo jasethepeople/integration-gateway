@@ -1,0 +1,47 @@
+{
+  "app": "connecteam",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "assignedUserId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "formId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "jobId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "schedulerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "shiftId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "connecteam-create-shift",
+    "connecteam-create-user",
+    "connecteam-delete-shift",
+    "connecteam-list-assigned-user-id-options",
+    "connecteam-list-form-id-options",
+    "connecteam-list-job-id-options",
+    "connecteam-list-scheduler-id-options",
+    "connecteam-new-form-submission",
+    "connecteam-new-shift-schedule",
+    "connecteam-new-user"
+  ]
+}

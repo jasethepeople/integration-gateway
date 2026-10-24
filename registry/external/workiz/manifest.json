@@ -1,0 +1,21 @@
+{
+  "app": "workiz",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "workiz-create-job",
+    "workiz-create-lead",
+    "workiz-new-job-created",
+    "workiz-new-lead-created"
+  ]
+}

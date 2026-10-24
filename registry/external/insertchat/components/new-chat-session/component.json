@@ -1,0 +1,7 @@
+{
+  "key": "insertchat-new-chat-session",
+  "name": "New Chat Session",
+  "description": "Emit new event when a new chat session is initiated.",
+  "type": "source",
+  "version": "0.0.1"
+}

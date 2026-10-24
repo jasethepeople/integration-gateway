@@ -1,0 +1,7 @@
+{
+  "key": "v7_go-create-project",
+  "name": "Create Project",
+  "description": "Initiates the creation of a new project with a unique project identifier. [See the documentation](https://docs.go.v7labs.com/reference/project-create)",
+  "type": "action",
+  "version": "0.0.2"
+}

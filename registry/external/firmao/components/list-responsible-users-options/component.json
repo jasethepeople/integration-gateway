@@ -1,0 +1,7 @@
+{
+  "key": "firmao-list-responsible-users-options",
+  "name": "List Responsible Users Options",
+  "description": "Retrieves available options for the Responsible Users field.",
+  "type": "action",
+  "version": "0.0.1"
+}

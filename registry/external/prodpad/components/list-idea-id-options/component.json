@@ -1,0 +1,7 @@
+{
+  "key": "prodpad-list-idea-id-options",
+  "name": "List Idea ID Options",
+  "description": "Retrieves available options for the Idea ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "buddee-list-time-registration-type-id-options",
+  "name": "List Time Registration Type ID Options",
+  "description": "Retrieves available options for the Time Registration Type ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

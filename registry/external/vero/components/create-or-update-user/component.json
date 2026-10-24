@@ -1,0 +1,7 @@
+{
+  "key": "vero-create-or-update-user",
+  "name": "Create or Update User",
+  "description": "This endpoint creates a new user profile if the user doesn't exist yet. Otherwise, the user profile is updated based on the properties provided. [See the documentation](https://developers.getvero.com/track-api-reference/#/operations/identify)",
+  "type": "action",
+  "version": "0.0.3"
+}

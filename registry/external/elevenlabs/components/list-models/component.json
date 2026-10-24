@@ -1,0 +1,7 @@
+{
+  "key": "elevenlabs-list-models",
+  "name": "Get Models",
+  "description": "Gets a list of available models. [See the documentation](https://docs.elevenlabs.io/api-reference/models-get)",
+  "type": "action",
+  "version": "0.0.5"
+}

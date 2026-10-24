@@ -1,0 +1,48 @@
+{
+  "app": "postnl",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "barcode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerCode": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "customerNumber": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "referenceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "detail": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "language": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxDays": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "customer_code": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "postnl-get-status-by-barcode",
+    "postnl-get-status-by-reference",
+    "postnl-list-customer-code-options"
+  ]
+}

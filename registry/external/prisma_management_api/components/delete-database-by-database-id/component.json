@@ -1,0 +1,7 @@
+{
+  "key": "prisma_management_api-delete-database-by-database-id",
+  "name": "Delete Database by Database ID",
+  "description": "Delete a specific database by Database ID via Prisma Management API. This action is irreversible. [See docs here](https://www.prisma.io/docs/postgres/introduction/management-api)",
+  "type": "action",
+  "version": "1.0.2"
+}

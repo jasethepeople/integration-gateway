@@ -1,0 +1,7 @@
+{
+  "key": "pipeline-find-deal",
+  "name": "Find Deal",
+  "description": "Find an existing deal in your Pipeline account. [See the docs here](https://app.pipelinecrm.com/api/docs#tag/Deals/paths/~1deals/get)",
+  "type": "action",
+  "version": "0.0.2"
+}

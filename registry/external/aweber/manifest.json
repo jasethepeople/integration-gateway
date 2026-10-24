@@ -1,0 +1,66 @@
+{
+  "app": "aweber",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "wsStart": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "wsSize": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "max": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "subscriberName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "subscriberTags": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "accountId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "listId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "listSelfLink": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "integrations": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "segmentSelfLink": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "email": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "aweber-add-subscriber",
+    "aweber-create-broadcast",
+    "aweber-create-or-update-subscriber",
+    "aweber-get-accounts",
+    "aweber-get-lists",
+    "aweber-get-subscribers",
+    "aweber-update-subscriber",
+    "aweber-new-broadcast-event",
+    "aweber-subscriber-added"
+  ]
+}

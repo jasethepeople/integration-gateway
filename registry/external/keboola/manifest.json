@@ -1,0 +1,31 @@
+{
+  "app": "keboola",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "bucketId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tableId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "stack_endpoint": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "keboola-get-bucket-detail",
+    "keboola-get-table-detail",
+    "keboola-retrieve-bucket-tables",
+    "keboola-retrieve-buckets",
+    "keboola-update-bucket",
+    "keboola-update-table-name"
+  ]
+}

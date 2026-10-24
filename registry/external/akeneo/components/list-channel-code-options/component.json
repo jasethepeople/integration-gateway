@@ -1,0 +1,7 @@
+{
+  "key": "akeneo-list-channel-code-options",
+  "name": "List Channel Code Options",
+  "description": "Retrieves available options for the Channel Code field.",
+  "type": "action",
+  "version": "0.0.1"
+}

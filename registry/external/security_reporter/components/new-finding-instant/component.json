@@ -1,0 +1,7 @@
+{
+  "key": "security_reporter-new-finding-instant",
+  "name": "New Finding Created (Instant)",
+  "description": "Emit new event when a finding is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

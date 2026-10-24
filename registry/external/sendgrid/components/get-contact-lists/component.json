@@ -1,0 +1,7 @@
+{
+  "key": "sendgrid-get-contact-lists",
+  "name": "Get Contact Lists",
+  "description": "Allows you to get details of your contact lists. [See the docs here](https://docs.sendgrid.com/api-reference/lists/get-all-lists)",
+  "type": "action",
+  "version": "0.0.6"
+}

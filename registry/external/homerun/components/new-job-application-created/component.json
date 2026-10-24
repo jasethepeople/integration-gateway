@@ -1,0 +1,7 @@
+{
+  "key": "homerun-new-job-application-created",
+  "name": "New Job Application Created",
+  "description": "Emit new event when a candidate submits an application for a job posting. [See the documentation](https://developers.homerun.co/#tag/Job-Applications/operation/job-applications.index).",
+  "type": "source",
+  "version": "0.0.1"
+}

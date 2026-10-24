@@ -1,0 +1,7 @@
+{
+  "key": "hedy-get-highlights-by-session",
+  "name": "Get Highlights By Session",
+  "description": "Retrieves all AI-generated highlights for a specific Hedy session.",
+  "type": "action",
+  "version": "0.0.2"
+}

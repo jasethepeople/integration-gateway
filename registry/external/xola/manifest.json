@@ -1,0 +1,94 @@
+{
+  "app": "xola",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "userId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "sellerId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "experienceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "eventId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "scheduleId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "guideId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "days": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "departure": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "times": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "priceDelta": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "repeat": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "start": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "end": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dates": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "xola-add-event-guide",
+    "xola-create-experience-schedule",
+    "xola-delete-experience-schedule",
+    "xola-list-seller-id-options",
+    "xola-list-user-id-options",
+    "xola-patch-event",
+    "xola-remove-event-guide",
+    "xola-update-experience-schedule",
+    "xola-experience-deleted-instant",
+    "xola-experience-updated-instant",
+    "xola-new-experience-created-instant",
+    "xola-new-order-created-instant",
+    "xola-new-purchase-created-instant",
+    "xola-order-deleted-instant",
+    "xola-order-updated-instant",
+    "xola-purchase-updated-instant",
+    "xola-user-updated-instant"
+  ]
+}

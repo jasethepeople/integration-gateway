@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_outlook-download-attachment",
+  "name": "Download Attachment",
+  "description": "Download an email attachment to `/tmp`.",
+  "type": "action",
+  "version": "0.1.5"
+}

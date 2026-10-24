@@ -1,0 +1,7 @@
+{
+  "key": "kustomer-get-custom-objects",
+  "name": "Get Custom Objects",
+  "description": "Gets custom objects in Kustomer. [See the documentation](https://developer.kustomer.com/kustomer-api-docs/reference/getkobjects)",
+  "type": "action",
+  "version": "0.0.2"
+}

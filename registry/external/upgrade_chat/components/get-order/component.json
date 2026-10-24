@@ -1,0 +1,7 @@
+{
+  "key": "upgrade_chat-get-order",
+  "name": "Get Order",
+  "description": "Get details of an order. [See the documentation](https://upgrade.chat/developers/documentation)",
+  "type": "action",
+  "version": "0.0.1"
+}

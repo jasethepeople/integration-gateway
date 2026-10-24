@@ -1,0 +1,7 @@
+{
+  "key": "cloudbeds-reservation-status-changed",
+  "name": "Reservation Status Changed (Instant)",
+  "description": "Emit new event when a reservation status is changed in Cloudbeds. [See the documentation](https://developers.cloudbeds.com/reference/post_postwebhook-2)",
+  "type": "source",
+  "version": "0.0.1"
+}

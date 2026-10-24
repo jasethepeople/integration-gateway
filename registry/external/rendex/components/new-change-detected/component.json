@@ -1,0 +1,7 @@
+{
+  "key": "rendex-new-change-detected",
+  "name": "New Change Detected",
+  "description": "Emit new event each time a Rendex watch run detects a change. [See the documentation](https://rendex.dev/docs/watch#how-you-get-alerted).",
+  "type": "source",
+  "version": "0.0.1"
+}

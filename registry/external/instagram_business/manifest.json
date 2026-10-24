@@ -1,0 +1,47 @@
+{
+  "app": "instagram_business",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "page": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "media": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "userMetrics": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "period": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "mediaMetrics": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "maxResults": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "oauth_uid": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "instagram_business-create-comment",
+    "instagram_business-create-post",
+    "instagram_business-get-media-insights",
+    "instagram_business-get-user-insights",
+    "instagram_business-list-media-comments",
+    "instagram_business-list-media"
+  ]
+}

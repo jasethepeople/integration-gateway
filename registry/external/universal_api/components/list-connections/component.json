@@ -1,0 +1,7 @@
+{
+  "key": "universal_api-list-connections",
+  "name": "List Connections",
+  "description": "List connections from the Platform API on Universal API. Returns an array; use the returned IDs with **Get Connection**, **Update Connection**, or **Delete Connection**. [See the documentation](https://docs.universalapi.io/reference/list-connections).",
+  "type": "action",
+  "version": "0.0.2"
+}

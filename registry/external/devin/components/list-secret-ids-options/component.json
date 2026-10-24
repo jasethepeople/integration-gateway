@@ -1,0 +1,7 @@
+{
+  "key": "devin-list-secret-ids-options",
+  "name": "List Secret IDs Options",
+  "description": "Retrieves available options for the Secret IDs field.",
+  "type": "action",
+  "version": "0.0.1"
+}

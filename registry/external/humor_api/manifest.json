@@ -1,0 +1,54 @@
+{
+  "app": "humor_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "includeTags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "excludeTags": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "maxLength": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "keywords": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "keywordsInImage": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "mediaType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "minRating": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "offset": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "number": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "humor_api-random-joke",
+    "humor_api-random-meme",
+    "humor_api-rate-joke-or-meme",
+    "humor_api-search-jokes",
+    "humor_api-search-memes"
+  ]
+}

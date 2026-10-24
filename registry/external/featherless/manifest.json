@@ -1,0 +1,64 @@
+{
+  "app": "featherless",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "model": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "maxTokens": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "minTokens": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "temperature": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "topP": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "topK": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "minP": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "presencePenalty": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "frequencyPenalty": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "repetitionPenalty": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "seed": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "stop": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "featherless-create-chat-completion",
+    "featherless-create-text-completion",
+    "featherless-list-models"
+  ]
+}

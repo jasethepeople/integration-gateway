@@ -1,0 +1,7 @@
+{
+  "key": "zoho_bigin-update-contact",
+  "name": "Update Contact",
+  "description": "Updates a contact. [See the documentation](https://www.bigin.com/developer/docs/apis/update-records.html)",
+  "type": "action",
+  "version": "0.0.2"
+}

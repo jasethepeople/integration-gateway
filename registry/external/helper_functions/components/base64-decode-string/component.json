@@ -1,0 +1,7 @@
+{
+  "key": "helper_functions-base64-decode-string",
+  "name": "Base64 Decode String",
+  "description": "Accepts a base64-encoded string, returns the decoded data as a UTF-8 string or raw binary",
+  "type": "action",
+  "version": "0.1.4"
+}

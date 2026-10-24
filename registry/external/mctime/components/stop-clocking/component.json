@@ -1,0 +1,7 @@
+{
+  "key": "mctime-stop-clocking",
+  "name": "Stop Clocking",
+  "description": "Stop an existing clocking time entry. [See the documentation](https://mctime.readme.io/reference/manipulating-clocking-times)",
+  "type": "action",
+  "version": "0.0.2"
+}

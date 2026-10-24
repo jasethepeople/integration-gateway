@@ -1,0 +1,7 @@
+{
+  "key": "aidbase-list-knowledge-item-id-options",
+  "name": "List Knowledge Item ID Options",
+  "description": "Retrieves available options for the Knowledge Item ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

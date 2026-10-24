@@ -1,0 +1,7 @@
+{
+  "key": "hubspot-list-associated-engagements",
+  "name": "List Associated Engagements",
+  "description": "List engagements (notes, tasks, calls, meetings, emails, etc.) associated with a CRM record using HubSpot's legacy Engagements v1 paged API.",
+  "type": "action",
+  "version": "0.0.7"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "pdffiller-new-filled-form-instant",
+  "name": "New Filled Form (Instant)",
+  "description": "Emit new event when a form is filled out.",
+  "type": "source",
+  "version": "0.0.3"
+}

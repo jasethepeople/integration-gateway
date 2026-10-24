@@ -1,0 +1,7 @@
+{
+  "key": "quickbooks-create-sales-receipt",
+  "name": "Create Sales Receipt",
+  "description": "Creates a sales receipt. [See the documentation](https://developer.intuit.com/app/developer/qbo/docs/api/accounting/all-entities/salesreceipt#create-a-salesreceipt)",
+  "type": "action",
+  "version": "0.0.12"
+}

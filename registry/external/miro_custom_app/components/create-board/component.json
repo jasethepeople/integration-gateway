@@ -1,0 +1,7 @@
+{
+  "key": "miro_custom_app-create-board",
+  "name": "Create Board",
+  "description": "Creates a Miro board. [See the docs](https://developers.miro.com/reference/create-board).",
+  "type": "action",
+  "version": "0.0.3"
+}

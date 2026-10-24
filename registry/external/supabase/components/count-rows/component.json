@@ -1,0 +1,7 @@
+{
+  "key": "supabase-count-rows",
+  "name": "Count Rows",
+  "description": "Counts rows in a database table, with optional filtering conditions. [See the docs here](https://supabase.com/docs/reference/javascript/select#querying-with-count-option)",
+  "type": "action",
+  "version": "0.0.2"
+}

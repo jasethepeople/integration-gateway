@@ -1,0 +1,7 @@
+{
+  "key": "acymailing-list-emails-options",
+  "name": "List Emails Options",
+  "description": "Retrieves available options for the Emails field.",
+  "type": "action",
+  "version": "0.0.1"
+}

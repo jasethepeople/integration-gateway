@@ -1,0 +1,189 @@
+/* eslint-disable camelcase */
+import { Logging } from "@google-cloud/logging";
+import { Storage } from "@google-cloud/storage";
+import { BigQuery } from "@google-cloud/bigquery";
+import { v1 as bqdt } from "@google-cloud/bigquery-data-transfer";
+import {
+  InstancesClient,
+  ZonesClient,
+} from "@google-cloud/compute";
+
+const __pdApp = {
+  type: "app",
+  app: "google_cloud",
+  propDefinitions: {
+    zoneName: {
+      label: "Zone",
+      description: "The unique zone name",
+      type: "string",
+      async options() {
+        const zones = await this.listZones();
+        return zones.map((item) => (item.name));
+      },
+    },
+    instanceName: {
+      label: "Instance Name",
+      description: "The unique instance name",
+      type: "string",
+      async options({ zone }) {
+        if (!zone) { return []; }
+        const instances = await this.listVmInstancesByZone(zone);
+        return instances.map((item) => (item.name));
+      },
+    },
+    bucketName: {
+      label: "Bucket Name",
+      description: "The unique bucket name",
+      type: "string",
+      async options() {
+        const [
+          resp,
+        ] = await this.storageClient().getBuckets();
+        return resp.map((bucket) => bucket.id);
+      },
+    },
+    fileNames: {
+      label: "fileName",
+      description: "File names to be selected in GCS bucket",
+      type: "string[]",
+      async options({
+        bucketName,
+        prevContext,
+      }) {
+        const prevToken = prevContext.nextToken ?? {
+          autoPaginate: false,
+        };
+        const bucket = this.storageClient().bucket(bucketName);
+        const [
+          files,
+          nextToken,
+        ] = await bucket.getFiles(prevToken);
+        return prevToken ?
+          {
+            options: files.map((file) => file.name),
+            context: {
+              nextToken,
+            },
+          } :
+          [];
+      },
+    },
+    datasetId: {
+      type: "string",
+      label: "Dataset ID",
+      description: "The BigQuery dataset against which queries will be executed",
+      async options({ page }) {
+        if (page) {
+          return [];
+        }
+
+        const client = this.getBigQueryClient();
+        const [
+          datasets,
+        ] = await client.getDatasets();
+        return datasets.map(({ id }) => id);
+      },
+    },
+    tableId: {
+      type: "string",
+      label: "Table Name",
+      description: "The name of the table to watch for new rows",
+      async options({
+        page, datasetId,
+      }) {
+        if (page) {
+          return [];
+        }
+
+        const client = this
+          .getBigQueryClient()
+          .dataset(datasetId);
+        const [
+          tables,
+        ] = await client.getTables();
+        return tables.map(({ id }) => id);
+      },
+    },
+  },
+  methods: {
+    authKeyJson() {
+      const keyJson = JSON.parse(this.$auth.key_json);
+      // Keys pasted with escaped newlines ("\\n") fail OpenSSL decoding
+      if (keyJson.private_key) {
+        keyJson.private_key = keyJson.private_key.replace(/\\n/g, "\n");
+      }
+      return keyJson;
+    },
+    sdkParams() {
+      const {
+        project_id: projectId,
+        client_email,
+        private_key,
+      } = this.authKeyJson();
+      const credentials = {
+        client_email,
+        private_key,
+      };
+      return {
+        credentials,
+        projectId,
+      };
+    },
+    bigQueryDataTransferClient() {
+      return new bqdt.DataTransferServiceClient(this.sdkParams());
+    },
+    loggingClient() {
+      return new Logging(this.sdkParams());
+    },
+    storageClient() {
+      return new Storage(this.sdkParams());
+    },
+    _zonesClient() {
+      return new ZonesClient(this.sdkParams());
+    },
+    _instancesClient() {
+      return new InstancesClient(this.sdkParams());
+    },
+    async listZones() {
+      const [
+        zones,
+      ] = await this._zonesClient().list({
+        project: this.sdkParams().projectId,
+      });
+      return zones;
+    },
+    async listVmInstancesByZone(zone) {
+      const [
+        instances,
+      ] = await this._instancesClient().list({
+        project: this.sdkParams().projectId,
+        zone,
+      });
+      return instances;
+    },
+    async switchInstanceBootStatus({
+      zone, instance, status,
+    }) {
+      const [
+        response,
+      ] = await this._instancesClient()[status]({
+        project: this.sdkParams().projectId,
+        zone,
+        instance,
+      });
+      return response.latestResponse;
+    },
+    getBigQueryClient() {
+      const credentials = this.authKeyJson();
+      const { project_id: projectId } = credentials;
+      return new BigQuery({
+        credentials,
+        projectId,
+      });
+    },
+  },
+};
+
+export default __pdApp;
+import { __pdBindAuth as __pdBind } from "../_platform-shim.mjs";
+__pdBind(__pdApp, "google_cloud");

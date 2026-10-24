@@ -1,0 +1,7 @@
+{
+  "key": "ascora-create-or-update-customer",
+  "name": "Create or Update Customer",
+  "description": "Creates or updates a customer in the Ascora system. [See the documentation](https://www.ascora.com.au/Assets/Guides/AscoraApiGuide.pdf)",
+  "type": "action",
+  "version": "0.0.1"
+}

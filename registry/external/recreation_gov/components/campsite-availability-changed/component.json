@@ -1,0 +1,7 @@
+{
+  "key": "recreation_gov-campsite-availability-changed",
+  "name": "New Campsite Availability Changed Event",
+  "description": "Emit new events when selected campsite's availability is changed. [See the documentation](https://ridb.recreation.gov/docs#/Campsites/getCampsite)",
+  "type": "source",
+  "version": "0.0.1"
+}

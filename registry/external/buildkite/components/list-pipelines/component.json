@@ -1,0 +1,7 @@
+{
+  "key": "buildkite-list-pipelines",
+  "name": "List Pipelines",
+  "description": "Returns a list of an organization's pipelines. [See the documentation](https://buildkite.com/docs/apis/rest-api/pipelines#list-pipelines)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,34 @@
+{
+  "app": "seven",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "subaccounts": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "number": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "to": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "seven-get-analytics",
+    "seven-list-subaccounts-options",
+    "seven-lookup-cnam",
+    "seven-lookup-format",
+    "seven-lookup-hlr",
+    "seven-make-tts-call",
+    "seven-send-sms",
+    "seven-new-incoming-call-instant",
+    "seven-new-incoming-sms-instant"
+  ]
+}

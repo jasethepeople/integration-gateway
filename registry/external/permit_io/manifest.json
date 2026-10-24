@@ -1,0 +1,38 @@
+{
+  "app": "permit_io",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "projId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "envId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "role": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "user": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tenant": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "permit_io-assign-role",
+    "permit_io-create-relationship-tuple",
+    "permit_io-create-tenant",
+    "permit_io-list-proj-id-options",
+    "permit_io-remove-role"
+  ]
+}

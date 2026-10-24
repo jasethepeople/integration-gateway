@@ -1,0 +1,7 @@
+{
+  "key": "pipedream-get-component-from-global-registry",
+  "name": "Get Component From Global Registry",
+  "description": "Get details for a component from the Pipedream global registry. [See the documentation](https://pipedream.com/docs/rest-api/api-reference/components/get-a-component-from-the-global-registry)",
+  "type": "action",
+  "version": "0.0.1"
+}

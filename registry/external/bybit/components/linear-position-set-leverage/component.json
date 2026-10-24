@@ -1,0 +1,7 @@
+{
+  "key": "bybit-linear-position-set-leverage",
+  "name": "ByBit Linear Position Set Leverage",
+  "description": "Set Leverage [reference](https://bybit-exchange.github.io/docs/futuresV2/linear/#t-setleverage)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,24 @@
+{
+  "app": "parsera",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "proxyCountry": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "attributes": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "parsera-extract",
+    "parsera-list-proxy-country-options",
+    "parsera-parse"
+  ]
+}

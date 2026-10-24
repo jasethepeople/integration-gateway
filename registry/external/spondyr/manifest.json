@@ -1,0 +1,28 @@
+{
+  "app": "spondyr",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "eventType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "transactionType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "app_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "spondyr-create-spondyr",
+    "spondyr-list-transaction-type-options",
+    "spondyr-spondyr-processed"
+  ]
+}

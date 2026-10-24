@@ -1,0 +1,7 @@
+{
+  "key": "miro_custom_app-get-board",
+  "name": "Get Board",
+  "description": "Returns a Miro board. [See the docs](https://developers.miro.com/reference/get-specific-board).",
+  "type": "action",
+  "version": "0.0.3"
+}

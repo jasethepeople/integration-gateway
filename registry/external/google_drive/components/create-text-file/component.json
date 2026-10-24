@@ -1,0 +1,7 @@
+{
+  "key": "google_drive-create-text-file",
+  "name": "Create Text File",
+  "description": "Create a new Google Doc from text content in Google Drive.",
+  "type": "action",
+  "version": "0.0.9"
+}

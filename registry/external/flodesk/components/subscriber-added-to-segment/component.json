@@ -1,0 +1,7 @@
+{
+  "key": "flodesk-subscriber-added-to-segment",
+  "name": "Subscriber Added To Segment",
+  "description": "Emit new event when a subscriber is added to a segment in Flodesk. [See the documentation](https://developers.flodesk.com/#tag/webhook-event/operation/subscriber.added_to_segment)",
+  "type": "source",
+  "version": "0.0.1"
+}

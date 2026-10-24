@@ -1,0 +1,7 @@
+{
+  "key": "the_official_board-search-company-org-chart-id",
+  "name": "Search Company Org Chart ID",
+  "description": "Search for company org chart identifier. [See the documentation](https://rest.theofficialboard.com/rest/api/doc/#/Companies/get_company_search)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "slack_v2-send-block-kit-message",
+  "name": "Build and Send a Block Kit Message",
+  "description": "Configure custom blocks and send to a channel, group, or user.",
+  "type": "action",
+  "version": "1.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "search_api-list-locations",
+  "name": "List Locations",
+  "description": "List the Google locations supported for geo-targeting. [See the documentation](https://www.searchapi.io/docs/locations-api)",
+  "type": "action",
+  "version": "0.0.2"
+}

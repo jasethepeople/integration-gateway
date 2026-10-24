@@ -1,0 +1,7 @@
+{
+  "key": "winston_ai-detect-ai-content",
+  "name": "Detect AI-Generated Content",
+  "description": "Investigates whether AI-generated content is present within the given text. [See the documentation](https://docs.gowinston.ai/api-reference/predict/post)",
+  "type": "action",
+  "version": "0.0.2"
+}

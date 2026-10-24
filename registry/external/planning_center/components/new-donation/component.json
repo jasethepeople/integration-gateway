@@ -1,0 +1,7 @@
+{
+  "key": "planning_center-new-donation",
+  "name": "New Donation Received",
+  "description": "Emit new event when a donation is received. [See the documentation](https://developer.planning.center/docs/#/apps/giving/2019-10-18/vertices/donation)",
+  "type": "source",
+  "version": "0.0.1"
+}

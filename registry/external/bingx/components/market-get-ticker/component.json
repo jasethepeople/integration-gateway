@@ -1,0 +1,7 @@
+{
+  "key": "bingx-market-get-ticker",
+  "name": "BingX Market Get Ticker",
+  "description": "Get Ticker [See the documentation](https://bingx-api.github.io/docs/#/swapV2/market-api.html#Get%20Ticker).",
+  "type": "action",
+  "version": "0.0.5"
+}

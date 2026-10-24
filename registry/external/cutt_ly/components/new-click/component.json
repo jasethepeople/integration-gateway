@@ -1,0 +1,7 @@
+{
+  "key": "cutt_ly-new-click",
+  "name": "New Click",
+  "description": "Emit new event each time a shortened URL receives a new click.",
+  "type": "source",
+  "version": "0.0.1"
+}

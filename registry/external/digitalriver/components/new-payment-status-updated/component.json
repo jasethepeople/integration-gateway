@@ -1,0 +1,7 @@
+{
+  "key": "digitalriver-new-payment-status-updated",
+  "name": "New Payment Status Updated (Instant)",
+  "description": "Emit new event each time the payment status of an order is updated in Digital River.",
+  "type": "source",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "expedy-list-printer-uid-options",
+  "name": "List Printer UID Options",
+  "description": "Retrieves available options for the Printer UID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

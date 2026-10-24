@@ -1,0 +1,7 @@
+{
+  "key": "homerun-list-job-application-id-options",
+  "name": "List Job Application ID Options",
+  "description": "Retrieves available options for the Job Application ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

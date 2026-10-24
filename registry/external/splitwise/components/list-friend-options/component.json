@@ -1,0 +1,7 @@
+{
+  "key": "splitwise-list-friend-options",
+  "name": "List Friend Options",
+  "description": "Retrieves available options for the Friend field.",
+  "type": "action",
+  "version": "0.0.1"
+}

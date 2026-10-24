@@ -1,0 +1,53 @@
+{
+  "app": "klipfolio",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "format": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "connector": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "refreshInterval": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endpointUrl": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "method": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "datasourceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "additionalProperties": {
+      "kind": "propDefinition",
+      "type": "object"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "klipfolio-create-datasource",
+    "klipfolio-delete-datasource",
+    "klipfolio-list-datasource-id-options",
+    "klipfolio-update-datasource"
+  ]
+}

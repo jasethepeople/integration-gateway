@@ -1,0 +1,7 @@
+{
+  "key": "google_photos-share-album",
+  "name": "Share Album",
+  "description": "Sets an album shareable. Returns a share token and url. [See the documentation](https://developers.google.com/photos/library/guides/share-media#sharing-album)",
+  "type": "action",
+  "version": "0.0.3"
+}

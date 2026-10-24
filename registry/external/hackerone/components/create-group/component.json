@@ -1,0 +1,7 @@
+{
+  "key": "hackerone-create-group",
+  "name": "Create Group",
+  "description": "Create a new organization group. [See the documentation](https://api.hackerone.com/customer-resources/?javascript#organizations-create-group)",
+  "type": "action",
+  "version": "0.0.2"
+}

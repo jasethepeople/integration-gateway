@@ -1,0 +1,7 @@
+{
+  "key": "dear-new-authorized-purchase-order",
+  "name": "New Authorized Purchase Order",
+  "description": "Emit new event when a purchase order is created and authorized",
+  "type": "source",
+  "version": "0.0.1"
+}

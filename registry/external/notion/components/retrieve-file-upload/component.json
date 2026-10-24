@@ -1,0 +1,7 @@
+{
+  "key": "notion-retrieve-file-upload",
+  "name": "Retrieve File Upload",
+  "description": "Use this action to retrieve a file upload. [See the documentation](https://developers.notion.com/reference/retrieve-a-file-upload)",
+  "type": "action",
+  "version": "0.0.12"
+}

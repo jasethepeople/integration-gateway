@@ -1,0 +1,45 @@
+{
+  "app": "weaviate",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "className": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "properties": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "multiTenancyEnabled": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "vectorIndexType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "classId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cluster_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "weaviate-create-class",
+    "weaviate-delete-class",
+    "weaviate-get-schema",
+    "weaviate-list-class-id-options"
+  ]
+}

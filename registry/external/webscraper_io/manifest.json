@@ -1,0 +1,22 @@
+{
+  "app": "webscraper_io",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "sitemapId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "webscraper_io-create-scraping-job",
+    "webscraper_io-create-sitemap",
+    "webscraper_io-get-scraping-jobs",
+    "webscraper_io-list-sitemap-id-options",
+    "webscraper_io-new-scraping-completed"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "key": "wise-get-balance",
+  "name": "Get Balance",
+  "description": "Get a balance. [See docs here](https://api-docs.wise.com/api-reference/balance#get)",
+  "type": "action",
+  "version": "0.0.5"
+}

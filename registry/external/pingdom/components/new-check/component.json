@@ -1,0 +1,7 @@
+{
+  "key": "pingdom-new-check",
+  "name": "New Check Created",
+  "description": "Emit new event when a new check is added in Pingdom. [See the documentation](https://www.pingdom.com/resources/api)",
+  "type": "source",
+  "version": "0.0.1"
+}

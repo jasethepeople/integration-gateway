@@ -1,0 +1,7 @@
+{
+  "key": "lever-list-archive-reasons",
+  "name": "List Archive Reasons",
+  "description": "Returns all archive reasons configured in the Lever account.",
+  "type": "action",
+  "version": "0.0.3"
+}

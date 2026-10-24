@@ -1,0 +1,7 @@
+{
+  "key": "taggun-extract-data-from-url",
+  "name": "Extract Data from URL",
+  "description": "Provide a URL for a receipt or invoice to extract clear and basic data. [See the documentation](https://developers.taggun.io/reference/url-simple)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "riskadvisor-new-client-created",
+  "name": "New Client Created",
+  "description": "Emit new event each time a new client is created in RiskAdvisor. [See the documentation](https://api.riskadvisor.insure/clients#list-all-clients)",
+  "type": "source",
+  "version": "0.0.1"
+}

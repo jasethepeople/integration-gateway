@@ -1,0 +1,7 @@
+{
+  "key": "kustomer-updated-customer-instant",
+  "name": "Updated Customer (Instant)",
+  "description": "Emit new event when an existing customer's details are updated in Kustomer.",
+  "type": "source",
+  "version": "0.0.2"
+}

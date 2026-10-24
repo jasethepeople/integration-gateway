@@ -1,0 +1,7 @@
+{
+  "key": "slack_v2-list-channels",
+  "name": "List Channels",
+  "description": "Return a list of channels in a workspace.",
+  "type": "action",
+  "version": "1.0.3"
+}

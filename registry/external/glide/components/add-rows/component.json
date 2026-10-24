@@ -1,0 +1,7 @@
+{
+  "key": "glide-add-rows",
+  "name": "Add Rows to Table",
+  "description": "Add new rows to a specified table. [See the documentation](https://apidocs.glideapps.com/api-reference/v2/tables/post-table-rows)",
+  "type": "action",
+  "version": "0.0.1"
+}

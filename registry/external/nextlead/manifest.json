@@ -1,0 +1,21 @@
+{
+  "app": "nextlead",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "api_url": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "nextlead-search-leads",
+    "nextlead-new-lead-added-to-list",
+    "nextlead-new-lead-created",
+    "nextlead-new-lead-updated"
+  ]
+}

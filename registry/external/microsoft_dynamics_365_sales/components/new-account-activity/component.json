@@ -1,0 +1,7 @@
+{
+  "key": "microsoft_dynamics_365_sales-new-account-activity",
+  "name": "New Account Activity",
+  "description": "Emit new event when a new task or activity is created for an account.",
+  "type": "source",
+  "version": "0.0.4"
+}

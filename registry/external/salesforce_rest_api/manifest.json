@@ -1,0 +1,116 @@
+{
+  "app": "salesforce_rest_api",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "objectType": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "recordId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "field": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "fieldsToObtain": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "yourinstance": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "instance_url": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "salesforce_rest_api-add-contact-to-campaign",
+    "salesforce_rest_api-add-lead-to-campaign",
+    "salesforce_rest_api-convert-soap-xml-to-json",
+    "salesforce_rest_api-create-account",
+    "salesforce_rest_api-create-accounts-batch",
+    "salesforce_rest_api-create-attachment",
+    "salesforce_rest_api-create-campaign",
+    "salesforce_rest_api-create-case",
+    "salesforce_rest_api-create-casecomment",
+    "salesforce_rest_api-create-contact",
+    "salesforce_rest_api-create-content-note",
+    "salesforce_rest_api-create-crm-record",
+    "salesforce_rest_api-create-event",
+    "salesforce_rest_api-create-lead",
+    "salesforce_rest_api-create-note",
+    "salesforce_rest_api-create-opportunities-batch",
+    "salesforce_rest_api-create-opportunity",
+    "salesforce_rest_api-create-record",
+    "salesforce_rest_api-create-task",
+    "salesforce_rest_api-create-user",
+    "salesforce_rest_api-delete-crm-record",
+    "salesforce_rest_api-delete-note",
+    "salesforce_rest_api-delete-opportunity",
+    "salesforce_rest_api-delete-record",
+    "salesforce_rest_api-describe-object",
+    "salesforce_rest_api-find-records",
+    "salesforce_rest_api-get-case",
+    "salesforce_rest_api-get-current-user",
+    "salesforce_rest_api-get-knowledge-articles",
+    "salesforce_rest_api-get-knowledge-data-category-groups",
+    "salesforce_rest_api-get-record-by-id",
+    "salesforce_rest_api-get-related-records",
+    "salesforce_rest_api-get-user-info",
+    "salesforce_rest_api-get-user",
+    "salesforce_rest_api-insert-blob-data",
+    "salesforce_rest_api-list-case-comments",
+    "salesforce_rest_api-list-case-feed-items",
+    "salesforce_rest_api-list-cases",
+    "salesforce_rest_api-list-email-messages",
+    "salesforce_rest_api-list-email-templates",
+    "salesforce_rest_api-list-knowledge-articles",
+    "salesforce_rest_api-list-object-fields",
+    "salesforce_rest_api-list-objects",
+    "salesforce_rest_api-post-feed-to-chatter",
+    "salesforce_rest_api-search-string",
+    "salesforce_rest_api-send-email",
+    "salesforce_rest_api-soql-query",
+    "salesforce_rest_api-soql-search",
+    "salesforce_rest_api-sosl-search",
+    "salesforce_rest_api-text-search",
+    "salesforce_rest_api-update-account",
+    "salesforce_rest_api-update-accounts-batch",
+    "salesforce_rest_api-update-contact",
+    "salesforce_rest_api-update-content-note",
+    "salesforce_rest_api-update-crm-record",
+    "salesforce_rest_api-update-email-template",
+    "salesforce_rest_api-update-note",
+    "salesforce_rest_api-update-opportunities-batch",
+    "salesforce_rest_api-update-opportunity",
+    "salesforce_rest_api-update-record",
+    "salesforce_rest_api-upsert-record",
+    "salesforce_rest_api-case-updated-instant",
+    "salesforce_rest_api-email-template-updated-instant",
+    "salesforce_rest_api-knowledge-article-updated-instant",
+    "salesforce_rest_api-new-case-instant",
+    "salesforce_rest_api-new-email-template-instant",
+    "salesforce_rest_api-new-feed-comment",
+    "salesforce_rest_api-new-feed-item",
+    "salesforce_rest_api-new-knowledge-article-instant",
+    "salesforce_rest_api-new-outbound-message",
+    "salesforce_rest_api-new-record-instant",
+    "salesforce_rest_api-record-deleted-instant",
+    "salesforce_rest_api-record-updated-instant"
+  ],
+  "npmImports": [
+    "fast-xml-parser",
+    "lodash",
+    "salesforce-webhooks",
+    "uuid"
+  ]
+}

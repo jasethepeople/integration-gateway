@@ -1,0 +1,7 @@
+{
+  "key": "unisender-new-planned-campaign",
+  "name": "New Planned Campaign (Instant)",
+  "description": "Emit new event when a new campaign is scheduled to be launched.",
+  "type": "source",
+  "version": "0.0.3"
+}

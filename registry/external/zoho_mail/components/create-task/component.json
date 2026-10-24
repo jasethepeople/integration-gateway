@@ -1,0 +1,7 @@
+{
+  "key": "zoho_mail-create-task",
+  "name": "Create Task",
+  "description": "Creates a new task. [See the docs here](https://www.zoho.com/mail/help/api/post-add-new-task.html)",
+  "type": "action",
+  "version": "0.0.3"
+}

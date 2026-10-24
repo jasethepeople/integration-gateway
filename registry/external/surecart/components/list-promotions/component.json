@@ -1,0 +1,7 @@
+{
+  "key": "surecart-list-promotions",
+  "name": "List Promotions",
+  "description": "Return a list of promotions. [See the documentation](https://developer.surecart.com/api-reference/promotions/list)",
+  "type": "action",
+  "version": "0.0.1"
+}

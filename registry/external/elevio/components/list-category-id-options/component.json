@@ -1,0 +1,7 @@
+{
+  "key": "elevio-list-category-id-options",
+  "name": "List Category ID Options",
+  "description": "Retrieves available options for the Category ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

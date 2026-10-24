@@ -1,0 +1,7 @@
+{
+  "key": "kwtsms-list-sender-id-options",
+  "name": "List Sender ID Options",
+  "description": "Retrieves available options for the Sender ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

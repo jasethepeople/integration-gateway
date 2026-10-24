@@ -1,0 +1,7 @@
+{
+  "key": "dear-new-product",
+  "name": "New Product",
+  "description": "Emit new event when a product is created",
+  "type": "source",
+  "version": "0.0.4"
+}

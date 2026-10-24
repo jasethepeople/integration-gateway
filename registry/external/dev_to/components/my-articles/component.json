@@ -1,0 +1,7 @@
+{
+  "key": "dev_to-my-articles",
+  "name": "New my article",
+  "description": "Emit new event for each new article published on your Dev.to account",
+  "type": "source",
+  "version": "0.0.3"
+}

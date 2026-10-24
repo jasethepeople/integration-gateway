@@ -1,0 +1,7 @@
+{
+  "key": "buildkite-get-build",
+  "name": "Get Build",
+  "description": "Returns the details for a single build, including its jobs. [See the documentation](https://buildkite.com/docs/apis/rest-api/builds#get-a-build)",
+  "type": "action",
+  "version": "0.0.1"
+}

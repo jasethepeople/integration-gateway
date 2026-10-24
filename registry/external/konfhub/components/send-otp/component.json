@@ -1,0 +1,7 @@
+{
+  "key": "konfhub-send-otp",
+  "name": "Send OTP",
+  "description": "Send a one-time password (OTP) to a user. [See the documentation](https://docs.konfhub.com/#api-Referral-Registration-Send_OTP)",
+  "type": "action",
+  "version": "0.0.2"
+}

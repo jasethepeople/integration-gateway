@@ -1,0 +1,58 @@
+{
+  "app": "clockwork_recruiting",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "companyId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "personId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "regionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "tagNames": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "tagIds": {
+      "kind": "propDefinition",
+      "type": "string[]"
+    },
+    "firm_name": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "firm_service_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_secret": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "clockwork_recruiting-add-person-address",
+    "clockwork_recruiting-add-person-email",
+    "clockwork_recruiting-add-person-linkedin",
+    "clockwork_recruiting-add-person-phone-number",
+    "clockwork_recruiting-add-person-position",
+    "clockwork_recruiting-add-person-tag",
+    "clockwork_recruiting-create-person",
+    "clockwork_recruiting-list-company-id-options",
+    "clockwork_recruiting-list-person-id-options",
+    "clockwork_recruiting-list-region-id-options",
+    "clockwork_recruiting-list-tag-ids-options",
+    "clockwork_recruiting-list-tag-names-options",
+    "clockwork_recruiting-candidate-status-change"
+  ]
+}

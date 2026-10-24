@@ -1,0 +1,7 @@
+{
+  "key": "servicem8-get-staff",
+  "name": "Get Staff",
+  "description": "Get a staff member by UUID. [See the documentation](https://developer.servicem8.com/reference/getstaffmembers)",
+  "type": "action",
+  "version": "0.0.1"
+}

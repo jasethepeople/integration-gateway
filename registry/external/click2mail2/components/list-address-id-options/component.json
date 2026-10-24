@@ -1,0 +1,7 @@
+{
+  "key": "click2mail2-list-address-id-options",
+  "name": "List Address Id Options",
+  "description": "Retrieves available options for the Address Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

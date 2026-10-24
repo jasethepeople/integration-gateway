@@ -1,0 +1,7 @@
+{
+  "key": "sunshine_conversations-post-text-message",
+  "name": "Post Text Message",
+  "description": "Post a text message, optionally with action buttons. [See the documentation](https://developer.zendesk.com/api-reference/conversations/#tag/Messages/operation/PostMessage)",
+  "type": "action",
+  "version": "0.0.4"
+}

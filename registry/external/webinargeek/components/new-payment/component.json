@@ -1,0 +1,7 @@
+{
+  "key": "webinargeek-new-payment",
+  "name": "New Payment",
+  "description": "Emit new event on each new payment.",
+  "type": "source",
+  "version": "0.0.3"
+}

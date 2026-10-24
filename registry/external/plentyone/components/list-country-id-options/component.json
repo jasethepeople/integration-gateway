@@ -1,0 +1,7 @@
+{
+  "key": "plentyone-list-country-id-options",
+  "name": "List Country ID Options",
+  "description": "Retrieves available options for the Country ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

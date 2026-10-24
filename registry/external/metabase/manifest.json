@@ -1,0 +1,40 @@
+{
+  "app": "metabase",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "databaseId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "collectionId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "dashboardId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "cardId": {
+      "kind": "propDefinition",
+      "type": "integer"
+    },
+    "server_address": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "metabase-create-dashboard",
+    "metabase-export-query-with-format",
+    "metabase-get-dashboard",
+    "metabase-get-database",
+    "metabase-list-card-id-options",
+    "metabase-list-collection-id-options",
+    "metabase-run-query"
+  ]
+}

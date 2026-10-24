@@ -1,0 +1,7 @@
+{
+  "key": "clear_books-new-transaction-created",
+  "name": "New Transaction Created",
+  "description": "Emit new event when a new transaction is created.",
+  "type": "source",
+  "version": "0.0.1"
+}

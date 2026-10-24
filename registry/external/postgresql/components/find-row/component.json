@@ -1,0 +1,7 @@
+{
+  "key": "postgresql-find-row",
+  "name": "Find Row",
+  "description": "Finds a row in a table via a lookup column. [See the documentation](https://node-postgres.com/features/queries)",
+  "type": "action",
+  "version": "2.0.9"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "ups-void-shipment",
+  "name": "Void Shipment",
+  "description": "Void a shipment. [See the documentation](https://developer.ups.com/tag/Shipping?loc=en_US#operation/VoidShipment)",
+  "type": "action",
+  "version": "0.0.2"
+}

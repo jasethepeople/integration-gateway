@@ -1,0 +1,7 @@
+{
+  "key": "sellercloud-list-view-options",
+  "name": "List Catalog View Options",
+  "description": "Retrieves available options for the Catalog View field.",
+  "type": "action",
+  "version": "0.0.1"
+}

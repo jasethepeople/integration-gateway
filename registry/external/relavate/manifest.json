@@ -1,0 +1,29 @@
+{
+  "app": "relavate",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "campaignId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_secret": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "partner_type": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "relavate-create-affiliate-lead",
+    "relavate-list-campaign-id-options",
+    "relavate-new-affiliate-campaign",
+    "relavate-new-referral"
+  ]
+}

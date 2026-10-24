@@ -1,0 +1,7 @@
+{
+  "key": "komos-get-task-run",
+  "name": "Get Task Run",
+  "description": "Fetch the latest status and outputs for a Komos task run. [See the documentation](https://docs.komos.ai/api-reference/task-runs/get)",
+  "type": "action",
+  "version": "0.0.1"
+}

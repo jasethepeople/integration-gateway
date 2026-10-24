@@ -1,0 +1,7 @@
+{
+  "key": "nethunt_crm-record-updated",
+  "name": "Record Updated",
+  "description": "Emit new event for every updated record. [See docs here](https://nethunt.com/integration-api#updated-record)",
+  "type": "source",
+  "version": "0.0.1"
+}

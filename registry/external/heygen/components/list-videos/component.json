@@ -1,0 +1,7 @@
+{
+  "key": "heygen-list-videos",
+  "name": "List Videos",
+  "description": "Retrieves a page of videos, newest first, with their `id`, `status`, and download links once completed. Use this to find a video ID for other actions. Note: the HeyGen v3 list may not include videos created in the HeyGen web app (it can return an empty list even when such videos exist); if you already know a video's ID, use **Retrieve Video Link** instead, which works for any video ID. Pass **Fields** to keep the response small. If `has_more` is true, pass `next_token` as the Token to get the next page. Example: Title `Onboarding` with Limit `2` and Fields `[\"id\", \"title\", \"status\"]` returns `{\"data\": [{\"id\": \"v_123\", \"title\": \"Onboarding intro\", \"status\": \"completed\"}, {\"id\": \"v_122\", \"title\": \"Onboarding part 2\", \"status\": \"processing\"}], \"has_more\": true, \"next_token\": \"abc\"}`. [See the documentation](https://developers.heygen.com/reference/list-videos)",
+  "type": "action",
+  "version": "0.0.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "survicate-list-respondent-responses",
+  "name": "List Respondent Responses",
+  "description": "Retrieves a list of survey responses provided by a specific respondent identified by their unique identifier (UUID). [See the documentation](https://developers.survicate.com/data-export/respondent/)",
+  "type": "action",
+  "version": "0.0.1"
+}

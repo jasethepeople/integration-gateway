@@ -1,0 +1,7 @@
+{
+  "key": "deftship-create-freight-order",
+  "name": "Create Freight Order",
+  "description": "Initializes a new parcel order within Deftship. [See the documentation](https://developer.deftship.com/freight/create-order)",
+  "type": "action",
+  "version": "0.0.2"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "zoho_bugtracker-create-bug",
+  "name": "Create Bug",
+  "description": "Create a new bug [See the documentation](https://projects.zoho.com/api-docs#issues#create-an-issue)",
+  "type": "action",
+  "version": "0.2.1"
+}

@@ -1,0 +1,7 @@
+{
+  "key": "algolia-browse-records",
+  "name": "Browse Records",
+  "description": "Browse for records in the given index. [See the documentation](https://www.algolia.com/doc/libraries/javascript/v5/methods/search/browse/?client=javascript).",
+  "type": "action",
+  "version": "0.0.2"
+}

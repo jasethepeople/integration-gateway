@@ -1,0 +1,33 @@
+{
+  "app": "langbase",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "memoryName": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "org_api_key": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "org": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "langbase-create-memory",
+    "langbase-delete-memory",
+    "langbase-list-memories",
+    "langbase-list-memory-name-options"
+  ]
+}

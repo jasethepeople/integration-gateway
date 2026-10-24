@@ -1,0 +1,7 @@
+{
+  "key": "justcall-send-text-message",
+  "name": "Send Text Message",
+  "description": "Send a text from your JustCall SMS capabled number. [See the documentation](https://justcall.io/developer-docs/#send_text)",
+  "type": "action",
+  "version": "0.1.0"
+}

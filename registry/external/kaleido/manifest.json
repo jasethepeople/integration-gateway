@@ -1,0 +1,61 @@
+{
+  "app": "kaleido",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "name": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "description": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "type": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "manageEnvs": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "inviteOrgs": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "createSigners": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "multipleMembers": {
+      "kind": "propDefinition",
+      "type": "boolean"
+    },
+    "consortiaId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "contractId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "membershipId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "endpoint": {
+      "kind": "authKey",
+      "type": "string"
+    },
+    "api_keys": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "kaleido-create-contract",
+    "kaleido-create-membership",
+    "kaleido-delete-contract",
+    "kaleido-list-consortia-id-options"
+  ]
+}

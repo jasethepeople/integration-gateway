@@ -1,0 +1,7 @@
+{
+  "key": "rocket_chat-list-username-options",
+  "name": "List Recipient Username Options",
+  "description": "Retrieves available options for the Recipient Username field.",
+  "type": "action",
+  "version": "0.0.1"
+}

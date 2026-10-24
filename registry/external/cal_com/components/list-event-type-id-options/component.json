@@ -1,0 +1,7 @@
+{
+  "key": "cal_com-list-event-type-id-options",
+  "name": "List Event Type ID Options",
+  "description": "Retrieves available options for the Event Type ID field.",
+  "type": "action",
+  "version": "0.0.1"
+}

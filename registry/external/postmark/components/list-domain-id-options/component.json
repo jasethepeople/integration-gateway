@@ -1,0 +1,7 @@
+{
+  "key": "postmark-list-domain-id-options",
+  "name": "List Domain Id Options",
+  "description": "Retrieves available options for the Domain Id field.",
+  "type": "action",
+  "version": "0.0.1"
+}

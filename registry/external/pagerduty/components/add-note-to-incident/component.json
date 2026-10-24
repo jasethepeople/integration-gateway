@@ -1,0 +1,7 @@
+{
+  "key": "pagerduty-add-note-to-incident",
+  "name": "Add Note to Incident",
+  "description": "Add a text note to an incident. Notes are visible in the incident timeline and useful for documenting investigation steps, resolution details, or handoff notes.",
+  "type": "action",
+  "version": "0.0.2"
+}

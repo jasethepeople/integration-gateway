@@ -1,0 +1,33 @@
+{
+  "app": "timeular",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "activityId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "integration": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "spaceId": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "oauth_access_token": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "timeular-create-activity",
+    "timeular-create-tag",
+    "timeular-create-time-entry",
+    "timeular-list-activity-id-options",
+    "timeular-list-integration-options",
+    "timeular-list-space-id-options",
+    "timeular-time-entry-created",
+    "timeular-time-entry-updated"
+  ]
+}

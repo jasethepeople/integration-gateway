@@ -1,0 +1,7 @@
+{
+  "key": "patreon-new-pledge-received",
+  "name": "New Pledge Received",
+  "description": "Emit new event for each received pledge",
+  "type": "source",
+  "version": "0.0.2"
+}

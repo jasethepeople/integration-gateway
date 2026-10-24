@@ -1,0 +1,7 @@
+{
+  "key": "hubspot-retrieve-quotes",
+  "name": "Retrieve Quotes",
+  "description": "Fetch one quote by ID or list quotes with CRM v3 pagination (`after`, `limit`).",
+  "type": "action",
+  "version": "0.0.7"
+}

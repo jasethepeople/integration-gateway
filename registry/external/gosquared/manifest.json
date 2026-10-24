@@ -1,0 +1,23 @@
+{
+  "app": "gosquared",
+  "mirroredFrom": "PipedreamHQ/pipedream",
+  "auth": {
+    "siteToken": {
+      "kind": "propDefinition",
+      "type": "string"
+    },
+    "api_key": {
+      "kind": "authKey",
+      "type": "string"
+    }
+  },
+  "categories": [],
+  "components": [
+    "gosquared-create-update-profile",
+    "gosquared-list-site-token-options",
+    "gosquared-track-event",
+    "gosquared-new-live-chat-message-instant",
+    "gosquared-new-traffic-spike-instant",
+    "gosquared-new-user-exited-smart-group-instant"
+  ]
+}

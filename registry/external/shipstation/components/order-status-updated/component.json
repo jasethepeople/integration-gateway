@@ -1,0 +1,7 @@
+{
+  "key": "shipstation-order-status-updated",
+  "name": "Order Status Updated",
+  "description": "Emit new event when an order's status changes. [See the documentation](https://docs.shipstation.com/apis/shipstation-v1/openapi/orders/list_orders)",
+  "type": "source",
+  "version": "0.0.1"
+}
