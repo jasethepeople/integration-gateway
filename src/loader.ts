@@ -20,6 +20,22 @@ export interface RegistryScan {
   scannedDirs: number;
 }
 
+/** Run `fn` over `items` with at most `limit` in flight at once. */
+async function mapLimit<T>(
+  items: T[],
+  limit: number,
+  fn: (item: T) => Promise<void>,
+): Promise<void> {
+  let next = 0;
+  const workers = Array.from({ length: Math.min(limit, items.length) }, async () => {
+    while (next < items.length) {
+      const item = items[next++];
+      await fn(item);
+    }
+  });
+  await Promise.all(workers);
+}
+
 /**
  * Loader: resolves "external/<app>/<component>" / "native/<module>/<component>"
  * targets to modules under registry/ and dynamic-imports them (cached).
@@ -164,8 +180,15 @@ export class Loader {
         });
         return; // don't descend into a component dir
       }
-      await Promise.all(
-        entries.filter((e) => e.isDirectory()).map((e) => walk(path.join(dir, e.name))),
+      // Bounded fan-out: an unbounded Promise.all over ~15k component
+      // dirs exhausts file descriptors, and readComponentJson's
+      // catch-all would silently drop most component.json metadata
+      // (entries fell back to bare keys with no name/type). 64 in
+      // flight stays far under typical fd limits.
+      await mapLimit(
+        entries.filter((e) => e.isDirectory()),
+        64,
+        (e) => walk(path.join(dir, e.name)),
       );
     };
 

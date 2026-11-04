@@ -5,6 +5,8 @@ import { readFile, readdir, stat } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import { Router } from './router.js';
 import { Loader } from './loader.js';
+import { A2aAgent } from './a2a/agent.js';
+import { buildAppCards, buildGatewayCard } from './a2a/card.js';
 import type { RegistryScan } from './loader.js';
 import type { ExecuteRequest } from './types.js';
 
@@ -37,6 +39,7 @@ function sendJson(res: http.ServerResponse, status: number, body: unknown): void
 export function createServer(rootDir: string = ROOT_DIR): http.Server {
   const router = new Router(rootDir);
   const loader = new Loader(rootDir);
+  const a2a = new A2aAgent({ execute: (r) => router.execute(r) });
 
   // Lazy singletons: the registry walk is expensive with ~14k components,
   // so each result is computed once per server and reused.
@@ -132,6 +135,42 @@ export function createServer(rootDir: string = ROOT_DIR): http.Server {
         }
         const response = await router.execute((body ?? {}) as ExecuteRequest);
         return sendJson(res, response.ok ? 200 : 200, response);
+      }
+
+      // --- A2A (Agent2Agent) front door -----------------------------------
+      // Discovery: the gateway card and per-app cards. Invocation: a
+      // single JSON-RPC endpoint that delegates to Router.execute.
+      const a2aBase = `http://${req.headers.host ?? 'localhost'}/a2a`;
+      if (req.method === 'GET' && url.pathname === '/.well-known/agent-card.json') {
+        const scan = await getRegistryScan();
+        return sendJson(res, 200, buildGatewayCard(scan, a2aBase));
+      }
+
+      const appCardMatch =
+        req.method === 'GET' && url.pathname.match(/^\/a2a\/apps\/([^/]+)\/agent-card\.json$/);
+      if (appCardMatch) {
+        const app = decodeURIComponent(appCardMatch[1]);
+        const scan = await getRegistryScan();
+        const card = buildAppCards(scan, () => a2aBase).get(app);
+        if (!card) {
+          return sendJson(res, 404, { ok: false, error: { message: `no agent card for app "${app}"` } });
+        }
+        return sendJson(res, 200, card);
+      }
+
+      if (req.method === 'POST' && url.pathname === '/a2a') {
+        let body: unknown;
+        try {
+          body = await readBody(req);
+        } catch {
+          return sendJson(res, 200, {
+            jsonrpc: '2.0',
+            id: null,
+            error: { code: -32700, message: 'Parse error: request body is not valid JSON.' },
+          });
+        }
+        const rpcResponse = await a2a.handleRpc(body);
+        return sendJson(res, 200, rpcResponse);
       }
 
       return sendJson(res, 404, { ok: false, error: { message: 'not found' } });
